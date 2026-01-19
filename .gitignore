@@ -1,0 +1,168 @@
+# Law School Monorepo - .gitignore
+
+#############################################
+# LARGE FILES - DO NOT COMMIT
+#############################################
+
+# PDFs and large documents (too big for Git)
+*.pdf
+*.PDF
+
+# Audio/Video files
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.mov
+*.avi
+
+# PowerPoint (can be large)
+*.ppt
+*.pptx
+
+# Large archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+#############################################
+# GENERATED/PROCESSED FILES
+#############################################
+
+# OCR outputs (regenerate as needed)
+*_extracted.txt
+*_ocr.txt
+
+# Temporary processing files
+*.tmp
+*_temp.*
+*_draft.*
+
+#############################################
+# SYSTEM/OS FILES
+#############################################
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+Icon\r
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Google Drive sync files
+.tmp.driveupload/
+*.tmp.driveupload
+
+#############################################
+# IDE/EDITOR FILES
+#############################################
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Claude AI context
+.claude/
+
+# Obsidian
+.obsidian/
+
+# JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+#############################################
+# PYTHON
+#############################################
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+#############################################
+# NODE/JAVASCRIPT (if using)
+#############################################
+
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm/
+
+#############################################
+# SENSITIVE/PERSONAL DATA
+#############################################
+
+# Private notes that shouldn't be public
+*_PRIVATE.md
+*_personal.md
+*_sensitive.*
+
+# Credentials
+*.key
+*.pem
+secrets.json
+.env
+.env.local
+
+# Medical/personal info
+Medical/
+*_medical.*
+
+#############################################
+# EXCEPTIONS - DO COMMIT THESE
+#############################################
+
+# Do commit sample/example PDFs if small
+!*_example.pdf
+!*_sample.pdf
+
+# Do commit small reference documents
+!TEMPLATES/*.pdf
+
+# Do commit README and documentation
+!README.md
+!*.md
+
+#############################################
+# BACKUP/ARCHIVE FILES
+#############################################
+
+# Old versions (use Git history instead)
+*.bak
+*.backup
+*_old.*
+*_v[0-9].*
+*_2025*.backup
+
+# Archive folders (unless needed)
+**/old/
+**/backup/
+**/deprecated/
