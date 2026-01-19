@@ -1,0 +1,28 @@
+class_number,date,day_of_week,title,assignment_path,prep_path,mpc_sections
+1,2026-01-20,Tuesday,Criminal Law and Justice,Admin/Syllabus/Assignments/2026-01-20_class01.md,Lectures/Prep/Packets/2026-01-20_class01_prep.md,
+2,2026-01-22,Thursday,Actus Reus,Admin/Syllabus/Assignments/2026-01-22_class02.md,Lectures/Prep/Packets/2026-01-22_class02_prep.md,1.13(2);1.13(9);2.01
+3,2026-01-23,Friday,Mens Rea,Admin/Syllabus/Assignments/2026-01-23_class03.md,Lectures/Prep/Packets/2026-01-23_class03_prep.md,2.02
+4,2026-01-27,Tuesday,Intended Killings,Admin/Syllabus/Assignments/2026-01-27_class04.md,Lectures/Prep/Packets/2026-01-27_class04_prep.md,210
+5,2026-01-29,Thursday,Heat of Passion,Admin/Syllabus/Assignments/2026-01-29_class05.md,Lectures/Prep/Packets/2026-01-29_class05_prep.md,
+6,2026-01-30,Friday,Felony Murder,Admin/Syllabus/Assignments/2026-01-30_class06.md,Lectures/Prep/Packets/2026-01-30_class06_prep.md,
+7,2026-02-03,Tuesday,Unintended Killings,Admin/Syllabus/Assignments/2026-02-03_class07.md,
+8,2026-02-05,Thursday,Issues of Causation,Admin/Syllabus/Assignments/2026-02-05_class08.md,Lectures/Prep/Packets/2026-02-05_class08_prep.md,2.03
+9,2026-02-10,Tuesday,Reminder re. the Criminal Justice Process,Admin/Syllabus/Assignments/2026-02-10_class09.md,
+10,2026-02-12,Thursday,"Michel Foucault, Discipline and Punish",Admin/Syllabus/Assignments/2026-02-12_class10.md,
+11,2026-02-13,Friday,The Function of Punishment,Admin/Syllabus/Assignments/2026-02-13_class11.md,
+12,2026-02-17,Tuesday,Introduction and the Requirement of Legality,Admin/Syllabus/Assignments/2026-02-17_class12.md,
+13,2026-02-19,Thursday,Vagueness and Broken Windows,Admin/Syllabus/Assignments/2026-02-19_class13.md,
+14,2026-02-24,Tuesday,Death Penalty Jurisprudence,Admin/Syllabus/Assignments/2026-02-24_class14.md,
+15,2026-02-26,Thursday,Race and the Death Penalty,Admin/Syllabus/Assignments/2026-02-26_class15.md,
+16,2026-03-03,Tuesday,Introduction and Early Law,Admin/Syllabus/Assignments/2026-03-03_class16.md,
+17,2026-03-05,Thursday,Contemporary Law,Admin/Syllabus/Assignments/2026-03-05_class17.md,
+18,2026-03-10,Tuesday,What We Criminalize: Criminal Law and Morality,Admin/Syllabus/Assignments/2026-03-10_class18.md,
+19,2026-03-31,Tuesday,Self-defense,Admin/Syllabus/Assignments/2026-03-31_class19.md,3.04;3.09
+20,2026-04-02,Thursday,Duty to Retreat,Admin/Syllabus/Assignments/2026-04-02_class20.md,
+21,2026-04-07,Tuesday,Law Enforcement Use of Lethal Force,Admin/Syllabus/Assignments/2026-04-07_class21.md,3.07;3.09
+22,2026-04-09,Thursday,Necessity and Duress,Admin/Syllabus/Assignments/2026-04-09_class22.md,3.02;2.09
+23,2026-04-14,Tuesday,Insanity,Admin/Syllabus/Assignments/2026-04-14_class23.md,4.01
+24,2026-04-16,Thursday,Attempt,Admin/Syllabus/Assignments/2026-04-16_class24.md,5.01
+25,2026-04-21,Tuesday,Complicity,Admin/Syllabus/Assignments/2026-04-21_class25.md,2.06
+26,2026-04-23,Thursday,Conspiracy,Admin/Syllabus/Assignments/2026-04-23_class26.md,5.03
+27,2026-04-28,Tuesday,CONCLUSION,Admin/Syllabus/Assignments/2026-04-28_class27.md,

@@ -166,3 +166,10 @@ Medical/
 **/old/
 **/backup/
 **/deprecated/
+
+# Archived courses with their own git repos
+Archive/law-school-Harvey-weekly-collab/
+Archive/law-school-civpro/
+Archive/law-school-conlaw/
+Archive/law-school-contracts/
+Archive/law-school-lpw-1/

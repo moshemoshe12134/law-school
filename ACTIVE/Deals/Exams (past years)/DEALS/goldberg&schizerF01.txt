@@ -1,0 +1,361 @@
+Deals Exam Fall 2001
+DEALS – L6107
+PROFESSORS GOLDBERG AND SCHIZER
+This exam consists of two questions. You must answer both. Answers should
+be typed. There is a constraint on the length of your answers. The maximum for
+EACH question is four (4) pages (double-spaced). That translates to a 1,000 word
+maximum for each question. If you believe that you need some additional facts,
+state what your assumptions are and why they are reasonable.
+Question 1.
+Our client, Cinematique, is contemplating entering into an arrangement in which
+it will be the exclusive French distributor for five films for the American distribution
+company, Spectacular Pictures. The proposal is that it simultaneously enter into five
+separate and identical (except for the name of the picture and the director and cast
+members) contracts; the critical terms of the proposed contracts are attached.
+Write a memo describing possible pitfalls in this arrangement and
+recommending possible improvements. Remember that improvements are not
+necessarily free. To get a particular term that is favorable to your client might
+require giving up something of value.
+Some background will be helpful. Spectacular Pictures distributes about 30 films
+per year in the United States. It produces ten to fifteen itself. Before the film is made it
+usually sells the distribution rights for exhibition outside the United States. The
+Cinematique proposed contracts are an example of this practice. The normal pattern of
+release is for a film to be distributed first in the United States and European exhibition to
+begin about two to four months later. Spectacular does not make films with production
+budgets in the Titanic range–over $100 million. Rather, its films’ budgets typically range
+from $5 million to $50 million. Foreign sales have become increasingly important to
+American film distributors. Foreign box office revenues are now well above domestic
+revenues. France is one of the major markets for American films, accounting for 5-7% of
+revenues. Distribution is not exhibition. That is, the exhibitors own the theaters; the
+distributors enter into contracts with exhibitors, determine national marketing strategies
+and negotiate contracts with the theaters. While some distributors are vertically
+integrated into exhibition, Cinematique is not.
+Note: we have edited out a number of terms not essential to the question. However, do
+not assume that every term presented here deserves comment.
+
+DISTRIBUTION LICENSE AGREEMENT
+This Distribution License Agreement (‘this Agreement’) is made as of December
+15, 2001 between SPECTACULAR PICTURES, New York, NY (“Licensor”) and
+the party named below (“Distributor”), as follows:
+1. DISTRIBUTOR:
+
+Cinematique, INC.
+
+2. PICT UR E:
+
+“T he Ro ad to Kabul”
+
+3. TERRITORY:
+
+France and French-speaking countries
+
+4. TERM:
+Commencing on execution of this Agreement, and
+contin uing fifteen (15 ) yea rs a fter theatrical release of the P ictu re in th e T erritory.
+5. MINIMUM GUAR ANTEE AND DE LIVERY: US $ Five Hundred Thousand
+Do llars ($500,000). T he Minimum Guarantee is payable 5% on signature of th is
+agreement and 95% on notice of a vailability of the Initial Materials. De livery shall
+be made no later than 45 days from Distributor’s written order. All installments of
+the Minimum Guarantee will be paid by wire transfer to the following account:
+Spectacular Pictures
+Ne w Yo rk , New York
+Acct:00000000000
+ABA#:00000000000
+6. DELIVERY: "Delivery" as used herein means delivery, at cost if not otherwise
+indicated of the following Initial Materials:
+a)1 35mm new color English-language feature print
+b)1 35mm new color English-language trailer print
+c)all available marketing and advertising material
+Distributor will have a twenty-one (21) day period to check the materials and
+accept them.
+7. AUTHORIZED LANG UAGE(S): English subtitled and/or dubbed in French.
+8. LICE NS ED RIG HT S/R ES ER VE D R IGHT S: S ubject to tim ely paym ent in full
+of the Guarantee without deduction or offset of any kind, Licensor hereby
+licenses to Distributor the exclusive theatrical distribution rights in the Picture, for
+the territory and term, in the authorized language(s) set fo rth above, and in all
+formats and systems whether now known or yet to be invented.
+9. D istributor shall not sub-distribute T heatrical D istribution R ights in Fra nce to
+the P icture without prior written approval from Licensor.
+10. DISPOSITION OF RECEIPTS:
+A. TERMS:
+Gro ss R eceipts shall be applied in the following m anner:
+• First. Distributor shall retain its 35% Theatrical Distribution Fee;
+
+• Second. Distributor shall deduct out of the remaining 65% of
+Gross Receipts its Recoupable Theatrical Distribution Expenses and the
+Minimum G uarantee:
+•Third, once the Recoupable Theatrical Distribution Expenses and
+the Minimum Guarantee are recouped, Distributor’s Theatrical Distribution
+Fee shall be increased to 50%
+•Finally, Distributor shall remit to Licensor the remaining 50% of
+the Gross Receipts.
+•Gross Receipts Calculated at Source: For the purpose of
+determining Licensor’s share of Gross Receipts, Gross Receipts shall be
+calculated at the “source.” Neither Distributor’s subsidiaries, parents,
+affiliated, subdistributors or agents may deduct or charge any fee against
+Gro ss R eceipts in calculating amounts d ue Licensor.
+B. CROSS CO LLATERALIZATION: In the determination of Licensor’s share of
+receipts hereunder, there sh all be no cros s-co llateralization b etween the Pictu re
+and any other pictures, provided that cross-collateralization among the Licensed
+Rights is hereby authorized to recoup only the Minimum G uarantee and the
+Recoupable Theatrical Distribution Expenses.
+11. MARKETING/ADVERTISING/PRINT COMMITMENTS:
+Prior to initial theatrical release, Distributor will submit to Licensor its minimum
+and m axim um marketing and advertising b udget for the relea se of the Picture
+(“Marketing/Advertising Comm itment”) as well as its maximum and minimum
+number of prints (“Print Comm itment”) that will be used for the theatrical release
+of the Picture. Any amounts expended by Distributor for theatrical marketing and
+advertising in excess of the Marketing/Advertising Comm itment, or for theatrical
+release prints in excess of the Print Comm itment, will not be deductible as
+“Distribution E xpenses” or otherwise in determining Licensor’s share of re ceipts
+hereunder unless expressly agreed to in writing by Licensor.
+12. DUBBING, SUBTITLING AND EDITIONS
+Licensor will timely provide Distributor with any dubbing, subtitling or editing
+restrictions and requirem ents, and Distributor agrees to com ply with sam e.
+Distributor may edit the Picture only to the extent necessary to meet
+governm ental censorship requirem ents, and then only subject to the afore said
+editing restrictions and requirements. Except for such editing for censorship, the
+Picture may be exhibited only in its original continuity as supplied by Licensor
+without alteration, interpolation, cut or elimin ation.
+13. RECOUPABLE DISTRIBUTION EXPENSES
+“Recoupable Distribution Expenses” means all auditable, out-of-po cket,
+customary, reasonable and necessary costs directly associated with the
+exploitation of the Specific Licensed Right, exclusive of salaries and overhead,
+actually paid by Distributor in arms-length transactions with third parties less any
+discounts, credits, rebates or similar allowances including the minimum
+Guarantee (as such term is defined in the License Agreement). In no case may
+any item be deducted more than once. For the purposes of this paragraph,
+
+“Distributor” includes Distributo r’s subsidiaries , pare nts, affiliates, sub distribu tors
+and agents.
+14. BLOCKED FUNDS
+If it is legally impossible to transmit any monies due to Licensor, then Distributor
+will immediately so notify Licensor. Distributor will then deposit such m onies in
+Licensor’s name, but at Distributor’s expense, in a suitable depository designated
+by Licensor.
+15. EXCHANGE PROVISIONS
+All payments to Licensor will be in United States dollars. All payments due
+Licensor will be computed at the prevailing exchange rate on the date due at
+Chase Manhattan Bank, N.A. For a late payment, Licensor will be entitled to the
+most favorable exchange rate between the due date and the payment date. The
+parties agree that the risk of devaluation of the United States dollar against the
+currency of the Territory will be Licensor’s sole risk, and the risk of the
+devaluation of the currency of the Territory against the United States dollar or
+other currently designated by Licensor will be Distributor’s sole risk. Distributor
+will calculate and recoup the minimum G uarantee and Distribution Expenses
+solely in the currency in the Territory. W here payment of any such item is not
+made in the currency of the Territory, it will be converted to the currency of the
+Territory for recoupment purposes using the exchange rate applicable on the
+date the item was paid.
+16. LATE PAYMENTS
+Any payment due Licensor not made by its due date will, in addition to any other
+right or remedy of Licensor, incur a finance charge at the lesser of three hundred
+basis points over the 3-month LIBOR rate (“LIBOR+3”) on the date payment was
+due or the highest applicable legal contract rate. This finance charge will accrue
+from the date the paym ent was due until it is paid in full.
+17. ACCOUNTINGS
+Allocation: If the Picture is exploited in connection with other pictures, Distributor
+may only allocate receipts and expenses among the Picture and such other
+picture in a fair, re asonable, custom ary and non-discriminatory m anner.
+Financial Records: Distributor will keep and maintain complete and accurate and
+detailed records in connection with its exercise of the Licensed Rights, including
+without limitation records of all Gross Receipts and distribution expenses.
+Sta tem ents: Distributor will render accounting statements to Licensor in English
+(and, if re quested, supporting docum entation) which set fo rth all Gro ss Re ceipts
+derived, all Recoupable Distribution Expenses paid and all exchange rates used,
+all on a country-by-country basis. Distributor will render statements quarterly
+within 45 days afte r the end of ea ch calendar quarter, or such other quarterly
+accounting periods as Licensor m ay designate. All reserves will be reasonable
+and will be liquidated on a custom ary and reasonable basis. Late paym ents will
+bear interest at the Ch ase M anhattan prim e rate plus three percentage points
+from the payment due date until payment, plus accrued interest is receive d.
+
+Au dit R ights: Continuing until three (3) years after the term, Licensor may
+examine and copy on its own or through its auditor Distributor’s financial records
+regarding the Picture on ten (10) days’ notice. The examination will be at
+Licensor’s expense unless an underpaym ent of m ore than five percent (5% ) is
+uncovered, in which case Distributor will pay the costs of the examination on
+demand.
+18. DELIVERY AND RETURN
+Distributor may only reject delivery items hereunder on grounds of technical
+quality, and not commercial or artistic grounds. Each delivery item delivered
+hereunder will be deeme d acceptable for all purposes hereunder unless
+Distributor gives Licensor written notice of rejection within ten (10) days after
+Distributor’s receipt, or access to of such item. A notice of rejection will include
+full details of the technical defects in any rejected item(s). At any time within 30
+days after receipt of notice of rejection, Licensor m ay (i) cure such de fective
+delivery by correcting the defect(s) or delivering replacement item (s) or (ii) subm it
+the issue of w hether pro per Delive ry of such item or items has been made to
+arbitration in accordance with Disputes; Remedies paragraph below. If Licensor
+seeks to cure, then the time periods set forth above fo r review and cure with
+respect to items initially delivered will be applicable to delivery of corrected and
+replaced item s as well.
+19. LICEN SOR represents that the picture is to be directed by ______. The cast
+shall include _____, ______, and _______. H owever, it reserves the right to
+replace any and all of these.
+20. DISPUTES; REMEDIES
+All disputes with regard to De livery w ill be resolve d by arbitration. T he sole
+remedy of Distributor for a failure for any reason by Licensor to deliver the
+Picture will be return of a ny portion of the minim um Guarantee previou sly paid.
+Under no circumstances will Distributor be entitled to lost profits or consequential
+damages.
+21. BEST EFFORTS/FAIR DEALING
+Distributor shall use its best efforts and skill in the distribution and exploitation of
+the Picture. Distributor will exercise its rights hereunder in a fair, reasonable,
+custom ary an d non-discriminatory m anner with respect to Licensor.
+22. REPRESENTATIONS AND W ARRANTIES
+All representations and warran ties customarily included in agreements of this
+kind are incorporated herein by reference.
+23. DEFAULT AND TERMINATION
+Default: Distributor will be in default of the License Agreement if: (i) Distributor
+fails to pay any installme nt of the Minimum Guarantee or any other am ounts
+under this or any other agreement when due; (ii) Distributor becomes insolvent or
+fails to pay its debt obligations when due; (iii) Distributor makes an assignment
+
+for the benefit of creditors, seeks relief under any bankruptcy law or similar law
+for the protection of debtors, or allows a petition of bankruptcy to be filed against
+it; or a receive r or tru stee to be appointed fo r substantially all of its assets that is
+not rem oved within thirty (30 ) days; (iv) Distributor breaches any material term,
+covenant or co ndition of this A greem ent or an y other agreement with Licensor;
+(v) a Distributor A ffiliate breaches any m aterial term, covenant or condition of th is
+or any other agreement with Licensor; or (vi) Distributor attempts to make any
+assignment, transfer, sublicense or appointment of an agent without first
+obtaining Licensor’s prior written approval. This Agreement may only be
+assigned with the prior written approval of Licensor which shall not be
+unreasonably withheld.
+No tice to D istributor: Licensor will give D istributor Notice of an y claimed defau lt.
+If the default is capable of cure, then Distributor will have ten (10) days after
+receipt of Licensor’s notice to cure a monetary default, and twenty (20) days after
+receipt of L icensor’s notice to cure a non-monetary defau lt. If the defau lt is
+incapable of cure, or if Distributor fails to cure within the time provided, then
+Licensor may proceed against Distributor for available relief, including
+term inating this or any other License Agreement retroactive to the date of de fau lt,
+suspending Delivery of the Picture(s) and declaring all unpaid amounts due
+Licensor immediately due and payable.
+24. TERMINATION OTHER THAN F OR DEF AULT
+(a)U pon notice to Distributor, Licensor m ay in its sole discretion term inate this
+Agreement upon the occurrence of any of the following events: (i) principal
+photography of the Picture has not commenced within twelve (12) months after
+the date of execution of the License Agreement (“Execution Date”), (ii) the
+Picture is not ready for delivery to Distributor within twenty-four (24) months after
+the Execution Date, (iii) Licensor abandons the Picture either prior to or after the
+commencement of principal photography; and (iv) the Picture is set up for
+production and/or distribution with, or is actually distributed in the United States
+by, an entity unrelated to Licensor and Licensor no longer has the Licensed
+Rights in the Territory.
+(b)In the event of te rmination pursuant to paragraph (a), Licensor shall return to
+Distributor such portion of the Minimum G uarantee theretofore paid to Licensor
+by Distributor; and Distributor shall return to Licensor all physical film m aterials,
+publicity materials and documents theretofore furnished by Licensor to Distributor
+in connection with the Picture. Other than the return of said portion of the
+Minimum Guarantee, Licensor shall have no obligation of an y kind whatsoever to
+Distributor, or anyone claiming through Distributor, by reason of such termination,
+except as follows: if after termination by Licensor pursuant to paragraph (a)
+Licensor or a related entity regains or continues to have all necessary rights in
+the Territory, Licensor or such related entity shall offe r to negotiate with
+Distributor with respect to the Licensed Rights in the Territory before offering
+same to any third party.
+25. ARBITATION; FORUM; CHOICE OF LAW ; OMITTED TERMS
+
+An y and all disp utes under this agreem ent shall be submitted exclusive ly to
+binding arbitration (“AFMA Arbitration”) in Los Angeles, California under the
+Rules of International Arbitration of the American Film Marketing Association
+(“AFM A A rbitration Ru les”) in effect as of the date the request for a rbitration is
+filed. Each party waives any right to adjudicate any such dispute in any other
+court or forum , except that any party m ay seek interim and equitable relief in
+accordance with the A FM A A rbitration Ru les.
+26. BINDING AGREEMENT:
+This agreement sets forth the entire understanding and agreement of the parties
+and is a binding agreement.
+
+[EXAM CONTINUES ON NEXT PAGE]
+
+Question 2 (four parts).
+Ellen Entrepreneur has an idea for developing a safer and more effective anthrax
+vaccine. To proceed, she needs $3 million dollars to rent office space and a laboratory,
+and to retain the necessary scientific talent. The risk and potential reward here are great,
+since a better vaccine would be worth a great deal, but a number of competitors are also
+trying to achieve this goal, and the first one to get a patent can be expected to capture all
+the profits. Given the risk, commercial banks are unwilling to finance the transaction. In
+the “best case” scenario, it will take five years to bring a product to market.
+However, Ellen has been approached by Irving, the manager of an investment
+fund (“the Fund”). Irving offers to provide the necessary $3 million on the following
+conditions. To begin with control rights, Irving will claim three out of four board seats,
+with the other seat going to Ellen. Irving insists on a number of covenants to limit
+Ellen’s freedom. For instance, she is not allowed to work for any other firms, she must
+seek board approval for all checks above $40,000, and she must have regular
+consultations with the Fund’s in-house science expert. The Fund’s souped-up board
+representation and covenants automatically expire after an initial public offering (i.e., a
+so-called “IPO,” or sale of stock to the public).
+Irving further proposes that Ellen will pay $15,000 for 15,000 shares of common
+stock. Ellen will receive a cash salary of $50,000 per year, plus options to buy 5000
+shares with a $1 exercise price, which will vest in five years (i.e., allowing her to
+exercise the options and sell the stock in five years). Ellen’s options “accelerate” in an
+IPO, which means that she can exercise them even if the IPO takes place within two
+years. Ellen will also be able to hire Sandra and Sid, two scientists, who will receive
+compensation packages identical to Ellen’s.
+Finally, Irving proposes that the Fund will receive 30,000 shares of convertible
+preferred stock, for which the fund will pay $100 per share (i.e., for a total of $3 million).
+These shares are “participating,” which means that, in the event of a “liquidation,” the
+Fund can claim a liquidation preference of $3 million dollars and, then, the Fund can
+claim a portion of what is left over, as if the Fund owned 30,000 shares of common stock.
+In other words, the Fund claims its liquidation preference and then “participates” as a
+common shareholder. The term “liquidation” is defined to include dissolution or
+bankruptcy of the firm, as well as sale of the stock or sale of its assets to a third party.
+However, “liquidation” does not include an IPO. In an IPO, the Fund’s convertible
+preferred stock automatically converts to 30,000 shares of common stock.
+Meanwhile, Ellen knows that her sister Irene, an Internet entrepreneur, started a
+firm three years ago. Irene’s investors also took convertible preferred stock, while Irene
+had common stock and options on common stock. As in Ellen’s deal, the investors’
+liquidation preference was $3 million and their security automatically converted to
+common stock in an IPO. Unlike in Ellen’s deal, however, in Irene’s transaction the
+preferred stock was not “participating.” Thus, in a liquidation (i.e., a bankruptcy or
+acquisition other than an IPO), Irene’s investors had to choose between claiming their $3
+
+million liquidation preference, on one hand, and claiming a share as common
+shareholders, on the other. As long as Irene’s investors did not convert their stock, they
+could claim their $3 million liquidation preference. Yet if Irene’s investors did not
+convert, they could not share in any liquidation proceeds in excess of $3 million – that is,
+they could not claim a share as a common shareholder. The only way to share in profits
+(i.e., to claim a share of any proceeds that exceeds $3 million) would be to convert; but if
+Irene’s investors were to convert, they would no longer be able to claim their $3 million
+liquidation preference.
+You are Ellen’s lawyer. She asks you the following questions, and your
+memo answering them serves as the answer to this question.
+A. Ellen wants to know why her investors are giving her a different deal than her
+sister got in 1999. Also, given the nature of Ellen’s business, how important is it that her
+investors will receive participating convertible preferred stock, instead of the classic
+convertible preferred stock that was used in her sister’s deal? As a practical matter,
+under what circumstances will this difference matter?
+B. If Ellen is successful, the investors eventually will want to cash out. There are
+two possible exit strategies: a sale of the firm to a third party; or an IPO in which the firm
+sells new shares in the public market, after which the investors will sell their stock in the
+public market. Assuming an equal price is available for the firm either way, which exit
+method is Ellen likely to prefer? Which is the investor likely to prefer? Does the use of
+participating convertible preferred, as opposed to traditional convertible preferred, affect
+your analysis?
+C. Under US tax law, there are two different kinds of options awarded as
+compensation: Incentive and nonqualified stock options (ISOs and NQOs, respectively).
+With NQOs, the executive reports, as ordinary income taxable at 39%, the profit upon
+exercising the option, and the employer is permitted a deduction for the amount of
+taxable income included by the executive. With an ISO, in contrast, the executive’s
+profit is taxed at capital gains rates (20%, assuming the relevant holding period is
+satisfied); the firm, meanwhile, is not permitted a deduction. Corporate tax rates range
+from 0% to 35%. Which is the tax efficient compensation strategy in Irene’s business,
+and why?
+D. Assume for purposes of this question only that ISOs are the preferred method
+of compensation (and no inference should be drawn here about the answer to the prior
+question). Assume also that the option granted to Ellen will be an option to buy common
+stock (and not an option to buy convertible preferred stock.) One of the conditions that
+an option must satisfy under the tax law, in order to qualify as an ISO, is the following:
+measured on the date that the option is granted, the option’s exercise price cannot be
+lower than the fair market value of the stock. Given this condition, does it help (or hurt)
+Ellen’s tax analysis – that is, on the question whether Ellen’s options will qualify as ISOs
+– for the investor to receive convertible preferred stock, instead of, say, plain vanilla
+common stock (and nothing else)? In terms of Ellen’s tax planning, does it matter if the
+
+investor’s convertible preferred stock is “participating”? You should assume that the
+investors will invest on the same date that the options are granted to the employees.
+[END OF EXAM]
+
+

@@ -1,0 +1,825 @@
+CRIMINAL LAW
+          PROFESSOR BERNARD E. HARCOURT
+                                       SPRING 2026
+                                    (LAW L6108 Section 001)
+
+Professor Bernard E. Harcourt                       TUESDAY 10:40 AM – 12:00 PM
+Corliss Lamont Professor of Law and Civil Liberties THURSDAY 10:40 AM – 12:00 PM
+JGH Suite 603                                       [THREE FRIDAYS 10:40 AM – 12:00 PM]
+Office Hours: Thursday 1:30 to 3:30 PM              CLASSROOM JGH 101
+
+Faculty Assistant                                     Teaching Assistants
+Ricardo Orlando Lombera                               Danna Burshtine dhb2143@columbia.edu
+rl3343@columbia.edu                                   Meher George mg4733@columbia.edu
+                                                      Courtney Kinsella cgk2142@columbia.edu
+                                                      Amithav Reddy abr2185@columbia.edu
+
+                                         COURSE OUTLINE
+        This course explores major problems of the criminal law and of its administration. The
+definitions of crimes and defenses will be considered in light of the purposes of punishment, the
+functions of the criminal justice system, and the role of the criminal sanction in modern society.
+Special attention will be paid to the intersection of criminal law with criminology, jurisprudence,
+and social theory.
+        This course focuses on the substantive rather than the procedural rules of criminal law. We
+will study the structure of the criminal justice system, the statutory definitions of crimes, as well
+as defenses and justifications, and the rules of complicity, conspiracy, and attempt. More
+specifically, in terms of the substantive rules of criminal law, we will explore the distinctions
+between the constitutional and statutory dimensions of the criminal law, discuss the general
+
+requirements for criminal conduct, and cover the law of specific crimes (homicide and rape). We
+will also learn about theories of justification and excuse, such as self-defense, duress, necessity,
+and the insanity defense. We will explore how criminal liability can be expanded beyond the actual
+commission of a crime to include attempts, accomplice liability, and conspiracies. We will also
+explore criminal law and punishment theory and criminology. We will read and discuss some of
+the major theoretical contributions in the area of criminal law, from critical theory, law &
+economics, and other traditions. We will also learn about actual practice— from both the
+prosecution and defense sides.
+        Criminal law is distinct from criminal procedure, whether constitutional (e.g., Fourth, Fifth,
+Sixth, Eighth, and Fourteen Amendments) or statutory (e.g., Federal Rules of Criminal Procedure).
+Thus, we will not be covering the legal rules concerning the investigation of crimes—searches and
+seizures, interrogations, right to counsel—nor the rules concerning pretrial and trial procedures.
+Those are covered in later courses called “Criminal Procedure.” Naturally, at various junctures,
+we will explore the relationship between substantive criminal law and criminal procedure. But our
+focus will be on the statutory law of crimes: what are the elements of homicide or rape? How do
+capital sentencing statutes work? This course will provide the necessary foundation for more
+advanced research in federal criminal law, white collar crime, sentencing, or capital punishment.
+
+                                           ASSIGNMENTS
+       There will be daily reading assignments.
+         The casebook for the course is Kadish, Schulhofer & Barkow, Criminal Law and Its
+Processes. You may use either the 9th edition from 2012, or the 10th edition from 2017, or the
+11th edition from 2022. Any edition is fine! The older ones are cheaper. I will provide page numbers
+for all of them. So please buy or rent or steal the least expensive one.
+       The Model Penal Code is reprinted in the Appendix of the book; read carefully any Model
+Penal Code sections referred to in the reading assignments.
+       I would also like you to please read Bryan Stevenson’s Just Mercy: A Story of Justice and
+Redemption (New York: Spiegel & Grau, 2014) and Michel Foucault’s Discipline and Punish:
+The Birth of the Prison (New York: Vintage Books, 1977). The books are on reserve in the Law
+Library and available at Book Culture and other book stores.
+        I will also make available supplementary materials (“Supp.”) on Courseworks and via links
+on the Internet, some of which are required course readings and some of which are optional.
+
+                                 GETTING READY FOR FIRST CLASS
+
+       During the winter break before the semester starts, I would like to ask you to read two
+books in preparation for our Criminal Law class. It would be wonderful if you started over the
+winter break so that it is not too overwhelming when the semester gets going.
+       The first book is Bryan Stevenson’s Just Mercy. A Story of Justice and Redemption (New
+York: Spiegel & Grau, 2014). Stevenson’s book will give you some context about the field that
+we will be studying: the criminal legal ordeal. Please pay attention to the story of Walter McMillian
+of course, who was wrongfully convicted and sentenced to death. (He was actually placed on death
+row at Holman Prison in Atmore, Alabama, as a form of pre-trial detention, if you can possibly
+believe that). But also, please pay attention to the other chapters that are dedicated to other issues
+such as the punishment of children, the treatment of women and mothers, and other chronic
+problems with our legal process. Please read Just Mercy in time for our first class on Tuesday
+morning.
+        The second book is Michel Foucault’s Discipline and Punish: The Birth of the Prison (New
+York: Vintage Books, 1977). We will be reading Foucault’s book over the course of the semester,
+but it would be good if you got a head start. The book is actually very straightforward, although
+people always say it is dense. It is a book about three periods: a before (the brutal corporal
+punishments and ordeals of the 17th and 18th centuries, like the execution of Damiens), a transition
+(the penal reformers of the Enlightenment who thought up theatres of punishment), and an after,
+the modern period (the birth of the prison and disciplinary mechanisms of punishment, like
+juvenile detention centers and penitentiaries, and the routinized timetables and orderings of
+modernity). The book is about the birth of that third style of punishing, disciplinary punishment,
+and it ends in 1840 with the opening of a famous juvenile home called Mettray. This book will be
+a point of reference throughout the course because it reveals the function of punishment: what we
+do and achieve, as a society, through the criminal legal process. For those of you who are
+unfamiliar with Foucault’s work or feel intimidated, you might want to listen to this lecture I
+delivered to explain the book to instructors in the Core program here at Columbia who teach it to
+all our undergraduates: https://youtu.be/-QJ-xMd9XsY?si=AvnMlx1SODs2J7in
+       I would also like to ask you to familiarize yourself with a death penalty case that I am
+working on. It involves a young man named David Wilson. You can read about his case and read
+the pleadings in his case here: https://cccct.law.columbia.edu/content/david-wilson-vs-jefferson-
+s-dunn. We will be discussing David Wilson’s case at various points during the semester, so it
+would be good for you to familiarize yourself with it ahead of time.
+        One final thing. If you are in New York City between now and when class starts, I would
+highly recommend going down to the Manhattan Criminal Courthouse at 100 Centre Street. (Yes,
+you know that courthouse, it is the one where President Donald Trump was tried and convicted of
+
+34 felony counts, with the marble walls and cavernous look in the news.) You can actually head
+down there any day of the week, even weekends, enter as a member of the public, and go watch
+arraignments on the first floor (after the metal detectors, it’s the AR rooms to the right in the back;
+arraignments are 9am to 1pm and 2pm to 5pm; there are also arraignments at night till 1 am, but
+during those day times there will definitely be arraignments you can watch). Or, you can head up
+to the Clerk’s Office on the 10th Floor of the courthouse, and there you will find a whiteboard with
+all the day’s trials listed on it. You can then proceed to the courtroom, silence your cellphone, and
+watch a trial. I highly recommend this. It is a true learning experience and eye opener.
+
+                                           REQUIREMENTS
+        Students are expected to read each day’s assigned material prior to class and should be
+prepared to be called upon to answer questions and/or offer comments to facilitate class discussion.
+If a student is unable to attend, that student should e-mail my assistant, Ricardo Orlando Lombera
+(rl3343@columbia.edu), by 8:00 a.m. of the class day.
+        The reading assignments on this syllabus are meant to take roughly (but only roughly) one
+day of class time to complete. We will occasionally run over, but if you prepare one assignment
+for each class day, you will never fall behind.
+       The final exam will be an in-class, open-book, no-Internet, three-hour examination.
+       Professor Harcourt will hold office hours on Thursdays from 1:30 – 3:00 p.m. Please
+contact his assistant, Ricardo Orlando Lombera (rl3343@columbia.edu), to schedule an
+appointment. Office hours are by appointment only.
+
+                                          GOING TO COURT
+
+                           As noted earlier, it is possible to go watch trials in criminal court. I
+                           would encourage you to do that if you have a free moment. If you are
+                           interested and have the time, you should head downtown to the New
+                           York County (that’s Manhattan) criminal courthouse at 100 Centre
+                           Street, near Foley Square, go through the metal detectors and security
+                           downstairs, and head up to the Clerk's Office on the 10th Floor of the
+                           courthouse. There, you will find a whiteboard with all the day’s trials
+                           listed on it. You can then proceed to the courtroom and silence your
+                           cellphone. I attach a photo of the white board in the clerk’s office here
+                           so you get an idea of what it looks like.
+
+                                             SCHEDULE
+        Most every week, we will only meet on the regular Tuesday and Thursday slots. The Friday
+slots are for make-ups. HOWEVER, on three occasions we will meet on the Friday slot (so three
+times, on January 23, January 30, and February 13, 2026) so that we get a little intense start on
+criminal law and also so that we will not have any class the week of March 23, 2026. So effectively,
+you will have 2 weeks off for Spring Break.
+      Please do keep an eye on the day/date on the syllabus so you follow all this. Thanks!
+
+                          STATEMENT REGARDING ACADEMIC INTEGRITY
+         Each student in this course is expected to abide by the Columbia University Code of
+Academic Integrity. Any work submitted by a student in this course for academic credit must be
+the student’s own work. The complete Faculty Statement on Academic Integrity can be found at:
+https://faculty-resources.law.columbia.edu/content/academic-integrity
+
+                          STATEMENT REGARDING ACADEMIC FREEDOM
+        The classroom is a space of academic freedom where every student should feel free to
+explore ideas and research with an open mind and without any constraints. There will be no
+censoring of ideas or research in our classroom or course readings, although everyone should be
+attentive not to emotionally harm, injure, or trigger any of our classmates in our discussions. I will
+not be modifying my course in any way that would restrict our free exchange of ideas. In order to
+create a free space for ideas and research, no student is allowed to tape or video other persons in
+the classroom and no one is allowed to share our classroom discussions outside of the classroom
+or on social media. Students may not share AV recordings made by CLS for purposes of
+accommodations with anyone. Any violations of this will be considered a violation of the honor
+code and will be enforced.
+
+                              CREATING A POSITIVE THINKING SPACE
+         Please be mindful of helping to create a positive thinking and working environment to
+make sure that everyone can contribute. If you are the kind of person who doesn’t talk much,
+please do speak up because it’s good training for life. If you are the kind of person who speaks
+often, try to create a space for others to share. There are usually a lot of dynamics that you should
+be aware of by now that play out in the classroom. Let’s work together to minimize their negative
+impact. This means especially being aware of the impact you are having on others’ ability to
+contribute.
+
+                      POLICY STATEMENT ABOUT ARTIFICIAL INTELLIGENCE
+        The final exam is closed to the internet and to any search engines. You will be allowed to
+use your laptop, but there will be exam software that will not allow you to search the internet. As
+a result, you will not be using artificial intelligence for the examination, and are not allowed to.
+       Given that, I recommend that you do not use artificial intelligence to summarize or digest
+your readings, or to prepare outlines. I sincerely believe you will be better prepared for the final
+examination if you do all your own work independently of artificial intelligence.
+
+                                     DISABILITY STATEMENT
+        Columbia Law School is committed to the full inclusion of students with disabilities in the
+life of the University. In accordance with Section 504 of the Rehabilitation Act of 1973, the
+Americans with Disabilities Act (ADA), and the Americans with Disabilities Act Amendments
+Act (ADAAA), CLS provides accommodations and supports to students with documented
+disabilities on an individual, case-by-case basis. To request disability accommodations for this
+course, students must first be registered with Disability Services (DS).
+       Detailed information is available online (https://health.columbia.edu/content/disability-
+services) regarding the registration process, drop-in hours schedule, documentation requirements
+and important deadlines. Please allow for at least three weeks to complete the DS registration
+process. If you have already registered with DS, please contact the CLS DS liaison: Lauren Levy,
+Associate Director of Academic Counseling and Student Support, ll3686@columbia.edu.
+
+                                   BASIC NEEDS AND SECURITY
+    Any student who faces challenges securing their basic needs and security that may affect their
+performance in this course is encouraged to contact me if you are comfortable doing so, and we
+can work with the Dean of Students to assist you in accessing resources. We are here for you.
+
+                                READING ASSIGNMENTS
+
+I.     INTRODUCTION
+Criminal law, more than any other field in your legal education, will make you confront the
+political dimension of the law and the many forms of injustice in contemporary American society.
+In Black Reconstruction in America, W.E.B. Du Bois documented how the criminal law and its
+enforcement was used, after the abolition of slavery, as the main device to recreate a social order
+of racial domination. Du Bois described convict leasing and plantation prisons as a new form of
+slavery. The history and development of the criminal law in the twentieth and twenty-first centuries
+is best understood through that lens. We will begin to explore this in the introduction to the course.
+       A. Criminal Law and Justice                            [#1 – TUESDAY, JANUARY 20, 2026]
+How do we define justice for purpose of “criminal justice”? How do you define “justice”? In our
+first class, we will ask ourselves this question and, hopefully, each one of you will come up with
+a definition of justice that will guide your learning of the criminal law this semester.
+       Readings:
+               Bryan Stevenson, Just Mercy: A Story of Justice and Redemption (New York:
+               Penguin, 2014)
+               Supp. Peter Applebome, “Alabama Releases Man Held on Death Row for Six
+               Years,” New York Times, March 3, 1993
+               Optional: Please feel free to view the 60-Minutes segment on Walter McMillian’s
+               case that is available on the EJI website here: https://eji.org/walter-mcmillian
+
+       B. Overview of the Criminal Justice Process
+We will also take an overview the criminal legal process, including arraignments, grand juries,
+through the trial and appeal.
+       Readings:
+               KSSB10          1-19    The Structure of the Criminal Justice System
+               [KSSB9          1-13]
+               [KSSB11         1-8, 67-75]
+               Supp.           “Capital Case Review Process Liebman 2000”
+               Supp.           “Capital Case Stages”
+
+               Supp.          “The Criminal Trial Process in New York State”
+
+       As you read Just Mercy, please think about these questions:
+       1. What is the fact or phenomenon in Just Mercy that you find the most unjust of all the
+          injustices? What was the moment, reading the book, that you felt most upset by what
+          was happening?
+       2. What is the idea of “just mercy” that you think Bryan Stevenson is trying to
+          communicate in his book? Is it about “mercy”? Is it about “justice”? Does the “just” in
+          the expression “just mercy” mean “simply” or is it connected to the idea of justice?
+       3. What would be your greatest criticism of the book, Just Mercy? Is there anything about
+          it that you found problematic or that you would want to resist?
+       4. How would you define “justice”? Has this book helped you to define justice for
+          yourself? Please write down your own definition of justice in one sentence. I will ask
+          you to come back to that definition over the course of the semester.
+
+II.    THE ELEMENTS OF CRIMINAL LAW
+In this first part, we will learn the basic elements—the building blocks—of the criminal law: the
+act requirement (actus reus) and the requirement regarding a mental state (mens rea). These
+elements are essential to defining crimes and they generally represent the core elements that a jury
+must find in order to return a conviction of guilt. Understanding how to mix and match elements
+is a basic tool for criminal lawyers. It is also what makes the criminal law so malleable—despite
+the universal character of “crimes.”
+Some of you may work better with visuals and graphics, others with narrative, others with laundry
+lists. Whatever works best for you, can you find a way to model how these elements go together
+in a manner that would allow you to communicate best to a jury what elements they need to find
+in order to convict or acquit? Try using a chart, a list, a drawing, words, or a paragraph—whatever
+works best for you—to start mapping out what elements are required to convict or acquit.
+Critical Legal Studies (“CLS”) was a movement in the 1970s that has been absorbed for the most
+part in ordinary legal reasoning today. It was a reiteration of American Legal Realism (1920-
+1930s), in response to a revival of positivism in law (for instance, in the Law and Economics
+movement of the 1960s). Today, most practicing lawyers are “crits,” even if they do not know
+what that means. Most lawyers, in fact all practicing lawyers worth their salt, will ply the law in
+their client’s direction. We will read excerpts from two CLS articles as a way to better understand
+how lawyers can play with the elements of criminal law. This is what creates the utter flexibility
+in the criminal law.
+
+  Readings:
+     A. Actus Reus                            [#2 – THURSDAY, JANUARY 22, 2026]
+        1. Voluntary Acts:
+        KSSB10        221-228          Martin v. State and People v. Newton
+        [KSSB9        205-212]
+        [KSSB11       248-255]
+        KSSB10        231              People v. Decina
+        [KSSB9        214-215]
+        [KSSB11       __]
+        MPC § 1.13(2); §1.13(9); and § 2.01
+        Please read Supp. Mark Kelman, “Interpretive Construction in the Substantive
+        Criminal Law,” Stanford Law Review, Vol. 33, No. 4 (April 1981)
+
+        2. A quick note on omissions
+        KSSB10        234              Jones v. U.S.
+        [KSSB9        218]
+        [KSSB11       261-262]
+
+     B. Mens Rea                                       [#3 – FRIDAY, JANUARY 23, 2026]
+        KSSB10        258-267          Regina v. Cunningham and Regina v. Faulkner
+        [KSSB9        241-249]
+        [KSSB11       285-294]
+
+        KSSB10        268-278          Hazelwood; Santillanes; Elonis
+        [KSSB9        250-258]         Supp. Elonis v. United States (U.S. 2015)
+        [KSSB11       292-297]
+        MPC § 2.02
+
+                  Please read Supp. Jack Balkin, “The Crystalline Structure of Legal Thought,” 39
+                  Rutgers Law Review 1 (1986), pages 2 to 13 (and quickly peruse the rest).
+
+          As you read these materials, please think about these questions:
+              1. How would you best model the elements requirements and how they interact? In
+                 other words, how the various act requirements in a statute interact with the mens
+                 rea requirement and attendant circumstances? Can you come up with a system to
+                 clearly model the requirements of a statute?
+              2. How do the Model Penal Code provisions you read provide some guidance on
+                 how to interpret criminal statutes when there are gaps, silences, or ambiguities?
+              3. When you read these cases, can you find the most compelling ways to argue for
+                 both sides? Do any of these relate to Kelman’s notion of frames or interpretive
+                 constructs?
+              4. As you read the arguments in these cases, can you start making a list of the
+                 recurring arguments? Does Balkin help to create an exhaustive catalogue of
+                 typical legal arguments? What does “typical legal arguments” mean?
+
+III.      THE LAW OF HOMICIDE
+
+       The law of homicide is all about the gradation of culpability and blameworthiness. Homicide
+       itself is easily defined: causing someone’s death. The intricacy, then, is all in the gradations
+       and levels of culpability. Also in the defenses (justifications or excuses) to causing death, but
+       we will discuss those later in the course, when we get to legal defenses (such as self-defense
+       or police use of lethal force).
+       In this part of the course, we will be focusing on how a criminal behavior (taking someone’s
+       life) can be treated differently based on gradations that reflect moral judgments about the
+       blameworthiness of a person, judgments that are unique to our culture and times.
+       Throughout our discussion of the law of homicide, we will be navigating between the
+       following categories, and so it will be helpful if you keep this schema in mind as we do. As
+       you will see, the borders and movement between them speak loudly about our culture and
+       relations of power in society:
+
+                                     LAW OF HOMICIDE
+                       •   No liability whatsoever
+                                    Torts
+                       •   Civil liability
+                       •   Criminal Negligence                               Welansky, Hall and Williams cases
+
+                       •   Involuntary Manslaughter
+                       •   Voluntary Manslaughter
+                              Heat of Passion (EED)      Malone case of extreme recklessness (murder)
+
+                                                         Felony-murder doctrine
+
+                       •   Murder
+
+I have organized the readings in such a way as to allow us to navigate between the categories
+in the schema.
+
+   A. Intended Killings                                                           [#4 – TUESDAY, JANUARY 27, 2026]
+           1. Premeditation
+           KSSB10          443-451                    Background & Statutes
+           [KSSB9          419-427]
+           [KSSB11         461-470]
+
+           KSSB10          451-462                    Carroll and Guthrie
+           [KSSB9          427-437]
+           [KSSB11         470-480]
+           MPC § 210
+           Optional: Glance at the Napoleonic Penal Code of 1810 here:
+           https://www.napoleon-
+           series.org/research/government/france/penalcode/c_penalcode3b.html
+
+           2. Heat of Passion                     [#5 – THURSDAY, JANUARY 29, 2026]
+
+           KSSB10          462-485        Girouard, Maher, and Casassa
+           [KSSB9          437-463]       (read cases, skim notes)
+           [KSSB11         480-499]
+
+As you read these materials on homicide, I would like you to be thinking about them at two
+levels. The first is the technical, legal level of mapping out the elements of homicide in each
+of these cases and in each of the statutes. Ask yourself:
+   •    What are the element requirements necessary to convict?
+   •    How do the mens rea elements attach to the different act requirements?
+   •    Can you map this out in a way that will let you easily write the jury instructions?
+   •    Write a jury instruction for any of these cases.
+The second is the theoretical level regarding the judgments that are hidden in these different
+rules and gradations. Here I would like you to ask yourself:
+    •   What does it mean for a legal code to reveal something about our culture?
+    •   What do these cases and codes actually expose about our moral judgements?
+    •   How are those moral judgements hidden in these cases and codes? Are they?
+
+   B. Felony Murder                                       [#6 – FRIDAY, JANUARY 30, 2026]
+           KSSB10          517-522        Regina v. Serné and People v. Stamp
+           [KSSB9          490-494]
+           [KSSB11         532-537]
+
+           KSSB10          544-552        State v. Canola
+           [KSSB9          515-523]
+           [KSSB11         559-565]
+
+   Sarah Stillman, “Sentenced to Life for an Accident Miles Away,” The New Yorker,
+   December 11, 2023, available here:
+   https://www.newyorker.com/magazine/2023/12/18/felony-murder-laws
+
+  Please also read about the case of Adnan Khan. You can read the Marshall
+  Project commentary on his case, and please view this New York
+  Times video featuring Adnan Khan on the felony murder rule.
+
+  C. Unintended Killings                       [#7 – TUESDAY, FEBRUARY 3, 2026]
+
+         1. Extreme Recklessness [Murder]
+         KSSB10         509-513         Commonwealth v. Malone
+         [KSSB9         482-485]
+         [KSSB11        524-528]
+
+         2. Reckless [Manslaughter] and Negligent Homicide:
+         KSSB10         490-503         Welansky, Hall, and Williams
+         [KSSB9         463-476]
+         [KSSB11        506-519]
+
+  As you read these materials on the different gradations of homicide, please ask yourself:
+  1. What are the dimensions along which the cases always seem to resolve? Is there
+     something about the awareness by the defendant? Something about the level of risk?
+     Something about the amount of care demonstrated?
+  2. Ask yourself what are the different dimensions that we are navigating in these cases,
+     and whether they make sense, or whether you would propose a different system?
+  3. What are the different gradations of homicide here? Think about what purpose it
+     serves to be navigating between these gradations, and what it tells us about our
+     society.
+
+  D. Issues of Causation                       [#8 – THURSDAY, FEBRUARY 5, 2026]
+
+         KSSB10         603-614         Acosta and Arzon
+         [KSSB9         571-581]
+
+                 [KSSB11        568-579]
+                 MPC § 2.03
+
+As you read these cases, ask yourself:
+      1. What is the difference between factual (actual or but-for) causation and legal (proximate)
+         causation? What are intervening causes?
+      2. Can you construct for yourself a diagram or flow chart to take you through the steps you
+         need to determine in order to decide on likely guilt or innocence?
+      3. What do you think is really going on with causation and how might it relate to the cultural
+         interpretation of criminal law?
+
+IV.      WHY DO WE PUNISH? THEORIES, INSTITUTIONS & PRACTICES
+We will discuss the theories of punishment (retribution, deterrence, rehabilitation, and
+incapacitation) and the history of thought about punishment.
+
+         A. Reminder re. the Criminal Justice Process         [#9 – TUESDAY, FEBRUARY 10, 2026]
+We begin with a renewed foundation on the criminal legal process.
+         Please reread:
+                 KSSB10         1-19    The Structure of the Criminal Justice System
+                 [KSSB9         1-13]
+                 [KSSB11        1-8, 67-75]
+
+         B. Punishment Theory
+We will then turn to theories of punishment.
+         Readings:
+                 KSSB10         96-106 and 116-132 “Why Punish?”
+                 [KSSB9         89-100 and 109-124]
+                 [KSSB11        8-38]
+
+              Bernard E. Harcourt, “Post-Modern Meditations on Punishment: On the Limits of
+              Reason and the Virtues of Randomization (A Polemic and Manifesto for the
+              Twenty-First Century),” Journal of Social Research Vol. 74(2): 307-346 (2007).
+
+       C. Michel Foucault, Discipline and Punish        [#10 – THURSDAY, FEBRUARY 12, 2026]
+In this session, we will turn to Michel Foucault’s book on the prisons, Discipline and Punish,
+published in 1975.
+       Please read:
+              Michel Foucault, Discipline and Punish. pp. 3-47 and 73-82.
+              Bernard E. Harcourt, “Michel Foucault, Discipline and Punish (1975) – A Readers
+              Companion (2025), on SSRN here.
+              Lecture on Foucault: https://youtu.be/-QJ-xMd9XsY?si=AvnMlx1SODs2J7in
+
+       D. Abolition
+We will also discuss the movement for abolition of prisons and policing.
+       Please read:
+              Supp.: Bernard E. Harcourt, “The Social Theory of Coöperism,” in Cooperation: A
+              Political, Economic, and Social Theory (Columbia, 2023), Chapter 6.
+
+       E. The Function of Punishment                     [#11 – Friday, FEBRUARY 13, 2026]
+       In this class, we will explore the broader question of how the criminal law constructs and
+       maintains the social order that we live in. As you read these materials, please ask yourself
+       what work the punishment process is doing.
+       Please read:
+              Supp. The State v. Clarissa, 11 Ala. 57 (Jan. 1847)
+              Supp. Wyatt v. The State, 25 Ala. 9 (June 1854)
+              Supp. Robert Cover, “Prelude: Of Creon and Captain Vere,” pp. 1-7, in Justice
+              Accused: Antislavery and the Judicial Process (Yale, 1975)
+              Supp. Michel Foucault, “Lecture of April 22, 1981 [on Homer],” Wrong-Doing,
+              Truth-Telling: The Function of Avowal in Justice, pp. 31-45 (University of Chicago
+              2014)
+
+       As you read these cases and the writings of Michel Foucault, please ask yourself these
+       questions:
+           1. What are the stated purposes in the legal decisions that are rendered?
+           2. What do you think is really going on with the legal decisions?
+           3. How do we reconcile what is said and what is done?
+
+V.     THE CONSTITUTIONAL LIMITS OF PUNISHMENT
+In addition to statutory requirements, which are of course really important because Criminal Law
+is one of your only mainly statutory fields, there are also constitutional limitations on what can
+be defined and prosecuted as a crime. In this part, we will explore the constitutional limits on
+punishment.
+
+           A. Introduction and the Requirement of Legality [#12 – TUES, FEBRUARY 17, 2026]
+               KSSB10         157-58 and 176-185 Keeler v. Superior Court
+               [KSSB9         163-171]              Rogers v. Tennessee
+               [KSSB11        207-216]
+               Supp. Brief in Tomlin v. Patterson (SDAL 2016)
+
+           B. The Ban on Status Crimes
+               KSSB10         1072-1082      Robinson v. California
+               [KSSB9         1009-1019]     Powell v. Texas
+               [KSSB11        990-1002]
+               Supp. CITY OF GRANTS PASS V. JOHNSON, U.S., JUNE 28, 2024
+
+           C. Vagueness and Broken Windows                  [#13 – THURS, FEBRUARY 19, 2026]
+               KSSB10         185-202        Morales v. Chicago
+               [KSSB9         149 and 171-186]
+               [KSSB11        216-233]
+               Supp. Harcourt, The Illusion of Order (excerpts)
+
+VI.   CAPITAL PUNISHMENT
+      A. Death Penalty Jurisprudence               [#14 – TUESDAY, FEBRUARY 24, 2026]
+             1. Background
+             KSSB10         552-555         The Current Context
+             [KSSB9         523-525]
+             [KSSB11        1162-1166]
+             NB: The new “current context” from KSSB11 is on Courseworks. Please read that
+             updated version. It is more “current.”
+
+             KSSB10         565-573         Gregg v. Georgia
+             [KSSB9         535-542]
+             [KSSB11        1172-1183]
+             Memo introducing David Wilson (on Courseworks)
+
+      Notice the discussion of theories of punishment in Gregg and how it ties back to our
+      discussions of deterrence and retribution in the theories of punishment.
+      Also, as you read Gregg, please ask yourself: What are the guiding principles that the
+      majority of the Supreme Court identify as central to maintaining the constitutionality of
+      capital punishment in the United States?
+
+             2. Modern Jurisprudence
+             KSSB10         580-585         Atkins v. Virginia
+             [KSSB9         548-553]
+             [KSSB11        1183-1192]
+             Supp. Read pages 357–360 and 426–438 of Carol S. Steiker and Jordan M.
+             Steiker, Sober Second Thoughts: Reflections on Two Decades of Constitutional
+             Regulation of Capital Punishment, 109 Harvard Law Review 355 (1995).
+
+        B. Race and the Death Penalty                   [#15 – THURSDAY, FEBRUARY 26, 2026]
+                KSSB10          590-602         McCleskey v. Kemp
+                [KSSB9          557-569]
+                [KSSB11         1192-1205]
+
+                Charles R. Lawrence III, “The Id, the Ego, and Equal Protection: Reckoning with
+                Unconscious Racism, 39 Stanford Law Review 317-388 (1987). (excerpts)
+                Optional additional reading:
+                Robert Tsai, “After McCleskey,” Southern California Law Review (2023).
+
+        As you read the Lawrence article, please think about how we might find ways around the
+        constitutional holding in McCleskey in order to properly address racial discrimination in
+        the criminal legal ordeal.
+
+VII.    SEXUAL ASSAULT
+
+This week, we will read and discuss the law of sexual assault. It is an area of the law that is
+extremely important, but may be difficult for some of you because of your personal experiences. I
+try to keep the discussion as legal and professional as possible to avoid the possibility of triggering.
+I tend to focus on the legal elements of a sexual assault charge to show the way in which changes
+over time regarding one element (for example, consent) will cause changes regarding other
+elements (for instance, mens rea), in order to show how elements of a charge are interrelated and
+can change over time. Sexual assault law is unique in this respect and therefore allows for a
+demonstration of how law evolves and elements change over time. I use a table of possible
+definitions of elements, which I will refer to throughout our discussion, and which I attach here as
+well:
+
+                                                                             !
+                                                                             !
+                                                            SEXUAL!ASSAULT!LAW!
+
+              Actus!Reus               Sexual!Contact                                Penetration!                      Vaginal!Intercourse
+
+              Att.!Circ.!#1                    Any!person                                 !!!!Woman                      Female!not!wife
+
+                                                No!Additional!Force!
+              Att.!Circ.!#2                                                             Force!or!Threat!of!Force              Force
+                                               (beyond!penetration)
+
+                                                                                                                               !
+              Att.!Circ.!#3          Lack!of!Aﬃrmative!Consent                         NonPconsensual!                   Against!the!will!!
+
+                                                                                                                                 !
+              Mens!Rea             Strict!Liability         Negligence           Recklessness         Knowledge               Intent!
+
+              Proof!of!mens!       No!resistance!
+                                                                       Reasonable!Resistance                       Utmost!resistance
+              rea                  requirement
+
+              !
+              !!
+              MORE!FAVORABLE!TO!VICTIMS!!PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP!MORE!FAVORABLE!TO!DEFENDANTS!
+
+Note on cold calling: If you do not want to be called on in class, please e-mail my assistant, Ricardo
+Orlando Lombera (rl3343@columbia.edu). This applies to any and all other materials during the
+semester as well.
+
+For class, please read the following:
+Introduction and Early Law                                                         [#16 – TUESDAY, MARCH 3, 2026]
+               KSSB10                    351-363                       Background & Statutes
+               [KSSB9                    331-342]
+               [KSSB11                   377-392]
+               KSSB10                    363-368                       State v. Rusk
+               [KSSB9                    342-348]
+               [KSSB11                   393-400]
+               KSSB10                    368-372                       State v. DiPetrillo
+               [KSSB9                    348-352]
+
+               [KSSB11         401-405]
+
+       A. Contemporary Law                             [#17 – THURSDAY, MARCH 5, 2026]
+
+               KSSB10          384-390         State in the Interest of M.T.S
+               [KSSB9          363-368]
+               [KSSB11         412-417]
+               KSSB10          396-403         Notes on Absence of Consent
+               [KSSB9          376-380]
+               [KSSB11         416-425]
+
+               KSSB10          413-426         Commonwealth v. Sherry
+               [KSSB9          389-401]        Commonwealth v. Fischer
+               [KSSB 11        435-447]        Notes following Fischer
+
+               New York Penal Law, especially §130.05 on consent and §130.25; see here:
+               http://ypdcrime.com/penal.law/article130.htm#p130.05
+               http://ypdcrime.com/penal.law/article130.htm#p130.05
+As noted above, I try to stay focused on the legal doctrine so as to avoid triggering anyone.
+Sometimes that feels as if I am focusing too much on the legal elements, actus reus and mens rea
+for instance, and not using the materials sufficiently to discuss critical issues of consent discourse,
+issues of closure, redress, healing, issues of gender and race, and broader issues of the legal
+framework that allows rape culture to thrive.
+So as you read and as we discuss the legal issues, I hope that you will also be thinking about, and
+that we might address during the class time, the following issues:
+   1. Has the evolution of sexual assault law moved the legal framework in a positive
+      direction, even if not fully? In other words, has legal transformation been helpful at all?
+   2. Does the legal framework shape the cultural framework, or the other way around, and if
+      the latter, then how should we approach the law and legal transformation?
+
+      3. Do you think that the law is the right vehicle to provide closure, protection, redress, or
+         healing to victims, especially those who have been victimized more, such as LGBTQ
+         persons, women, persons of color, and other minorities?
+      4. Is the law and legal practice a part of challenging the cultural framework within which
+         sexual assault continues to thrive?
+
+VIII. CONCLUSION TO PART I
+What We Criminalize: Criminal Law and Morality                 [#18 – TUESDAY, MARCH 10, 2026]
+How do we decide what to criminalize? Does it rest on our moral principles? Can we criminalize
+behaviors because they offend our moral principles? Is there contingency in what we punish?
+         Readings: (all in Supplemental Readings)
+                 The Hart-Devlin Debate
+                 Bowers v. Hardwick, 478 U.S. 186 (1986)
+                 Lawrence v. Texas, 539 U.S. 558 (2003)
+                 Bernard E. Harcourt, The Collapse of the Harm Principle
+                 Dobbs v. Jackson Women’s Health Organization, 597 U.S. ___ (2022)
+
+                  * * * SPRING BREAK: March 11 through March 30, 2026 * * *
+
+IX.      JUSTIFICATIONS AND EXCUSES
+
+         A. Self-defense                                       [#19 – TUESDAY, MARCH 31, 2026]
+In this class, we will explore the law of self-defense, focusing on the Bernie Goetz case in New
+York City and on the issues surrounding Battered Women’s Syndrome.
+
+                 1.      Self-defense:
+                 KSSB10          869-878 and 881-886           U.S. v. Peterson
+                 [KSSB9          817-832]                      People v. Goetz
+
+               [KSSB11         856-861 and 805-815]
+               MPC 3.04 and 3.09
+
+               We will be focusing on the Bernie Goetz case. One of the main issues is where to
+               place the self-defense standard on the spectrum from objective (reasonable belief
+               in the need to defend oneself) to subjective (subjective belief in the need to defend
+               oneself); and how that relates to racial justice.
+
+               2.      Battered Women Syndrome:
+
+               KSSB10          903-907         State v. Norman
+               [KSSB9          848-852]
+               [KSSB11         837-842]
+               We will also discuss how these self-defense standards apply in the context of
+               women who kill their abusive partners.
+
+Note on cold calling: If you do not want to be called on in class, please e-mail my assistant, Ricardo
+Orlando Lombera (rl3343@columbia.edu)). This applies to any and all other materials during the
+rest of the semester as well.
+
+               3. Duty to Retreat                             [#20 – THURSDAY, APRIL 2, 2026]
+In this class, we will study the law surrounding the duty to retreat in self-defense cases, and the
+“Stand Your Own Ground” laws, using the case of the homicide of Trayvon Martin and
+prosecution of George Zimmerman as our main focus.
+
+               Readings:
+               KSSB10          878-881         Self-defense and Race
+               KSSB10          921-925         Notes on the Duty to Retreat
+               [KSSB9          865-868]
+               [KSSB11         811-815]
+
+               [KSSB          851-856]
+               Supp. Materials on George Zimmerman case (on Courseworks)
+               We will be focusing on the supplemental materials on the George Zimmerman
+               case in some detail. I will send along extra links to evidence presented in the case.
+
+       B. Law Enforcement Use of Lethal Force                   [#21 – TUESDAY, APRIL 7, 2026]
+In this class, we will use the lack of prosecutions in the deaths of Saheed Vassell and Eric Garner
+to explore the law of the justified use of lethal force by the police.
+               Readings:
+               Question #1 of the final exam for 2018 (in the past exams folder on Courseworks).
+               Please try to address the question using NYPL law.
+               Fagan & Harcourt, Fact Sheet: Questions And Answers For Columbia Law School
+               Students         About          Grand           Juries     available     at
+               https://www.law.columbia.edu/news/archive/professors-fagan-and-harcourt-
+               provide-facts-grand-jury-practice-light-ferguson-decision
+               Fagan & Harcourt, Fact Sheet in Richmond County (Staten Island) Grand Jury in
+               Eric             Garner             Homicide            available            at
+               https://www.law.columbia.edu/news/archive/fact-sheet-richmond-county-staten-
+               island-grand-jury-eric-garner-homicide
+               MPC 3.07 and 3.09
+
+               Supp.          New York Penal Law § 125.00
+               Supp.          New York Penal Law § 35.30.1
+               Supp. Letitia James, NY Office of the Attorney General, “Report on the
+               Investigation into the Death of Saheed Vassell,” March 29, 20219, available here:
+               https://ag.ny.gov/sites/default/files/oag_report_-_saheed_vassell_3.29.pdf
+
+       C.      Necessity and Duress                          [#22 – THURSDAY, APRIL 9, 2026]
+In this section, we will use the famous cannibalism case of Regina v. Dudley and Stephens to look
+into questions of necessity and duress as defenses to criminal prosecutions.
+               1. A Case Study
+
+               KSSB10          89-95          Regina v. Dudley and Stephens
+               [KSSB9          83-89]
+               [KSSB11         889-896]
+
+               2. Necessity:
+               KSSB10          945-958        People v. Unger
+               [KSSB9          885-898]       U.S. v. Schoon
+               [KSSB11         876-889]
+               MPC 3.02
+
+               3. Duress:
+               KSSB10          985-997        State v. Toscano
+               [KSSB9          924-936]       U.S. v. Fleming
+               [KSSB11         906-918]
+               MPC 2.09
+
+       PLUS: THEORETICAL INTERLUDE ON LAW AND ECONOMICS
+               Supp. Gary Becker, “Crime and Punishment: An Economic Approach,” Journal
+               of Political Economy, Vol. 76, p. 169-217. Please read pages 169 to 172 and 207
+               to 209; and peruse the rest.
+               Supp. Richard A. Posner, “An Economic Theory of the Criminal Law,” 85
+               Columbia Law Review 1193-1214 (1985). Please read pages 1193 to 1201 and
+               1217 to 1219; and peruse rest.
+               Supp. “Becker and Foucault on Crime and Punishment” (with Gary Becker and
+               François Ewald) (September 6, 2013).
+
+       D.      Insanity                                        [#23 – TUESDAY, APRIL 14, 2026]
+In this class, we will explore the history and transformation of the standard for the insanity
+defense, using the criminal prosecution of Andrea Yates as a case study.
+
+           KSSB10        1018-1050     Background
+           [KSSB9        958-987]      M’Naghten’s Case
+           [KSSB11       938-964]      Blake v. U.S.
+                                       U.S. v. Lyons
+           MPC 4.01
+           Supp Kahler v. Kansas, 589 US _ (2020)
+
+     PLUS: THEORETICAL INTERLUDE ON CRITICAL THEORY
+           Supp. Jack Balkin, “The Crystalline Structure of Legal Thought,” 39 Rutgers
+           Law Review 1 (1986). Please read pages 2 to 13 and peruse the rest.
+
+X. EXPANDING LIABILITY
+
+     A. Attempt                                        [#24 – THURSDAY, APRIL 16, 2026]
+
+           KSSB10        641-646
+           [KSSB9        607-613]
+           [KSSB11       601-604]
+
+           KSSB10        652-661       People v. Rizzo
+           [KSSB9        618-626]      McQuirter v. State
+           KSSB11        612-621]
+           MPC 5.01
+
+           Supp. Passage from Imagery and Adjudication in the Criminal Law and
+           Antebellum Slave Cases (see especially pages 1243-1244).
+
+     B. Complicity                                     [#25 – TUESDAY, APRIL 21, 2026]
+
+        KSSB10        691-702       State v. Gladstone
+        [KSSB9        657-668]
+        [KSSB11       658-663]
+
+        KSSB10        713-719       State v. McVay
+        [KSSB9        674-679]      Commonwealth v. Roebuck
+        [KSSB11       673-678]
+
+        KSSB10        721-727       People v. Luparello
+        [KSSB9        682-686]
+        [KSSB11       680-685]
+        MPC 2.06
+
+  C. Conspiracy                                   [#26 – THURSDAY, APRIL 23, 2026]
+
+   1. Prosecutorial Advantages, Actus Reus and Mens Rea
+        KSSB10        744-751       Krulewitch v. U.S.
+        [KSSB9        703-709]      Interstate Circuit v. U.S. (in KSSB9 or Supp)
+        [KSSB11       701-707]
+
+        KSSB10        753-762       People v. Lauria (& Note 1)
+        [KSSB9        711-719]
+        [KSSB11       728-737]
+        MPC § 5.03
+
+   2. Conspiracy as Complicity
+        KSSB10        766-771       Pinkerton v. U.S.
+
+            [KSSB9    723-728]      State v. Bridges
+            [KSSB11   707-712]
+            KSSB10    773-777       U.S. v. Alvarez
+            [KSSB9    730-734]
+            [KSSB11   721-724]
+
+       3. Scope:      Spokes and Chains (I will explain)
+
+XI.   CONCLUSION                                       [#27 – TUESDAY, APRIL 28, 2026]
+      Readings TBD
+
+                                 *** END ***

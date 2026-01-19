@@ -1,0 +1,2058 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Law School Term Companion</title>
+  <style>
+    /* ========================================
+       CSS VARIABLES & RESET
+    ======================================== */
+    :root {
+      /* Primary - Deep Legal Blues */
+      --primary: #1e3a5f;
+      --primary-light: #2d5a8b;
+      --primary-dark: #0f1c2e;
+
+      /* Accent - Gold/Amber */
+      --accent: #d4a853;
+      --accent-light: #e6c279;
+
+      /* Success/Safe */
+      --success: #2d6a4f;
+
+      /* Neutral */
+      --bg-primary: #fafafa;
+      --bg-secondary: #ffffff;
+      --bg-card: #ffffff;
+      --text-primary: #1a1a1a;
+      --text-secondary: #666666;
+      --border: #e0e0e0;
+      --border-light: #f0f0f0;
+
+      /* Effects */
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+      --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+      --blur: blur(8px);
+
+      /* Timing */
+      --transition-fast: 150ms ease-out;
+      --transition-base: 300ms ease-out;
+      --transition-slow: 600ms ease-out;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      background: var(--bg-primary);
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ========================================
+       UTILITIES
+    ======================================== */
+    .hidden { display: none !important; }
+    .fade-in { animation: fadeIn var(--transition-base) ease-out; }
+    .slide-up { animation: slideUp var(--transition-base) ease-out; }
+    .slide-in-right { animation: slideInRight var(--transition-base) ease-out; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slideInRight {
+      from { opacity: 0; transform: translateX(30px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+    }
+
+    @keyframes countUp {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes progressFill {
+      from { width: 0; }
+    }
+
+    /* ========================================
+       LAYOUT
+    ======================================== */
+    .app-container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-sm);
+    }
+
+    header h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: var(--primary);
+      letter-spacing: -0.02em;
+    }
+
+    header .header-controls {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    main {
+      flex: 1;
+      padding: 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    /* ========================================
+       BUTTONS
+    ======================================== */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all var(--transition-base);
+      background: var(--primary);
+      color: white;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .btn:hover {
+      background: var(--primary-light);
+      transform: scale(1.02);
+      box-shadow: var(--shadow-md);
+    }
+
+    .btn:active {
+      transform: scale(0.98);
+    }
+
+    .btn-secondary {
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+    }
+
+    .btn-secondary:hover {
+      background: var(--bg-card);
+      border-color: var(--primary-light);
+    }
+
+    .btn-accent {
+      background: var(--accent);
+      color: white;
+    }
+
+    .btn-accent:hover {
+      background: var(--accent-light);
+    }
+
+    .btn-icon {
+      padding: 0.5rem;
+      background: transparent;
+      color: var(--text-secondary);
+      box-shadow: none;
+    }
+
+    .btn-icon:hover {
+      background: var(--border-light);
+      color: var(--primary);
+      transform: none;
+      box-shadow: none;
+    }
+
+    /* ========================================
+       CARDS
+    ======================================== */
+    .card {
+      background: var(--bg-card);
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border);
+      transition: all var(--transition-base);
+    }
+
+    .card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-2px);
+    }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 0.75rem;
+    }
+
+    /* ========================================
+       ONBOARDING
+    ======================================== */
+    #onboarding {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: calc(100vh - 200px);
+    }
+
+    .onboarding-card {
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .onboarding-card h2 {
+      font-size: 1.75rem;
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    .onboarding-card p {
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+    }
+
+    .progress-indicator {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+      justify-content: center;
+    }
+
+    .progress-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--border);
+      transition: all var(--transition-base);
+    }
+
+    .progress-dot.active {
+      background: var(--primary);
+      transform: scale(1.3);
+    }
+
+    .form-group {
+      margin-bottom: 1.5rem;
+      text-align: left;
+    }
+
+    .form-group label {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 0.5rem;
+      color: var(--text-primary);
+    }
+
+    .form-group input[type="text"],
+    .form-group input[type="number"],
+    .form-group textarea,
+    .form-group select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      font-size: 1rem;
+      transition: border-color var(--transition-fast);
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .slider-container {
+      margin: 1rem 0;
+    }
+
+    .slider-label {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0.5rem;
+    }
+
+    input[type="range"] {
+      width: 100%;
+      height: 6px;
+      border-radius: 3px;
+      background: var(--border);
+      outline: none;
+      -webkit-appearance: none;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: var(--primary);
+      cursor: pointer;
+      transition: transform var(--transition-fast);
+    }
+
+    input[type="range"]::-webkit-slider-thumb:hover {
+      transform: scale(1.2);
+    }
+
+    .tag-input {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0.5rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      min-height: 50px;
+    }
+
+    .tag {
+      background: var(--primary-light);
+      color: white;
+      padding: 0.25rem 0.75rem;
+      border-radius: 16px;
+      font-size: 0.875rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .tag button {
+      background: none;
+      border: none;
+      color: white;
+      cursor: pointer;
+      font-size: 1rem;
+      padding: 0;
+    }
+
+    .tag-input input {
+      flex: 1;
+      border: none;
+      outline: none;
+      min-width: 100px;
+      font-size: 1rem;
+    }
+
+    /* ========================================
+       DASHBOARD
+    ======================================== */
+    .dashboard-header {
+      margin-bottom: 2rem;
+    }
+
+    .dashboard-header h2 {
+      font-size: 1.5rem;
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+
+    .phase-badge {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      background: var(--accent-light);
+      color: var(--primary-dark);
+      border-radius: 16px;
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+
+    .context-text {
+      color: var(--text-secondary);
+      margin: 1rem 0;
+      line-height: 1.7;
+    }
+
+    /* ========================================
+       TIMELINE
+    ======================================== */
+    .timeline-container {
+      margin-bottom: 2rem;
+    }
+
+    .timeline-canvas {
+      width: 100%;
+      height: 180px;
+      background: var(--bg-card);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      cursor: pointer;
+      box-shadow: var(--shadow-sm);
+      transition: box-shadow var(--transition-base);
+    }
+
+    .timeline-canvas:hover {
+      box-shadow: var(--shadow-md);
+    }
+
+    .timeline-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0,0,0,0.5);
+      backdrop-filter: var(--blur);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+
+    .timeline-modal-content {
+      background: var(--bg-card);
+      border-radius: 16px;
+      padding: 2rem;
+      max-width: 900px;
+      width: 90%;
+      max-height: 80vh;
+      overflow: auto;
+      box-shadow: var(--shadow-lg);
+    }
+
+    /* ========================================
+       METRICS GRID
+    ======================================== */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .metric-card {
+      text-align: center;
+    }
+
+    .metric-value {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 0.5rem 0;
+      font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+    }
+
+    .metric-label {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    .progress-bar {
+      height: 8px;
+      background: var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-top: 0.75rem;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary), var(--primary-light));
+      border-radius: 4px;
+      transition: width var(--transition-slow);
+      animation: progressFill 1s ease-out;
+    }
+
+    /* ========================================
+       GUIDANCE CARDS
+    ======================================== */
+    .guidance-card {
+      background: linear-gradient(135deg, var(--primary-light), var(--primary));
+      color: white;
+      margin-bottom: 1.5rem;
+    }
+
+    .guidance-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+
+    .guidance-task {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .guidance-purpose {
+      font-size: 0.9rem;
+      opacity: 0.9;
+      margin-bottom: 0.5rem;
+    }
+
+    .guidance-reassurance {
+      font-size: 0.875rem;
+      opacity: 0.8;
+      font-style: italic;
+    }
+
+    /* ========================================
+       MODALS
+    ======================================== */
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0,0,0,0.5);
+      backdrop-filter: var(--blur);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+
+    .modal-content {
+      background: var(--bg-card);
+      border-radius: 16px;
+      padding: 2rem;
+      max-width: 500px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      box-shadow: var(--shadow-lg);
+      animation: slideUp var(--transition-base) ease-out;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .modal-header h3 {
+      font-size: 1.25rem;
+      color: var(--primary);
+    }
+
+    .modal-body {
+      margin-bottom: 1.5rem;
+    }
+
+    .modal-footer {
+      display: flex;
+      justify-content: flex-end;
+      gap: 1rem;
+    }
+
+    /* ========================================
+       SETTINGS PANEL
+    ======================================== */
+    .settings-panel {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 400px;
+      background: var(--bg-card);
+      box-shadow: var(--shadow-lg);
+      z-index: 1000;
+      overflow-y: auto;
+      animation: slideInRight var(--transition-base) ease-out;
+    }
+
+    .settings-header {
+      padding: 1.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .settings-body {
+      padding: 1.5rem;
+    }
+
+    .settings-section {
+      margin-bottom: 2rem;
+    }
+
+    .settings-section h4 {
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    /* ========================================
+       TOGGLE SWITCH
+    ======================================== */
+    .toggle {
+      position: relative;
+      width: 50px;
+      height: 26px;
+    }
+
+    .toggle input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .toggle-slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: var(--border);
+      transition: var(--transition-base);
+      border-radius: 26px;
+    }
+
+    .toggle-slider:before {
+      position: absolute;
+      content: "";
+      height: 20px;
+      width: 20px;
+      left: 3px;
+      bottom: 3px;
+      background-color: white;
+      transition: var(--transition-base);
+      border-radius: 50%;
+    }
+
+    .toggle input:checked + .toggle-slider {
+      background-color: var(--primary);
+    }
+
+    .toggle input:checked + .toggle-slider:before {
+      transform: translateX(24px);
+    }
+
+    /* ========================================
+       KEYBOARD SHORTCUTS
+    ======================================== */
+    .shortcuts-modal .modal-content {
+      max-width: 600px;
+    }
+
+    .shortcut-list {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.75rem 1.5rem;
+    }
+
+    .shortcut-key {
+      background: var(--bg-primary);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.25rem 0.5rem;
+      font-family: monospace;
+      font-size: 0.875rem;
+      display: inline-block;
+    }
+
+    /* ========================================
+       TOAST
+    ======================================== */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--primary);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      box-shadow: var(--shadow-md);
+      z-index: 2000;
+      animation: slideUp var(--transition-base) ease-out;
+    }
+
+    /* ========================================
+       CONFETTI
+    ======================================== */
+    #confetti-canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    /* ========================================
+       RESPONSIVE
+    ======================================== */
+    @media (max-width: 768px) {
+      header {
+        padding: 1rem;
+      }
+
+      main {
+        padding: 1rem;
+      }
+
+      .metrics-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media print {
+      header, .btn, .timeline-canvas {
+        display: none;
+      }
+
+      .card {
+        box-shadow: none;
+        border: 1px solid #ccc;
+      }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="confetti-canvas"></canvas>
+
+  <div class="app-container">
+    <header id="app-header" class="hidden">
+      <h1>Law School Term Companion</h1>
+      <div class="header-controls">
+        <button class="btn btn-icon" id="btn-timeline" title="Timeline (t)">📅</button>
+        <button class="btn btn-icon" id="btn-log" title="Log Activity (l)">📝</button>
+        <button class="btn btn-icon" id="btn-settings" title="Settings (s)">⚙️</button>
+        <button class="btn btn-icon" id="btn-shortcuts" title="Shortcuts (?)">?</button>
+      </div>
+    </header>
+
+    <main id="app-main">
+      <!-- Views will be rendered here -->
+    </main>
+  </div>
+
+  <script>
+    /* ========================================
+       STATE MANAGEMENT
+    ======================================== */
+    const Store = {
+      KEY: 'lawSchoolApp_v1',
+
+      get() {
+        try {
+          const data = localStorage.getItem(this.KEY);
+          return data ? JSON.parse(data) : null;
+        } catch (e) {
+          console.error('Error loading from localStorage:', e);
+          return null;
+        }
+      },
+
+      set(data) {
+        try {
+          localStorage.setItem(this.KEY, JSON.stringify(data));
+        } catch (e) {
+          console.error('Error saving to localStorage:', e);
+        }
+      },
+
+      clear() {
+        localStorage.removeItem(this.KEY);
+      }
+    };
+
+    /* ========================================
+       WEEK TEMPLATES
+    ======================================== */
+    const WEEK_TEMPLATES = [
+      {
+        weekNumber: 1,
+        phase: { key: 'foundations', label: 'Foundations Phase' },
+        contextText: [
+          'Welcome to your first week! This week is about establishing routines and getting oriented.',
+          'Focus on understanding your professors\' expectations and setting up your study systems.',
+          'Small, consistent actions this week build momentum for the semester.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 10, range: [5, 20], whyNow: 'Establish baseline habits' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 3, range: [0, 10], whyNow: 'Start active recall early' }
+          ],
+          recruiting: [],
+          social: [
+            { id: 'socialConvos', label: 'Social Conversations', default: 5, range: [0, 10], whyNow: 'Build your network early' }
+          ]
+        },
+        guidanceCards: [
+          {
+            task: 'Set up your study schedule',
+            purpose: 'Consistent study times reduce decision fatigue and create lasting habits',
+            reassurance: 'It\'s okay to adjust as you learn what works best for you'
+          }
+        ]
+      },
+      {
+        weekNumber: 2,
+        phase: { key: 'foundations', label: 'Foundations Phase' },
+        contextText: [
+          'Build on last week\'s foundation. You\'re starting to understand the rhythm of law school.',
+          'This week, focus on refining your note-taking and case briefing techniques.',
+          'Continue showing up for yourself with small, consistent actions.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 12, range: [8, 20], whyNow: 'Increase intensity gradually' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 5, range: [2, 12], whyNow: 'Build muscle memory' }
+          ],
+          recruiting: [],
+          social: [
+            { id: 'socialConvos', label: 'Social Conversations', default: 4, range: [0, 8], whyNow: 'Maintain connections' }
+          ]
+        },
+        guidanceCards: [
+          {
+            task: 'Review your case briefs',
+            purpose: 'Effective case analysis is the foundation of legal thinking',
+            reassurance: 'Your briefs will get faster and more focused with practice'
+          }
+        ]
+      },
+      {
+        weekNumber: 3,
+        phase: { key: 'foundations', label: 'Foundations Phase' },
+        contextText: [
+          'You\'re finding your stride. The material may feel challenging, and that\'s normal.',
+          'This week, focus on understanding the big picture concepts across all your classes.',
+          'Trust that the accumulation of small efforts is building competence.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 15, range: [10, 25], whyNow: 'Deepen understanding' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 6, range: [3, 15], whyNow: 'Increase practice frequency' }
+          ],
+          recruiting: [],
+          social: [
+            { id: 'socialConvos', label: 'Social Conversations', default: 3, range: [0, 6], whyNow: 'Quality over quantity' }
+          ]
+        },
+        guidanceCards: [
+          {
+            task: 'Synthesize concepts across classes',
+            purpose: 'Legal thinking requires connecting ideas across different subject areas',
+            reassurance: 'These connections take time to develop—be patient with yourself'
+          }
+        ]
+      },
+      {
+        weekNumber: 4,
+        phase: { key: 'intensification', label: 'Intensification Phase' },
+        contextText: [
+          'The material is getting more complex. You\'re ready for this challenge.',
+          'This week marks a shift toward deeper analysis and more sophisticated arguments.',
+          'Your earlier foundational work is paying off, even if you can\'t see it yet.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 18, range: [12, 28], whyNow: 'Match increasing complexity' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 8, range: [5, 18], whyNow: 'Practice is essential now' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 5, range: [0, 15], whyNow: 'Begin recruitment materials' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Start exam review materials',
+            purpose: 'Creating outlines now reduces stress closer to exams',
+            reassurance: 'Your outlines don\'t need to be perfect—they just need to exist'
+          }
+        ]
+      },
+      {
+        weekNumber: 5,
+        phase: { key: 'intensification', label: 'Intensification Phase' },
+        contextText: [
+          'You\'re approaching the middle of the term. This is a natural time to feel both progress and fatigue.',
+          'Focus on sustainable pacing this week—quality over quantity.',
+          'Rest is not optional; it\'s part of the learning process.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 18, range: [12, 28], whyNow: 'Maintain consistency' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 10, range: [5, 20], whyNow: 'Build exam stamina' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 8, range: [0, 20], whyNow: 'Continue building momentum' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Review your study strategies',
+            purpose: 'What\'s working? What isn\'t? Adjust based on evidence, not anxiety',
+            reassurance: 'The best study system is the one you\'ll actually use consistently'
+          }
+        ]
+      },
+      {
+        weekNumber: 6,
+        phase: { key: 'intensification', label: 'Intensification Phase' },
+        contextText: [
+          'Midterms may be approaching or you\'re deep into complex material.',
+          'This week, prioritize active learning over passive review.',
+          'Trust that your sustained effort is building lasting understanding.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 20, range: [15, 30], whyNow: 'Peak intensity period' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 12, range: [8, 25], whyNow: 'Maximize practice' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 10, range: [0, 25], whyNow: 'Maintain progress' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Practice under timed conditions',
+            purpose: 'Simulating exam conditions builds familiarity and reduces anxiety',
+            reassurance: 'Your first timed attempt doesn\'t count—it\'s diagnostic, not evaluative'
+          }
+        ]
+      },
+      {
+        weekNumber: 7,
+        phase: { key: 'mastery', label: 'Mastery Phase' },
+        contextText: [
+          'You\'ve completed a significant portion of the term. The finish line is coming into view.',
+          'This week, focus on synthesis—connecting topics you\'ve learned throughout the term.',
+          'You know more than you think you do.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 20, range: [15, 30], whyNow: 'Deepen understanding' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 15, range: [10, 30], whyNow: 'Build exam readiness' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 12, range: [5, 30], whyNow: 'Continue momentum' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Take a full practice exam',
+            purpose: 'Full exams build stamina and reveal where to focus your remaining time',
+            reassurance: 'Whatever score you get, you now have valuable information to guide your prep'
+          }
+        ]
+      },
+      {
+        weekNumber: 8,
+        phase: { key: 'mastery', label: 'Mastery Phase' },
+        contextText: [
+          'You\'re in the final stretch. Every action matters now.',
+          'Focus on high-yield topics and practice, practice, practice.',
+          'You\'ve prepared for this. Trust your work.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 22, range: [15, 35], whyNow: 'Final preparation' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 18, range: [12, 35], whyNow: 'Peak practice' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 15, range: [8, 35], whyNow: 'Final push' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Create your exam game plan',
+            purpose: 'Knowing your strategy for each exam reduces decision fatigue on exam day',
+            reassurance: 'You don\'t need to know everything—you need to know what you know'
+          }
+        ]
+      },
+      {
+        weekNumber: 9,
+        phase: { key: 'mastery', label: 'Mastery Phase' },
+        contextText: [
+          'Exams are here or very close. You\'re ready.',
+          'This week, focus on confidence-building through focused practice and self-care.',
+          'Rest and sleep are part of exam preparation, not distractions from it.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 20, range: [12, 30], whyNow: 'Taper appropriately' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 15, range: [8, 25], whyNow: 'Maintain momentum' }
+          ],
+          recruiting: [
+            { id: 'applicationsSent', label: 'Applications Sent', default: 15, range: [8, 35], whyNow: 'Maintain progress' }
+          ],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Prioritize sleep and rest',
+            purpose: 'Your brain consolidates learning during sleep—rest is studying',
+            reassurance: 'Showing up well-rested is more valuable than one more practice question'
+          }
+        ]
+      },
+      {
+        weekNumber: 10,
+        phase: { key: 'completion', label: 'Completion Phase' },
+        contextText: [
+          'You\'ve made it through exams or are finishing them. Take a moment to acknowledge this.',
+          'This week, focus on recovery and reflection, not productivity.',
+          'Whatever your exam results, you\'ve developed skills that will serve you far beyond law school.'
+        ],
+        targets: {
+          academics: [
+            { id: 'studyHours', label: 'Study Hours', default: 5, range: [0, 15], whyNow: 'Light review only' },
+            { id: 'practiceQs', label: 'Practice Questions', default: 0, range: [0, 10], whyNow: 'Rest is priority' }
+          ],
+          recruiting: [],
+          social: []
+        },
+        guidanceCards: [
+          {
+            task: 'Reflect on the term',
+            purpose: 'Understanding what worked this term informs your approach next term',
+            reassurance: 'Surviving your first law school term is an achievement—full stop'
+          }
+        ]
+      }
+    ];
+
+    /* ========================================
+       DEMO DATA
+    ======================================== */
+    const DEMO_DATA = {
+      version: 1,
+      startDateISO: new Date().toISOString(),
+      termWeeks: 10,
+      classes: ['Contracts', 'Torts', 'Civil Procedure', 'Legal Methods'],
+      tracks: { academics: true, recruiting: true, social: true },
+      goals: {
+        applicationsTotal: 40,
+        studyHoursPerWeek: 18,
+        practiceQsPerWeek: 10
+      },
+      logs: {
+        '2024-01': {
+          applicationsSent: 3,
+          studyHours: 11,
+          practiceQs: 4,
+          socialConvos: 6,
+          didPastExamLook: false,
+          didTimedAttempt: false
+        },
+        '2024-02': {
+          applicationsSent: 5,
+          studyHours: 14,
+          practiceQs: 6,
+          socialConvos: 4,
+          didPastExamLook: true,
+          didTimedAttempt: false
+        },
+        '2024-03': {
+          applicationsSent: 4,
+          studyHours: 16,
+          practiceQs: 7,
+          socialConvos: 3,
+          didPastExamLook: true,
+          didTimedAttempt: true
+        },
+        '2024-04': {
+          applicationsSent: 8,
+          studyHours: 18,
+          practiceQs: 10,
+          socialConvos: 2,
+          didPastExamLook: true,
+          didTimedAttempt: true
+        },
+        '2024-05': {
+          applicationsSent: 6,
+          studyHours: 19,
+          practiceQs: 11,
+          socialConvos: 3,
+          didPastExamLook: true,
+          didTimedAttempt: true
+        }
+      }
+    };
+
+    /* ========================================
+       UTILITIES
+    ======================================== */
+    const Utils = {
+      getCurrentWeek(startDate, termWeeks) {
+        const now = new Date();
+        const start = new Date(startDate);
+        const diffTime = now - start;
+        const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+        const weekNum = Math.floor(diffDays / 7) + 1;
+        return Math.min(Math.max(weekNum, 1), termWeeks);
+      },
+
+      getWeekKey(date) {
+        const d = new Date(date);
+        const year = d.getFullYear();
+        const week = this.getISOWeek(d);
+        return `${year}-${week.toString().padStart(2, '0')}`;
+      },
+
+      getISOWeek(date) {
+        const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+        const dayNum = d.getUTCDay() || 7;
+        d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+        const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+        return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+      },
+
+      formatDate(dateStr) {
+        return new Date(dateStr).toLocaleDateString('en-US', {
+          month: 'short',
+          day: 'numeric',
+          year: 'numeric'
+        });
+      },
+
+      addWeeks(dateStr, weeks) {
+        const date = new Date(dateStr);
+        date.setDate(date.getDate() + (weeks * 7));
+        return date.toISOString();
+      },
+
+      calculateProjection(data, goal) {
+        if (!data || data.length === 0) return null;
+
+        // Filter out zero weeks and calculate moving average
+        const nonZeroWeeks = data.filter(w => w > 0);
+        if (nonZeroWeeks.length === 0) return null;
+
+        const avg = nonZeroWeeks.reduce((a, b) => a + b, 0) / nonZeroWeeks.length;
+        const remaining = Math.max(0, goal - data.reduce((a, b) => a + b, 0));
+        const weeksNeeded = Math.ceil(remaining / avg) || 0;
+
+        return {
+          avg: Math.round(avg * 10) / 10,
+          remaining: Math.round(remaining * 10) / 10,
+          weeksNeeded,
+          projectedDate: this.addWeeks(new Date().toISOString(), weeksNeeded)
+        };
+      }
+    };
+
+    /* ========================================
+       ANIMATOR
+    ======================================== */
+    const Animator = {
+      countUp(element, target, duration = 500) {
+        const start = 0;
+        const startTime = performance.now();
+
+        const animate = (currentTime) => {
+          const elapsed = currentTime - startTime;
+          const progress = Math.min(elapsed / duration, 1);
+          const easeProgress = 1 - Math.pow(1 - progress, 3);
+          const current = Math.round(start + (target - start) * easeProgress);
+
+          element.textContent = current;
+          element.style.animation = 'countUp 0.3s ease-out';
+
+          if (progress < 1) {
+            requestAnimationFrame(animate);
+          }
+        };
+
+        requestAnimationFrame(animate);
+      },
+
+      animateProgress(element, percentage) {
+        setTimeout(() => {
+          element.style.width = `${percentage}%`;
+        }, 100);
+      }
+    };
+
+    /* ========================================
+       ROUTER
+    ======================================== */
+    const Router = {
+      currentView: 'landing',
+
+      navigate(view, data = {}) {
+        this.currentView = view;
+        const main = document.getElementById('app-main');
+        const header = document.getElementById('app-header');
+
+        // Fade out
+        main.style.opacity = '0';
+
+        setTimeout(() => {
+          // Render new view
+          switch (view) {
+            case 'landing':
+              Components.Landing(main);
+              header.classList.add('hidden');
+              break;
+            case 'onboarding':
+              Components.Onboarding(main);
+              header.classList.add('hidden');
+              break;
+            case 'dashboard':
+              Components.Dashboard(main);
+              header.classList.remove('hidden');
+              break;
+          }
+
+          // Fade in
+          main.style.opacity = '1';
+        }, 200);
+      }
+    };
+
+    /* ========================================
+       COMPONENTS
+    ======================================== */
+    const Components = {
+      Landing(container) {
+        container.innerHTML = `
+          <div id="onboarding" class="fade-in">
+            <div class="card onboarding-card">
+              <h2>Law School Term Companion</h2>
+              <p>Your week-by-week guide through the first law school term</p>
+              <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <button class="btn btn-accent" onclick="App.startOnboarding()">Get Started</button>
+                <button class="btn btn-secondary" onclick="App.startDemo()">Try Demo Mode</button>
+              </div>
+            </div>
+          </div>
+        `;
+      },
+
+      Onboarding(container) {
+        const steps = [
+          {
+            title: 'Welcome!',
+            content: `
+              <p>Let's set up your term companion in just a few clicks.</p>
+              <p>This tool will help you track your progress through the semester with personalized guidance and pace projections.</p>
+            `,
+            action: 'Next'
+          },
+          {
+            title: 'Current Week',
+            content: `
+              <div class="form-group">
+                <label>What week of the semester are you in?</label>
+                <input type="number" id="startWeek" min="1" max="14" value="1" style="text-align: center; font-size: 1.5rem; padding: 1rem;">
+              </div>
+            `,
+            action: 'Next'
+          },
+          {
+            title: 'Your Classes',
+            content: `
+              <div class="form-group">
+                <label>Add your classes (press Enter to add)</label>
+                <div class="tag-input" id="classTags">
+                  <input type="text" id="classInput" placeholder="e.g., Contracts">
+                </div>
+              </div>
+            `,
+            action: 'Next'
+          },
+          {
+            title: 'Your Goals',
+            content: `
+              <div class="slider-container">
+                <div class="slider-label">
+                  <span>Applications Target</span>
+                  <span id="appsValue">40</span>
+                </div>
+                <input type="range" id="appsTarget" min="10" max="100" value="40" step="5">
+                <p style="font-size: 0.875rem; color: var(--text-secondary); margin-top: 0.5rem;">
+                  Total applications you'd like to submit this term
+                </p>
+              </div>
+              <div class="slider-container">
+                <div class="slider-label">
+                  <span>Study Hours/Week Goal</span>
+                  <span id="studyValue">15</span>
+                </div>
+                <input type="range" id="studyTarget" min="5" max="40" value="15" step="1">
+                <p style="font-size: 0.875rem; color: var(--text-secondary); margin-top: 0.5rem;">
+                  Average study hours per week
+                </p>
+              </div>
+            `,
+            action: 'Complete Setup'
+          }
+        ];
+
+        let currentStep = 0;
+        let classes = [];
+
+        const renderStep = () => {
+          const step = steps[currentStep];
+          container.innerHTML = `
+            <div id="onboarding" class="slide-up">
+              <div class="card onboarding-card">
+                <div class="progress-indicator">
+                  ${steps.map((_, i) => `
+                    <div class="progress-dot ${i === currentStep ? 'active' : ''}"></div>
+                  `).join('')}
+                </div>
+                <h2>${step.title}</h2>
+                ${step.content}
+                <button class="btn" id="onboardingNext">${step.action}</button>
+              </div>
+            </div>
+          `;
+
+          // Add event listeners
+          document.getElementById('onboardingNext').addEventListener('click', handleNext);
+
+          // Special handling for each step
+          if (currentStep === 2) {
+            setupClassTags();
+          } else if (currentStep === 3) {
+            setupSliders();
+          }
+        };
+
+        const setupClassTags = () => {
+          const input = document.getElementById('classInput');
+          const container = document.getElementById('classTags');
+
+          input.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && input.value.trim()) {
+              e.preventDefault();
+              const className = input.value.trim();
+              classes.push(className);
+
+              const tag = document.createElement('div');
+              tag.className = 'tag';
+              tag.innerHTML = `
+                ${className}
+                <button onclick="this.parentElement.remove(); App.onboardingClasses = App.onboardingClasses.filter(c => c !== '${className}')">×</button>
+              `;
+              container.insertBefore(tag, input);
+              input.value = '';
+            }
+          });
+
+          App.onboardingClasses = classes;
+        };
+
+        const setupSliders = () => {
+          const appsSlider = document.getElementById('appsTarget');
+          const studySlider = document.getElementById('studyTarget');
+          const appsValue = document.getElementById('appsValue');
+          const studyValue = document.getElementById('studyValue');
+
+          appsSlider.addEventListener('input', (e) => {
+            appsValue.textContent = e.target.value;
+          });
+
+          studySlider.addEventListener('input', (e) => {
+            studyValue.textContent = e.target.value;
+          });
+        };
+
+        const handleNext = () => {
+          if (currentStep < steps.length - 1) {
+            currentStep++;
+            renderStep();
+          } else {
+            completeOnboarding();
+          }
+        };
+
+        const completeOnboarding = () => {
+          const week = parseInt(document.getElementById('startWeek').value) || 1;
+          const appsTarget = parseInt(document.getElementById('appsTarget').value) || 40;
+          const studyTarget = parseInt(document.getElementById('studyTarget').value) || 15;
+
+          const state = {
+            version: 1,
+            startDateISO: new Date(Date.now() - (week - 1) * 7 * 24 * 60 * 60 * 1000).toISOString(),
+            termWeeks: 14,
+            classes: App.onboardingClasses || ['Contracts', 'Torts', 'Civil Procedure'],
+            tracks: { academics: true, recruiting: true, social: true },
+            goals: {
+              applicationsTotal: appsTarget,
+              studyHoursPerWeek: studyTarget,
+              practiceQsPerWeek: 8
+            },
+            logs: {}
+          };
+
+          Store.set(state);
+
+          // Confetti celebration
+          App.confetti();
+
+          setTimeout(() => {
+            Router.navigate('dashboard');
+          }, 1500);
+        };
+
+        renderStep();
+      },
+
+      Dashboard(container) {
+        const state = Store.get();
+        if (!state) {
+          Router.navigate('landing');
+          return;
+        }
+
+        const currentWeek = Utils.getCurrentWeek(state.startDateISO, state.termWeeks);
+        const weekTemplate = WEEK_TEMPLATES.find(w => w.weekNumber === currentWeek) || WEEK_TEMPLATES[0];
+        const weekKey = Utils.getWeekKey(new Date());
+        const weekLog = state.logs[weekKey] || {};
+
+        // Calculate metrics
+        const allWeeks = Object.values(state.logs);
+        const appsSent = allWeeks.reduce((sum, w) => sum + (w.applicationsSent || 0), 0);
+        const totalStudyHours = allWeeks.reduce((sum, w) => sum + (w.studyHours || 0), 0);
+        const totalPracticeQs = allWeeks.reduce((sum, w) => sum + (w.practiceQs || 0), 0);
+
+        // Calculate projections
+        const appsData = allWeeks.map(w => w.applicationsSent || 0);
+        const studyData = allWeeks.map(w => w.studyHours || 0);
+        const appsProj = Utils.calculateProjection(appsData, state.goals.applicationsTotal);
+
+        container.innerHTML = `
+          <div class="fade-in">
+            <div class="dashboard-header">
+              <h2>Week ${currentWeek}</h2>
+              <span class="phase-badge">${weekTemplate.phase.label}</span>
+              <p class="context-text">
+                ${weekTemplate.contextText.join(' ')}
+              </p>
+            </div>
+
+            <div class="timeline-container">
+              <canvas id="timelineCanvas" class="timeline-canvas"></canvas>
+              <p style="font-size: 0.875rem; color: var(--text-secondary); margin-top: 0.5rem; text-align: center;">
+                Click timeline to view full semester • Scroll to zoom • Drag to pan
+              </p>
+            </div>
+
+            <div class="metrics-grid">
+              <div class="card metric-card">
+                <div class="metric-label">Study Hours (This Week)</div>
+                <div class="metric-value" id="studyHoursValue">${weekLog.studyHours || 0}</div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: ${Math.min((weekLog.studyHours || 0) / state.goals.studyHoursPerWeek * 100, 100)}%"></div>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem;">
+                  Goal: ${state.goals.studyHoursPerWeek} hrs/week
+                </div>
+              </div>
+
+              <div class="card metric-card">
+                <div class="metric-label">Applications Sent</div>
+                <div class="metric-value" id="appsValue">${appsSent}</div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: ${Math.min(appsSent / state.goals.applicationsTotal * 100, 100)}%"></div>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem;">
+                  Goal: ${state.goals.applicationsTotal} total
+                  ${appsProj ? ` • On pace for ${Utils.formatDate(appsProj.projectedDate)}` : ''}
+                </div>
+              </div>
+
+              <div class="card metric-card">
+                <div class="metric-label">Practice Questions (This Week)</div>
+                <div class="metric-value" id="practiceQsValue">${weekLog.practiceQs || 0}</div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: ${Math.min((weekLog.practiceQs || 0) / state.goals.practiceQsPerWeek * 100, 100)}%"></div>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem;">
+                  Goal: ${state.goals.practiceQsPerWeek} qs/week
+                </div>
+              </div>
+            </div>
+
+            ${weekTemplate.guidanceCards.map(card => `
+              <div class="card guidance-card">
+                <div class="guidance-task">${card.task}</div>
+                <div class="guidance-purpose">${card.purpose}</div>
+                <div class="guidance-reassurance">${card.reassurance}</div>
+              </div>
+            `).join('')}
+
+            <div style="text-align: center; margin-top: 2rem;">
+              <button class="btn" onclick="App.openLogModal()">Log This Week's Activity</button>
+            </div>
+          </div>
+        `;
+
+        // Animate numbers
+        setTimeout(() => {
+          const studyEl = document.getElementById('studyHoursValue');
+          const appsEl = document.getElementById('appsValue');
+          const practiceEl = document.getElementById('practiceQsValue');
+
+          if (studyEl) Animator.countUp(studyEl, weekLog.studyHours || 0);
+          if (appsEl) Animator.countUp(appsEl, appsSent);
+          if (practiceEl) Animator.countUp(practiceEl, weekLog.practiceQs || 0);
+        }, 100);
+
+        // Render timeline
+        setTimeout(() => {
+          Timeline.render('timelineCanvas', currentWeek);
+        }, 200);
+      }
+    };
+
+    /* ========================================
+       TIMELINE COMPONENT
+    ======================================== */
+    const Timeline = {
+      render(canvasId, currentWeek) {
+        const canvas = document.getElementById(canvasId);
+        if (!canvas) return;
+
+        const ctx = canvas.getContext('2d');
+        const rect = canvas.getBoundingClientRect();
+        canvas.width = rect.width * 2; // Retina support
+        canvas.height = rect.height * 2;
+        ctx.scale(2, 2);
+
+        const width = rect.width;
+        const height = rect.height;
+        const padding = { left: 60, right: 60, top: 60, bottom: 60 };
+        const chartWidth = width - padding.left - padding.right;
+        const chartHeight = height - padding.top - padding.bottom;
+
+        // Clear canvas
+        ctx.clearRect(0, 0, width, height);
+
+        // Draw phase backgrounds
+        const phases = [
+          { name: 'Foundations', weeks: [1, 2, 3], color: '#e8f4f8' },
+          { name: 'Intensification', weeks: [4, 5, 6], color: '#d4e8ed' },
+          { name: 'Mastery', weeks: [7, 8, 9], color: '#c0dde5' },
+          { name: 'Completion', weeks: [10], color: '#acd2dc' }
+        ];
+
+        const weekWidth = chartWidth / 10;
+
+        phases.forEach(phase => {
+          const startX = padding.left + (phase.weeks[0] - 1) * weekWidth;
+          const endX = padding.left + phase.weeks[phase.weeks.length - 1] * weekWidth;
+
+          ctx.fillStyle = phase.color;
+          ctx.fillRect(startX, padding.top, endX - startX + weekWidth, chartHeight);
+
+          // Phase label
+          ctx.fillStyle = '#1e3a5f';
+          ctx.font = 'bold 11px -apple-system, sans-serif';
+          ctx.textAlign = 'center';
+          ctx.fillText(phase.name, startX + (endX - startX + weekWidth) / 2, padding.top - 15);
+        });
+
+        // Draw bezier curve connecting weeks
+        ctx.beginPath();
+        ctx.strokeStyle = '#1e3a5f';
+        ctx.lineWidth = 2;
+
+        for (let i = 1; i <= 10; i++) {
+          const x = padding.left + (i - 0.5) * weekWidth;
+          const y = padding.top + chartHeight / 2;
+
+          if (i === 1) {
+            ctx.moveTo(x, y);
+          } else {
+            const prevX = padding.left + (i - 1.5) * weekWidth;
+            const cp1x = prevX + weekWidth / 2;
+            const cp2x = x - weekWidth / 2;
+            ctx.bezierCurveTo(cp1x, y, cp2x, y, x, y);
+          }
+        }
+        ctx.stroke();
+
+        // Draw week nodes
+        for (let i = 1; i <= 10; i++) {
+          const x = padding.left + (i - 0.5) * weekWidth;
+          const y = padding.top + chartHeight / 2;
+          const isCurrent = i === currentWeek;
+          const isPast = i < currentWeek;
+
+          // Node circle
+          ctx.beginPath();
+          ctx.arc(x, y, isCurrent ? 10 : 7, 0, Math.PI * 2);
+
+          if (isPast) {
+            ctx.fillStyle = '#2d6a4f';
+            ctx.strokeStyle = '#2d6a4f';
+          } else if (isCurrent) {
+            ctx.fillStyle = '#d4a853';
+            ctx.strokeStyle = '#d4a853';
+          } else {
+            ctx.fillStyle = '#ffffff';
+            ctx.strokeStyle = '#1e3a5f';
+          }
+
+          ctx.fill();
+          ctx.lineWidth = 2;
+          ctx.stroke();
+
+          // Week number
+          ctx.fillStyle = isCurrent ? '#d4a853' : '#1e3a5f';
+          ctx.font = isCurrent ? 'bold 13px -apple-system, sans-serif' : '12px -apple-system, sans-serif';
+          ctx.textAlign = 'center';
+          ctx.fillText(`W${i}`, x, y + 30);
+
+          // Pulse animation for current week
+          if (isCurrent) {
+            ctx.beginPath();
+            ctx.arc(x, y, 14, 0, Math.PI * 2);
+            ctx.strokeStyle = 'rgba(212, 168, 83, 0.3)';
+            ctx.lineWidth = 4;
+            ctx.stroke();
+          }
+        }
+
+        // Legend
+        const legendX = padding.left;
+        const legendY = height - 20;
+
+        ctx.fillStyle = '#666';
+        ctx.font = '11px -apple-system, sans-serif';
+        ctx.textAlign = 'left';
+
+        // Past
+        ctx.beginPath();
+        ctx.arc(legendX, legendY, 5, 0, Math.PI * 2);
+        ctx.fillStyle = '#2d6a4f';
+        ctx.fill();
+        ctx.fillStyle = '#666';
+        ctx.fillText('Completed', legendX + 10, legendY + 4);
+
+        // Current
+        ctx.beginPath();
+        ctx.arc(legendX + 80, legendY, 5, 0, Math.PI * 2);
+        ctx.fillStyle = '#d4a853';
+        ctx.fill();
+        ctx.fillStyle = '#666';
+        ctx.fillText('Current', legendX + 90, legendY + 4);
+
+        // Future
+        ctx.beginPath();
+        ctx.arc(legendX + 150, legendY, 5, 0, Math.PI * 2);
+        ctx.fillStyle = '#fff';
+        ctx.fill();
+        ctx.strokeStyle = '#1e3a5f';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+        ctx.fillStyle = '#666';
+        ctx.fillText('Upcoming', legendX + 160, legendY + 4);
+
+        // Click handler
+        canvas.onclick = () => App.openTimelineModal(currentWeek);
+      }
+    };
+
+    /* ========================================
+       APP CONTROLLER
+    ======================================== */
+    const App = {
+      init() {
+        const state = Store.get();
+
+        if (state) {
+          Router.navigate('dashboard');
+        } else {
+          Router.navigate('landing');
+        }
+
+        this.setupKeyboardShortcuts();
+        this.setupHeaderButtons();
+      },
+
+      startOnboarding() {
+        Router.navigate('onboarding');
+      },
+
+      startDemo() {
+        Store.set(DEMO_DATA);
+        Router.navigate('dashboard');
+        this.showToast('Demo mode loaded with sample data');
+      },
+
+      setupKeyboardShortcuts() {
+        document.addEventListener('keydown', (e) => {
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+          switch (e.key.toLowerCase()) {
+            case 'l':
+              this.openLogModal();
+              break;
+            case 't':
+              this.openTimelineModal(Utils.getCurrentWeek(Store.get()?.startDateISO, 14));
+              break;
+            case 's':
+              this.openSettings();
+              break;
+            case '?':
+              this.openShortcuts();
+              break;
+          }
+        });
+      },
+
+      setupHeaderButtons() {
+        document.getElementById('btn-timeline').addEventListener('click', () => {
+          const state = Store.get();
+          if (state) this.openTimelineModal(Utils.getCurrentWeek(state.startDateISO, state.termWeeks));
+        });
+
+        document.getElementById('btn-log').addEventListener('click', () => this.openLogModal());
+        document.getElementById('btn-settings').addEventListener('click', () => this.openSettings());
+        document.getElementById('btn-shortcuts').addEventListener('click', () => this.openShortcuts());
+      },
+
+      openLogModal() {
+        const state = Store.get();
+        if (!state) return;
+
+        const weekKey = Utils.getWeekKey(new Date());
+        const weekLog = state.logs[weekKey] || {};
+
+        const modal = document.createElement('div');
+        modal.className = 'modal fade-in';
+        modal.innerHTML = `
+          <div class="modal-content">
+            <div class="modal-header">
+              <h3>Log This Week's Activity</h3>
+              <button class="btn-icon" onclick="this.closest('.modal').remove()">×</button>
+            </div>
+            <div class="modal-body">
+              <div class="form-group">
+                <label>Study Hours</label>
+                <input type="number" id="logStudyHours" value="${weekLog.studyHours || ''}" min="0" max="100">
+              </div>
+              <div class="form-group">
+                <label>Applications Sent</label>
+                <input type="number" id="logApps" value="${weekLog.applicationsSent || ''}" min="0">
+              </div>
+              <div class="form-group">
+                <label>Practice Questions Completed</label>
+                <input type="number" id="logPractice" value="${weekLog.practiceQs || ''}" min="0">
+              </div>
+              <div class="form-group">
+                <label>Social/Networking Conversations</label>
+                <input type="number" id="logSocial" value="${weekLog.socialConvos || ''}" min="0">
+              </div>
+              <div class="form-group">
+                <label style="display: flex; align-items: center; gap: 0.5rem;">
+                  <input type="checkbox" id="logPastExam" ${weekLog.didPastExamLook ? 'checked' : ''}>
+                  Reviewed past exams
+                </label>
+              </div>
+              <div class="form-group">
+                <label style="display: flex; align-items: center; gap: 0.5rem;">
+                  <input type="checkbox" id="logTimed" ${weekLog.didTimedAttempt ? 'checked' : ''}>
+                  Attempted timed practice
+                </label>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button class="btn btn-secondary" onclick="this.closest('.modal').remove()">Cancel</button>
+              <button class="btn" id="saveLog">Save</button>
+            </div>
+          `;
+
+        document.body.appendChild(modal);
+
+        modal.querySelector('#saveLog').addEventListener('click', () => {
+          const newState = { ...state };
+          newState.logs[weekKey] = {
+            studyHours: parseInt(document.getElementById('logStudyHours').value) || 0,
+            applicationsSent: parseInt(document.getElementById('logApps').value) || 0,
+            practiceQs: parseInt(document.getElementById('logPractice').value) || 0,
+            socialConvos: parseInt(document.getElementById('logSocial').value) || 0,
+            didPastExamLook: document.getElementById('logPastExam').checked,
+            didTimedAttempt: document.getElementById('logTimed').checked
+          };
+
+          Store.set(newState);
+          modal.remove();
+          Components.Dashboard(document.getElementById('app-main'));
+          this.showToast('Activity logged successfully');
+        });
+
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) modal.remove();
+        });
+      },
+
+      openTimelineModal(currentWeek) {
+        const modal = document.createElement('div');
+        modal.className = 'timeline-modal fade-in';
+        modal.innerHTML = `
+          <div class="timeline-modal-content">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+              <h3 style="color: var(--primary); font-size: 1.5rem;">Semester Timeline</h3>
+              <button class="btn-icon" onclick="this.closest('.timeline-modal').remove()">×</button>
+            </div>
+            <canvas id="fullTimelineCanvas" style="width: 100%; height: 300px; border-radius: 8px;"></canvas>
+            <div style="margin-top: 1.5rem;">
+              <h4 style="color: var(--primary); margin-bottom: 1rem;">Current Week: ${currentWeek}</h4>
+              ${WEEK_TEMPLATES.find(w => w.weekNumber === currentWeek)?.contextText.map(t => `<p style="color: var(--text-secondary); line-height: 1.6;">${t}</p>`).join('') || ''}
+            </div>
+          </div>
+        `;
+
+        document.body.appendChild(modal);
+
+        setTimeout(() => {
+          Timeline.render('fullTimelineCanvas', currentWeek);
+        }, 100);
+
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) modal.remove();
+        });
+      },
+
+      openSettings() {
+        const state = Store.get();
+        if (!state) return;
+
+        const panel = document.createElement('div');
+        panel.className = 'settings-panel';
+        panel.innerHTML = `
+          <div class="settings-header">
+            <h3>Settings</h3>
+            <button class="btn-icon" id="closeSettings">×</button>
+          </div>
+          <div class="settings-body">
+            <div class="settings-section">
+              <h4>Goals</h4>
+              <div class="form-group">
+                <label>Applications Target</label>
+                <input type="number" id="settingsApps" value="${state.goals.applicationsTotal}">
+              </div>
+              <div class="form-group">
+                <label>Study Hours/Week Goal</label>
+                <input type="number" id="settingsStudy" value="${state.goals.studyHoursPerWeek}">
+              </div>
+              <div class="form-group">
+                <label>Practice Questions/Week Goal</label>
+                <input type="number" id="settingsPractice" value="${state.goals.practiceQsPerWeek}">
+              </div>
+            </div>
+
+            <div class="settings-section">
+              <h4>Data Management</h4>
+              <button class="btn btn-secondary" style="width: 100%; margin-bottom: 0.5rem;" onclick="App.exportData()">
+                Export Data
+              </button>
+              <button class="btn btn-secondary" style="width: 100%; margin-bottom: 0.5rem;" onclick="App.importData()">
+                Import Data
+              </button>
+              <button class="btn btn-secondary" style="width: 100%; border-color: #dc3545; color: #dc3545;" onclick="App.clearData()">
+                Clear All Data
+              </button>
+            </div>
+
+            <div class="settings-section">
+              <h4>Classes</h4>
+              <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                ${state.classes.map(c => `<span class="tag">${c}</span>`).join('')}
+              </div>
+            </div>
+          </div>
+        `;
+
+        document.body.appendChild(panel);
+
+        panel.querySelector('#closeSettings').addEventListener('click', () => panel.remove());
+
+        // Save goals on change
+        const saveGoals = () => {
+          const newState = { ...state };
+          newState.goals.applicationsTotal = parseInt(document.getElementById('settingsApps').value) || 40;
+          newState.goals.studyHoursPerWeek = parseInt(document.getElementById('settingsStudy').value) || 15;
+          newState.goals.practiceQsPerWeek = parseInt(document.getElementById('settingsPractice').value) || 8;
+          Store.set(newState);
+          this.showToast('Settings saved');
+        };
+
+        panel.querySelector('#settingsApps').addEventListener('change', saveGoals);
+        panel.querySelector('#settingsStudy').addEventListener('change', saveGoals);
+        panel.querySelector('#settingsPractice').addEventListener('change', saveGoals);
+      },
+
+      openShortcuts() {
+        const modal = document.createElement('div');
+        modal.className = 'modal shortcuts-modal fade-in';
+        modal.innerHTML = `
+          <div class="modal-content">
+            <div class="modal-header">
+              <h3>Keyboard Shortcuts</h3>
+              <button class="btn-icon" onclick="this.closest('.modal').remove()">×</button>
+            </div>
+            <div class="modal-body">
+              <div class="shortcut-list">
+                <span class="shortcut-key">L</span>
+                <span>Log activity</span>
+
+                <span class="shortcut-key">T</span>
+                <span>Open timeline</span>
+
+                <span class="shortcut-key">S</span>
+                <span>Open settings</span>
+
+                <span class="shortcut-key">?</span>
+                <span>Show shortcuts</span>
+              </div>
+            </div>
+          </div>
+        `;
+
+        document.body.appendChild(modal);
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) modal.remove();
+        });
+      },
+
+      exportData() {
+        const data = Store.get();
+        const json = JSON.stringify(data, null, 2);
+        navigator.clipboard.writeText(json).then(() => {
+          this.showToast('Data copied to clipboard');
+        });
+      },
+
+      importData() {
+        const json = prompt('Paste your exported data:');
+        if (json) {
+          try {
+            const data = JSON.parse(json);
+            Store.set(data);
+            Components.Dashboard(document.getElementById('app-main'));
+            this.showToast('Data imported successfully');
+          } catch (e) {
+            this.showToast('Invalid data format');
+          }
+        }
+      },
+
+      clearData() {
+        if (confirm('Are you sure you want to clear all data? This cannot be undone.')) {
+          Store.clear();
+          document.querySelector('.settings-panel')?.remove();
+          Router.navigate('landing');
+          this.showToast('All data cleared');
+        }
+      },
+
+      showToast(message) {
+        const existing = document.querySelector('.toast');
+        if (existing) existing.remove();
+
+        const toast = document.createElement('div');
+        toast.className = 'toast';
+        toast.textContent = message;
+        document.body.appendChild(toast);
+
+        setTimeout(() => toast.remove(), 3000);
+      },
+
+      confetti() {
+        const canvas = document.getElementById('confetti-canvas');
+        const ctx = canvas.getContext('2d');
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        const particles = [];
+        const colors = ['#d4a853', '#1e3a5f', '#2d6a4f', '#e6c279', '#2d5a8b'];
+
+        for (let i = 0; i < 150; i++) {
+          particles.push({
+            x: canvas.width / 2,
+            y: canvas.height / 2,
+            vx: (Math.random() - 0.5) * 15,
+            vy: (Math.random() - 0.5) * 15 - 5,
+            color: colors[Math.floor(Math.random() * colors.length)],
+            size: Math.random() * 8 + 4,
+            rotation: Math.random() * 360,
+            rotationSpeed: (Math.random() - 0.5) * 10
+          });
+        }
+
+        let animationId;
+        let frame = 0;
+
+        const animate = () => {
+          frame++;
+          ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+          particles.forEach(p => {
+            p.x += p.vx;
+            p.y += p.vy;
+            p.vy += 0.2;
+            p.rotation += p.rotationSpeed;
+
+            ctx.save();
+            ctx.translate(p.x, p.y);
+            ctx.rotate(p.rotation * Math.PI / 180);
+            ctx.fillStyle = p.color;
+            ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size);
+            ctx.restore();
+          });
+
+          if (frame < 180) {
+            animationId = requestAnimationFrame(animate);
+          } else {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+          }
+        };
+
+        animate();
+      }
+    };
+
+    // Initialize app
+    document.addEventListener('DOMContentLoaded', () => App.init());
+  </script>
+</body>
+</html>

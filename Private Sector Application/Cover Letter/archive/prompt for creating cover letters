@@ -1,0 +1,176 @@
+[FIRM_NAME_INPUT] = "Sidley Austin LLP"
+[FIRM_OFFICE_CITY_INPUT] = "New York"
+[PRIMARY_PRACTICE_AREA_INPUT] = "M&A and private equity"   # e.g., "Funds", "Structured Finance", etc.
+
+You are a research-driven legal writing assistant.
+
+Your task: Using the TEMPLATE and instructions below, generate a finalized, one-page legal cover letter for a Summer Associate position at [FIRM_NAME_INPUT] in [FIRM_OFFICE_CITY_INPUT].
+
+CRITICAL GLOBAL INSTRUCTIONS (APPLY TO EVERYTHING YOU DO):
+
+1. Generate a one-page legal cover letter using only Times New Roman 12 pt, 1-inch margins, single spacing, and no extra blank lines. 
+2. Do not include transaction dollar amounts or deal values anywhere. 
+3. Do not include currency symbols (e.g., “$”) or numbers tied to deal size, consideration, or valuation. 
+4. Keep the tone professional and concise.
+5. Replace bracketed variables with firm-specific facts, but if a data point is uncertain or would require speculation (e.g., exact consideration, revenue, valuation), omit it and phrase the sentence neutrally.
+6. Ensure there is only one addressee block and one salutation.
+7. Do not include a reference to more than a single transaction.
+8. Ideally, that transaction should be a healthcare M&A deal, but only if this is accurate and consistent with [PRIMARY_PRACTICE_AREA_INPUT]. If not, choose a different clearly high-profile transactional matter that fits squarely within [PRIMARY_PRACTICE_AREA_INPUT].
+9. Before you output, validate that all formatting and content constraints are satisfied (see the validation checklist below).
+10. Output as a clean DOCX document (no mixed fonts or stray formatting) representing the final letter text. If your interface also requires plain text, reproduce the letter body once in plain text after generating the DOCX.
+
+--------------------------------
+INPUTS YOU MUST USE
+--------------------------------
+
+1) Target firm and office:
+   • Firm name: [FIRM_NAME_INPUT]
+   • Office city: [FIRM_OFFICE_CITY_INPUT]
+
+2) Primary practice-area focus for the letter:
+   • [PRIMARY_PRACTICE_AREA_INPUT] 
+     Examples: “M&A and private equity”, “sponsor-side funds”, “structured finance”.
+
+Use [PRIMARY_PRACTICE_AREA_INPUT] consistently wherever the TEMPLATE references a practice focus.
+
+--------------------------------
+COVER LETTER TEMPLATE
+--------------------------------
+
+Use the TEMPLATE below verbatim for structure. Only fill in or lightly adjust the bracketed placeholders. Do not change the body paragraph structure or the substance of the experiences.
+
+TEMPLATE (do not change structure, only replace bracketed items and make minimal smoothing edits):
+
+Moshe S. Klein
+1775 York Ave
+New York, NY 11204
+mk5170@columbia.edu
+(917) 943-7310
+
+[DATE]
+
+[RECIPIENT_NAME]
+[RECIPIENT_TITLE]
+[FIRM_NAME]
+[FIRM_ADDRESS]
+
+Re: [POSITION_REFERENCE_LINE]
+
+Dear [SALUTATION_LAST_NAME]:
+
+I am a first-year student at Columbia Law School and am writing to apply for [POSITION_SENTENCE_PHRASE] at [FIRM_NAME]. I am particularly drawn to [FIRM_NAME] for its [FIRM_REPUTATION_SUMMARY] and recent work across [PRIMARY_PRACTICE_AREA_FOCUS], especially in [SECONDARY_PRACTICE_NICHE], including [NOTABLE_TRANSACTION_DESCRIPTION]. I am eager to contribute to complex transactional matters and to learn more about [OFFICE_OR_PRACTICE_GROUP_DESCRIPTION].
+
+I am excited to offer [FIRM_NAME] my experiences in legal procedure, proactive problem-solving, and collaborative project management. As Judicial Secretary to the Hon. Rachel E. Freier in the New York Supreme Court, I managed the complete lifecycle of cases from calendaring hearings to drafting judicial orders. This work required a sophisticated grasp of legal procedure and significant discretion.
+
+Furthermore, I have a track record of delivering concrete solutions to complex challenges. To resolve a tremendous case backlog in chambers, I designed and implemented a new triage system. I applied this same results-oriented approach in commercial settings, automating legal document generation to improve efficiency for a debt-collection agency that I consulted for.
+
+I have experience building consensus among diverse, high-level stakeholders. As the lead editor for a legislative proposal for the New York State Unified Court System, I coordinated between judges, counsel, and state agency officials to synthesize varied perspectives into a unified document. I applied the same consensus-building approach as founder of Shirim Music Studios, bringing together international artists on collaborative projects. I will draw on these skills when working with your client and firm teams.
+
+Sincerely,
+
+Moshe S. Klein
+
+--------------------------------
+INSTRUCTIONS – CONTENT & FIRM RESEARCH
+--------------------------------
+
+1) Replace all bracketed placeholders as follows, using today’s date and the correct [FIRM_OFFICE_CITY_INPUT] office of [FIRM_NAME_INPUT]:
+
+   1.1 [DATE] – today’s date in “Month DD, YYYY” format.
+
+   1.2 [RECIPIENT_NAME] – the primary recruiting contact for [FIRM_OFFICE_CITY_INPUT] (e.g., Legal Recruiting Manager / Director of Legal Recruiting).
+       • Use reputable, recent sources (firm website, NALP forms, etc.).
+
+   1.3 [RECIPIENT_TITLE] – that person’s exact title, as listed by the firm.
+
+   1.4 [FIRM_NAME] – set this equal to [FIRM_NAME_INPUT] exactly.
+
+   1.5 [FIRM_ADDRESS] – the full mailing address for [FIRM_NAME_INPUT]’s [FIRM_OFFICE_CITY_INPUT] office.
+
+   1.6 [SALUTATION_LAST_NAME] – “Ms. [Last Name]” or “Mr. [Last Name]”, as appropriate, matching [RECIPIENT_NAME]. 
+       • If gender is uncertain, use “Dear [Full Name]:” in the salutation and set [SALUTATION_LAST_NAME] accordingly.
+
+   1.7 [POSITION_REFERENCE_LINE] and [POSITION_SENTENCE_PHRASE]:
+       • Research whether [FIRM_NAME_INPUT] currently offers:
+         (a) 1L summer associate positions in [FIRM_OFFICE_CITY_INPUT] (for Summer 2026), and/or
+         (b) 2L summer associate positions (for Summer 2027).
+       • If both a 1L and a 2L Summer Associate position are clearly offered, then:
+         – [POSITION_REFERENCE_LINE] = “2026 1L and 2027 2L Summer Associate Positions”
+         – [POSITION_SENTENCE_PHRASE] = “a 2026 1L and 2027 2L Summer Associate position”
+       • If only a 2L Summer Associate program is clearly offered:
+         – [POSITION_REFERENCE_LINE] = “2027 2L Summer Associate Position”
+         – [POSITION_SENTENCE_PHRASE] = “a 2027 2L Summer Associate position”
+       • If only a 1L Summer Associate role is clearly offered:
+         – [POSITION_REFERENCE_LINE] = “2026 1L Summer Associate Position”
+         – [POSITION_SENTENCE_PHRASE] = “a 2026 1L Summer Associate position”
+       • If the year-specific information is genuinely unclear, default to:
+         – [POSITION_REFERENCE_LINE] = “Summer Associate Position”
+         – [POSITION_SENTENCE_PHRASE] = “a Summer Associate position”
+
+2) Research [FIRM_NAME_INPUT]’s practice strengths and recent matters (focus on the last 12 months). Then fill the FIRST PARAGRAPH placeholders:
+
+   2.1 [FIRM_REPUTATION_SUMMARY] – one short phrase summarizing [FIRM_NAME_INPUT]’s top-ranked strengths in transactional work, guided by current, reputable rankings and descriptions.
+       • Examples: “market-leading corporate and private equity practice”, “top-tier sponsor-side funds platform”, “highly regarded structured finance and securitization practice”.
+
+   2.2 [PRIMARY_PRACTICE_AREA_FOCUS] – copy [PRIMARY_PRACTICE_AREA_INPUT] verbatim (e.g., “M&A and private equity”, “Funds”, “Structured Finance”) and weave it grammatically into the sentence.
+
+   2.3 [SECONDARY_PRACTICE_NICHE] – a concise niche or industry angle that fits both [PRIMARY_PRACTICE_AREA_INPUT] and [FIRM_NAME_INPUT]’s profile.
+       • Examples: “healthcare transactions”, “cross-border leveraged buyouts”, “asset-backed securities”.
+
+   2.4 [NOTABLE_TRANSACTION_DESCRIPTION] – describe exactly one recent, notable transactional matter (within the past 12 months) in a short clause, such as:
+       • “including its representation of [Client] in its acquisition of [Target]”
+       • “including its counsel to [Client] on a strategic minority investment in [Target]”
+       Requirements:
+       • Only one transaction.
+       • When consistent with [PRIMARY_PRACTICE_AREA_INPUT], prefer a healthcare M&A deal.
+       • If you cannot confidently identify a clearly notable healthcare M&A deal for [FIRM_NAME_INPUT] that fits, choose a different clearly high-profile matter squarely within [PRIMARY_PRACTICE_AREA_INPUT].
+       • Do NOT include transaction dollar amounts, deal values, consideration, or valuation figures.
+       • Use only details that are clearly supported by public information from reputable sources.
+
+   2.5 [OFFICE_OR_PRACTICE_GROUP_DESCRIPTION] – a brief description of [FIRM_NAME_INPUT]’s [FIRM_OFFICE_CITY_INPUT]-based platform that connects naturally to the transaction in [NOTABLE_TRANSACTION_DESCRIPTION].
+       • Examples: “the firm’s New York–based M&A and private equity platform”, 
+                   “[FIRM_NAME_INPUT]’s New York funds and asset management practice”, 
+                   “its New York structured finance and securitization team”.
+
+3) Replace bracketed variables ONLY with firm-specific facts you can confirm from credible, recent sources.
+   • If a detail is uncertain or would require speculation (e.g., exact consideration, revenue, valuation), omit that detail and phrase the sentence in a neutral, accurate way.
+   • Never fabricate client names, industries, or deal attributes.
+
+4) Preserve the substance of the remaining body paragraphs.
+   • You may make minimal edits ONLY to preserve clarity and flow after filling in the placeholders.
+   • Do not change the substance of the experiences described.
+   • Keep the emphasis on interest in transactional practice consistent with [PRIMARY_PRACTICE_AREA_INPUT].
+
+--------------------------------
+INSTRUCTIONS – FORMATTING, LENGTH, OUTPUT
+--------------------------------
+
+5) Formatting constraints (MUST follow all):
+   5.1 Font: Times New Roman only, 12 pt for all text.
+   5.2 Margins: 1-inch on all sides.
+   5.3 Line spacing: single-spaced.
+   5.4 Paragraph spacing: paragraphs separated by exactly one blank line.
+       • No double or triple blank lines.
+       • No extra blank lines beyond what is needed to separate logical paragraphs.
+
+6) Content constraints:
+   6.1 Do not include transaction dollar amounts or deal values anywhere in the letter.
+   6.2 No currency symbols (“$”, “€”, etc.).
+   6.3 No numbers tied explicitly to deal size, consideration, or valuation.
+   6.4 It is acceptable to use neutral descriptors like “significant,” “strategic,” or “cross-border.”
+
+7) Validation checklist BEFORE you output:
+   7.1 There are no currency symbols in the letter.
+   7.2 There are no numbers that describe deal size or transaction value.
+   7.3 All text uses a single font: Times New Roman, 12 pt.
+   7.4 Paragraphs are separated by exactly one blank line; no extra blank or partially formatted lines.
+   7.5 There is only one addressee block and one salutation.
+   7.6 The total length fits comfortably within one page at the specified settings.
+   7.7 All bracketed placeholders have been replaced; no brackets remain.
+
+8) Output requirements:
+   8.1 Generate a clean DOCX file containing the final cover letter, respecting all formatting rules.
+   8.2 Do not add commentary, notes, or explanations in the DOCX.
+   8.3 If needed by this interface, after generating the DOCX, also print the final letter text once in plain text, with no markup and no brackets.
+
+End of instructions. Now generate the finalized one-page cover letter for [FIRM_NAME_INPUT] in [FIRM_OFFICE_CITY_INPUT] following all rules above.

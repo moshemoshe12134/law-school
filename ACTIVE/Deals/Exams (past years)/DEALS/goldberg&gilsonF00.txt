@@ -1,0 +1,102 @@
+DEALS – L6107
+PROFESSORS GILSON AND GOLDBERG
+AUTUMN 2000
+This Exam consists of Two questions. You must answer both. Answers should be
+typed. There is a constraint on the length of your answers. The maximum for
+EACH question is Four pages (double-spaced). That translates to a 1,000 word
+maximum for each question. If you believe that you need some additional facts,
+state what your assumptions are and why they are reasonable.
+Question 1
+Phillips Petroleum plans to build an ethylene facility in its Texas petrochemical
+facility at an expected cost of $400 million. Under certain economic circumstances the
+location could accommodate a facility considerably larger than the one contemplated.
+Rather than fund the project solely with debt, Phillips has chosen a somewhat more
+complicated financing structure. Half the funds would be raised with non-recourse bank
+loans to Phillips secured by the cash flow from the project. It projects that the bank loans
+would pay interest in the range of 8-10%. The remainder would be provided by a
+partnership between Phillips and Deerpath, Inc., with each partner putting up $100
+million. Phillips would be the managing partner and make all operating decisions.
+Revenue would be shared as follows. Deerpath would receive a 50% interest in
+the residual cash flows until it received a 16% cumulative rate of return on its $100
+million investment. That is, it would get half of all cash flow received by the partnership
+that was not necessary to the operation and maintenance of the ethylene facility until its
+total cumulative return on in its investment over all periods during which the investment
+continued equaled 16% per annum. The remaining residual cash flows would be
+distributed to Phillips.
+Once Deerpath has received distributions that equaled a 16% cumulative rate of
+return on its $100 million investment, Phillips would have the option to purchase
+Deerpath’s investment for $100 million. The option could be exercised at any time after
+this milestone had been reached. If Phillips chooses not to exercise the option, Deerpath
+would receive a 16% return (subordinated to the bank loans).
+During the negotiations, Deerpath’s lawyer proposed the following term:
+The Managing Partner shall not, without Deerpath’s
+consent, cause any substantial modification of the Ethylene
+Facility prior to completion thereof or any major expansion
+or contraction of the partnership’s business. Nor shall it,
+without unanimous consent, cause the partnership to make
+any discretionary capital expenditures in excess of $10
+million in any calendar year unless that expenditure is
+
+funded by debt. A discretionary capital expenditure is one
+that materially increases the efficiency or production
+capacity of the Ethylene Facility, but only to the extent
+such expenditure is directly attributable to the amount of
+such material increase.
+Assuming that the parties are committed to the structure by which Deerpath
+receives a cumulative 16% return paid from 50% of the cash flow, evaluate this term.
+Under what conditions might it create problems? How might those problems be
+addressed? Assess any proposals from the perspective of both parties.
+Question 2
+To finance their making of films, movie production companies sometimes enter
+into what are called: negative pickup” deals. The production company receives a bank
+loan to cover the production budget. A distribution company (for example, Paramount,
+Disney or Fox) agrees in advance that it will pay off the bank loan and take ownership of
+the film once production is complete. The production company receives a fixed fee plus a
+share of the revenue stream. The sharing arrangements vary widely; typically the
+distribution company covers its costs of acquisition and marketing before any revenue is
+shared. The distributors recognize that movie making is a risky business and that only 10
+to 20% of the movies they distribute will be successful. The earnings from the successful
+movies provide a profit sufficient to cover the losses associated with the “dogs.” More
+complicated variations on this basic theme have been developed. Your task is to analyze
+one of them.
+Thunderbird Films has proposed the following to Disney: Thunderbird will make
+four films with a production budget of $20 - $40 million each. (The budget includes a
+base fee for the production company.) The market potential of those films will be
+assessed by two independent risk managers, jointly selected by the parties, who will
+evaluate the films’ script and budget, as well as the talent committed to the films. Disney
+need not go forward unless the risk managers provide their opinion that the films can be
+made within their proposed budget and that each has a reasonable chance of commercial
+success.
+If Disney goes forward with the transaction, State Bank has agreed to loan
+Thunderbird the funds necessary to make the films at LIBOR plus 2%, with Thunderbird
+drawing down the funds as necessary to pay its bills. Upon completion of each film,
+Disney will pay repay 70 % of State Bank’s loans with respect to the completed film.
+Disney will then own the film and have the exclusive right to exploit it commercially.
+The remainder of State Bank’s loan will be paid out of the revenues of the film, as set out
+below.
+Two additional features protect repayment of State Bank’s loan. First, the films
+are pooled so that there is cross-collateralization. Thus, even if three of the films are
+
+unsuccessful, the revenues from the fourth may be sufficient to pay off all loans. Second,
+repayments of the loans are to be insured. If State Bank’s loan with respect to a film has
+not been repaid out of revenues within 36 months after the film’s release, AGS Insurance
+Company has agreed to pay the outstanding balance. Its premium will be 10 percent of
+the total amount of State Bank’s loans. After making a payment with respect to a film,
+all future revenues from the film would go to AGS, not State Bank. The insurance
+premium would be one of the production costs funded by the bank loans, as would
+interest on the loan.
+A film’s revenues would be shared between Disney and State Bank in the
+following manner. The initial acquisition price and all non-production costs (primarily
+prints of the film and advertising) incurred by Disney are repaid before State Bank
+receives anything. All “participations” (that is, payments to actors, directors or others
+who are due a percentage of gross or net profits) also must be paid to Disney, which
+would then distribute those amounts to the participants. In addition, Disney receives 15%
+of the gross receipts as a distribution fee. After these payments are made, Disney and
+State Bank split the gross revenues, with State Bank receiving 40% until the loan is paid
+off. Thereafter, State Bank’s 40% is used to cover cross-collateralization payments on
+the outstanding loans on the other films. After all loans are repaid, Disney receives 100%
+of the revenues.
+You have been hired by AGS to prepare a memorandum evaluating the
+transaction. Prepare the memorandum as your answer to this question.
+
+

@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1L Term Companion</title>
+    <style>
+        /* --- CSS VARIABLES & RESET --- */
+        :root {
+            /* Primary - Deep Legal Blues */
+            --primary: #1e3a5f;
+            --primary-light: #2d5a8b;
+            --primary-dark: #0f1c2e;
+            
+            /* Accent - Gold/Amber */
+            --accent: #d4a853;
+            --accent-light: #e6c279;
+            
+            /* Success/Status */
+            --success: #2d6a4f;
+            --danger: #b91c1c; /* Triage/Panic Mode */
+            
+            /* Neutrals */
+            --bg-primary: #fafafa;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #1a1a1a;
+            --text-secondary: #666666;
+            --border: #e0e0e0;
+
+            /* Spacing & UI */
+            --radius: 12px;
+            --shadow: 0 4px 12px rgba(0,0,0,0.05);
+            --shadow-hover: 0 8px 24px rgba(0,0,0,0.1);
+            --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            --font-mono: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            font-family: var(--font-main);
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+            height: 100vh;
+        }
+
+        /* --- UTILITIES & ANIMATIONS --- */
+        .hidden { display: none !important; }
+        .flex { display: flex; }
+        .flex-col { flex-direction: column; }
+        .items-center { align-items: center; }
+        .justify-center { justify-content: center; }
+        .justify-between { justify-content: space-between; }
+        .gap-2 { gap: 0.5rem; }
+        .gap-4 { gap: 1rem; }
+        .w-full { width: 100%; }
+        .text-center { text-align: center; }
+        .text-sm { font-size: 0.875rem; }
+        .font-bold { font-weight: 600; }
+        .text-accent { color: var(--accent); }
+        .text-primary { color: var(--primary); }
+        .text-secondary { color: var(--text-secondary); }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes slideInRight { from { transform: translateX(100%); } to { transform: translateX(0); } }
+        
+        .animate-fade-in { animation: fadeIn 0.4s ease-out forwards; }
+        .animate-slide-in { animation: slideInRight 0.3s ease-out forwards; }
+
+        /* --- COMPONENTS --- */
+        .btn {
+            padding: 12px 24px;
+            border-radius: var(--radius);
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s ease;
+            font-size: 1rem;
+        }
+        .btn-primary { background: var(--primary); color: white; }
+        .btn-primary:hover { background: var(--primary-light); transform: translateY(-1px); }
+        .btn-secondary { background: white; border: 1px solid var(--border); color: var(--text-primary); }
+        .btn-secondary:hover { border-color: var(--primary); color: var(--primary); }
+        .btn-accent { background: var(--accent); color: var(--primary-dark); }
+        .btn-accent:hover { background: var(--accent-light); transform: translateY(-1px); }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            padding: 24px;
+            box-shadow: var(--shadow);
+            border: 1px solid rgba(0,0,0,0.03);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .card:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+
+        .input-group { margin-bottom: 1.5rem; text-align: left; }
+        .input-group label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--text-secondary); }
+        input[type="text"], input[type="number"] {
+            width: 100%; padding: 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border 0.2s;
+        }
+        input:focus { outline: none; border-color: var(--primary); }
+
+        /* --- VIEWS --- */
+        #view-onboarding {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--bg-primary) 0%, #eef2f6 100%);
+        }
+        .step-container { max-width: 500px; width: 90%; }
+        
+        /* Dashboard */
+        #view-dashboard { max-width: 1200px; margin: 0 auto; padding: 20px; min-height: 100vh; }
+        header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+        .week-nav { display: flex; align-items: center; gap: 16px; }
+        .week-display { display: flex; align-items: center; gap: 12px; }
+        .chevron-btn { background: none; border: none; color: var(--primary); font-size: 1.5rem; cursor: pointer; padding: 4px 8px; border-radius: 6px; transition: background 0.2s; }
+        .chevron-btn:hover { background: rgba(30, 58, 95, 0.1); }
+        .chevron-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+        .phase-badge { background: var(--primary); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; white-space: nowrap; }
+        
+        /* Timeline Container */
+        .timeline-wrapper {
+            position: relative;
+            height: 180px;
+            width: 100%;
+            overflow-x: auto;
+            overflow-y: hidden;
+            margin-bottom: 30px;
+            cursor: grab;
+            background: linear-gradient(to right, transparent, rgba(30, 58, 95, 0.02) 50%, transparent);
+            border-radius: var(--radius);
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;  /* Firefox */
+        }
+        .timeline-wrapper::-webkit-scrollbar {
+            display: none; /* Chrome, Safari, Opera */
+        }
+        .timeline-wrapper:active { cursor: grabbing; }
+
+        /* Metrics Grid */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .metric-value { font-size: 2.5rem; font-weight: 700; color: var(--primary); font-family: var(--font-mono); }
+        .metric-label { color: var(--text-secondary); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
+
+        /* Complex Grid for Guidance (New) */
+        .guidance-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 768px) { .guidance-grid { grid-template-columns: 1fr; } }
+
+        /* Progress Bar */
+        .progress-container { height: 8px; background: #eee; border-radius: 4px; margin-top: 10px; overflow: hidden; }
+        .progress-fill { height: 100%; background: var(--accent); border-radius: 4px; transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+
+        /* Modal */
+        .modal-backdrop {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(15, 28, 46, 0.6);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0; pointer-events: none;
+            transition: opacity 0.3s;
+        }
+        .modal-backdrop.active { opacity: 1; pointer-events: all; }
+        .modal-content {
+            background: white;
+            padding: 40px;
+            border-radius: var(--radius);
+            width: 90%; max-width: 500px;
+            transform: translateY(20px);
+            transition: transform 0.3s;
+        }
+        .modal-backdrop.active .modal-content { transform: translateY(0); }
+
+        /* Custom Range Slider */
+        input[type=range] { -webkit-appearance: none; width: 100%; background: transparent; }
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none; height: 24px; width: 24px;
+            border-radius: 50%; background: var(--primary);
+            cursor: pointer; margin-top: -10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%; height: 4px; cursor: pointer;
+            background: var(--border); border-radius: 2px;
+        }
+
+        /* Canvas */
+        #confetti-canvas { position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999; }
+    </style>
+</head>
+<body>
+
+    <div id="app"></div>
+
+    <template id="tmpl-onboarding">
+        <div id="view-onboarding">
+            <div class="step-container card animate-fade-in">
+                <div class="step" data-step="1">
+                    <h1 style="color:var(--primary); margin-bottom:10px;">1L Term Companion</h1>
+                    <p class="text-secondary" style="margin-bottom:24px;">Navigate the fog, finding the groove, and surviving the triage of your first semester.</p>
+                    <div class="flex flex-col gap-2">
+                        <button class="btn btn-primary w-full" onclick="Onboarding.next()">Get Started</button>
+                        <button class="btn btn-secondary w-full" onclick="App.startDemo()">Try Demo Mode</button>
+                    </div>
+                </div>
+
+                <div class="step hidden" data-step="2">
+                    <h2>Semester Setup</h2>
+                    <p class="text-secondary" style="margin-bottom:20px;">Standard semester is usually 14-15 weeks.</p>
+                    <div class="input-group">
+                        <label>Total Weeks</label>
+                        <input type="number" id="setup-weeks" value="15" min="10" max="20">
+                    </div>
+                     <div class="input-group">
+                        <label>Current Week</label>
+                        <input type="number" id="setup-current" value="1" min="1" max="20">
+                    </div>
+                    <button class="btn btn-primary w-full" onclick="Onboarding.next()">Next</button>
+                </div>
+
+                <div class="step hidden" data-step="3">
+                    <h2>Weekly Goals</h2>
+                    <p class="text-secondary" style="margin-bottom:20px;">Set a baseline for pure study hours (excluding class).</p>
+                    <div class="input-group">
+                        <label>Target Study Hours / Week: <span id="lbl-goal-hours" class="text-primary font-bold">20</span></label>
+                        <input type="range" id="setup-goal" min="5" max="60" value="20" oninput="document.getElementById('lbl-goal-hours').innerText = this.value">
+                    </div>
+                    <button class="btn btn-primary w-full" onclick="Onboarding.finish()">Complete Setup</button>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <template id="tmpl-dashboard">
+        <div id="view-dashboard" class="animate-fade-in">
+            <header>
+                <div class="week-nav">
+                    <button class="chevron-btn" id="btn-prev-week" onclick="Dashboard.prevWeek()" title="Previous week">‹</button>
+                    <div class="week-display">
+                        <h2 class="text-primary" id="dash-title" style="margin: 0;">Week 1</h2>
+                        <span class="phase-badge" id="dash-phase">The Fog</span>
+                    </div>
+                    <button class="chevron-btn" id="btn-next-week" onclick="Dashboard.nextWeek()" title="Next week">›</button>
+                </div>
+                <div class="flex gap-2">
+                    <button class="btn btn-secondary" onclick="Settings.open()">Settings</button>
+                    <button class="btn btn-primary" onclick="Logger.open()">Log Activity</button>
+                </div>
+            </header>
+
+            <div class="card timeline-wrapper" id="timeline-container">
+                </div>
+
+            <div class="metrics-grid">
+                <div class="card">
+                    <div class="metric-label">Study Hours</div>
+                    <div class="metric-value" id="stat-hours">0</div>
+                    <div class="text-sm text-secondary">Goal: <span id="stat-goal">20</span> hrs</div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="prog-hours" style="width: 0%"></div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="metric-label">Briefs/Tasks</div>
+                    <div class="metric-value" id="stat-tasks">0</div>
+                    <div class="text-sm text-secondary">Completed this week</div>
+                    <div class="progress-container">
+                        <div class="progress-fill" style="width: 100%; background: var(--primary-light); opacity: 0.3"></div>
+                    </div>
+                </div>
+                <div class="card" style="border-left: 4px solid var(--accent);">
+                    <div class="metric-label">Mental State</div>
+                    <h3 id="stat-message" style="margin-top:10px; font-weight:600;">Normal</h3>
+                    <p class="text-secondary text-sm" style="margin-top:5px;">Trust the process.</p>
+                </div>
+            </div>
+
+            <div class="guidance-grid">
+                <div class="card" id="card-guidance" style="background: var(--primary); color: white; transition: background 0.5s;">
+                    <div class="flex flex-col h-full justify-between">
+                        <div>
+                            <div class="flex justify-between items-start">
+                                <h3 style="color: var(--accent); margin-bottom:10px;">Weekly Mindset</h3>
+                                <span id="phase-badge" style="background:rgba(255,255,255,0.2); padding:4px 8px; border-radius:4px; font-size:0.8rem;">The Fog</span>
+                            </div>
+                            <p id="week-quote" style="font-size: 1.1rem; font-style: italic; opacity: 0.95; line-height: 1.5;">
+                                "It is normal to feel illiterate..."
+                            </p>
+                        </div>
+                        <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1);">
+                            <span class="text-sm" style="opacity: 0.7; text-transform: uppercase; letter-spacing: 1px;">Primary Focus</span>
+                            <div id="week-focus" style="font-weight: 600; font-size: 1.1rem;">Reading & Briefing</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="metric-label" style="margin-bottom: 15px;">Priorities & Deadlines</div>
+                    <div id="week-tasks" class="flex flex-col gap-2">
+                        </div>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <div id="modal-log" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 style="margin-bottom: 20px;">Log Activity</h2>
+            
+            <div class="input-group">
+                <label>Hours Studied Today</label>
+                <div class="flex items-center gap-4">
+                    <input type="range" id="log-hours" min="0" max="12" step="0.5" value="0" oninput="document.getElementById('disp-log-hours').innerText = this.value">
+                    <span id="disp-log-hours" class="font-bold text-primary" style="min-width: 40px;">0</span>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label>Briefs / Outlining Tasks Completed</label>
+                <input type="number" id="log-tasks" value="0" min="0">
+            </div>
+
+            <div class="flex gap-2" style="margin-top: 30px;">
+                <button class="btn btn-secondary w-full" onclick="Logger.close()">Cancel</button>
+                <button class="btn btn-primary w-full" onclick="Logger.save()">Save Log</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="modal-settings" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 style="margin-bottom: 20px;">Settings</h2>
+            <div class="input-group">
+                <button class="btn btn-secondary w-full" onclick="Store.reset(); location.reload()">Reset All Data</button>
+            </div>
+            <div class="input-group">
+                <button class="btn btn-secondary w-full" onclick="App.startDemo()">Restart in Demo Mode</button>
+            </div>
+            <button class="btn btn-primary w-full" onclick="Settings.close()">Close</button>
+        </div>
+    </div>
+
+    <canvas id="confetti-canvas"></canvas>
+
+    <script>
+        /* --- 1. STATE MANAGEMENT --- */
+        const Store = {
+            key: 'law_companion_data',
+            state: {
+                setup: false,
+                totalWeeks: 15,
+                currentWeek: 1,
+                weeklyGoal: 20,
+                weeks: {} 
+            },
+
+            init() {
+                const saved = localStorage.getItem(this.key);
+                if (saved) this.state = JSON.parse(saved);
+                if (!this.state.weeks[this.state.currentWeek]) {
+                    this.state.weeks[this.state.currentWeek] = { hours: 0, tasks: 0 };
+                }
+            },
+
+            save() {
+                localStorage.setItem(this.key, JSON.stringify(this.state));
+                Dashboard.render(); 
+            },
+
+            reset() {
+                localStorage.removeItem(this.key);
+            },
+
+            getWeek(weekNum) {
+                return this.state.weeks[weekNum] || { hours: 0, tasks: 0 };
+            },
+
+            updateWeek(weekNum, data) {
+                const current = this.getWeek(weekNum);
+                this.state.weeks[weekNum] = { ...current, ...data };
+                this.save();
+            }
+        };
+
+        /* --- 2. SEMESTER CONTENT ENGINE --- */
+        const SemesterContent = {
+            getPhase(week) {
+                if (week <= 4) return { 
+                    name: "The Fog", 
+                    sub: "Adrenaline & Confusion", 
+                    color: "var(--primary)" // Navy
+                };
+                if (week <= 9) return { 
+                    name: "The Groove", 
+                    sub: "Efficiency & Synthesis", 
+                    color: "var(--accent)" // Gold
+                };
+                return { 
+                    name: "The Triage", 
+                    sub: "Panic & Finals Prep", 
+                    color: "var(--danger)" // Red
+                };
+            },
+
+            getData(week) {
+                const data = {
+                    quote: "",
+                    focus: "",
+                    tasks: []
+                };
+
+                // 1. Reading Strategy & Quotes
+                if (week <= 4) {
+                    data.focus = "Reading & Briefing";
+                    data.quote = "It is normal to feel illiterate; you are learning a new language by immersion.";
+                    data.tasks.push("Read slowly & look up words", "Full case briefs (no shortcuts)", "Ignore Career Services");
+                } else if (week <= 9) {
+                    data.focus = "Book Briefing & Synthesis";
+                    data.quote = "You aren't cutting corners, you are becoming efficient—trust your evolving judgment.";
+                    data.tasks.push("Switch to 'Book Briefing' (highlighting)", "Attend 1-2 lunch panels (listen only)", "Combine notes into Master Outline (2-3 hrs/wk)");
+                } else {
+                    data.focus = "Exam Prep & Black Letter Law";
+                    data.quote = "The goal of class is now just to check your understanding, not to impress the professor.";
+                    data.tasks.push("Stop briefing entirely (skim only)", "Condense outline to Attack Sheet", "NO networking");
+                }
+
+                // 2. Exam Prep Specifics
+                if (week >= 9 && week <= 11) {
+                    data.tasks.push("Take 1 Practice Hypo (Open book, untimed)");
+                    data.quote = "You will likely get the answer wrong, and that is the most valuable thing that will happen all week.";
+                } else if (week >= 12) {
+                    data.tasks.push("Timed, closed-book Practice Exams", "Compare answers to model answers");
+                }
+
+                // 3. Career/Applications
+                if (week === 11 || week === 12) {
+                    data.tasks.push("Draft Resume/Cover Letter (By Thanksgiving)");
+                }
+                if (week >= 13) {
+                    data.tasks.push("Prep Firm Apps (Send Dec 1st)");
+                }
+
+                return data;
+            }
+        };
+
+        /* --- 3. DEMO DATA GENERATOR --- */
+        const Demo = {
+            load() {
+                Store.state = {
+                    setup: true,
+                    totalWeeks: 15,
+                    currentWeek: 9, // Transition from Groove to Triage
+                    weeklyGoal: 25,
+                    weeks: {
+                        1: { hours: 22, tasks: 4 },
+                        2: { hours: 28, tasks: 5 },
+                        3: { hours: 15, tasks: 2 },
+                        4: { hours: 25, tasks: 6 },
+                        5: { hours: 30, tasks: 8 },
+                        6: { hours: 12, tasks: 1 },
+                        7: { hours: 24, tasks: 5 },
+                        8: { hours: 26, tasks: 7 },
+                        9: { hours: 5, tasks: 1 }
+                    }
+                };
+                Store.save();
+                location.reload();
+            }
+        };
+
+        /* --- 4. ROUTER --- */
+        const Router = {
+            init() {
+                if (!Store.state.setup) {
+                    this.render('tmpl-onboarding');
+                    Onboarding.init();
+                } else {
+                    this.render('tmpl-dashboard');
+                    Dashboard.init();
+                }
+            },
+
+            render(templateId) {
+                const app = document.getElementById('app');
+                const tmpl = document.getElementById(templateId);
+                app.innerHTML = '';
+                app.appendChild(tmpl.content.cloneNode(true));
+            }
+        };
+
+        /* --- 5. ONBOARDING CONTROLLER --- */
+        const Onboarding = {
+            currentStep: 1,
+            init() { this.currentStep = 1; },
+            
+            next() {
+                document.querySelector(`.step[data-step="${this.currentStep}"]`).classList.add('hidden');
+                this.currentStep++;
+                const nextEl = document.querySelector(`.step[data-step="${this.currentStep}"]`);
+                if (nextEl) {
+                    nextEl.classList.remove('hidden');
+                    nextEl.classList.add('animate-slide-in');
+                }
+            },
+
+            finish() {
+                const weeks = parseInt(document.getElementById('setup-weeks').value);
+                const current = parseInt(document.getElementById('setup-current').value);
+                const goal = parseInt(document.getElementById('setup-goal').value);
+
+                Store.state.totalWeeks = weeks;
+                Store.state.currentWeek = current;
+                Store.state.weeklyGoal = goal;
+                Store.state.setup = true;
+                Store.save();
+
+                Effects.confetti();
+                setTimeout(() => {
+                    Router.render('tmpl-dashboard');
+                    Dashboard.init();
+                }, 1500);
+            }
+        };
+
+        /* --- 6. DASHBOARD CONTROLLER --- */
+        const Dashboard = {
+            init() {
+                this.render();
+                document.addEventListener('keydown', (e) => {
+                    if (e.key === 'l') Logger.open();
+                    if (e.key === 's') Settings.open();
+                    // Week navigation
+                    if (e.key === 'ArrowRight') this.nextWeek();
+                    if (e.key === 'ArrowLeft') this.prevWeek();
+                });
+            },
+
+            nextWeek() {
+                if (Store.state.currentWeek < Store.state.totalWeeks) {
+                    Store.state.currentWeek++;
+                    Store.save();
+                }
+            },
+
+            prevWeek() {
+                if (Store.state.currentWeek > 1) {
+                    Store.state.currentWeek--;
+                    Store.save();
+                }
+            },
+
+            render() {
+                const s = Store.state;
+                const weekData = Store.getWeek(s.currentWeek);
+                const content = SemesterContent.getData(s.currentWeek);
+                const phase = SemesterContent.getPhase(s.currentWeek);
+
+                // 1. Text & Headers
+                document.getElementById('dash-title').innerText = `Week ${s.currentWeek}`;
+                document.getElementById('dash-phase').innerText = phase.name;
+                
+                // Update chevron button states
+                document.getElementById('btn-prev-week').disabled = s.currentWeek <= 1;
+                document.getElementById('btn-next-week').disabled = s.currentWeek >= s.totalWeeks;
+                
+                // 2. Dynamic Guidance Card Coloring & Content
+                const guideCard = document.getElementById('card-guidance');
+                // Set color based on phase
+                guideCard.style.background = phase.color === 'var(--danger)' ? '#8b2e2e' : 
+                                           (phase.color === 'var(--accent)' ? '#b38632' : 'var(--primary)');
+                
+                document.getElementById('phase-badge').innerText = phase.name;
+                document.getElementById('week-quote').innerText = `"${content.quote}"`;
+                document.getElementById('week-focus').innerText = content.focus;
+
+                // 3. Dynamic Priorities List
+                const taskContainer = document.getElementById('week-tasks');
+                taskContainer.innerHTML = '';
+                content.tasks.forEach(task => {
+                    const div = document.createElement('div');
+                    div.className = 'flex items-center gap-2 text-sm';
+                    div.style.padding = '8px 0';
+                    div.style.borderBottom = '1px solid #f0f0f0';
+                    div.innerHTML = `<span style="color:var(--success); font-weight:bold;">✓</span> ${task}`;
+                    taskContainer.appendChild(div);
+                });
+
+                // 4. Numeric Stats
+                this.animateValue('stat-hours', parseInt(document.getElementById('stat-hours').innerText || 0), weekData.hours);
+                this.animateValue('stat-tasks', parseInt(document.getElementById('stat-tasks').innerText || 0), weekData.tasks);
+                document.getElementById('stat-goal').innerText = s.weeklyGoal;
+
+                // 5. Progress Bars
+                const pct = Math.min(100, (weekData.hours / s.weeklyGoal) * 100);
+                const bar = document.getElementById('prog-hours');
+                bar.style.width = `${pct}%`;
+                bar.style.backgroundColor = pct >= 100 ? 'var(--success)' : 'var(--accent)';
+
+                // 6. Status Message
+                const msg = document.getElementById('stat-message');
+                if (pct > 90) { msg.innerText = "Excellent Pace"; msg.style.color = "var(--success)"; }
+                else if (pct > 50) { msg.innerText = "On Track"; msg.style.color = "var(--primary)"; }
+                else { msg.innerText = "Catch Up Needed"; msg.style.color = "var(--danger)"; }
+
+                // 7. Timeline
+                Timeline.draw('timeline-container', s.totalWeeks, s.currentWeek);
+            },
+
+            animateValue(id, start, end) {
+                if (start === end) return;
+                const range = end - start;
+                const duration = 500;
+                let startTime = null;
+                const el = document.getElementById(id);
+
+                function step(timestamp) {
+                    if (!startTime) startTime = timestamp;
+                    const progress = Math.min((timestamp - startTime) / duration, 1);
+                    el.innerHTML = Math.floor(progress * range + start);
+                    if (progress < 1) window.requestAnimationFrame(step);
+                }
+                window.requestAnimationFrame(step);
+            }
+        };
+
+        /* --- 7. TIMELINE COMPONENT (SVG) --- */
+        const Timeline = {
+            interpolateColor(ratio) {
+                // Primary: #1e3a5f (30, 58, 95) -> Low Score
+                // Accent: #d4a853 (212, 168, 83) -> High Score
+                const c1 = [30, 58, 95];
+                const c2 = [212, 168, 83];
+                const r = Math.round(c1[0] + (c2[0] - c1[0]) * ratio);
+                const g = Math.round(c1[1] + (c2[1] - c1[1]) * ratio);
+                const b = Math.round(c1[2] + (c2[2] - c1[2]) * ratio);
+                return `rgb(${r},${g},${b})`;
+            },
+
+            draw(containerId, totalWeeks, currentWeek) {
+                const container = document.getElementById(containerId);
+                const w = container.offsetWidth; 
+                const width = Math.max(w, totalWeeks * 80); 
+                const height = 180;
+                const padding = 40;
+                const yLine = 80;
+                const step = (width - (padding * 2)) / (totalWeeks - 1);
+
+                // 1. Calculate Points & Colors
+                const points = [];
+                for (let i = 0; i < totalWeeks; i++) {
+                    const weekNum = i + 1;
+                    const x = padding + (i * step);
+                    const y = yLine + (Math.sin(i * 0.8) * 30);
+                    
+                    // Heatmap Logic
+                    let color = '#e0e0e0'; // Future/Neutral
+                    if (weekNum <= currentWeek) {
+                        const data = Store.getWeek(weekNum);
+                        const goal = Store.state.weeklyGoal || 20;
+                        const ratio = Math.min(Math.max((data.hours || 0) / goal, 0), 1);
+                        color = this.interpolateColor(ratio);
+                    }
+                    points.push({x, y, num: weekNum, color});
+                }
+
+                // 2. Build Gradient Stops
+                let stops = '';
+                points.forEach(p => {
+                    const offset = (p.x / width) * 100;
+                    stops += `<stop offset="${offset}%" stop-color="${p.color}" />`;
+                });
+
+                let svg = `<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">`;
+                
+                svg += `
+                <defs>
+                    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                        ${stops}
+                    </linearGradient>
+                </defs>`;
+
+                // 3. Draw Path
+                let pathD = `M ${points[0].x} ${points[0].y}`;
+                for (let i = 1; i < points.length; i++) {
+                    const curr = points[i];
+                    const prev = points[i-1];
+                    const c1x = prev.x + step / 2;
+                    const c2x = curr.x - step / 2;
+                    pathD += ` C ${c1x} ${prev.y}, ${c2x} ${curr.y}, ${curr.x} ${curr.y}`;
+                }
+
+                svg += `<path d="${pathD}" stroke="url(#lineGrad)" stroke-width="4" fill="none" stroke-linecap="round" />`;
+
+                // 4. Draw Nodes
+                points.forEach(p => {
+                    const isFuture = p.num > currentWeek;
+                    const isCurrent = p.num === currentWeek;
+                    let radius = 6;
+                    
+                    if (isCurrent) {
+                        // Current Date Pulse (Distinct)
+                        radius = 10;
+                        svg += `<circle cx="${p.x}" cy="${p.y}" r="16" fill="${p.color}" opacity="0.2">
+                            <animate attributeName="r" from="10" to="20" dur="1.5s" repeatCount="indefinite"/>
+                            <animate attributeName="opacity" from="0.4" to="0" dur="1.5s" repeatCount="indefinite"/>
+                        </circle>`;
+                        // Node with white border for contrast
+                        svg += `<circle cx="${p.x}" cy="${p.y}" r="${radius}" fill="${p.color}" stroke="#ffffff" stroke-width="3" style="cursor:pointer" onclick="Timeline.click(${p.num})"/>`;
+                    } else if (isFuture) {
+                         // Future Node (Hollow/Faint)
+                        svg += `<circle cx="${p.x}" cy="${p.y}" r="${radius}" fill="#ffffff" stroke="#e0e0e0" stroke-width="3" style="cursor:pointer" onclick="Timeline.click(${p.num})"/>`;
+                    } else {
+                         // Past Node (Solid Heatmap Color)
+                        svg += `<circle cx="${p.x}" cy="${p.y}" r="${radius}" fill="${p.color}" stroke="${p.color}" stroke-width="3" style="cursor:pointer" onclick="Timeline.click(${p.num})"/>`;
+                    }
+
+                    svg += `<text x="${p.x}" y="${p.y + 30}" text-anchor="middle" fill="var(--text-secondary)" font-size="12" font-family="sans-serif">W${p.num}</text>`;
+                });
+
+                svg += `</svg>`;
+                container.innerHTML = svg;
+
+                if (currentWeek > 2) {
+                    const scrollX = (points[currentWeek-1].x) - (container.offsetWidth / 2);
+                    container.scrollLeft = scrollX;
+                }
+            },
+
+            click(weekNum) {
+                Store.state.currentWeek = weekNum;
+                Store.save();
+                Dashboard.render(); // Will update content engine automatically
+            }
+        };
+
+        /* --- 8. LOGGING & SETTINGS --- */
+        const Logger = {
+            open() {
+                document.getElementById('modal-log').classList.add('active');
+                document.getElementById('log-hours').value = 0;
+                document.getElementById('disp-log-hours').innerText = "0";
+                document.getElementById('log-tasks').value = 0;
+            },
+            close() { document.getElementById('modal-log').classList.remove('active'); },
+            save() {
+                const addHours = parseFloat(document.getElementById('log-hours').value);
+                const addTasks = parseInt(document.getElementById('log-tasks').value);
+                const currentData = Store.getWeek(Store.state.currentWeek);
+                Store.updateWeek(Store.state.currentWeek, {
+                    hours: currentData.hours + addHours,
+                    tasks: currentData.tasks + addTasks
+                });
+                this.close();
+            }
+        };
+
+        const Settings = {
+            open() { document.getElementById('modal-settings').classList.add('active'); },
+            close() { document.getElementById('modal-settings').classList.remove('active'); }
+        };
+
+        const App = {
+            startDemo() {
+                if(confirm("Load demo data? This will erase current progress.")) {
+                    Demo.load();
+                }
+            }
+        };
+
+        /* --- 9. EFFECTS --- */
+        const Effects = {
+            confetti() {
+                const canvas = document.getElementById('confetti-canvas');
+                const ctx = canvas.getContext('2d');
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+                
+                const pieces = [];
+                for(let i=0; i<100; i++) {
+                    pieces.push({
+                        x: canvas.width/2, y: canvas.height/2,
+                        vx: (Math.random() - 0.5) * 10,
+                        vy: (Math.random() - 0.5) * 10 - 5,
+                        color: `hsl(${Math.random()*360}, 70%, 50%)`,
+                        size: Math.random() * 8 + 4
+                    });
+                }
+
+                function draw() {
+                    ctx.clearRect(0,0, canvas.width, canvas.height);
+                    let active = false;
+                    pieces.forEach(p => {
+                        p.x += p.vx; p.y += p.vy; p.vy += 0.2;
+                        if(p.y < canvas.height) {
+                            active = true;
+                            ctx.fillStyle = p.color;
+                            ctx.fillRect(p.x, p.y, p.size, p.size);
+                        }
+                    });
+                    if(active) requestAnimationFrame(draw);
+                    else canvas.width = 0;
+                }
+                draw();
+            }
+        };
+
+        window.onload = () => {
+            Store.init();
+            Router.init();
+        };
+    </script>
+</body>
+</html>
