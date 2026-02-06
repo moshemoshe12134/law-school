@@ -1,0 +1,308 @@
+SPEAKER 0
+the I like I Yeah You shut up. to see what that was. I It makes me like The right I All right,
+
+SPEAKER 1
+everyone, welcome back. Let's get started. Uh, so the one topic that we didn't cover yesterday. Which fits within the rubric of actus reus is its opposite, it's dialectical antithesis, omission, OK? Now, um, so you have the Jones case in your readings, uh, tragic case of a small child that was essentially left with, uh, A friend and the question becomes, and the child dies of malnutrition and is not properly taken care of. Um, the question in the case is whether or not, um, there can be. Any liability, any criminal liability in a situation where there really wasn't an act, right? And so, uh. As you know from the Model Penal Code, as you know from the Jones case, uh, it is possible also to find criminal responsibility in the case of an omission. But only under very limited circumstances, and those circumstances are the following, right? I mean you get the idea, if there, if there has to be essentially a duty imposed. On the individual. To do something and then the omission is a breach of that duty. OK. You can think about it a little bit in the torts context. In order to have a tort, you always have to have a duty, right? Now the duty in criminal law is generally created by the criminal law. Thou shalt not kill, for instance, right? So it's the criminal law that essentially imposes a duty. When there's an omission in a in a case like Jones, where it's simply an omission. Um, there isn't an, there isn't an. An act requirement really that could be found, but the the act requirement, what substitutes for the act requirement is a a finding a duty that would be imposed on the person to take care of the child, right? and that duty can be imposed. In a common law way. Under any of these circumstances. A duty could be imposed by a statute. A duty could be imposed by some status. Uh, a parent child status, uh, wife, husband status, um, it could be a contractual relationship, so basically you could have a criminal liability for an omission based on a contract. OK, if the Jones, if uh if the mother had actually entered into a formal contract that someone else would take care of the child. Or finally, if there's some kind of Assumption And seclusion uh that takes place. In which case someone starts taking care of the child and doesn't let anyone else take care of them, but then engages in negligent conduct. OK? Now you'll notice if you go back to your um Model penal code that it's encoded. Uh, so if you go to section 2.01. Um There is an omission liability. Section Subsection 3 of Section 2.01 liability for the commission of an offense may not be based on an omission unaccompanied by action unless the omission is expressly made sufficient by the law defining the offense or a duty to perform the omitted act is otherwise imposed by law. OK, so here you have a kind of codification, but the question of whether a duty to perform the omitted act is otherwise imposed by law. Jones is a case that is creating that law as to whether or not there's a duty, OK? And the only, actually the only other thing that we didn't uh cover yesterday, and that was, I mean, if we had spent more time on the. Decina case, um, it would, it has to do with what gets defined as a voluntary act or an involuntary act. Now in Decina, you'll remember, I mean the Decina case is identical to the Martin case in the sense that it's a time framing issue again, right? The person in Decina has epilepsy and so the only question is whether you frame it broadly to say, well. He was engaging in a voluntary act when he was starting to drive, right? Or narrowly when he has the accident he's in the uh experiencing an epileptic seizure which is not voluntary, right? So it's the same setup as Martin basically but, but the question then becomes is a seizure involuntary and there uh in in the Model penal code and in most statutes there will be some kind of definition. Of what a voluntary act is, you'll notice that in the Model Penal Code, the voluntariness is defined negatively, right? It only defines what are not voluntary acts a reflex or convulsion, a bodily movement during unconsciousness or sleep conduct. During hypnosis, bodily movement otherwise is not the product of the termination of the actor, either conscious or habitual. So it's defined negatively. Those are things that are not voluntary, but it doesn't really positively define what is voluntary. OK? All right, so that's for acts now. Uh, let's turn to, uh, mens rea, which is the mental state requirement. Uh, you'll recall from, uh, the, um. Blackstone's commentaries, that that is the second prong, the second requirement. There has to be a uh uh a defect of will. Uh, it has to be the case, um, as uh Blackstone says that. There is both a vicious will and an unlawful act. All right, so what are, what does it mean, a vicious will? Well, a vicious will is essentially just a container for mens rea. OK. Uh, words like malice. Vicious will, etc. are just kind of empty containers that we have to figure out what they mean, OK, and the law, and we figure it out by reading the statute, by reading the cases, but we figure out what it might mean now. I'm going to show you. Something here, uh. The common law that pretty much does not apply anymore, except on the bar. OK. So when you're studying for the bar, these terms might come up again. But Between now and then And then afterwards you can ignore them. But just so you know them, OK, they, they, they, they, they're kind of, they are kind of from old case, old cases and old ways of doing law and common law way that are not. Um, gonna be useful to you as an attorney except to know it and then to try and figure out how it translates, OK, this pretend that this is in Latin. OK, just pretend it's Latin. Um, so at common law there were 4 mental states, um, what was called specific intent crimes. And again you'll hear that once in a while. Oh, it's a specific intent crime, but And what what is meant when someone says specific intent crime pretty much you need to think it's something like intentional or purpose, OK? It's basically the, the kind of one of the most demanding mental states you need to have acted in a purposeful or intentional way. OK, and specific intent crimes tend to be things like intentional murder, assault, robbery, burglary, the kind of violent crimes that we think of when we think of the criminal law, OK? All right, then there's a category of things that sometimes are called malice crimes. Again, Uh As an active, as an active lawyer, I, I would never use those terms. I would never say malice. It would be incomprehensible. If I said malice in a courtroom, the judge would look at me and just say, what are you talking about? But Know that at common law there's this concept of malice crimes which are considered kind of extremely reckless, OK? So, simple murder or arson. And we'll be spending the whole week next week distinguishing between intentional murder and simple murder, so don't worry, OK? You'll get it. Then there are general intent crimes. So you want to think of something like it's kind of generally understood to be illegal to do this, something like a battery, and then there are strict liability crimes, which means that there is actually no mens rea required. A strict liability crime does not require, in other words, it's just the act of doing it. Most of the time these are kind of administrative type of offenses. Driving without a license, is it just kind of like it's an administra we're not gonna start inquiring, did you know you didn't have a license? Were you, were you drive it was this intentional? Was it reckless? Was it no, we don't give a shit. I was like, oh, you're driving without a license. That's it. It's a strict liability crime. You gotta have your license on you. That's it. Period. OK, go home. All right, so. Know these so that if you ever hear them, right, you can go like, oh, right, uh, let me go back to that slide, figure out what that means. But, Uh, what we have in. More, um. In most jurisdictions. Are these categories of mens reas, uh, the ones that you see in the Model Penal code, OK. And there are 4 of them, OK? There's purpose. Knowledge Recklessness and negligence, alright? And they are spelled out, spelled out for you very clearly in the Model Appeal code in section 2.02. Where each one is actually defined. OK. Now. Those are the four categories that. You should hold on to. Uh, as a mental framework. And those are the four categories that you're gonna be constantly trying to read cases and figure out, OK, which one is it of these 4. OK. Not all the cases that you read, in part because you're going to read some old cases, are going to use these words. But you can figure out pretty much. How all of the possible options and cases fit on this map of purpose, knowledge, recklessness, or negligence. Now Isabel, was it, we were, we were, what we, we did what, what are possible. Elements You were doing that, right? Yesterday Yesterday I think I did the definition of conduct, conduct, right, yes, and when we were doing that, we realized that there were 3 kinds of elements for a crime, right? Do you remember? Uh Pull up your model penal code again. Let's go back to where those definitions are. Definitions are at the back of the, at the back of the, at the back of, at the front of the book, at the back of it, at the front of the Model Penal Code. We were saying that there are 3 kinds of Elements of a crime. Do you remembering the definitions? You now, also, we work with co-counsel here, OK? That's the way lawyering works. So the person to the right, look to the person to the right, look to the person to the left. You both will graduate. And but they're gonna help you in uh getting through this class, so, um, they're there to be co-counsel. OK, great. But, uh, Uh, it was Uh, and after a mission and it's a company state of mind or where relevant a series. OK, now my question to you is, what is an element, what are the possible elements of a crime? What would elements of an offense mean? OK, great. Thank you. Yes, as included in the description of the crime. OK, all right. Conduct. Attendant circumstances. Results of conduct. OK, those are possible elements of a crime. OK. And It turns out That those three possibilities. are important to keep in mind. As different Possible elements of a crime. Why are they important to keep in mind? They're important to keep in mind because. The mens reas are slightly different under the Model Penal Code. Based on what kind of an element it is. OK, um, Ava. All right. Uh In Martin yesterday, what kind of element did we have?
+
+SPEAKER 2
+I would say it was both conduct and attendance circumstances.
+
+SPEAKER 1
+What was the attendant circumstance?
+
+SPEAKER 2
+It was the drunkenness.
+
+SPEAKER 1
+Being drunk. Yeah. OK, good. And what was the conduct?
+
+SPEAKER 2
+The acting boisterously.
+
+SPEAKER 1
+OK. And or appearing in public.
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 1
+OK. All right. OK, good. Um, so now tell me. Uh, what does it mean for purpose to apply, say, to the conduct in Martin?
+
+SPEAKER 2
+Um, that he knew that that was a crime and he intentionally did that, knowing that it was going to cause Disruption What did I ask?
+
+SPEAKER 1
+I can't remember.
+
+SPEAKER 2
+What purposefully means in, yeah.
+
+SPEAKER 1
+How did you respond?
+
+SPEAKER 2
+So he acted boisterously, intentionally, like knowing it was going to cause whatever disruption in public.
+
+SPEAKER 1
+Now, why, why are you hitting me with intentionally and knowingly?
+
+SPEAKER 2
+Well, I think that in the Model Penal Code let
+
+SPEAKER 1
+me ask this question. If you do something intentionally. Do you think you do it knowingly?
+
+SPEAKER 2
+Not necessarily, because I think that You can do something intentionally without knowing for sure it's going to cause harm.
+
+SPEAKER 1
+Interesting. OK, so you're talking about the intentionality of the bodily movement or action. You're distinguishing between the intentionality of the bodily movement or action. And the state of mind associated with the consequence.
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 1
+Yeah. Um Now. What if, what if it's a results crime? Causing death.
+
+SPEAKER 2
+Is that Mhm. I mean, I guess then purposefully would be you. intended to kill that person. Yeah. But knowingly would be like you took an action knowing it could cause the death, but you weren't purposefully trying to do that, maybe.
+
+SPEAKER 1
+OK. OK. Yeah. Yeah. And what about um The attendant circumstance in the Martin case.
+
+SPEAKER 2
+I guess It depends if. Be the attendant circumstance is just being drunk or being drunk while in public, I guess, because if it's just being drunk, then Purposely, you're purposefully getting drunk by deciding to drink alcohol to the point that you're drunk. But if if it's being drunk in public, then it's both purposefully doing that and then also purposefully taking yourself and going into public while you're in that state.
+
+SPEAKER 1
+Right, yeah, OK, OK. Now, you're drawing a really fine distinction here, which is really important and um. A fine distinction between uh Kind of doing a bodily movement and action. And And thinking about its consequences. So in criminal law, for instance, They're gonna be cases we're gonna see kind of next week, but they're gonna be cases like in homicide law where. Someone says, well, pulling the trigger someone shoots someone else, right? Pulling the trigger. Was an intentional act. And that's all that is required to satisfy kind of purpose that you intended to pull the trigger. But that doesn't, but then, Other courts might say, well, no, that's not the intentionality. The intentionality was that you had to want to kill the person, right? And so you're, you're slicing the salami really thin to distinguish between kind of like, you know, the intentionality at one specific moment versus the intentionality of the entire enterprise. OK? And we're gonna want to hold on to that, OK? Um, what is the language from the model penal code and how does it differ as between conduct, attendance circumstances or result of conduct? Um, Haley. Um, still in like the general definitions area in the actually it's, it's kind of like in section 2.02, right? Let's look very closely at section 2.02. 2 A. For a minute. 1 and 2. OK, um, what's the difference, for instance, what's the difference between a 1 and a 2? Um, it's like the result versus just existence, so I think so in the purposely it says that um it is his conscious object to engage in conduct of that nature or cause such a result versus under knowingly it's he is aware that his conduct. So I don't, I'm not actually sorry, I, I wasn't asking you the difference between purpose and knowing. I'm asking you the difference between Section little I. Of purpose and section 2 little eye of purpose. Sorry, sorry. What is the difference? Why do they have? I and little I. How does I and little eye differ? And what does that mean? Um, I think the bar for. Like two eyes and by the way, everybody should have in front of them 2.02 little eyes and two little eyes, right? OK, yeah, go ahead. Um, I think the like bar for two little eyes is lower because it can just be that like the actor hopes that the attendant circumstances exist, whereas for the one eye, it has to be like the actual. Objective. OK, and, and what what one applies in what case and the other in the other case? Um, like, when do we know that we're gonna go with the little eye or too little eye? It has to do with the conduct versus attendance circumstances, I believe. OK, yes, it does, it does, and with results of conduct. Right? So little I is what? The conduct and result of conduct, I think. OK, yes, it is. If the element involves the nature of his conduct or a result thereof. So, if the element of the offense that we're talking about right now, right, is a conduct element or a result of conduct, then It is what you have to be. Um, You have to act purposely. Like, the purpose is what purpose is what, let's say if the statute says you have to act purposely. What does it mean? Um, then it has to be the conscious objective. Conscious object. It has to be your conscious object. OK. And if it's an attendant circumstance that says it has to be your purpose, you just have to be aware of the existence of the circumstance or hope that it exists. OK. All right. Quickly for a second, let's go to knowingly, Lauren. Um, what's the difference between little eye and too little I for knowingly? Um, for little eye, um, That one's about the nature of the conduct or the attendant circumstances, and too little eye is the result of the conduct. OK, so the first little eye. Is if the element is a conduct element or an attendant circumstance element. And the two little I is if it's a result element. OK? And what is the difference? Um I think for the conduct and the attendance circumstances, um, You would, it says you have to be aware that the conduct. Um, of that nature or that circumstances exist, whereas for the result, um, to what level. Like just being. Like aware that it exists for the first one. OK. Uh, we'll see later on in subsection 7 of the Model Penal Code that it's to a high probability of its existence. OK. All right, good. And, and the other one? And so the other one is which one it's for what element? The result for the result, if it's a result element, OK, what is it, um. That it's practically certain that his conduct will cause such a result. OK. All right. So basically, We can take our little map here and try and figure out how the Model Penal Code defines each possible mental state. Based on the different elements of the mental state, of the different elements of men of actus reus, apologies, right? So actus reus can be one of three kinds of act requirements, a, a conduct, an attendance circumstance, or a result of conduct. So those are three possible actus reuse. And there are 4 possible mens reas, OK, Purpose, knowledge, reckless, negligence, and then there's a slight variation in how, what that means depending on what kind of act element it is, it turns out. So in other words, if it's a You have to purposefully engage in certain conduct, then you have to have it as your conscious object. But if it's that it has to be a purposeful attendant circumstance, then you have to be aware or possibly uh believe or hope that that attendant circumstance exists. OK. Alright. OK. So let's look for a second at a statue. Let's look at um Let's look at the New York Penal Law, NYPL New York Penal Law, Section 12,520. Manslaughter in the 1st degree. Alright, a person is guilty of manslaughter in the 1st degree when, being 18 years old or more, and with intent to cause physical injury to a person less than 11 years old, the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such a person. OK. That's the statute. Now You as a lawyer are going to be fighting over the definition of this, of what of what this means, and you're gonna be taking slightly different positions whether you're the prosecutor or you're the defense, OK? Right now, just because we're coming at it just for the first time here. Let's, we'll, we'll come back later and we'll start fighting over it, but let's just try and understand a little bit what are some of the elements here, OK? Um, so Charlotte. What are some of the elements here and how would you describe them in terms of um actus reyes versus mens rea? Um, I would say that regarding, um, mens rea, excuse me. Um, That would be concerning the intent to cause harm. OK. Um, and then so there's, there's an, there's an intent to cause physical injury. OK, that is clearly a mens rea. That's like an intent to cause menjury. So, and in our model penal code reasoning, it's like purpose, OK? It's like, it's like the, the, the top tier of mens rea intention. OK. All right, so you've got, you've got one mental state there. What else do you have, uh, then. Just recklessly engaging in conduct. OK, you've got a second mens rea, which has to do with the recklessness of the fact that you would be engaging in conduct that that creates a grave risk of serious physical injury, OK. OK. So you've identified two mens reas. Yeah. Um, I think that Something about Creating a grave risk perhaps can be. What would that be? On their negligence. Um, Hm, interesting, um, I guess that's more recklessness, but no, well, I mean, uh, that's interesting. So, OK, so. What kind of, so creating a grave risk or risk, so you're right that, I mean, that's, that's right in a kind of tortsy kind of way, right? Because creating risk or not appreciating risk um is in the torts context what kind of like raises negligence and possible negligent liability. But what would be the, what would be the act that attends to that? Um, Mens rea In other words, In the two mens reas that you've given me already. Actually Let's, let's start there. With the two mens reas that you've given me already, what is the actus reus that goes with those? Um, With the with the intent, yeah, with the, the, the, the kind of voluntary, um. Excuse me. Hold on. So for, so you found one mens rea which was intent, intentionality. What is that mens rea attached to? A mens rea, a mental state attaches to an actus reus. In this statute, what does it attach to? Uh, sorry, can you repeat that? Sure, sure. I think that every time, I mean this is a, I think I'm right, it's a hypothesis we'll have to see during the course of the semester, but I think that every time that there's a mens rea. It usually qualifies an actus reus. Oh, OK, right? It qualifies the act. It's saying that act needs to be done with this mens rea. Yeah. So what is the specific act that needs to be done with that intentionality of causing physical injury? Yes, causing physical injury to a person less than a person less than 11 years old. Well, causing physical injury, let's leave it there, causing physical injury. Um What about the recklessness? That you found, what would that attach to engaging in conduct that creates a grave risk. Yes, engaging in conduct. Which creates a grave risk of serious physical injury. So that's why I was hesitant to think that there's another mens rea of negligence there, because that feels to me a little bit more like an actus reus, which is, Now, and what kind of actus reyes is that? I'm not sure. Yeah, well, It's engaging in conduct. Which seems like a conduct element, right, engaging in conduct. But it's not any conduct, so it's conduct which creates a grave risk of serious physical injury to such a person and thereby causes the death of such a person. So it's almost conduct that is both a conduct and A result of conduct. At least we can say that the causing the death of such other person is surely a result of conduct element, right? There's surely a result of conduct element in this statute. Which is causing death. What other kinds of elements are there? What are the attendance? Can you, can you identify some attendance circumstances for me here? Um, the ages of people involved, yes, so the defendant has to be 18 or more. And the victim has to be 11 or less. Right, uh, or actually less than the left, so 10 or less. Right? OK, so. What we can kind of try and do is take the whole statute, the whole language, and then start to kind of try and parse it out this way, OK, which is what you were doing. You had the intent to cause physical, you, the first thing, your, your first attendant circumstance would be the first attendant circumstance. Then you had, you, you identified the mens rea intent that went with a certain act causing physical injury. You identified another attendant circumstance that the person has to be less than 11. Right? Then you identified the reckless conduct. Which creates a grave risk of death. And thereby causes. The death of such a person. So actually, what you were doing was this, I think, I think this is everything you gave me, pretty much, right? You gave me an attendant circumstance, being 18, you gave me another attendant circumstance being 11. You gave me an intent mental state to cause physical injury. Uh, and. There we could put uh cause physical injury as the as the actus reus, so it's a. Good question. Um, is it a, is it a cause physical injury? Is that a, is that a, a conduct? Kind of like a mixed, it's either kind of, it's kind of like both conduct and a result of conduct thing, um. All right, you've got the recklessness, which you gave me. And the, the conduct which engages in conduct which causes a grave risk, and then you've got the result of conduct at the end, and thereby causes the death of such a person, OK? Now, Um, The struggle in terms of interpreting this statute would be to try and figure out how many elements does this require, right? Because what, what this turns into then is a jury instruction. Right? This turns into a jury instruction. So the judge will instruct the jury in order to find defendant. In order to convict, in order to find defendant guilty of 125.20, OK. You will have to find 5 things. As a jury. Or 10 or 7. And that's in a way what you're going to be fighting about, right? Which is your, that's, that's where your interpretation of law, where the rubber hits the ground, OK? As a prosecutor, you're gonna want to have less things to have to prove. Right? You're gonna want to bring that number of elements down, make it a little bit more simple for the jury to convict. As a defense counsel, you might want to bring that number of things up. You might also be trying to make it more kind of intentional rather than say, knowledge or recklessness, right? So if you're defending someone and you're you've got a statute like this, you might want to push some of these in a certain direction. OK. And we'll see how you can do that today a little bit in a moment, all right? But this is, this is, this is basically what you need to be doing when you're reading a case to figure out what the elements are for a case. So let's do it. Let's do it together. All right, let's turn to uh. The Faulkner case. No, the Cunningham case. OK. Um. And that's You've got that on pages. 243, 260, or 285. It's 9, 1011, I think. OK. All right. Regina versus Cunningham. So as you know, this is a British case. It's not an American case because it's got Regina in it, who is the queen. So it's the Queen versus Cunningham. And very quickly, uh, Serena. Why don't you tell me what happened here very quickly so we get an idea?
+
+SPEAKER 3
+Sure, um, the appellant's house was connected to the Wade's house, um, separated via a wall in the cellars that was pretty loosely cemented. The appellant went into the cellar of the house and stole a gas meter. In doing so, he didn't turn off the gas. Gas escaped and then it seeped through the wall and asphyxiated Sarah Wade in her sleep.
+
+SPEAKER 1
+OK, who's Sarah Wade compared to Mr. Appellant? Um.
+
+SPEAKER 3
+I couldn't tell if it was the neighbor or the mother-in-law.
+
+SPEAKER 1
+It's the mother-in-law. Never do that to your mother-in-law. OK. All right. OK, so basically, um, well, uh, Mr. Cunningham here, uh, went into the basement and what did he do exactly?
+
+SPEAKER 3
+He stole a gas meter off the gas pipes.
+
+SPEAKER 1
+He ripped the gas meter off the gas pipes, right? OK. And um. Was there a spigot anywhere nearby? Did you get a sense?
+
+SPEAKER 3
+Yes.
+
+SPEAKER 1
+How close?
+
+SPEAKER 3
+Close enough that he could have turned off the gas,
+
+SPEAKER 1
+yeah, right, OK. And how's he getting money out of a gas meter?
+
+SPEAKER 3
+I think he just sold it for. No, no, it was an old, this is, we're in,
+
+SPEAKER 1
+we're in olden times. You had to put your shillings in the gas meter in order to get the gas, so it actually had the shillings in it. So he rips it out to actually take the 8 shillings that are in the gas meter, right? OK. And of course, um. The poor bloke doesn't realize that his mother-in-law is right next door and the gas is going in and she's obviously at very great risk of asphyxiation. OK. All right. Now, how do you define, what is the crime in England in 1957?
+
+SPEAKER 3
+Um, it was. Um, endangering the life under Section 23 of the Offenses Against the Person Act.
+
+SPEAKER 1
+Yes, and what, what does the law actually state?
+
+SPEAKER 3
+Um, should I read the whole thing?
+
+SPEAKER 1
+Oh yeah, let's go for it.
+
+SPEAKER 3
+Um, whosoever shall unlawfully and maliciously administer to or cause to be administered to or taken by any other person, any poison or other destructive or noxious thing, so as thereby to endanger the life of such person or so as thereby to inflict upon such person any grievous bodily harm shall be guilty of felony. OK, great.
+
+SPEAKER 1
+All right, so those are the words, that is the statute. That we need to interpret here, OK. What does this mean? Now you'll notice it uses that religious, that ridiculous word, malicious. So we know that it's malicious. Uh, now we need to figure out what does malicious mean, right? Um, we're going to set aside unlawfully. What do you think unlawfully might mean? Do you have any, do you have any guess as to that, a nuke? Unlawfully administer? Why do they have unlawfully and maliciously? What is that about? What would that possibly be about? Um. I, yeah, I could you think of what maybe, could you think of why there would be maybe a lawful. Administration of gas. Oh, to cook and stuff, possibly, or yeah, right, so. Although to cook, it could still be malicious. Um, anything else? Any other way that it could be lawful, completely lawful? Have you ever gone to the dentist recently? Oh yeah, maybe like to knock you out, right, right, right, yeah. So one can imagine that there would be circumstances where a doctor, say, an anesthesiologist might want to administer a nauseous gas. Uh, to put you to sleep or something like that, OK? So one of the things, so, so we're gonna, we're gonna carve aside the lawful or unlawful piece here, just understanding that it's kind of creating room in the law to allow people to do things. Lawfully That we would consider lawful, even though they're administering say a poison. OK, all right, so we're taking out the categories of the lawful uses of poison, and here we're going to talk to the malicious poison. OK, so what do you think? Um, Anu, what do you think is the, what's the best way then to kind of try and map this offense? Um, so for specifically for malicious, well, for specifically for everything, I wanna know what we gotta, I gotta, I wanna know what we're gonna, what we gotta find Mr. Cunningham actually did. What are the, what, you know, I wanna know, I wanna tell the jury actually, um. What Mr. Ham did. Let's do this for a second. What did the judge instruct the jury? Um, In this case, uh. Um, I'm pretty sure he said specifically in terms of mali malicious intent would be like a wicked, so like, yeah, he has no business to do and he knows
+
+SPEAKER 0
+that he shouldn't have done it.
+
+SPEAKER 1
+Exactly. OK, so for the judge, who's Judge Oliver in this case, if I'm not mistaken. Uh, he says, well, what malicious means is simply wicked. Uh, he has no business to do, perfectly knows well. It's wicked. OK. All right. Now, um, So what would be the elements there? For Mr. Oliver, the judge.
+
+SPEAKER 0
+Um, Um, I think it would be purposefully.
+
+SPEAKER 1
+Thanks, you're. Your, um You're doing, you're making a, you're um.
+
+SPEAKER 0
+Or knowingly, is that?
+
+SPEAKER 1
+Yeah, thanks, you're, you're, you're. Doing the right thing, which is to try to translate some incomprehensible term of wickedness into something that might make sense for us today. OK. Uh, why did you say knowingly the second time? Well, because they said, um, he needs to like know that he's doing it for, yeah, right, because there is that word that knowledge he and perfectly well knows it, right? So he has no business doing it and perfectly well knows it, OK. So yes, it's possible that um this idea of wicked would be something like knowledge, OK, knowledge and no business doing it, say, or something like that. OK, all right, OK, and um. Did you get a sense, now there was a professor here, Mr., uh, Kenny CS Kenny, right? How did you get a sense of where he would fit on this one? Um, he said wickedness would be an old vague way of defining malice, and he said there should be actual intent to do the particular kind of harm and recklessness as to whether such harm should occur or not. OK, um, and so, um, You used the proposition and I think, or sorry, it said or or yes, OK, so what does that mean? So one or the other, probably one or the other, yeah. So what do you think that boils down to? Um, One or the other, I mean it, I think it means that I, well, now, OK, but um. So what are the, what are the choices here? So the choices are had the intent to do that something like purpose, yeah, or recklessly did something that was like foreseeable. Or recklessly did something that was foreseeable. So it's either intent, purpose, or recklessness. OK. All right, and. Coming back to the Model Penal Code for a second, um, Sydney. Uh, How, what's the relationship between intent and recklessness? Um, is there any hierarchy?
+
+SPEAKER 0
+Yes, what is the hierarchy? Um, So And where are you finding that hierarchy? It's a great question. Um, We're definitely in section 2.02. OK. Um, could you repeat the question one more time? Sure.
+
+SPEAKER 1
+What is the hierarchy in terms of if it says intent or recklessness, what would you argue is the bottom line? Here. So sufficient. What would be sufficient to convict? Um, Negligent is the least, and then it goes reckless, knowing and purposeful for the most. Yeah, yeah. So it almost, so when they say intent or recklessness, it's like, well, recklessness would be enough, right? recklessness would be enough because if you look at Section 5 of Section 2.02, what they're basically saying is if the law requires negligence, then it's established if, if it was purposeful, knowing, or reckless, it's satisfied already. And if it was reckless, then it's satisfied if it was purposeful or knowing. In other words, purpose would satisfy recklessness, knowledge would satisfy recklessness, and then there's recklessness that would satisfy recklessness. So if you're saying something like, well, it's intent or recklessness, as long as you've got recklessness, you're fine, right? OK, and what? And remember, and, and, and, and, and, and just so that we understand these terms, right? Purpose means it has to be somehow your conscious object or, or, uh, or you have to be, uh, or your hope or your belief if it's in a circumstance, OK, whatever, but conscious object, knowledge is you, you have to have a certain certainty about that the fact is actually gonna, that the thing is actually gonna happen. Recklessness, right, is an awareness, OK, an awareness. And then negligence, you don't actually have to be aware of it yourself, it's that a reasonable person. would be aware of it. OK. All right, we'll come back to those distinctions in a second. Let's go back to the Cunningham case for a second. How does Judge Byrne ultimately rule in this case? Uh, Is it a Did I know, uh, Aliyah, did I? I said it wrong yesterday, didn't I? Aaliyah, Aaliyah, OK. Aaliyah, um, what does, um, Judge Byrne ultimately rule in this case. Um, I think he rules that. It was malicious, but it ends up getting overturned in the end. And why, why, well, um. How does he define malicious as wicked. Uh, no, not, um, not Judge Oliver, but Judge Byrne, who ultimately is the person who writes this opinion. Yeah, so I think he thinks it's improper that malicious means wicked, and it should have been left to the jury to decide. With what kind of instruction though? Um, I guess like without the specific instruction that malicious meant wicked, like. Yes, certainly, he doesn't like that one. He wants to get rid of wicked, but what does he end up saying is uh. Malicious It's It doesn't have to be intending the victim, the injury to the victim, he says, right? So this is in the penultimate paragraph, right? In our view, it should be left to the jury to decide whether, even if the appellant did not intend the injury to Mrs. Wade, he foresaw that the removal of the gas meter might cause injury to someone, but nevertheless removed it. So what would that be? Um It's just foreseeability, right? It's just foreseeability, right? OK, so they malicious, in this case, ultimately malicious just means foreseeable. OK, that's all it is. So, and which is not. Well, It's not the same thing as knowledge, right? I mean, for knowledge would be much more certain. Remember, in our um in our, if it were knowledge, right? If it were knowledge, you'd have to be Well, you'd have to be aware of a high probability. Here it just has to be foreseeable. Maybe I mean maybe somebody could argue that foreseeability is just being aware of a high probability, um, but in any event, the concept here is foreseeability, that the court is using in this particular case. Um, now, uh, It is the, if you're. Do you think, how does that compare to something like recklessness? Foreseeability, yeah, um, I think if you can like foresee an action or you can think that it might happen, um, a reckless person would like not try to intend that to happen. I don't know. Right, yeah. So this notion of the way that it's styled by this British judge is foreseeability. But the foreseeability there really does smack of recklessness. Cause if we go back to the definition of recklessness, right? The definition of recklessness in the Model Penal Code is, well, a person acts recklessly with regard to a material offense offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from misconduct. So foreseeability means, well, you know that that's a, a possible outcome, right? And you have ignored it. It was foreseeable and you ignored it, right? And we're not saying, and we're saying in a way, it was foreseeable to him. To Cunningham Right? And that is pretty similar to saying, look, he consciously, he knew there was a substantial unjustifiable risk. It was foreseeable. And he consciously disregarded it, right? OK. Now what would be the difference Um, uh, Noella? With negligence, if we put a negligence standard here. How would it be different than saying something about how the recklessness?
+
+SPEAKER 3
+So, here the judge is talking about um the defendant specifically and whether he foresaw the risks, but negligence would be like any reasonable person, whether they would have foreseen the risk.
+
+SPEAKER 1
+OK, and that's a very big distinction here because, right, Mr. Cunningham, we don't know what Mr. Cunningham's mental state was, right? Having to prove that it was foreseeable to him might be difficult for the prosecution. It would be a lot less difficult for the prosecution to prove that it was simply negligent. So if the requirement was simple negligence, it would have been a lot easier to prove that he violated the statute, right? Why? Because we don't have to, for negligence purposes, enter his mind at all. We don't have to care about what he was thinking, doing. Intending, knowing or aware of, we can just say a reasonable person would have been aware that if you pull the thing out and yank it off and don't turn off the tap, there's gonna be gas that's going and that's gonna be able to harm the mother-in-law, right? And so we wouldn't really have to, I mean there's a way in which negligence is a mental state which means we're not entering that person's mental state, we're just looking at what a reasonable person. Would have thought or known or done at the time. OK. All right, let's quickly look at um Now, let's quickly look at the next case, Faulkner, OK? Um, Let's quickly look at the Faulkner. OK. Uh, so tell me, um, Angela, what is the, what is the offense in Faulkner? What is the, um, What is the crime?
+
+SPEAKER 3
+Uh, Faulkner was charged and convicted with violating the malicious Damage Act by maliciously setting fire.
+
+SPEAKER 1
+So it's the Malicious Damage Act, OK. And what does the Malicious Damage Act seem to prohibit?
+
+SPEAKER 3
+Uh, I guess that you can't maliciously cause damage to property. Yeah, you can't maliciously set fire to a ship, let's
+
+SPEAKER 1
+say, for, for now, all right? You can't maliciously set fire to a ship, OK. Now, um, the lower court, uh, finds, uh, what does, what does the lower court, how does the lower court, OK, and so obviously this would be how we could start to kind of try to, uh, map the elements. So it might be, you may, we, we seem to have two elements. One is setting fire to a ship, that's a conduct. Uh, you know, if it were a modern arson statute is usually written as causing a fire, which would be a result of conduct, but here we're here they just say setting fire to the ship, OK, and maliciously, and that seems to be now what does the lower court, what does the lower court, how does the lower court interpret maliciously? So maliciously means nothing. How does the lower court, what does the lower court give as a kind of mens rea to malitias?
+
+SPEAKER 3
+Um, I think the judge instructed the jury that they didn't necessarily have to find like intention, but like as long as he was found to be stealing the rum and that the fire took place, then he's guilty.
+
+SPEAKER 1
+OK, that's entirely correct. And what does that mean? So as long as he was. Engaged in stealing the rum. What is the mens rea then?
+
+SPEAKER 3
+I guess it's no either knowingly or recklessly it's like
+
+SPEAKER 1
+not clear. It's actually there isn't a mens rea attached to setting the fire. Right, it's just, it's like, it's an attendant circumstance. Almost. It's almost as if, it's almost as if this isn't a, this isn't a mens rea. It's that you have to be engaged in a theft of the rum. Do you have to be engaged in a bad act. You have to be doing something bad. If you do something bad. And you set fire to the ship. You're guilty for the arson. We don't care what mental state you had about setting fire to the ship, just as long as it was happening during the course of a Something bad, you're guilty. Right? OK, so, um, in a way there isn't a mens rea. In a way he's not requiring a mens rea. He's not even really requiring that a reasonable person wouldn't have set fire to the ship. Or wouldn't have known, it's really just. Strict liability. If you're engaged in a bad act, trying to steal the rum. And a fire ensues. That's it, you're guilty, OK? This concept we'll come back to next week when we look at when we're studying homicide, because it's very much like felony murder. OK, felony murder, you'll see next week. Felony murder is basically any murder that happens during the course of a felony. Is A certain degree of murder because it happened during the course of a felony. Murder during a robbery, murder during a burglary gets automatically elevated because of the underlying felony, OK? Um, or it could be like misdemeanor manslaughter. It's kind of like if, if, if there's a, if there's a death that happens during the course of a misdemeanor. It could be considered a manslaughter. OK. All right, we'll come to that next week. The idea right now is it's a form of strict liability. It's almost as if there is no mental state. It's, it's automatic, strict liability as long as you were engaged in that trying to steal the rum, OK? All right, now I take it that, uh, Barry takes a different position. Um, what's Barry's position here, uh, Julia?
+
+SPEAKER 4
+Um, he starts by saying that the act must be done in fact intentional and willful, but then he seems to say that instead of it like actually needing to be intentional, that the accused just needs to know that the injury would be probable and then act anyway. So that sounds more and act recklessly, right?
+
+SPEAKER 1
+Yeah, so Barry does this kind of weird thing, right, where he, as you say, starts with kind of it has to be intentional. And willful But then when he defines intentional and willful, it becomes something like knowledge plus recklessness, right? OK, so that's how Barry defines it. And, and how would, um, Elizabeth, how would the uh Fitzgerald in the dissent seem to, uh, define it?
+
+SPEAKER 4
+Um, I think that Fitzgerald said, um, that there's like no authority cited for the proposition that prosecution was giving that they wanted the defendant to be criminally responsible even though it wasn't probable, um, and Fitzgerald also says that um. He's also of the opinion that it's not warranted by the law.
+
+SPEAKER 1
+Yes. Can you get a sense though of where he lands in terms of what his mens rea would be?
+
+SPEAKER 4
+Mm, maybe that it should have to be a probable consequence.
+
+SPEAKER 1
+And yeah, there's something about foreseeability there too, right? He's adopting just a kind of a reasonable foreseeability or intended kind of mens rea, right? So reasonably foreseeable, so it's something again, it's something a little bit like recklessness. That it has to be the case that it was reasonably foreseeable, of course. What's interesting here is. Reasonably foreseeable. Could possibly be something like negligence, rather than, I mean, it's not clear that he had to reason, he, it's not clear that he had to foresee it himself, right? So Fitzgerald ends up with a reasonableness standard that smacks of negligence, and a foreseeability that smacks of recklessness or intent, but obviously, You don't have to go that far because of the hierarchy, right? OK, so you don't have to go that far. OK, so those are the ways in which kind of you would be interpreting, like, you know, if, if the, if the, if, if Fitzgerald was the majority, you'd have to figure out, OK, what is this exactly in terms of kind of is it, is it a form of neg it's some kind of modified negligence recklessness standard or something like that, right? And that's, and. That would be a huge fight from the prosecutor versus the defense. Right? Huge. Reasonably foreseen, foreseen. Well, that would have to be on the pro the prosecution would be arguing, well that's a negligence standard. OK, that's just uh it's a reasonable foreseeability. The defense would be arguing, no, that's a foreseeability standard, that's like a recklessness standard, right? Because it would be easier to convict for negligence than it would be to convict for recklessness. Why? Because you have to actually show that that person was aware of that, right? And then you could, you know, as a defense attorney you'd be like, no, he wasn't, he was trying, he was, he was not aware of anything. The only thing he was aware of was that he wanted some rum. That's all he was aware of. He wasn't thinking, right? So that, you know what I mean, so that would be, that would be where all of the, uh, legal argument would be with the judge. How do you define it to the judge, to the jury, sorry, and it would be where all of the. Argument at trial would be, right, that would be your theory of the case, the theory of defense, right? He, he was not, he look folks, he just wanted the rum. That was the only thing he had on his mind. He was not aware of anything else. He was laser focused on just getting some rum. Right? So, OK, that's where the fight would be. OK. All right, now, um. Uh, so, let's assume for a second now, let's assume for a second that we, that these are the definitions of the Faulkner statute. A person commits arson if he causes a fire to result. All right, Jessie. What, what mens rea is there there? Um. I guess if if he intends the fire to result, that would be mens rea. Yeah, if he did intend, if it said that he intended to cause a fire, then that would be intent. Does it say intent? No, no. So what's the mens rea? Um, Just that he causes the fire to result. Yeah, you're saying there isn't a mens rea there. Yeah, there's no mens rea there. OK, so then what's the mens rea if you're the prosecutor. What's the mens rea? I usually, I won't, uh, usually, uh, I won't co-counsel you as in opposition floor. You're the you're the defense attorney, um, Jesse, you're the prosecutor. What, what is your best argument? What's the, what is the, what is the mens rea? What do you want?
+
+SPEAKER 3
+Um, You know, You want justice, I know, but But
+
+SPEAKER 1
+But As a prosecutor, what do you want?
+
+SPEAKER 3
+Uh, to convict.
+
+SPEAKER 1
+Yeah, yeah, yeah, yeah, so what do you want is the mens rea. None, none, none. Right? There is none. It's written this way, it says if you, you commit arson if you cause a fire, period. Strict liability. There is no mens rea there. It's written that way, it was intentionally written that way. The legislators know they know how to write things. They put no mens rea, it's a strict liability crime. You cause fire, you're guilty. Right, OK, Flora, you represent Mr. Faulkner, um, I would just wanted a drink of rum. Just wanted to drink rum. Poor guy, man, he's been out at the sea for 4 months. Go ahead.
+
+SPEAKER 3
+Yeah, I would, um, argue that there's an implied, um,
+
+SPEAKER 1
+where, how, when, what is it? Yes. Yes, because under the Model Penal Code, what, um, Well,
+
+SPEAKER 3
+there's like an implied which one is it? Um, like out of the four, or are you referring to, um, I think. Could argue for um are you were you are you
+
+SPEAKER 1
+are you looking at your model penal code right now? Your, your Bible. Are you looking, for instance, at subsection 3 of section 2.02?
+
+SPEAKER 3
+Yes, so when it's not prescribed by law in the statute, um, The element is established if the person asks, acts purposely, knowingly or recklessly.
+
+SPEAKER 1
+OK. All right. So under the Model Penal Code, under NYPL now under, I don't know, we'd have to go look at the uh. UK law, whatever, but it, right here, if we're applying this, it says, if there is no mens rea that is prescribed, then it's intent, knowledge or recklessness. Meaning effectively, What, Sydney? Meaning effectively that it's. Recklessness, right? That was the hierarchy, right? Correct, right, yeah, OK, so it's basically recklessness. OK, so they would have to show that he's not aware and then now, now notice for the defense, you would have two elements here, right? You gotta, you gotta start a fire and you gotta be reckless. For the prosecution, you'd only have one element, you gotta start a fire. That's, that's like night and day, OK? That's a big difference in terms of what you gotta prove at a trial, OK? All right, now. Let's go back to this for a second then. And um What do you do? What do you, what do you think? Uh, and so Irene, you're gonna be, uh, the prosecutor and. Yingying, you're going to be the defense counsel. Um, how do we, how do we, how do we, what is uh Is there an attendant, um, on the attendant circle, let's say being 18, no, uh, let's, let's say, um, OK, uh, causing the death of such a person. The last line Is there a mens rea that attaches to that? I mean, not automatically.
+
+SPEAKER 3
+Say what?
+
+SPEAKER 1
+Not automatically, not automatically, no, um, and you're the prosecutor, um, so, uh. There, so not automatically and therefore, Um.
+
+SPEAKER 3
+Therefore, if you cause the death of such person as a prosecutor, I would argue that I could convict you.
+
+SPEAKER 1
+Yes Causing the part of the, the part of the statute that says causing the death does not have a mens rea attached to it. You're saying So, um, so it does have to be the case that you are, uh, you might have to have an intent to cause physical injury, and you might be reckless with regard to your conduct, but you don't have any mens rea attached to causing death. Is that right, defense counsel? Um, well, I guess then I guess I would argue that there's an implied lens you get if you were in the penal code 2.02 subsection 3. How about 4? Um, So subsection 3, you're right, you could try something with subsection 3. What could you try with subsection 4? OK. It's noon I think class is over. We'll start here on Tuesday. Enjoy the snow.
+
+SPEAKER 0
+I had 0 faith that seating chart was gonna go. Yeah. Like, we, we actually think it's. So it's like Yeah. OK, so, yeah, well, so for instance, um.
+
+SPEAKER 1
+Maybe not for being 18 years old, but being 11 less was it, I didn't have any knowledge that the
+
+SPEAKER 0
+person was less than 1 or do you have to
+
+SPEAKER 1
+have knowledge that the person was less than 11? No.
+
+SPEAKER 0
+Yeah. May I have your attention please? This is your fire life safety director. going off. It's not an emergency. You don't need to leave the building. It's not an emergency. Thank you. OK. All right, um, so for instance, uh, I mean, this
+
+SPEAKER 1
+will come up.
+
+SPEAKER 0
+Well, yeah, I mean, yeah, in this case, if it's,
+
+SPEAKER 1
+um, did you have to know that the person was 11, I mean 10, say, um, it could be just strict liability. So you, if the person is 10 years old, you're liable under this. If there's no mens rea, but you could say, well, no, you had to know that the person was is a minor, you know what I mean? So that could be knowledge you have to be intent.
+
+SPEAKER 0
+It's not an emergency. You don't need to leave the building. It's a session. Please, it's not an emergency. Thank you so much. That's right. All right I'm aware of. Yeah, so then you, then you would kind of argue, and you'd look at the legislative history. You'd try and, you know, you, you could, yeah, I mean, yeah, that's a default rule, but there might be
+
+SPEAKER 1
+an exception for this particular thing. There's always been a history of arson, it's been, uh, recklessness, or, you know what I mean? I mean, yeah, yeah, or, you know what I mean, yeah, yeah.
+
+SPEAKER 0
+Sorry, um, so you mentioned on um. men's is the lowest. And you just have to be react.
+
+SPEAKER 3
+I was wondering how do you determine if that's a
+
+SPEAKER 0
+strict liability versus kind of an and that is just like the back.
+
+SPEAKER 1
+Yeah, well, it is kind of like an attendant circumstance.
+
+SPEAKER 0
+Yeah, it the way it functions is like an attendant
+
+SPEAKER 1
+circumstance without a mens rea.
+
+SPEAKER 0
+Or, well, no, you're, you're right.
+
+SPEAKER 1
+It's kind of, it's strict liability as to causing the fire if there is the attendant circumcised. It's not a strict liability crime. Um, it's not like starting a fire, period. It has to be starting a fire during. And the hotel, right? So it's strict liability as to starting the fire as long as there's an attended circumstance like strict liability.
+
+SPEAKER 3
+You don't, you're driving without your license, well, yeah, in
+
+SPEAKER 0
+a way, in a way, yes, yes, OK, all right.
+
+SPEAKER 1
+I mean, it's not strict liability driving.

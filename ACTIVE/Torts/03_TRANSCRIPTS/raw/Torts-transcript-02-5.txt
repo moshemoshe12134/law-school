@@ -1,0 +1,662 @@
+SPEAKER 0
+in Brooklyn.
+
+SPEAKER 2
+I have also, I've been on the G out there too, and I have not been on this car.
+
+SPEAKER 1
+G is my favorite. The G is your favorite train. The G has been my train for the entire time I've been. I Living off the sea right now is actually yeah, oh the G. I've used it a handful of times out there for days like to to get to LaGuardia.
+
+SPEAKER 2
+Oh my God, it's like it's a journey that includes the G train the L to the G. 7 to the the Q 49 or whatever the bus.
+
+SPEAKER 1
+Well, yeah, that's, it's, it's incredibly easy from here.
+
+SPEAKER 2
+In fact, that, uh, that, um, M60 stops right in front of my neck.
+
+SPEAKER 1
+I'm gonna, I'm gonna take I'm just like. I And that's what, that's what I know. Yeah, like I OK.
+
+SPEAKER 0
+Welcome back. It's nice to see you. So like we usually do, why don't we start off with. If you like taking a couple of breaths just to place ourselves in this room, if it helps you to close your eyes, it's great you can just relax your eyes and kind of stare at the floor or your table, whatever feels natural to you. And you're taking a breath in very slowly. Think of it as taking just a little more time than usual. Breathing out again just as slowly. Breathe in again. Feeling your body, sit in your chair, feel the weights. the ground beneath you. Breathing out again, sinking in even further into this room. Once again, At your own pace.
+
+SPEAKER 1
+When you're ready, Gently open your eyes and look up
+
+SPEAKER 0
+here.
+
+SPEAKER 1
+OK, as usual, we have our agenda on one side,
+
+SPEAKER 0
+we have our themes on the other. Just to briefly run through what it is we're doing today. As you know, we're talking about one more way that judges have adopted. To think about how to show that someone's negligent. And of course remember every time I ask you to read something or do an assignment or whatever it is you want to be asking yourself why are we doing this? I'll usually try to tell you a little bit in advance. This one is a classic case. Maybe one of the 2 or 3 most classic cases in torts. Everybody learns this in law school. If you go out there to any lawyer and say Bless than PL, they'll be like, torts, right? They'll A Little confused about why you said it, but don't know what you're talking about. It's a famous case. It's a famous opinion. It's taught in law schools. It is a strange case to be using to teach this concept, but for whatever historical reasons, it's the one that's become the classic, and so we'll go through that, um, using this case. First thing we'll do is sort of get all the facts that we can onto the table, and what we'll do is we will actually get the facts out of the Gillis reading because like many opinions of this era, as you've seen in Cardozo as well, but here Learned Hand, the way the facts are described in the opinion are maybe incomplete or just really confusingly written or maybe meant to be mysterious or. Assuming that you know all kinds of things about how maritime law works or how boats work and so on, so what we'll do is we'll use a Gillis reading because it's much, much clearer in exposition. So we'll really get the facts on the table. Remember all the time we're using the facts like this whole first section of the course is just really about how to use facts and draw inferences from facts and make your arguments and counterarguments very fact heavy, so we're gonna get a lot of facts out on the table. Then we'll actually get into these concepts of BPNL. Or more precisely, we're gonna be talking about B. What is that? And PL, what is that? Without worrying about the algebra, without worrying about multiplying anything, but just like what is B? What is PL? Why do we compare them? So that's what we'll be working on and Just getting that concept down. After that, we're going to practice using it. But how do you use this framework to make arguments, assuming that some judges seem to like this way of thinking about negligence? Well, what, how do you, what do we do with it? Is it just your aunt and uncle arguments? Is it something different? Is it? A different way of talking about aunt and uncle arguments? Is it the same thing as reasonable person? How does it relate to what we've already been doing these last few days in arguing about negligence? And of course, after that, we'll practice with. Both the facts here, doing some extended hypos based on this scenario, but also applying it to other things that we've done before. Like little Leo Adams, a little kid electrocuting himself. And of course then we'll get to the critiques, critiques of this idea itself, but also about Should this be how we tell juries how to do negligence? Should this just be left to judges? Is there any viability left in this after lots of time? This is kind of an old case, it's classic. But Ideas come and go. What's happened to BPL since it became a classic. Themes, the themes you have seen before, almost, almost all of them you have seen before. The only one that is new is information costs, info costs. We will get to that. All the others you have seen before, and probably this is a good time to just refresh and think about what have we been using these themes, how, how have they come up so far competing aims of tort law. Remember that's where we started thinking about, well, we don't really know what judges are doing when they create tort law doctrines and concepts and. Tell you what to tell juries when you're making your arguments, but we have some idea, we have some idea that it might be about corrective justice, it might be about right and wrong, about righting wrongs, torts means wrongs. So righting the wrong, what do you mean by righting the wrong? Is there some kind of moral balancing that we need to think about, you know, making them pay as a way of making that moral balance correct? But why, why does payment do that, you know. So that's one possibility. Another is deterrence or incentives. You might think of it as you make somebody pay for breaking things, then they won't break them. Or they'll be more careful. You break, you pay is an idea we'll keep coming back to throughout the course, OK? But there are also possibilities for what judges over time have been trying to do with what they've done with tort law, and you can think about those aims as well, but those are the two main ones corrective justice, righting wrongs, and then deterrence or incentives, making people be more careful by making them pay for the things that they break. RVS rules versus standards, we just did that last time. It's fresh in your brain. You'll see that everywhere, of course, an important thing for us is to remember that tort law. In this part of the course in thinking about how to show negligence has leaned very, very hard on flexible standards, really getting away from rules. We do not have an infinite rulebook like. Federal regulations are an infinite rulebook. Tort law is not an infinite rulebook. Holmes lost that. Cardozo won, and now it is all going to be, here's a generic standard. Here's a reasonable person, reasonable person test. You apply the facts to it, and then the jury in each case is making up the rule for that situation. OK. Who decides? Again, judge versus jury. This will come up again today. I've heard that before, objective, subjective. Remember, we start off with thinking about the reasonable person standard as an objective standard. It's what the objectively reasonable person would do. We're not really getting inside the brain of the trolley company. We're not really getting inside the brain of little Leo. But kind of sometimes we get close when we think about little Leo's age, mental capacity, and experience, and we think about a reasonable child of that character of that situation in that situation, it's kinda getting close to. Subjective little Leo, but again, the point is that we are not talking about his own intentions. We're talking about the, what a reasonable version of little Leo of the age, mental capacity experience would have done in that situation. So subjective my objective. Information costs, we will talk about institutional competence you have heard about from the last couple of days we've been thinking about. Who decides not just judge and jury, but maybe you bring in outside information, you maybe you bring in information from what the industry does, what everybody's doing, custom. You might think of it as professional custom or professional standards, and then now we're talking about malpractice and why does that have so much more force in deciding negligence cases than custom does? Is it about institutional competence of the jury versus the medical expert? So you'll hear that phrase coming back. And what more facts? What more facts? is the question we're always asking every time you're making arguments, you're wondering what more facts would I want to have to make my case stronger. All right, so just taking a minute or two to refresh us on the themes now that you're starting to see them come back. You know this already, but Just to set this in the background because it's going to be. The background against which we are talking about BPL today, which is the usual way of thinking about how to find negligence. How do you say someone is so careless, so at fault that they needed to pay for somebody's injuries or their own? Well, if you think of some kind of dial of like you're not careful at all, so you're like unbelievably infinitely careful, somewhere along the way you've taken enough care where tort law is just gonna say you don't have to pay for the injury now. You're not negligent. OK. Because you were careful enough. Accidents are going to happen. Some precautions could have been taken, but they weren't worth it. You didn't have to do it. We don't expect any reasonable person to have taken those extra precautions. That's too cautious. Now remember, already in that is embedded the idea that some precautions aren't worth taking. We excuse you from not taking certain precautions, even if the accident happened. And that's going to be essential for BPL today. What does it mean that a precaution is not worthwhile? What makes a precaution not worth taking so that we don't expect someone to have taken it. OK, so that already is going to be part of the background for BPO and of course now, the other part of it is I thought we know how to tell the jury how to think about this. You've seen the instructions for many, many contexts for children, for malpractice, for plain old negligence. There's an instruction that says the reasonable blah blah blah. And today we're looking at something that sounds a little bit different. It sounds like some kind of cost-benefit analysis, but what does that have to do with a reasonable blah blah blah? Is it the same thing? Is it not? Are we still asking the jury to pick that point based on some idea of reasonableness, or are we doing something different here with this structure? The last thing I'll say is remember this thing is so flexible, so loosey goosey, so undefined that as you already know, judges over time have had this feeling of we need to control the jury a little bit. And there's different ways to structure the negligence idea and jury instructions to control the jury a little bit. Not let aunt and uncle truly decide. Completely on their own. Well, one thing you can do is you can decide what information they can use, what information they can't use, what information they have to use. Here you think about children, here you think about malpractice. Another way to do it is actually to tell them. Here's how you think about it. Think about the reasonable person. It's objective. It's. Today what we're seeing is another way of judges telling themselves really, but also maybe juries, how to think about the question of reasonableness. You might think of today as judges adding structure onto the idea of a reasonable person. And we'll get to that. So just a reminder of this is where we're coming from, and then we're gonna see. What comes out of this case. So let's dive right in. Again, as you know, we're going to get into the facts really quickly. Although we're going to take our time to establish them. And the way we're gonna do this is because the facts are so strange and complicated and there's so many moving parts we're just going to read, literally read aloud from Gillis. So I'm gonna ask 3 people to read. Jimmy Quinn. Henry Rosenblatt. The same right here. Henry, yeah, great. Estefania Perez. I'm gonna ask the three of you to read. In sequence. Starting on page 13 of the opinion, which I think is page 118 of your packet, tell me if that's wrong. Does it say page 13 on top of the Gillis? Yeah, alright, so Jimmy, why don't you start us off and read the first two paragraphs there starting with during the height of the war in the middle, so it's not the very top, but during the height of the war, read two paragraphs and then we'll switch over to uh. Henry, is it? Yeah, Henry.
+
+SPEAKER 4
+During the height of the war, shipping on these docks and harbor created a crowded and congested condition beyond limits. OK, let's just pause here for a second.
+
+SPEAKER 0
+What war are we talking about?
+
+SPEAKER 4
+I think World War II, World War 2, 1944, right,
+
+SPEAKER 0
+this is a World War II era case. OK, sure, so this is happening during the war, right.
+
+SPEAKER 4
+With boatloads of material waiting to be shipped and ships waiting to be convoyed across the ocean. The government was sending in its barge loads. Obviously, they could not all be loaded into the ship at once, and the slips became congested, and they had to find places where they could be put temporarily while waiting to be loaded on into the ships.
+
+SPEAKER 0
+OK, so let's just pause there for a second. Here's a picture, if you want an actual picture, not one of my doodles. This is not during wartime. This is about 10 years before wartime, or depending on how you count it. And this is lower Manhattan. You can sort of see Wall Street there. Some of the tall buildings are, I don't know how many of those are still around, 1931 photo. So imagine 10 years later. Notice all those little sticky things, things pointing out. Those are piers with. All the little things are barges, boats, storage, transport things. OK, so lower Manhattan does not look like that now. If you've ever been down there, it doesn't look like that now. It's like just the Staten Island Ferry and a bunch of tourists, but back in the day. This is a major, major shipping. Place, OK, all those things are shipping stuff in and out, and it goes up the left side. The left side is the Hudson River. That's what we're really interested in. That's where my doodle is up the Hudson River a little bit, you'll see the piers that just keep going up there. Even now, if you go down there, you'll see things called Pier 50 or Pier something something something, um, Chelsea Piers, you might have heard of, right? So. That's what we're talking about. So you can imagine this being even more congested, much, much more congested in the river than in this picture. That's what's happening during wartime. Hey, Jimmy, go ahead.
+
+SPEAKER 4
+The events that culminated in the sinking of the Anna Sea began shortly after she was taken to just such a temporary berth.
+
+SPEAKER 0
+All right, so who's the Anna?
+
+SPEAKER 4
+That's the ship that was being loaded up with flour to ship to Europe.
+
+SPEAKER 0
+OK, it's the one that we're interested in. We'll, we'll see the, we'll see the sad story of Annay as it, as it develops, but that's going to be the main object of interest for us.
+
+SPEAKER 4
+Go ahead. The US had hired the Pennsylvania Railroad to carry 200 tons of government-owned flour by rail from Buffalo to New York and then load it onto a barge for delivery to a transatlantic ship. The railroad, which had leased the barge Anna C from her owner, Connor's Marine Co, duly loaded her with the government's flour, 399,600 pound bags to be precise, and had her taken to Pier 58, where the ship was taking on cargo.
+
+SPEAKER 0
+All right, let's just pause there for a second. OK, so NSC is carrying a bunch of stuff. What's the stuff? Uh, flour, flour, what's this flour probably for?
+
+SPEAKER 4
+Probably for the troops, for the troops we're sending stuff
+
+SPEAKER 0
+from New York Harbor, right? You're loading up all this flour from middle of America, putting it on a train, sending it to New York. You're gonna put it on a boat somewhere around here. That boat's gonna take it over to the troops almost surely, right, because this is the government sending it, OK. We're talking about a little bit of flour or a lot of flour is like 100 pounds, like a few cakes. What are we talking about here? It's 400,000 pounds of flour, right? Or it is almost 4000 pound bag. So yes, 400,000 pounds of flour. Now if you imagine little Leo, 12 year old, let's say little Leo is 100 pounds, how many little Leos are we talking about? 4000, 4000. You're looking at one of these barges here, like the thing with the wood on it, holding 4000 little Leos. That's kind of what you're imagining here. OK? That's a lot of flour. It's a lot of stuff. This isn't like, oh, some flour fell in the water. No, this is a huge amount of material that's supposed to be sent to the troops. OK.
+
+SPEAKER 4
+But there was no room at Pier 58. So on January 2nd, the Annay was towed by tug to a temporary berth at the end of Pier 52.
+
+SPEAKER 0
+All right, so let's put Annay here and does she get tied up and all that?
+
+SPEAKER 4
+Her bary moored her to pier 52 with two stout lines, and she lay waiting her turn, apparently in complete safety.
+
+SPEAKER 0
+All right. So Anna C is here. He's tied up with two ropes to pier 52. Seems like she's in good shape, tied up pretty securely there. So far, so good. Who's the bargie?
+
+SPEAKER 4
+That's, I, I guess the guy who is supposed to be on board the ship, you know, tending to it.
+
+SPEAKER 0
+Yeah, the bargie is the person who sort of the captain of the barge, and sometimes it's just the one person, maybe more, but Bargie's in charge of this barge and a sea. All right, Bargie, we don't have a name, but we just call him Bargie. Henry, will you pick up from here on the night before?
+
+SPEAKER 3
+Certainly, um, on the night before the accident, events took a turn for the worse. An unknown tug crew moored a tier of 5 barges to the Anise, extending, extending out into the river and adding their weight to the lines connecting the Anise to Pier 52.
+
+SPEAKER 0
+OK, so let's just pause there for a second. Here's where the trouble starts. What happens? Some people start adding more boats. To Anna C Something like this.
+
+SPEAKER 3
+That's correct.
+
+SPEAKER 0
+Something like this. How many? 5?
+
+SPEAKER 3
+That's right.
+
+SPEAKER 0
+They're all tied up with ropes. So now you have this little caterpillar. Of 6 barges flopping around in the Hudson River, which way, this way, Hudson flopping around, right? It's just tied up with ropes. There's a current. Right, this is sticking out into the middle of the river. Why? Why are they doing this? Why, if you had to imagine what is happening, is this just doing this for fun. This is a really goofy idea.
+
+SPEAKER 3
+No, I would imagine that there is no space at any of the other piers, and it's total chaos, and they just need to get these barges somewhere.
+
+SPEAKER 0
+Yeah, you have to find a place to park the thing somewhere. It's just, it's just like Columbus Avenue. You trip triple parking, quadruple parking. There's nowhere to go. There's just too much stuff being shipped in and out. Even Anna C, she couldn't go to her original pier. She had to be temporarily parked here. Everybody's temporarily parking wherever they can. It is total chaos. It is a real mess out there. I didn't draw it, but it is a lot of stuff moving around all the time on these barges, but also on the big tankers, which we'll see later that will take the stuff wherever it's supposed to go, OK? Go ahead. All right.
+
+SPEAKER 3
+This maneuver, which had become commonplace during due to the wartime congestion in New York Harbor, enabled more barges to be moored at each pier, but it placed a strain on the anises lines. To reduce that strain, the interlopers also ran a cross line between the 4th barge in the anises tier and the 4th and outermost barge in a parallel tier that was moored at the next pier to the north, the public pier.
+
+SPEAKER 0
+OK. You see what they're doing. There's another little floppy caterpillar over the next pier just north of this to stabilize the caterpillars to kind of tie them together so that now maybe they're a little more stable, maybe it's kind of. Secure, pretty secure at this point as far as we know.
+
+SPEAKER 3
+One would assume, one would assume, sure, OK, um. Anyway, around noon of the day of the accident, the tug Carroll arrived on the scene. The Carroll owned by Carroll Towing was working as a shifting tug for the Grace Line, the shipping company that operated Pier 58. The Graceline regularly rented the services of tugs such as the Carroll to tow barges from berth to berth in the harbor. When the Graceline wanted to tug wanted a tug to shift a particular barge, the Gracelinepier boss would send a Graceline harbor master, despite the fancy title in reality an ordinary longshoreman, to give directions to the tug captain and to go with the tug to help the deckhand with the lines and see that they get the boat placed right. Consequently, there were 3 men aboard the Carol as she approached the Anne Sea. Her captain and deckhand, both employed by Carol Towing, and her and the harbor master employed by the Grace Line.
+
+SPEAKER 0
+OK, so let me just pause here for a second and say, wow, it's a lot of people involved. There's people from the shore, there's people from Carol, there's people from the Graceline, there's a barge, OK. What is happening in this case is you don't need to know any of this is what's called a limitation action is one of the parties, actually it's a lot of lawsuits being put together, but one of them is the limitation action that means that one of the parties is saying, hey, we know we're gonna get sued, but um, let's put some limits on that first. And the reason that they know um that this is possible is because two things you want to know about maritime cases again, just like Professor Johnson said, if it involves boats, you don't need to know it, but. First thing is that there's no jury. These are decided by judges, OK? But we'll come back to that. That's important in this case. And then 2. All this suing each other is really about trying to establish that everybody is negligent so that whoever has to pay doesn't have to pay that much because the other parties have to pay their own share. This is still early days. We're still in a world of contributory negligence out in Portland, but for maritime cases since whenever they've had a tradition of dividing things up equally. So if Carroll and Graceline and the railroad and the harbor, whoever or whoever's involved are found to be negligent, then they divide it up 3 ways or 4 ways equally. There isn't the same comparative negligence thing that we've seen where juries decide, you know, 30%, 12%, something something percent, no, you just divide it up equally, OK, so if you see references to that, that's what's happening here but remember there's many, many parties here and many parties that can. Be negligent. Many parties that could have been more careful in some way, that's always going to be in the background of how you think about any one particular party's negligence is what about all the other people who could have been more careful? Didn't we expect them to be careful, or do we expect them to be careless? OK, Henry, keep going.
+
+SPEAKER 3
+The NSC, however, was not the Carroll's target. The Carroll's mission was to tow the Camden, one of the tier of barges at the public pier, upriver for unloading at Pier 58. But in order to drill out the Camden, the Carroll first had to remove the obstructing cross line that had been placed between the Anise's tier of barges and the tier in which the Camden lay. The captain of the Carol sent the deckhands and the harbor master to do this job. Recognizing that the wind and the tide, uh, were increasing the strain on the Anise's lines, the captain told them to make sure that the Anise's tier of barges was safely moored before throwing off the obstructing line. The deckhands and the harbor master went aboard the NSC and her five companions readjusted the lines to their satisfaction, removed the obstructing line, and reboarded the Carol. While they were doing all this, the Carol held the anise's tier of 6 barges in place by nosing up against the outermost barge, running her engines against the tide, and pulling on a temporary line she had run to one of the middle barges in the tier. All right, so let's just pause there for a second.
+
+SPEAKER 0
+Here's the setup. They need to get. One of the boats out from the top floppy caterpillar in order to do that, they need to remove the line that's connecting the caterpillars to remove the line to connect the caterpillars, they have to stabilize the lower caterpillar to stabilize the lower caterpillar. They went and checked Anna's lines, and they also pushed the carol up. Against upstream right down Hudson River, this is the Hudson River. It's going downstream this way, so the Carol's pushing the Caterpillar up by edging up against the last boat in the Caterpillar in case you're wondering where we are, this is kind of near the Whitney Museum. If anybody's been there, OK, Whitney's kind of around here. 2nd Circuit. Who we're interested in is kind of down a little bit further down downtown, a little bit to the east. Columbia Law School, I should put that in blue, Columbia Law School. Columbia Law School is up up that way, like 7 sub rides subway stops away or something. OK, so this is where we are. It's not that far from you. You can go down and see one of my former students actually has gone down there and poured a handful of flour into the river in honor of, in honor of tort law. So the Carol's pushing up against this thing, so far so good. OK, they're holding the little floppy caterpillar. They are checking NSC's lines. They need to get the other thing out. Oh, but now, now what happens? Estefania, do you wanna take it from here?
+
+SPEAKER 5
+Oh, it's pronounced Stephania. Um, sorry, uh, it's pronounced Estefania, Estefania, yeah, um. So when these maneuvers were finished, the Carol backed away to get the Camden. Almost immediately, the lines between the Anneee and Pier 52 gave way, causing the entire tier of six barges to break adrift. The Carroll tried to hold the barges against the wind and the tide. But the inner end of the tier, including the NSC, sagged down towards the next pier to the south, Pier 51. The NSC collided with, bumped into might be a more accurate way of describing it, a tanker lying on the north side of Pier 51. All right, so let's just pause here for a second.
+
+SPEAKER 0
+It turns out, oh, there's other boats kicking around, OK? And there's a big tanker over here. And it's got, oh, that's a terrible propeller. Let's do that propeller is gonna be important for us in just a second. OK, so what happens now? The Anna C breaks away from her. Tying up to Pier 52. And drifts Downstream. Towards this other peer. The reason is because the Carol has had to leave. Is no longer propping up this caterpillar because it has to go get that boat that was trying to get out. So the minute it leaves, even though they checked the lines and even though they were pressing up and being secure and everything, you know, there's not that cross line anymore. Caterpillar floats away, pulls Anney off of the pier. Annay is now drifting. The cat she's still attached to the caterpillar. Annay is like blo bloop bloop bloop, and then she And then what happens?
+
+SPEAKER 5
+Um, unbeknownst to anyone, the tanker's propeller broke a hole in the NSC near the, near her bottom, and she began to take on water. OK, so let's just pause there for a second.
+
+SPEAKER 0
+All right, so this could have been worse. Did the tanker blow up? Nope, nope. The NSC blow up? Nope, nope. What, what happened?
+
+SPEAKER 5
+The flower just everything started something leaked inside the boat and it was over.
+
+SPEAKER 0
+It just got, it's just got a hole in it. This propeller is kind of under, underwater. Maybe you don't see it, and I see like crashes in the propeller. We'll see if anybody notices that's gonna be important, but that's all we're talking about here. It could have been worse, but all we're talking about here is a hole in the boat. All right. Meanwhile, Meanwhile, the Carol had summoned a nearby Graceline tug
+
+SPEAKER 5
+to help her get the barges safely back to Pier 52. Both tugs had powerful pumps on board and could have kept the Anisey afloat had they known she was leaking, either because he was absent or because he was inattentive. However, the Anise's bargy failed to alert the tugs that the Anisey was leaking, and the tug crews did not inspect the Anisey themselves because they were preoccupied with rescuing the whole flotilla. Shortly after the tugs managed to push the barges into the ship into the slip between Pier 50 piers 51 and 52, the AnnaC capsized, dumped her cargo, and sank.
+
+SPEAKER 0
+All right, that's the accident. That's what we're talking about. No tanker blowing up despite the collision, no NSC blowing up despite the collision. NSC takes on water. Where does the bargy come into the story? Why are we interested in the bargeie?
+
+SPEAKER 5
+Um, if had he been there, there, he probably could have noticed, but he was nowhere to be seen. Yeah, we don't know where he is.
+
+SPEAKER 0
+He should have been here, but he wasn't. Maybe he was over here at the Whitney, unclear. Maybe he was asleep, maybe he was taking the day off. Remember he had tied this thing up the night before, this is the middle of the day the next day. When he left it, it seemed fine. He didn't come back. As far as we know or as the opinion is going to assume, he didn't come back to look at it again to check on it. Meanwhile, all this other. Stuff is happening. All this new risk, new dangers, new possibility of vaccines is appearing. And what we're talking about is whether or not the barge is what.
+
+SPEAKER 5
+Um, is negligent for having not notified to try to rescue the NSC.
+
+SPEAKER 0
+OK, so I mean, assuming that he was there, that would be the question, but without assuming that he's there,
+
+SPEAKER 5
+oh, without assuming that he's there, um, like whether anyone could have noticed that.
+
+SPEAKER 0
+No, no, no, we were evaluating him. Why are you interested in Barji? What's the thing that Barji should have been doing?
+
+SPEAKER 5
+Oh, he should have, like, he should have been there in the first place, yeah, showing up for work.
+
+SPEAKER 0
+What we're talking about in this case, so again, every time you do a negligence analysis, you want to zero in on if you can, an untaken precaution that seems pretty reasonable or unreasonable if you're on the other side, but you're trying to make the case that here's something that you should have been doing. And in this case we're going to be focused on this idea that the BIG should have shown up for work that day. And therefore been on the boat and probably presumably have rescued the barge, not from. Slipping away necessarily, the opinion assumes that away, but from what? What bargy, what good would it have done for the bargi to be there that day?
+
+SPEAKER 5
+They probably could have saved some flour or just anything really rather than losing everything. Yeah, why? Just it's a lot of money, you know, like they have like why, why, why would his presence have been. Good. Oh yeah, like you, you just kind of need someone there and it's the question whether or not, not having anyone on board. was a safe precaution to take or not.
+
+SPEAKER 0
+If he had been there, what would he, could he have done?
+
+SPEAKER 5
+Shouted for the water, yeah, he wasn't gonna like drink the water, obviously don't do that, but um but he had like truly, yeah, like he just like like anyone like help or something, you know.
+
+SPEAKER 0
+Was there somebody around to help?
+
+SPEAKER 5
+Uh, I don't think so. The one was on the actual NSC, right? Like they were all on the other nobody there, but
+
+SPEAKER 0
+if he had been there, who could he have called to help?
+
+SPEAKER 5
+Anyone around there.
+
+SPEAKER 0
+Anyone around there, including maybe the other shipmaster or like
+
+SPEAKER 5
+the other folks, these other boats that had pumps, yeah.
+
+SPEAKER 0
+The idea is that the theory of the precaution is that had he just been there and seen the water. You'd be like That's it. And then they, and they're not expecting anyone to bail out the thing himself. No, they had pumps. These other boats, they were, they could stop what they're doing or call for other help, come over here, and so that's the idea, that's the causal link. We'll get the causation starting next week, but that's the causal link we're interested in. OK, is that had he been there. He could have gotten help and saved most, some of the flour. We're not sure. The story seems to assume all of the flour, but probably some of it would have been kind of ruined. You can't use wet flour it's, especially if it's seawater and it's just gross. That's gone. But we'll look at this question of how much he could have saved in a minute, but that's what we're talking about. Here's a precaution that. would have done some good because he could have gotten help saved some of the flour. Couldn't have saved the boat from crashing into the tanker, but he could have saved some of the flour and But it would have taken To do that, would just have been for him to show up for work that day. That's the nature of the precaution. OK, so let's go back and think about this scenario. We have the facts. Jimmy, back to you. How would you argue about this to aunt and uncle without using BPL? You're just saying, just using what we've been doing the last few days. You're saying, uh, aunt and uncle. Obviously BarG was negligent. Bar G slashed the company. Bargi was negligent for not being there that day because. Or Barji, no, he's not negligent. It's not reasonable to expect him to have been there that day.
+
+SPEAKER 4
+So I'm arguing for the government or for and against
+
+SPEAKER 0
+the bargi, for and against the bargy.
+
+SPEAKER 4
+Um, I mean, as we just said, if the bargy had been there, he could have hailed for help and, you know, saved more of the flour. The damages wouldn't have been as significant. It wouldn't have hampered the war effort as much.
+
+SPEAKER 0
+Um, so, you know, Carroll Company was, uh, totally negligent
+
+SPEAKER 4
+for not ensuring that its employee was on site. Uh, OK, the day of the accident. Alright, so those are all very good common sense things
+
+SPEAKER 0
+to say to aunt and uncle. Put it in the language that we've been using before. Any reasonable blank would have blank blank blank blank. Therefore, blank blank.
+
+SPEAKER 4
+There is a reasonable duty of care, um, or there, there's a duty of care on the part of the company to ensure that its employees are on site, and
+
+SPEAKER 0
+is there, is that the, is that the test, is that what the law says. There's a duty of care for employees that have people on site. Is that the tort law we're talking about here? What is the, what is, what is the. If you just using what we've been in the last few days, any reasonable Going back to the reasonable person standard, sure, any reasonable trolley would have insulated the wires. Any reasonable kid would not have been trying to electrocute himself. Any reasonable skier should have known that because he's a beginner, he wouldn't use that framework. Any reasonable who?
+
+SPEAKER 4
+Any reasonable boat operator, any reasonable shipper would have ensured that it had processes and, you know, on in its, uh, procedures to ensure that staff were on site to, uh, you know, uh, facilitate the shipping and oversee the operation of the ship.
+
+SPEAKER 0
+Yeah, why? What kind of facts would you want to pack in there to make your argument? That's a conclusion. Sure, that's, that's how you find the company slash bargain. I mean, you could look at custom.
+
+SPEAKER 4
+You could look at what other companies do.
+
+SPEAKER 0
+What's everybody else doing? Sure. Everybody else has got their bargies on board. What's this guy doing? What's this company doing?
+
+SPEAKER 4
+OK, you could look at reasonable precautions, uh, such as, you know, uh, it, I mean this might overlap with custom, but policies that other companies in the industry have in place to ensure, OK, but the thing we're talking
+
+SPEAKER 0
+about is the precaution itself, OK. So, but you mean, me, look at what everybody else is doing, their precautions, OK, sure, custom, look at other precautions that are available, right? OK. Uh, what, what other facts would you wanna know? Think about the situation here. Facts that we already have in hand. Yeah, why would it be really, really reasonable to have somebody on board right now? You might want to know about the lines connecting, um,
+
+SPEAKER 4
+the NSC to Pier 52 and what happened there exactly. Um, should there, you know, should that have happened, right? Should that have snapped once the Carol went on its way?
+
+SPEAKER 0
+How does that factor into the argument you're making for the company's slash bar G's negligence?
+
+SPEAKER 4
+Maybe the Carol should have used better materials to connect the NSC to Pier 52.
+
+SPEAKER 0
+OK, so maybe there's some other precaution like the bar G should have tied it up better, but again, that's a whole separate precaution right now. We're just analyzing Bargie being there that day. That's a precaution. Let's say that's the thing we're working with, that's the thing we're arguing is or is not the reason for the negligence. What other facts? Is it busy in the harbor right now?
+
+SPEAKER 4
+Extremely. Is there a lot of stuff going on? Yeah, and it risky. That, that's right.
+
+SPEAKER 0
+Is there a chance of collision.
+
+SPEAKER 4
+Yeah, I mean, a reasonable person would have expected that the bargy would have been there.
+
+SPEAKER 0
+Yeah, why? Wait, any reasonable person would have expected it, no, no, no, no, any reasonable what?
+
+SPEAKER 4
+Any reasonable person would have been there.
+
+SPEAKER 0
+Yeah. Any reasonable who?
+
+SPEAKER 4
+Bargy in the middle of the workday there, you know, peak time for his industry.
+
+SPEAKER 0
+Yes, it's wartime. It is super crowded. It is people are moving stuff in and out all the time. Things are crashing into each other all the time if you have that fact. Any reasonable bargy knows to be there on his boat. In a situation like this. That's right, that's how you pack on the facts. You wanna argue against and say nah. Or maybe what more facts would you want to have to say no, no, no, no, no, not reasonable to expect the barG to have been there. I mean, well, first you want to confirm where he
+
+SPEAKER 4
+was and what he was doing. I, I know that was at dispute here partially. Maybe there are extenuating circumstances you could point to, uh, maybe there had been some sort of emergency on, you know, the NSC or the Pier 52, um, that. You know, provided and extenuating somewhere else.
+
+SPEAKER 0
+Yeah, exactly, yeah, right. This is wartime. Maybe there's a manpower shortage. Maybe the barge is responsible for 10 different boats. That's why he wasn't at the NSC. He had tied it up perfectly fine. He was checking out the 9 other boats that are at risk, something like that. Just put that in the phrasing. Any reasonable bar G under these circumstances, just spell it out for us.
+
+SPEAKER 4
+So for the other side for to to argue for him not being there, um, any reasonable bargy would have been, you know, at other points in the harbor inspecting the boats, and he didn't necessarily need to be on the Annay.
+
+SPEAKER 0
+Any other bargy under these circumstances with this imaginary fact that he's responsible for 9 other boats. Should be checking out all the boats all the time and he just hadn't gotten here that day and we don't expect him to be only on the NSC. That's a silly thing to do if you've got 9 other boats you're in charge of and so on, right? You can sort of see how that spells out. Sure, OK. So now we're gonna take You know, this set of facts or imaginary facts or whatever other facts we wanna use and think about. We know how to do it the old fashioned way. This is the day 1 through day 3 of Tort's way. We know how to do it. How do we do it day 4 of Tort's way, which is using this formula. Now Henry, turning to you, can you just tell us a little bit about the opinion? I know we haven't focused on it much at all, but what court are we in? Who are the judges? What's going on here?
+
+SPEAKER 3
+Sure, so this is in, uh, the 2nd Circuit. It's an appeal from EDNY, um, and all right, so
+
+SPEAKER 0
+you know, you all know what these terms mean. Eastern District of New York, Eastern District of New York is the federal district court region which includes Brooklyn, Westchester, a little bit up there that way, OK, Eastern District of New York. Here in Manhattan, we're in the Southern District of New York, OK. And all of these are part of the region that's covered by the 2nd Circuit. Second Circuit sits in Manhattan but has offices in other places as well. All right, so here we are. We are in Manhattan, but really this case is coming from the Eastern District of New York. I'm not super sure why that's true if it's sitting out in the harbor off of Manhattan, but here we are coming from the Eastern District of New York.
+
+SPEAKER 3
+So basically, I think the gist of it is that they're trying to determine whether, uh, the bargy and by extension, Carol or. Yeah, uh, or his superior company in any event was contributorily negligent with respect to the damages from the boat sinking.
+
+SPEAKER 0
+This is a contributory negligence set up, OK. The Carol's trying to recover some stuff. Maybe suing the other saying, hey, you shouldn't have destroyed our boat by like untying it this way or tying a bunch of other caterpillar boats to it and so on. Also, people are suing the Carol for, sorry, not Carol Anney for the company Connors for, um, you know, losing all the flour, right? So everybody's suing everybody else. So there's a negligence component, but there's also a contributory negligence component to it. Who are the judges here?
+
+SPEAKER 3
+Um, for the 2nd Circuit, it is Learned Hand and then Chase and Frank. OK, so we're not gonna worry about Chase and Frank
+
+SPEAKER 0
+very much, but Learned Hand, remember Learned Hand from last time? Learned Hand, Augustus's hand. We're talking about learned hand here. Sometimes this is called the learned hand formula or sometimes it's just a hand formula because it's so associated with this case. I will point out, however, that as you already know, there's endless numbers of these barge cases, railroad cases, and so on. In everywhere but also in New York and in Second Circuit and as we saw last time we already have a barge case from Learned Hand. Here's another barge case from Learned Hand. These guys know a lot about barges to get a lot of these cases, and this is not the first case to actually propose the idea of something like BPL. You might even trace it back to an earlier opinion by Judge Swan. For whatever reason that opinion's been forgotten and Learned Hands carol towing opinion is the one that people talk about as the origin of BPL. So now it's called a hand formula. If you go out there, you talk to any lawyer, you say BPL, then it'd be like hand formula rather than torts, but Goes by different names All right, so that's who we've got deciding this thing. And what is it that In your own words, Judge Hand is deciding, here's an analytical way to put this analysis, put this question together. Like we're trying to figure out should the barji have been there that way under a law of negligence, hm, how should we think about this?
+
+SPEAKER 3
+So basically his idea is that you can engage in a sort of cost-benefit analysis to figure out if a given precaution is reasonable. So in this case, uh, the trial court has basically found that the bargy wasn't there. So the point is to figure out if the barge should have been there. Um, so on you, you sort of have to weigh that because if the barge had been there. He would have seen the leak presumably and stopped the boat from sinking.
+
+SPEAKER 0
+OK, all right, so. We have some part of the story from our reading aloud earlier. The idea is that if the bargi had been there, that that's the precaution that was taken was the bargi being there, it would have done some good. And now we're thinking about, well. Maybe we kind of weigh how much good would have been done against what.
+
+SPEAKER 3
+Uh, then the flip side of that is that like it would have cost something like the barge was presumably doing something that he was really enjoying, uh, wherever else he was, and he would have had to give that up to be back on the ship. So it could be anything, right, but the burden is
+
+SPEAKER 0
+on whom we're talking about to have been there that day.
+
+SPEAKER 3
+The burden is on the barge. Like it's to the barge of being there that day.
+
+SPEAKER 0
+It could be anything. It could be like lost. He lost a chance to oversleep. He was sick and he lost a chance to recover because he had to show up for work, or he was tending to the 9 other boats. He could have lost that opportunity. That's the burden for him to be on the NFC all day long that day. It costs him something. OK. The learned hand is saying, you know, here's a way to think about whether someone's negligent. In other words, here's another way to think about how worthwhile a precaution is. Which is the way the cost against the benefits you might say. Well, what it would have taken to do it, taken to do the precaution versus how much good it would do. We've seen this before. We've seen this in aunt and uncle arguments. Oh, you could put up a sign. It's super cheap. Just put up a warning sign. Oh, but it wouldn't have done any good because little Leo would have been like, all right, even better. Let me go electrocute myself now, right? Costs and benefits. We've kind of been doing this all along. It's kind of in there, this idea that look, this precaution is not worthwhile. We don't expect someone to do it because it's kind of a goofy thing to do. It's super expensive to put on the insulation or to bury the wire underground. And it wouldn't do any good because the kid's gonna find a way to get around it or something like that. Or it would have done all the good in the world. Absolutely you should have put up a sign. How can you not put up a sign when it's so easy to do and could have prevented something like this? Right, that kind of argumentation, that's all we're talking about here. I weighing how much it would have taken somebody to do the precaution versus how much good it would do. And so Henry, which, you know, to use the B and P and the L, which is which, which is the burden and I guess, you know, which one is the burden, which one's the burden and which one is the, how much good would it do that we're weighing against each other.
+
+SPEAKER 3
+So, um, the B is the burden, obviously, um. And you're weighing that. Against the injury, which is L multiplied by the probability of the injury occurring, which is P.
+
+SPEAKER 0
+OK, I will stop us right there with the P times L thing. OK, there is a way, there are multiple ways you can think about P being multiplied with L. Don't do that. Don't do that in your brain. It'll just tire you out. You'll probably get it wrong. Learning hand kind of gets it wrong a little bit, all right? Don't, don't just think of PL together. OK, it's in one box. There's gonna be no multiplication happening. There's gonna be no numbers actually in this whole thing. Certainly not dollar signs. There's not. How much would it have taken for him to show up for the work that day, like, oh, then he can't oversleep versus how much good it would have done like the boat not sinking. OK, that's what we're talking about. The PL. The PL, we'll do a little bit of exercise just to break it down, but I'm gonna, the, the moral of the story today will be don't think about P times L because you will misunderstand what the P is and what the L is, and really it's about how much good it would do, the whole thing. So How would you characterize how much good it would do?
+
+SPEAKER 3
+Uh, well, I would say that the good that it would do is really big because, um, you know, if something like this happens and the bargy is there, then he can alert the other boat to the leak. Uh, the boat doesn't sink, so the boat isn't lost, the flower doesn't sink, so the flower isn't lost, or at least most of it, uh.
+
+SPEAKER 0
+OK. So on the facts of this case, given the injury that happened, given the accident that happened, we know that's one of the good, that's one of the good things that could have come of this. Estefania was telling us like, Other things could have happened. The boat could have crashed into the tanker and the tanker could have exploded. Does that count, Henry, in the BPO?
+
+SPEAKER 3
+Um, I would say that. Uh I mean, if the boat crashes and it explodes, then the bargy is just gonna die, presumably. Uh, so that might actually weigh against taking this precaution, I guess, like I guess that's an additional cost that you incur.
+
+SPEAKER 0
+All right, yeah, now we're off track, but that's good. That's good. No bargy deaths involved. We'll, yeah. The question is, when you're talking about how much good it would have done to have the bargy there that day. Actually, we'll come back to that in a second. How much good it would have done to have the bargy there that day. The burden is for him to show up for work. The amount of good that it could have taken care of. At that moment that he is deciding whether or not to show up that day. The moment that we're judging his negligence, right, the reasonable person looking ahead into the future. Do I show up for work today? Does he know that this is going to be the particular configuration of the injury that's gonna happen, that the boats somehow going to like drift away because other people have tied it up, which he didn't know about anyway, and he's gonna drift over to the next tanker, hit the tanker, get a little hole, and then like sink the flour, and he could have saved it. Like, is that what we're really talking about as. At that moment you're deciding, do I show up for work that day, given all these circumstances, if it's busy, it's wartime, there's all kinds of risk, do I show up for work that day to watch my boat? Are we interested in him thinking, thinking about this particular Freak accident really like barges are attached now they're not attached now it drifts and he hits the propeller like, or are we thinking about all the possible good that's showing up for work that they could have taken care of?
+
+SPEAKER 3
+I think the latter case is, uh, more accurate because obviously like this particular exact set of events is pretty unlikely, but like. In a broader sense, there are tons of possible accidents that could have happened in this chaotic situation that the barji could have either prevented or ameliorated. So I think you should be thinking the barji should be thinking about that when he decides whether to show up for work is like all of these things could happen and I could fix them.
+
+SPEAKER 0
+When we think about the question of whether one particular precaution is worthwhile, we're thinking about the cost of it, of course, but we're thinking about also all the good that it can do. There's some chance that it'll prevent this, there's some chance that it'll prevent this, there's some chance, maybe tiny chance that it'll prevent this weird accident. There's some tiny chance that it'll prevent some other accident. All of that is reason to take the precaution. At that moment that you're deciding, you're like, do I show up for work, do I sleep in? Well, actually if I show up I can prevent this and this and this and this and this and this and this in case any of it happens. Really, when we're talking about BPO we're not talking about this accident. This is the first thing that quite often is mistaken and learning hand sort of does this and thinking only about this thing that happened here, but that's not the nature of the inquiry into whether the precaution is a good one to take. The inquiry is, what would it have taken to do it and what are all the possible things looking ahead. That you might imagine that you could Prevents by taking the precaution. If you insulate that wire a little bit, maybe it prevents trolleys from getting electrocuted when it rains. Something like that, not just little kid electrocuting himself, which is kind of weird and freaky anyway. But all kinds of things, birds don't get electrocuted and suddenly short out the whole system or whatever. A little more insulation, please. Warning signs, don't go on the bridge that can prevent people from jumping. Overthinking they could land on a trolley. Like little Leo might have done, it could prevent people from falling off, it could prevent certainly little kids, you know, electrocuting themselves weirdly, but all these other things. When you're thinking about the nature of a precaution, is it worth taking? Is it a good one to take? Would a reasonable person have done it? You should really be thinking about the burden of it, but also all the good potentially that it could do. Right. Including this particular outcome if it's not unforeseeable, which we'll get to in a bit. But all the things that you can foresee that this precaution will take care of. So notice two things that are happening already. First, when we're thinking about BPL, we're thinking about the precaution at a particular moment in time. Not looking back at it with hindsight. We're saying, hey, Bar G at 8:00 a.m., this is 2 p.m., 8 a.m. he doesn't know that there's all this stuff tied up. What should he be thinking? What should a reasonable barg be thinking at that point? Weighing costs, benefits of showing up for work. Second thing is, notice whose benefits and whose costs we're talking about. Mainly we're talking about the burden to him. In theory, you could pack on burdens to others there. The precaution might be really burdensome on others. If you shut down the bridge, for instance, people can't cross, and that's a burden on them. I guess you could put that on either side, you know, of the equation. But really, let's just say the burden is like the person taking the precaution, the company taking the precaution, the person putting up the sign, the parts service putting up a sign. The benefits we're talking about are just to the barge company, just to the trolley company, or no, um, it's to everyone. Right. Everyone. The tanker, certainly the US government who has its flour on board like. And if you are to do this weighing, kind of the way that BPL is suggesting, weighing costs and benefits straight up. Notice that there is an assumption of complete equality. Between your own interests and everybody's interests. It is asking you to take on board when you make that decision. Everybody else's interests. This is not. Oh, the burden to me and then the benefits to me. Benefits to the burden on bar G is I get to sleep in. Benefits to me are like, oh, I don't get yelled at later for like letting a boat sink. No, that's not the analysis. The analysis is burden on me benefits for all of us, all of us, including me, but everybody, government, other companies, traffic jam, war effort, all of that. This may look like some kind of technical accounting thing, but in it is embedded a deep moral assumption. That your job in acting without negligence is to weigh your own interests as much as everybody else's, to give everybody else's interests as much weight as your own. Your job is to do the best for everybody together by taking a precaution that's worthwhile because it costs you a tiny bit. And does a lot of good for everybody, or to skip it because it costs you too much, it's impossible to bury the wire underground for the trolley company. And it won't do that much good for little Leo, for all the other kids, for the birds, for trolley companies that get jammed up on the train tracks, if your train fails, whatever. Your job is to weigh everybody's interests in making your choice. It's a pretty powerful assumptions that go into this little IV formula. They're not necessarily things that we've talked about with our prior reasonable personal analysis, and so we want to be thinking about how is this overlapping with different from, is it just a spin on what a reasonable person would do, or is it throwing in a lot of extra moral values into this and also calculative values into this. All right, let's take a break. When we come back, we'll practice using it.
+
+SPEAKER 1
+Got you. Alright, can I ask you a short question? Do you receive? Real. Yeah. I Yeah. Yeah, I do a little. How about you? I. Exactly Yeah, OK. I that. I my mom, daughter, moms. And I. Yeah. OK. How. Oh yeah, they, they, they sort of, yeah. Yeah Yeah No. I I I I I Saturday. We. Yeah. Yeah. My dad's home also. I. Yeah. I. Yeah. I mean, not, not to this day. My I I Yes. the. Yeah Of course. That's Oh I I. To. I OK I OK, welcome back.
+
+SPEAKER 0
+Any announcements? No announcements.
+
+SPEAKER 1
+OK, thank you teaching fellows for our first review session
+
+SPEAKER 0
+yesterday. Um, for everybody in the class, remember that the review sessions come with a set of slides. The slides are the official notes that we're taking on your behalf so that you're freed up from having to take those notes. Remember that for those slides. Remember that for those slides I go through the slides word for word so they really are authoritative. They are the notes that you really need to download. Make sure you get the slides from the review session because that is our official notes. You don't wanna be missing that. You can also download these things in PDF form off of courseworks. Everything will be put into the courseworks files folder, so you should be able to find it. If you can't, ask one of the TFs or me or Sydney, but please make sure you get the the resources that we're giving you, right? We're trying to free you up from taking notes so we take the notes we distill it into like here's exactly the stuff you need to know and that's gonna be on the review slides so even if you can't make it to the review session, please make sure you get the slides, get those notes, and also if you wanna watch the review session they are recorded and. We'll figure out. Do you guys know, are they on echo already or? At some point We'll make sure they get on echo, professor. OK, great. Thank you. And so these will happen every 2 weeks. The next one will be in another 2 Tuesdays, Tuesdays at lunchtime. Remember my own office hours are Tuesdays in the morning 8:30 to 9:30 and 908. Had the first one yesterday. There are snacks. Please come whether or not you have sports questions. Happy to chat. Also, you can ask me questions right after class, um, if you have something from that day's materials.
+
+SPEAKER 1
+OK. Wait, are the sessions recorded? Is that what I was just hearing, the TA sessions? Oh.
+
+SPEAKER 0
+Any other announcements? All right, please remember we have one more class this week. It's on Friday. Bluebirds are up again. Um, at that point we will be caught up with where we should be, of course, from that snow day. Looking ahead a little bit today is our last day of working through ways to make negligence arguments. On Friday, what we'll be talking about is breaking up negligence into breach and duty in a way that we haven't done until now, so it'll still be more on negligence, but it'll be. Thinking about the word duty and where that fits into a negligence analysis, it'll be the first time that we talk about the idea of duty. So that's coming up. OK, so let's practice with this a little bit. Stefano, yeah, you're still up. So, In general, Given this framework that we're working with in this case, where we're using the idea of what it takes to take the precaution versus how much good it would do. Let's just lay out for ourselves very quickly. Which side is arguing what just to have this clear in our head and write it on the board. So if you're arguing that the bar G is negligent, are you trying to say, That the precaution is A high burden precaution or a low burden precaution. And if you're trying to argue that he's negligent, are you saying that it would have done a lot of good or it wouldn't have done a lot of good in general?
+
+SPEAKER 5
+Um, so if the bargy is negligent, then it'd be a high burden. Right? Or like, or it. Is that what I'm, so you're thinking about the burden
+
+SPEAKER 0
+of the precaution, meaning like what it would have taken him to take the precaution. You're trying to say that he's, it's just showing up
+
+SPEAKER 5
+like that's the precaution, right, right, yeah, right.
+
+SPEAKER 0
+So are you trying to say that it's really kind of an easy thing to do to take that precaution, or yeah, it's like low, yeah, low burden on him
+
+SPEAKER 5
+to take that precaution.
+
+SPEAKER 0
+You're trying to get it as low as you can. OK. How much would it cost you to show up for work that day? What is it? What do you mean you don't show up for work that day? The easiest thing to do is to show up for work that day. The easiest thing to do is to put up a sign. It's the easiest thing to do to like not tell people to swim when the water's 18 inches. It's the easiest, it's the least you can do. That that's the nature of the argument. And then on the foreseeability of, well, the foreseeable P times L side, right, the good foreseeable good that it would do looking forward. Imagining what good it would do at the moment you decide to take the precaution, are you trying to say that's high or low? Pie. Sure. Think of how much good it would have done. A little kid wouldn't have electrocuted himself. Birds won't electrocute themselves. You won't stop the whole train system because the power shorts out. Think about all the good it would have done to have just a little more insulation or something like that, OK? And then if you're on the other side, if you're arguing on the other side, then what are you trying to say?
+
+SPEAKER 5
+You like flip it around, so it's the burden is super low or super high. It's like he, he overslept, you know, he was doing too much, couldn't show up to work, and everybody else could have picked up some slack for him who was around.
+
+SPEAKER 0
+Yeah, he's got too much to do. It is actually a huge burden to expect him to be there on this particular boat that day. He's got 9 other boats to take care of or he right.
+
+SPEAKER 5
+Yeah, and in that in that economy like it was a war like what were we expecting? Right.
+
+SPEAKER 0
+So on and so on, right. And then of course you, you flip the other one as well and you say, oh no, this is showing up for work, it wouldn't have done any good. How much, what are the chances it would have done some good. Right? Because there's no preventing this in some way. That's the nature of the argument. And remember, as Stefania is already reminding us, you're always talking about a particular precaution. Just like when we do the reasonable person analysis, you're always talking about individual precautions. You should have done this, this is why you're too careless, because you didn't do that. And especially using the BPL formula, you want to be very precise about what exact precaution we're talking about, what exactly it would have taken the person to do it, and exactly what could you imagine that person foreseeing it could have done. Not in hindsight but looking ahead. OK, all right, so this is the framework. So, so let's practice. This is a this is a few hypos, right, where we're working with this only again. All we're talking about is arguing something big, arguing something small. There's no multiplying. There's no algebra. There's still not any numbers involved. There's no dollar signs involved. All we're doing is just using this as a framework for saying you should have done it, or you, you didn't, we don't expect you to have done it. That's it. All right, so let's do this with the bar G. And we're going to change up the hypo a little bit. So now we're talking about. The evidence is a little bit different And the evidence shows that given the way that the boat, the barge crashed into the tanker. It just sort of lopped off the end of the NSC. It was such a huge. Irrreversible damage to the boat. That there was no way any amount of pumping or rescue could have saved it. What does that do to the BPL analysis? What becomes which side becomes stronger, which side becomes weaker potentially, um, so yeah, so weaker would be the negligence
+
+SPEAKER 5
+on the bar because there's any kind of action would have not helped and it doesn't even matter, um, yeah.
+
+SPEAKER 0
+It wouldn't have done any good. Now remember how limited that is because it still might have done some good for all these other things that we're imagining, right? Tanker could have exploded and stuff, but If anything it
+
+SPEAKER 5
+saved his life. If anything, it saves his life to not show up.
+
+SPEAKER 0
+It's like, alright, so back to the thing with saving his life. All right, what side do we put that on is an interesting question. Henry tried to put it on the burden side. We might think of it as a benefit maybe like
+
+SPEAKER 5
+if you have like the burden and benefits, you put
+
+SPEAKER 0
+it on the benefit side actually, right, because that's less benefit when someone dies. Right? OK. So let's just the hype a little bit more, a little more subtle, and this is actually one that you raised yourself, which is, let's say that some of the flour, it gets soaked right away and it's irreversibly, you can't save that flour. But the facts are that well he could have shown up, got the pumps, and then like he could have saved half the flour. Let's say he could have saved half the flour. What does that do relative to our original scenario of assuming that he could have saved all the flour? What's lower? What's higher?
+
+SPEAKER 5
+I think even so he would still be negligent if you're looking at it from like a strict economic lens because for the company and for everybody else who's relying on the flour, if they still get something other than rather than nothing. So the burden is still high on the bargy.
+
+SPEAKER 0
+Yeah, but what's higher and what, what's bigger and what's smaller now?
+
+SPEAKER 5
+Oh, I guess like the, the precaution like the burden, like it's still high for like a super low for him to show up re regard like for him, the
+
+SPEAKER 0
+same, right? It's just showing up for work. The fact that's changed has to do with what.
+
+SPEAKER 5
+Uh, with the outcome, like the foreseeability of other things happening or right, something along those lines.
+
+SPEAKER 0
+OK, so interesting. All right, so let's bring out the foreseeability thing. That's really interesting. That changes, that changes where I'm going with this now. Oops, sorry, right? No, that's good. So let's say that the facts show that it would have not maybe have saved as much. Flower for him to be there. Now we have to assume that somehow that's kind of foreseeable that like when a boat starts to sink, you kind of know that it's gonna right. So let's assume that it's foreseeable. We'll come back to not foreseeable in a second, but let's assume it's foreseeable. What goes up and what goes down relative to our original scenario, relative to saving all the flour if the facts show that look you know what, you can't save half the flour anyway. Then Is the burden higher or lower is the benefit higher or lower?
+
+SPEAKER 5
+Yeah, it goes back to like the, again, if like anything that could have been done wouldn't have helped, then it's still like, yeah, not, yeah, same thing, right?
+
+SPEAKER 0
+The reason our first hypo was that he couldn't have saved the boat. Now he just couldn't have saved half the flour, right? Again, it's all a little bit less good that can be done by this precaution, assuming it's foreseeable, reasonably foreseeable. Um, What about this? Where is this flower headed? Remind us.
+
+SPEAKER 5
+It's wartime, so probably the troops.
+
+SPEAKER 0
+Let's say the facts establish that this flour, this is not a little bit of flour, this is a lot of flour, 4000 little Leos worth of flour. That's for like a whole battalion or something like that. And let's say that this was meant from the front lines. And as it turns out, That particular Set of troops were hungry that day. They lost that battle As a result of losing that battle, other supply chains were thrown off and other strategies were thrown off, and they lost the whole theater as a result of losing that whole theater. Lose the entire war. And then there's worldwide tyranny. That whole sequence of events, but for the law, right? You know, you know, the whole thing, right? But for the law, but for the horseshoe, but for the nail, but for, right. But for the flower, but not, but for the battle, but for the theater, but for the war, but for the like worldwide tyranny. Does that weigh into this somehow?
+
+SPEAKER 5
+It just sounds like a bad anxiety spiral, but, like, you know, like to blame on this bad anxiety spiral, yeah, um, like, yeah, like the domino effect. I don't think you should expect the bargy to be like, oh, you know, like what's the worst that can happen, and then it's really just that, like how much burden are we putting on him to be like, OK, like. I can't show up to work and now we're gonna lose the war, you know, like that's not the first thing you would it show up.
+
+SPEAKER 0
+OK, so let's start with this. Are you hearing that, no, we shouldn't think about this. That's, we'll get there, but where would it show up? Where would something like this show up, um, in like
+
+SPEAKER 5
+in terms of like this, the formula, or weighing the
+
+SPEAKER 0
+bargy's burden of showing up that day versus all the good that it could have done. What are we changing here it's like whether it's like
+
+SPEAKER 5
+super high or super low. I feel like you're frame, um, so whether or not he is negligent, so it's like he, yeah, but the
+
+SPEAKER 0
+burden or the benefit, uh, the ben the, the benefit,
+
+SPEAKER 5
+it's not beneficial to lose the war, you know, exactly.
+
+SPEAKER 0
+All he had to do was show up that day and we would have won the war and there wouldn't be worldwide tyranny. That's a pretty big benefit. Why didn't you show up for work that day, Mr. Barge? Right? How would you argue against? You were starting to argue, you're like, oh no, no, no, this really shouldn't count.
+
+SPEAKER 5
+Why? Again, like bad anxiety spiral, you wake up like, oh, what's the worst thing that could happen if like I, I don't do this? Like this shouldn't be on his mind. It's he's just like the work of it, you know, like on the reasonable bargy's mind, you're imagining, remember we're
+
+SPEAKER 0
+talking about the reasonable bargie on the reasonable bargy's mind weighing the costs and benefits this. Might not occur to the barge. That's the argument. You have to make the argument that this was not foreseeable to the reasonable barge. A reasonable person in the bargi's position would not have maybe would have anticipated collisions, anticipated losing flour, anticipated losing cargo, anticipated damage to other boats, explosions, whatever, but would not have anticipated. Would not have reasonably foreseen, we would not have expected a reasonable barge to have foreseen the sequence of events leading to world tyranny. Right? Is it really not foreseeable though? How would you make an argument saying that? Of course that's foreseeable.
+
+SPEAKER 5
+I guess like, yeah, like read the room like there's the, the dock is like really busy and obviously it's uh everyone knows that there's a war going on. Everyone has to show up and do their part if you think about it in that mindset of like being patriotic and doing your part and that's showing up to work, you know, like it's yeah.
+
+SPEAKER 0
+Everyone's doing their part. The whole country is at war. Everyone's pitching in. Everything you do matters for the war. And certainly if you have 4000 little eos worth of flour for the troops, you've got to imagine that's gonna affect somebody out there fighting against world tyranny. How can you not? Recognize that your cargo is this super special and so super important. That's the that's the nature of the argument. Everyone knows, of course, any reasonable bargy under these circumstances of wartime, it's crowded. There's lots of flour on this thing. They're shipping the maximum amount over. You know where it's going. Given those circumstances. How could you not foresee? And then it does, it does count in, right? How do you say that? Yes, technically we do count in the benefits, but. Doesn't matter that much. How would you try to make that argument? Let's say you can't fight foreseeability for the reasons that you gave, but you can say it still doesn't make the benefit that much higher, even though it sounds like you're saving the world from tyranny. How do you say that it's not.
+
+SPEAKER 5
+I, I, it's just again like a reasonable bargy anyone who works on the, on the docks or the piers, that's like not what comes from first to mind when they're doing they're executing their job is just not well let's say it does come to mind. Oh, it does come to mind. OK, um, oh yeah, there's also this like wheelchair or
+
+SPEAKER 0
+anything, uh, you know. How do you say that it should have factored that much into the reasonableness?
+
+SPEAKER 5
+Oh yeah, so then for his individual, um, burden, if everyone has this mentality, then everyone around on the other ships also could have had that mentality and stepped in or done something. OK, all right, so this is not where I was
+
+SPEAKER 0
+going again, but this is a good move my bad to say no, this is good. It's always available as an argument to you that other people should have taken more care. Other people would have taken more care. Everybody knows that the flour is precious. Everybody knows that any boating accident in this scenario is gonna clog up the harbor, and we can't get anything. We can't get weapons over and so on. OK, so yes, sure, that's absolutely a way to make that argument. It's like actually because this is so high stakes of a situation, everyone is super hyper careful and there's a lot of redundancy. You didn't need the bargey there because there's all these other dudes there. There's all these boats with pumps, they could have, they could have like checked it out themselves, why didn't they check, you know, why didn't they notice the thing floated away? Why didn't they see the collision? Really, come on. He didn't need to be there. Sure, great. But where I was, where I was going was, what are the chances? The chances of losing your flower, OK, you can sort of like reasonably foresee that, and it's right in your face. But what are the chances of the sequence of events leading to rain? Maybe it's 0.0000001 probability, and now we are starting to talk about the P here, a little tiny bit. The problem with that argument, of course, is like would I show up for work in order to avert a 0.0000000001% chance of world tyranny? Yes, absolutely. The cost is way too high. It's basically infinite. The good that it would do is basically infinite, even if it's tiny, tiny chance, right? So then it becomes really kind of a tricky argument to make. So in a way maybe BPO isn't really asking you to break things down into like what are the chances and PE and so on, but really asking about the foreseeability side, really the argumentation may just be about can you really foresee that this would have done a lot of good in a more generic sense. One more version of this, and now let's go to William Speegner. Let's say that In the flour. 4000 little Leos of flour, all these bags of flour. One of those bags is not. Flower But a secret decoding machine that's gonna crack all the enemy codes. It's got to be sent to Europe. You can't, there's no way to just tell people you actually have to send this machine over. It's disguised as flour. No one except the highest officials know that this thing is in there in this boat. Bar doesn't show up for work that day. All this weird stuff happens to the NSC. Barge sinks, flower is destroyed, but so is this machine. As a result of the machine not getting to the front, the commanders over there are unable to decode the messages that they need to decode, and as a result of that, we lose the war world tyranny. How do we think about this?
+
+SPEAKER 2
+Well, certainly it makes the whole world tyranny argument like more plausible. The chain of causation is more obvious, but being that the barg did not know, only the highest relative to
+
+SPEAKER 0
+the flower thing, all right, so the world tyranny flower pathway is a little bit chancier here. You might have a really huge probability that this is gonna turn the outcome of the war, OK, a real chance, but how would you argue around it?
+
+SPEAKER 2
+Yeah, I mean, the bargi doesn't know, and I think that's prerequisite for us to judge him on it.
+
+SPEAKER 0
+Back to foreseeability, right, there's no reasonable barge you would have foreseen. I don't know how you would argue around that. If some every bargy knows that somehow maybe like in their cargo is a secret weapon that will win the war. Ah, you're watching too many Marvel movies maybe, but like any reasonable bargie under the circumstances of not having that information would think that it's just flour and then what are the chances as opposed to like secret war winning weapon. Alright, sure, OK. So What we're going to do to our formula. Is add We foreseeable Here. Remember this word foreseeable is gonna show up lots of places. Don't get scared. It's gonna be everywhere. It's common sense and it doesn't need to slot into one particular piece of torts analysis. It'll just be everywhere. We're gonna see a lot of redundancy in the different pieces of torts as we go along in the course. Here's the first place that we're really getting at it. You might think of it as this is kind of one of the benefits maybe of thinking in this way, which is that the reasonable person analysis, yes of course has a foreseeability component. You don't expect a reasonable person to take precautions against unforeseeable. Bad outcomes, dangers, risks, they can't foresee it foreseeably, reasonably looking ahead, then why should they take a precaution against it. That's kind of embedded in reasonable person analysis. But it's not really explicit and it's a little. You know, maybe slippery, whereas here you have a kind of a way to think about it. It reminds you that you're thinking about. The decision of the barge, the decision of the trolley company, the decision of the swimmer of the park service, of Little Leo. At the moment they're choosing what to do. The burden then but also the foreseeable consequences, not the hindsight consequences and not the ones that are not. Within their realm of imagination. All right. Speaking of little Leo, let's practice, OK? William, Let's start with the trolley company. I've been kind of gesturing towards this. We know how to argue about reasonable behavior of a trolley company in the old fashioned way. What about in this newfangled 1940-something World War II era learned hand way? Costs and benefits.
+
+SPEAKER 2
+Yeah, I think that fits pretty neatly. I mean, let's, I, I suppose we can start with our precaution being, um, like a little more insulation, right?
+
+SPEAKER 0
+All right, let's pick that some sort of cage. Remember what we're doing, we're always picking. One particular. Precaution to analyze. And so let's make some arguments for trolley is negligent trolley is not negligent.
+
+SPEAKER 2
+OK, I'll start with they are negligent. Um, more insulation would be incredibly easy to add. Uh, it would be incredibly cheap to add, burden is very low. Um, This is a bridge that's well traveled. A lot of children are hanging out here. There's a scrap yard right next door. There are long wires in the scrap yard next door. Kids are stupid. Obviously some kid is going to eventually do something stupid if you leave a live electrical wire unprotected directly underneath the bridge.
+
+SPEAKER 0
+OK, you see what William's doing? He's taking all the facts that we can get our hands on, throwing them in here. There's a lot of people. There's a lot of danger potentially. Why? Because there's also metal stuff around. There's a scrap yard around that's essential. Otherwise, how is somebody gonna electrocute themselves? There's a scrap yard around. Oh, by the way, some of those humans are kids, kids and scrap yards. Now we're in trouble. These kids are gonna go and get scrap stuff and it's metallic, and then now we're talking little Leo scenario. OK, would have done a lot of good because of all these circumstances that strangely but truly in the imagination of a trolley company should have. Alerted them to the possible good it would have done to have a little more insulation. And really easy to do. OK, sure. And how would you argue against?
+
+SPEAKER 2
+Well, I'll kind of skip over the like, oh, insulation would be more costly arguments. I'm sure that there are plenty you can make, um, like, I don't know, maybe it interrupts the train if, if the Or, or the trolley car if the wires insulated or something, um, can't do it right, but I think it's those are those Cardozo strategies like you can't,
+
+SPEAKER 0
+how do you insulate you just bury it underground. You can't do that for a trolley trolley won't run, can't do it. It's a pretty good way to make your counterargument about burden.
+
+SPEAKER 2
+I didn't find that super convincing myself, not super convincing,
+
+SPEAKER 0
+but that's the right. OK. You wanna come up with another one.
+
+SPEAKER 2
+I'm making it harder on myself. Um, we'll stick with can't do it. Uh, I think I would, I would focus more on the probability and foreseeability though, um, which is, you know, I, I know there are kids walking around on the bridge, but it's not necessarily expected for the trolley company to foresee that a kid is going to do something as foolish as try and poke a really. Um, you know, a very, very dangerous wire, right?
+
+SPEAKER 0
+It's a freak accident, you might say. Quite often this is the way you might want to try to characterize something as unforeseeable, it's like it's a freak accident. This It's a freak accident. This is a freak accident, meaning unforeseeable, right?
+
+SPEAKER 2
+I can make a counterargument to that though, uh, which is that without signage, which maybe can be our next precaution, without signage, uh, maybe we don't expect kids to know the danger, to understand the danger, so it becomes less of a freak accident and more of a why isn't there signage.
+
+SPEAKER 0
+You're analyzing one precaution at a time, but remember you can also think about the circumstances here involving, there's not other precautions. This is the flip side of say, hey, look, all the other boats around can help and duplicate. There's duplicative precautions that Stefanie was talking about. Here we're talking about there aren't duplications of precautions. There are no warnings. There's no anything else. There's not even a fence at this point. If you're a trolley company and you know the situation. You know what? Oh, suddenly like installation might actually do more good precisely because of the lack of the other stuff. OK, sure, good. Any other arguments for insulation being Um, let's see. Not necessary, don't eat it.
+
+SPEAKER 2
+I notice, I noticed there's a kind of weird thing where maybe I want to argue the danger was lower in a sense to make the right, I, I think that's the L to make the L lower if you
+
+SPEAKER 0
+want to, you can think of like the amount of danger as something distinct from what are the chances, right, in the reasonable person's foreseeing of things, yeah, but at
+
+SPEAKER 2
+the same time I have like another incentive to argue for higher danger to emphasize that the kid was doing something crazy, so, so.
+
+SPEAKER 0
+It cuts both ways, right? If the danger of the electrocution, let's say it's not a lot of electricity. Maybe you get a shock, and it's a pretty bad shock. Maybe you go to the hospital, but you're gonna be OK. Which way does that cut? Right, and the way William has set up the argumentation here, the idea that oh the child would take more care himself if we, if we're more dangerous, he would take less care of himself if it were more less dangerous. Also like applies to the trolley company and so in anticipation of the other parties taking less or more care because the danger is higher or lower, somehow that scrambles up a little bit potentially or gives you the opportunity to argue. That if you can try to convince aunt and uncle, right, with the judge here in this case, let's say that. You know what, I didn't need to take more care because Leo Leo would have taken more care. But that's the nature, that was, that's how that argument, not just little Leo, but all the people. All the people, if this were truly dangerous, then the scrap yard wouldn't have been there. People would have taken that stuff away. Something like that, something like that. OK, sure. Great. So you all know where this is going, of course, which is to say, what about little Leo? Can we use this style of analysis? And you see what we've started to do already is we've taken this idea of weighing what it takes to do a precaution versus how much good it would do. As a way of thinking about what a reasonable person would do, that's really what's been going on. This is a spin on a reasonable person is the way we've been talking about it. And sure for a trolley company, a barge company, maybe a park service, sophisticated actors with people who can evaluate risks who are actually may be pretty reasonable in some way, maybe this analysis makes sense they're thinking about how much is it worthwhile, is it worthwhile asking that question. Seems like Maybe it makes sense for a company, maybe for grown-ups, but what about a 12 year old? What about a 12 year old? So our job, and we're we're gonna do a little bit of, I'm sure Professor Johnson has done this with you where you talk amongst yourselves a little bit first and then I call on some more goldfinches to answer. Um, talk for a couple of minutes with, uh, your neighbors about how to fill out this chart. How are you gonna try to use this BPO framework. To make arguments about little Leo. And will it work? Does it sort of work? Does it not really work because as a kid, what's gonna happen when you try to apply this framework to a child? So discuss with your uh your, your neighbors for, uh, for a little bit, and I will call us back into the big group and call on a few more goldfinches.
+
+SPEAKER 1
+Yeah. I One more minute, one minute. OK, let's come back together as a big group.
+
+SPEAKER 0
+OK, Ruben Ramirez, what did Ramirez team come up with? For arguments, let's start with little Leo is negligent. How would you frame the arguments using the idea it's a burden to him, maybe he does some good.
+
+SPEAKER 6
+Yeah, we were discussing how for him like the precaution would be in a really simple way to just not do that in the first place, like not take the wire and put it there and yeah. Sure, I think the purpose of that is because the burden would just be like 0, like low, like just to not do that anything.
+
+SPEAKER 0
+zero burden, not to swing a wire around. Why, why is that no burden?
+
+SPEAKER 6
+Because I would say unlike, um, you know, the one with the barge, like it wasn't expected of him to do that. He wasn't, there was no, um, as far as the facts go, like nobody said he should do that or told him to. He just decided to have that could change things, right,
+
+SPEAKER 0
+if like little Julia's mom was like ride faster on the sidewalk. That's a burden not to do that now. Sure, OK, so nobody, nobody was telling little Leo to do this thing, sure. Yeah. Any other I, all right, yeah, I think, uh, the
+
+SPEAKER 6
+like the burden on its own is like that and then perceive whose mind are we talking about here?
+
+SPEAKER 0
+Are we little Leo's little Leo's in a way, although it's objective or subjective.
+
+SPEAKER 6
+I think it would be a bit more subjective because it's like a child we're considering.
+
+SPEAKER 0
+It's objective technically because it's still the reasonable child who resembles little Leo but is not literally Leo's brain. However, remember you're throwing in age, mental capacity experience into this now. OK, and so what kinds of facts might you want to have to be able to make more arguments about it's really low burden for a kid of this age, mental capacity experience not to throw a wire around the burden side, not the benefit side, the burden side.
+
+SPEAKER 6
+Yeah, I believe I would, you know, point to seeing like what were his friends doing similarly, like if he was with other people perhaps or he's seen other kids do this before and that's what interested him, right?
+
+SPEAKER 0
+Nobody else is doing it. It's not like he's trying to keep up with his peers. There isn't peer pressure to do it just like his mom's not telling him to do it, OK, things like that, sure. His ability to find out alternatives to play for play, right, maybe something like that, his ability to entertain himself in other ways. Play with other stuff from the scrap heap if that's what he has available, but not this. Ways to suggest that come on, it's not that hard for this kid not to do this. Right, a reasonable kid, not this kid, sorry, but a reasonable kid of the situation, not to do this, OK. And then the PL side, the benefit side, again, whose brain are we in? We're not in, but close to a brain like Leo,
+
+SPEAKER 6
+so like a 12 year old child, a reasonable Leo-like
+
+SPEAKER 0
+child, OK, would foresee that. Not doing this would have what?
+
+SPEAKER 6
+Uh, the benefit of not getting electrocuted, right, OK.
+
+SPEAKER 0
+Not getting electrocuted. Anything else?
+
+SPEAKER 6
+I, I feel like it could be a bit harder to argue that he could think beyond like to other people like how like his parents and such, OK, but
+
+SPEAKER 0
+you're trying to make, let's say, let's say you're trying to make his case, all right, that any reasonable 12 year old of little Leo's age, mental capacity experience would know that swinging a wire around or failing to take the precaution of not swinging a wire around, right. Might have what? Consequences and therefore not swinging the wire around might have what benefits. Um electrocution, yeah, like the consequence could be just like.
+
+SPEAKER 6
+You know, um, It could, I, I maybe in his mind like he thinks like, oh, it would change what he, he, he and his friends may not be able to do in the future. Like his parents would have to watch them more often and like he can't be able to go out as much or something like that.
+
+SPEAKER 0
+OK, so now we're reducing the benefits because these are now extra bad things that come of the precaution, you, you know, kind of discount that against this is like the barg dying, right? Discount that against the good. OK, maybe, sure. What happens if a kid is swinging a 12 ft, sorry, how long is it, 8 ft wire around? What else might happen besides electrocution?
+
+SPEAKER 6
+Oh, he may hit someone. Yes, poking somebody's eyeballs out.
+
+SPEAKER 0
+You think a reasonable 12 year old with that age capacity experience would be able to anticipate reasonably that swinging a wire around might like. Poke somebody's eyeball out. Yeah, sure. Eyeballs, right, that kind of thing. Remember what you're doing, right? If you're trying to argue little Leo's negligent, you're saying, look, not swinging that wire around isn't just about this accident that happened, it's about all the things that can be prevented by not doing that. All the good That can be prevented by not swinging a wire around like that. Sure, OK, great. Um, Other side, arguably against. Not negligent. How would you try to make arguments about that, right?
+
+SPEAKER 6
+I, I think then I would definitely focus on, you know, how, what, once again, going back to his mind that like. Someone at his age just isn't really considering so much of what the next thing is like what happen, I think very focused on just the immediate. I don't think that a reasonable 12 year old would have foreseen that he could have hit someone or maybe may not even understood what would happen if he touched the wire in itself. Um, it was actually brought up, we were discussing how. The trolleys at this time could still be really new and unknown to individuals like Leo and because of that, he truly could not foresee or understood understand what would happen.
+
+SPEAKER 0
+That's certainly a fact you would want to have. He can't have foreseen this. Electricity is only out in public for the first time in the last 10 years, and not a whole lot of people actually understand that you can't touch a trolley wire. That's why it's happening all the time and certainly not a 12-year-old kid of Leo's age, mental capacity experience. That could be one way to do it. You want those facts, OK. What about poking someone's eyeball out? Do you wanna argue against that?
+
+SPEAKER 6
+I would say perhaps on that one like I could argue that the probability would be lower and the reason for that is, you know, even if he is doing that, the people around him, especially adults, I think could very much anticipate or be aware and seeing what he's doing and like be able to take precautions themselves. It's not so much entirely in his own control. Uh, again, the surroundings, other precautions other people can take
+
+SPEAKER 0
+if a kid is swinging a wire around, other people will stop him. It's not so reasonable for him to have anticipated that nobody would stop him. And therefore things would happen because every time he does this, somebody stops him. But he's gonna do it for like a minute and then like somebody stops him and that's what he expects reasonably forced again adding on extra facts and that kind of thing, but you see what the argument here is doing it's trying to limit how much good it would do because you know what other people would stop him or other people would just like get the heck out of like out of his way, sure, OK. Nobody's eyeballs are going to be affected because no one's gonna get near that thing. It's a possibility, sure. And then how would you argue about the burden to little Leo? How would you try to argue that it's really a big burden for him not to do this thing?
+
+SPEAKER 6
+I think then it could just be like trying to take in like the context I'd want to understand like how he usually spends his free time, you know, like if it, if he doesn't have many other activities or fun things to do or like yeah, sure.
+
+SPEAKER 0
+There's a reason he's playing in the scrap yard. Right, why is he playing with a wire that he found on the ground in like a scrap yard? He's tetanus everywhere. That's disgusting. First, I mean like just what is happening right now you're talking about circumstances. You're thinking about economic conditions. You're thinking about just the circumstances of his life and so on. OK. That's one way to argue it is to say. This is all he's got. You're gonna take away his only toy? What kind of monsters are you? Judge slash jury, right? What else, what, what was another way to argue that? It's a high burden.
+
+SPEAKER 6
+I, I do, I, I think even thinking back to like kind of how we were discussing like with the barge for instance like. I, I think when it comes to like that burden, it is like. You're weighing your own interest against the world. So in this case for him, like his own interest was just. What he wanted to do as the burden seemed very. It seemed very easy to do, so it was like, it'd be higher in a sense like. For him, or I, I guess the way I would put it is this like. He doesn't really have any alternatives or options. So because of that, I think it's a higher, it would be if anything, even yeah, higher burden to do that.
+
+SPEAKER 0
+Or he just really likes doing it. That's a burden. You don't get to do the thing that you love. Everybody says, tells you all the time, do what you love. This is what he loves this is his life's meaning. He's a 12 year old boy fighting a wire swinging around, maybe courting disaster, right? This is life fulfillment. I don't know how to spell fulfillment, but maybe that's it. This is the most important thing in his life. What are you doing? How can you say that oh maybe preventing some freak accident is worth it to a reasonable 12 year old of his age, mental capacity experience. Remember, we try to step into that. You do the same thing for a reasonable child analysis anyway, but here you're doing it in a more structured way. And one of the things I hope you've been thinking about this whole time is, does it really make sense to like do this, like this is work for a kid. You're kind of making it work. I'm kind of like forcing you to make it work, but really, is that how we're gonna argue it? Well, once you're inside the mind of a reasonable 12 year old, whatever that means, reasonable 12 year old, I've never met a reasonable 12, but you know like a reasonable 12 year old. With the age, mental capacity and experience. Maybe a different way to imagine how decisions are made and cost benefit analysis might be better, maybe, maybe. So this brings us to Some critiques of BPL and also the question of what's left of it. As you can imagine already, we've talked about Well, this is the whole kids's problem. Do we want to use it For kids, Or more generally to actors of different kinds of sophistication and their ability to weigh costs and benefits, their ability to foresee things, this is really. Gonna be generically applicable or is it really kind of we're just talking about companies here? Another question you might have is here we get into info costs, information costs. How are you supposed to know? What? First of all, the real risks are, but then also what a bar G is supposed to reasonably expect those risks to be. If you're trying to make, make it systematized, it does kind of put pressure on like quantifying a little bit or this is big, this is small, but how do you know? How do you really know? How does anyone know what the various dangers, you're trying to remember we're adding up all the dangers. What are all the dangers of a barge accident of some kind because the barge is not there at this moment in this chaos? I don't know. There's like 5000 different possibilities. You gotta add them all up? I guess so. How do you know? It's a big question, you apply that to little Leo as well. How do you know the mind of a child? Don't know. In other situations, it might be really simple. It costs this much more to put a bumper on a car that's this much more protective. Some things can be really easily understood. And then you might be able to estimate how many lives that would save. Maybe not that hard in other situations. One more thing, of course, along the similar lines is what you might call non-commensurability. If you take a leg crag class, you'll get into this a little bit more, this idea that what are we weighing? We're weighing like. Some amount of like burden like sleeping in that day for the barge against like worldwide tyranny. How do you weigh these completely different things or even lost flour? How do you weigh these different things? What's the value of lost sleep versus the value of lost flour? Who the heck knows? How do you compare non-similar things? Classic question and cost benefit analysis of any kind, especially when you get to leg reg or you take a regulatory class, and we're talking all about this all the time. One more thing, don't. Argue this. 2 Aunt and uncle. Aunt and uncle do not like cost-benefit analysis, just remember that. If you ever have a company defendant and you're like, whoa, we did the calculations and it saves this much money per bumper and then the cost is this many more lives, you're toast. No matter how reasonable that analysis may actually be or sounds to you, you're toast. The jury will crush you. But don't argue to juries most of the time. It's really uncomfortable for juries to think this way about what precaution should have been taken quite often, not to overgeneralize, but quite often. Remember that this is made up by judges. And judges are going to be kind of the ones using it. The next time we see it will be another maritime case called BP where a judge uses something like. EPL analysis to talk about gross negligence, not just negligence but gross negligence. So you'll see it again, judges using it. You've even seen judges mention it before when the little Leo Adams case, as you saw in that quote from Cardozo in your readings. Judges maybe want something structured like this so it doesn't feel so much like they're just making it up. Aunt and uncle, we let them make it up all the time. They make up everything. The judges, they feel like they need to reason it out. They need to have an explanation. They need to have some structure. They need to have a reason to override the jury. They have to have a reason to override the lower court. They want to spell it out in some way that makes sense to them. So maybe the structuring, all this extra BPL analysis structure is really for judges own peace of mind, maybe. So in a way, we can think of it this way, like what's left of it. arguing to judges. In a maritime case or a jury waived case or any case where you just have the judge as the fact finder. Could do it there. You also see it Embedded in tort law because everybody knows it, everybody knows this case. If you look at the restatement, we didn't read it the first day, but I'll just read it to you now. The restatement says a person acts negligently if the person does not exercise reasonable care under all the circumstances. We know that part. Primary factors to consider in ascertaining whether the person's conduct lacks reasonable care are the foreseeable likelihood that the person's conduct will result in harm, the foreseeable severity of any harm that may ensue, and the burden of precaution is to eliminate or reduce that risk of harm. There it is. The 3 BPL factors embedded in the restatement. It doesn't tell you like do the inequality or multiply anything. It just says, hey, think about these things. You might think of it as a way to structure softly, gently structure what you think about and thinking about what's reasonable and what's not reasonable to expect. You might also just think it's common sense in that particular way, of course you think about these things anytime you're weighing a precaution. And here you can look at that quote from the Adams case that was buried in it. We didn't focus on Cardozo's reasoning before, but here he says it. This sounds a whole lot like an early, early, early version of BPL. Chance of harm, though remote, right, may be token negligence if needless, needless, burden is low. Facility of protection, burden is low, may impose a duty to protect right there in the first case, little little case. Chance of harm, though remote, may be token negligence if needless, facility of protection may impose a duty to protect. So maybe it's kind of embedded in that. Common sense reasoning has been there all along. OK. All right, here's what we've done today. We've talked about this big classic famous case. Now you know what BPL stands for. You understand how to use the structure for making arguments, you've thought through how it relates to what we've talked about so far as a reasonable person analysis. You've seen where it kind of works, where it doesn't work, and just remember, don't use it to juries. See you Friday.
+
+SPEAKER 1
+Just want to because you're saying that we're kind of. So Like just like it was a. I need to get. It's good that it sounds like a. Wow I here. I don't know, but yeah, when they break off, I'm like well I don't want to spend all that money and they're short, so this time. I'm gonna do them right, honey. Hey. A. Yeah. I'm sorry. I know I didn't do it. See y'all later.

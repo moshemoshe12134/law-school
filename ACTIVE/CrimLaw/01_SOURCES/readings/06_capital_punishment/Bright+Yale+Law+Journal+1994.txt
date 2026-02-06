@@ -1,0 +1,2378 @@
+(cid:43)(cid:40)(cid:44)(cid:49)(cid:50)(cid:49)(cid:47)(cid:44)(cid:49)(cid:40)
+Citation: 103 Yale L.J. 1835 1993-1994
+Content downloaded/printed from
+HeinOnline (http://heinonline.org)
+Mon Mar 7 18:49:35 2011
+-- Your use of this HeinOnline PDF indicates your acceptance
+of HeinOnline's Terms and Conditions of the license
+agreement available at http://heinonline.org/HOL/License
+-- The search text of this PDF is generated from
+uncorrected OCR text.
+-- To obtain permission to use this article beyond the scope
+of your HeinOnline license, please use:
+https://www.copyright.com/ccc/basicSearch.do?
+&operation=go&searchType=0
+&lastSearch=simple&all=on&titleOrStdNo=0044-0094
+
+Essays
+Counsel for the Poor: The Death Sentence
+Not for the Worst Crime but for the Worst
+Lawyer
+Stephen B. Brightt
+After years in which she and her children were physically abused by her
+adulterous husband, a woman in Talladega County, Alabama, arranged to have
+him killed. Tragically, murders of abusive spouses are not rare in our violent
+society, but seldom are they punished by the death penalty. Yet this woman
+was sentenced to death. Why?
+It may have been in part because one of her court-appointed lawyers was
+so drunk that the trial had to be delayed for a day after he was held in
+contempt and sent to jail. The next morning, he and his client were both
+produced from jail, the trial resumed, and the death penalty was imposed a few
+days later.' It may also have been in part because this lawyer failed to find
+hospital records documenting injuries received by the woman and her daughter,
+which would have corroborated their testimony about abuse. And it may also
+have been because her lawyers did not bring their expert witness on domestic
+t Director, Southern Center for Human Rights, Atlanta, Georgia; J. Skelly Wright Fellow and Visiting
+Lecturer in Law, Yale Law School; B.A. 1971, J.D. 1975, University of Kentucky. The author has been
+involved in representation of those facing the death penalty at trials, on appeals, and in post conviction
+proceedings since 1979. This Essay draws upon those experiences as well as the authorities cited. The
+author is most grateful to Charlotta Norby for her helpful comments and assistance.
+1. Record at 846-49, State v. Haney, No. 7 Div. 148 (Ala. Crim. App. 1989).
+1835
+HeinOnline -- 103 Yale L.J. 1835 1993-1994
+
+1836 The Yale Law Journal [Vol. 103: 1835
+abuse to see the defendant until 8 p.m. on the night before he testified at
+trial.
+Poor people accused of capital crimes are often defended by lawyers who
+lack the skills, resources, and commitment to handle such serious matters. This
+fact is confirmed in case after case. It is not the facts of the crime, but the
+quality of legal representation,3 that distinguishes this case, where the death
+penalty was imposed, from many similar cases, where it was not.4
+The woman in Talladega, like any other person facing the death penalty
+who cannot afford counsel, is entitled to a court-appointed lawyer under the
+Supreme Court's decision in Powell v. Alabama5. But achieving competent
+representation in capital and other criminal cases requires much more than the
+Court's recognition, in Powell and in Gideon v. Wainwright6, of the vital
+importance of counsel and of "thoroughgoing investigation and preparation."7
+Providing better representation today than the defendants had in Scottsboro in
+1931 requires money, a structure for providing indigent defense that is
+independent of the judiciary and prosecution, and skilled and dedicated
+lawyers. As Anthony Lewis observed after the Gideon decision extended the
+right to counsel to all state felony prosecutions:
+It will be an enormous task to bring to life the dream of Gideon v.
+Wainwright-the dream of a vast, diverse country in which every
+person charged with a crime will be capably defended, no matter what
+his economic circumstances, and in which the lawyer representing him
+will do so proudly, without resentment at an unfair burden, sure of the
+support needed to make an adequate
+defense.8
+2. Nevertheless, both the Alabama Court of Criminal Appeals, Haney v. State, 603 So. 2d 368 (Ala.
+Crim. App. 1991), and the Alabama Supreme Court, Ex parte Haney, 603 So. 2d 412 (Ala. 1992), upheld
+the conviction and death sentence in the case.
+3. The defendant's other court-appointed lawyer was later disciplined by the Alabama Bar for neglect
+in two worker's compensation cases, allowing the statute of limitations to run in both cases. Disciplinary
+Report, ALA. LAw., Nov. 1993, at 401.
+4. See, e.g., Mullis v. State, 545 So. 2d 205 (Ala. Crim. App. 1989) (person who hired others to rob,
+kidnap, and kill victim, sentenced to life in prison); Busby v. State, 412 So. 2d 837 (Ala. Crim. App. 1982)
+(woman charged with capital murder for hiring others to kill her husband, but convicted of noncapital
+murder); see also Thacker v. State, 556 N.E.2d 1315 (Ind. 1990) (woman who asked three men to kill her
+husband, gave them money and ammunition, and formed plan with them, not sentenced to death); Murder
+Victim's Family Settles Case for Cash, HUNTSVILLE TIMES, Aug. 7, 1990, at B I (charges dropped against
+woman charged with capital murder for having hired somebody to kill her boyfriend when she agreed to
+surrender $30,000 in retirement benefits to the victim's family).
+5. Powell v. Alabama, 287 U.S. 45 (1932). Powell involved seven young African-Americans sentenced
+to death in Scottsboro, another Alabama community north of Talladega. The Supreme Court concluded that
+the defendants "did not have the aid of counsel in any real sense" based upon the casual way in which the
+responsibility for defending the case had been handled, the lack of preparation and investigation by the two
+lawyers who defended the accused, and community hostility toward the defendants. Id. at 51-57.
+6. Gideon v. Wainwright, 372 U.S. 335, 344-45 (1963).
+7. Powell v. Alabama, 287 U.S. at 57.
+8. ANTHONY LEWIS, GIDEON'S TRUMPET 205 (1964).
+HeinOnline -- 103 Yale L.J. 1836 1993-1994
+
+19941 Counsel for the Poor 1837
+More than sixty years after Powell and thirty years after Gideon, this task
+remains uncompleted, the dream unrealized. This Essay describes the
+pervasiveness of deficient representation, examines the reasons for it, and
+considers the likelihood of improvement.
+I. THE DIFFERENCE A COMPETENT LAWYER MAKES iN A CAPITAL CASE
+Arbitrary results, which are all too common in death penalty cases,
+frequently stem from inadequacy of counsel. The process of sorting out who
+is most deserving of society's ultimate punishment does not work when the
+most fundamental component of the adversary system, competent
+representation by counsel, is missing.9 Essential guarantees of the Bill of
+Rights may be disregarded because counsel failed to assert them, and juries
+may be deprived of critical facts needed to make reliable determinations of
+guilt or punishment. The result is a process that lacks fairness and integrity.
+For instance, the failure of defense counsel to present critical information
+is one reason that Horace Dunkins was sentenced to death in Alabama. Before
+his execution in 1989, when newspapers reported that Dunkins was mentally
+retarded, at least one juror came forward and said she would not have voted
+for the death sentence if she had known of his condition.'0 Nevertheless,
+Dunkins was executed.
+This same failure of defense counsel to present critical information also
+helps account for the death sentences imposed on Jerome Holloway-who has
+an IQ of 49 and the intellectual capacity of a 7-year old-in Bryan County,
+Georgia," and William Alvin Smith-who has an IQ of 65-in Oglethorpe
+County, Georgia.2 It helps explain why Donald Thomas, a schizophrenic
+youth, was sentenced to death in Atlanta, where the jury knew nothing about
+his mental impairment because his lawyer failed to present any evidence about
+his condition. 3 In each of these cases, the jury was unable to perform its
+constitutional obligation to impose a sentence based on "a reasoned moral
+response to the defendant's background, character and crime,"'4 because it
+was not informed by defense counsel of the defendant's background and character.
+9. This Essay deals primarily with the problem at trial and on direct appeal where the state is required
+to provide counsel for the indigent accused. It does not analyze the equally serious crisis regarding lack
+of representation and inadequate representation in postconviction review. For such a review, see American
+Bar Ass'n, Toward a More Just and Effective System of Review in State Death Penalty Cases, 40 AM. U.
+L. REV. 1, 79-92 (1990). The Supreme Court has held there is no right to counsel, even in capital cases,
+in postconviction review. Murray v. Giarratano, 492 U.S. 1 (1989) (plurality opinion).
+10. Peter Applebome, 7wo Electric Jolts in Alabama Execution, N.Y. TIMEs, July 15, 1989, at A6.
+11. Holloway v. State, 361 S.E.2d 794, 796 (Ga. 1987).
+12. Smith v. Kemp, 664 F. Supp. 500 (M.D. Ga. 1987) (setting aside death sentence on other grounds),
+aff'd sub nom. Smith v. Zant, 887 F.2d 1407 (11th Cir. 1989) (en banc).
+13. Thomas v. Kemp, 796 F.2d 1322, 1324 (11th Cir. 1986), cert. denied, 479 U.S. 996 (1986).
+14. Penry v. Lynaugh, 492 U.S. 302, 319 (1989) (quoting California v. Brown, 479 U.S. 538, 545
+(1987) (O'Connor, J., concurring)).
+HeinOnline -- 103 Yale L.J. 1837 1993-1994
+
+1838 The Yale Law Journal [Vol. 103: 1835
+It can be said confidently that the failure to present such evidence made
+a difference in the Holloway, Smith, and Thomas cases. After each was
+reversed-one of them for reasons having nothing to do with counsel's
+incompetence-the pertinent information was presented to the court by new
+counsel, the death sentence was not imposed. But for many sentenced to death,
+such as Horace Dunkins, there is no second chance.
+Quality legal representation also made a difference for Gary Nelson and
+Frederico Martinez-Macias, but they did not receive it until years after they
+were wrongly convicted and sentenced to death. Nelson was represented at his
+capital trial in Georgia in 1980 by a sole practitioner who had never tried a
+capital case.'5 The court-appointed lawyer, who was struggling with financial
+problems and a divorce, was paid at a rate of only $15 to $20 per hour.6 His
+request for co-counsel was denied.17 The case against Nelson was entirely
+circumstantial, based on questionable scientific evidence, including the opinion
+of a prosecution expert that a hair found on the victim's body could have come
+from Nelson. 8 Nevertheless, the appointed lawyer was not provided funds for
+an investigator9 and, knowing a request would be denied, did not seek funds
+for an expert.2" Counsel's closing argument was only 255 words long.2' The
+lawyer was later disbarred for other
+reasons.22
+Nelson had the good fortune to be represented pro bono in postconviction
+proceedings by lawyers willing to spend their own money to investigate
+Nelson's case.23 They discovered that the hair found on the victim's body,
+which the prosecution expert had linked to Nelson, lacked sufficient
+characteristics for microscopic comparison. 4 Indeed, they found that the
+Federal Bureau of Investigation had previously examined the hair and found
+that it could not validly be compared.' As a result of such inquiry, Gary
+Nelson was released after eleven years on death row.
+Frederico Martinez-Macias was represented at his capital trial in El Paso,
+Texas, by a court-appointed attorney paid only $11.84 per hour.26 Counsel
+15. David Lundy, Bondurant's Costly Death Appeal, FULTON COUNTY DAILY REP., Aug. 18, 1989,
+at 6.
+16. Id.; see also Affidavit of Howard A. McGlasson, Jr. at 6, 8, Nelson v. Zant (Super. Ct. Butts
+County, Ga. 1989) (No. 5387), rev'd, 405 S.E.2d 250 (Ga. 1991).
+17. McGlasson Affidavit, supra note 16, at 7.
+18. Id. at 6, 15.
+19. Id. at 7.
+20. Id. at 8.
+21. Lundy, supra note 15, at 6.
+22. Id.
+23. Id. Georgiadoes not provide counsel forcondemned inmates in postconviction proceedings. Nelson
+was represented first by a lawyer recruited by the NAACP Legal Defense and Educational Fund who sent
+the record to a lawyer at another firm, which took the case for postconviction proceedings. Id. Because of
+his poverty, Nelson was completely at the mercy of these forces with regard to whether he would be
+represented and the quality of that representation. Many are not as fortunate as Nelson.
+24. Id.
+25. Nelson v. Zant, 405 S.E.2d at 252.
+26. Martinez-Macias v. Collins, 979 F.2d 1067 (5th Cir. 1992).
+HeinOnline -- 103 Yale L.J. 1838 1993-1994
+
+1994] Counsel for the Poor 1839
+failed to present an available alibi witness, relied upon an incorrect assumption
+about a key evidentiary point without doing the research that would have
+corrected his erroneous view of the law, and failed to interview and present
+witnesses who could have testified in rebuttal of the prosecutor's case.27
+Martinez-Macias was sentenced to death.
+Martinez-Macias received competent representation for the first time when
+a Washington, D.C., firm took his case pro bono. After a full investigation and
+development of facts regarding his innocence, Martinez-Macias won federal
+habeas corpus relief.28 An El Paso grand jury refused to re-indict him and he
+was released after nine years on death roW.29
+Inadequate representation often leaves the poor without the protections of
+the Bill of Rights. An impoverished person was sentenced to death in Jefferson
+County, Georgia, in violation of one of the most basic guarantees of our Bill
+of Rights-the right to a representative jury selected without discrimination on
+the basis of race.3" African-Americans make up 54.5% of the population of
+that county, but the jury pool was only 21.6% black, a severe under-
+representation of over 50%.3t But this issue was not properly raised and
+preserved by the court-appointed lawyer for the accused. The defendant had
+the extreme misfortune of being represented-over his protests-by a court-
+appointed lawyer who, when later asked to name the criminal law decisions
+from any court with which he was familiar, could name only two: "Miranda
+and Dred Scott. 32 As a result of the lawyer's failure to challenge the racial
+discrimination at or before trial, the reviewing courts held that the defendant
+was barred from vindication of his constitutional rights.33
+The difference that representative juries and competent counsel make in
+capital cases is illustrated by the cases of two codefendants, John Eldon Smith
+and Rebecca Machetti. They were sentenced to death by unconstitutionally
+composed juries within a few weeks of each other in Bibb County, Georgia.34
+Machetti's lawyers challenged the jury composition in state court; Smith's
+27. Martinez-Macias v. Collins, 810 F. Supp. 782,786-87,796-813 (W.D. Tex. 1991), aff'd, 979 F.2d
+1067 (5th Cir. 1992).
+28. Id. at 823.
+29. Gordon Dickinson, Man Freed in Machete Murder Case, EL PASO TIMEs, June 24, 1993, at 1.
+30. U.S. CoNsT. amends. VI, XIV; Strauder v. West Virginia, 100 U.S. 303 (1879); see also Whitus
+v. Georgia, 385 U.S. 545 (1967).
+31. Birt v. Montgomery, 725 F.2d 587, 598 n.25 (11th Cir. 1984), cert. denied, 469 U.S. 874 (1984).
+32. Transcript of Hearing of April 25-27, 1988, at 231, State v. Birt (Super. Ct.J efferson County, Ga.
+1988) (No. 2360). The lawyer referred to Miranda v. Arizona, 384 U.S. 436 (1966), and Dred Scott v.
+Sandford, 60 U.S. (19 How.) 393 (1857). Dred Scott was not a criminal case.
+33. Birt v. Montgomery, 725 F.2d at 601.
+34. Georgia's "opt-out" provision allowing women to decline jury service was found to result in the
+unconstitutional underrepresentation of women. Machetti v. Linahan, 679 F.2d 236, 241 (11 th Cir. 1982),
+cert. denied, 459 U.S. 1127 (1983) (applying Duren v. Missouri, 439 U.S. 357 (1979), and Taylor v.
+Louisiana, 419 U.S. 522 (1975)).
+HeinOnline -- 103 Yale L.J. 1839 1993-1994
+
+1840 The Yale Law Journal [Vol. 103: 1835
+lawyers did not because they were unaware of the Supreme Court decision
+prohibiting gender discrimination in juries.35
+A new trial was ordered for Machetti by the federal court of appeals.36
+At that trial, a jury which fairly represented the community imposed a sentence
+of life imprisonment.37 The federal courts refused to consider the identical
+issue in Smith's case because his lawyers had not preserved it.38 He was
+executed, becoming the first person to be executed under the Georgia death
+penalty statute upheld by the U.S. Supreme Court in 1976.39 Had Machetti
+been represented by Smith's lawyers in state court and Smith by Machetti's
+lawyers, Machetti would have been executed and Smith would have obtained
+federal habeas corpus relief.
+In these examples, imposition of the death penalty was not so much the
+result of the heinousness of the crime or the incorrigibility of the defen-
+dant-the factors upon which imposition of capital punishment supposedly is
+to turn-but rather of how bad the lawyers were. In consequence, a large part
+of the death row population is made up of people who are distinguished by
+neither their records nor the circumstances of their crimes, but by their abject
+poverty, debilitating mental impairments, minimal intelligence, and the poor
+legal representation they received.
+A member of the Georgia Board of Pardons and Paroles has said that if
+the files of 100 cases punished by death and 100 punished by life were
+shuffled, it would be impossible to sort them out by sentence based upon
+information in the files about the crime and the offender.40 A justice of the
+Mississippi Supreme Court made the same observation about the imposition
+of death sentences in his state in testimony before the U.S. Senate Judiciary
+Committee:
+I dare say I could take every death sentence case that we have
+had where we have affirmed, give you the facts and not tell you the
+outcome, and then pull an equal number of murder cases that have
+been in our system, give you the facts and not tell you the outcome,
+and challenge you to pick which ones got the death sentence and
+which ones did not, and you couldn't do it.4'
+35. Because Smith and Machetti were tried within a few weeks of each other in the same county, "the
+Georgia provision applied to both juries." Smith v. Kemp, 715 F.2d 1459, 1469 (11 th Cir.), applicationf or
+cert. denied, 463 U.S. 1344, 1345, cert. denied, 464 U.S. 1003 (1983). Smith's lawyers were unaware of
+the Supreme Court's decision in Taylor v. Louisiana, 419 U.S. 522 (1975), decided six days before Smith's
+trial started. Smith v. Kemp, 715 F.2d at 1470.
+36. Machetti v. Linahan, 679 E2d at 242.
+37. Smith v. Kemp, 715 F.2d at 1476 (Hatchett, J., concurring in part and dissenting in part).
+38. Id. at 1469-72; see also id. at 1476 (Hatchett, J., concurring in part and dissenting in part).
+39. Gregg v. Georgia, 428 U.S. 153 (1976).
+40. Tracy Thompson, Once 'Unfit To Live,' Ex-Death-Row Inmates Winning Parole,A TLANTA CONST.,
+Mar. 12, 1987, at Al.
+41. Habeas Corpus Reform: HearingsB efore the Comm. on the Judiciary, 101st Cong., 1st & 2d Sess.
+349 (1989-90) (statement of Justice James Robertson of the Supreme Court of Mississippi).
+HeinOnline -- 103 Yale L.J. 1840 1993-1994
+
+1994] Counsel for the Poor 1841
+Although it has long been fashionable to recite the disgusting facts of
+murder cases to show how deserving of death particular defendants may be,42
+such renditions fail to answer whether the selection process is a principled one
+based on neutral, objective factors that provide a "meaningful basis for
+distinguishing the few cases in which the [death] penalty is imposed from the
+many cases in which it is not."43 Virtually all murders involve tragic and
+gruesome facts. However, the death penalty is imposed, on average, in only
+250 cases of the approximately 20,000 homicides that occur each year in the
+United States.4 Whether death is imposed frequently turns on the quality of
+counsel assigned to the accused.
+11. THE PERVASIVE INADEQUACY OF COUNSEL FOR THE POOR AND THE
+REASONS FOR IT
+Inadequate legal representation does not occur in just a few capital cases.
+It is pervasive in those jurisdictions which account for most of the death
+sentences. The American Bar Association concluded after an exhaustive study
+of the issues that "the inadequacy and inadequate compensation of counsel at
+trial" was one of the "principal failings of the capital punishment systems in
+the states today."45 Justice Thurgood Marshall observed that "capital
+42. See, e.g., Callins v. Collins, 62 U.S.L.W. 3546 (U.S. Feb. 22, 1994) (Scalia, J., concurring in the
+denial of certiorari).
+43. Godfrey v. Georgia, 446 U.S. 420, 427-28 (1980) (quoting Gregg v. Georgia, 428 U.S. 153, 188
+(1976) (quoting Furman v. Georgia, 408 U.S. 238, 313 (1972) (White, J., concurring))).
+44. Fewer than 300 death sentences have been imposed each year in the United States over the last
+20 years. U.S. DEP'T OF JUSTICE, BUREAU OF JUSTICE STATISTICS, CRIMINAL JUSTICE SOURCEBOOK 673,
+Table 6.132 (1992). There have been approximately 20,000 homicides in each of those years. Id. at 357,
+Table 3.122; see also id. at 539, Table 5.72 (death imposed in one percent of murder cases in 75 largest
+counties).
+45. American Bar Ass'n, supra note 9, at 16. The ABA's report illustrates the pervasiveness of the
+problem:
+Georgia's recent experience with capital punishment has been marred by examples of
+inadequate representation ranging from virtually no representation at all by counsel, to
+representation by inexperienced counsel, to failures to investigate basic threshold questions, to
+lack of knowledge of governing law, to lack of advocacy on the issue of guilt, to failure to
+present a case for life at the penalty phase....
+• ..Defense representation is not necessarily better in other death penalty states. In
+Tennessee, for another example, defense lawyers offered no evidence in mitigation in
+approximately one-quarter of all death sentences affirmed by the Tennessee Supreme Court
+since the Tennessee legislature promulgated its current death penalty statute.
+Id. at 65-67. Among the cases cited by the ABA in support of its description of the inadequate
+representation in Georgia are: Thomas v. Kemp, 796 F.2d 1322, 1324-25 (11th Cir. 1986) (counsel failed
+to present any evidence in mitigation), cert. denied, 479 U.S. 996 (1986); Blake v. Kemp, 758 F.2d 523
+(11th Cir. 1985), cert. denied, 474 U.S. 998 (1985) (counsel failed to present any evidence in mitigation);
+Tyler v. Kemp, 755 F.2d 741 (11th Cir. 1985) (counsel had been a member of the bar for only six months
+prior to his appointment), cert. denied, 474 U.S. 1026 (1985); House v. Balkcom, 725 F.2d 608 (11 th Cir.
+1984) (counsel not even present during portions of capital trial), cert. denied, 469 U.S. 870 (1984); Francis
+v. Spraggins, 720 F.2d 1190 (1 1th Cir. 1983) (counsel conceded guilt at closing argument of guilt phase);
+Goodwin v. Balkcom, 684 F.2d 794, 817-20 (11 th Cir. 1982) (counsel unaware of law, distanced himself
+from client, and otherwise failed to render effective assistance), cert. denied, 460 U.S. 1098 (1983); Young
+v. Zant, 677 F.2d 792, 795 (11th Cir. 1982) (counsel failed to provide "even a modicum of professional
+HeinOnline -- 103 Yale L.J. 1841 1993-1994
+
+1842 The Yale Law Journal [Vol. 103: 1835
+defendants frequently suffer the consequences of having trial counsel who are
+ill equipped to handle capital cases. 46 The National Law Journal, after an
+extensive study of capital cases in six Southern states, found that capital trials
+are "more like a random flip of the coin than a delicate balancing of the
+scales" because the defense lawyer is too often "ill trained, unprepared...
+[and] grossly underpaid."'47 Many observers from a variety of perspectives
+and from different states have found the same scandalous quality of legal
+representation.48
+These assessments are supported by numerous cases in which the poor
+were defended by lawyers who lacked even the most rudimentary knowledge,
+resources, and capabilities needed for the defense of a capital case. Death
+sentences have been imposed in cases in which defense lawyers had not even
+read the state's death penalty statute or did not know that a capital trial is
+bifurcated into separate determinations of guilt and punishment.49 State trial
+assistance at any time" during capital trial); Mathis v. Zant, 704 F. Supp. 1062, 1064 (N.D. Ga. 1989) ("In
+addition to betraying his duty to present what evidence he could on petitioner's behalf, [counsel] delivered
+a closing argument that the Court in its prior order generously termed an 'apology for having served as
+[petitioner's] counsel."'); Johnson v. Kemp, 615 F. Supp. 355, 364 (S.D. Ga. 1985) (counsel failed to
+present evidence in mitigation), aff'd without opinion, 781 F.2d 1483 (11th Cir. 1986); Cury v Zant, 371
+S.E.2d 647 (Ga. 1988) (counsel failed to get independent psychiatric evaluation of defendant to determine
+mental competency).
+46. Thurgood Marshall, Remarks on the Death Penalty Made at the Judicial Conference of the Second
+Circuit, 86 COLUM. L. REV. 1, 1-2 (1986). Justice Marshall noted that "[tihe federal reports are filled with
+stories of counsel who presented no evidence in mitigation of their clients' sentences because they did not
+know what to offer or how to offer it, or had not read the state's sentencing statute." Id.
+47. Marcia Coyle et al., Fatal Defense: Trial and Errori n the Nation's Death Belt, NAT. L.J., June
+11, 1990, at 30. Twelve articles examining the quality of representation in numerous cases in the six states
+appear in id. at 30-44.
+48. Witnesses before an ABA Task Force studying the capital punishment system described the current
+state of affairs for indigent criminal defendants as "'scandalous,' 'shameful,' 'abysmal,' 'pathetic,'
+'deplorable,' and 'at best, exceedingly uneven."' American Bar Ass'n, supra note 9, at 69; see also Ruth
+E. Friedman & Bryan A. Stevenson, Solving Alabama's CapitalD efense Problems:I t's a Dollarsa nd Sense
+Thing, 44 ALA. L. REV. 1, 32-37 (1992); Bruce A. Green, Lethal Fiction: The Meaning of "Counsel" in
+the Sixth Amendment, 78 IOWA L. REv. 433, 491-99 (1993); Tom Wicker, Defending the Indigent in
+Capital Cases, 2 CRIM. JUSTICE ETHICS 2 (1983); Jeanne Cummings, Bad Lawyers Tip the Scales of Justice
+Toward Death Row, ATLANTA J.-CONST., Apr. 1, 1990, at Al; Anthony Lewis, Crime in Politics, N.Y.
+TIMES, Oct. 1, 1990, at A21; Andrea Neal, Death Row Inmates Point to Poor Quality of Lawyers Who
+Defend Them, L.A. TIMES, Oct. 29, 1986, at 12; Frederic N. Tulsky, What Price Justice? Poor Defendants
+Pay the Cost as Courts Save on Murder Trials, PHILA. INQUIRER, Sept. 13, 1992, at AI [hereinafter Tulsky,
+What Price Justice?]; Frederic N. Tulsky, Big-Tme Trials, Small Time Defenses, PHILA. INQUIRER, Sept.
+14, 1992, at Al [hereinafter Tulsky, Big-Time Trials]; Andrew Wolfson & Susan Craighead, Effectiveness
+of Lawyers in Capital Cases Is Questioned, COURIER-J. (Louisville, Ky.), Nov. 18, 1990, at 1, 23.
+49. A lawyer in one Georgia case conceded his client's guilt and argued for a life sentence at the guilt
+phase; he continued to plead for mercy even after he was admonished by the trial judge to save his
+argument on punishment for the sentencing phase. Young v. Zant, 677 F.2d 792, 797 (11 th Cir. 1982).
+A judge in a Florida case took a defense lawyer in chambers during the penalty phase to explain what it
+was about. The lawyer responded: "I'm at a loss. I really don't know what to do in this type of
+proceeding. If I'd been through one, I would, but I've never handled one except this time." Douglas v.
+Wainwright, 714 F.2d 1532, 1556 (11th Cir. 1983), vacated and remanded, 468 U.S. 1206 (1984), on
+remand, 739 F.2d 531 (11th Cir. 1984), and cert. denied, 469 U.S. 1208 (1985). An Alabama defense
+lawyer asked for time between the guilt and penalty phases so that he could read the state's death penalty
+statute. Record at 1875-76, State v. Smith, 581 So. 2d 497 (Ala. Crim. App. 1990). The lawyer in a
+Pennsylvania case tailored his presentation of evidence and argument around a death penalty statute that
+had been declared unconstitutional three years earlier because it limited the arguments on which the defense
+HeinOnline -- 103 Yale L.J. 1842 1993-1994
+
+1994] Counsel for the Poor 1843
+judges and prosecutors-who have taken oaths to uphold the law, including the
+Sixth Amendment-have allowed capital trials to proceed and death sentences
+to be imposed even when defense counsel fought among themselves or
+presented conflicting defenses for the same client,50 referred to their clients
+by a racial slur,5' cross-examined a witness whose direct testimony counsel
+missed because he was parking his car,52 slept through part of the trial,53 or
+was intoxicated during trial. 4 Appellate courts often review and decide
+capital cases on the basis of appellate briefs that would be rejected in a first-
+year legal writing course in law school.55
+There are several interrelated reasons for the poor quality of representation
+in these important cases. Most fundamental is the wholly inadequate funding
+could rely as to mitigating circumstances. Frey v. Fulcomer, 974 F.2d 348, 359 (3d Cir. 1992) (reversing
+finding of ineffective assistance of counsel).
+50. In one Alabama case, one defense lawyer sued co-counsel over attorneys fees before trial and the
+attorneys were in conflict over personal differences during trial. Daniel v. Thigpen, 742 F Supp. 1535,
+1558-59 (M.D. Ala. 1990); Friedman & Stevenson, supra note 48, at 34. In a Georgia case, one attorney
+presented an incredible alibi defense while the other asserted a mental health defense that acknowledged
+the accused's participation in the crime. Ross v. Kemp, 393 S.E.2d 244, 245 (Ga. 1990).
+51. Goodwin v. Balkcom, 684 F.2d 794, 805 n.13 (lth Cir. 1982) (defendant called a "little old
+nigger boy" in closing argument by defense counsel); Ex parte Guzmon, 730 S.W.2d 724, 736 (Tex. Crim.
+App. 1987) (Mexican client referred to as "wet back" in front of all-white jury by defense counsel); Record
+Excerpts at 102, Dungee v. Kemp, No. 85-8202 (11 th Cir.) (defendant called "nigger" by defense counsel),
+decided sub nom. Isaacs v. Kemp, 778 F.2d 1482 (11th Cir. 1985), cert. denied, 476 U.S. 1164 (1986).
+52. House v. Balkcom, 725 F.2d 608, 612 (11th Cir. 1984), cert. denied, 469 U.S. 870 (1984).
+53. A judge in Harris County, Texas, responding to a capital defendant's complaints about his lawyer
+sleeping during the trial at which death was imposed, stated: "The Constitution does not say that the lawyer
+has to be awake." John Makeig, Asleep on the Job; Slaying Trial Boring, Lawyer Said, Hous. CHRON.,
+Aug. 14, 1992, at A35. Defense counsel was found to have slept during a capital trial in Harrison v. Zant,
+No. 88-V-1640, Order at 2 (Super. Ct. Butts County, Ga. Oct. 5, 1990), aff'd, 402 S.E.2d 518 (Ga. 1991).
+54. People v. Garrison, 254 Cal. Rptr. 257 (1986). Counsel, an alcoholic, was arrested en route to
+court one morning and found to have a blood alcohol level of 0.27. Yet the court was unwilling to create
+a presumption against the competence of attorneys under the influence of alcohol.
+55. See, e.g., Morgan v. Zant, 743 F2d 775, 780 (11th Cir. 1984) (Georgia Supreme Court affirmed
+death sentence after receiving brief that contained only five pages of argument and was filed only in
+response to threat of sanctions against the lawyer); Banda v. State, 768 S.W.2d 294, 297 (Tex. Crim. App.
+1989) (dissent notes that court-appointed counsel raised a single point of error and the substantive portion
+of the brief was 150 words); Modden v. State, 721 S.W.2d 859, 860 n.1 (Tex. Crim. App. 1986) ("The
+points of error are multifarious, contain incomplete or no citations to the record, and fail to state an
+adequate legal basis upon which complaint is made."); Brief and Argument in Support of Petition for Writ
+of Certiorari, Ex parte Heath, 455 So. 2d 905 (Ala. 1984) (No. 4 Div. 134) (one page of argument, raising
+a single issue and citing one case) (set out in full in note 154 infra); Brief for Appellant, Thomas v. State,
+266 S.E.2d 499 (Ga. 1980) (No. 36046) (six pages of poorly written argument, citing only nine cases,
+which failed to raise issues regarding mental incompetence of the defendant, lack of any counsel at the
+preliminary hearing, mental competency of the state's two key witnesses, vagueness of the aggravating
+circumstance on which the death sentence rested, and other issues that were later raised in a brief of 70
+pages which cited 96 cases in the postconviction appeal of the case to the Eleventh Circuit); see also In
+re Dale, 247 S.E.2d 246, 248 (N.C. CL App. 1978) (due to financial considerations, attorney did not file
+appeal in capital case); Docket Entry of July 8, 1983, of Clerk of Alabama Court of Criminal Appeals,
+State v. Waldrop, 459 So. 2d 959 (Ala. Crim. App. 1984) (No. 7 Div. 133) (clerk wrote a letter to appellate
+counsel, who had not cited any authority in his brief, asking him to include some citation to authority;
+counsel sent a list of cases); Brief of Appellant, Morrison v. State, 373 S.E.2d 506 (Ga. 1988) (No. 45572)
+(two pages of argument, citing two cases); Brief of Appellant, Newland v. State, 366 S.E.2d 689 (Ga. 1988)
+(No. 45264) (62-page digest of the transcript, followed by only three pages of argument, citing not a single
+case); Brief of Appellant, Cohen v. State, 361 S.E.2d 373 (Ga. 1987) (No. 44457) (four pages of argument,
+citing two cases).
+HeinOnline -- 103 Yale L.J. 1843 1993-1994
+
+1844 The Yale Law Journal [Vol. 103: 1835
+for the defense of indigents. As a result, there is simply no functioning
+adversary system in many states. Public defender programs have never been
+created or properly funded in many jurisdictions. The compensation provided
+to individual court-appointed lawyers is so minimal that few accomplished
+lawyers can be enticed to defend capital cases. Those who do take a capital
+case cannot afford to devote the time required to defend it properly. As a
+result, the accused are usually represented by lawyers who lack the experience,
+expertise, and resources of their adversaries on the prosecution side.
+Many state court judges, instead of correcting this imbalance, foster it by
+intentionally appointing inexperienced and incapable lawyers to defend capital
+cases, and denying funding for essential expert and investigative needs of the
+defense. The minimal standard of legal representation in the defense of poor
+people, as currently interpreted by the Supreme Court, offers little protection
+to the poor person stuck with a bad lawyer.
+A. The Lack of a FunctioningA dversary System
+Many death penalty states have two state-funded offices that specialize in
+handling serious criminal cases. Both employ attorneys who generally spend
+years-some even their entire careers-handling criminal cases. Both pay
+decent annual salaries and provide health care and retirement benefits. Both
+send their employees to conferences and continuing legal education programs
+each year to keep them up to date on the latest developments in the law. Both
+have at their disposal a stable of investigative agencies, a wide range of
+experts, and mental health professionals anxious to help develop and interpret
+facts favorable to their side. Unfortunately, however, in many states both of
+these offices are on the same side: the prosecution.
+One is the District Attorney's office in each judicial district, whose
+lawyers devote their time exclusively to handling criminal matters in the local
+court systems. These lawyers acquire considerable expertise in the trial of
+criminal cases, including capital cases. There are, for example, prosecutors in
+the District Attorney's office in Columbus, Georgia, who have been trying
+death penalty cases since the state's current death penalty statute was adopted
+in 1973.
+The other office is the state Attorney General's office, which usually has
+a unit made up of lawyers who specialize in handling the appeals of criminal
+cases and habeas corpus matters. Here, too, lawyers build expertise in handling
+capital cases. For example, the head of the unit that handles capital litigation
+for the Georgia Attorney General has been involved in that work since 1976,
+the same year the Supreme Court upheld Georgia's death penalty statute. She
+brings to every case a wealth of expertise developed in seventeen years of
+litigating capital cases in all the state and federal courts involved in Georgia
+cases. She and her staff are called upon by district attorneys around the state
+HeinOnline -- 103 Yale L.J. 1844 1993-1994
+
+1994] Counsel for the Poor 1845
+for consultation on pending cases and, on occasion, will assist in trial work.
+It is the normal practice in Georgia that briefs by both the district attorney and
+the attorney general are filed with the Georgia Supreme Court on the direct
+appeal of a capital case.
+The specialists in the offices of both the district attorneys and the attorneys
+general have at their call local, state, and, when needed, federal investigative
+and law enforcement agencies. They have a group of full-time experts at the
+crime laboratory and in the medical examiner's offices to respond to crime
+scenes and provide expert testimony when needed. If mental health issues are
+raised, the prosecution has a group of mental health professionals at the state
+mental facilities. No one seriously contends that these professional witnesses
+are objective. They routinely testify for the prosecution as part of their work,
+and prosecutors enjoy longstanding working relationships with them.
+In Alabama, Georgia, Mississippi, Louisiana, Texas, and many other states
+with a unique fondness for capital punishment, there is no similar degree of
+specialization or resources on the other side of capital cases. A poor person
+facing the death penalty may be assigned an attorney who has little or no
+experience in the defense of capital or even serious criminal cases,56 one
+reluctant or unwilling to defend him,57 one with little or no empathy or
+understanding of the accused or his particular plight," one with little or no
+56. See, e.g., Paradis v. Arave, 954 F.2d 1483, 1490-91 (9th Cir. 1992) (defendant represented at
+capital trial by lawyer who had passed the bar six months earlier, had tried no criminal cases, and had not
+taken any courses in criminal law, criminal procedure, or trial advocacy in law school); Tyler v. Kemp, 755
+F.2d 741, 743 (11th Cir.) (defendant represented at Georgia trial by attorney with little criminal law
+experience who had been admitted to the bar just a few months before trial), cert. denied, 474 U.S. 1026
+(1985); Bell v. Watkins, 692 F2d 999, 1008 (5th Cir. 1982) (defendant represented at Mississippi capital
+trial by attorney who had recently graduated from law school and never tried a criminal case all the way
+to verdict); State v. Wigley, 624 So. 2d 425, 427 (La. 1993) (three of four attorneys appointed to defend
+two defendants "were civil practitioners with little criminal law experience"); Parker v. State, 587 So. 2d
+1072, 1100-03 (Ala. Crim. App. 1991) (defense lawyers asserted they were inexperienced in defense of
+criminal cases and incompetent to handle a capital case in unsuccessful attempt to withdraw); State v.
+Leatherwood, Miss. S. CL No. DP-70 (trial transcript) (defendant in capital case represented by third-year
+law student and attorney), rev'd on other grounds, 548 So. 2d 389 (Miss. 1989).
+57. See, e.g., Coleman v. Kemp, 778 F2d 1487, 1494, 1495, 1503, 1516, 1522 (11th Cir. 1985) (one
+attorney appointed to defend capital cases claimed the appointment was "the worst thing that's ever
+happened to me professionally"; another stayed on the case because "[t]o refuse would be contempt of
+court"), cert. denied, 476 U.S. 1164 (1986).
+58. An African-American facing the death penalty in Walker County, Georgia, was represented by a
+white defense attorney whose attitudes on race were described as follows by a federal district court before
+concluding that the lawyer had not rendered ineffective assistance:
+Dobbs' trial attorney was outspoken about his views. He said that many blacks are uned-
+ucated and would not make good teachers, but do make good basketball players. He opined that
+blacks are less educated and less intelligent than whites either because of their nature or because
+"my grand-daddy had slaves." He said that integration has led to deteriorating neighborhoods
+and schools, and referred to the black community in Chattanooga as "black boy jungle." He
+strongly implied that blacks have inferior morals by relating a story about sex in a classroom.
+He also said that when he was young, a maid was hired with the understanding that she would
+steal some items. He said that blacks in Chattanooga are more troublesome than blacks in
+Walker County [Georgia] ....
+Dobbs v. Zant, 720 F. Supp. 1566, 1577 (N.D. Ga. 1989) (denying habeas corpus relief), aff'd, 963 F.2d
+1519 (11th Cir. 1991), remanded, 113 S. Ct. 835 (1993). Defendants in other cases have been referred to
+HeinOnline -- 103 Yale L.J. 1845 1993-1994
+
+1846 The Yale Law Journal [Vol. 103: 1835
+knowledge of criminal or capital punishment law, or one with no
+understanding of the need to document and present mitigating
+circumstances.59 Although it is widely acknowledged that at least two
+lawyers, supported by investigative and expert assistance, are required to
+defend a capital case, some of the jurisdictions with the largest number of
+death sentences still assign only one lawyer to defend a capital case.60
+In contrast to the prosecution's virtually unlimited access to experts and
+investigative assistance, the lawyer defending the indigent accused in a capital
+case may not have any investigative or expert assistance to prepare for trial
+and present a defense. A study of twenty capital cases in Philadelphia in 1991
+and 1992 found that the court "paid for investigators in eight of the twenty
+cases, spending an average of $605 in each of the eight" and that the court
+"paid for psychologists in two of them, costing $400 in one case, $500 in the
+other.",61 It is impossible even to begin a thorough investigation or obtain a
+comprehensive mental health evaluation for such paltry amounts.
+Although the Supreme Court has held that indigent defendants may be
+entitled to expert assistance in certain circumstances,6 defense attorneys often
+do not even request such assistance because they are indifferent or know that
+no funds will be available.3 Courts often refuse to authorize funds for
+investigation and experts by requiring an extensive showing of need that
+frequently cannot be made without the very expert assistance that is sought.'
+by their lawyers with racial slurs. See supra note 51.
+59. See supra notes 10-13 and accompanying text.
+60. In Texas, which has the second largest death row in the nation and has carried out more executions
+than any other state, the accused is given only one lawyer in many cases. THE SPANGENBERG GROUP, A
+STUDY OF REPRESENTATION IN CAPITAL CASES IN TEXAS 156, 157 (1993) (prepared for the State Bar of
+Texas). In Philadelphia, where the number of people sentenced to death is greater than the combined death
+rows of 21 of the 36 states which have the death penalty, a capital case is often defended by a single
+attorney. See Michael DeCourcy Hinds, Circumstancesi n PhiladelphiaC onsignK illers, N.Y. TIMEs, June
+8, 1992, at KI; Tulsky, What Price Justice?, supra note 48, at A18.
+61. Tulsky, What Price Justice?, supra note 48, at A18.
+62. Ake v. Oklahoma, 470 U.S. 68, 83 (1985) (indigent defendant has a right to mental health expert
+where mental health issues are a "significant factor" at trial); see, e.g., Smith v. McCormick, 914 F.2d
+1153, 1157 (9th Cir. 1990) ("The right to psychiatric assistance ... means the right to use the services of
+a psychiatrist in whatever capacity defense counsel deems appropriate .... ).
+63. A survey of lawyers and judges in Texas found that approximately one-half of the attorneys who
+had handled a capital case and 33% of judges who had recently presided over a capital case indicated that
+resources were inadequate to pay expert witnesses and attorneys. THE SPANGENBERG GROUP, supra note
+60, at 159; see, e.g., Jeff Rosenzweig, The Crisis in Indigent Defense: An Arkansas Commentary, 44 ARK.
+L. REV. 409, 410 (1991) (describing the dilemma of an Arkansas attorney in a capital case who needed a
+psychiatrist to examine a defendant who had previously been diagnosed as schizophrenic; the lawyer was
+first told by the judge to find a mental health expert closer to home and then denied funds after he located
+a local psychologist).
+64. In response to the denial of expert assistance for failure to make a sufficient showing in one case,
+Judge Frank M. Johnson, Jr. pointed out for the dissenters: "[H]ow could [counsel] know if he needed a
+microbiologist, an organic chemist, a urologist, a hematologist, or that which the state used, a serologist?
+How further could he specify the type of testing he needed without first hiring an expert to make that
+determination?" Moore v. Kemp, 809 F.2d 702, 743 (11th Cir. 1987) (Johnson, J., concurring in part and
+dissenting in part); see also Stephens v. Kemp, 846 F.2d 642, 646 (11 th Cir.) (upholding denial of ballistics
+expert because of insufficient showing by defense counsel of need for expert), cert. denied, 488 U.S. 872
+(1988); Messer v. Kemp, 831 F.2d 946 (11th Cir. 1987) (en banc) (although the only issue at both guilt
+HeinOnline -- 103 Yale L.J. 1846 1993-1994
+
+1994] Counsel for the Poor 1847
+Many lawyers find it impossible to maneuver around this "Catch 22,''65 but
+even when a court recognizes the right to an expert, it often authorizes so little
+money that no competent expert will get involved.66
+An indigent accused facing the death penalty in Columbus, Georgia, was
+assigned counsel by the local trial judge, a former district attorney who had
+tried high profile capital cases on the way to becoming a judge.67 Neither of
+the two lawyers appointed had ever tried a capital case before. The lawyers
+were denied any funds for an investigator or expert assistance. The case was
+prosecuted by an assistant district attorney with over fifteen years of
+experience in trying capital and other criminal cases. The defense was unable
+to investigate the case or present any expert testimony in response to the
+state's fingerprint and identification technicians, ballistics expert, coroner, and
+medical examiner.
+An Alabama attorney, appointed without co-counsel and granted only $500
+for expert and investigative expenses to defend a highly publicized capital
+case, facing three prosecutors and an array of law enforcement agencies and
+expert witnesses, described his situation:
+Without more than $500, there was only one choice, and that is
+to go to the bank and to finance this litigation, myself, and I was just
+financially unable to do that. It would have cost probably in excess of
+thirty to forty thousand dollars, and I just could not justify taking
+those funds from my practice, or my family at that time.68
+Not surprisingly, the attorney was simply unable to investigate the case
+properly:
+I could not take days at a time out of my office to do essentially
+non-legal work. And investigation is necessary, certainly, to prepare
+a case, but it is non-legal .... You're actually pounding the
+pavement, trying to come up with the same information that a person
+and penalty phases was insanity and defense counsel made numerous motions for an independent
+psychiatrist, denial of expert assistance was upheld because of the vague nature of defense counsel's request
+and counsel's failure to provide any factual basis for his belief that defendant had psychiatric problems),
+cert. denied, 485 U.S. 1029 (1988).
+65. In dissenting in Moore v. Kemp, Judge Johnson observed: "[The majority's reading of Ake creates
+a proverbial 'Catch 22,' making it impossible for all but the most nimble (and prescient) defendant[s] to
+obtain expert assistance." 809 F.2d at 742 (Johnson, J., dissenting).
+66. For example, a review of capital cases in Philadelphia suggested experts were unwilling to consult
+with defense lawyers because of the meager compensation. Tulsky, What Price Justice?, supra note 48,
+at Al, AI8. One expert observed to a group of defense lawyers that she made more than they did. Id.
+Another, a University of Pennsylvania professor who takes cases for defense lawyers outside Philadelphia,
+explained his refusal to be retained by court-appointed counsel in capital cases in Philadelphia: "I like to
+choose my charities .... This is a bad system, and unfair to the defendant." Id.
+67. State v. Walker, No. 89 CR 56742-2 (Super. Ct. Muscogee County, Ga. 1991), rev'd on other
+grounds, 424 S.E.2d 782 (Ga. 1993).
+68. Deposition of Richard Bell at 24-25, Grayson v. State (Cir. Ct. Shelby County, Ala. Oct. 10, 1991)
+(No. CV 86-193).
+HeinOnline -- 103 Yale L.J. 1847 1993-1994
+
+1848 The Yale Law Journal [Vol. 103: 1835
+who is paid substantially less per hour could take care of, I mean,
+whether it be the investigator for the Sheriff's Department or the
+District Attorney's office or the FB.I., or the U.S. Attorney's office.
+You don't find the U.S. Attorney pounding the pavement, trying to
+investigate facts .... And it just creates a terrible situation when you
+have to do everything for yourself.9
+As a result, much of the investigation simply was not done and critical
+evidence was not presented.7° With regard to the lack of funds for expert
+witnesses, the lawyer testified that in civil cases, which constituted ninety
+percent of his caseload, he would have hired the required experts because
+failure to do so would have constituted malpractice.7'
+An attorney involved in the defense of many capital cases in Arkansas has
+described how lawyers in that state are forced to perform "a sort of
+uninformed legal triage," ignoring some issues, lines of investigation, and
+defenses because of the lack of adequate compensation and resources.72 He
+described the costs of such an approach: "The lawyer pays some in reputation,
+perhaps, but it is his client who must pay with his liberty or life. 73
+The adversary system often breaks down at the appellate level as well.
+The poor defendant usually does not receive representation equal to that of the
+prosecution in a state like Georgia, where on direct appeal of capital cases,
+specialists in the offices of the Attorney General and District Attorney both file
+briefs for the state. The poor person sentenced to death may be represented by
+a lawyer with little or no appellate experience, no knowledge of capital
+punishment law, and little or no incentive or inclination to provide vigorous
+advocacy. For example, in one Georgia case, the court-appointed attorney filed
+a brief containing only five pages of argument, and that only after the Georgia
+Supreme Court threatened to impose sanctions.74 The lawyer did not raise as
+an issue the trial court's charge to the sentencing jury, which was later found
+by the U.S. Court of Appeals to have violated the Constitution, did not appear
+for oral argument, and did not file a supplemental brief on the jury instruction
+issue even after requested to do so by the court.75 Nevertheless, the Georgia
+Supreme Court did not appoint other counsel or require adequate briefing.
+Instead, with nothing more before it than counsel's deficient performance, the
+court upheld the conviction and death sentence.76 The death sentence was
+later set aside by the U.S. Court of Appeals.77 There have been numerous
+69. Id. at 62-63.
+70. Il at 56-59.
+71. Id. at 29-31, 46-48.
+72. Rosenzweig, supra note 63, at 412.
+73. Id.
+74. Morgan v. Zant, 743 E2d 775, 780 (11th Cir. 1984).
+75. Id.
+76. State v. Morgan, 246 S.E.2d 198 (Ga. 1978), cert. denied, 441 U.S. 967 (1979).
+77. Morgan v. Zant, 743 F2d 775 (11th Cir. 1984).
+HeinOnline -- 103 Yale L.J. 1848 1993-1994
+
+1994] Counsel for the Poor 1849
+other instances of grossly deficient representation on appeal in cases of those
+condemned to die.78
+B. The Lack of Indigent Defense Programs
+In many jurisdictions where capital punishment is frequently imposed,
+there are no comprehensive public defender systems whose resources can
+parallel the prosecutorial functions of the district attorneys' offices.79 There
+are no appellate defender offices that parallel the function of the capital
+litigation sections of the attorneys general's offices. In fact, there is no
+coherent system at all, but a hodgepodge of approaches that vary from county
+to county.
+In many jurisdictions, judges simply appoint members of the bar in private
+practice to defend indigents accused of crimes.80 The lawyers appointed may
+not want the cases,8' may receive little or no compensation for the time and
+expense of handling them,2 may lack any interest in criminal law, and may
+not have the skill to defend those accused of a crime. As a result, the poor are
+often represented by inexperienced lawyers who view their responsibilities as
+78. For other examples of deficient representation on appeal see supra note 55.
+79. Only 11 of the 36 states which have the death penalty have statewide public defender programs.
+THE SPANGENBERG GROUP, supra note 60, at 122, 125. Some of those state public defender programs have
+specialized full-time capital litigation groups that provide representation in capital cases at trial. Id. Two
+of those states, New Hampshire and Wyoming, have no one under death sentence. Id. at 119; NAACP
+LEGAL DEFENSE & EDUCATIONAL FUND, DEATH Row USA I (winter 1993). Eight of the states with
+statewide defense programs have death rows that are comparatively small: Connecticut (5); Delaware (16);
+Maryland (14); New Jersey (9); New Mexico (1). Id. at 17,27,25,28,29. This leaves two states with large
+death row populations, Ohio (127) and Missouri (83), with statewide programs and capital litigation
+sections. Id. at 26, 29; THE SPANGENBERG GROUP, supra note 60, at 122. Florida and California, which
+have two of the country's three largest death rows, have public defender programs, but many capital cases
+in those states are handled by assigned counsel outside of the public defender system. Florida has an elected
+public defender in each judicial circuit. Id. at 122-23. California has county public defender agencies in
+all of its major counties. Id. at 123. Even though these programs cannot handle the huge volume of capital
+cases in those states, they have annual training programs and provide materials which improve the quality
+of representation in those states. No similar programs exist in Texas or many other states with large death
+row populations.
+80. Richard Klein. The Eleventh Commandment: Thou Shalt Not Be Compelled To Render the
+Ineffective Assistance of Counsel, 68 IND. LJ.3 63, 370 (1993).
+81. For example, indigent defense boards in Louisiana maintain lists of "volunteer" and "non-
+volunteer" lawyers and may appoint counsel from either list. LA. REV. STAT. ANN. § 15:145(A), (B)(l)(a)
+(,Vest 1992); State v. Wigley, 624 So. 2d 425 (La. 1993) (involving four "non-volunteer" attorneys, three
+of whom had little criminal law experience, appointed without compensation to defend two defendants
+facing death penalty); State v. Clark, 624 So. 2d 422 (La. 1993) (finding attorney in contempt for refusing
+to accept armed robbery case without compensation, his fifth felony appointment in four months). In some
+judicial circuits, it is a requirement that attorneys newly admitted to practice take indigent appointments
+during their first years in the bar. Jeanne Cummings, In Some Courts, It'"s'N oC ontest"for Lawyers Given
+Indigent Cases, ATLANTA CONST., Apr. 6, 1990, at Al (noting requirement in Rome, Georgia, that all
+attorneys with 15 years experience or less take criminal appointments)
+82. "In all too many jurisdictions, the total compensation paid to court-appointed counsel does not
+even meet their regular hourly overhead costs." RICHARD KLEIN & ROBERT SPANGENBERG, THE INDIGENT
+DEFENSE CRISIS 5 (1993) (prepared for the American Bar Association Section of Criminal Justice Ad Hoc
+Committee on the Indigent Defense Crisis). For example, in Virginia, the maximum fee allowable for most
+felonies is $350. Id. at 6.
+HeinOnline -- 103 Yale L.J. 1849 1993-1994
+
+1850 The Yale Law Journal [Vol. 103: 1835
+unwanted burdens, have no inclination to help their clients, and have no incen-
+tive to develop criminal trial skills. Lawyers can make more money doing
+almost anything else. Even many lawyers who have an interest in criminal
+defense work simply cannot afford to continue to represent indigents while also
+repaying their student loans and meeting their familial obligations.
+Some counties employ a "contract system" in which the county contracts
+with an attorney in private practice to handle all of the indigent cases for a
+specified amount. Often contracts are awarded to the lawyer-or group of
+lawyers-who bids the lowest.83 The lawyer is still free to generate other
+income through private practice. Any money spent on investigation and experts
+comes out of the amount the lawyer receives. These programs are well known
+for the exceptionally short shrift that the poor clients receive and the lack of
+expenditures for investigative and expert assistance.S4
+A third system is the employment of a group of lawyers or an organization
+to handle all indigent criminal cases while not engaging in any outside
+practice. These lawyers are usually called "public defenders," although in some
+jurisdictions they lack the investigative and support staff that is considered part
+of a genuine public defender program. Some of these offices employ
+remarkably dedicated attorneys, whose jobs are nonetheless made almost
+impossible by overwhelming caseloads and low funding.
+For example, the Fulton County Public Defender program, which serves
+the courts in Atlanta, has achieved nationwide notoriety for its high
+caseloads-an average of 530 felony cases per attorney for each year plus
+extraditions, probation revocations, commitment, and special hearings-and
+grossly inadequate funding.85 A public defender in Atlanta may be assigned
+as many as forty-five new cases at one arraignment. At that time, upon first
+meeting these clients-chained together-for a nonprivate, nonconfidential
+"interview" in a holding area near the courtroom, she may plead many of them
+guilty and have them sentenced on the spot. As one public defender described
+disposing of seventeen indigent defendants: "I met 'em, pled 'em and closed
+'em-all in the same day."86 This system of criminal procedure is known as
+"slaughterhouse justice." When one lawyer in the office, after closing 476
+83. Richard Klein, The Emperor Gideon Has No Clothes: The Empty Promise of the Constitutional
+Right to Effective Assistance of Counsel, 13 HASTINGS CONST. L.Q. 625, 679 (1986).
+84. Id. at 680. A contract arrangement in one Georgia county required that the attorney pay any inves-
+tigative and expert expenses out of the $4265 he was to be paid that year for representing all of the
+county's indigent defendants. Not surprisingly, often not one penny is spent on either investigative or expert
+assistance in an entire year in some Georgia counties.
+85. See THE SPANGENBERG GROUP, OVERVIEW OFTHE FULTON COUNTY, GEORGIA INDIGENT DEFENSE
+SYSTEM (1990); Peter Appelbome, Study Faults Atlanta's System of Defending Poor,N .Y. TIMES, Nov. 30,
+1990, at B5; Monroe Freedman, Third World Justice, First World Shame, FULTON COUNTY DAILY REP.,
+Feb. 8, 1991, at 6-7 (observing "daily, active collaboration" by judges in the "debasement of justice"); see
+also Sandra McIntosh & Jeanne Cummings, Crisis in the Courts: Inmates Wait Months To See a Lawyer,
+ATLANTA J.-CONST., Jan. 6, 1991, at Al.
+86. Trisha Renaud & Ann Woolner, Meet Em and Plead Em: Slaughterhouse Justice in Fulton's
+Decaying Indigent Defense System, FULTON COUNTY DAILY REP., Oct. 8, 1990, at 1.
+HeinOnline -- 103 Yale L.J. 1850 1993-1994
+
+1994] Counsel for the Poor
+cases in ten months and still carrying a caseload of 122, asserted her ethical
+obligation to limit her caseload, she was berated by the trial judge, who
+refused her request; she was eventually demoted to juvenile court by the
+director of her office.87
+A public defender in New Orleans represented 418 defendants during the
+first seven months of 1991.88 During this time, he entered 130 guilty pleas at
+arraignment and had at least one serious case set for trial on every single trial
+date during the period.9 In "routine cases," he received no investigative
+support because the three investigators in the public defender office were
+responsible for more than 7000 cases per year.90 No funds were available for
+expert witnesses. The Louisiana Supreme Court found that, because of the
+excessive caseloads and insufficient resources of the public defender office, the
+clients served by this system are "not provided with the effective assistance of
+counsel the [C]onstitution requires."91
+The structure of indigent defense not only varies among states, it varies
+within many states from county to county. Some localities employ a combina-
+tion of these programs. All of these approaches have several things in
+common. They evince the gross underfunding that pervades indigent defense.
+They are unable to attract and keep experienced and qualified attorneys
+because of lack of compensation and overwhelming workloads. 2 Just when
+lawyers reach the point when they have handled enough cases to begin
+avoiding basic mistakes, they leave criminal practice and are replaced by other
+young, inexperienced lawyers who are even less able to deal with the
+overwhelming caseloads. Generally, no standards are employed for assignment
+of cases to counsel or for the performance of counsel. And virtually no re-
+sources are provided for investigative and expert assistance or defense counsel
+training.
+The situation has further deteriorated in the last few years. This is largely
+due to the increased complexity of cases and the increase in the number of
+cases resulting from expanded resources for police and prosecution and the
+lack of a similar increase, and perhaps even a decline, in funding for defense
+programs.93 The quality and funding for defense programs often varies greatly
+87. Appelbome, supra note 85, at B5; Trisha Renaud & Ann Woolner, Borsuk Grilled in Fryer
+Firestorm, FULTON COUNTY DAILY REP., Oct. 12, 1990, at 1;R ichard Shumate, "I Will Not Accept Any
+More Cases," BARRISTER MAG., Winter 1991-92, at 11.
+88. State v. Peart, 621 So. 2d 780, 784 (La. 1993).
+89. Id. A serious case was defined as "one involving an offense necessarily punishable by a jail term
+which may not be suspended." Id. at 784 n.3.
+90. Id.
+91. Id. at 790.
+92. "The caseload crisis can devastate the morale of often idealistic and dedicated attorneys." Klein,
+supra note 80, at 393-94. In some offices, caseloads make it impossible for even the most competent and
+well-intentioned lawyers to provide their clients with adequate representation. KLEIN & SPANGENBERG,
+supra note 82, at 6, 7, 9.
+93. Klein, supra note 80, at 393, 398, 403-04, 407. For example, Kentucky police and prosecutors
+received $4.6 million from civil seizure and forfeitures in drug cases and $6 million from drug grants under
+HeinOnline -- 103 Yale L.J. 1851 1993-1994
+
+1852 The Yale Law Journal [Vol. 103: 1835
+from one county or judicial district to another in the same state. Texas, which
+has one of the largest death row populations and has carried out the most
+executions since the resumption of capital punishment in 1976,94 is one of
+eight states in which indigent defense is handled at the county level with no
+state funding. Funding for indigent defense varies significantly from county
+to county.96 In Louisiana, the indigent defense system is funded by
+assessments from traffic tickets. As a result, there have been "wide variations
+in levels of funding," adding to a "general pattern.., of chronic underfunding
+of indigent defense programs in most areas of the state."97 Alabama finances
+its indigent defense system through a tax on all civil and criminal filings in the
+court system.98
+The deficiencies in representation resulting from such haphazard and
+underfunded approaches have been acknowledged. The vice president of the
+Georgia Trial Lawyers Association once described the simple test used in that
+state to determine whether a defendant receives adequate counsel as "the
+mirror test." "You put a mirror under the court-appointed lawyer's nose, and
+if the mirror clouds up, that's adequate counsel."99 It is not surprising that
+such a dysfunctional system is incapable of providing legal representation in
+capital cases. Unlike the offices of the district attorneys and attorneys general,
+there is no structure in many states for training and supervising young lawyers
+in their initial years of practice to develop a cadre of attorneys who specialize
+in the defense of complex cases. There are no job opportunities in indigent
+defense for the young law graduates who want to become criminal lawyers.
+And, because of the financial incentives, most of those who have or develop
+good trial skills quickly move on to personal injury work or, if they remain in
+criminal law, the more lucrative defense of drug, pornography, and white collar
+cases.
+the Federal Comprehensive Crime Control Act in fiscal year 1990, resulting in an increase of 114% in drug
+arrests, but the state's public defender program received no money from either source. Edward C.
+Monahan, Who Is Trying To Kill the Sixth Amendment? ABA CRIM. JUST., Summer 199 1, at 24, 27-28.
+When this money is added to state funding, Kentucky's police and prosecutors received $156 million
+compared to the public defenders receiving $11.4 million. Id. at 28. Thus, Kentucky police and
+prosecutors receive $14 for every $1 provided for public defense.
+94. Texas had 365 people under death sentence and had carried out 69 executions by October 1993.
+NAACP LEGAL DEFENSE & EDUCATIONAL FUND, supra note 79, at 9, 39. Since 1976, Texas has carried
+out more than twice as many executions as any other state. Id.
+95. THE SPANGENBERG GROUP, supra note 60, at 151.
+96. Id. The same variations are also found in other states. A report by a task force on indigent defense
+appointed by the Governor of Kentucky found that funding per public defender case in one Kentucky
+county was $44.22, while in another county the funding was $296.44. The Governor's Task Force on the
+Delivery and Funding of Quality Public Defender Service Interim Recommendations, reprinted in
+ADVOcATE, Dec. 1993, at 8 (published by Ky. Dep't of Public Advocacy, Frankfort, Ky.) [hereinafter
+Kentucky Task Force Report].
+97. State v. Peart, 621 So. 2d 780, 789 (La. 1993). A study of the system found that there is a
+"desperate need to double the budget for indigent defense in Louisiana in the next two years." Id. (quoting
+THE SPANGENBERG GROUP, STUDY OF THE INDIGENT DEFENDER SYSTEM IN LOUISIANA 50 (1992)).
+98. ALA. CODE § 12-19-250 to 12-19-254 (1975).
+99. Hal Strauss, Indigent Legal Defense Called "Terrible," ATLANTA J.-CONST., July 7, 1985, at 12A.
+HeinOnline -- 103 Yale L.J. 1852 1993-1994
+
+1994] Counsel for the Poor 1853
+C. Compensation of Attorneys: The Wages of Death
+The United States Court of Appeals for the Fifth Circuit, finding that
+Federico Martinez-Macias "was denied his constitutional right to adequate
+counsel in a capital case in which [his] actual innocence was a close question,"
+observed that, "The state [Texas] paid defense counsel $11.84 per hour.
+Unfortunately, the justice system got only what it paid for."' 0 What is
+unusual about the case is not the amount paid to counsel, but the court's
+acknowledgement of its impact on the quality of services rendered.
+As we have seen, in many jurisdictions poor people facing the death
+penalty are not assigned specialists who work for indigent defense programs,
+but individual attorneys, often sole practitioners. In some jurisdictions, the
+hourly rates in capital cases may be below the minimum wage or less than the
+lawyer's overhead expenses.'1 Many jurisdictions limit the maximum fee for
+a case. At such rates it is usually impossible to obtain a good lawyer willing
+to spend the necessary time.
+Alabama limits compensation for out-of-court preparation to $20 per hour,
+up to a limit of $1000.102 In one rare Alabama case where two lawyers
+devoted 246.86 and 187.90 hours respectively to out-of-court preparation, they
+were still paid $1000 each, or $4.05 and $5.32 per hour.'03
+In some rural areas in Texas, lawyers receive no more than $800 to handle
+a capital case. °'4 Generally, the hourly rate is $50 or less."5 Attorneys
+appointed to defend capital cases in Philadelphia are paid an average of $6399
+per case.06 In the few cases where a second attorney has been appointed, it
+is often at a fiat rate of $500.107 A study in Virginia found that, after taking
+into account an attorney's overhead expenses, the effective hourly rate paid to
+counsel representing an indigent accused in a capital case was $13.,) 8 In
+Kentucky, the limit for a capital case is $2500.")9
+Sometimes even these modest fees are denied to appointed counsel. A
+capital case in Georgia was resolved with a guilty plea only after the defense
+100. Martinez-Macias v. Collins, 979 F.2d 1067 (5th Cir. 1992).
+101. For the rates and maximums for each state, see Anthony Paduano & Clive A.S. Smith, The
+Unconscionabilityo f Sub-Minimum Wages PaidA ppointed Counsel in CapitalC ases, 43 RUTGERS L. REV.
+281, 349-53 (1991).
+102. ALA. CODE § 15-12-21 (a) (Supp. 1992).
+103. Smith v. State, 581 So. 2d 497,526 (Ala. Crim. App. 1990). An opinion of the Alabama Attorney
+General has since concluded that the sentencing phase of a capital case is to be considered a separate case,
+allowing a maximum payment of $2000 for out-of-court time at a rate of $20 per hour. Op. Ala. Att'y
+Gen. No. 91-00206 (Mar. 21, 1991).
+104. Marianne Lavelle, Strong Law Thwarts Lone Star Counsel, NAT'L L.J.J,un e 11,1 990, at 34.
+105. THE SPANGENBERG GROUP, supra note 60, at 157.
+106. Tulsky, What Price Justice?, supra note 48, at A18.
+107. Tulsky, Big-Time Trials, supra note 48, at Al, AS. The $500 fee was to encourage lawyers to
+get experience in capital cases. However, only a handful of lawyers took on cases because of the low
+compensation. Id.
+108. Klein, supra note 80, at 366.
+109. Kentucky Task Force Report, supra note 96, at 11.
+HeinOnline -- 103 Yale L.J. 1853 1993-1994
+
+1854 The Yale Law Journal [Vol. 103: 1835
+attorneys, a sole practitioner and this author, agreed not to seek attorneys fees
+as part of the bargain in which the state withdrew its request for the death
+penalty.n0
+In cases involving financial as opposed to moral bankruptcy, Atlanta law
+firms charge around $125 per hour for their associates, $200 per hour for
+partners, and $50 to $80 per hour for paralegals."' In civil rights and other
+civil litigation, courts routinely order attorneys fees much higher than those
+paid to appointed lawyers in capital cases."2 Paralegals and law clerks in
+civil fights cases may be compensated at rates equal to or better than what
+experienced attorneys are paid in capital cases."3 A new attorney at the
+Southern Center for Human Rights, straight out of law school, was awarded
+$65 per hour by a federal court in 1990 for work on a prison conditions
+case."4 More experienced lawyers on that case were paid at rates of $90,
+$100, and $150 per hour. Attorneys appointed to death penalty cases in state
+courts can never expect compensation at such rates.
+A justice of the Georgia Supreme Court recently criticized that court's
+limitation of attorneys fees in an employment discrimination case."5 Limiting
+the attorney to $50 per hour"6 instead of providing the opportunity to
+recover reasonable attorneys fees would, the justice argued, make it unduly
+difficult to find lawyers for those who were victims of discrimination and
+110. Mark Curriden, Fees for Pleas Called Improper, A.B.A. J., May 1993, at 28; Hard Bargain,
+NAT'L L.J., Nov. 19, 1990, at 12 (editorial); Marianne Lavelle, Cop Plea,B ut Forfeit Your Fee, NAT'L L.J.,
+Nov. 19, 1990, at 29. Counsel had been forced to appeal to the Georgia Supreme Court to be appointed
+because the local trial judge had refused to appoint the lawyers who won the defendant a new trial in
+federal habeas corpus. See Amadeo v. State, 384 S.E.2d 181 (Ga. 1989).
+11I. Tim O'Reiley, Billing Rates Crept Upward in 1992, FULTON COUNTY DAILY REP., Feb. 15, 1993,
+at IB; Tim O'Reiley, Lawyers Raised Prices Despite Slump, FULTON COUNTY DAILY REP., Jan. 25, 1994,
+at 1. The rates charged are supposed to be the attorneys' usual and customary prices.
+112. See, e.g., Brooks v. Georgia State Bd. of Elections, 997 F.2d 857 (1 Ith Cir. 1993) (remanding
+voting rights case for assessment of fees between $125 and $175 per hour); Davis v. Locke, 936 F.2d 1208
+(11th Cir. 1991) (affirming attorneys fees of $150 per hour in civil rights action against prison guards);
+Associated Builders & Contractors v. Orleans Parish Sch. Bd., 919 F.2d 374 (5th Cir. 1990) (affirming
+award of $165-$175 per hour for partners and $100 per hour for associates in suit alleging equal protection
+violation in connection with school system set-aside construction program); Von Clark v. Butler, 916 F.2d
+255 (5th Cir. 1990) (affirming attorneys fees of $100 per hour for preparation time and $200 per hour for
+in-court time in civil rights claim of excessive use of force in arrest); Cobb v. Miller, 818 F.2d 1227 (5th
+Cir. 1987) (mandating $90 per hour in civil rights litigation for damages resulting during plaintiff's arrest
+and conviction); Knight v. Alabama, 824 F Supp. 1022 (N.D. Ala. 1993) (awarding attorneys fees ranging
+from $275 per hour for lead counsel to $100-$200 per hour for other attorneys in school discrimination
+action).
+113. See, e.g., Martin v. Mabus, 734 F. Supp. 1216, 1230 (S.D. Miss. 1990) (awarding $35 per hour
+for paralegal and student law clerk work in voting rights action).
+114. Plyler v. Evatt, 902 E2d 273, 276 (4th Cir. 1990).
+115. The court held that where a successful plaintiff was not contractually obligated to pay any fees
+to her lawyer because the lawyer had been appointed by the Office of Fair Employment Practices, the
+Georgia Fair Employment Practices Act did not allow an award of "reasonable attorneys fees." Finney v.
+Department of Corrections, 434 S.E.2d 45 (Ga. 1993).
+116. The attorney had contracted with the Commission on Equal Opportunity to provide representation
+for $50 per hour, a fee which had already been paid. Katie Wood, Court Limits Fees in Bias Cases:
+Decision Restricting Attorneys Fees Divides High Court, FULTON COUNTY DAILY REP., July 6, 1993, at
+HeinOnline -- 103 Yale L.J. 1854 1993-1994
+
+1994] Counsel for the Poor 1855
+"effectively den[y] many Georgians the key to the courthouse door."117 At
+lower rates it is even more difficult to find attorneys for capital cases.
+Thus, it is unlikely that lawyers will seek appointments in capital cases
+when they can earn more handling other types of cases. It is undeniable that
+"[i]n our pecuniary culture the caliber of personal services rendered usually has
+a corresponding relationship to the compensation provided." 8 Lawyers who
+have been appointed to defend the poor in capital trials often vow never to
+handle another. It is financially disastrous, emotionally draining,"9 and, for
+the small-town sole practitioner, it may be very damaging to relations with
+paying clients. Even at $200 an hour, it would be difficult to attract lawyers
+to handle these cases.
+Not surprisingly, a recent study in Texas found that "more experienced
+private criminal attorneys are refusing to accept court appointments in capital
+cases because of the time involved, the substantial infringement on their
+private practices, the lack of compensation for counsel fees and expert
+expenses and the enormous pressure that they feel in handling these
+cases."'20 "In many counties, the most qualified attorneys often ask not to be
+considered for court appointments in capital cases due to the fact that the rate
+of compensation would not allow them to cover the expense of running a law
+practice.'' t The same unwillingness to take cases because of the low fees
+has been observed in other states.22 Consequently, although capital cases
+require special skills,"z the level of compensation is often not enough even
+to attract those who regularly practice in the indigent defense system.
+D. The Role of Judges: Appointment and Oversight of Mediocrity and
+Incompetence
+Even if, despite the lack of indigent defense programs and adequate
+compensation, capable lawyers were willing to move to jurisdictions with
+many capital cases, forego more lucrative business, and take appointments to
+capital cases, there is still no assurance that those lawyers would be appointed
+to the cases. It is no secret that elected state court judges do not appoint the
+117. Finney v. Department of Corrections, 434 S.E.2d at 48 (Sears-Collins, J., dissenting).
+118. Makemson v. Martin County, 491 So. 2d 1109, 1114-15 (Fla. 1986), cert. denied, 479 U.S. 1043
+(1987) (quoting MacKenzie v. Hillsborough County, 288 So. 2d 200, 202 (Fla. 1973) (Ervin, J.,
+dissenting)).
+119. See, e.g., Michael A. Kroll, Death Watch, CAL. LAw., Dec. 1987, at 24-27 (describing
+unwillingness of some lawyers in California to take capital cases because of emotional toll and "burnout").
+120. THE SPANGENBERG GROUP, supra note 60, at 152.
+121. Id. at 157.
+122. See, e.g., Friedman & Stevenson, supran ote 48, at 30; Paduano & Smith, supra note 101, at 333.
+123. "Capital cases require perceptions, attitudes, preparation, training, and skills that ordinary criminal
+defense attorneys may lack." Gary Goodpaster, The Trialf or Life: Effective Assistance of Counsel in Death
+Penalty Cases, 58 N.Y.U. L. REv. 299, 303-04 (1983); see also Welsh S. White, Effective Assistance of
+Counsel in Capital Cases: The Evolving Standard of Care, 1993 U. ILL. L. REV. 323 (describing in detail
+the "evolving standard of care" for the defense of capital cases).
+HeinOnline -- 103 Yale L.J. 1855 1993-1994
+
+1856 The Yale Law Journal [Vol. 103: 1835
+best and brightest of the legal profession to defend capital cases.'24 In part,
+this is because many judges do not want to impose on those members of the
+profession they believe to have more important, financially lucrative things to
+do. But even when choosing from among those who seek criminal
+appointments, judges often appoint less capable lawyers to defend the most
+important cases.
+Judges have appointed to capital cases lawyers who have never tried a case
+before."z A study of homicide cases in Philadelphia found that the quality
+of lawyers appointed to capital cases in Philadelphia is so bad that "even
+officials in charge of the system say they wouldn't want to be represented in
+Traffic Court by some of the people appointed to defend poor people accused
+of murder."'26 The study found that many of the attorneys were appointed by
+judges based on political connections, not legal ability. "Philadelphia's poor
+defendants often find themselves being represented by ward leaders, ward
+committeemen, failed politicians, the sons of judges and party leaders, and
+127
+contributors to the judge's election campaigns."'
+An Alabama judge refused to relieve counsel even when they filed a
+motion to be relieved of the appointment because they had inadequate
+experience in defending criminal cases and considered themselves incompetent
+to defend a capital case.'28 Georgia trial judges have repeatedly refused to
+appoint or compensate the experienced attorneys who, doing pro bono
+representation in postconviction stages of review, had successfully won new
+trials for clients who had been sentenced to death.129 In several of those
+cases, the Georgia Supreme Court ordered continued representation at the new
+trials by the lawyers who were familiar with the case and the client. Despite
+those precedents, a Georgia judge refused to appoint an expert capital litigator
+from the NAACP Legal Defense and Educational Fund to continue
+representation of an indigent defendant, even though the Legal Defense Fund
+lawyer had won a new trial for the client by showing in federal habeas corpus
+proceedings that he had received ineffective assistance from the lawyer
+appointed by the judge at the initial capital trial. 30 And the lower court
+judges who have been reversed for failing to allow continuity in representation
+are still appointing lawyers when new cases come through the system. Those
+new defendants have no one to assist them in securing competent representation.
+124. Trial and appellate judges are elected or face retention elections after appointment in most states
+that have the death penalty. Some of the difficulties that elected judges have in protecting the rights of the
+accused are described in Thomas M. Ross, Rights at the Ballot Box: The Effect of Judicial Elections on
+Judges' Ability To Protect Criminal Defendants' Rights, 7 LAW. & INEQ. . 107 (1988).
+125. See supra note 56.
+126. Tulsky, Big-Thie Trials, supra note 48, at A8.
+127. Id.
+128. Parker v. State, 587 So. 2d 1071, 1100-03 (Ala. Crim. App. 1991).
+129. Davis v. State, 404 S.E.2d 800 (Ga. 1991); Birt v. Montgomery, 387 S.E.2d 879 (Ga. 1990);
+Amadeo v. State, 384 S.E.2d 181 (Ga. 1989).
+130. Roberts v. State, No. $93A1857, 1994 Ga. LEXIS 200 (Ga. Feb. 21, 1994).
+HeinOnline -- 103 Yale L.J. 1856 1993-1994
+
+19941 Counsel for the Poor 1857
+A newly admitted member of the Georgia bar was surprised to be
+appointed to handle the appeal of a capital case on her fifth day of practice in
+Columbus, Georgia. Two days earlier she had met the judge who appointed her
+when she accompanied her boss to a divorce proceeding. Only after she asked
+for help was a second attorney brought onto the case. Another lawyer in that
+same circuit was appointed to a capital case, but after submitting his first
+billing statement to the judge for approval was told by the judge that he was
+spending too much time on the case. He was summarily replaced by another
+lawyer and the defendant was ultimately sentenced to death. For a number of
+years, judges in that circuit appointed a lawyer to capital cases who did not
+challenge the underrepresentation of black citizens in the jury pools for fear of
+incurring hostility from the community and alienating potential jurors.'3' As
+a result, a number of African-Americans were tried by all-white juries in
+capital cases even though one-third of the population of the circuit is African-
+American.
+The many other examples of exceptionally poor legal representation
+documented by the American Bar Association (ABA), the National Law
+Journal, and others indicate that judges either are intentionally appointing
+lawyers who are not equal to the task or are completely inept at securing
+competent counsel in capital cases. The reality is that popularly elected judges,
+confronted by a local community that is outraged over the murder of a
+prominent citizen or angered by the facts of a crime, have little incentive to
+protect the constitutional rights of the one accused in such a killing. Many
+state judges are former prosecutors who won their seats on the bench by
+exploiting high-publicity death penalty cases. Some of those judges have not
+yet given up the prosecutorial attitude.
+United States Congressman William J. Hughes, a former New Jersey
+prosecutor and leader on crime issues in the Congress, observed: "With some
+of the horror stories we've heard-lawyers who didn't call witnesses, who
+waived final argument-it is incredible that the courts allowed these cases to
+move forward."'132 What is even more incredible is that in most of these
+instances the judges appointed the lawyers to the case.
+E. The Minimal Standardo f Legal Representation Tolerated in CapitalC ases
+This sad state of affairs is tolerated in our nation's courts in part because
+the United States Supreme Court has said that the Constitution requires no
+more. Instead of actually requiring effective representation to fulfill the Sixth
+Amendment's guarantee of counsel, the Court has brought the standard down
+131. See Gates v. Zant, 863 F2d 1492, 1497-1500 (11th Cir.), cert. denied, 493 U.S. 945 (1989).
+132. Marcia Coyle et al., Washington Brief. High Noon for Congressional Habeas,N AT. L.J.Ju.l y 9,
+1990, at 5.
+HeinOnline -- 103 Yale L.J. 1857 1993-1994
+
+1858 The Yale Law Journal [Vol. 103: 1835
+to the level of ineffective practice. Stating that "the purpose of the effective
+assistance guarantee of the Sixth Amendment is not to improve the quality of
+legal representation," the Court in Strickland v. Washington3'3 adopted a
+standard that is "highly deferential" to the performance of counsel.'3 To
+prevail on a claim of ineffective assistance of counsel, a defendant must
+overcome "a strong presumption that counsel's conduct falls within the wide
+range of reasonable professional assistance," show that the attorney's
+representation "fell below an objective standard of reasonableness,"'135 and
+establish "prejudice," which is defined as a reasonable probability that
+counsel's errors affected the outcome.'36
+As Judge Alvin Rubin of the Fifth Circuit concluded:
+The Constitution, as interpreted by the courts, does not require
+that the accused, even in a capital case, be represented by able or ef-
+fective counsel .... Consequently, accused persons who are repre-
+sented by "not-legally-ineffective" lawyers may be condemned to die
+when the same accused, if represented by effective counsel, would
+receive at least the clemency of a life sentence. 37
+Much less than mediocre assistance passes muster under the Strickland
+standard. Errors in judgment and other mistakes may readily be characterized
+as "strategy" or "tactics" and thus are beyond review.138 Indeed, courts
+employ a lesser standard for judging the competence of lawyers in a capital
+case than the standard for malpractice for doctors, accountants, and
+39
+architects.
+The defense lawyer in one Texas case failed to introduce any evidence
+about his client at the penalty phase of the trial. The attorney's entire closing
+argument regarding sentencing was: "You are an extremely intelligent jury.
+You've got that man's life in your hands. You can take it or not. That's all I
+have to say."140 A United States district court granted habeas corpus relief
+133. 466 U.S. 668, 689 (1984).
+134. Id.
+135. Id. at 688-89.
+136. Id. at 694.
+137. Riles v. McCotter, 799 F.2d 947, 955 (5th Cir. 1986) (Rubin, J.,co ncurring).
+138. Klein, supra note 83, at 634. For an example of the extraordinary lengths to which some courts
+will go to avoid finding a lawyer ineffective, see Rogers v. Zant, 13 F.3d 384 (11th Cir. 1994), where the
+court, in reversing a finding by the district court of ineffective assistance in a capital case, stated: "Even
+if many reasonable lawyers would not have done as defense counsel did at trial, no relief can be granted
+on ineffectiveness grounds unless it is shown that no reasonable lawyer, in the circumstances, would have
+done so." Id. at 386 (emphasis added). Rejecting other decisions by other panels of the same court holding
+that strategic decisions must be based on investigation, the panel in Rogers concluded that "'strategy' can
+include a decision not to investigate" and that "once we conclude that declining to investigate further was
+a reasonable act, we do not look to see what a further investigation would have produced." Id. at 386-87,
+388.
+139. Klein, supra note 83, at 640-41.
+140. Romero v. Lynaugh, 884 F.2d 871, 875 (5th Cir. 1989).
+HeinOnline -- 103 Yale L.J. 1858 1993-1994
+
+1994] Counsel for the Poor 1859
+because of the lawyer's failure to present and argue evidence in mitigation, but
+the Fifth Circuit, characterizing counsel's nonargument as a "dramatic ploy,"
+found that the attorney's performance satisfied Strickland.'4' The lawyer was
+later suspended for other reasons. 42 The defendant was executed.
+Numerous other cases in which executions have been carried out demon-
+strate that the minimal standard for attorney competence employed in death
+penalty cases provides little protection for most poor persons accused of capital
+crimes. The case of John Eldon Smith, the first person executed in Georgia
+since the death penalty was restored,143 is not exceptional. Smith's sentence
+was upheld and he was killed despite a constitutional violation because of his
+lawyer's ignorance of the law, while his codefendant won a new trial due to
+the same constitutional violation and later received a life sentence. The second
+person executed in Georgia after Smith was a mentally retarded offender,
+convicted despite a jury instruction that unconstitutionally shifted the burden
+of proof on intent; he was denied relief because his attorney did not preserve
+the issue for review' 44 The more culpable codefendant was granted a new
+trial on the very same issue.145 Again, as with Smith and Machetti, switching
+the lawyers would have reversed the outcomes of the case.
+John Young was sentenced to death in the same county as Smith. Young
+was represented at his capital trial by an attorney who was dependent on
+amphetamines and other drugs which affected his ability to concentrate. At the
+same time, the lawyer was physically exhausted, suffering severe emotional
+strain, and distracted from his law practice because of marital problems, child
+custody arrangements, difficulties in a relationship with a lover, and the
+pressures of a family business.146 As a result, the lawyer made little
+preparation for Young's trial, where his performance was inept. Young was
+sentenced to death. A few weeks later, Young met his attorney at the prison
+yard in the county jail. The lawyer had been sent there after pleading guilty to
+state and federal drug charges.'47 Georgia executed John Young on March
+20, 1985.
+James Messer was "represented" at trial by an attorney who, at the guilt
+phase, gave no opening statement, presented no defense case, conducted
+cursory cross-examination, made no objections, and then emphasized the horror
+of the crime in some brief closing remarks that could not be fairly described
+as a "closing argument."' 48 Even though severe mental impairment was
+141. Id. at 877.
+142. Suspensions, 56 Tsx. B.J., Jan. 1993, at 73.
+143. See supra notes 34-39 and accompanying text.
+144. Stanley v. Kemp, 737 F.2d 921 (1lth Cir. 1984), applicationf or stay denied, 468 U.S. 1220
+(1984).
+145. Thomas v. Kemp, 800 F.2d 1024 (11th Cir. 1986).
+146. Affidavit of Charles Marchman, Jr. at 1-5, Young v. Kemp, No. 85-98-2-MAC (M.D. Ga. 1985).
+147. Id. at 7.
+148. Messer v. Kemp, 474 U.S. 1008, 1090 (1986) (Marshall, J.d,i ssenting from denial of certiorari).
+HeinOnline -- 103 Yale L.J. 1859 1993-1994
+
+1860 The Yale Law Journal [Vol. 103: 1835
+important to issues of mitigation at both the guilt and penalty phases, the
+lawyer was unable to present any evidence of it because he failed to make an
+adequate showing to the judge that he needed a mental health expert. 49 He
+also failed to introduce Messer's steady employment record, military record,
+church attendance, and cooperation with police. In closing, the lawyer
+repeatedly hinted that death was the most appropriate punishment for his own
+client.5° This too was good enough for a capital case in Georgia. Messer
+was executed July 28, 1988.
+In light of Messer's case, one cannot help but wonder what progress has
+been made since the Supreme Court held that there is a right to counsel in
+capital cases in Powell v. Alabama. The nine black youths tried in Scottsboro,
+Alabama, in 1931 for the rapes of two white girls were represented by a
+lawyer described as "an able member of the local bar of long and successful
+experience in the trial of criminal as well as civil cases" who conducted "rigor-
+ous and rigid cross-examination" of the state's witnesses.15 1 That is more
+than James Messer received at his capital trial.
+Another case in which the attorney did nothing was that of Billy Mitchell,
+executed by Georgia on September 1, 1987. Following a guilty plea, Mitchell
+was sentenced to death at a sentencing hearing at which defense counsel called
+no witnesses, presented no mitigating evidence, and made no inquiries into his
+client's academic, medical, or psychological history.'52 A great deal of
+information of this kind was available and, if presented, could well have
+reduced the sentence imposed on Mitchell. In postconviction proceedings, new
+counsel submitted 170 pages of affidavits summarizing the testimony of
+individuals who could have appeared on Mitchell's behalf. Among them were
+family members, a city council member, a former prosecutor, a professional
+football player, a bank vice president, and several teachers, coaches, and
+53
+friends.
+The same ineptitude is frequently tolerated on appeal. The brief on direct
+appeal to the Alabama Supreme Court in the case of Larry Gene Heath,
+executed by Alabama on March 20, 1992, consisted of only one page of
+argument and cited only one case, which it distinguished. 54 Counsel, who
+149. Messer v. Kemp, 831 F.2d 946, 951 (lth Cir. 1987) (en banc), cert. denied, 485 U.S. 1029
+(1988).
+150. Messer v. Kemp, 760 F.2d 1080, 1096 n.2 (11th Cir. 1985) (Johnson, J., dissenting), cert. denied,
+474 U.S. 1088, 1090 (1986) (Marshall, J., dissenting from denial of certiorari).
+151. Powell v. Alabama, 287 U.S. 45, 75 (1932) (Butler, J., dissenting) (quoting decision of Alabama
+Supreme Court).
+152. Mitchell v. Kemp, 483 U.S. 1026, 1026-27 (1987) (Marshall, J., dissenting from denial of
+certiorari.).
+153. Id.
+154. What follows is the brief in its entirety. The only parts of the brief not set out below are the
+cover page and certificate of service:
+THE RECORD AFFIRMATIVELY SHOWS THAT THE APPELLANT WAS CONVICTED
+OF THE SAME OFFENSE, WHICH IS PRECISELY THE SAME IN LAW AND FACT IN
+VIOLATION OF THE 5th AMENDMENT OF THE UNITED STATES CONSTITUTION.
+HeinOnline -- 103 Yale L.J. 1860 1993-1994
+
+1994] Counsel for the Poor 1861
+had filed a six-page brief on the same issue in the Alabama Court of Criminal
+Appeals,155 did not appear for oral argument in the case. Although the United
+States Court of Appeals later found counsel's performance deficient for failing
+to raise issues regarding denial of a change of venue, denial of sixty-seven
+challenges for cause of jurors who knew about the defendant's conviction in
+a neighboring state arising out of the same facts, and use of the defendant's
+assertion of his Fifth Amendment rights against him, it found no prejudice.156
+In the opinion of the Court of Criminal Appeals rendered on July 5, 1983, the Court failed
+to address the issue as to whether or not the Appellant was tried and convicted of the same
+offense, which is precisely the same in law and fact as the offense of which he was convicted
+in the State of Georgia.
+As the Court pointed out on Page 3 of it's [sic] opinion, there were no cited cases to any
+Federal case law involving jeopardy in multiple State prosecutions and because there are no
+Federal cases cited, the Court apparently ignored the law relative to multiple prosecutions for
+an offense, which are precisely the same in law and fact.
+Apparently the Court relied on the case of Hare v State, 387 So. 2 d [sic] 299, 300 (Ala.
+Crim. App. 1980) in reaching it's [sic] decision in this case. The Hare case can be distinguished
+simply by looking at the facts in the Hare case, wherein the Court in Tennessee was dealing
+with the offense of possession of drgs in the State of Alabama, which are not precisely the
+same in law and fact.
+The Appellant plead guilty to the offense of murder, which was a lesser included offense
+of the charge of murder caused and directed by the Appellant under the laws of the State of
+Georgia and received a life sentence. After the Appellant was sentenced in the State of Georgia
+to life imprisonment, he was returned to the State of Alabama and was prosecuted and convicted
+of the offense of murder during kidnapping, 1st degree in the State of Alabama for the murder
+of his wife, Rebecca Heath.
+Apparently this case is one of first impression in the State of Alabama, and this Court has
+not ruled on a similar case involving the offense of murder where only one victim is involved.
+CONCLUSION
+Appellant contends that his constitutional rights guaranteed under the 5th Amendment of
+the United States Constitution and his rights guaranteed by Article I Section 9 of the Alabama
+Constitution prohibiting Double Jeopardy and Double Punishment have been violated. Further,
+Appellant contends that he relied upon his guaranteed Constitutional rights as set forth above
+in pleading guilty to a lesser included offense of murder of his wife, in the state of Georgia, and
+that the prosecution in the State of Alabama on the offense of murder during the course of kid
+napping [sic] of his wife, should be barred.
+Therefore, after considering the facts, law and argument of Appellant, a Writ of Certiorari
+should be issued from this Court to the Court of Criminal Appeals correcting the errors
+complained of and reversing the judgment of the Court of Criminal Appeals and rendering such
+judgments as said Court have [sic] rendered in addition to such other relief as Petitioner may
+be entitled.
+Respectfully submitted,
+LARRY W. RONEY, AFORNEY AT LAW, P.C.
+Appellant's Brief and Argument in Support of Petition for Writ of Certiorari, at 1-2, Heath v.
+Alabama, 455 So. 2d. 905 (Ala. 1984). Alabama requires that the brief and petition for certiorari be
+submitted at the same time. ALA. R. CRuM. P. 32.2 (1990). Thus, the Alabama Supreme Court decided
+Heath's case on the basis of this brief alone.
+155. Heath v. Jones, 941 F.2d 1126, 1131 (11th Cir. 1991), cert. denied, 112 S. Ct. 981 (1992).
+156. Id. at 1131-37. However, Judge J.L. Edmondson, in concurring, disagreed even with the court's
+comment regarding counsel's performance. He stated, "I cannot agree that the quality of counsel's
+performance can be judged much by the length of brief or the number of issues raised. . . .Effective
+lawyering involves the ability to discern strong arguments from weak ones and the courage to eliminate
+the unnecessary so that the necessary may be seen most clearly." Id. at 1141 (Edmondson, J., concurring).
+The brief in Heath, however, and counsel's failure to appear for oral argument hardly constitute sterling
+examples of such ability or courage.
+HeinOnline -- 103 Yale L.J. 1861 1993-1994
+
+1862 The Yale Law Journal [Vol. 103: 1835
+While such incompetence as has been described here passes muster as
+"effective assistance of counsel" under the Supreme Court's view of the Sixth
+Amendment, counsel's performance often fails to satisfy the increasingly strict
+procedural doctrines developed by the Supreme Court since 1977. Failure of
+counsel to recognize and preserve an issue, due to ignorance, neglect, or failure
+to discover and rely upon proper grounds or facts, even in the heat of trial,
+will bar federal review of that issue.157 A lawyer whose total knowledge of
+criminal law is Miranda and Dred Scott may be "not legally-ineffective"
+counsel under Strickland,5' but such a lawyer will of course not recognize
+or preserve many constitutional issues. The result has been what Justice
+Thurgood Marshall described as an "increasingly pernicious visegrip"' ' 9 for
+the indigent accused: courts refuse to address constitutional violations because
+they were not preserved by counsel, but counsel's failure to recognize and
+raise those issues is not considered deficient legal assistance. 60
+Together, the lax standard of Strickland and the strict procedural default
+doctrines reward the provision of deficient representation. By assigning the
+indigent accused inadequate counsel, the state increases the likelihood of
+obtaining a conviction and death sentence at trial and reduces the scope of
+review. So long as counsel's performance passes muster under Strickland,
+those cases in which the accused received the poorest legal representation will
+receive the least scrutiny on appeal and in postconviction review because of
+failure of the lawyer to preserve issues.
+In applying Strickland, courts indulge in presumptions and assumptions
+that have no relation to the reality of legal representation for the poor,
+particularly in capital cases. One scholar has aptly called the idea that bar
+157. See Smith v. Murray, 477 U.S. 527,533-36 (1986); Engle v. Isaacs, 456 U.S. 107, 130-34 (1982);
+Wainwright v. Sykes, 433 U.S. 72, 88-91 (1977); see also Richard J. Bonnie, PreservingJ ustice in Capital
+Cases While Streamlining the Process of Collateral Review, 23 U. TOL. L. REV. 99, 109-13 (1991);
+Timothy J. Foley, The New Arbitrariness:P roceduralD efault of FederalH abeas Claims in CapitalC ases,
+23 Loy. L.A. L. REV. 193 (1989).
+158. The lawyer who testified that those were the only two "criminal" cases he knew has twice been
+found to satisfy the Strickland standard. Birt v. Montgomery, 725 F2d 587, 596-601 (11th Cir. 1984) (en
+bane), cert. denied, 469 U.S. 874 (1984); Williams v. State, 368 S.E.2d 742, 747-50 (Ga. 1988). See supra
+note 32.
+159. Marshall, supra note 46, at 44 (footnotes omitted).
+160. Justice Robert Benham of the Georgia Supreme Court was "struck by the powerful irony" of the
+majority's refusal to consider an issue of "flagrantly improper" prosecutorial misconduct in one case
+because it was not preserved by counsel, but holding that counsel was not ineffective. Todd v. State, 410
+S.E.2d 725, 735 n.1 (Ga. 1991) (Benham, J., dissenting). The majority disposed of the ineffective assistance
+claim in four sentences. Id. at 731. The Mississippi Supreme Court refused to consider two issues on direct
+appeal because they were not properly preserved by trial counsel in Hill v. State, 432 So. 2d 427, 438-40
+(Miss. 1983), over a dissent which argued, "We can think of no more arbitrary factor than having
+nimbleness of counsel on points of procedure determine whether Alvin Hill lives or dies." Id. at 449
+(Robertson, J., concurring in part and dissenting in part). The same court later rejected in a single paragraph
+an assertion that counsel was ineffective. In re Hill, 460 So. 2d 792, 801 (Miss. 1984). The dissent argued:
+"Where two clear cut reversible errors were not available on direct appeal to a condemned defendant solely
+because his lawyer goofed, that would seem to make a prima facie case for ineffective assistance of
+counsel." Id. at 811 (Robertson, J., concurring in part and dissenting in part). Other examples are collected
+in Friedman & Stevenson, supra note 48, at 16-20.
+HeinOnline -- 103 Yale L.J. 1862 1993-1994
+
+1994] Counsel for the Poor 1863
+membership automatically qualifies one to defend a capital case "lethal
+fiction."' 6' The reality is that most attorneys are not qualified to represent
+criminal defendants and certainly not those accused of capital crimes.62
+There is no basis for the presumption of competence in capital cases where
+the accused is represented by counsel who lacks the training, experience, skill,
+knowledge, inclination, time, and resources to provide adequate representation
+in a capital case. The presumption should be just the opposite-where one or
+more of these deficiencies exist, it is reasonable to expect that the lawyer is
+not capable of rendering effective representation. 63 Indeed, the presumption
+of competence was adopted even though the Chief Justice of the Supreme
+Court, who joined in the majority in Strickland, had written and lectured about
+the lack of competence of trial attoreys. 64
+Another premise underlying Strickland is that "[t]he government is not
+responsible for, and hence not able to prevent, attorney errors."' 65 However,
+the notion of government innocence is simply not true in cases involving poor
+people accused of crimes. The poor person does not choose an attorney; one
+is assigned by a judge or some other government official. The government may
+well be responsible for attorney errors when it appoints a lawyer who lacks the
+experience and skill to handle the case, or when it denies the lawyer the time
+and resources necessary to do the job. In addition, as observed by Justice
+Blackmun:
+The county's control over the size of and funding for the public
+defender's office, as well as over the number of potential clients,
+effectively dictates the size of an individual attorney's caseload and
+influences substantially the amount of time the attorney is able to
+devote to each case. The public defender's discretion in handling
+individual cases-and therefore his ability to provide effective
+assistance to clients-is circumscribed to an extent not experienced by
+privately retained attorneys. 66
+161. Green, supra note 48, at 433, 454.
+162. Id. at 476-89.
+163. The Louisiana Supreme Court, relying upon its state constitution and laws, has adopted such a
+presumption where there is a likelihood of inadequate representation. Finding that the "provision of indigent
+defense services" in one section of court in Orleans Parish "is in many respects so lacking that defendants
+who must depend on it are not likely to be receiving the reasonably effective assistance of counsel," the
+court adopted a rebuttable presumption that indigents in that section were not receiving constitutionally
+required assistance. State v. Peart, 621 So. 2d 780, 791 (La. 1993). The court ordered pretrial hearings
+where there were questions of adequate representation and instructed the trial court "not [to] permit the
+prosecution to go forward until the defendant is provided with reasonably effective assistance of counsel."
+Id. at 792.
+164. See, e.g., Warren E. Burger, Remarks on Trial Advocacy: A Proposition,7 WASHBURN L.J. 15
+(1967); Warren E. Burger, The Special Skills of Advocacy: Are Specialized Traininga nd Certification of
+Advocates Essential to Our System of Justice, 42 FORDHAM L. REV. 227 (1973).
+165. Strickland v. Washington, 466 U.S. 688, 693 (1984).
+166. Polk County v. Dodson, 454 U.S. 312, 332 (1981) (Blackmun, J., dissenting).
+HeinOnline -- 103 Yale L.J. 1863 1993-1994
+
+1864 The Yale Law Journal [Vol. 103: 1835
+The assumption that deficient representation makes no difference,'67
+which underlies a finding of lack of prejudice under Strickland, is also
+flawed.168 In cases where constitutional violations were not preserved and the
+defendant was executed while an identically situated defendant received relief
+for the same constitutional violation, it is apparent that the ineptitude of the
+lawyer did make a difference in the outcome of the case. In other more subtle
+but equally determinative ways, competent legal assistance can make a
+difference in the outcome which may not be detectable by reviewing courts. 69
+A lawyer may muddle through a case with little or no preparation, but it
+is impossible to determine how the case might have been handled differently
+if he had investigated and prepared. Other difficulties may be even more
+difficult to detect. Rapport with the client and the family may lead to
+cooperation and the disclosure of compelling mitigating evidence that might
+not be found by a less skillful attorney.70 Good negotiating skills may bring
+about a plea offer to resolve the case with a sentence less than death, and a
+good relationship with the client may result in acceptance of an offer that
+might otherwise be rejected.171 Nor are reviewing courts able to determine
+after the fact the difference made by other skills that are often missing in the
+defense of criminal cases-such as conducting a good voir dire examination
+of jurors, effective examination and cross-examination of witnesses, and
+presenting well-reasoned and persuasive closing arguments.
+The prejudice standard is particularly inappropriate for application to
+deficient representation at the penalty phase of a capital case. It is impossible
+for reviewing courts to assess the difference that investigation into mitigating
+circumstances and the effective presentation of mitigating evidence might make
+on a jury's sentencing decision.
+The Supreme Court has consistently reaffirmed that in a capital case any
+aspect of the life and background of the accused offered by the defense must
+be considered as "mitigating circumstances" in determining punishment.17
+167. "It is the belief-rarely articulated, but, I am afraid, widely held-that most criminal defendants
+are guilty anyway. From this assumption it is a short path to the conclusion that the quality of
+representation is of small account." David L. Bazelon, The Defective Assistance of Counsel, 42 U. CIN. L.
+REv. 1, 26 (1973).
+168. "For a court to be required to engage in speculation about how the trial might have gone if
+counsel had been effective is to minimize the importance of the sixth amendment right to counsel ......
+Klein, supra, note 83, at 641; see also Ivan K. Fong, Note, Ineffective Assistance of Counsel at Capital
+Sentencing, 39 STAN. L. REV. 461, 477-80 (1987).
+169. For other shortcomings of the Strickland standard, see Gary Goodpaster, The Adversary System,
+Advocacy and the Effective Assistance of Counsel in Criminal Cases, 14 N.Y.U. REV. L. & SOC. CHANGE,
+59, 83-85 (1986); Green, supra note 48, at 500-05; Paduano & Smith, supra note 101, at 326-31; Rodger
+Citron, Note, (Un)Luckey v. Miller: The Case for a Structural Injunction To Improve Indigent Defense
+Services, 101 YALE L.J. 481, 486-88 (1991).
+170. See White, supra note 123, at 340-46.
+171. Id.
+172. Lockett v. Ohio, 438 U.S. 586, 604 (1978) (holding that sentencer must consider "any aspect of
+a defendant's character or record ... that the defendant proffers as a basis for a sentence less than death");
+Penry v. Lynaugh, 492 U.S. 302 (1989) (mental retardation must be considered in mitigation); Hitchcock
+HeinOnline -- 103 Yale L.J. 1864 1993-1994
+
+1994] Counsel for the Poor 1865
+Those who have tried capital cases have found that the competent presentation
+of such evidence often results in sentences less than death.173 But the right
+to have any of the "diverse frailties of humankind"74 taken into account is
+meaningless if the accused is not provided with counsel capable of finding and
+effectively presenting mitigating circumstances.
+A court-appointed defense lawyer's only reference to his client during the
+penalty phase of a Georgia capital case was: "You have got a little ole nigger
+man over there that doesn't weigh over 135 pounds. He is poor and he is
+broke. He's got an appointed lawyer.... He is ignorant. I will venture to say
+he has an IQ of not over 80."175 The defendant was sentenced to death.
+Had that lawyer done any investigation into the life and background of his
+client, he would have found that his client was not simply "ignorant." Instead,
+he was mentally retarded. For that reason, he had been rejected from military
+service. And he had been unable to function in school or at any job except the
+most repetitive and menial ones. His actual IQ was far from 80; it was 68. He
+could not do such basic things as make change or drive an automobile. After
+his death sentence was set aside because of failure to grant a change of
+venue,176 an investigation was conducted, these facts were documented, and
+the defendant received a life sentence. 77
+In another case, an attorney, obviously under the influence of alcohol,
+came to the Southern Center for Human Rights, in Atlanta, after business
+hours on a Friday evening. He was clutching part of a trial transcript and said
+that he needed help preparing his brief to the Georgia Supreme Court for the
+direct appeal of a mentally retarded man he had represented at trial who had
+been sentenced to death. The brief was due the following Monday. Nothing
+had been written for the appeal. It was impossible even to assemble the entire
+record by Monday. Fortunately, an extension of time was obtained and eventu-
+ally the case was remanded to the trial court. New counsel subsequently
+78
+negotiated a life sentence.
+v. Dugger, 481 U.S. 393 (1987) (jury instructions may not limit the jury's consideration of mitigating
+circumstances); Skipper v. South Carolina, 476 U.S. 1 (1986) (good behavior in prison must be considered
+as mitigating factor); Eddings v. Oklahoma, 455 U.S. 104 (1982) (troubled childhood must be considered
+as mitigating factor); Bell v. Ohio, 438 U.S. 637 (1978) (same holding as Lockett).
+173. White, supra note 123, at 325-29, 340-42.
+174. Woodson v. North Carolina, 428 U.S. 280, 304 (1976).
+175. Transcript of Opening and Closing Arguments at 39, State v. Dungee, Record Excerpts at 102,
+(I It h Cir.) (No. 85-8202), decided sub nom. Isaacs v. Kemp, 778 F.2d 1482 (11 th Cir. 1985), cert. denied,
+476 U.S. 1164 (1986).
+176. Id. The court did not address the issue of ineffective assistance of counsel, which had been
+rejected by the district court.
+177. Dungee v. State, No. 444 (Super. CL Seminole County, Ga.), on change of venue, No. 87CR-5345
+(Super. Ct. Muscogee County, Ga. 1988).
+178. See also Paduano & Smith, supra note 101, at 331-33 & nn.201-03 (other examples where life
+sentences have been obtained for those previously sentenced to death at trials where they were represented
+by incompetent counsel).
+HeinOnline -- 103 Yale L.J. 1865 1993-1994
+
+1866 The Yale Law Journal [Vol. 103: 1835
+In these and other cases previously discussed in Section I, once the facts
+were discovered and brought out, life sentences were obtained for people
+previously sentenced to death. But these were cases where by sheer luck the
+defendants later received adequate representation on appeal or in
+postconviction proceedings. Many of these cases were returned for retrials for
+reasons having nothing to do with the poor legal representation at the original
+trials. But, as shown by the many cases summarized here in which executions
+were carried out, many of those facing the death penalty never receive the
+representation that would make such a difference.
+I. THE FAILURE To KEEP THE PROMISE OF GIDEON
+The right to counsel is essential to protect all other rights of the criminally
+accused. Yet this most fundamental right has received the least protection.
+Nevertheless, many members of the judiciary and the bar-who have a special
+responsibility to uphold the rule of law in the face of public outrage and
+revulsion-stand by year after year, case after case, looking the other way,
+pretending that nothing is amiss, or calling upon someone else to solve the
+problem, but never engaging in a concerted and effective effort to change the
+situation. The United States Department of Justice, the state District Attorneys,
+and state Attorneys General, all of whom should have some concern about the
+fairness and integrity of the judicial process, use their power and influence to
+make the situation even worse. As a result, although some solutions to the
+problem are apparent, the situation continues to deteriorate and, tragically, to
+be increasingly accepted as the inevitable lot of the poor.
+A. Minimal Reforms in Response to Major Crisis
+Over ten years ago, the ABA and the National Legal Aid and Defender
+Association found the funding for indigent defense inadequate and deemed the
+promise of Gideon v. Wainwright unrealized, stating: "we must be willing to
+put our money where our mouth is; we must be willing to make the
+constitutional mandate a reality."'179 However, despite many reports with
+similar warnings,18° another ABA report in 1993 still found that "long-term
+neglect and underfunding of indigent defense has created a crisis of
+extraordinary proportions in many states throughout the country.'.'
+179. AMERICAN BAR ASS'N & THE NAT'L LEGAL AID & DEFENDER ASS'N, GIDEON UNDONE! THE
+CRISIS OF INDIGENT DEFENSE FUNDING 3 (1982).
+180. Many of the reports are summarized in KLEIN & SPANGENBERG, supra note 82, at 10; Klein,
+supra note 80, at 393.
+181. KLEIN & SPANGENBERG, supra note 82, at 25.
+HeinOnline -- 103 Yale L.J. 1866 1993-1994
+
+1994] Counsel for the Poor 1867
+In Alabama, ten reports over eleven years pointed out the many defects in
+representation of indigent defendants.' Judges, court administrators, and the
+bar have recommended reform. A commission proposed in 1988 that the limits
+on attorneys fees in capital cases be eliminated or raised,t83 but the
+legislature has done nothing to change the limit on compensation for out-of-
+court time expended by attorneys in capital cases.184 As a result, and despite
+repeated acknowledgement of the problem, the quality of indigent defense in
+Alabama remains a disgrace.
+Limits on compensation have been struck down by courts in a number of
+states. 5 However, even as courts have recognized the unreasonableness of
+the low fees, the adverse impact of such low fees on the right to counsel and
+a fair trial, and their own constitutional duty to do something about it,'86 they
+have often ordered only minimal, inadequate reforms.
+A challenge to Mississippi's limit of $1000 for compensation to lawyers
+appointed to defend capital cases was rejected by the state's supreme
+court. 87 The court held that lawyers were entitled to reimbursement for
+actual costs, including the overhead cost of operating a law office, so that "the
+attorney will not actually lose money,"'8s but characterized the $1000 fee as
+"an 'honorarium' or pure profit."'89 One justice published a dissent, which
+had initially been prepared as the majority opinion, that carefully analyzed how
+the statutory limit on compensation adversely affected the right to counsel and
+182. Klein, supra note 80, at 402-03; Friedman & Stevenson, supra note 48, at 23 n.112.
+183. Friedman & Stevenson, supra note 48, at 40 n.201. The Alabama Court of Appeals has also urged
+the Alabama Supreme Court to reconsider its decisions upholding the constitutionality of the $1000 limit
+on attorney compensation in criminal cases, observing that "[t]he real value of $1,000 is considerably less
+today" than when set in 1981 and is "certainly unreasonable." May v. State, No. CR-92-350, 1993 Ala.
+Crim. App. LEXIS 1076 (1993). However, one of the five members of the court disagreed, arguing that
+the question of adequate compensation was a matter for legislation. Id. (Montiel, J., dissenting); see also
+Ex parte Grayson, 479 So. 2d 76 (Ala. 1985), cert. denied, 474 U.S. 865 (1985) (upholding against due
+process and equal protection attacks Alabama's system for compensating appointed attorneys); Sparks v.
+Parker, 368 So. 2d 528 (Ala. 1979) (holding that the limit does not constitute unlawful taking of property),
+appeal dismissed, 444 U.S. 803 (1979).
+184. "Many legislators seem to fear that support for funding for defense services in capital cases is
+somehow the same as support for violent crime." Friedman & Stevenson, supra note 48, at 41-42.
+185. DeLisio v. Alaska, 740 P.2d 437, 443 (Alaska 1987); Arnold v. Kemp, 813 S.W.2d 770 (Ark.
+1991); White v. Board of County Comm'rs, 537 So. 2d 1376, 1379 (Fla. 1989); Makemson v. Martin
+County, 491 So. 2d 1109, 1112, 1114 (Fla. 1986), cert. denied, 479 U.S. 1043 (1987); State ex rel. Stephan
+v. Smith, 747 P.2d 816 (Kan. 1987); State v. Lynch, 796 P.2d 1150 (Okla. 1990); Jewell v. Maynard, 383
+S.E.2d 536, 547 (W. Va. 1989).
+186. See, e.g., Wilson v. State, 574 So. 2d 1338, 1340 (Miss. 1990). There, in considering a challenge
+to the $1000 limit on attorney compensation in capital cases, the Mississippi Supreme Court stated: "[I]f
+the legislative branch fails its constitutional mandate to furnish the absolute essentials required for the
+operation of an independent and effective court, then no court affected thereby should fail to act. It is the
+absolute duty of a court in such latter circumstances to act and act promptly." Id. (quoting Hosford v. State,
+525 So. 2d 789, 797-98 (Miss. 1988)). Nevertheless, the court refused to interfere with the legislature's
+right to expend public funds and allowed Mississippi's limit of $1000 in compensation for the defense of
+capital cases to stand. Id.
+187. Id.; Pruett v. State, 574 So. 2d 1342 (Miss. 1990).
+188. Wilson, 574 So. 2d at 1341.
+189. Id.
+HeinOnline -- 103 Yale L.J. 1867 1993-1994
+
+1868 The Yale Law Journal [Vol. 103: 1835
+the administration of justice in violation of the Constitution.' ° However,
+because that opinion was not supported by a majority of the court, an attorney
+appointed to defend a capital case in Mississippi, while no longer required to
+lose money, may still make less than the minimum wage.9'
+The Louisiana Supreme Court, considering a capital case in which assigned
+counsel was neither compensated nor reimbursed for ,expenses, held that
+counsel were entitled to reimbursement for out-of-pocket and overhead costs,
+overruling contrary state precedent,92 but held that a "fee for service need
+not be paid" as long as the time required to defend the case does not reach
+"unreasonable levels."'' 93
+The South Carolina Supreme Court struck down that state's statutory
+limitations on compensation of appointed counsel in capital cases.94 The
+statutes provided for $15 per hour of in-court time and $10 per hour of out-of-
+court time for attorneys, with a limit of $5000 per case for attorneys fees,
+expert and investigative services, and costs.'95 Even in doing so, however,
+the court discussed the fee limitations in the context of "the legal profession's
+traditional and historic role in the general society. It is a role anchored to the
+postulate that the practice of law is not a marketplace business or commercial
+venture but, rather, a profession dedicated primarily to service."'96 The court
+accordingly held that "[t]he appointed attorney should not expect to be
+compensated at market rate, rather at a reasonable, but lesser rate" to be fixed
+in the court's discretion at the conclusion of the trial.'97
+One would hope that such an undesirable assignment as defending a
+person in a capital case would be compensated at rates greater than market
+rates, not less. In civil rights cases, the undesirability of a case is a factor used
+to multiply or enhance an attorneys fee award. 98 For example, prison condi-
+tions cases have been found to be "undesirable" for purposes of determining
+whether to enhance attorneys fees. 99 However, legislatures and courts have
+simply been unwilling to pay sufficient rates to attract lawyers to handle
+capital cases.
+190. Pruett, 574 So. 2d at 1342, 1343-69 (Anderson, J., dissenting).
+191. All of the attorneys in the Wilson and Pruett cases received less than the minimum wage. The
+two attorneys for Wilson documented 779.2 and 562 hours and the two attorneys for Pruett documented
+449.5 and 482.5 hours. Each attorney was paid $1000 for his time. Thus, the rates ranged from $1.28 per
+hour to $2.22 per hour. Id. at 1348 n.7 (Anderson, J., dissenting).
+192. State v. Wigley, 624 So. 2d 425, 428-29 (La. 1993) (overruling in part State v. Clifton, 172 So.
+2d 657 (La. 1965)).
+193. Id. at 429.
+194. Bailey v. State, 424 S.E.2d 503, 508 (S.C. 1992).
+195. Id. at 505.
+196. Id. at 504.
+197. Id. at 508.
+198. See, e.g., Johnson v. Georgia Highway Express, Inc., 488 F.2d 714, 719 (5th Cir. 1974).
+199. E.g., Alberti v. Sheriff of Harris County, 688 F. Supp. 1176, 1198-99 (S.D. Tex. 1987) (prison
+conditions litigation per se undesirable), modified on other grounds, 688 F. Supp. 1210 (S.D. Tex. 1987),
+aff'd in part and rev'd in part sub nom. Alberti v. Klevenhagen, 896 F.2d 927 (5th Cir. 1990), opinion
+vacated in part on reh'g, 903 F.2d 352 (5th Cir. 1990) (per curiam).
+HeinOnline -- 103 Yale L.J. 1868 1993-1994
+
+19941 Counsel for the Poor 1869
+There have been few systematic challenges to the inadequacy of legal
+representation for the poor, and they have produced only limited results.200
+Some hope of reforming Georgia's indigent defense system appeared when a
+federal court of appeals held that a challenge to deficiencies in the system
+stated a claim and should not have been dismissed.20t However, after a
+change in the composition of the court, the case was dismissed on abstention
+grounds.02 The federal courts also refused on abstention grounds to examine
+Kentucky's limit on attorneys' compensation in capital cases.203
+Despite abundant documentation of the enormity of the need for
+substantive changes, some continue to suggest that the burden of providing
+counsel to the poor-even in capital cases-may be satisfied by the
+conscription of members of the legal profession.2 0 4 However, it is the
+constitutional duty of the state,2°5 not of members of the legal profession, to
+provide indigent defendants with counsel. Responses to the problems posed by
+ineffective assistance of counsel should be conceived in a way that gives effect
+to this principle. Georgia, a state in which there have been numerous egregious
+examples of deficient representation, has no difficulty coming up with local,
+state, and federal money to prepare for the Olympic Games, but it does not
+secure or appropriate funding to assure competent representation and equal
+justice in its courts.206
+Though it is desirable for more members of the legal profession to
+shoulder their ethical obligations to provide legal assistance for the poor, the
+defense of capital cases often requires more expertise, commitment, and
+resources than individual lawyers are able to offer. And there are too many
+cases for the lawyers who do respond. Moreover, the absence of indigent
+200. See, e.g., Tucker v. Montgomery Bd. of Comm'rs, 410 F. Supp. 494 (M.D. Ala. 1976); Wallace
+v. Kern, 392 F. Supp. 834 (E.D.N.Y.), rev'd, 481 F.2d 621 (2d Cir. 1973), cert. denied, 414 U.S. 1135
+(1974); State v. Smith, 681 P.2d 1374 (Ariz. 1984). These and other efforts to bring deficient indigent
+defense systems into compliance with the Constitution are described in Klein, supra note 80, at 410-13,
+417-18. See also Paul C. Drecksel, The Crisis in Indigent Criminal Defense, 44 ARK. L. REV. 363, 387-90
+(1991); Caroline A. Pilch, Note, State v. Smith: Placing a Limit on Lawyers' Caseloads,2 7 ARIz. L. REV.
+759 (1985).
+201. Luckey v. Harris, 860 F.2d 1012, 1017 (11th Cir. 1988), reh'g denied, 896 F.2d479 (1989), cert.
+denied, 495 U.S. 957 (1990).
+202. Luckey v. Miller, 976 F.2d 673 (11th Cir. 1992), reh'g en banc denied, 983 F.2d 1084 (11th Cir.
+1993).
+203. Foster v. Kassulke, 898 F.2d 1144 (6th Cir. 1990).
+204. Martin County v. Makemson, 479 U.S. 1043, 1045 (1987) (white, J., dissenting from denial of
+certiorari) ("I discern nothing in the Sixth Amendment that would prohibit a State from requiring its
+lawyers to represent indigent criminal defendants without any compensation for their services at all.");
+Wilson v. State, 574 So. 2d 1338, 1341 (Miss. 1990); State v. Wigley, 624 So. 2d 425, 427-29 (La. 1993).
+205. State ex rel. Stephan v. Smith, 747 P.2d 816, 835-37, 841-42 (Kan. 1987); Wilson, 574 So. 2d
+at 1342 (Robertson, J., concurring).
+206. Another example of the low priority that states give to their obligation to assure equal justice can
+be found in Kentucky, where the indigent defense budget for 1990 of $11.4 million was four million less
+than the University of Kentucky's athletic department for the same year. Edward C. Monahan, Who Is
+Trying to Kill the Sixth Amendment? A.B.A. CRIM. JUsT., 24, 52 (Summer 1991). Kentucky's funding for
+indigent defense for one year would build but four miles of two-lane highway. Id. at 51-52.
+HeinOnline -- 103 Yale L.J. 1869 1993-1994
+
+1870 The Yale Law Journal [Vol. 103: 1835
+defense programs limits the opportunity for young, committed lawyers to
+enhance their skills and learn to do the job properly. Beyond these difficulties,
+even the most conscientious lawyer needs proper investigative and expert
+assistance to defend a capital case.
+Moreover, to ask for such major sacrifices for such an overwhelming and
+thankless job as defending a capital case from a few members of the profession
+is unreasonable. Judges are not presiding without compensation, and district
+attorneys are not prosecuting without decent salaries. And most members of
+the legal profession-particularly those at the high income law firms which
+have the litigation skills and resources equal to the task-are not being asked
+to share the burden of defending the poor. The supply of lawyers who are
+willing to make the sacrifice has never come close to satisfying the desperate
+needs of the many poor who face the death penalty throughout the country
+today.
+Georgia Chief Justice Harold Clarke's description of Georgia's response
+to the need for indigent defense applies to most other states as well: "[W]e set
+our sights on the embarrassing target of mediocrity. I guess that means about
+halfway. And that raises a question. Are we willing to put up with halfway
+justice? To my way of thinking, one-half justice must mean one-half injustice,
+and one-half injustice is no justice at all."207
+B. The Politics of Crime and the Lack of Leadership To Remedy the Situation
+At this time, there appears to be little prospect of achieving even the level
+of mediocrity that Chief Justice Clarke described. What is needed to provide
+competent legal representation to any litigant, rich or poor, is no secret. But
+significant improvement in the quality of representation for the poor is unlikely
+because of the unpopularity of those accused and the lack of leadership and
+commitment to fairness of those entrusted with responsibility for the justice
+system.
+A properly working adversary system will never be achieved unless
+defender organizations are established and properly funded to employ lawyers
+at wages and benefits equal to what is spent on the prosecution, to retain
+expert and investigative assistance, to assign lawyers to capital cases, to recruit
+and support local lawyers, and to supervise the performance of counsel de-
+fending capital cases. Judges are not equipped to do this. Management of the
+defense is not a proper judicial function. And, as previously described, all too
+often political and other improper considerations influence elected state court
+judges in their appointment of lawyers to defend those facing the death
+penalty.
+207. Chief Justice Harold G. Clarke, Annual State of the Judiciary Address, reprinted in FULTON
+COUNTY DAILY REP., Jan. 14, 1993, at 5.
+HeinOnline -- 103 Yale L.J. 1870 1993-1994
+
+1994] Counsel for the Poor 1871
+What is needed is a system in which defense counsel's loyalty is to the
+client and not the judge; and in which defense counsel, as well as the prosecu-
+tor, understands the scientific and legal issues in the case and has access to the
+investigative and expert assistance needed to prepare and present the case. The
+ABA has promulgated standards for the appointment and performance of
+counsel in capital cases,208 which are seldom followed today, but standards
+mean nothing without capable attorneys and well-funded defender orga-
+nizations to implement them.209
+Moreover, it must be recognized that defending capital cases is a most
+unattractive responsibility for most members of the legal profession. With the
+increasing number of state and federal capital prosecutions, it will be more and
+more difficult to find enough capable lawyers willing to defend the cases. It
+should be recognized that, as in other difficult and undesirable areas of
+practice, a significant financial incentive, considerably beyond what lawyers
+receive for far less demanding legal work, will be required.
+Such a system would require a substantial commitment of resources. The
+argument has been made that some jurisdictions do not have the money to at-
+tract qualified lawyers and that in some areas, particularly rural areas, qualified
+counsel is simply not available.210 But these considerations should not excuse
+the lack of adequate legal representation in capital cases. There are communi-
+ties that have no pathologists, hair and fiber experts, evidence technicians, and
+others needed for the investigation and prosecution of homicide cases.
+However, when a murder occurs in those communities and is followed by a
+capital prosecution, the prosecution invariably brings in the experts needed and
+pays what it costs to do so.
+There was a time when many localities did not have capable law
+enforcement agencies or pathologists, fingerprint examiners, ballistics experts,
+serologists, and other forensic scientists needed to investigate and prosecute
+crime. These deficiencies were remedied in most places, often with funding
+from the Federal Law Enforcement Assistance Administration as well as state
+and local governments. Crime laboratories were built, local police officers were
+sent to FBI training programs, and pools of experts were developed who travel
+around states to investigate crime scenes and testify in local prosecutions.
+208. AMERICAN BAR ASS'N, GUIDELINES FOR THE APPOINTMENT AND PERFORMANCE OF COUNSEL
+IN DEATH PENALTY CASES (1990).
+209. Standards for the appointment of counsel, which are defined in terms of number of years in
+practice and number of trials, do very little to improve the quality of representation since many of the worst
+lawyers are those who have long taken criminal appointments and would meet the qualifications. Such
+standards can actually be counterproductive because they may provide a basis for denying appointment to
+some of the most gifted and committed lawyers who lack the number of prior trials but would do a far
+better job in providing representation than the usual court-appointed hacks with years of experience
+providing deficient representation.
+210. See, e.g., Report of Malcolm Lucas to ABA Task Force Report on the Death Penalty, 40 AM. U.
+L. REV. 195, 197 (1990). The expense of providing more qualified counsel is repeatedly urged as a reason
+to defeat legislation aimed at improving representation in capital cases.
+HeinOnline -- 103 Yale L.J. 1871 1993-1994
+
+1872 The Yale Law Journal [Vol. 103: 1835
+These jurisdictions could also establish defender organizations to provide
+lawyers with the expertise required to defend capital cases, and the
+investigators and expert assistance needed to prepare the defense of these
+cases. What is lacking is not money, but the political will to provide adequate
+counsel for the poor in capital and other criminal cases. Adequate
+representation and fairness will never be achieved as long as it is accepted that
+states can pay to prosecute a capital case without paying to defend one. Ade-
+quate representation and fairness will never be achieved until ensuring justice
+in the courts becomes a priority equal to public concern for roads, bridges,
+schools, police protection, sports, and the arts.
+But the leadership needed to help bring about justice is missing. There was
+a time when the Attorney General of the United States and the attorneys
+general in many of the states were concerned not just with getting convictions,
+but also with fairness, integrity, and the proper functioning of the adversary
+system.
+In that spirit, Attorneys General Walter F Mondale of Minnesota and
+Edward J. McCormack, Jr. of Massachusetts, and twenty-one of their fellow
+attorneys general filed a brief in support of Clarence Earl Gideon's right to
+counsel in Gideon v. Wainwright2.1 It was out of that same concern that
+Attorney General Robert F Kennedy helped secure passage of the federal
+Criminal Justice Act in 1963. But those days are gone.
+Today, the United States Department of Justice, state district attorneys, and
+state attorneys general use their power and influence to make this shameful
+situation even worse. They take every advantage of the ignorant, incompetent
+lawyers foisted upon the poor.212 They have defended in the courts even the
+211. 372 U.S. 335, 336 (1963).
+212. At the urging of prosecutors, the federal courts and many state courts have increasingly refused
+to consider constitutional issues even where the failure to raise them was the result of ignorance, neglect,
+or inadvertent failure to raise and'preserve an issue by a court-appointed lawyer. Coleman v. Thompson,
+111 S. Ct. 2546 (1991) ("[A]ttomey ignorance or inadvertence is not 'cause"' to excuse filing of notice of
+appeal three days late, as indigent prisoner "must bear the risk of attorney error") (quotation omitted);
+Dugger v. Adams, 489 U.S. 401, 406-08 (1989) (barring relief because trial lawyer did not object to jury
+instructions even though court of appeals had unanimously concluded that death penalty was
+unconstitutionally imposed due to those instructions); Smith v. Murray, 477 U.S. 527, 539 (1986) (Stevens,
+J., dissenting) (barring issue not properly raised on appeal even though "[t]he record ... unquestionably
+demonstrates that petitioner's constitutional claim is meritorious, and that there is a significant risk that he
+will be put to death because his constitutional rights were violated"); Murray v. Carrier, 477 U.S. 478, 488
+(1986) (holding that attorney "ignorance or inadvertence" does not constitute cause to excuse failure to raise
+Fourteenth Amendment claim in earlier proceeding). Three of these cases-all except Murray v.
+Carrier-were capital cases. In each of those cases, the defendant has been executed without a
+determination of the constitutional issue because of the attorney error.
+As a result of the complexity of the procedural rules and the lack of familiarity with them by many
+of the lawyers appointed to defend the poor, executions are now routinely carried out without review by
+any court of significant constitutional issues because of errors by counsel. See, e.g., Whitley v. Bair, 802
+F2d 1487, 1496 n.17 (4th Cir. 1986) (finding that all 15 issues raised on behalf of Whitley were barred
+because they had not been properly raised by his trial lawyer), cert. denied, 480 U.S. 951 (1987). Today,
+it is unusual to see a capital case in which one or more issues presented in federal habeas corpus review
+is not found to be procedurally barred.
+HeinOnline -- 103 Yale L.J. 1872 1993-1994
+
+1994] Counsel for the Poor 1873
+most outrageous instances of incompetence on the part of defense counsel
+previously described and used the ineptness of counsel as a barrier to prevent
+courts from addressing constitutional violations in capital cases.
+Despite abundant evidence of poor lawyering and egregious constitutional
+violations in capital cases, the Justice Department and many prosecutors have
+proposed shortcuts and procedural traps to paper over the problems and speed
+up the process of sending those sentenced to death at unconstitutional trials to
+their executions. In response to findings by federal courts of constitutional
+violations in state capital cases, prosecutors have urged stricter enforcement of
+procedural default rules to avoid dealing with the violations,213 not better
+counsel to avoid those unconstitutional trials in the first place. Justice James
+Robertson of the Mississippi Supreme Court described as "unseemly" the
+arguments of that state's attorney general that the court "should hold [the
+defendant's] claims procedurally barred, not because such would promote the
+interests of justice, but rather that such would pull the rug out from under
+[him] when he ultimately seeks federal review of his case."214 An
+accommodating Supreme Court has been willing to cut back drastically on the
+213. For example, the Mississippi Attorney General urged the state's supreme court to invoke
+procedural bars as means of preventing federal review-characterized by the Attorney General as "a Crash
+Upon the Rocky Shores of the Federal Judieiary"-following findings of constitutional violations in seven
+of the first eight Mississippi capital cases reviewed by the federal courts. Wheat v. Thigpen, 793 F2d 621,
+626 n.5 (5th Cir. 1986), cert. denied, 480 U.S. 930 (1987) (quoting State's Response, Edwards v. Thigpen,
+433 So. 2d 906 (Miss. 1983), cert. denied, 480 U.S. 930 (1987)). The Mississippi Supreme Court adopted
+the state's position. Edwards v. Thigpen, 433 So. 2d 906 (Miss. 1983).
+Similarly, after federal habeas corpus relief was granted to a number of people in Georgia who had
+been sentenced to death, Georgia amended its state postconviction statute in 1982 to prohibit consideration
+in state habeas proceedings of issues not raised in compliance with Georgia's procedural rules at trial and
+on appeal. GA. CODE ANN. § 9-14-51(d) (1993). The statute had previously provided that "rights conferred
+or secured by the Constitution of the United States shall not be deemed to have been waived unless it is
+shown that there was an intentional relinquishment or abandonment of a known right or privilege ...
+participated in by the party and ... done voluntarily, knowingly, and intelligently." 1967 Ga. Laws 835,
+836, § 3; 1975 Ga. Laws 1143-44, § 1.
+214. Evans v. State, 441 So. 2d 520, 531 (Miss. 1983) (Robertson, J.,di ssenting), cert. denied, 467
+U.S. 1264 (1984); see also Hill v. State, 432 So. 2d 427, 444-51 (Miss. 1983) (Robertson, J., dissenting).
+HeinOnline -- 103 Yale L.J. 1873 1993-1994
+
+1874 The Yale Law Journal [Vol. 103: 1835
+availability of the once great writ of habeas corpus,2 5 and prosecutors have
+supported even more drastic legislative proposals to restrict it further2.1
+Many prosecutors have been unwilling to agree to even the most minor
+reforms to improve the quality of legal representation received by the poor.
+Federal legislation was proposed in 1990 that would have restricted imposition
+of the procedural default doctrines unless states improved the quality of de-
+fense counsel. One proposal would have required the establishment of an
+appointing authority for counsel in capital cases composed either of a statewide
+defender organization or of a death penalty resource center.217 The appointing
+215. Justice Stevens has expressed the view that the Supreme Court has "grossly misevaluate[di the
+requirements of 'law and justice' that are the federal court's statutory mission under the federal habeas
+corpus statute" and instead "lost its way in a procedural maze of its own creation." Smith v. Murray, 477
+U.S. 527, 541 (1986) (Stevens, J., dissenting). Justice Blackmun, writing for four members of the Court
+in Dugger v. Adams, accused the majority of "arbitrarily impos[ing] procedural obstacles to thwart the
+vindication of what apparently is a meritorious Eighth Amendment claim." Dugger v. Adams, 489 U.S. 401,
+412-13 (1989).
+In addition to the strict enforcement of procedural rules, the Supreme Court has limited the availability
+of the writ to vindicate constitutional rights by making it more difficult to obtain an evidentiary hearing
+to prove a constitutional violation, Keeney v. Tamayo-Reyes, 112 S.C t. 1715 (1992); adopting an ex-
+tremely restrictive doctrine regarding the retroactivity of constitutional law, Teague v. Lane, 489 U.S. 288
+(1989); James S. Liebman, More than "Slightly Retro:" The Rehnquist Court's Rout of Habeas Corpus
+Jurisdiction in Teague v. Lane, 18 N.Y.U. REv. L. & SOC. CHANGE 537 (1991); reducing the harmless
+error standard for constitutional violations recognized in federal habeas review, Brecht v. Abrahamson, 113
+S. Ct. 1710 (1993); and restricting when a constitutional violation may be raised in a second habeas peti-
+tion. McCleskey v. Zant, 499 U.S. 467 (1991).
+216. The Justice Department and the associations of district attorneys and attorneys general have
+supported a statute of limitations for habeas corpus cases since one was proposed by a committee appointed
+by Chief Justice William Rehnquist and chaired by retired Justice Lewis Powell in 1989. Report of the Ad
+Hoc Committee on Federal Habeas Corpus in Capital Cases, 45 Crim. L. Rep. (BNA) 3239 (Sept. 27,
+1989). Senator Joseph Biden introduced a bill in 1993 containing a statute of limitations and other
+provisions regarding habeas corpus which had been drafted in sessions with representatives of the Justice
+Department, state attorneys general, and state district attorneys, all of whom were said to support the bill.
+139 CONG. REc. S10925-27 (daily ed. Aug. 6, 1993). The bill appears id. at S10927-31.
+Some prosecutors have even proposed the virtual elimination of habeas corpus review by extending
+to all issues the rule of Stone v. Powell, 428 U.S. 465 (1976), which bars federal habeas review of Fourth
+Amendment claims where there has been a "full and fair" hearing in the state courts. See, e.g., Hearings
+Before the Senate Comm. on the Judiciary,o n S.8 8, S. 1757, and S. 1760, 101st Cong., Ist& 2d Sess.
+759, 784 (1990) (Testimony of Ala. Assistant Attorney General Ed Carnes, Feb. 21, 1990, urging passage
+of S. 1971 because that one provision "considered alone" makes it preferable to other legislation); Letter
+from Alabama Attorney General Don Siegelman and 22 Other State Attomeys General to Senator Joseph
+Biden (Mar. 12, 1990) (urging extension of "full and fair" rule to all claims to "accomplish true federal
+habeas reform") (on file with author); Hearings Before the Subcomm. on Civil and ConstitutionalR ights
+of the House Comm. on the Judiciary, 102d Cong., IstS ess. 172-82 (1991) (Statement of Andrew G.
+McBride, Associate Deputy Attorney General, Department of Justice).
+The "full and fair" provision was included in Section 205 of the Bush Administration's
+Comprehensive Violent Crime Control Act of 1991, S.6 35, 102d Cong., 1st Sess. (1991), sponsored by
+Senator Strom Thurmond, which was included in the crime bill passed by the Senate on July 17, 1991.
+S.1 241, 102d Cong., 1st Sess. (1991). However, the Senate and House were unable to agree on a crime
+bill in 1991 so the provision did not become law. Even Chief Justice Rehnquist, who has led the judicial
+and legislative efforts to restrict habeas corpus, opposed the "full and fair" proposal. Linda Greenhouse,
+Rehnquist Urges Curb on Appeals of Death Penalty, N.Y. TIMES, May 16, 1990, at AI. And the Supreme
+Court, which has cut back repeatedly on the availability of habeas corpus since 1977, refused, in Withrow
+v. Williams, 113 S.C t. 3066 (1993), to extend the "full and fair" standard to issues involving violations
+of Miranda v. Arizona, 384 U.S. 436 (1966).
+217. H.R. 4737, § 8(b) (1990), reprinted in Hearings Before Subcomm. on Courts, Intellectual
+Property and the Administration of Justice of the House JudiciaryC omm. on H.R. 4737, H.R. 1090, H.R.
+HeinOnline -- 103 Yale L.J. 1874 1993-1994
+
+1994] Counsel for the Poor 1875
+authority would have been responsible for securing qualified counsel and
+engaging in periodic review to ensure the competence of representation. The
+legislation would also have set standards for counsel and required payment for
+counsel "at a reasonable rate in light of the attorney's qualifications and
+experience and the local market for legal representation in cases reflecting the
+complexity and responsibility of capital cases. '18
+This modest proposal evoked vehement opposition from the U.S.
+Department of Justice and state prosecutors. William P. Barr, then-Deputy
+Attorney General and later Attorney General, characterized the counsel
+provisions as "an elaborate and expensive system for appointing counsel" that
+were "inimical to the principles of federalism inherent in our constitutional
+system, and to the need for reasonable finality of state criminal judg-
+ments.,219 A letter signed by the attorneys general of twenty-three states
+which have the death penalty described the provisions as "so extreme as to be
+absurd.,12 2 The twenty-three attorneys general asserted: "The current prob-
+lems which beset capital cases are not caused by the quality of representation
+they receive" and that "the focus in capital cases should be on the guilt or
+innocence of the defendant and the sentence he should receive" and not "how
+many seminars a defense attorney has attended, how well he is paid, and other
+collateral matters."22' The National Association of District Attorneys adopted
+a resolution opposing the legislation, reiterating its support for the procedural
+default doctrines and "strongly oppos[ing] any legislation" which would "create
+new requirements concerning the experience, competency, or performance of
+counsel" beyond Strickland v. Washington.22
+A bill introduced in 1993 would have required only a "certifying"
+authority to identify lawyers to defend capital cases, allowing judges to contin-
+ue to appoint counsel and setting only minimal standards measured in terms
+of years of practice and number of cases with no inquiry into quality of
+work.2 2 3 Although representatives of the state attorneys general and district
+attorneys associations were involved in drafting the legislation,24 which
+1953, and H.R. 3584, 101st Cong., 2d Sess. 3, 11 (1990) [hereinafter House Hearings].
+218. H.R. 4737, § 8(e)-(g) (1990), House Hearings, supra note 217, at 14-16; see also H.R. 5269,
+§ 1307(e)-(g) (1990), House Hearings, supra note 217, at 486-91.
+219. Detailed Comments on H.R. 5269 Submitted with Letter from William P Barr to Thomas S.
+Foley, Speaker of the U.S. House of Representatives (Sept. 10, 1990), reprintedi n House Hearings,s upra
+note 217, at 723, 746-47.
+220. Letter from Don Siegelman, Attorney General of Alabama et al., to Jack Brooks, Chairman of
+the House Judiciary Committee (July 13, 1990), reprinted in House Hearings, supra note 217, at 654, 656.
+221. Id. The letter suggests that "delay" and "relitigation" are the major problems.
+222. Resolution Opposing Habeas Reform Legislation, reprinted in House Hearings,s upra note 217,
+at 649.
+223. The Habeas Corpus Reform Act of 1993, S. 1441, 103d Cong., 1st Sess. § 8 (1991) (introduced
+by Senator Biden on August 6, 1993, 139 CONG. REc. S10925-31 (daily ed. Aug. 6, 1993)). The bill also
+contained a statute of limitations and other restrictions on habeas corpus.
+224. 139 CONG. REc. S10925-27 (daily ed. Aug. 6, 1993). No one involved in the defense of capital
+cases or representation of petitioners in habeas corpus actions was included by Senator Biden or his staff
+in the meetings which led to the bill.
+HeinOnline -- 103 Yale L.J. 1875 1993-1994
+
+1876 The Yale Law Journal [Vol. 103: 1835
+would, in fact, do little to improve the quality of representation and could even
+worsen the situation,"25 it was opposed by many prosecutors.226 One letter
+circulated among Senators criticized its "expansive and costly appointment of
+counsel provisions" and quoted the Attorney General of Georgia as saying that,
+if enacted, the bill would "effectively repeal the death penalty." 7
+Such hyperbolic statements have repeatedly greeted other efforts to
+improve the quality of legal representation in capital cases. When the Georgia
+legislature, after years of refusing to appropriate any funds for indigent
+defense,228 finally responded grudgingly to the eloquent appeals of the chief
+justice of the state's supreme court229 by creating in 1992 a small capital de-
+fender program that employed only four attorneys, one district attorney
+criticized it as a step toward abolishing the death penalty in Georgia.2"'
+When a report to the Texas Bar described the serious deficiencies of the
+representation in capital cases in that state, the district attorney in Houston dis-
+missed it as an argument against the death penalty. 32
+225. The bill did not remove the judge as the appointing authority. Most of the incompetent lawyers
+providing representation would still qualify under the bill's requirements of a certain number of years of
+practice or trials, but many conscientious and capable young lawyers would be excluded.
+226. California Attorney General Daniel E. Lungren asserted that the bill "could appropriately be
+called the 'Capital Defense Attorney Employment Act of 1993' and urged its defeat because it would
+"raise the overall cost of capital litigation by imposing new federal standards" and result in additional litiga-
+tion. Letter from Daniel E. Lungren to Senator Diane Feinstein (Aug. 13, 1993) at 15 (on file with author).
+The California District Attorneys Association adopted a resolution opposing any legislation which would:
+[C]reate new requirements concerning the experience, competency, or performance of counsel
+beyond those required by the United States Constitution as interpreted in Strickland v.
+Washington....
+[D]ictate new federal standards concerning the appointment of counsel for state court pro-
+ceedings or take away the traditional authority to appoint counsel from state court judges....
+[E]stablish stringent federal qualifications for the appointment of counsel (including the
+appointment of at least two attorneys beginning at the state trial stage) which would delay death
+penalty cases by the inability to locate a sufficient number of attorneys who can meet all of the
+mandatory standards....
+California District Attorneys Association, Resolution Concerning Federal Habeas Corpus Reform
+Legislation (adopted Aug. 12, 1993) (on file with author).
+227. Letter from Senators Orin G. Hatch, Strom Thurmond, Diane Feinstein, and Richard Shelby to
+Colleagues (Nov. 2, 1993) (on file with author).
+228. Georgia State Senator Gary Parker explained to an American Bar Association committee:
+Although many of my colleagues in the legislature realize what is needed-a centralized, truly
+independent capital defender office staffed by experienced capital trial counsel-they are
+unquestionably unwilling, as they have demonstrated year after year, to appropriate the funds.
+... Quite to the contrary, support for indigent defense is viewed by many in this state as being
+soft on crime.
+Testimony of Gary Parker to the ABA Task Force on Death Penalty Habeas Corpus, quoted in American
+Bar Ass'n, supra note 9, at 221 n.38.
+229. Harold G. Clarke, Money v. Justice in Georgia ("State of the Judiciary Address" to the Georgia
+General Assembly), reprinted in FULTON COUNTY DAILY REP., Jan. 22, 1992, at 8; Harold G. Clarke, State
+of the Judiciary (Address to the State Bar of Georgia), reprinted in GA. ST. B.J., Aug. 1991, at 70.
+230. GA. CODE ANN. § 17-12-91 (1992). There are over 120 capital indictments pending in Georgia
+at any given time, so the program can handle only a small portion of the cases.
+231. Kimball Perry, Poor People To Get Added Help in Courts, COLUMBUS LEDGER-ENQUIRER, Oct.
+6, 1992, at B1.
+232. Gary Taylor, Texas Death-Penalty Study Hit, NAT'L L.J., Apr. 26, 1993, at 3, 50. Taylor quoted
+Harris County District Attorney John B. Holmes, Jr., as saying: "If you're against the death penalty, argue
+HeinOnline -- 103 Yale L.J. 1876 1993-1994
+
+19941 Counsel for the Poor 1877
+The enthusiasm of prosecutors to continue to take every advantage has not
+been tempered by the poverty and powerlessness of those accused of capital
+crimes. Nor has the situation motivated a new presidential administration or a
+new Attorney General to rein in the assaults on the Bill of Rights and habeas
+corpus or question the power that state courts should be allowed to exercise
+over the lives of persons who are not provided adequate representation.23 In-
+stead, the country is engaged in a crime debate in which politicians try to
+outdo one another in proposing crime bills which simultaneously expand the
+use of the death penalty and other severe penalties while restricting or
+eliminating procedural protections. Those who are supposedly leaders dismiss
+the Bill of Rights as a mere collection of technicalities. The debate is
+exceptionally one-sided. For, as Robert F. Kennedy said long ago, the poor
+person accused of a crime has no lobby. No member of Congress or a state
+legislature is likely to receive complaints about the quality of counsel for poor
+people accused of crimes. But lost in the effort to get tough on crime is
+concern about the fairness and integrity of the criminal justice system.
+Completely missing from the crime debate and from the courts is the
+notion that if it is too expensive or impractical for some jurisdictions to
+provide competent counsel and the fairness and reliability that should
+accompany a judicial decision to take a human life, their power should be
+limited. If a local trial court cannot comply with the most fundamental safe-
+guard of the Constitution by providing a capable attorney to one whose life is
+at stake, it should not be authorized to extinguish life. The solution is not to
+depreciate human life and the Bill of Rights by accepting what is available.
+Many small communities do not have surgeons, yet they do not rely on chiro-
+practors to perform heart surgery.
+Pronouncements about the importance of and the need for counsel do not
+make quality representation a reality. It has become apparent that the
+legislatures of most states, particularly those where the death penalty is
+frequently imposed, are not going to discharge their constitutional duty to
+appropriate funds and provide competent legal assistance for poor persons in
+criminal cases. It is also unlikely that the judiciary and bar, after years of
+neglect, punctuated by occasional moments of hand wringing, will respond
+effectively to this worsening situation.
+against the issue. But don't come in the back door with so much financial baggage that the law can't work.
+That just promotes more disrespect for the law." Id. at 50. Holmes also said that there was "too much
+habeas." Id.
+233. President Clinton used the death penalty to establish his credentials as a "new Democrat" who
+was tough on crime by returning to Arkansas during the presidential campaign to deny clemency and allow
+the execution of a severely brain damaged man. See Marshall Frady, Death in Arkansas, Nsw YORKER,
+Feb. 22, 1993, at 105. President Clinton has supported legislation to make over 50 federal crimes
+punishable by death.
+HeinOnline -- 103 Yale L.J. 1877 1993-1994
+
+1878 The Yale Law Journal [Vol. 103: 1835
+IV. THE NEED FOR INDIVIDUAL RESPONSES AND LIMITS ON THE POWER OF
+THE COURTS
+The quality of legal representation in capital cases in many states is a
+scandal. However, almost no one cares. Those facing the death penalty are
+generally poor, often members of racial minorities, often afflicted with
+substantial mental impairments, and always accused of serious, terrible crimes.
+The crimes of which they are accused bring out anger, hatred, and a quest for
+vengeance on the part of most people, including judges, prosecutors, and, quite
+often, even those appointed to represent the accused. All of this leads to, at
+best, indifference and, more often, hostility toward the plight of those accused.
+And many outside the criminal justice system are indifferent because they are
+unaware of what passes for justice in the courts. There is a growing cynicism
+about the importance of due process and the protections of the Bill of Rights.
+Many of those who hold or aspire to public office find it impossible to resist
+the temptation to resort to demagoguery to exploit these sentiments.
+But this reality does not excuse the constitutional responsibility of the
+judiciary and members of the legal profession to ensure that even the most
+despised defendants still receive the highest quality legal representation in
+proceedings that will determine whether they live or die. Justice William
+Brennan, with his usual eloquence, once observed in another context,
+It is tempting to pretend that [those] on death row share a fate in no
+way connected to our own, that our treatment of them sounds no
+echoes beyond the chambers in which they die. Such an illusion is
+ultimately corrosive, for the reverberations of injustice are not so
+easily confined .... [T]he way in which we choose those who will
+die reveals the depth of moral commitment among the living.2"
+Unfortunately, what has been revealed about the depth of moral
+commitment among legislators, members of the bar, and the judiciary is very
+discouraging. It is unlikely that the promise of Powell and Gideon will ever be
+fulfilled for most of those accused of criminal violations. Legislatures are
+unwilling to pay the price for adequate representation, most courts are
+unwilling to order it, and most members of the bar are unwilling or unable to
+take on the awesome responsibility of providing a vigorous defense without
+adequate compensation.
+The best hope for most of those facing the death penalty is that capable
+lawyers will volunteer to take their cases and provide proper representation
+regardless of whether they are paid adequately or at all. A member of the New
+York Court of Appeals, citing the ethical obligation of lawyers to recognize
+234. MeCleskey v. Kemp, 481 U.S. 279, 344 (1987) (Brennan, J., dissenting).
+HeinOnline -- 103 Yale L.J. 1878 1993-1994
+
+1994] Counsel for the Poor 1879
+deficiencies in the legal system and initiate corrective measures,235 has urged
+lawyers to respond to the challenge of seeing that those who face the worst
+penalty receive the best representation.
+During the civil rights movement of the fifties and especially the
+sixties, inspired attorneys, not all young neophytes, travelled often at
+great personal expense and real risk, including their own deaths, to
+make a difference. That spirit needs to be revived. Right now, it fuels
+only a few who are to be commended for what they are trying to do,
+but it has not motivated a sufficient number of people in our pro-
+fession to do their needed parts, too. Until that conversion comes
+about, Lady Justice may as well keep her eyes blindfolded so as not
+to notice with shame the grotesque imbalance in the scales of justice
+that hang from her fingertips, because of the growing numbers of
+death penalty cases in this great country that are finally, really finally,
+resolved under such disproportionate odds and resources.
+Such spirit and commitment are desperately needed. When achieved, they
+will undoubtedly make a difference for those persons represented. Indeed it is
+hard to imagine how a member of the legal profession could make a greater
+difference than by saving a client from execution. But the response of
+individual lawyers will not be nearly enough to end the systemic problems
+previously described and provide adequate representation to the thousands of
+people facing the death penalty in this country.
+Lawyers must not only respond, but in doing so they must litigate
+aggressively the right to adequate compensation, to the funds necessary to
+investigate, and for the experts needed to prepare and present a defense.
+Lawyers must also bring systemic challenges to indigent defense systems.
+Attorneys for the poor-whether in assigned counsel, contract, or public
+defender systems-must refuse unreasonable caseloads and insist upon the
+training and resources to do the job right. Where these problems make it
+impossible for attorneys to discharge their constitutional and ethical
+obligations, attorneys should frankly declare their inability to render effective
+assistance.
+And lawyers must continue to bear witness to the shameful injustices
+which are all too routine in capital cases. The uninformed and the indifferent
+must be educated and reminded of what is passing for justice in the courts.
+The substandard quality of counsel for the poor and the lack of a structure and
+funding for indigent defense must become part of the debate on crime. The
+state and federal legislatures should not continue to enact capital crimes
+235. MODEL CODE OF PROFESSIONAL RESPONSIBILITY, EC 2-25, 2-27, 2-29 (1980); MODEL RULES
+OF PROFESSIONAL CONDUCi, Rule 6.1 (1983).
+236. Joseph W. Bellacosa, Ethical Impulses from the Death Penalty: "Old Sparky's" Jolt to the Legal
+Profession 29 (Dyson Distinguished Lecture, Oct. 26, 1993) (unpublished manuscript, on file with the Pace
+University School of Law).
+HeinOnline -- 103 Yale L.J. 1879 1993-1994
+
+1880 The Yale Law Journal [Vol. 103: 1835
+without considering the costs of adequate representation for the defendant and,
+even if the costs are met, whether there is anyone to defend those accused.
+Lawyers and law students need to be reminded that there continue to be people
+with desperate, unmet needs for competent representation 2 7 They need to
+be informed that the protections of the Bill of Rights are often denied those
+most in need of them-poor, minority, and disadvantaged persons facing the
+death penalty. The danger of silence is not only that lawyers will be unaware
+of the need, but also that many in society will mistakenly assume that there is
+a properly working adversary system in the criminal courts.
+It is only by the witness of those who observe the injustices in capital
+cases firsthand that others in society can be accurately informed. This
+knowledge may prompt questions about the system and its limits such as:
+whether the quest for vengeance receives too high a priority over the pursuit
+of justice in the courts; whether criminal courts should be allowed to dispatch
+people to their deaths without providing capable lawyers or even one penny for
+the investigators and experts necessary to present evidence that is constitution-
+ally indispensable to the punishment decision; whether indigent and often
+mentally limited persons accused of crimes should continue to be denied the
+protections of the Bill of Rights under the procedural default doctrines because
+of the ineptness of lawyers they had no voice in choosing; whether the
+assignment of lawyers to defend the poor should be made by judges who must
+keep one eye on the next election and, with the other, often wink at the
+Constitution; and whether courts should continue to demean the Sixth
+Amendment by employing the Strickland v. Washington standard for "legally
+effective counsel."
+These questions must be raised vigorously until courts and leaders of the
+bar realize that the judgments of the criminal courts cannot be seen as
+legitimate and entitled to respect so long as such poor quality of representation
+is tolerated. It is only by dealing squarely with these questions that there is
+hope that the courts will face reality and deliver on the promise of Powell and
+Gideon instead of indulging in wishful thinking and hollow pronouncements
+about the right to counsel. One must hope that a frank discussion of the
+deficiencies of the system will prompt courts to take their eyes off the
+embarrassing target of mediocrity and take aim at a full measure of justice for
+all citizens, especially those whose lives and freedom hang in the balance. One
+must also hope that some prosecutors, who recognize a higher calling in seeing
+that justice is done and making the adversary system work than in simply
+getting convictions and death sentences against inept lawyers, will add their
+voices regarding the need for adequate representation and limits on the power
+237. See, e.g., Stephen B. Bright, In Defense of Life: Enforcing the Bill of Rights on Behalf of Poor
+Minority and DisadvantagedP ersons Facing the Death Penalty, 57 Mo. L. REV. 849 (1992).
+HeinOnline -- 103 Yale L.J. 1880 1993-1994
+
+1994] Counsel for the Poor 1881
+of the courts. And finally, some law schools must respond and prepare students
+better for defending criminal cases.
+The Louisiana Supreme Court recently faced reality and created a
+presumption of incompetence of counsel where provision of indigent defense
+services are so lacking that defendants are not likely to be receiving effective
+representation.238 Unless the state is able to rebut the presumption at a
+pretrial hearing, a trial court is not to let the prosecution go forward until the
+defendant is provided with reasonably effective counsel.239 This approach
+responds much better to the reality of representation for indigents than
+Strickland. Nevertheless, Justice Dennis pointed out that the court could have
+done more:
+This court should establish standards by setting limits on the number
+of cases handled by indigent defense attorneys, by requiring a
+minimum number of investigators to be assigned to each [public]
+defender, and by requiring specified support resources for each at-
+torney. If a defendant demonstrates further error due to funding and
+resource deficiencies, the courts should be instructed to view the harm
+as state-imposed error, which would require reversal of the conviction
+unless the state demonstrates that the error was harmless.240
+If systemic reforms are not attainable, other state courts could follow the
+example of the Louisiana Supreme Court and prohibit the prosecution from
+going forward in the absence of competent counsel. In addition, as long as trial
+judges remain in the business of appointing defense counsel, conscientious
+judges who are concerned about fairness can order the appointment of
+experienced, competent lawyers, and just compensation at enhanced rates for
+those lawyers. Trial judges could obtain the services of the best members of
+the profession, those equal to the task of handling the highest stakes in our
+legal system, but whose time generally is spent in more lucrative pursuits. The
+appointment of the top litigators, managing partners, and bar leaders from
+firms in Atlanta, Birmingham, Jackson, New Orleans, Philadelphia, Houston,
+and Dallas to defend capital cases would undoubtedly change the quality of
+indigent defense representation in those areas. It is remarkable that courts do
+not call upon those lawyers to respond to the need.24 In addition to
+introducing litigation skills to the cases, the involvement of such lawyers might
+also result in some of them bringing their considerable power and influence to
+238. State v. Peart, 621 So. 2d 780, 791 (La. 1993).
+239. Id. at 791-92.
+240. Id. at 795 (Dennis, J., dissenting); see also Citron, supra note 169, at 501-04.
+241. Judges in Knoxville, Tennessee, issued a decree mandating all of the licensed lawyers who reside
+there to be ready to accept appointment of indigent defendants; even the Knoxville mayor, who had not
+practiced law for years, was assigned a case. Klein, supra note 80, at 420, 427, 427 n.420. However, it
+appears that no effort was made to see that those appointed had any litigation skills.
+HeinOnline -- 103 Yale L.J. 1881 1993-1994
+
+1882 The Yale Law Journal [Vol. 103: 1835
+bear upon the systemic problems, if for no other reason than to avoid future
+appointments.
+Such efforts, while urgently needed, will assure competent representation
+to only a small percentage of those facing death and, at best, may prompt
+reforms that will take years to accomplish. In the meantime, many will
+continue to be sentenced to death at trials where they will receive only
+perfunctory representation by lawyers who are not equal to the task of
+defending a capital case and are denied the resources to do the job properly.
+It is those poor people who will suffer the consequences of the failure of the
+legislatures and the judiciary to discharge their constitutional responsibilities.
+The death penalty will continue to be imposed and new capital statutes
+enacted with the continuing promise that efforts will be made to improve the
+quality of counsel in the future. But this is surely backwards. A very high
+quality of counsel-instead of minimal representation-should not only be the
+goal, but the reality before a jurisdiction is authorized to take life. Moreover,
+the promise of adequate counsel is continually broken. It has been over sixty
+years since the Supreme Court held in Powell v. Alabama that those accused
+in Scottsboro and all poor people were entitled to a higher level of
+representation in capital cases than merely being accompanied to their trials by
+a member of the bar. Yet the representation in many trials today is no better
+than that provided to the accused in Scottsboro in 1931. This longstanding
+lack of commitment to counsel for the poor is one of the many reasons that the
+effort to achieve fairness and consistency in the administration of the death
+penalty is "doomed to failure."242
+V. CONCLUSION
+Courts have issued many pronouncements about the importance of the
+guiding hand of counsel, but they have failed to acknowledge that most state
+governments are unwilling to pay for an adequate defense for the poor person
+242. Callins v. Collins, 62 U.S.L.W. 3546 (U.S. Feb. 22, 1994) (No. 93-7054) (Blackmun, J.,
+dissenting from denial of certiorari). Justice Blackmun concluded that 20 years of "tinker[ing] with the
+machinery of death" by the Supreme Court had failed to achieve "the constitutional goal of eliminating
+arbitrariness and discrimination from the administration of death." He observed "a system that we know
+must wrongly kill some defendants, a system that fails to deliver the fair, consistent, and reliable sentences
+of death required by the Constitution." As we have seen, all too often the accused does not receive the
+process that Justice Blackmun hoped would accompany a decision to impose death:
+We hope, of course, that the defendant whose life is at risk will be represented by competent
+counsel-someone who is inspired by the awareness that a less-than-vigorous defense truly
+could have fatal consequences for the defendant. We hope that the attorney will investigate all
+aspects of the case, follow all evidentiary and procedural rules, and appear before a judge who
+is still committed to the protection of defendants' rights even now, as the prospect of
+meaningful judicial oversight has diminished. In the same vein, we hope that the prosecution,
+in urging the penalty of death, will have exercised its discretion wisely, free from bias,
+prejudice, or political motive, and will be humbled, rather than emboldened, by the awesome
+authority conferred by the State.
+HeinOnline -- 103 Yale L.J. 1882 1993-1994
+
+1994] Counsel for the Poor 1883
+accused of a crime. Unfortunately, the Supreme Court has not been vigilant in
+enforcing the promise of Powell and Gideon. Its acceptance of the current
+quality of representation in capital cases as inevitable or even acceptable
+demeans the Sixth Amendment. It undermines the legitimacy of the criminal
+courts and the respect due their judgments. No poor person accused of any
+crime should receive the sort of representation that is found acceptable in the
+criminal courts of this nation today, but it is particularly indefensible in cases
+where life is at stake. Even one of the examples of deficient representation de-
+scribed in this Essay is one more than should have occurred in a system of
+true justice.
+Providing the best quality representation to persons facing loss of life or
+imprisonment should be the highest priority of legislatures, the judiciary, and
+the bar. However, the reality is that it is not. So long as the substandard
+representation that is seen today is tolerated in the criminal courts, at the very
+least, this lack of commitment to equal justice should be acknowledged and the
+power of courts should be limited. So long as juries and judges are deprived
+of critical information and the Bill of Rights is ignored in the most emotionally
+and politically charged cases due to deficient legal representation, the courts
+should not be authorized to impose the extreme and irrevocable penalty of
+death. Otherwise, the death penalty will continue to be imposed, not upon
+those who commit the worst crimes, but upon those who have the misfortune
+to be assigned the worst lawyers.
+HeinOnline -- 103 Yale L.J. 1883 1993-1994
+
+HeinOnline -- 103 Yale L.J. 1884 1993-1994

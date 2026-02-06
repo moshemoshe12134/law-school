@@ -1,0 +1,300 @@
+SUMMERS v. TICE
+33 Cal. 2d 80 (1948)
+California Supreme Court
+
+====================
+CASE SUMMARY
+====================
+
+Court: California Supreme Court
+Citation: 33 Cal. 2d 80, 199 P.2d 1 (1948)
+Decided: November 17, 1948
+
+PARTIES:
+- Plaintiff: Charles A. Summers
+- Defendants: Harold W. Tice and Ernest Simonson (both appellants)
+
+TOPIC: Alternative Liability - Burden of Proof Shifting - Joint Tort Feasors
+
+KEY HOLDING:
+When two or more defendants act negligently and only one caused plaintiff's injury, but plaintiff cannot determine which defendant actually caused the harm, the burden of proof shifts to defendants to absolve themselves. If neither can prove they didn't cause the injury, both are liable.
+
+====================
+FACTS
+====================
+
+The Hunting Trip:
+- November 20, 1945: Plaintiff Summers and two defendants (Tice and Simonson) went quail hunting on open range
+- All three hunters were armed with 12-gauge shotguns
+- Shells contained 7½ size shot (birdshot)
+- Before hunting, plaintiff discussed safety procedures:
+  * Exercise care when shooting
+  * "Keep in line" (stay abreast of each other)
+
+The Incident:
+- During hunting, plaintiff proceeded up a hill
+- Hunters formed points of a triangle
+- Defendants had unobstructed view of plaintiff
+- Defendants knew plaintiff's location (75 yards away)
+- Defendant Tice flushed a quail
+- Quail rose 10 feet and flew BETWEEN plaintiff and defendants
+- BOTH defendants shot at the quail
+- Both shot in plaintiff's direction
+- One shot struck plaintiff in right eye
+- Another shot struck plaintiff in upper lip
+
+Injury:
+- Serious injury to right eye
+- Injury to upper lip
+- Plaintiff could NOT determine which defendant's shot caused which injury
+
+====================
+PROCEDURAL HISTORY
+====================
+
+- Trial Court (without jury):
+  * Found BOTH defendants negligent
+  * Found plaintiff NOT contributorily negligent
+  * Found shots from defendants caused plaintiff's injuries
+  * Entered judgment against BOTH defendants
+- Appeal: Both defendants appealed
+- California Supreme Court: AFFIRMED
+
+====================
+LEGAL ISSUES
+====================
+
+1. Were defendants negligent in shooting toward plaintiff?
+
+2. Was plaintiff contributorily negligent or did he assume the risk?
+
+3. Can judgment against BOTH defendants stand when only ONE actually caused the injury?
+
+4. Must plaintiff prove which specific defendant caused the injury, or does burden shift to defendants?
+
+====================
+DEFENDANTS' ARGUMENTS
+====================
+
+Defendant Simonson's Arguments:
+1. Insufficient evidence of negligence
+2. Plaintiff was contributorily negligent
+3. Plaintiff assumed the risk by going hunting
+4. Defendants not joint tort feasors (not acting in concert)
+5. Plaintiff must identify which defendant caused injury
+
+Defendant Tice's Arguments:
+1. Did not argue insufficiency of negligence
+2. Evidence shows shot came from Simonson's gun (admissions to third persons)
+3. Not joint tort feasors
+4. Court failed to find which defendant caused injury
+
+====================
+COURT'S REASONING
+====================
+
+I. NEGLIGENCE
+
+Finding of Negligence Proper:
+- Evidence showed both defendants shot at quail
+- Both shot toward plaintiff who was uphill
+- Both knew plaintiff's location
+- Reasonable persons of ordinary prudence would not shoot toward another hunter
+- Issue of fact for trial court
+- Trial court's finding supported by evidence
+
+II. NO CONTRIBUTORY NEGLIGENCE/ASSUMPTION OF RISK
+
+Plaintiff's Actions Reasonable:
+- Suggesting hunters "stay in line" shows caution
+- Going uphill at angle not unreasonable
+- Plaintiff also cautioned defendants to "use care"
+- Defendants knew plaintiff's position
+- No automatic assumption of risk from joining hunting party
+- "Such a tenet is not reasonable"
+- Trial court justified in finding no assumption of risk
+
+III. ALTERNATIVE LIABILITY DOCTRINE
+
+The Problem:
+- Traditional rule: plaintiff must prove which defendant caused injury
+- Here: plaintiff canNOT determine which defendant's shot hit him
+- Only ONE defendant caused the injury to the eye (the major damage)
+- But impossible to tell which one
+
+Policy Justifications for Shifting Burden:
+
+1. Both Wrongdoers:
+   - Both defendants were negligent toward plaintiff
+   - Both created the dangerous situation
+   - "They are both wrongdoers--both negligent toward plaintiff"
+
+2. Practical Unfairness:
+   - Plaintiff placed in "unfair position" of pointing to which defendant caused harm
+   - If one can escape, the other may also
+   - Result: plaintiff is "remediless" despite clear negligence
+
+3. Better Position to Prove:
+   - "Defendants are in a far better position to offer evidence to determine which one caused the injury"
+   - Each defendant knows whether they actually hit plaintiff
+   - "It should rest with them each to absolve himself if he can"
+
+4. Justice Requires:
+   - Dean Wigmore: "The real reason for the rule that each joint tortfeasor is responsible for the whole damage is the practical unfairness of denying the injured person redress simply because he cannot prove how much damage each did, when it is certain that between them they did all"
+   - Better to make wrongdoers sort out liability than deny innocent victim recovery
+
+IV. COMPARISON TO OTHER CASES
+
+Similar Reasoning: Ybarra v. Spangard (operating table case):
+- Patient injured while unconscious
+- Could not identify which medical personnel caused injury
+- Held: all persons connected with operation liable
+- Must explain or be held liable
+- "Chief evidence of true cause...practically accessible to [defendant] but inaccessible to injured person"
+
+V. BURDEN SHIFTING MECHANICS
+
+New Rule:
+- Plaintiff makes out prima facie case by showing:
+  * Both defendants were negligent
+  * One of them caused the injury
+  * Impossible to determine which one
+- Burden shifts to EACH defendant to prove he did NOT cause injury
+- If neither can absolve himself → both liable
+
+VI. DISTINGUISHING OTHER CASES
+
+Not Acting in Concert (Technically):
+- Defendants argue they weren't acting together
+- Court: cases finding liability "are straining that concept"
+- Real basis: preventing defendants from escaping when both negligent
+
+Not Independent Tortfeasors (for these purposes):
+- Distinguished from cases requiring apportionment among truly independent actors
+- Here: both created same risk, one incident, one injury
+- Policy reasons support treating as liable on same basis as joint tortfeasors
+
+====================
+HOLDING
+====================
+
+Rule of Alternative Liability:
+When:
+1. Two or more defendants act negligently
+2. Only one defendant caused plaintiff's harm
+3. Plaintiff cannot determine which defendant caused the harm
+4. Defendants are in better position to prove causation
+
+Then:
+- Burden of proof SHIFTS to defendants
+- Each defendant must prove they did NOT cause the injury
+- If defendant cannot absolve himself → liable
+- If neither can prove non-causation → BOTH liable
+
+Application to This Case:
+- Both defendants shot negligently toward plaintiff
+- One shot caused the injury
+- Impossible to determine which defendant
+- Defendants know whether they caused injury
+- Neither proved they didn't cause it
+- BOTH LIABLE
+
+Judgment: AFFIRMED against both defendants
+
+====================
+SIGNIFICANCE
+====================
+
+Revolutionary Doctrine:
+- Shifted burden of proof in special circumstances
+- Recognized policy over strict causation requirement
+- Influenced development of tort law nationwide
+
+Requirements for Application:
+1. Small, identifiable group of defendants
+2. All acted negligently
+3. All exposed plaintiff to similar risk
+4. Only one actually caused harm
+5. Plaintiff cannot determine which one
+6. Defendants in better position to know/prove
+
+Limitations:
+- Not applicable when:
+  * Many potential defendants
+  * Defendants not all before court
+  * Long time period (unlike single incident)
+  * Independent actors in different contexts
+
+Impact on Future Law:
+- Foundation for market share liability (but different)
+- Cited in medical malpractice cases (Ybarra line)
+- Adopted in many jurisdictions
+- Restatement (Second) of Torts § 433B(3)
+
+====================
+KEY QUOTES
+====================
+
+"When we consider the relative position of the parties and the results that would flow if plaintiff was required to pin the injury on one of the defendants only, a requirement that the burden of proof on that subject be shifted to defendants becomes manifest."
+
+"They are both wrongdoers--both negligent toward plaintiff. They brought about a situation where the negligence of one of them injured the plaintiff, hence it should rest with them each to absolve himself if he can."
+
+"The injured party has been placed by defendants in the unfair position of pointing to which defendant caused the harm. If one can escape the other may also and plaintiff is remediless."
+
+"Ordinarily defendants are in a far better position to offer evidence to determine which one caused the injury."
+
+"[T]he practical unfairness of denying the injured person redress simply because he cannot prove how much damage each did, when it is certain that between them they did all; let them be the ones to apportion it among themselves."
+
+====================
+LATER APPLICATIONS
+====================
+
+Frequently Cited For:
+- Alternative liability doctrine
+- Burden shifting in causation
+- Policy-based modifications to traditional tort rules
+- Predecessor to market share liability
+
+Distinguished From:
+- Market share liability (many manufacturers, long time period)
+- Concert of action (defendants acting together)
+- Res ipsa loquitur (inference of negligence, not causation)
+
+Modern Applications:
+- Small group product liability
+- Medical device failures with multiple potential sources
+- Environmental contamination by neighboring landowners
+- Construction defects by multiple contractors
+
+====================
+CONCURRENCES/DISSENTS
+====================
+
+None. Decision was unanimous.
+Justices concurring: Gibson, C.J., Shenk, J., Edmonds, J., Traynor, J., Schauer, J., and Spence, J.
+
+====================
+EXAM TIPS
+====================
+
+When to Apply Summers v. Tice:
+✓ Small group of defendants (typically 2-3)
+✓ All acted negligently
+✓ All created same type of risk to plaintiff
+✓ Harm clearly came from one of them
+✓ Impossible to tell which one
+✓ Single incident/occurrence
+
+When NOT to Apply:
+✗ Many possible defendants
+✗ Long time period
+✗ Not all possible tortfeasors before court
+✗ Defendants not all negligent
+✗ Plaintiff can identify the tortfeasor
+✗ Independent actions in different contexts
+
+Remember:
+- Burden SHIFTS to defendants to prove non-causation
+- Policy: wrongdoers shouldn't benefit from uncertainty they created
+- Fairness: defendants know more than plaintiff about who caused harm
+- Limited doctrine: not as broad as market share liability

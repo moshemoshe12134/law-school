@@ -1,0 +1,560 @@
+SPEAKER 0
+Sorry. And I was like Like covering I So it's not like a I. 90. And like. I did. Yeah. Oh Good Morning.
+
+SPEAKER 1
+Welcome back. Feels like it's been a long time. I hope you had an OK snow day, stayed warm, stayed safe, maybe played in the snow a little bit. This is torts. Remember you're taking torts this semester. As usual, let's start off with just a few breaths to settle in. Now it's freezing outside. We're just warming up. We're inside now and Let's settle into our seats so you can relax your eyes or close your eyes or whatever you like with your eyes. And just breathe in slowly, more slowly than you usually do. Really feeling like you can take your time. Breathing out just as slowly. Again, taking your time. If you like, at the top of your breath, just hold it for a second before breathing out. As you breathe out, feel your body settle into the seat, feel the weight of everything. Right here in this classroom. Leaving everything outside and just being here. Then one more time at your own pace, really just taking your time. And when you're ready, you can. Gently open your eyes, remember that you're in class. You can look up here, look at the board. As always, we have our agenda on one side. And then the themes on the other. The Jen does the stuff we'll do today. The themes are, as they sound like themes that will show up over time during the course. Now they'll become more familiar to you with the repetition, you'll gradually come to understand them. We'll talk about them as well, and some of these you already saw from last time, so you're starting to see these things come back. Remember where we are in the course. Here's the agenda, but just to give a little bit more big picture overview, remember this picture which we only briefly touched on. I think it's starting to make more sense to you now that you've gotten into the material a little bit more. Here's kind of two ways to map torts, like what is a tort, how do you do a tort? How do you think about torts? These are pretty conventional. I won't dwell on these, but because you will have heard of them, um, you'll see them in the materials. I want you to have seen them on the board here as well. The big picture on the top right is just this idea of, here's how the subject is laid out for us. And in particular, here's what we're going to cover and maybe not really cover. So torts, as you might recall, mostly we're going to be focusing on the law of accidents. Torts is what you can. Get money from other people for when they injure you and a lot of those are accidents. And so what we'll be talking about is accidents that happen we've seen an electrocution, we've seen a ski accident now we've seen a swimming accident, OK, a bunch of accidents. And then the question is, well, who has to pay for that? Really what we're talking about is moving some money around. Who's gonna pay somebody for their injury or nobody, and then they just have to bear it themselves. That's really the core question here, as in all civil liability in a way. Who has to pay for some injury or not, or not pay for an injury? So in this section of the course, which is most of our subject matter, we will be talking about two main ways of establishing that someone owes you the money for injuring you. One is negligence, and this is what we are dwelling on quite a lot today and in the next couple of days. It's also where we started with our example last time, although we didn't put it in these terms, we're basically talking already about negligence. And then later in the course we'll touch on this thing called strict liability, which is a way that you might say somebody should. Have to pay for your injuries, even if they weren't careless, even if they were careful enough in some sense. It's just that they were creating such a big risk that just doing the thing they were doing like explosives or whatever. Already they're going to be on the hook for their injuries, OK? And so with these two basic principles, we're also gonna work out a few other things like products liability which touches a little bit on both. These words are thrown around a lot in law, in torts, and also you'll, as you'll see very soon, if you haven't already, in Professor Harcourt's rim class. Let me just say right now, keep these classes separate. When you talk about strict liability crimes, do not try, don't, just don't, don't try to connect it to what we're gonna be talking about strictly. Your brain will melt. It doesn't make sense. They're not actually reconcilable. They're not actually the same idea. It's just the same words being used in law because law likes to use the same word and what we'll see a lot in this course is words that get thrown around and mean all kinds of different things, even within torts. Like the word duty and torts, we'll get to that later. No one really knows what that means, and we'll see like judges talk about duty in like 10 different ways. And that's OK because each, in each application, we will know what they're trying to do. We'll know how to use it, we'll practice using it, but again, just a conceptualization, often, I mean, it's an interesting intellectual exercise. Have fun with it, but don't feel like it's necessary for, for our course and especially not. Trying to bridge across courses you would talk about criminal negligence, you will talk about strict liability crimes just uh uh. Keep them, keep them separate. OK. Maybe after you finish the semester and sort of think about it over the summer and you have this insight, great, but for now, it's better for each of, for, for you and each of your courses to keep them in their silos. OK, so what's this other picture? Um, oh, by the way, intentional torts, we'll talk about intentional torts a little bit, as I mentioned last time, but only touching on things that are sort of intentional. Again, not really getting into things like assault, fraud. Those kinds of things which will show up in your rim class. I'll leave that to Crim, OK. The other part, what's this other thing? What does this need to show? Some people call this the elements of a tort, these are things that kind of make up a tort's case. And so you need to do this for negligence. You need to do this in a way for strict liability. You need to do this for gross negligence. You need to do this for a recklessness case. You need to do this for a trespass case, sort of, OK. So these are what people often refer to as like, here's how you construct a torch breach, duty, causation, harm. We're not going to dwell on that very much because what we'll see is that in a way it's not really 4 things, maybe it's kind of two and these things blur into each other, so it's not going to be especially helpful except as kind of a schematic, a kind of rule of thumb for you in thinking about how to build up a torts case. What we're gonna start with is the idea of a breach of some duty. And Our first major, major illustration of that. Is how do you show negligence. How are you to show that someone was so careless that they now are on the hook, potentially, potentially on the hook for paying for somebody else's injury. That's what we think of as the breach of the duty. Well, what's the duty here? What are you breaching? Ah, you know, just being negligent. You're breaching some duty that you have not to be negligent. It's circular, so don't get too hung up on the breaking apart breaching duty for right now. We will do that later. We will do that maybe in a couple of weeks, but for now just think of negligence. Everything we're talking about is showing that someone was negligent, as showing that they breached a duty, 1 and 2 together breached a duty. So this is where we are. Again, later in the course, we'll talk about causation, what does it mean to cause something, what does it mean to cause something, and then still be uh kind of like let off the hook. You might have caused the injury and yet you're still let off the hook. That's also in old fashioned tort talks, uh, talking the way judges talk about it in the old days, um, considered a part of causation. We'll talk about it as scope of liability or something more like duty, but again, we'll get to that later in the course. The idea that there, there's gotta be some connection, enough of a connection between what you did, which is the breach of the duty, which is the negligent behavior, and the outcome. It has to be that connection. If you were drunk driving and you're creating all this risk and you're making the world dangerous for everyone, but nobody actually gets injured, tort law does not care about that. Criminal mate. Regulations might, traffic laws might, but tort law, the idea that you have to pay for somebody's injury doesn't kick in until someone is actually injured. And that injury is connected enough to what you did. So that's what we'll talk about later, that's 3 and 4. OK. So we'll get to that again in a couple of weeks. So this doesn't need to make too much sense to you right now. It's not gonna make that much sense again until we actually get to these subjects. Remember what I said about being patient. Remember about getting the pieces and then they come together only after you have the pieces. That's what will happen here, but I wanted to give you a quick overview before we. Dive into the first thing which is going to be negligence. So here's where we are. Remember where we started, remember how far we got. We already have an accident to talk about. And it was a weird accident, raising all kinds of interesting arguments that you might make. That was the point of it. We used the little Leo Adams case, not for famous Cardozo reasoning or whatever, but just as a fact pattern to practice making up stuff. What are you making up and why are you making up stuff when you're arguing about a tort. Especially a negligence case, well, you're arguing to aunt and uncle and the jury. They're not lawyers. The judge might give them some instructions about like, here's what the word negligence means, no one understands it anyway. Here's what it means, but aunt and uncle, you decide who's liable. And as we'll see today, aunt and uncle are going to make that call. They are the law really in this case. So you're arguing to aunt and uncle about like, yeah, the trolley companies should pay, yeah, the bridge people should pay. Yeah, um, little Leo, it's his own darn fault. He should pay, he should bear his own injuries. OK. You're making those common sense-based arguments to aunt and uncle, and that's where we started last time. Now if you think about the things we came up with last time, the kinds of questions that came up in our argumentation, just like as you were doing it without really much knowledge of how tort law works. Here's all the things that we touched on. And these will be the topics that we will cover in the next couple of weeks. First of all, it's like, well, how careful should somebody have been? How careful should the trolley company have been, how careful should Leo have been, how careful should the bridge builders have been about I don't know, putting up a sign maybe, or, I don't know, building a fence, maybe. Just not letting people cross over there. Not having the wires so electrified in an unprotected way, if you're talking about the trolley company, you're talking about little Leo, maybe he could have been careful in not trying to electrocute himself, that's the way to be careful. And then we started talking about things like, well, but it's so costly to build these kinds of protections or to bury the wire underground, that's impossible. What do we do about that? How do we take the costs and the benefits both into account? Tort law, as you'll see in negligence, is not interested in preventing every accident in taking every precaution. It's only interested in the ones that are reasonable. Or you might say, worthwhile. Whether reasonable it means the same thing is worthwhile, we'll debate in a couple more days, but we'll get there. What about um Little Leo versus the Trolley company. How do you think, do we, do we think about little Leo's carefulness and his mental process and what he should have done in the same way that we think about a corporation? When we think about the swimmer in that other case, the same way we think about. The VP Oil company and all its Partners like Halliburton and Transocean, do, do we, do we use the same ideas of fault, of blameworthiness, of having to pay, of negligence for a 12 year old kid and for Exxon? Or for Purdue. Same? Same law, same thing, same idea. So we'll get to that. What about little Leo's own role? It's his own darn fault. What do we do about that? Of course, as you already know from today's readings, we'll talk about that quite a bit. Who decides? We already talked about this, really, you're pitching this to aunt and uncle. You're not making legal arguments in tort law at this stage. We'll do some of that later, right? Now, it is all about using the facts because you are pitching it to aunt and uncle and the jury. And so this is why I'm asking you to focus so much on the facts right now in these cases, because that's what we're working with. That's your raw material. There's almost nothing to go with on the law side, it's like a reasonable person, blah blah. But like, then you have to come up with the arguments, and that's all about using the facts that you have, using the inferences you can draw from those facts. And then the last thing, of course, Is the whole question of wait a second. Are you responsible for Accidents for injuries that are just kind of freak accidents. No one could have foreseen that. No reasonable person could have foreseen that. Should anybody be on the hook for that? And that's Cardozo's. Line of argument there, trolley company couldn't foresee that it would happen here, it would be this kid who does this. And then of course you can think about the kinds of facts that you might want to bring in in order to make those arguments. Like the trolley company knows that people get electrocuted like this all the time. There have been like 12 cases against trolley companies by this point about this exact kind of thing. How is that unforeseeable at this point, and so on, right? Those are the kind of facts you want to work with. Again, not much definition in the law to work with, but a lot that you bring to it in making arguments by using facts imaginatively. So it's going to be very fact heavy for this first part of the course. OK. That said, let's get into at least how so far tort law most of the time defines the idea of negligence. And when we say it defines negligence, well, what do I mean when really aunt and uncle are making the decision? Well, it's because the jury gets instructions from the judge about saying, here's what negligence means, aunt and uncle, you figure it out. So there is some content, it's not completely free of content. There is some content, there is more and more structure that we'll see that courts have packed on to this basic idea, and we'll see that as courts pack on more structure, they're kind of taking things a little bit away from aunt and uncle, or at least trying to manipulate how aunt and uncle can think about something. Or can't, aren't allowed technically to think about something. So that's really what we're talking about in this whole section when we're getting to definitions and reading these jury instructions, we're seeing courts manage how aunt and uncle make that call. So let's start off just by reading the jury instructions. Sophia Travis, do you have uh the jury instructions in front of you? And I just picked Illinois. It's and all the states are going to sound kind of like this. And let's read, um, just very, very first page, 10.01. And then we're gonna read 10.02 and 10.04.
+
+SPEAKER 2
+OK. When I use the word negligence in these instructions, I mean the failure to do something which a reasonably careful person would do, or the doing of something which a reasonably careful person would not under circumstances similar to those shown by the evidence. The law does not say how a reasonably careful person would act under those circumstances. That is for you to decide.
+
+SPEAKER 1
+OK, go ahead and read 10.02 together with this.
+
+SPEAKER 2
+When I use the words ordinary care, I mean the care a reasonably careful person would use under circumstances similar to those shown by the evidence. The law does not say how a reasonably careful person would act under those circumstances. That is for you to decide.
+
+SPEAKER 1
+OK, all right, so that's super helpful, right? So, Sophia, we now know exactly what a trolley company should have done here because jury instruction 10.01. In Illinois, it tells you precisely that a trolley company is supposed to put up 4 signs about electrical wires. Insulate the wires only on the top, obviously not on the bottom, for 10 ft, and then also I don't know. What else could they do? Build a fence? They could build a fence. Is that what you just read to us? No, no, that's not what you read. Does the law say what a reasonable, careful person should do under these circumstances, a reasonable person, including a trolley company? No. No. The law does not say, as you just read to us, how a reasonably careful person would act under those circumstances. So who decides?
+
+SPEAKER 2
+The jury, if they're getting these instructions, the jury.
+
+SPEAKER 1
+Now, you had a fantastic civil procedure professor. You understand law and fact, you understand it's blurry and so on, but judges are fact finders or law finders.
+
+SPEAKER 2
+Lawfinders, well, they are now, but in the civil procedure. Um I think law.
+
+SPEAKER 1
+OK, what do you have in mind?
+
+SPEAKER 2
+Uh, the judge or the jury, oh my God, I thought you said the judge. I'm sorry, I meant the jury. Um, yeah, the jury are fact finders.
+
+SPEAKER 1
+Yeah, juries are fact finders. Yeah, they do mixed questions a lot of fact, remember that they apply a lot of fact, yeah, I remember that. But what is this jury instruction telling the jury to do?
+
+SPEAKER 2
+Find something kind of like the law, yeah, in applying
+
+SPEAKER 1
+right in this mixed question of law and fact thing that the juries are doing as the quote unquote fact finder, they are actually creating the law for this situation. Who's going to be the one that says, yes, trolley company, the law actually required you, the law of torts, negligence law required you to put up a fence. Who's actually gonna make that call? The jury. The jury. If you think that that is a regulation or a law in its own right. It's actually the jury that's gonna do this. So instructions are super clear. They don't tell you what to do. It is for who to decide. The jury. That is for you to decide. The jury, both of these instructions. That is for you to decide. The law does not say under these circumstances, what. Actually is required. That's up to aunt and uncle. OK, so you see the crucial role of aunt and uncle, not just in deciding who wins and who loses, but actually deciding what was legally required so as not to be negligent in this particular case. Right? So, how is aunt and uncle supposed to think about this? Are we talking about Somebody doing their best or intending to not cause an accident. I didn't mean to cause the accident. Is that really what? We're talking about here or something else. Tolliver Man, what are we talking about here? Are we talking about someone's intent, the trolley company didn't intend Little Leo maybe or maybe did not intend to electrocute himself? What are we talking about here? Is it that? That the jury is supposed to be imagining is the jury is supposed to be trying to get inside the head of the trolley company or little Leo or. I think more so. Trying to connect the actual actions or the event to the injury that was caused to the to the injury that was caused, they'll do that later. That's the causation part, but right now just for figuring out whether they were negligent. In what they did To put it in terms that you will again hear in crim as well, subjective versus objective. Are we talking about subjectively inside the head of the trolley company? They meant well, they didn't mean well, they were. You're in good faith trying to prevent accidents, or are we talking about something. Different from that, something objective. More so the objective standard, yeah, yeah. And who is the jury supposed to be imagining then as they think about. The objective way of viewing what carefulness should have been. Who's, who's the, who's this character they're supposed to imagine? What a reasonable person in general would do. Reasonable person. That's it. The reasonable person standard is the heart of negligence analysis. Everything we talk about from now until a couple of weeks from now is going to all be about ways of understanding what it means to ask the jury to imagine what a reasonable person would have done. You can just let them use their common sense. Aunt and uncle maybe know a lot about trolleys. They've ridden trolleys. This is how you get around. We don't know much about trolleys, but they sure do. We'll talk about aunts and uncle's own ability to imagine just based on life experience. Uh, in a couple of days, actually, next, next class. Aunt and uncle are asked to imagine the reasonably careful, reasonably prudent, reasonable person's amount of carefulness. And your job then is to help them imagine that. So we're not interested in the actual trolley company and their internal memos and what they said about oh we don't care about accidents ha ha ha I mean that stuff is gonna come in it'll probably shade the jury's views but that's not really what we're asking the jury to do it's not to find that kind of intent based fault we're saying only that we're judging what you did against what a reasonable person here, a reasonable trolley company. would have done You did not live up to what that objectively reasonable person would have done. That's it. That's all they have to work with. So let's just mark that down for a second. Objective or subjective, it's gonna be objective. Now, however, what if we play with this a little bit? What if we say, whoa, what we're talking about is objective just in the, in generic imagination or under these particular factual circumstances in this situation. If someone had the same similar situation or circumstances. Yes, under the circumstances or under circumstances that are similar, as the instructions might say. Yes, right? As the instructions you just heard say, under circumstances similar to those shown by the evidence. So We're not thinking about the reasonable person completely in the abstract. We're not talking about the ideal trolley company in some fantasia, right? Or a trolley company that is specifically this one with these emails that you can dig up about their internal decision making. That's, that's too subjective. But what about something in between? Right, so Oliver, what have I said, um, Uh, the reasonable, let's say that, um. Let's say that we're judging your behavior for negligence. And we say, well, it has to be the reasonable person. But we say under these circumstances, which means that we're talking about really the reasonable person who's a 1 L whose initials are TM sitting in 1234, 5th row and towards. These are circumstances just to be clear, we're not talking about you. We're not talking, we're not getting inside your head, but a reasonable person who is on call right now and
+
+SPEAKER 0
+right. Does that work?
+
+SPEAKER 1
+Is that too far? I think it could work if it informed the situation more like if, yeah, I think it could work. Oh, maybe, right? Look, if it has some part, some yes, maybe some no, which parts yes, which parts no? I guess it depends on it depends on whether it informs, right? The initials feel initials. Like, but maybe like where I'm sitting could be or the fact that I'm on call could be relevant. You're a 1 out. OK, let's say that you cause an electric shock because you were playing with the plug and then the person next to you, like they get zapped, something like that. You're a 1 out. Does that matter? Yeah, maybe because you don't know how these rooms work. 5th row, does that matter? Yeah, maybe because that row's wiring is kind of like always funny and everybody knows that. Or right, it could. The Toliver's answer is like you have to think about whether it's relevant. To the situation in some sense that is not the same as you're trying to get inside this one person's head. Of course that is fluid, of course that is blurry. One side will be pushing the limits on that, the other side will be pushing back. The judge is gonna have to make a call about where on this objective subjective continuum, if it's a continuum. We're gonna draw the line and more specifically, as Tolliver says, the judge is gonna make the call about which things are actually the things that we need to be thinking about. So the judge is still gonna make the call about what aunt and uncle can or cannot really think about in thinking about all this, imagining the reasonable person, objectively reasonable person under the circumstances, which circumstances? OK, somebody's gonna have to make the call on that, but you get the idea. Of course later today as we get into talking about children and so on, we'll see that. There is actually some law. About which circumstances can and cannot matter. If this were a kindergarten class and we're talking about a kindergartner named, you know, with initial TM and sitting in the such and such row with an electrical plug, right, that becomes a different analysis. Different things maybe are allowed to be brought in in arguing to aunt and uncle, so we'll see that later. But right now, it's very generic sounding, reasonable person under the circumstances, a little more detail there, but still, object is not inside their brain. But in their circumstances, not in their brain, but in their circumstances. Very fluid Make the arguments that you can. Using that kind of guidance. OK. Who decides? Well, we've already been talking about this, of course, this is the jury. How to make arguments, how's already answered this for us, you're using the facts that you have. And remember when I say that you're thinking about not just actual evidence in front of you but the inferences you can draw from the evidence, inferences that. Oh, the trolley company could have foreseen this, they could have totally seen this coming. You don't know that we're not looking inside their brain to see if their internal emails said, hey, we know this is coming, we know some kid's gonna electrocute himself. We're not doing that in courts. But we are gonna look at evidence saying they've been sued 10 times. How could they not foresee this? Again, getting close. The circumstances, the evidence, the facts that matter, we're not inside their head, their intentions, but we are thinking about a reasonable company that's been sued 10 times for electrocutions could probably foresee something like this happening again, right? That kind of thing. So remember that you're also using the facts to allow you to draw inferences. OK. So here's our basic framework. Now what is this picture I've drawn up here? If it's useful for you, great. If it's not, don't worry about it. What I mean by this is this is a dial of carefulness. You can be like 0 careful or you can be infinitely careful. You cannot take any precautions or you can completely bury your trolley wire underground so your trolleys can't even run. Because you don't want anybody to get hurt, 0 to infinite amount of carefulness. OK. And at some point on that dial, The jury's gonna say, all right, you were careful enough. You're off the hook. Negligence analysis is not going to make you pay for someone else's injury because you were actually reasonably careful. You took the amount of care that a reasonable person would have taken. You put up the high enough fence that a reasonable bridge company would have put up. You put up enough insulation that a reasonable trolley company would have put up. And at that point. Whoops. At that point we can say that you're kind of in the green. You're safe, no liability. But if you fall short of that, Now you're liable. Potentially, right, if there's causation and everything. So all it is is just saying that the jury is really in a way, if you could think of it as a zero to infinity kind of amount of carefulness, the jury is just picking some amount of care that you should have taken. And your reality is that you are short of it or you are beyond it, and that's what the evidence is going to say, that's a fact finding. But what the jury is doing in making the call, making the law, as we were talking about with Sophia, is picking that point, saying in this situation, this is how much care a reasonable trolley company would have taken, therefore, that's the law in this case, you might say. The law as applied to this case requires this much care. And so those question marks, that's what we're trying to find. That's what you're trying to push. OK. And so, Sophia just real, you know, back to this idea of the jury setting that point, if you were arguing for the injured party, the plaintiff, let's call her. You want the bar to be low or high. You want to say that in this situation, you should have taken a lot of care or nah, you didn't have to take a lot of care in this case.
+
+SPEAKER 2
+I would want the bar to be high. They should have taken a lot of care.
+
+SPEAKER 1
+You should have taken a lot of care. It's so easy to have like put up really high fences. Why didn't you do that? Any, anybody would have done that. So obvious and a warning sign. How can you not put up a warning sign? What are you talking about? How can you not insulate a little more? The red region is growing more and more room for liability, right, because the actions, the actual behavior of the trolley company or the bridge company or whoever is more likely to fall short of the higher bar that you've pushed for. And of course if you're on the other side, if you're on the defense side, Sofia. You're pushing.
+
+SPEAKER 2
+I'd want it a very low bar, very low bar,
+
+SPEAKER 1
+right? The law is not telling you where that bar is. That's why it's a question mark. Remember, you're arguing to the jury where that bar should be. Should it be a really high standard of care, high amount of care? Should be a low amount of care. And depending on which side you're on, you're making those arguments, OK? So if that's helpful, that's a picture that I will refer to, you know, over time, you'll see it again. Um, if it's not helpful for you to think in terms of this dial, then don't worry about it. But the idea is that you're gonna be liable or not liable based on whether or not you meet the standard that this jury is about to pick for you based on these very generic sounding instructions and the arguments from both sides. All right. So, one thing for us to do now is just to practice with this. You have a basic idea of the abstract structure of this, but let's really put it to use. OK. And what we'll do is we'll use the facts of the core case. This is the swimmer case. To practice making arguments. Remember we did the whole argument making thing with little Leo last time. We won't go back to that now. We have a new fact pattern to play with here. But this time we're going to start phrasing our arguments, not just with the common sense and not just with the underlying aims of tort law and what the law should be doing here, but with the actual language of tort law, with the actual language you see in these jury instructions. So what we're doing is we're tying the doctrine which is embodied in these jury instructions to how you make arguments. In other words, we're learning how to apply. The law of negligence by doing this exercise. Why are we doing this? That's why we're doing it. All right, so core. Maya Rubin. Will you just remind us about what you remember about the facts of this, uh, particular case here?
+
+SPEAKER 3
+Yeah, so I believe it was some college students went on vacation to this park, um, and one, they didn't know how deep the water was. And one of them at one point dove in thinking that the water was should I back up.
+
+SPEAKER 1
+OK, no, that's great. This is good. That's right. That's the case. What, what, let's get some facts. Let's, let's really imagine the situation. All right, so are they at the ocean? Are they at a lake? Are they, what's going on?
+
+SPEAKER 3
+Uh, I believe they're at a lake. They're at a lake.
+
+SPEAKER 1
+That's important. They're at a lake, OK. And are they just like jumping off from, you know, the grass? They're like, woo.
+
+SPEAKER 3
+Uh, I believe there's a dock that goes out onto the lake and there's like a metal ladder at the end of the dock.
+
+SPEAKER 1
+All right, there's some dock. OK, so this is how docks work, right? You know, you know what it's like a pier or dock, right? Right, yeah, and so they're over here like jumping off. Something like that. Something like that, yeah, OK, yeah, but what's wrong with this picture of the dock. O How long is the dock?
+
+SPEAKER 3
+Let me see how long the dock is. I don't remember off the top of my head.
+
+SPEAKER 1
+All right, let's find it. This is useful for us. It's a fact you can use. Mhm Uh, extends 375 ft into the lake. 375 ft. OK, how far is 375 ft roughly? How many yards is a lot of yards, a lot of yards. Let's, let's just hypothesize that there maybe are 3 ft in a yard. All right, how many are we? Are we like more than 100 yards? Yes, more than 100 yards. More than 100 yards. OK, so how long is, uh, an American football field or, uh, soccer slash football field? 100 yards, 100 yards or 100 m? Yeah, OK. This is here we have, we got this. Uh, you want me to hold. All right. Also, just, I mean, there's different ways to visualize this, but this is, this is maximum, let's say this is 10 ft. So how many times this distance are we talking is this do? A lot. 30 times this 30 37.5 times 37.5 times this length. OK, so however, thank you, you're gonna go, right? Don't get electrocuted. However you want to imagine this, right, you can think about 37.5 times that distance, or you can think about looking down from one goalpost to the other goalpost of an American football field or from one soccer goal to the next soccer goal. And imagining a little bit beyond that. And you're imagining, what are you're imagining, a dock, a pier, like just this these planks of wood going all the way down past that goalpost or past that goal, and then some. That's how long this thing is, OK? It is a useful fact, right? Very, it's not like it's like this, right? Oops, those are not great posts those will fall over, OK. This thing is way out there, OK. And so they're in the middle of the pier or they're at the end of the pier. End of the pier, end of the pier. So here's a bunch of the guys. College kids, adults, we will point out, let's say, let's imagine they're adults, 19, let's say, right, sophomores or something like that. And You know, if, if you were out at the end of this pier, which goes all the way onto the lake this far. You're thinking, Pretty deep, yeah, pretty, pretty shallow, pretty deep,
+
+SPEAKER 3
+yeah, towards the middle of the lake you get deeper, so yeah, it's kind of the middle of the lake.
+
+SPEAKER 1
+It's way the heck out there. Why would you build a pier that far unless you're trying to get to a deeper part of the lake, whether you're for a boat or for swimming or for whatever, plus it's just so far out. But how, but how deep is it actually?
+
+SPEAKER 3
+Um, it's actually pretty shallow. Is it like something like 18 inches, 18 inches.
+
+SPEAKER 1
+All right, let's do this. You know that OK, I go. It's just Oh That's the water at the end of the pier. Good place to dive in head first. Not a good place to dive in head first. What happened?
+
+SPEAKER 3
+Um, he, did he dive in head first injured, um, like slipped some sort of something in his spine, and, yeah, but what happened?
+
+SPEAKER 1
+Did, did he just, did he take the ladder? You said it was a ladder dove head first. dove head first. Cord dives headfirst. Middleton jumps in with his legs first, gets a tailbone injury. The core you're describing, what happens to him sadly, he
+
+SPEAKER 3
+got some pretty severe injury. I think it was some it was paralyzed in some way, I believe, or maybe not, maybe I'm exaggerating that,
+
+SPEAKER 1
+but all kinds of spinal injuries, right? Yeah, he has to have his spine stabilized. There's like nails and poles and braces and so on. He still can't feel stuff. Yeah, it's a terrible injury. And you can imagine why if you throw your head first into the water and it's only this deep and you crash your head on the bottom. What's gonna happen? Right? You break your spine. So that's the situation, that's what we're talking about here, OK. Um Who are they suing?
+
+SPEAKER 3
+Um, they're suing the park.
+
+SPEAKER 1
+All right, so what's the park have to do with this?
+
+SPEAKER 3
+Uh, that they didn't provide any sort of warning about the depth of the lake. Um, and also maybe provided some like misleading signals that the lake was safe to dive into. Yeah, OK, so we'll get to that in just a
+
+SPEAKER 1
+second. Remember what's happening here? Is this a tort case. What's happening in a torts case? Somebody's gotten injured and now somebody wants money for their injury and they want somebody else to pay. So who do you find to pay? Well, here, Parks Service, which is the state government in this case. Probably Good person to ask for money. They've got money, first of all, they're worth suing. And you can maybe make a case that they were careless in some tort relevant, negligent behavior-ish way. And remember how we made these arguments when we were talking about Leo and the trolley company and so on. We're talking about untaken precautions. And that's what Maya is taking us toward. It's like you can say this park service should pay for these guys' injuries. Let's just talk about core. Because they failed to take certain precautions. Like what?
+
+SPEAKER 3
+Um, well, for one, I guess this wouldn't even be a precaution. This may be misleading information, but they advertise it as a perfect place for swimming.
+
+SPEAKER 1
+Yeah, will you read that part for us?
+
+SPEAKER 3
+This is great.
+
+SPEAKER 1
+This is a great passage.
+
+SPEAKER 3
+Um, so it looks like this is information available at a kiosk, and it said from the picnic area boardwalk apier extends. 375 ft into the lake and provides a perfect place for swimming, perfect place for what?
+
+SPEAKER 1
+For swimming and sunbathing and sunbathing, swimming and sunbathing. Just go right in there, yeah, perfect place, uh-huh, and
+
+SPEAKER 3
+swimming is permitted in any area of the lake, any area, it doesn't matter.
+
+SPEAKER 1
+Just get in there, right? Anywhere you're definitely fine. OK, yeah, um, and but be aware that lifeguards are
+
+SPEAKER 3
+not on duty and just remind us where you're like,
+
+SPEAKER 1
+what page you're looking at so everybody can look at this. What was that? What page are you looking at so we can all
+
+SPEAKER 3
+find it? Um, I'm on page 18 of the packet and page 2 of the case, right?
+
+SPEAKER 1
+OK, great. There it is, a little paragraph at the bottom. OK. Are there any warnings about this? I mean, it's like, go swimming, go swimming, go swimming. But, oh, but, but it says, but there's no lifeguard
+
+SPEAKER 3
+on duty, but no lifeguard.
+
+SPEAKER 1
+OK.
+
+SPEAKER 3
+And, um, always use caution around water.
+
+SPEAKER 1
+Always use caution around water. General disclaimer, like, be careful, OK? And, and be alert for aquatic wildlife and watch out
+
+SPEAKER 3
+for sharp mussel shells on the lake bottom.
+
+SPEAKER 1
+Yeah, don't cut your feet. Be careful around water, like don't drown because there's no lifeguard and also like shells, so there's some warning. But you're saying this is misleading. How? Why is this misleading potentially? Well, first of all, I don't know like how much
+
+SPEAKER 3
+swimming you do in like 18 inches of water, um. Second of all, the water was very dark and it was known to have some sort of like organic matter in it that made it look deeper than it actually was, and it seems to be pretty well known. I think the officer that arrived on the scene knew about that, um, and they made no sort of warning, no warnings about that.
+
+SPEAKER 1
+Yeah, OK, so first of all, so what let's just identifies concrete precautions. What's one precaution that would have improved the sign or improved the messaging here?
+
+SPEAKER 3
+Uh, water is more shallow than appears.
+
+SPEAKER 1
+OK, where would you put this warning on this kiosk at the entrance or where would you put it?
+
+SPEAKER 3
+I put it at the entrance. I could put it at the end of the dock. There's like a lot of opportunities to place it, lots
+
+SPEAKER 1
+of places you could put it here, you put another one here. You could probably put it on that kiosk at the very least on that kiosk you would what, not.
+
+SPEAKER 3
+Not really like advertise that it's a great like swimming spot. Yeah, maybe don't say that stuff.
+
+SPEAKER 1
+That's another precaution you can take. Don't say sloppy stuff. Don't say sloppy. It's really hard to say. Don't say sloppy stuff that maybe doesn't convey the danger. OK. What would you put on the sign at the very end?
+
+SPEAKER 3
+Uh, I would probably also just put the depth of the water if it's known depth of the water, OK, maybe information about the organic matter that makes it look deeper so people understand deceptively dark, OK, yeah, um, I also think there was that like ladder ladder take out
+
+SPEAKER 4
+the ladder.
+
+SPEAKER 1
+Use the ladder, use the ladder, yeah, OK, use the ladder. In another couple of days we'll talk about warnings, how to design warnings, when is a warning good enough, when was a warning not good enough? We'll come back to all this, but it's certainly a precaution you can take is just put a warning in the right place. Use a ladder, really shallow, doesn't look as, it's not as deep as it looks, you know, those like car mirrors that say objects are closer than, right? Just something, something. Right? OK. So now you see how you're building a tort case. You're identifying precautions, you're saying not that hard to do these things, by the way. Right. And it would have done some good. We'll come back to that point later, this idea that the precaution also needs to be one that would have done some good. And with warnings, it's complicated because you've got a couple of college kids, are they gonna read a warning, right? Is little Leo going to respond to that warning sign about, hey, electricity, you know, right? What's he gonna do? Right, that could actually be the danger, right? Drawing him in. But here, let's just say that these are the kinds of warnings, the kinds of precautions that we can make arguments about. So let's make some arguments about them. OK? How would you try to make arguments one way or the other saying, yes. This is what a reasonably careful Park Service would have done, or no? We don't expect a reasonably careful Parker to have done these kinds of things. Sabrina Wai. Yes. Pick either side and then I'll ask you to argue the other side, but let's take any of the precautions that Maya just suggested. They're all rewarding related, I guess, and say, yeah, any reasonable park service would have. Done this aunt and uncle of the jury, your job is to figure out what the ordinarily reasonably careful Park Service would have done in this situation that's gonna decide whether they are liable or not, and yeah, absolutely, or no, no, we don't expect.
+
+SPEAKER 5
+I guess in terms of the signage and indicating the depth, if they're advertising for swimming, a lot of swimming pools do like have depth markers like throughout the pool to warn you like where you can start diving from or where you should enter from um and if they're advertising as a place for swimming, that seems like standard practice is like a precaution you would take for a swimming facility. Look what everybody else does.
+
+SPEAKER 1
+Look at every other park service or swimming pools. Is it hard to do? No, cause they do it. Is it a useful thing to do? Maybe yes, because they do it. This idea of looking at other people's practices to, right, you're not looking inside their head to think about how they thought about it, but you can sort of infer based on like what everyone does for their own safety or for other people's safety. This particular form of argument, which we'll call a custom-based argument, is something we'll come back to again in a couple of days. So remember this idea of like, everybody else is doing it. Every other park service, even every other park in the state has these little depth markers. Not that hard, right? OK, so that that's one piece of evidence you could bring in to do that. Whose side are you arguing for right now, by the way?
+
+SPEAKER 5
+I guess the, the plaintiff, sure, you're saying obviously you
+
+SPEAKER 1
+should have done this thing which you did not do, therefore you're liable. That's a plaintiff side argument, OK. You'll make an argument against or more arguments in favor of the plaintiffs, I guess, yeah, I would assume that
+
+SPEAKER 5
+I could say that because they're adults and I'm pretty sure they've been to like different kinds of pools before, you kind of know that if you don't see the bottom, you don't jump straight in. They teach you that when you're scuba diving, they teach you that when you go out on a boat. Like the instructors just just warn you and as an adult, you should have the common sense to not dive with the most important organ. OK.
+
+SPEAKER 1
+All right, so where's Sabrina going with this? Where are you going with this? You're saying that are we talking about precautions that the Park Service should have taken or not or what are we talking about?
+
+SPEAKER 5
+Uh, reasonable behavior from the plaintiff, from the swimmer.
+
+SPEAKER 1
+So hold this thought, we're gonna come right back to this. I'm gonna call on you to develop this argument again, but sure, in a given case. Do I have it on the themes today? It takes two to tort. OK, that's not my phrase. It comes from a friend who also teaches torts. It takes two to tort. There needs to be the injured party involved somehow. First of all, they have to be there somehow in the situation. And oh by the way, they may have also contributed to that risk. They may actually, it may be his own darn fault, little Leo, trying to electrocute yourself, it's your own darn fault. Swimmer throwing your head in first, it's your own darn fault, OK? So hold that thought, we'll come back to it, but let's keep working just a little bit more with the Parker's precautions and what a reasonable park service would have done. How would you argue on their behalf? And I'm always gonna ask you to argue both sides if I remember.
+
+SPEAKER 5
+Um, Was it? OK, um, I guess I would also say in terms of like marketing it as a swimming location that um. They didn't specify a height requirement for who can be able to swim in the 18 inches of water. It only like toddlers.
+
+SPEAKER 1
+What are you thinking? Who can swim at 18 inches? Can anyone swim in 18 inches of water?
+
+SPEAKER 5
+Yes, I would say like the definition of swimming. Was it, is it required that you're by swimming we
+
+SPEAKER 1
+mean putting your feet in and up to your ankles.
+
+SPEAKER 5
+You can like kick your feet.
+
+SPEAKER 1
+OK, perfect place for kicking your feet in the water for wading, for walking upright where the water does not even get to your knees, but not swimming. OK, so another kind of warning here, all right, is that is that an argument for the park service? You're trying to make arguments for the Park Service right now, aren't you? Yeah. How would you defend them?
+
+SPEAKER 5
+Um. I guess I'm not sure if this would be relevant, but I mean like the. Plaintiff in question was on like a frat trip.
+
+SPEAKER 1
+OK, you're blaming the plaintiff again. That's fine if you can tie it to a precaution. Remember we're making arguments about precautions of the park service. You can certainly tie like what the Park Service expects its users, the park users to be doing. Like, like, yeah, frat kids come here all the time. Maybe we should heighten our precautions because, you know, uh, they're not careful, right? So you can do that. But remember here we're trying to focus on the precautions of the park service and. Just try to take their side. You're their lawyer. You're gonna say aunt and uncle of the jury, I know this looks terrible for us. We probably could have put up a sign or something like that, but, but a reasonable park service would not do something like that. We don't expect that's just too much to expect. It's hard here. It's hard here to defend them, but how would you try?
+
+SPEAKER 5
+Uh, can I ask a clarifying question? Do we know how tall the pier was from the surface of the water?
+
+SPEAKER 1
+A good question. How, how would that matter? How will you use that?
+
+SPEAKER 5
+Because I, I mean, if the water is only 18 inches and the pier is like super high up, uh. Like it seems like it would be more reasonable for you to like be more careful when you're jumping off of a platform into something that's much farther below.
+
+SPEAKER 1
+OK, so here's what Sabrina's doing. Sabrina's like, what more facts would we wanna know? It's really hard to defend this case as we imagine it right now. What more facts, right? We're always asking, what more facts? Do I have it up here? Oh, I don't. Oh, there it is, top line. What more facts we want to know? Here's one that could help if we had the fact that the pier is like 4 ft tall and the water's down here. You don't dive in headfirst off of that anyway. We don't expect people to dive off of that. We're not blaming the plaintiff. Remember, we're talking about the Park Service's precautions. We don't expect people to dive off of that pier. Why would we need to put a warning, like don't throw your head in first off that thing. We don't expect anyone to do that. It's unforeseeable to us. That someone would do that something like that that's the way to get bring in facts. It's really hard here to defend them, but maybe you can find some facts like this. Maybe you can make other facts about foreseeability seem more salient, seem more relevant. This whole dark, you know, botanic whatever it is, it is really freakish. Yeah, it's happened before, but we don't know when it's gonna happen. We don't wanna warn people all the time about like, you know, because it's not always true and. Maybe you can make that seem unforeseeable or something like that, something like that. Or There's a ladder, right? How would you try to use that fact?
+
+SPEAKER 5
+Uh, like that was an indication of how the park expected people to enter into the lake. We didn't think people would dive off a thing.
+
+SPEAKER 1
+We put a ladder there. Obviously take the ladder if you're gonna go in the water. First of all, you're like out in the ocean or in the middle of the lake. Like, take the ladder, you know, we warned you about the shells. We don't expect people to like just jump in there. We warned them about the shows like use a lot maybe, maybe you could see sort of how they can try to make the case that under these circumstances the peer is too high or we already warned them about this other thing which is unrelated, but then we don't expect people to dive in, so you should not expect us to warn against that. Maybe that's a way to make that argument, OK, and we'll come back to you about the plaintiff side arguments. Addison Lev, any other precautions you imagine the Park Service might have, you know, if you're trying to come up, right, your job is to say, hey, look, you were, you were careless in like 10 different ways, and we pointed out a bunch that have to do with warnings. Anything else? What else might a Park Service do to have been more careful in preventing accidents like this?
+
+SPEAKER 6
+Um, I mean, I guess they could have, I mean, it's probably too costly, but they could put up like a, a guard or a, even if it's not a lifeguard, just someone who's there, like, don't dive, especially if they know that people are diving like a human, like a human, a human, a human being who can, a
+
+SPEAKER 1
+human being is not a lifeguard, but they're saying don't dive. Yeah, don't dive or like a, all right, let's work with this. This is good. This is good for us. OK, so let's say that this is the argument the plaintiff's side is making. All right. How would you make the case that that's reasonable to expect or not reasonable to expect?
+
+SPEAKER 6
+I mean, I guess you could make the argument that it's reasonable because at like beaches and stuff like that there's either lifeguards or someone there monitoring the situation. All right, you could, I mean you could just you're
+
+SPEAKER 1
+kind of argue have a lifeguard, sure, exactly, right, but maybe it doesn't have to be like a truly licensed lifeguard, but OK, have some monitor, have somebody being like that's a rip current. Don't go out into the beach, into the ocean here, or I don't know, right, or something like that, OK. Uh, I guess again, if other places do it, maybe it's not so unreasonable to expect it here. How would you argue that this is pretty unreasonable.
+
+SPEAKER 6
+I would say, uh, it, it, you know, the salary is going to be expensive to, to pay for someone like that, and it's, you know, a lake. I mean, it's massive. I mean, you need a bunch of these people to make it actually effective. This is taxpayers' money.
+
+SPEAKER 1
+You're gonna pay for how many of these people to just stand around in case someone's about to dive in and you're like, no, no, don't, don't. Use ladder. Really? OK, right, but that's the flavor of the argument. This is not probably a precaution that's gonna win the plaintiff's case for them, but if that's the kind of thing that the plaintiff has to work with, you can see how to make an argument that it is unreasonable. It's too costly. Nobody does that. There are so many easier ways to Like, deal with this kind of situation, that particular thing is unreasonable to ask of us. Anything else?
+
+SPEAKER 6
+Um, and non, non-signage related, right? I mean, I guess you could put up a nets just like, you know, a net or like a fence around the, the boardwalk or something like that, OK, yeah,
+
+SPEAKER 1
+in case anybody's tempted to like throw themselves in the water and you know it's super shallow, maybe, uh, maybe nets or something like that. OK, sure, right? This is like the little Leo fence again.
+
+SPEAKER 6
+Um, I guess you could have, I, I'm, I'm thinking of like the most costly solutions possible for some reason. You could have like a, a waiver or something like that before you go, you know, at the kiosk, like
+
+SPEAKER 1
+to go for, to proceed past this point, you have to sign like a liability waiver. We won't talk. All right, let's, let's, let's, let's, let's not exactly. Caution, is it?
+
+SPEAKER 6
+No, I guess that would be more of like a an understanding of your own. That's a shady lawyer thing to do.
+
+SPEAKER 1
+OK, don't, we're not talking about, it's not making anyone safer. Or is it right? Liability waivers, does that scare you a little bit when you get a liability waiver? You're like, uh. OK. Uh, maybe I will be a little more, maybe I will wear my helmet, you know, like maybe it functions as a warning of some kind, OK. All right, so, how about this? It's one of these weird days when somehow all the elements of the universe and science combines to make the water completely no visibility. What might Park Service do on a day like that?
+
+SPEAKER 6
+Um, they could just close it, close it.
+
+SPEAKER 1
+Why are you open? Why are you open for swimming on a day like this? You know that's a problem, right? OK, and so on. You wanna argue for and against this particular precaution that I just served up to you, I guess the, um,
+
+SPEAKER 6
+the argument in favor of it would be that like we do this with beaches, like we put up red flags when we, when we want to close a beach because the tide is, is bad.
+
+SPEAKER 1
+Yeah, just go out to the quad, right? I'm going to campus, like red flags like don't, don't play here today because the ground's gross or whatever, you know. Beaches Central Park has that. Central Park has red flags for don't play on the baseball fields today because it's too whatever conditions are wrong. Close the beach, close the lake. If this only happens every once in a while and it's kind of freakish and you can't, you know, it's not worth like putting up all kinds of precautions against it. Oh, OK, when it happens just close it. Under these circumstances you should have closed the beach. That's your precaution. That's your undaken precaution. You can argue for and against. How would you argue against?
+
+SPEAKER 6
+I guess you could say that it's, I mean, it would require someone to like go out there in the morning and inspect, you know, is this like, is this
+
+SPEAKER 1
+bad? OK, so it costs something again, right? Again, taxpayer money, really? OK, um.
+
+SPEAKER 6
+You know, it's, it's a public resource to some extent. It's a lake and so like, you know, one could make an argument that people should just be able to use it at their own peril. Like we use the streets at our own peril even if they're slippery.
+
+SPEAKER 1
+People should just use it. People if it's public. We can't really close it off, OK, for whatever reason that's really offensive to the public. That's a kind of a cost. It's unreasonable to expect us to do that. OK, these are college kids and you know what you can close the close the park and. What, what's gonna happen?
+
+SPEAKER 6
+Uh, I mean, people, it might incentivize people to want to do it more.
+
+SPEAKER 1
+If they want to do it more, they're like park's closed, let's go, you know, there'll be nobody there, no lifeguards certainly. Let's party, you know, or they just might do it anyway. Right? It might not do any good. That's something you can always argue against precaution is that it won't actually do any good. It's like the warnings, the warnings won't do any good. Well, closing the park might not do any good. So why would anybody reasonable do that? Why would we expect that to be the reasonably careful precaution when it won't do any good? Another way to make that argument. Any last thing you wanted to say, Addison? Oh, I was gonna say, I mean, it would also
+
+SPEAKER 6
+be, and I guess that it won't be any good argument. It would be hard to enforce as well. So like if you had it closed and there was no like actual fence around it, like who's going to stop someone in practice?
+
+SPEAKER 1
+Sure, you know what's the costliest thing we can possibly do is close the park because then we have to get like all the. Enforcement people out here and like making sure nobody's out there and so on. That's like that's actually impossible, that's like burying the trolley wire, right, something like that. And again you see the kinds of argumentation that's starting to kick in. It'll do a lot of good, it won't do a lot of good. No reasonable person would have done it because nobody else does it. Everyone's doing it, so it's reasonable. These forms of argument are become more and more familiar. Because every time we practice using these facts, coming up with these things, you'll get better at it. All right, so now you know how to argue about negligence. Let's take a break. When we come back, we'll deal with kids and then uh the plaintiff's side. 5 minutes. 5 minute break.
+
+SPEAKER 0
+I Yes. No, I know it I. Like. I had a first. and Yeah. I know. No, I have. I Oh Y'all boy back in the mix for real.
+
+SPEAKER 3
+God, I'm trying to scale back up, man.
+
+SPEAKER 0
+Yeah, no, I'm gonna get back in the mix. oh. What. doesn't Yeah, like funding That's question Wait, so. Oh, I can No OK.
+
+SPEAKER 1
+Welcome back. Welcome back. Any announcements from our teaching fellows? Bradley, Fei Yang, any announcements?
+
+SPEAKER 0
+Everyone sit in the seat that you chose.
+
+SPEAKER 1
+OK, thank you. Any updates on, uh, your office hours or review sessions? You're also getting Oh, you'll get an email. OK, great. All right, but it's Tuesday at lunchtime, basically, right? OK. So teaching fellows every week will be. During office hours or a review session. Tuesday at lunchtime. My own office hours, as you might remember, are also on Tuesdays. They will be Tuesdays at this particular time, 8:30 to 9:30, not 10:30, 8:30 to 9:30 up in JG 908. It's a nice seminar room with big windows. Um, there will be snacks. Remember my office hours work as open office hours, meaning that you can come and go. You don't have to have a question. You can just show up and sit and listen. You don't have to stay there the whole time. You don't have to sign up, right? Anybody's welcome. There's usually like a handful of people there or a lot um just depending on the subject we're covering in the course so low pressure don't feel like you need to prepare anything or say anything but if you just wanna listen to a little bit more towards talk, um, Tuesdays 8:30 to 9:30s JG 908. Remember we have a makeup. We have 3 to classes next week, Monday, Wednesday, Friday. Friday is going to be basically the same as your other Friday makeups except that we start earlier than Professor Harcourt, right? So it'll be 10 to 12 right here, 100 to 12 next Friday, not 8:30, OK? And not 10:40 or whatever he starts, 10 to 12 here, um, next Friday. At that point, we'll be caught. Up to where we want to be at that point in the course. I will send out an email about like who's on call. I know that's getting thrown off a little bit because of the snow day, but, um, of course, as you know already, goldfinches are on today. Bluebirds are on for Wednesday, sorry, for next Monday, which was originally today's class. Next Monday it'll be Bluebirds on call again and then after that just look at my email about what to do. All right. One more thing about questions, you all don't have a class right after this, right? You don't. OK, so I can answer questions by sticking around after class. Feel free to come up to ask if that's more convenient, if that's better than office hours, or you just have something on your mind. That's a good time. Um, I'm not here during a break, as you know, I take my own break, then after class I can stick around since you don't have to go anywhere. Um, I noticed there's, I know there were hands up. I tend not to call in questions in class unless something's going wrong with the room or something like that, but, um, but after, right after class, just come right up, OK? Any other announcements? All right. Remember what we're doing and what we just did we're talking about how to make arguments under this sort of negligence structure that. We've seen in the jury instructions we've seen that it's pretty generic, it's objective, but under the circumstances and that's where all these facts that you can bring in get used and that's what we wanna be doing all the time with some very generic open-ended standard like the reasonable person standard well that just puts the work on you to make actual factual arguments. Braw arguments from inferences, apply the law, whatever there is of the law to that situation and ask aunt and uncle to make the call. So that's what we've been practicing this whole time. We're going to now get to a couple of bells and whistles that we've already encountered in a way. With negligence analysis and that is going to have to do with what about kids? And then also what about the plaintiffs, right? And both of these you might think of as having to do with little Leo, but As Spirino was pointing out, the swimmer too. Why did he throw himself in head first, right? Why? Is that, is that a reasonable thing for him to have done? And if he was unreasonably uncareful in taking care of himself, what does that do with the tort's liability? So let's get to that by first starting off with the story of um let's start with children and then we'll get to the plaintiff side which is to say let's start with little Juliet, the story of little Juliet on the bike. Ashley Zhang, hi, do you remember the story, the New York Times story about little Juliet on the bike? Yeah, um. She struck an older woman, and I think she was held accountable rather than her mother, even though um. Her mother, yeah, just set up, set up the what, what, what actually happened? Where are we? Are we out in the woods? Are we, where are we? Um, she's on a Manhattan sidewalk. Yeah, have you ever been on a Manhattan sidewalk? Yes, right? Do you see people running into each other on the Manhattan sidewalk? Do you see e-bikes maybe running you down every day, you know, on and off the sidewalks there? Yeah, it happens to me too, but who's doing the running down of somebody here? Um, the young girl and. And, uh. The elderly woman suffered severe injuries. Yeah, yeah, but was Julia just riding my bike by herself? Who else, who else was around? Um, I think she was with another young girl, or, yeah, yeah, some kid named Jacob. OK, there's little Juliet, little Jacob, they're riding their bikes on Manhattan sidewalk. OK. Are the parents around? Any parents of any kind? Um, Yeah, her, I think her mother was present. Yeah, her mother's there. Jacob's mother's there as far as we know, OK, and then she runs into somebody on the sidewalk and what happens to this person? Um, she suffered a hip fracture that required surgery, and, uh, uh, yeah, uh-huh, OK, so 87 year old woman on the sidewalk, little kids run. I mean you can't make this up, but it's out of a movie. Little kids are riding their bikes. They run into an elderly lady. She has a hip fracture. That's very, very bad when you're 87 years old to have a hip fracture. Any kind of fall is very, very bad, OK, so this is a pretty serious injury. Um But the story tells us that uh the person also dies of unrelated reasons shortly thereafter, but we're talking about the injury now and who would, who, who, who is the state suing? Who, who could get, get money from for this injury that happened to 87 year old Claire. Um, well, the state is suing the 4 year old. You sue the kid, yeah, you can sue the other kid. Who else? You get to sue the mom, two moms, right? And sure enough, the lawsuit actually does encompass all these people. OK, so sometimes people think about the story and you're like, why didn't they just sue the moms? They did sue the moms. They sued the mom. They're suing everybody they can get their hands on. And now the question that we're dealing with is the question of little Juliet and her age and whether she can or cannot be sued. Keeping in mind that everybody else is being sued too, OK? It's not just little Juliet, but how old is little Juliet?
+
+SPEAKER 0
+Um, 4, 4.
+
+SPEAKER 1
+Is she almost 5?
+
+SPEAKER 0
+Almost 5. I'm almost 5. Right?
+
+SPEAKER 1
+4 and 3/4, 4 and 3/4.
+
+SPEAKER 0
+That's how old little Juliet is.
+
+SPEAKER 1
+Does it help her or not help her that she is 4 and 4 3/4 something? It doesn't help her. It doesn't help her. How would it help her? Why would it help her? What, what age would have been useful for little Julia to have been to get out of liability entirely if she was under the age of 4. Under the age of 4, but she's 4. Yeah, doesn't count. Um, no, no, it doesn't count. You're not under the age of 4 when you're actually 4 and 3, quote, right? OK, so that's the point of the. The point of the case is to point out for us that Yeah, there is some age and it's just gonna, it's gonna vary by place. Where you simply cannot be considered negligent. If you're too young OK. Ashley, will you turn to the jury instructions and just find this for us? In the jury instructions for Illinois, so here we're talking about New York. New York is under 4. But let's look at the jury instructions. OK, um, do you, do you want me to read it? Um, let's look at, no, no, no, we're just gonna find this one particular piece of it. We'll get to the rest of it in a second, and I will ask somebody to read it, but let's take a 10.05, OK, 1234. 4th paragraph. When a plaintiff is under the age of 7, Do you see that? Yeah. Oh, do you want me to read it? Yeah, just read it. OK. The degree of care to be exercised by a minor over the age of 70, sorry, just read that one paragraph. Wait, what? Oh, when a plaintiff is under the age of seven, use IPI 1103. Yeah, use a different instruction. A Different instruction is gonna say they're not going to be capable of negligence, OK. And down in the comment it says that the degree of care to be exercised by a minor over the age of 7 years, right? So these instructions that we're gonna get to in a second about children and how we evaluate the negligence of children only apply in Illinois to kids who are 7 or older. And so in Illinois, the cutoff is 7 years old, in New York it's 4, but the idea is that almost every jurisdiction we have some age under which a kid is just not going to be deemed to be. Possibly negligent. Why? Why might that be? Like kids can be completely careless, they can be completely negligent, right? What are we talking about here? Little, you know, little Juliet, if she were 3 and 4 3/4 years old doing this. That would be quite a negligent thing to do, you might think, but Why, what are we talking about here? Why is the law drawing this line really? Um, I guess it wants to hold them accountable at some point in time, but it does seem pretty arbitrary, like the age at which it's pretty arbitrary cut off. Yeah, I mean, it's pretty bright line cut off as far as we can tell. Age cutoffs in the law tend to be bright lines. We'll talk about bright line rules and standards in a few more days. I know you've talked about it. I'm sure. in other classes as well we'll get to that about legal design. How do you design this cutoff? It sounds like this judge is saying it's a pretty bright line cutoff. It's pretty arbitrary and it's always gonna be arbitrary, right, as you saw in the other opinion, 17 and 364 days. How's that any different from 18 in one day, uh, arbitrary. OK. So it's arbitrary, but why? Why might we want to have this allowance for little kids not to ever be considered negligent? Um, Because at a certain point, like their mental faculties aren't developed and it's hard to hold somebody accountable when they don't know what they're doing or they shouldn't, there's no like moral blameworthiness. There's no moral blaming how, how can you blame a little kid? How do they know? How they, how are they capable of knowing? Sure. Let's try to phrase this in a reasonable person, a reasonable, um, 3 year old would a reasonable 3 year old would have no idea what he's doing. Yeah, is there such a thing as a reasonable 3 year old? No, right? It just doesn't work if the whole framework is a reasonable person at a certain age, and maybe it's 3, maybe it's 7, maybe, who knows, but. At some point we just stop asking that question partly because of the moral blame, it's just not blameworthy enough. It's not because they can't get money out of them. You can get money out of a 4 year old, you can get money out of a 3 year old, right? But it's about something else. It's about, is this the kind of blameworthiness that we think means that they should have to pay for somebody else's injury? Are they being unreasonable in a way that we don't expect reasonable 3 year, wait, what's a reasonable 3 year old, right? It just maybe doesn't work with the framing. Think of other reasons as well, well, you know, you can sue the parents instead and maybe really the parents should be supervising and not so on. So maybe there's other ways to think about where you want to put the burden of the injury. Not on the toddler, but on the parent who's negligently supervising, right? Again, remember the moms here are also being sued. Right, so that's little Julia not getting out of liability. The question is what kind of Port liability, would we? Potentially Impose on Juliet, how do we think about the possibility of her at 4. Not being Let off the hook but potentially negligent, how do we think about the negligence of a 4 year old or 8 year old. Instead, Is it the same as the adult? Do we just say what a reasonable person, a reasonable adult would have done in this situation? Uh, no, maybe it's just strict liability or sorry, do what? Oh. Is that a question for you? Yeah, a question for you. How do we, how do we analyze a negligence liability potentially? For a 4 year old, or let's say a twelve-year-old, let's say little Leo, how do we think about little Leo's own potential negligence? Do we just use the instructions that we saw earlier, that we heard from Sophia? Are we talking about some different instructions? What's the framework now and what's different about it? Well I guess Um, I mean, I guess in. Is it still just the here I think he's just still applying the reasonable person standard. Yeah, it's a reasonable something something. Why don't you read the instruction for us then? Let's read that same page that you're looking at. Let's just read the whole instruction. Right, if we're talking about adults as a reasonable person standard. Let's just call it reasonable person standard RPS here. What is it in the middle category where you're not so young that you're let off the hook, but you're also not a grown up. What does the instructions say? Is the minor held to the same standard as an adult? No. Can you read it for us? Um, a minor is not held to the same standard of conduct as an adult. When I use the words ordinary care with respect to the plaintiff, uh, defendant, decedent. I mean that degree of care which a reasonably careful person, minor, child of the age, mental capacity and experience of the plaintiff, defendant, decedent would use under circumstances similar to those shown by the evidence. The law does not say how such a person, minor or child, would act under those circumstances. That is for you to decide. Ah, OK, wait, so the judge is going to decide or who's going to decide? Uh, the jury. Jury, still aunt and uncle are still deciding, but what's different about the instruction now? Right, it just tells you this is not the same as the adult instructions we read, you know, 20 minutes ago. What's different? And I guess you're thinking about a similarly situated, um, defendant I guess at the same age or same age mental capacity and mental capacity and experience. Remember what we're saying about what's objective, what's subjective, someone with initials TM who's a 1 L. Some of that seems like, I don't know, is that well now we're being told by these jury instructions that tort law for someone who is in the child category but not an infant, right, a child category. They're not treated like an adult, but it is still, is it still a reasonable something analysis is reasonable like under the circumstances, yeah, reasonable child under the circumstances, and the circumstances that you do want to bring in are that you can't in theory bring in for adults are. Uh Wait, what, as you said, age, what else? 00, age, mental capacity and experience. Now we're starting to think about, OK, now we're talking about not just a 12 year old. First of all, we're not talking about some generic adult, what a reasonable adult person would have done on the bridge with a wire. We're not talking about that, we're talking about a reasonable 12-year-old. With also the mental capacity, whatever that means, and the experience of whom? The 12 of a like a 12 year old. Any 12 year old or who? Uh. What does it say? Of the plaintiff, whatever of little Leo. You're saying now we're looking at an objectively reasonable version of someone like little Leo. Remember, we did not say that before. We did not say objectively reasonable trolley company like this trolley company. We just said objectively reasonable trolley company, objectively reasonable grown-up swimmer, you might say. But now we're talking about objectively reasonable child of this age, of Leo's age, of Leo's mental capacity and Leo's experience. Getting a little bit kind of close to the subjective, aren't we? And almost like also his initials are LA almost but not quite there. It's still a generic version we're not getting inside his head, but we're looking at somebody really kind of narrowly defined around his abilities. That's really what we're talking about. So, a little Juliet, how would you apply this little Juliet? You would say, Aunt and uncle Your job, according to the judge is to do what? Think about. Um, but a reasonably careful, just finish the, finish the whole thing. A reasonably careful 4 year old who's like, I don't know, who's riding a bike. Yeah, OK, and what else are you bringing in? We know Juliette's 4. What else did you bring in? Um. Well, she's with her mother. She's on training. OK, those are all circumstances you might, you might want to bring in, yes, but what's special about a child here? What else can you bring in besides age, um. Someone we're thinking about someone of little Juliet's age and what else? Her abilities, abilities, her mental capacity and what's the, what's the other word? uh, experience, experience, use the words, use the thwart words. The judge is gonna instruct the jury that they have to think about age, mental capacity, experience, and all the circumstances. Your job is to use all those facts, and you're gonna be saying to aunt and uncle too, aunt and uncle, your job now is to think about what a reasonable 4.75 year old who. That might be something that shows her mental capacity or let's say, let's say experience but shows her experience. She's on training wheels she's on training wheels. She's just learning how to ride a bike. She's 4 3/4 years. She's almost at the cutoff and she's just learning how to ride a bike. You don't expect expert like X Games kind of BMX whatever skill here we're talking about a little kid who's barely able to like function and go in a straight line if at all. That's who we're talking about a reasonable version of little Juliet. Do we expect any more? Than what she did, right? That's, that's how you argue yes or no, you expect more, we don't expect more depending on which side you're on. All right, so, why? The question is why might we design the law this way? Again, similar question to what I was asking Ashley, um, sorry, A, um, yeah, I was asking Ashley just now. Um, Imara Saez, hi. What, you know. We have some reasons for why we might wanna just not have a child be liable at all, but what about this category? Why are we bringing in all this extra stuff that seems to like maybe mess with the objective, subjective, and it's super personalized even though we're not personal, right? What, what's the idea here?
+
+SPEAKER 4
+I think the idea is that a minor is like in between, um, someone who's too young and like someone who is or could be held to a reasonable person's standard, so you do have to maybe consider some of those more objective factors or sub subjective factors.
+
+SPEAKER 1
+You have to because, wait, so why? Because they're in between, but you know, a 20 year old is in between, you know. Something and something else, like what's, what's special about this in between?
+
+SPEAKER 4
+Um, I guess your frontal lobe is not fully developed yet.
+
+SPEAKER 1
+OK, you're not, that's also true at 20, but like, anyway, we'll just leave that out of this. This is, this is not what the law law has not figured out this whole frontal lobe thing. OK. But let's say the adult is 18, all right, and let's say that 18, what's the difference, let's say, between your frontal lobe is formed, let's say, OK, you know, and this age that you're talking about. What's special about this age? Just the same, the same, just go down the line that you're talking about, yeah, I think it's just the
+
+SPEAKER 4
+idea is like you're not, um, maybe like fully aware of like your legal responsibility and like what is, I guess. Like, appropriate, I don't know.
+
+SPEAKER 3
+Yeah.
+
+SPEAKER 1
+You don't know, right? That's the whole point is you don't know. Yeah, you don't, you don't know any better. You don't know what precautions you can take. You don't know how risk works. You don't know how the kinds of accidents. What if little Juliet had run into like 5 people before? Would that come in as a fact here? Maybe, yeah, that's experience, right? Would that be relevant? Yes. Right, but we're allowing it in because some other kid, let, let's say real little little Julia, didn't. She's barely on training wheels, as Ashley pointed out. She didn't know. She didn't know how to ride straight. She doesn't even know like what it, how fast she's going. She doesn't know it hurts to be hit by a bike. She didn't know any of this. Why does that matter though? We don't ask that about adults. We don't ask that about grown-ups. A grown-up on training wheels who's never ridden a bike doesn't know how to ride in a straight line. We don't let them off the hook for being bad at it. We'll get to that in the beginning skier case in just a second. Why little Julia? Why should we, why should we let her off the hook? How should we cut her slack, make it easier for her based on her lack of experience or whatever when we don't do it for a 25 year old?
+
+SPEAKER 4
+Yeah, I think maybe it goes to like the heart of like the reasonable person standard of like what is reasonable for a 4 year old. Like you would expect them to, you know, given their lack of experience, like maybe run into someone if they, they're on training wheels still.
+
+SPEAKER 1
+OK, so maybe it helps to find the reasonable reasonable character in a way that's uniquely useful for kids in this age of development. Something about this age bracket, there's still information, so much, there's so much variation also among kids in these experiences, capacities, certainly age that it almost doesn't work not to bring it in, right? This is kind of what you're saying that you have to kind of bring it in to do the reasonable person analysis properly, OK. What about other aims of tort law? Ashley brought up, like, it's also not morally blameworthy. How would you use that here? And she's saying a toddler is not morally blameworthy ever. You're saying a toddler who has no experience, or sorry, a child that has no experience is not moral. Is there something you need to work with there?
+
+SPEAKER 4
+Yeah, I think the whole like we maybe treat adults differently just because like, again, they have had more experience, so they should know right from wrong versus a child, they're still sort of developing the line there of like what is correct and what is not. Yeah, right.
+
+SPEAKER 1
+It's still so in flux. Still so in flux that. Can we really say they wronged someone? When part of what's going on with experience and mental capacity and maybe age to some degree is the formation of the idea of what it means to wrong someone, maybe, maybe something like that. It doesn't have to be designed this way. There's nothing inevitable about this. There's nothing inevitable about these arbitrary cutoffs, as we were just saying. There's nothing inherent about which kind of characteristics you can bring and you cannot bring in. I will tell you already that for the adults, for the reasonable person standard, even though we won't cut someone slack for being a beginning skier, we will raise the bar for them potentially, or we will take into account that they're an expert skier. Right, so tort law has some fluidity here where even the reasonable person standard we're saying under the circumstances, not subjective and yet and not, you know, we can't think about their being bad at something, but we can think about somebody who's really good at something, we can bring that into it, expert skier. Right? Pathbreaking, innovative trolley company. The best technology that there is, like, wow, that's right. Somehow for the adult standard even some of this stuff creeps in tort law in a way that courts have been willing to allow. So don't think of this as fixed in any way. We wanna be thinking about how to design it, what to change. Maybe we should allow. For thinking about a beginning skier, even though he's 19. Why not? Even right, I mean, we think about it, if he's 17, why not, you know, so on. So be always willing to challenge how these things are set up and at the very least think about why they might be set up this particular way. So speaking of skiers, let's go to our skier case, and we're going to bring in a couple of more things here. Which is, as you can already see, something that's an exception to The child analysis. Noav Yudrovich. Will you just remind us about the What happened in the Skier case. This is Goss. And remember with this case, we're just looking at the facts, the analysis, it's so super confused. We'll pick out some of the confusion here, but Really we are interested in facts.
+
+SPEAKER 7
+OK, so, basically, there's a 17-year-old college student who went skiing, um, and when he was skiing, he went about 1/4 of the way up the beginner's slope and started skiing down and during his descent, he made a left turn toward the ski lodge in a parking lot.
+
+SPEAKER 1
+Alright, so let's draw this picture here. Here's Goss versus Allen. OK, there's a skier slope. Is it very steep or is it pretty easy place to ski? Where he's skiing.
+
+SPEAKER 7
+I would say it's easy.
+
+SPEAKER 1
+It's an easy slope. It's a bunny hill. It's the beginner slope, right, there he is, OK. He goes up only partway, right? Like he's a total beginner. He's like, I'm only gonna go part way. I'm not even gonna take this lift. I'm just gonna go up a little bit, like a quarter of the way up the bunny hill. OK, this is like the easiest part to ski, you might think. And what does he do?
+
+SPEAKER 7
+Uh, he starts skiing down and then, um, he makes a left turn toward the ski lodge in the parking lot, starts skiing down, skiing down, he's not really in
+
+SPEAKER 1
+control, OK, maybe he's kind of a little bit out of control, OK, and then down at the bottom, right by the ski lodge, by the park, parked cars, he tries really hard to do what?
+
+SPEAKER 7
+He tries really hard to regain control, but he was about 100 ft away from the plaintiff, and he was unable to gain control and ended up running into her.
+
+SPEAKER 1
+All right, and so here she is. Another skier, OK, is she another beginner or I think
+
+SPEAKER 7
+she is like some sort of uh. I, what's the word, like she's like a lifeguard version of a skier, yeah, like, right, she is basically she's
+
+SPEAKER 1
+like a ski patrol person, OK, and so he's on this little bunny hill. He's at the bottom of the bunny hills, you're out of control somehow on the bunny hill. I've done this before myself, and when you're out of control, there's nothing you can do. You don't know what to do if you're a beginner. You don't know how to stop. You don't like the pizza thing doesn't work anymore, you know, like, OK, so you're just like, well. OK, and then he does he warn her sort of a little bit, yell out, yeah, but it's a little bit too late. Yeah, OK, but he's about to crash into her and he yells out and like crashes into her. OK. So, um, how old is he? He's 17. He's 17. OK, so where are we in this, uh, in this, uh, category system that we have here? Uh, officially, let's, let's say that we're now analyzing his negligence. Are we thinking about him as a reasonable adult, or are we thinking about him as a reasonable child of blah blah blah?
+
+SPEAKER 7
+Uh, for, for the initial jury instructions, it was under the minor category. Yes, but after the appeal, it's more like he's being charged as an adult because there's like there's no difference between a 17-year-old and an 18. All right, we will get to that in a second,
+
+SPEAKER 1
+but as far as we know from our instructions so far, we're gonna treat him as a child. Because he's not 18. Right, again, back to the arbitrary cutoff and this court's all like worked up about this arbitrary cutoff. Ah, 1718. You know what's the difference? Yeah, but the line is gonna be drawn in a law somewhere and we have this line. What's the practical reason it might not matter that much, actually, that for this kid, kid at 17, we're able to make arguments based on age, mental capacity and experience, whereas we don't get to for an adult. What difference does it make potentially or what, how does it not make that much of a difference?
+
+SPEAKER 7
+I think in, in this case it makes a difference for the defendant because he is somebody who lacks experience,
+
+SPEAKER 1
+right? You get to use that when you're talking about a kid at 17, you can say he's a total beginner. You don't know what he's doing. It's like little Juliet with a training wheel. She doesn't know what she's doing. What do you expect of him? A reasonable beginner who doesn't know what he's doing. That's what, that's a standard for like, like it's that's like no standard at all. It's fine. Right, but if he were 18, what happens if he
+
+SPEAKER 7
+was 18, then he wouldn't be able to use any of his lack of experience to defend himself.
+
+SPEAKER 1
+You cannot. Suddenly, somehow use the fact that he's really bad at this. The minute he's 18, that's what's at stake in this cutoff is what kinds of arguments you can and cannot make. Officially anyway, to the jury. OK. The question is, does it help him or hurt him? How would you use that fact to help him if you were arguing on his behalf and how would you use the fact, I don't know, is there a way to use the fact against him that he's a beginner?
+
+SPEAKER 7
+Um, I guess, yeah, you could, in, in terms of helping him, you could say that. Um, he doesn't really know how to ski well in the first place and that he did everything within his power and in his experience to try and steer clear of hitting the plaintiff.
+
+SPEAKER 1
+This is the best he could do. This is what we expect of a 17 year old who has truly no ability and no experience skiing. This is what we expect. You're gonna fly it out of control and that's the stuff happens like he's gonna crash into stuff. It's just, it's just that, that's just normal. That's reasonable. The amount of care he took, what, what care did he take?
+
+SPEAKER 7
+He shouted out. He shouted tried to out steer clear, tried to steer, tried to regain control.
+
+SPEAKER 1
+Yeah. Did he go all the way up the hill and took the, take, take, take the hardest route down? No, he went the easiest. He's like, I don't know how to ski. I'm gonna walk up a little bit like up to there and like try to ski down. He was pretty careful. That's what we expect of somebody who doesn't know what they're doing at 17. But if you're an adult. You don't really get to bring that in. You, you don't get to bring in bad ability. Weirdly again, you get to bring in expert ability, so just keep that in mind. For whatever reason, there's this imbalance for adults, but you don't get to bring, right? So it doesn't matter whether he's treated like a child or an adult here. How would it cut the other way? Is there a way for it to cut the other way?
+
+SPEAKER 7
+Uh, I think there is a way for it to cut the other way because you could say that in it being a beginner slope, there's the presumption that you have done it at least somewhat before. You have some skill related to it, but he says that he testified that he had never done downhill skiing before as such. And so you could say that per his lack of experience, his complete lack of experience, he didn't take the necessary precautions by.
+
+SPEAKER 1
+By what?
+
+SPEAKER 7
+By not skiing down the hanging.
+
+SPEAKER 1
+If you're a total beginner, you should know better than to go skiing. The whole thing is dangerous. Like you're gonna crash into something, you know, you see other people doing it, like you know it's gonna happen. If you're a beginner, actually what we expect of you is that you don't ski at all. So it could actually cut against him. So think about every time you get to bring in an extra thing, think about how you can try to use it both ways. Generally, if someone's bad at something, we cut them some slack because they're just not good at it. Little Juliet, nah, she doesn't know what she's doing. But maybe she shouldn't have been riding a bike on the sidewalk in the first place. Maybe he shouldn't have been skiing in the first place if you're a beginner, right? So think about, you know, one of these is maybe more persuasive than the other, but again, the idea is when you get a new thing to use, think about how you could flip it around, OK? So that's what's at stake here and whether he's treated as an adult or treated as a child. Now, as you saw the opinion is all worked up about 17 and 18 and then they kind of do this weird pivot. To be like, ah, we know how we can treat him like an adult, it's not by changing the age cut off because they can't do that. What do they do instead? What do they do instead and what is happening? Emily Shem? What's, what did they come up with to say, oh no, no, no, actually we do want to analyze his behavior as if he were an adult. Even though he's 17.
+
+SPEAKER 0
+I think there's something about like. Taking instructions. The instructor that was available.
+
+SPEAKER 1
+OK, so we'll get to that in a second, but what's the nature of the analysis here? What is the reason that at least this court in a confused way gives for saying that, no, no, no, actually. What's happening here? We're gonna treat him like an adult. What's the key?
+
+SPEAKER 0
+I guess it's like not as much of a bright line rule when it's a 17 year old as its opposed to like an actual infant or a child. OK, so they're all worked up about that.
+
+SPEAKER 1
+That's right. That's the motivation, but what's the actual legal, the legal analysis that they push out? Again, it's super confused. I get, I get why this is not making sense, but what is it actually adult activity yeah. Adult activity, all right. There are some things that even if a child is doing it, even if a 17 year old is doing it, or in theory, even if little Juliet is doing it, we're going to treat their analysis about carefulness and negligence and liability potentially as if they were a 30 year old, generic adult. Reasonable person as an adult. We're not going to let us, let, you know, we're not gonna cut them slack based on age, capacity, experience, or maybe that helps them, but we're just not gonna bring that in. We're actually now just gonna kick them up to the next category, which is think about them as a reasonable person analysis, as if they were adults, and it's based on the nature of the activity. OK? So what are some of these activities? We're talking about skiing here, but let's go to the jury instructions. Emily would just flip to the jury instructions for kids. And let's look at the one. That is 10.05 that Ashley was reading for us earlier. OK. And go down to the very last paragraph. Last two paragraphs. Will you just read the last two paragraphs in the comments. This instruction should not be given.
+
+SPEAKER 0
+Uh, has been held. OK, this instruction in a case where the plaintiff or defendant was a minor motor vehicle, OK?
+
+SPEAKER 1
+Don't give the child instruction. When the child is operating a motor vehicle, instead give the adult give what what what what's the next line. Um, they're doing a minor will be held to the
+
+SPEAKER 0
+same standard of care as an adult.
+
+SPEAKER 1
+OK, motor vehicle, child driving a car, we're gonna treat them like an adult, OK. Next paragraph.
+
+SPEAKER 0
+This instruction has been held applicable to a minor driving a tractor and a minor riding a bicycle.
+
+SPEAKER 1
+Tractors and bicycles. This instruction meaning the child instruction. OK, so now we're talking about motor vehicles, but not a tractor and certainly not a bike, right? Little Juliet, nah, that doesn't count as an adult activity. If little Juliet were driving a tractor, it would count as an adult activity. We'll come back to that in a second, OK? However, However, a minor operating a mini bike, motorcycle, power
+
+SPEAKER 0
+boat, airplane, or the like is held to an adult standard of care.
+
+SPEAKER 1
+OK, all right, so we've got a bunch of examples. Every jurisdiction has got, has come up with their own examples case by case, but here's what we have in some of the Illinois case laws so far. If little Juliet is flying an airplane, OK, or driving a motorboat, she is treated as an adult, but not if she's driving a tractor. Yes, to an e-bike. No to a mini bike or a motorcycle. No to a plane bike. She's just a kid on a bike. OK? This is not exhaustive. What is happening here? Why is it that for some. Kids doing things, we're gonna say on the basis of the nature of the activity, not their age, not mental capacity, not whatever, not their ability, but just on the basis of the nature of activity. We're gonna say you're automatically going to be treated as an adult for negligence purposes. Why? What are some possible reasons? I don't think they're well established reasons, but what are some possible reasons for courts to have over time created this kind of exception saying, Yeah, yeah, no, we're not gonna think about age capacity experience, we're actually gonna think about this 4 year old kid as an adult. Why?
+
+SPEAKER 0
+Um, I mean, there are activities that adults, you know, undertake because they can proceed at their own risk, um, and because it carries inherent risk of harm to others, like if you're operating a motor vehicle, you could hit somebody else.
+
+SPEAKER 1
+Some things are just so dangerous, right? Some things are just so dangerous that. If you can't do it as well as a reasonable adult, then don't do it, right? We're gonna hold you to that standard no matter what. We're not gonna cut you slack as a kid for driving a car if you hit someone just because you're a kid. Like, no, your job if you're going to be driving a car is to drive it at the level of a reasonable adult. You're gonna fly an airplane, your job is to fly an airplane at the level of a reasonable adult. Same with motorboats, OK, sure, that seems to be the impulse here. But what might be the difference between a tractor and a car? Why car yes, tractor no. But why motorcycle, yes, bicycle no.
+
+SPEAKER 0
+Um, well, like, maybe that doesn't have to drive a car or like a motorcycle, but to ride a bicycle to get to class or to drive a tractor operate.
+
+SPEAKER 1
+OK, there might be a need involved, OK, and you can think about how need maybe filters into like kids' expected abilities. Maybe kids are really good at riding bikes because they all do it. Because they have to or something or tractors, kids who are driving a tractor, they're probably really good at it because they've been working on the farm for a long time, something like that maybe or just necessity, just social need. We don't know what's going on in these cases and how the courts are reasoning through this really, but that's possible. There's one other possibility, which is the one that Abraham points out, which is that there's something maybe going on. In what it is that the other party. Can perceive or not perceive in taking their own precautions. If I see some kid riding a bike towards me, even if they're going the same speed as a car, I may be able to take a precaution that's different between facing a kid on a bike versus facing a kid in a car. Whereas But I can't see that it's a kid in a car, right? So. I cannot see as a kid driving a motorboat. I cannot see it swing too fast. I can't see that as a kid driving a plane, flying a plane. I cannot myself take the precaution, right? That seems to be the Abraham logic. You can think through whether that really works or not, but I wanna put it out there as like that's something to think about. This idea that there is also the consideration when courts are making up this stuff about who else can take precautions, and if it's impossible, right, it's more visible to see that it's a kid on a tractor than it is to see his kid driving a car. That kind of thing. Maybe that's also in play. Unclear. It's, it's a nice story to tell. Abraham talks about it, so I wanted to mention it in class, but again, maybe that's part of it. For whatever set of reasons, however, courts have come up with a list of things that count and don't count. You can think for yourself whether skiing should or should not count. I will tell you right now that this is the intermediate court in New Jersey. The New Jersey Supreme Court reversed it and said skiing, no way that's an adult activity. It does not make any sense to say that skiing is an adult activity. Treat him as a kid, we're done, right? OK. So this gets reversed. This confusing opinion gets reversed. But the idea of the adult activity is what we're getting out of this case. All right. Let's now turn to A something that's come up quite a lot in our class, OK. This idea that the plaintiff himself might be at fault. Little Leo or the swimmer, OK. Sabrina, we're coming back to you as I promised. What's the case for saying that the swimmer swimmer, it's his own darn fault. What's it? Why is it his own darn fault? Put it in the language of a reasonable person. Let's say he's an adult Um, I would say as
+
+SPEAKER 5
+an adult, as this person who's familiar with swimming, you don't jump headfirst again with one of your most vital organs into something that you can't see the bottom of, and you know you can't see the bottom. OK.
+
+SPEAKER 1
+Don't throw your head first into something where you can't see the bottom. Who does that? It's so unreasonably uncareful. You're, it's, you're, you're to blame. You should bear your own costs. You're the one who's negligent. OK. What else do we know about him? Is he a beginning swimmer, an expert swimmer?
+
+SPEAKER 5
+Uh, he's a competitive swimmer. He's a shallow swimmer.
+
+SPEAKER 1
+Does he know how to dive?
+
+SPEAKER 5
+Shallow diver.
+
+SPEAKER 1
+He's a shallow diver, he knows how to shallow dive. OK, well that's interesting. What do we do with that? Which way does it cut? That he knows how to shallow dive, that he's an expert. Remember, we can bring, he's an adult, but we can bring in that he's an expert. We can't bring in that he's a beginner, but we can bring in that he's an expert. What, how would you use it either way?
+
+SPEAKER 5
+Well, OK, so I could see it both ways. One way is like, oh, he's a shallow diver. So even if you're saying that he should have been worried about the shells at the bottom, he knew how to dive so that he wouldn't hit the bottom hypothetically if he knew where the bottom was, but also. Um, if he's a shallow diver, he should know the precautions to take. If you shallow dive in a pool, you can see the bottom, but he's really good at this, so maybe
+
+SPEAKER 1
+like it's not unreasonable for him to throw in his, his head first because he knows how to do this at the same time because he's so good at this and he knows about situations like this, he knows better than to do it. Without checking first, he should have taken more precautions. Again taking precautions. He could take precautions before doing it or just not do it. Again, same as the beginning skier in a way, right? You can see how the same kind of like extra characteristic can be used to argue both ways. But just to remember that you can make these arguments about the swimmer, you can make these arguments about a little Leo, of course, and little Leo, as you know by now, how would we do that analysis? We would say little Leo. Here they are. Little Leo, you would think about what is a reasonable 12 year old of Leo's age, 12, and mental capacity? Is he really good at science, like for example, does he really understand electricity and experience, right? Does he know that shocks happen? Has he, right, so on, that kind of thing. Bring all that in and you can maybe make arguments one way or the other based on those characteristics. What is at stake when we talk about the plaintiff's own negligence. I will just map this out for you. We will use this quite a lot as we go on through the course. But as you already know, There's sort of 3 regimes that Abraham emphasizes. There's the old-timey historical one called contributory negligence. This is pretty harsh, OK. As long as the plaintiff I Not taking care themselves, if they themselves are negligent, they get nothing. OK? The plaintiff is negligent, they get no recovery. The only time the plaintiff possibly gets recovery. I if they themselves were not negligent at all. And then they show the defendant's negligent, OK, because both parties can be negligent, the swimmer, the park, they can both be negligent, but the minute in the old timey regimes, which is basically this is only a few states left, tiny, tiny number of states left that do this, that do it this harshly. As long as the swimmer himself is a little bit negligent, he cannot recover at all. If you're only a tiny bit of the fault, sorry, you get no money whatsoever because it's your own fault. That's how the old regime worked. It was super harsh, juries did not like it. And I'll tell you what happened in the Little Leo case. You might think, hey, did that come up in the Little Leo case? Yes, it did. The lower court judge gave an instruction. This is not in your materials, but this is the backstory. Lower court actually gave the instruction to the jury saying, hey, look, um, if Leo Leo was negligent, then you can't give him any money. Now if you remember the case, little Leo wins in front of that jury. But I'll tell you what happened. They asked for like a big chunk of money, like $50,000 which is a lot at the time, and they got like $2000. So the speculation is that something happened here which was quite common, which is that juries will look at the situation and say, It's kind of his own fault, but we want him to give him something. It's their fault too. And the law doesn't really let us adjust. Based on his negligence, the law says that if little Leo is negligent, then he doesn't get anything, but we'll fudge it. This is the case of the jury fudging it to say we'll give him a little bit. We'll say he wasn't negligent, so he gets some money, but we're not gonna give him very much. That's probably what happened in little Leo's case. Because of that kind of harshness and juries reacting to it, as you heard from Abraham, we came up with in the law through legislation and judicial cases. These two regimes. Where You start to account for the plaintiff's own negligence by reducing the amount of money that they get. Pure comparative negligence, you just look at all the negligence, all the uncarefulness by everybody in the situation who's potentially liable, and then you just divide it up. The more of that share of the total negligence, whatever that means, is the plaintiffs, the less money they get down to zero. And then a modified, as you saw, some legislatures have come up with this thing where if you are more than half the fault yourself, then you don't get anything, so it just drops off to zero at 50%. You don't have to worry too much about that, but just remember this is what's at stake. If we start to show that the plaintiff is negligent too, they get no money or less money or something like that. Right, and we'll work with that more. You can already imagine how you might make those arguments as we've been doing for little Leo and for the swimmer. Here's what we've done today, OK? We worked through all the foundational stuff of negligence analysis. We took the kind of argumentation we did last time just based on storytelling to the jury, and we put tort words on it thanks to the jury instructions, ordinary care, reasonable person, and then for children, you gotta bring in some more stuff, and then we thought about how to flip arguments around based on new characteristics that you're allowed to bring in. And then we talked about what happens if the plaintiff is negligent and of course we started to see the law structuring what the jury can think about judges coming up with structures for aunt and uncle's analysis in the example of children, drawing lines arbitrarily, changing the analysis within each category, and we'll see more of that structuring as we get into next week. See you Monday.
+
+SPEAKER 0
+Professor. I think we are on Come on, I go find out. a Like. P. Right. I wrote you. OK Commentary

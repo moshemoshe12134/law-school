@@ -1,0 +1,683 @@
+120
+BERNARD E. HARCOURT
+[Vol. 90
+IL THE RISE OF THE HARM PRINCIPLE
+On Liberty. 27
+The harm principle traces back to John Stuart Mill's essay
+The objeMct iollf sthuics ceisnsacyt liys tsot aastseedrt tohnee pverryin scimippllee ipnr inac nipolew, -afsa emnoti­us
+patlsesda gtoe gionv etrnhe a obspoeluntienlyg t hpea dgeeasl ionfgs t hofe s oecsiseatyy :w ith the individual in the
+way of compulsion and control ....T hat principle is that the sole end
+for which mankind are warranted, individually or collectively, in interfer­
+ing with the liberty of action of any of their number is self-protection.
+That the only purpose for which power can be rightfully exercised over
+27
+JOHN STUARSTee, M eILL.g., , ON LIBER1Y 9 (Elizabeth Rapaport ed., 1978) (1859). The
+harm principle has its roots in earlier liberal theory, especially in early liberal defini­
+tions of liberty. THOMAS HOBBES, LEvIATHAN 145-47 (Richard Tuck ed., Cam­
+bridge Univ. Press 1996) (1651) ("Liberty, or Freedome, signifieth (properly) the
+absence of Opposition; (by Opposition, I mean externall Impediments of mo­
+tion;) ."); JOHN LOCIIB, Two TREATISES OF GOVERNMENT 284 (Peter Laslett ed., Cam­
+bridge Univ. Press 1988) (1690) (Freedom of men under government is "[a] Liberty
+to follow my own Will in all things, where the Rule prescribes not; and not to be sub­
+ject to the inconstant, uncertain, unknown, Arbitrary Willgener of aanlloyt her Man."). For
+Leprgeasel Entn fporucremenposet so,f tMhooruaglhity, , it makes sense to begin the discussion with John Stuart
+Mill. For background discussion of the harm principle, see Kent Greenawalt,
+85 J. CRIM. L. & CRIMINOLOGY 710, 715, 722-25 (1995).
+
+1999] COLLAPSE OF THE HARM PPNCIPLE
+any member of a civilized community, against his will, is to prevent harm
+to others.8
+Though simple at first blush, the harm principle actually
+was far more complicated than it looked, and, over the course
+of the essay, it took on many nuances. The argument in fact be-
+came more complex with each restatement. In Mill's short es-
+say, the harm principle metamorphosed from a simple inquiry
+into harm, to a more complex analysis of interests (self-
+regarding and other regarding interests),2 and eventually to a
+quasi-legal determination of rights. In his final restatement of
+the harm principle, Mill ultimately defined the concept of harm
+on the basis of recognized or legal rights. Mill wrote:
+Though society is not founded on a contract... the fact of living in
+society renders it indispensable that each should be bound to observe a
+certain line of conduct toward the rest. This conduct consists, first, in
+not injuring the interests of one another, or ratherc ertain interests which, ei-
+ther by express legal provision or by tacit understanding, ought to be considered as
+rights;,a nd secondly, in each person's bearing his share (to be fixed on
+some equitable principle) of the labors and sacrifices incurred for de-
+fending the society or its members from injury and molestation.30
+As Mill explained elsewhere, the notion of rights embodied in
+this final restatement rested on a modified utilitarian calculus
+grounded on the permanent interests of man as a progressive
+being.
+In Mill's writings, then, the original, simple harm principle
+evolved into a more cumbersome principle. Mill nevertheless
+applied the principle and justified, on its basis, a large number
+of regulations and prohibitions. The harm principle, in Mill's
+own hands, produced a blueprint for a highly regulated society:
+a society that regulated the sale of potential instruments of
+crime, that taxed the sale of alcohol and regulated the public
+2MILL, supra note 27, at 9.
+Id. at 78.
+Id. at 73 (emphasis added).
+"Id. at 10. For a discussion of Mill's emphasis on human self-development, see
+generally: FRED R. BERGER, HAPPINESS, JUsTICE, AND FREEDOM: THE MORAL AND
+POLITICAL PHILOSOPHY OF JOHN STuART MILL, 229-30 (1984); WENDY DONNER, THE
+LIBERAL SELF: JOHN STUART MRL's MORAL AND PoLr cAL PHILOSOPHY 188-97 (1991);
+Allen E. Buchanan, Assessing the Communitarian Critique of Liberalism, 99 ETHics 852,
+862 (1989); Russell Hittinger, The Hart-Devlin Debate Revisited, 35 AM. J. JURIS. 47, 51-52
+(1990).
+
+BERNARD E. HARCOURT [Vol. 90
+consumption of alcohol, that regulated education and even
+procreation, and that prohibited public intoxication and inde-
+cency.32
+Beginning at least in the 1950s, liberal theorists, most
+prominently Professors H.L.A. Hart andJoel Feinberg, returned
+to Mill's original, simple statement of the harm principle. The
+context was the debate over the legal enforcement of morality.
+In England, this debate was reignited by the recommendation
+of the Committee on Homosexual Offences and Prostitution
+(the "Wolfenden Report") that private homosexual acts be-
+tween consenting adults no longer be criminalized.33 In the
+United States, the debate was reignited by the Supreme Court's
+struggle over the definition and treatment of obscenity'4 and the
+drafting of the Model Penal Code.5 In both countries, the de-
+bate was fueled by the perception among liberal theorists that
+legal moralist principles were experiencing a rejuvenation and
+were threatening to encroach on liberalism. More than anyone
+else, Lord Patrick Devlin catalyzed this perceived threat. In his
+Maccabaean Lecture, delivered to the British Academy in 1959,
+Lord Devlin argued that purportedly immoral activities, like
+homosexuality and prostitution, should remain criminal of-
+fenses.36 Lord Devlin published his lecture and other essays un-
+der the title The Enforcement of Morals, and Devlin soon became
+associated with the principle of legal moralism-the principle
+that moral offenses should be regulated because they are im-
+moral.
+The Hart-Devlin exchange structured the debate over the
+legal enforcement of morality, and thus there emerged, in the
+1960s, a pairing of two familiar arguments-the harm principle
+32 MILL, supra note 27, at 96, 97, 99, 100, 104, 107.
+"REPORT OF THE COMMITTEE ON HOMOSEXUAL OFFENCES AND PROSTITUTION, 1957,
+Cmnd. 247, para. 61, 62. For the history of sodomy laws in England, see generally
+Clarice B. Rabinowitz, Proposalsf or Progress:S odomy Laws and the European Convention on
+Human Rights, 21 BROOK J. INT'LL. 425, 428-32 (1995).
+' See Ronald Dworkin, Lord Devlin and the Enforcement of Morals, 75 YALE L.J. 986,
+986-87 (1966).
+"THOMAS C. GREY, THE LEGAL ENFORCEMENT OF MORALITY 4 (1983).
+-PATRICK DEvuN, Morals and the CriminalL aw, in THE ENFORCEMENT OF MORALS 1
+(1965).
+
+1999] COLLAPSE OF THE HARM PR1NCPLE 11233
+and legal moralism. All the participants at the time recognized,
+naturally, that this structure was a recurrence of a very similar
+pairing of arguments that had set the contours of the debate a
+hundred years earlier.37 The Hart-Devlin debate replicated, in
+many ways, the earlier debate between Mill and another famous
+British jurist, LordJames Fitzjames Stephen. In 1873, in a book
+entitled Liberty, Equality, Fraternity,- Lord Stephen had published
+a scathing attack on Mill's essay and strenuously advocated legal
+moralism. Stephen described his argument as "absolutely in-
+consistent with and contradictory to Mr. Mill's."39 Stephen's ar-
+gument, like Mill's, was best captured in a now-famous passage:
+"[T] here are acts of wickedness so gross and outrageous that,
+self-protection apart, they must be prevented as far as possible at
+any cost to the offender, and punished, if they occur, with ex-
+emplary severity.40
+Professor Hart immediately underscored the similar struc-
+ture of the emerging debate. "Though a century divides these
+two legal writers," Hart observed, referring to Lords Stephen
+and Devlin, "the similarity in the general tone and sometimes
+in the detail of their arguments is very great.,4' In his defense,
+Devlin responded that at the time he delivered the Maccabaean
+lecture he "did not then know that the same ground had al-
+ready been covered by Mr. Justice Stephen .... ,42 Nevertheless,
+Devlin conceded that there was "great similarity between [Lord
+Stephen's] view and mine on the principles that should affect
+the use of the criminal law for the enforcement of morals.43
+Devlin also noted the similarity between Hart, Mill, and the
+' See, e.g., Louis B. Schwartz, Morals Offenses and the Model Penal Code, 63 COLUM. L.
+REv. 669, 670 n.1 (1963) ("The recent controversy traverses much the same ground as
+was surveyed in the nineteenth century.") (citing the Mill-Stephen debate).
+"JAMES FrTZJAMES STEPHEN, LIBER Y, EQUAirX', FRATERNrIY (R.J. White ed., Cam-
+bridge Univ. Press 1967) (1873).
+Id. at 162.
+40Id, This passage is most frequently excerpted in discussions of Stephen. See, e.g.,
+H.L.A. HART, LAW, LIBEPRY AND MORALITY, 60-61 (1963); Feinberg, Moral Enforcement
+and the Harm Principle (from SoCIAL PHILOSOPHY (1973)), reprinted in ETMICS AND
+PUBLCPoucy 291 (Tom L. Beauchamp ed., 1975).
+4, HART, supran ote 40, at 16.
+42 DEVUN, THE ENFORCEMENT OF MORALS, supra note 36, at vii.
+4Id.
+
+124 BERNARD E. HARCOURT [Vol. 90
+Wolfenden Report." Referring to the Wolfenden Report, Dev-
+lin observed that "this use of the [harm] principle is, as Profes-
+sor Hart observed, 'strikingly similar' to Mill's doctrine."45
+A. LORD DEVLIN AND THE FRAGMENTATION OF THE
+CONSERVATIVE POSITION
+Though the paired structure of arguments was similar, it
+was not exactly the same. In contrast to Stephen's straightfor-
+ward legal moralist argument, Lord Devlin's argument in The
+Enforcement of Morality was ambiguous and susceptible to com-
+peting interpretations. Devlin's argument played on the am-
+bivalence in the notion of harm-at times courting the idea of
+social harm, at other times aligning more closely with the legal
+moralism of his predecessor. As a result, the conservative posi-
+tion began to fragment and there developed at least two inter-
+pretations of Devlin's argument: the first relied on public harm,
+the second on legal moralism. Professors Hart and Feinberg la-
+beled these two versions, respectively, the moderate thesis and
+the extreme thesis.6
+In large part, the source of the ambiguity stemmed from the
+fact that Devlin defined public morality in terms of harm to society.
+In several key passages, Devlin strongly suggested that public
+morality necessarily encompassed conduct that affected society
+as a whole. Devlin wrote, for instance, that "[t]here is a case for
+a collective [moral] judgement . . . only if society is affected.47
+"[B] efore a society can put a practice beyond the limits of toler-
+ance," Devlin emphasized, "there must be a deliberate judge-
+ment that the practice is injurious to society.'"8 In these and
+numerous other passages, 49 Devlin made clear that public moral-
+" Id. at 105. At other points, though, Devlin also tried to distinguish Hart from
+Mill. See e.g, id. at 124-26.
+Id. at 105 (footnote omitted).
+"HART, supran ote 40, at 48; Feinberg, supran ote 40, at 289-93.
+4D
+Id
+E
+.
+V
+a
+L
+t
+I N
+1
+,
+7
+s
+(
+u
+e
+p
+m
+ra
+p h
+n
+a
+o
+s
+t
+i
+e
+s
+3
+a
+6
+d
+,
+d
+a
+e
+t
+d
+8
+) .
+(emphasis added).
+4 See, e.g., id. at 15 ("Immorality then, for the purpose of the law, is what every
+right-minded person is presumed to consider to be immoral. Any immorality is capa-
+ble of affecting society injuriously and in effect to a greater or lesser extent it usually
+does; this is what gives the law its locus standi."); id. at 17-18 ("It becomes then a ques-
+tion of balance, the danger to society in one scale and the extent of the restriction in
+
+1999] COLLAPSE OF THE HARM PRINCIPLE
+ity would necessarily involve injury to society, and that the injury
+was precisely "what gives the law its locus standi."s° This overlap
+of harm and morality significantly exacerbated the ambiguity in
+the debate, and the struggle for the meaning of harm.
+The overlap fragmented the conservative argument. Under
+the moderate interpretation, Devlin appeared to be arguing
+that morality should be enforced in order to protect society
+from the danger of disintegration-an argument that relied on
+harm.51 On this view, the only difference between Hart and
+Devlin was that Hart focused on harm to the individual, whereas
+Devlin focused on harm to society as a whole. It was precisely
+on this ground that Devlin criticized the Wolfenden Report.
+Devlin wrote:
+The error of jurisprudence in the Wolfenden Report is caused by
+the search for some single principle to explain the division between
+crime and sin. The Report finds it in the principle that the criminal law
+exists for the protection of individualr, on this principle fornication in pri-
+vate between consenting adults is outside the law and thus it becomes
+logically indefensible to bring homosexuality between consenting adults
+in private within it. But the true principle is that the law exists for the pro-
+tection of society. It does not discharge its function by protecting the indi-
+vidual from injury, annoyance, corruption, and exploitation; the law must
+protect also the institutions and the community of ideas, political and moral,
+without which people cannot live together. Society cannot ignore the morality
+of the individual any more than it can his loyalty; it flourishes on both
+and without either it dies.52
+One obvious flaw in the moderate interpretation was that
+Devlin never defined the causal mechanism of social harm.
+the other."); id at 22 ("Adultery of the sort that breaks up marriage seems to me to
+be just as harmful to the socialf abrica s homosexuality or bigamy.") (emphasis added).
+Id. at 15.
+Feinberg similarly suggests that Devlin's moderate thesis "is really an application
+of the public harm principle." Feinberg, supra note 40, at 289. In my opinion, Pro-
+fessorJeffrie Murphy's reading of Devlin is also consistent with the moderate thesis of
+public harm. SeeJeffrie G. Murphy, Legal Moralism and Liberalism, 37 ARIZ. L. REV. 73,
+76 (1995) ("Devlin is not a legal moralist. He is rather a utilitarian, democratic cynic
+with some controversial empirical views. Utilitarian because he regards social harm-
+fulness, in some very extended sense, as the only factor relevant in justifying a crimi-
+nal prohibition."). Professor Robert George similarly interprets Devlin as making a
+public harm argument. See Robert P. George, Social Cohesion and the Legal Enforcement
+of Morals: A Reconsideration of the Hart-Devlin Debate, 35 AM.J. JuRS. 15, 19 (1990). See
+also Greenawalt, supra note 27, at 722 (offering a consequentialist interpretation of
+Devlin).
+2DEVUN, supra note 36, at 22 (emphases added).
+
+BERNARD E. HARCOURT [Vol. 90
+Though Devlin repeatedly referred to "social disintegration," he
+failed to articulate the pathway of harm. As a result, there de-
+veloped, again, a number of competing interpretations of the
+causal mechanism-which, in part, replicated the ambiguities in
+the conception of harm. Hart, at one point, suggested that Dev-
+lin believed that individuals who deviate from sexual morality
+are likely to deviate in other ways and thereby to cause society
+harm.3 At another point, Hart suggested that the causal
+mechanism was simply change: that Devlin equated society with
+its morality "so that a change in its morality is tantamount to the
+destruction of a society. '54 Feinberg emphasized the metaphor
+of morality as a kind of "seamless web" and interpreted the
+causal mechanism as the unraveling of that "moral fabric."'5
+Professor Jeffrie Murphy offered yet another interpretation:
+"one might. . . argue," he suggested, "that open toleration of
+the flouting of sexual norms threatens the honorific position
+historically accorded the traditional nuclear family and that
+such a threat risks undermining the social stability generated by
+such family units."56 Devlin never really clarified his position.
+"' HART, supra note 40, at 51 ("[Morality] forms a single seamless web, so that those
+who deviate from any part are likely or perhaps bound to deviate from the whole.");
+see id. ("But there is again no evidence to support, and much to refute, the theory that
+those who deviate from conventional sexual morality are in other ways hostile to soci-
+ety.").
+"' Id. at 51. This led, of course, to Devlin's response, and an entirely fruitless se-
+mantic debate over the concept of society. See DEvLrN, supra note 36, at 13 n.1. At
+still another point, Hart suggested that the mechanism turned on a Durkheimian
+conception of social solidarity: that private immoral acts loosen the moral bonds that
+bring men and women together in society and thereby "threaten[] the moral princi-
+ples on which society is based." HART, supra note 40, at 53.
+1 5 Feinberg, supra note 40, at 289.
+16 Murphy, supra note 51, at 77. Other interpretations were offered. See, e.g.,
+George, supra note 51, at 30-36 (offering an interpretation of social disintegration in
+terms of "the loss of a distinctive form of interpersonal integration in community un-
+derstood as something worthwhile for its own sake").
+I would suggest that a close reading of Devlin's Morals and the Criminal Law sug-
+gests yet another possibility. Devlin repeatedly suggested that, if the structure of law
+was not supported by our moral sentiments, then the law "forfeits respect." DELIN,
+supra note 36, at 2, 24. In forfeiting respect, the law loses legitimacy. This seems to
+capture best the mechanism at work in Devlin's discussion of homosexuality. Male
+homosexuality, according to Devlin, engenders a moral reaction of "deeply felt and
+not manufactured" "disgust," "a real feeling of reprobation," and "a general abhor-
+rence." Id. at 17. When we look at it "calmly and dispassionately, we regard it as a
+
+1999] COLLAPSE OF THE HARM PRTNCLPLE 127
+Another major problem with the moderate interpretation
+was that Devlin ignored completely the empirical dimension of
+the public harm claim.57 "[N] o evidence is produced," Hart ex-
+claimed.58 "No reputable historian has maintained this thesis,
+and there is indeed much evidence against it. As a proposition
+of fact it is entitled to no more respect than the EmperorJustin-
+ian's statement that homosexuality was the cause of earth-
+quakes."59 Four years later, Professor Ronald Dworkin sounded
+the same refrain: "[Lord Devlin] manages this conclusion with-
+out offering evidence that homosexuality presents any danger at
+all to society's existence .... .60
+vice so abominable that its mere presence is an offence." I& If the law does not re-
+flect this deep sense of moral offense, then the law will no longer be perceived as le-
+gitimate. It will forfeit respect. Legitimization may have been the causal mechanism
+at work.
+Bill Miller's discussion in The Anatomy of Disgust resonates well with this interpreta-
+tion of Devlin. See WILLIAM IAN MILLER, TI ANATOMY OF DISGUST, 179-80
+("[W hether we be Puritan or not, we express many of our bread-and-butter moral
+judgments in the idiom of disgust. The argument is not whether disgust operates in
+the moral domain, but about its proper scope, its proper object, and its reliability in
+that domain."). See also id. at 180 ("By being so much in the gut, the idiom of disgust
+has certain virtues for voicing moral assertions. It signals seriousness, commitment,
+indisputability, presentness, and reality. It drags the moral down from the skies to-
+ward which it often tends to float, wrests it from the philosophers and theologians,
+and brings it back to us with a vengeance."). It seems that Devlin's writings would be
+an excellent illustration of many of Miller's points. There is also a similar ambiva-
+lence about disgust in the writings of Miller and Devlin: disgust is at the core of mo-
+rality, but it is not its foundation. It reflects moral judgment, but should not ground
+moraljudgment. Thus Miller writes that "[d]isgust tends to be a little too zealous in
+its moral work. It wants to draw things into the moral domain that we feel in our bet-
+ter judgment should be left out." I& at 181. The same ambivalence is reflected in
+Devlin. See, e.g., DEVLIN, supra note 36, at 17 ("Those who are dissatisfied with the
+present law on homosexuality often say that the opponents of reform are swayed sim-
+ply by disgust. If that were so it would be wrong, but I do not think one can ignore
+disgust if it is deeply felt and not manufactured.").
+', Even Devlin's supporters acknowledge the absence of empirical evidence. See,
+e.g., Dworkin, supra note 13, at 931 ("The trouble with many of Devlin's claims is the
+same as that faced by the strategic theorist who, when asked about his various 'calcu-
+lated risks,' admitted that he had never done the calculations."); Murphy, supra note
+51, at 77 ("Devlin on these issues seems to rely more on hunches than on solid evi-
+dence.").
+' HART, supra note 40, at 50.
+59I d.
+0 Dworkin, supra note 34, at 992. See also Rolf E. Sartorius, The Enforcement of Mo-
+rality, 81 YA.E LJ. 891, 893 (1972) ("[A]s Hart has convincingly argued on a number
+
+BERNARD E. HARCOURT [Vol. 90
+The empirical gap in Devlin's harm argument was terribly
+damaging, and, as a result, a second, more extreme reading of
+Devlin emerged. Under the second interpretation, referred to
+as the extreme thesis, Devlin argued that morality should be en-
+forced for the sake of morality tout court: morality for morality's
+sake. If Devlin's claim (that private acts of immorality present a
+danger to society) was not intended to be an empirical claim,
+Hart suggested, then Devlin equated morality with society. "On
+this view the enforcement of morality is not justified by its valu-
+able consequences in securing society from dissolution or de-
+cay," Hart argued. "It is justified simply as identical with or
+required for the preservation of the society's
+morality.,62
+Under the more extreme reading, Devlin's argument was
+much closer to the earlier statement of legal moralism in Lord
+Stephen's book, Liberty, Equality, Fraternity6.3 Certain key pas-
+sages in Devlin's writings supported this reading, especially the
+concluding sentence of the Maccabaean lecture:
+So the law must base itself on Christian morals and to the limit of its
+ability enforce them, not simply because they are the morals of most of
+us, nor simply because they are the morals which are taught by the estab-
+lished Church-on these points the law recognizes the right to dissent-
+but for the compelling reason that without the help of Christian teaching the law
+will fail.64
+These were ominous and somewhat bewildering words.
+"Christian morals." "The law will fail." To what extent was this a
+prediction of actual social harm or a traditional argument about
+legal moralism? Could they even be distinguished anymore?
+Was legal moralism, in reality, a harm argument? In which di-
+of separate occasions, the empirical assumption that it must legislate sexual morality
+in order to avoid disintegration is simply without foundation.") (footnote omitted).
+61 HART, supra note 40, at 55.
+62 Id. Hart argued, against the extreme thesis, that it rested on a vindictive, de-
+nunciatory, and hateful theory of punishment that contravened "the critical princi-
+ple, central to all morality, that human misery and the restriction of freedom are
+evils." Id. at 82. Joel Feinberg also argued against the extreme thesis. Feinberg em-
+phasized the costs of such a policy, in terms of individual privacy and other human
+values ("loss of spontaneity, stunting of rational powers, anxiety, [and] hypocrisy").
+Feinberg argued that these costs far outweighed any possible benefit: "The price of
+securing mere outward conformity to the community's standards (for that is all that
+can be achieved by the penal law) is exorbitant." Feinberg, supran ote 40, at 292.
+supran ote 38.
+'STEPHEN,
+" DEvLIN, supra note 36, at 25 (emphasis added).
+
+1999] COLLAPSE OF THE HARM PP7NCPLE
+rection was Devlin going? Unsure, Hart and other liberal theo-
+rists returned to Mill's essay On Liberty and to the original, sim-
+ple statement of the harm principle. Ironically, that rhetorical
+move would further ambiguate the conception of harm. The
+simplicity of the original harm principle would veil an intense
+struggle for the meaning of harm.
+B. H.L.A. HART, JOEL FEINBERG, AND THE ORIGINAL SIMPLE HARM
+PRINCIPLE
+In Law, Liberty, and Morality, a set of lectures delivered at
+Stanford University in 1962 in response to Lord Devlin, Hart
+rehearsed Mill's harm principle, but carefully pared the argu-
+ment down to its original, simple, and succinct statement. Right
+after posing the central question of his lectures-"Ought im-
+morality as such to be a crime?"-Hart immediately cited Mill in
+support of his position. "To this question," Hart responded,
+'John Stuart Mill gave an emphatic negative answer in his essay
+On Liberty one hundred years ago, and the famous sentence in
+which he frames this answer expresses the central doctrine of his essay."
+Then Hart repeated the famous sentence: "He said, 'The only
+purpose for which power can rightfully be exercised over any
+member of a civilised community against his will is to prevent
+harm to others."' Hart endorsed the simple harm argument,r
+and declared that, "on the narrower issue relevant to the en-
+forcement of morality Mill seems to me to be right."67
+Similarly, in an early essay in 1973 entitled Moral Enforcement
+and the Harm Principle-an essay which would sketch the con-
+tours of his later four-volume treatise on The Moral Limits of the
+Criminal Law--Professor Joel Feinberg rehearsed Mill's harm
+principle and he, too, pared the principle down to its original,
+simple formulation.& Feinberg emphasized the importance of
+HART, supra note 40, at 4 (emphasis added).
+'
+Hart qualified his endorsement insofar as he supplemented the harm principle
+with an offense principle. It is not clear, however, that Mill would have disagreed
+with Hart, since the Millian notion of other-regarding conduct seems to embrace
+both the harm principle and the offense principle.
+6 HART, supra note 40, at 5.
+See generally Feinberg, supran ote 40.
+
+BERNARD E. HARCOURT [Vol. 90
+distinguishing between direct and indirect harn, but went no
+further, at the time, in developing the harm argument. Fein-
+berg endorsed the argument7° and wrote that the distinction, "as
+Mill intended it to be understood, does seem at least roughly
+serviceable, and unlikely to invite massive social interference in
+'
+private affairs.'
+Eleven years later, Feinberg published the first volume of
+The Moral Limits of the Criminal Law, entitled Harm to Others.
+Feinberg explored there the contours of the harm principle and
+developed fifteen supplementary criteria, or what he called
+"mediating maxims," to assist in the application of the harm
+principle.72 Throughout the four-volume treatise, Feinberg
+maintained that the harm argument, as refined by the mediat-
+ing maxims, was one of only two considerations (the other be-
+ing the offense principle) that were always a good reason for
+prohibiting purportedly immoral activity.
+Feinberg's experience with the harm principle mirrored, in
+significant ways, Mill's own experience." Like Mill, Feinberg's
+confidence in the robustness of the original harm principle
+eroded somewhat over the course of his writings. Whereas
+Feinberg originally defined liberalism, in his own words,
+"boldly,74 relying exclusively on the harm principle (supple-
+mented by an offense principle),-' Feinberg concluded the
+'9 Id. at 284.
+70 Feinberg also supplements the harm principle with an offense principle. See id.
+at 297; see also 2 JOEL FEINBERG, THE MORAL LIMrrs OF TBE CRiMINAL LAW: OFFENSE TO
+OTHERS 49 (1985).
+7' Feinberg, supran ote 40, at 286.
+2 1 FEINBERG, supra note 13, at 214-17, 243-45.
+" Joel Feinberg himself acknowledges the strong similarity, in terms of the in-
+creased complexity of the harm principle, between his work and Mill's. Conversation
+with Joel Feinberg (Oct. 14, 1998). In his treatise, Feinberg specifically remarked
+that "[a] t first sight, the harm principle seems a straightforward and unproblematic
+guide to legislative decision-making." But, he noted, "[t]he analysis proposed in this
+and the preceding chapters, however, reveals that harm is a very complex concept
+with hidden normative dimensions .... " 1 FEINBERG, supran ote 13, at 214.
+74 4 FEINBERG, supra note 13, at 323-24.
+7' Feinberg's original definition of liberalism posited that the harm and offense
+principles were exclusive. He wrote:
+We can define liberalism in respect to the subject matter of this work as the view that the
+harm and offense principles, duly clarified and qualified, between them exhaust the class
+
+1999] COLLAPSE OF TIE HARM PRINCIPLE
+fourth and last volume of The Moral Limits of the CriminalL aw by
+softening his claims about the critical role of the harm princi-
+ple. But even under the more cautious version proposed by
+Feinberg at the end of his treatise, the qualified harm principle
+still played a dominant role. Feinberg concluded his treatise
+with the following "cautious" definition of liberalism:
+[W]e can define liberalism cautiously as the view that as a class, harm
+and offense prevention are far and away the best reasons that can be
+produced in support of criminal prohibitions, and the only ones that
+frequently outweigh the case for liberty. They are, in short, the only
+considerations that are always good reasons for criminalization. The other
+principles [moralist or paternalist] state considerations that are at most
+sometimes (but rarely) good reasons, depending for example on exactly
+what the non-grievance evil is whose prevention is supposed to support
+criminalization.
+As this passage makes clear, the original harm principle re-
+mained, even by the end of Feinberg's treatise, one of the two
+main limits on state regulation of moral offenses.
+Gradually, over the course of the 1960s, '70s, and '80s, Mill's
+famous sentence began to dominate the legal philosophic de-
+bate over the enforcement of morality. Harm became the criti-
+cal principle used to police the line between law and morality
+within Anglo-American philosophy of law. Most prominent
+theorists who participated in the debate either relied on the
+harm principle or made favorable reference to the argument.
+Professor Ronald Dworkin engaged the Hart-Devlin debate in
+an article first published in the Yale Law Journali n 1966 entitled
+Lord Devlin and the Enforcement of MoralS7. Although Dworkin fo-
+cused on the implications for democratic theory-arguing that
+legislators must ultimately decide whether the community has
+of morally relevant reasons for criminal prohibitions. Paternalistic and moralistic consid-
+erations, when introduced as support for penal legislation, have no weight at all.
+1 FEINBERG, supra note 13, at 14-15. See also 4 FEINBERG, supran ote 13, at 321.
+76 4 FEINBERG, supra note 13, at 323. Feinberg goes on to say:
+Indeed there are some extraordinary, and up to now only hypothetical examples of non-
+grievance evils (neither harms nor offenses, nor right-violations of any kind) that are so se-
+rious that even the liberal (if he is sensitive and honest) will concede that their prevention
+would be a good reason for criminalization, and in the most compelling examples of all,
+perhaps even a good enough reason, on balance, for criminalization.
+Id. at 324.
+" The article subsequently became a chapter of RONALD DwoRmN, TAKING RIGHTS
+SERIOUSLY (1977).
+
+132 BERNARD E. HARCOURT [Vol. 90
+expressed a reasoned moral position about purportedly im-
+moral activities78-Dworkin presented the harm principle as a
+leading response in the debate.79 Professor Louis Henkin simi-
+larly joined the debate, with specific reference to the question
+of obscenity. Although Henkin, like Dworkin, took a different
+approach to the question-emphasizing the constitutional di-
+mensions of laws enforcing claims of morality that have their
+roots in religious principles-Henkin also sided with Hart
+against Devlin. "By my hypotheses," Henkin noted in conclu-
+sion, "the United States would be a polity nearer the heart of
+Professor Hart, and ofJohn Stuart Mill."8
+Over time, the harm principle essentially prevailed in the
+legal philosophic debate over the legal enforcement of morality.
+From one end of the spectrum to the other, there arose a con-
+sensus that Hart had carried the day. At the liberal end of the
+spectrum, Professor Ronald Dworkin reported that Devlin's ar-
+gument "was widely attacked" and that his thesis was, ultimately,
+"very implausible. On the other end of the spectrum, Profes-
+sor Robert George would report that "many ... perhaps even
+most [commentators] think that Hart carried the day .... ,,12
+Professor Jeffrie Murphy-who is today a skeptic of the harm
+principle-captured well the prevailing consensus. "I believed,
+along with most of the people with whom I talked about legal
+78 Dworkin, supran ote 34, at 1001 ("[The legislator] must sift these arguments and
+positions, trying to determine which are prejudices or rationalizations, which presup-
+pose general principles or theories vast parts of the population could not be sup-
+posed to accept, and so on. It may be that when he has finished this process of
+reflection he will find that the claim of a moral consensus has not been made out.").
+For a discussion of Dworkin's argument, see Sartorius, supra note 60, at 893-98.
+7' Dworkin, supra note 34, at 996. Dworkin sets forth in the second paragraph of
+the essay the different positions available in response to Lord Devlin, and highlights
+the harm principle:
+Must there be some demonstration of present harm to particular persons directly af-
+fected by the practice in question? ... [M]ust it also be demonstrated that these social
+changes threaten long-term harm of some standard sort, like an increase in crime or a de-
+crease in productivity?... If so, does the requirement of harm add much to the bare re-
+quirement of public condemnation?
+Id. at 986.
+" Louis Henkin, Morals and The Constitution: The Sin of Obscenity, 63 COLUM. L. REV.
+391, 413 (1963).
+8'R onald Dworkin, Liberal Community, 77 CAL. L. REV. 479, 487 (1989).
+82 George, supra note 51, at 30.
+
+1999] COLLAPSE OF THE HARM PR7NCIPLE
+philosophy," Murphy wrote, "that legal moralism had been
+properly killed off, that liberalism had once again been vindi-
+cated against the forces of superstition and oppression, and that
+legal philosophy could now move on to new and more impor-
+83s
+tant topics.
+This is not to suggest that the controversy simply disap-
+peared from philosophic circles.84 There were attempts to re-
+habilitate Devlin's position.s There were even attempts to
+radicalize Devlin's argument. 6 And still today, Devlin has sup-
+porters. In fact, just this year, Professor Gerald Dworkin pub-
+lished a provocative essay entitled Devlin Was Right8.7 In the
+essay, Dworkin sides with Devlin "in believing that there is no
+principled line following the contours of the distinction be-
+tween immoral and harmful conduct such that only grounds re-
+"Murphy, supran ote 51, at 74-75.
+84 Under one reading, the Hart-Devlin debate metamorphosed and resurfaced as
+the liberal-communitarian debate, a much larger debate about liberalism and its abil-
+ity to accommodate the need for community. This is most evident in Michael J. San-
+del's article, Moral Argument and Liberal Toleration: Abortion and Homosexuality, 77 CAL.
+L. REV. 521 (1989). In his article, Sandel argues that it is in fact impossible to bracket
+controversial moral and religious convictions in debates over abortion and homo-
+sexuality, and that the liberal attempt to do so results, at best, in a "thin and fragile
+toleration." Id. at 537. But see Toni M. Massaro, Gay Rights, Thick and Thin, 49 STAN.
+L. REV. 45 (1996) (arguing that "thinner" approaches to gay rights may be more ef-
+fective in protecting gay rights in the constitutional law context). Sandel's discussion
+develops many of the themes in the Hart-Devlin debate. Compare Sandel, supra, at
+537-38, with Dworkin, supra note 13, at 946 ("I encourage liberals who wish to argue
+against, for example, the criminalization of homosexual sex, to engage in the honest
+toil of arguing that the reason such conduct ought not be criminalized is that there is
+nothing immoral in it."). But Sandel carries the discussion into the larger context of
+liberalism and its critics. Since the larger liberal-communitarian debate is beyond the
+scope of this Article, I will not pursue here this strand of the Hart-Devlin debate.
+" See, e.g., Murphy, supra note 51, at 76-78 (arguing that Devlin was right to chal-
+lenge the inconsistency within liberalism between the harm principle and other lib-
+eral doctrines like the retributive principle and the principle of fundamental rights
+constitutionalism).
+"Se e.g., George, supra note 51, at 30-37 (offering a communitarian re-inter-
+pretation of Devlin that supposedly survives Hart's criticisms, according to which Dev-
+lin's conception of social disintegration referred to interpersonal disintegration in
+the community; and arguing, contra Devlin, for the more radical position that the
+truth of a moral position is a necessary condition for the legitimacy of its legal en-
+forcement). See also ROBERT P. GEORGE, MAKING MEN MORAL: CrVIL LIBERTIES AND
+PUBLIC MORALTY (1993).
+" Dworkin, supran ote 13.
+
+134 [Vol. 90
+BERNARD E. HARCOURT
+ferring to the latter may be invoked to justify criminalization."88
+Dworkin argues that Devlin was right in criticizing the line be­
+tween immoral and harmful conduct, and offers his own justifi­
+cation for criminalizing immoral conduct-namely, that the
+term "wrongful" connotes conduct that "ought not to be done"
+in the very same way that the terms "harmful" or "offensive" do.
+Nevertheless, even Gerald Dworkin's provocative essay does not
+significantly alter the equation. To a certain extent, Dworkin's
+argument in fact reflects the fragmentation on the conservative
+side of the debate. In several key passages of his essay, Dworkin
+seems to premise his argument on the assumption that harmless
+wrongdoing is simply not possible.89 If that is true, of course,
+then his argument collapses into the public harm thesis-and
+legal moralism is indistinguishable from the harm principle. In
+any event, and more importantly for present purposes, Dworkin
+is willing to concede in his essay that he is swimming against the
+liberal tide. He readily acknowledges that he is practically alone
+today in defending Lord Devlin.90 The fact is that, over time, a
+consensus emerged that the liberal harm principle prevailed in
+the legal philosophic debate over the enforcement of morality.
+****
+88 Id. 928.
+89
+at See, e.g., id.
+937
+Dworkin intimates throughout his discussion of Feinberg's work that harmid.le ss
+wrongdoing may not be possible. at ("[The legal moralist is someone]
+938
+who wants to defend some kind of identification of harm and wrongdoing."); at
+("What we need are examples of types of acts which, while wrongful, do not (usu­
+ally,90 t Seened i d.to ) s
+9
+e
+2
+t
+7
+b
+-2
+a
+8
+c
+.
+k interests. Whether it is possible for such acts to exist depends
+upo9n1 one's views about the nature of morality.").
+HERBERTL. PACKER, THEL!MITSOFTHECRIMINALSANCTION296 (1968).
+at

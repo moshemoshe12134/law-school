@@ -1,0 +1,224 @@
+(
+|
+
+}
+
+270 3. Defining Criminal Conduct—The Elements of Just Punishment 271
+
+Culpability
+
+definition of negligence sufficient to support civil liability: “An act, to b
+‘negligence,’ must be one which a reasonably prudent person would foreseg
+as involving an unreasonable risk of injury to himself or to another and Which,
+such a person, in the exercise of ordinary care, would not do.” The Suprem
+Court found this instruction erroneous:] [W]hen moral condemnation ay,
+social opprobrium attach to the conviction of a crime, the crime should
+ically reflect a mental state warranting such contempt. ... We construe th,
+intended scope of the statute as aiming to punish conduct that is morally
+culpable. ... We interpret the mens rea element of negligence in the chilg
+abuse statute, therefore, to require a showing of criminal negligence insteag.
+of ordinary civil negligence.
+
+onis posted additional violent language directed against fellow employ-
+Bl agents who met with him, and children in local schools. He was
+ed with violating 18 U.S.C. §875(c). At trial] Elonis requested a jury
+ction that “the government must prove that he intended to communicate
+¢ threat.” The District Court denied that request [and] instead informed
+
+jury that
+
+Astatement js a true threat when a defendant intentionally makes a statement
+na context or under such circumstances wherein a reasonable person would
+‘oresee that the statement would be interpreted by those to whom the maker
+ommunicates the statement as a serious expression of an intention to inflict
+odily injury or take the life of an individual.
+
+6. When the statute is silent. In cases like Cunningham and Hazelwood
+the relevant statutes gave the courts a starting place because they included
+some mens rea language to interpret. But what if the statute contains no mens
+rea language at all? The next case considers that issue.
+
+‘The Government’s closing argument emphasized that it was irrelevant
+ether Elonis intended the postings to be threats—“it doesn’t matter what
+e thinks.” A jury convicted [and] Elonis was sentenced to three years, eight
+onths’ imprisonment ....
+
+[On appeal, the Court of Appeals held that §875(c) required only an intent
+communicate words that a reasonable person would view as a threat. The
+supreme Court reversed. After noting that the statute was silent on the
+tiestion of mens rea, the Court observed:]
+
+The fact that the statute does not specify any required mental state,
+owever, does not mean that none exists. We have repeatedly held that
+“mere omission from a criminal enactment of any mention of criminal intent”
+should not be read “as dispensing with it.” This rule of construction reflects
+the basic principle that “wrongdoing must be conscious to be crimi-
+al.”... The “central thought” is that a defendant must be “blameworthy
+in mind” before he can be found guilty, a concept courts have expressed
+over time through various terms such as mens rea, scienter, malice afore-
+thought, guilty knowledge, and the like. Although there are exceptions, the
+“general rule” is that a guilty mind is “a necessary element in the indictment
+and proof of every crime.” We therefore generally “interpret[ | criminal sta-
+tutes to include broadly applicable scienter requirements, even where the
+statute by its terms does not contain them.” ...
+
+Elonis’s conviction, however, was premised solely on how his posts would
+be understood by a reasonable person. Such a “reasonable person” standard is
+a familiar feature of civil liability in tort law, but is inconsistent with “the
+conventional requirement for criminal conduct—awareness of some wrong-
+doing.” Having liability turn on whether a “reasonable person” regards the
+communication as a threat—regardless of what the defendant thinks—
+_ “teduces culpability on the all-important element of the crime to negligence,”
+and we “have long been reluctant to infer that a negligence standard was
+intended in criminal statutes.” Under these principles, “what [Elonis] thinks”
+does matter.
+
+...In light of the foregoing, Elonis’s conviction cannot stand. ... Given
+Our disposition, it is not necessary to consider any First Amendment issues.
+
+ELONIS v. UNITED STATES
+
+Supreme Court of the United States
+135 S. Ct. 2001 (2015)
+
+Cer Justice Roserts delivered the opinion of the Court.
+
+Federal law makes it a crime [punishable by up to five years’ imprison-
+ment] to transmit in interstate commerce “any communication containing any
+threat... to injure the person of another.” 18 U.S.C. §875(c). Petitioner was
+convicted of violating this provision under instructions that required the jury
+to find that he communicated what a reasonable person would regard as a
+threat. The question is whether the statute also requires that the defendant be
+aware of the threatening nature of the communication. ...
+
+[After his wife left him, Elonis started posting on Facebook rap songs and
+other material containing graphically violent language and imagery. Although
+Elonis often included disclaimers that his posts were “fictitious” and “thera-
+peutic” for him, the targets of his posts saw them differently. For example,
+Elonis posted a script in which he wrote:]
+
+[W]hat’s interesting is that it’s very illegal to say I really, really think someone
+out there should kill my wife. .. . lalso found that it’s incredibly illegal to go on
+Facebook and say something like the best place to fire a mortar launcher at her
+house would be from the cornfield behind it because of easy access to a getaway
+road and you’d have a clear line of sight through the sun room... .
+
+[After viewing the posts, Elonis’s wife requested and received a state-court
+order of protection. Elonis responded by posting again:]
+
+Fold up your [protection-from-abuse] order and put it in your pocketl.] Is it
+thick enough to stop a bullet? ... And if worse comes to worse[,] I’ve got
+enough explosives to take care of the State Police and the Sheriff's Department.
+
+
+
+|
+|
+
+272 3. Defining Criminal Conduct—The Elements of Just Punishment
+
+[The Court did not decide whether the statute required knowledge oy
+recklessness with respect to the threat, leaving that question for another day |
+
+Justice ALITO, concurring in part and dissenting in part.
+[W]hen Congress does not specify a mens rea in a criminal statute, we have
+no justification for inferring anything more than recklessness is needed. .. .
+
+QUESTIONS ON ELONIS
+
+The Court made clear that a negligence standard is disfavored in criminal]
+law but did not decide whether recklessness or knowledge was the right mens
+tea to read into the statute. What factors should guide that decision? Justice
+Alito suggests that the default should be recklessness when a statute is silent,
+thus eliminating any further inquiry. Does that one-size-fits-all default rule
+represent the best guide to statutory interpretation? Should the severity of the
+authorized punishment matter? What about the typical mens rea for analo-
+gous crimes? Recall that in Cunningham, p. 260 supra, the court held that a
+statutory requirement of “malice” could be satisfied by recklessness. If a stat-
+ute requiring “malice” can be met by recklessness, why should a court require
+more in a statute that expressly identifies no mens rea at all? Compare the lack
+of certainty in how to approach these issues in the common-law framework
+with the Model Penal Code approach discussed below.
+
+NOTE ON THE MODEL PENAL CODE REFORMS
+
+Responding to the problems posed by common-law mens rea terminology,
+the MPC proposed a fresh approach that has been extremely influential. The
+Code’s mens rea framework has been adopted explicitly in more than half of
+American jurisdictions, and it often influences judicial interpretation in the
+remaining jurisdictions as well. The older framework for mens rea analysis
+survives, however, and indeed it remains dominant in a number of jurisdic-
+tions. Common-law terms are used in many state penal codes and in the
+increasingly significant field of federal criminal law. The requirement of a
+“willful” mens rea, for example, persists in many important federal crimes.
+One study finds that “courts, legislatures, and scholars [continue to use] mean-
+ingless mens rea terms such as ‘willful’; to employ the simplistic but ineffective
+distinction between specific- and general-intent crimes; [and] to fail to see that
+mens rea questions are element-specific.” Michael L. Seigel, Bringing Coher-
+ence to Mens Rea Analysis for Securities-Related Offenses, 2006 Wis. L. Rev.
+1563, 1564. It is therefore important to emphasize that this older approach
+remains very much in play and must be learned as well, despite the success of
+the more modern MPC framework, which we now examine.
+
+The MPC attempts to mitigate the difficulties of mens rea analysis through
+three distinct tools—manageable categories, precise definitions, and conve-
+nient default rules. First, the Code eliminates the use of general intent, specific
+intent, and other ambiguous common-law terms, replacing the ten-plus
+
+p. Culpability 273
+
+varieties of common-law mens rea with just four mental states—purpose,
+knowledge, recklessness, and negligence. Second, the Code provides a rela-
+tively clear, rigorous definition for each of its four mens rea terms. Third, the
+Code provides rules of interpretation (default rules) to enable courts to deter-
+
+- mine the required mental state sensibly and predictably when the statutory
+
+Janguage concerning mens rea is silent, ambiguous, or contradictory.
+Because they are technical and rigorously precise, the MPC provisions are
+
+- pot an easy read, but mastering them is an essential prerequisite for the suc-
+
+cessful study and practice of contemporary criminal law in any American
+jurisdiction. As the first step in the process of acquiring that mastery, the
+student should at this point turn to the Appendix and read with great care
+the MPC provisions that embody its three mens rea reforms, specifically:
+
+© §2.02(1), which reduces the many common-law mens rea terms to four
+manageable categories;
+
+e §§2.02(2)(a)-(d), which provide precise definitions for each of the four
+mental states used in the MPC framework; and
+
+* §§2.02(3)-(4), which provide specific default rules to govern statutory
+interpretation.
+
+The significance of these provisions and their underlying rationale is
+explained in the following excerpt, which likewise should be examined
+with care.
+
+MODEL PENAL CODE AND COMMENTARIES
+Comment to §2.02, at 229-241 (1985)
+
+1. Objective. This section expresses the Code’s basic requirement that
+unless some element of mental culpability is proved with respect to each
+material element of the offense, no valid criminal conviction may be
+obtained. ...
+
+The section further attempts the extremely difficult task of articulating the
+kinds of culpability that may be required for the establishment of liability. It
+delineates four levels of culpability: purpose, knowledge, recklessness and
+negligence. It requires that one of these levels of culpability must be proved
+with respect to each “material element” of the offense, which may involve (1)
+the nature of the forbidden conduct, (2) the attendant circumstances, or (3)
+the result of conduct.’ The question of which level of culpability suffices to
+
+1. Section 1.13(9) defines an “element of an offense” to include conduct, attendant circum-
+Stances or results that are included in the description of the offense, that negative an excuse or
+Justification for an offense, or that negative a defense under the statute of limitations or establish
+Jurisdiction or venue. Section 1.13(10) defines the concept of “material element” to include all
+elements except those that relate exclusively to statutes of limitation, jurisdiction, venue, and the
+like. The “material elements” of offenses are thus those characteristics (conduct, circumstances,
+Tesult) of the actor’s behavior that, when combined with the appropriate level of culpability, will
+Constitute the offense.
+

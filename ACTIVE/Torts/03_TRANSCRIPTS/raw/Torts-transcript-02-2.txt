@@ -1,0 +1,656 @@
+SPEAKER 0
+Oh Sorry like Get this. I Office I OK. I. I was like I. I. I. Good. Oh I Because he just OK, welcome back.
+
+SPEAKER 1
+Hi. We have one of our uh TAs who's here I think for the first time. Would you like to introduce yourself? Hi everyone, I'm Renata. I'm a 2L, um, and I'm looking forward to hopefully getting to know you all this semester. Say again. Oh, I'm, I'm looking forward to getting to know you all this semester. That's great. Thank you. Nice to meet you. As usual, let's start off by taking a few breaths if you'd like. Just quietly settling in. And relax your eyes if that helps. Or you can close your eyes. Taking your breaths and slowly. Really taking your time. Sometimes it helps to count. Breathing out. Same thing. Again, At your own pace. Now you're feeling yourself settling into this chair, you feel the weight of your body in here. Leave the outside outside and. Be present in this room. And one more time, at your own pace. When you're ready, you can Gently open your eyes, look up here. As usual we have our agenda on one side and some themes on the other. Remember the themes will sort of start coming back, but today you're seeing some new ones we haven't seen before and we'll try to touch on them. You can always ask me about them in office hours, but I'll try to through contexts develop them. You'll get a better feel for them as we go along. OK Just a reminder of what we've been doing. Remember our very first exercise with the story of little Leo Adams and The Wire getting electrocuted, and we started off by just trying to make arguments about well, who's really responsible in the sense of they need to be paying for the injury, they need to. Cover his cost, his pain, his, the damage to him. Remember, he lived, but he had burns, he had some maybe some neurological damage. Is he supposed to bear all of that himself or his family, or should the bridge people? The people who made that bridge where he could reach down, should they be responsible? Should the trolley company be responsible? Who should be paying for that? Really, we're talking about moving money around. And we started off making arguments about, well, really based on common sense. Remember you're arguing to a jury, so we started off with just common sense arguments about well, how, how do we, how do you persuade someone that it really should be him or that it should be. Somebody totally, a total stranger to him, the trolley company, why should they be paying for his injuries? And think about the kinds of arguments that you came up with just out of the blue on our first day of tours. These are the things that we're are gonna talk about as elements as parts of. How tort law is constructed, but you came up with all of this on your own and just Making of arguments to aunt and uncle. Turns out Aunt and uncle also happened to be the jury. So that's convenient, but here are the things that we're basically working through now, which all came up on our first day with our first exercise. Well, how careful should anybody have been? How careful should little Leo have been? How careful should a trolley company have been? Remember there you're thinking about, well, what more could they have done? What were the untaken precautions? Do you have to bury the wire underground? Do you have to tell kids to not play at all outside? Do you, what do you do? How careful do we really expect anyone to be? And how much is too much? How many kinds of precautions are are not worth it? And here you might start thinking in terms of cost-benefit a little bit and we'll of course do that on Wednesday, as you know from the assignments. Is it the same? Do we do the same analysis, the same kinds of arguments for the trolley company as for little Leo? What about a kid? How careful should a kid be? Do we think about that the same way, not the same way, right? Again, questions that tort law has dealt with over time, as we've already seen from last time. Who's supposed to pay if both of them aren't too careless? If the trolley company could have been more careful and really should have been same with little Leo, well, now what? Does he just eat it? Do they have to pay some of it? How do you divi divide it up? We talked about contributory negligence, the move over time to comparative negligence of different forms, and of course we'll see some more of that today. We talked about foreseeability. Foreseeability will keep coming up in tort law. I'll just say right now that you will hear foreseeability in basically every section of our course. Do not try to slot it in into like, here's one part of the torts analysis where you do foreseeability. No, it's kind of everywhere in tort law for probably good reason. Could it be analytically cleaner? Yes, and we'll see that restatement writers in the 3rd restatement have tried to clean it up a little bit. But it's so basic to the idea of how careful you should be, that you should really only be careful or responsible for taking care when you can foresee the danger. That that's so built in that it's kind of all over tort law, so. A lot of things in tort law will kind of bleed into each other. They will overlap. This stuff is made up by judges over time. Sometimes judges think about it here, sometimes they think about it there. Juries are asked to think about it here. Juries are asked to think about it there. There may be duplication. Don't worry about it. Do not try to slot everything into one perfect. Flow chart. These things just keep coming up. Foreseeability is one of those things. And then of course, as we'll get to even more today, this question of, well, who is deciding this? Is it the judge? Is it the jury? How much control does the judge have over the jury? What kinds of instructions are allowed? Should we have the judge giving? How structured should the analysis be? Can we tell aunt and uncle not to think about some things? Can we tell aunt and uncle that they have to think about some things? And of course, we're getting to a lot of that stuff today. As you think about this, as you think about sort of just the basic questions that even come to mind for you when you think about what I need to persuade someone. About who should pay. These things become part of what we all call in this class legal design. And this is what we've been moving our way towards. Last time we saw the stuff about the kids, courts sort of like started, you know, kind of designing the inquiry a little bit differently for kids than for adults. And then there's this exception for adult activities like motor boats, OK, that's somehow like cut off. Then there's this cut off for like. Little kids, right, who can't ever be negligent. Right, so tort law has these design components that maybe you've seen in other classes, maybe you're starting to see more and more here as we see more doctrine. Every time there's some new doctrine packed on, it has some design components to it, and that's a lot of what we'll be talking about going forward. So today, as you know, our concerns, our core concerns of legal design are going to be about rules versus standards. It's kind of a Old familiar debate and how to design the law and also who decides, judge and jury. And then we'll also see the connection between those two. What does it mean to have a rules and standards debate in the context of having two possible decision makers, judges and juries? Those rules tend to lean towards juries having more power or judges having more power? Do standards, loosey goosey standards, do they tend to lean towards judges having power or juries having power? We'll talk about that. I'll just explain this one theme here called institutional competence. You may have heard it in other classes or in legal methods. You surely will hear about it in leg reg when you take it. It really is just asking the question who decides? Who's the best decider, who has the knowledge, who has the time, who can think through this best, who can design the nat the structure, the nature of the law the best Institutional competence, which of all these possible different bodies. We've been talking about judges, judges and juries, there's gonna be legislatures coming in today, there's gonna be industry and the profession itself, all of these have their own institutional competence or incompetence. There may be others regulatory agencies when you take admin or leg reg, big, big, big question there about institutional competence, whether judges should be making up stuff or expert agencies. OK. Tailoring, tailoring is new also, this is one more thing we'll start talking about. We saw it a little bit last time when we talked about kids. Right? Kids of this age have this rule, and then, or this structure, and then kids of this age have this structure, and then after that they're grown-ups, they have this structure of how to do tort law for them. So you can think of that as a tailoring question. How much, right? Do we say? Kids under 5 and then 5 to 10 and then 10 to 15 and then 15 to I don't know 25 whatever or do we just say adults and kids or do we break it up some other how much specificity do we need in the legal structure in the doctrine. How do we break that up? How tailored should it be? Kids versus trolley companies. But also how to tailor, like how do we, what are the various design tools that we have in the law. The reason I'm gonna be focusing on this so much in our class, this idea of legal design. It really, it really has to do with why torts in the first year. It's not because you need to know about oil spills or car accidents or pharma. Great to know that stuff, it's in the news. You want to be careful out there in the world, sure. But it's because tort law gives the basic principles and exemplars of how to do civil liability. In American law. When you get the regulatory agencies, which make up most of the law really that you live with, right, everything here is regulated, every single object has regulations attached to it. How much electricity can be running through this? The composite of this, the composite of this. How flammable the carpet is. Everything in this room has a regulation, right? All of that has torts, principles, design elements, all these things that we're talking about, all these themes show up in how we think about regulation and civil liability more generally. When you take a class on discrimination laws or other federal statutes having to do with, um, I don't know, tax even. You will see so many of the same kinds of things that we are seeing in this class. You may even see it on the public law side like criminal law or con law. So in a way we're using tort law in the first year to get some of this stuff across to you about legal design, about how liability works, about who should pay, why. What's it for? Just like right and wrong or incentives or all these things that you already know will keep showing up. So that's why we're um gonna be focused quite a lot on this legal design thing in our to cost. Very quickly just to warm us up because it's been a while, remember how we've been thinking about the most core concepts in the law of accidents in tort law, which has to do with this question of carefulness. We call it negligence. The negligence analysis you might think of as some kind of amount of carefulness you're supposed to take in a given situation. If you take enough, you're fine. You don't have to pay for somebody's injury even if it happened. Accidents happen, you can't expect everybody to be Maximally careful all the time because you'll never cross the street then. So at a certain point you're off the hook for somebody else's injuries or for your own. And at what point does that cutoff happen where tort law is going to consider you no longer negligent. Because you took enough care. That's the negligence point. That's the standard of care. And the way we've been deciding that is that. In Anglo-American law, as we'll see today, it basically just goes to the jury. Oliver Wendell Holmes is not going to tell you that the standard of care as a matter of tort law in the common law is that you have to get out of the car, take a look, and then come back. He tried, but then we're gonna see, no, it really just tort law has evolved the other way, which is to send it almost always to the jury. So aunt and uncle picked that point and as we saw in the jury instructions last time, aunt and uncle are the law really. As the instructions tell them. The instructions say, hey, a jury, we just have this phrase called reasonable person. We can kind of tell you what that means a little bit. And reasonable person under the circumstances for kids, reasonable person with age characteristics. We can tell you a little bit more. But in this situation, it's entirely up to you to make the call about what that reasonable person. With all the bells and whistles would have done. Which is to say what this person should have done, which is to say that's what the law required of them, which is to say you, the jury are the law in this case cause you're picking that. Expectation. Right? So where on the carefulness style you have to be before you are off the hook. For negligence, it's up to aunt and uncle. Remember also the thing we ended on last time. This is all warm up of course for Goodman and Pakora. Remember where we ended up last time we started talking about, hey, what about little Leo? Isn't it his own darn fault? What about the swimmer who threw his head into dark water without checking it first properly or without going down the ladder with his feet first? It's his own darn fault. We'll see him again today, as you know. What happens when it's, there's multiple parties. Here we're talking about the plaintiff having been careless to or negligent in respect of their own injury, but we can have others. When we get to BEP there'll be like multiple parties who are all super negligent. What do we do about that? How do we divide it up? OK, no oil spill. Now these 3 companies were involved. What do we do? So we'll be thinking a lot about how to divide it up, and as we think about how to divide it up, you also want to keep in mind. Oh, the aims of tort law. Maybe the way we divide it up has to do with something about what we're trying to do with tort law. Do we divide it up by wrongness of their behavior? Do we divide it up by how much incentives we wanna give each party to be more careful or future parties to be more careful? What loss distribution? What, what are we after when we move the money around? That's this question here. There's lots of ways to design this, but as you've seen, we basically have two, kind of 31 is the all or nothing, old-timey approach which you see in Goodman Pakora called contributory negligence. Saw this in little Leo Adams too, although you didn't read about that. And there the idea is if the plaintiffs even a little bit negligent themselves, if the victim is even injured party is even a little bit negligent themselves, they get nothing. Nothing. A little harsh, but that's the old rule. A few jurisdictions still have that tiny number of jurisdictions still have that. Most have moved over some form of what we call comparative negligence because now you are looking at, well, you were this much negligent, trolley company, you were this much negligent, little Leo, let's weigh it somehow. How do you weigh that? No one knows. Aunt and uncle just have to pick a number. A to now have to compare the negligences of the different parties and say, Little Leo gets kind of 30% back. Because he was pretty negligent, let's call that 70% of the total negligence, 30% is responsible, that's the trolley company's responsibility, that's what they have to pay. Right, so it's kind of like how much do you get back or how much do you have to pay for yourself. Truly no guidance on this. Aunt and uncle just have to pick it. So most of the time we'll be working with pure comparative negligence on top and not worry about the strange picture #3, which is modified comparative negligence, but just know that it's out there. All right, so long wind up today, but that's all just a bit of review, getting us back on, back, back in back, get the stuff in our heads and also to set us up for our two train crashes, or car crashes. So let's turn to These Romeo Talapa. Hi. Can you just start off and remind us of the story of Goodman, let's start with Goodman. These are a famous pair of cases. Remember that every time you get some assignment you wanna be asking yourselves why are we doing this? I try to tell you in the reading assignments, but to be clear, what's happening here. is that these are not just fact patterns as we've been using cases for so far. These are famous cases. They're classic canonical cases in every torts class. And they're paired together always because for obvious reasons which you already know. So we're talking about them as a classical set of cases. Do they stand for something you want to write down? Not really, not tort law. Doctrine, but they stand for the rules and standards debate within tort law. This is the famous rules versus standards debate, rules versus standards, you already know the answer, right? Rules versus standards, OK? And it's two famous judges duking it out. So that's why we're doing it. No doctrine to be involved, to be interested in here, just the rules versus standards debate. Oh yeah, please remind us what happened here.
+
+SPEAKER 2
+Um, so, this case is about the death of a man named Nathan Goodman. It was brought by his widow because, um, Goodman actually ended up being killed in the accident about which she brought the case.
+
+SPEAKER 1
+OK, tell us about the accident. What time period are we in?
+
+SPEAKER 2
+Yeah, so, this opinion was delivered in 1927, um, and Goodman was, I think that it was his job. He was like a driver, um, and he was driving an automobile truck. OK, so he's driving an automobile truck.
+
+SPEAKER 1
+I'll draw it. I'm just gonna draw a car. OK, there's a car. Here we go. There's his windshields he's driving, he's driving which direction? Uh, I think east, easterly, I'm guessing is east.
+
+SPEAKER 2
+Um, let's say that's east, OK. And he was driving towards the train tracks and um. He apparently he had no view beyond 243 feet.
+
+SPEAKER 1
+Why couldn't he see anything? Was it nighttime?
+
+SPEAKER 2
+Um, it was obscured by this section house or something,
+
+SPEAKER 1
+right? We don't know what that is, but there's something over here. Something over here that's blocking his view. I don't know what a section of the house is, but there's a house, house. OK, he can't see.
+
+SPEAKER 2
+And because of the obstacle, he didn't really, I think he gets more of a view, maybe 12 ft. So when he comes a little closer, and at that point he does try to slow down. Um, how fast is he going, like 100 MPH and
+
+SPEAKER 1
+he can't slow down enough, or he was going at
+
+SPEAKER 2
+like 10 or 12 miles an hour, 10 or 12
+
+SPEAKER 1
+MPH. Alright, I mean, look, this is 1920 something, maybe that's how fast they go, unclear, but maybe he slowed down a bit, right? And he slows down even further than that.
+
+SPEAKER 2
+Yeah, he slows down to 5 or 6 miles at about 40 ft.
+
+SPEAKER 1
+OK, so he's getting closer. He slows down like any driver would as you approach a railroad crossing, especially if you can't see something, and then he stopped the car and he gets out and takes a look, or he doesn't? No, he, um, just kind of slows down and.
+
+SPEAKER 2
+I guess glances and then he doesn't hear like a a bell or a signal or anything from the train so he assumes he's good and he hold that thought
+
+SPEAKER 1
+about bells, whistles and should he have been expecting that we'll get to that back, back to that in a second, but like. Here I mean it's just as simple as it gets. Driver approaches railroad crossing, can't see it, slows down, kind of looks, maybe doesn't hear anything somehow. How many of you have ever heard a train, right? You think you would hear it, but somehow you didn't hear it, didn't know it was coming, and then. Crashes into him All right. So here we are, um, there's a case about this, there's a lawsuit. What, what court are we in? What, what are we reading here? What opinion are we reading? Um, this is a Supreme Court opinion.
+
+SPEAKER 2
+Um, it's a Supreme Court opinion, the US Supreme Court
+
+SPEAKER 1
+opinion, the US, not Texas, not wherever he is, New Jersey or somewhere, OK, um. So where is he? Let's see. Do we know?
+
+SPEAKER 2
+Oh, in what state?
+
+SPEAKER 1
+Somewhere in the 6th Circuit, he is. OK. All right. What are we doing in the US Supreme Court with a traffic case? This is a traffic accident case. What year are we in?
+
+SPEAKER 2
+I think this is, yeah, it was in the other reading. It's pretty eerie, so apparently eerie, yeah, sorry to bring
+
+SPEAKER 1
+that back. All those exam memories from Professor Johnson's class, right? So sorry, so sorry about that. I should have warned you. Morning joke. Thank you. OK, so what do you mean pre-Erie? Why, what does that have to do with anything? I don't know.
+
+SPEAKER 2
+I, I think it said it in the reading, um, that, but apparently before Erie, um, the court, Supreme Court would accept appeals, I think, um, because they wanted to settle like. I, I'm, I wasn't sure exactly why, but maybe because there's the idea that there is a general law, so they would take those torts appeals.
+
+SPEAKER 1
+That's basically what's happening. We don't need to rehash this, but sort of what's happening before 1938, 1938, everything happened in 1938 in CIR. Before that, there was this idea that common law and lots of commonwealth places still do this, lots of courts still do this. Common law is kind of just this collective wisdom of judges over time in the Anglo-American system. And you just look at whatever smart opinions there are by other judges and you kind of use that as a sort of precedent and you build this idea that there's kind of convergent wisdom about how to do this kind of stuff, how to deal with a case like this, how to deal with a case like Little Leo, how to deal with something else, a swimmer. Collective wisdom is kind of building around how to. Designed tort law, right? That's pre-1938 in the United States. Other places, when I say other places, I mean like the High Court of Australia might look to the. Singapore courts. Or New Zealand certainly or Canada or the US or UK or whatever and say hey look they they did something smart with tort law over there let's bring right so that can still happen in lots of other countries but in this country. As you know from Erie. After 1938 we started thinking of states as individual jurisdictions with their own common law and so there isn't as much sort of uh free flowing. I mean they still look at other states, there's still the restatement, don't let me overstate this, OK? There's still a lot of convergence, a lot of learning from each other, but it isn't like, hey, we're all in this together, let's make a good common law kind of thing, which is a little bit what's happening with Goodman and Pakora. You have two Supreme Court justices weighing in. One of them we've already seen as a state court judge, remember, weighing in on how to design tort law for all, for all, all mankind I guess or something, all Anglo-American jurisdictions. So this is a big deal fight because it is pretty eerie. OK. All right, so Who's the justice here we're we're reading, uh, this is Justice Holmes. Justice Holmes, Oliver Wendell Holmes. Well-known justice, highly influential. And he decides to do something with this case, this little car accident, very sad, but really it's a car accident. Why is the Supreme Court getting involved and why is Holmes getting involved? What does he say about how this case should come out? Who won first of all in the lower courts?
+
+SPEAKER 2
+In the lower courts, the plaintiff got the verdict and judgment from the jury.
+
+SPEAKER 1
+He won. This estate won. His widow or estate won. Look, from getting money from whom? Sorry, I didn't hear. Getting money from whom? Who do they win against?
+
+SPEAKER 2
+Oh, against the railroad company.
+
+SPEAKER 1
+Yeah, B O R R. That's a railroad. Yes, Baltimore something is something. I don't know what railroad it is, but Baltimore, Ohio, let's say railroad, OK. And a court of appeals says, Um, it, there is,
+
+SPEAKER 2
+it, it, so far as it appears Goodman did all he could, so, no, no, no, the Court of Appeals,
+
+SPEAKER 1
+not, uh, not the Court of Appeals. Oh, they affirmed it. They affirmed it, yeah, so he's winning and winning and winning, and then Holmes takes it and says, ha ha ha ha ha, ha ha ha ha, no, no, no, no, all right. Aldo Aragon. What does Holmes say about this accident? And whether Goodman's family should recover or not.
+
+SPEAKER 3
+Um Holmes says that uh. He could have relied on his hearing and that's fine, or the fact that he didn't hear a signal, but the fact that he didn't take a further precaution by stepping out and taking a look, that's a risk that Goodman took at his at his own will, so he's partly negligent in the situation.
+
+SPEAKER 1
+Yeah, I remember what it does at this time if you say he's even a little bit negligent. We're still in contributory negligence land. This is the old days. In the olden days, that means he gets nothing. So Holmes is using this case, taking all the recovery away from his family, saying that it's because he's a little bit negligent himself or maybe a lot negligent himself. What's the nature of the negligence? Just say for us again, what is it that Holmes says he should have done? What is the untaken precaution here that I stepped out
+
+SPEAKER 3
+of his car and taken a look down the northern part of the railroad to see if there's a train coming. Sure, it's the thing he didn't do, which is to
+
+SPEAKER 1
+stop the car, get out, walk over to the train tracks, take a look. I mean he doesn't always have to do this, Holmes says, but look, if you can't see it, get to where you can see it, get out of your car, go take a look. I'm back. Now you're safe. OK. So Holmes is saying this because he's aunt and uncle of the jury or what, what is he saying about. This idea that you're supposed to get out of the car and look if you can't see a thing. To begin with, he's saying that in his role as
+
+SPEAKER 3
+a judge, he's basically laying down the law and there's this idea, and there's this last line in the opinion. Yeah, you read it for us? Holmes says, but we're dealing with a standard of conduct and when the standard is clear, it should be laid down once and for all by the courts, so there's no need for the juries to step in when it's so crystal clear.
+
+SPEAKER 1
+Do you think there are a lot of car accidents around this time, 1920s, early times of cars? Yeah, do you think there are a lot of railroad crossing accidents like this?
+
+SPEAKER 3
+Seems like it.
+
+SPEAKER 1
+Probably so, right? You remember from the Abraham reading what it says about Holmes's view of cases like this. We have 100 of these things a year, 1000 of these things a year. Every time it's the same. We know what to do with this. We know what to do with this. Aunt and uncle of the jury do not need to think about it every time. Let's just lay down the law. Remember the jury instructions that we've seen say aunt and uncle, you're the law. There's no law, you're the law. Holmes is saying, no, let's just do it as judges. That's our, we know how to do this. OK, and that's the line. The line is that we are dealing with the standard of conduct when the standard is clear, maybe because there's been 100 cases beforehand and we know how the situation works, it should be laid down once and for all by the courts, OK? So even though he's using the word standard. What are we doing here? Are we doing a bright line rule? Are we doing a loosey goosey standard in the rules and standard debate? What are we talking about?
+
+SPEAKER 3
+I think Holmes stands more in the, the, the rules camp. It feels more like a bright line rule where Goodman's behavior was on one side of that line, so Holmes says. You know, the answer is clear and there's not really like a standard to play around with and apply.
+
+SPEAKER 1
+There's nothing to apply here beyond the fact what's the one fact that you need? This is one way to think about rules is that they rely on a very small number of facts because there's a bright line based on one fact. What's the fact? Did he step out to check? Did he step out to check? Maybe a precursor fact that he couldn't see and then he was required to step out and check and he didn't do that. That's it. Beyond that, do you need to know anything about conditions? Do you need to know anything about like ice on the roads? Do you need to know anything about was the train tooting its horn? Do you need to know any, anything? Do you need to know any other facts? No, no, right? The idea is let's make it easy for everybody. Here's the key fact. Here's the key thing you should have done, given the fact, one fact or two facts, and then we're done. All the circumstances kind of disappear. I'm exaggerating a little bit, but that's, that's how bright line rules versus like a standards. So we might think of rules versus standards as a debate, not just about legal design and who should decide, we'll get to that in a second, but also about how much to take on board when you make a decision. Are you looking at all the circumstances, totality of the circumstances sometimes you'll hear, or are you just looking at One particular fact, two particular facts. And so although when it is that clear and the fact itself is clear, the fact can be disputed, OK, and then you have to have a factfinder, but when it's not, there's no factual dispute and all. Everything, the liability, everything turns on just this one single fact and the rule which turns on that fact. Do we need a jury?
+
+SPEAKER 3
+No, just the judge.
+
+SPEAKER 1
+Judge can make that call as a matter of law. Remember what. As a matter of law means we're talking about summary judgment, we're talking about JMOL, we're talking about directed verdict, we're talking about JNOV. We're talking all those are judgments as a matter of law, and what they mean in CIFR, I hope Professor Johnson agrees, is that you don't need to send it to a jury because no jury could come out the other way. It's too obvious. You don't need a trial. Don't need a fact finder. As a matter of law, whatever that means, you know, it's just kind of a fiction, but as a matter of law we're going to say that. You're liable. Don't need a jury because there's just not any dispute here. Because it's so simple. If you wanted to pack in all the other circumstances, now you got a live dispute and maybe you do need a factfinder, but now that you've boiled it down to one bright line rule, Yes or no, any judge, any four year old, right, could make that call. So that's what's happening here. And we'll just say this is. I guess both are Jays, so we'll say this is judge, OK, and not the jury. You see what Holmes is trying to do. Remember again in the Abraham how it describes Holmes, I mean, you had just a passage from his own writing saying he does also doesn't like seeing juries oscillate to and fro. It's not just the convenience for the whole system of laying down a rule of law. It's also that he doesn't like. What, what might happen? Although if you like give it to a jury, it's a loosey goosey standard, you have the same exact evidence, same exact arguments, and you just have a different jury, could the different jury come out a different way?
+
+SPEAKER 3
+Uh, potentially, I think that's, that's a risk.
+
+SPEAKER 1
+I mean, it's a feature or a bug and you can tell me, right? But the idea is aunt and uncle, that 12, that set of 12 aunts and uncles or 6 aunts and uncles or however many jurors there are, each group can come out differently using their own judgment and common sense about what precautions were required, whether or not this person is liable, who should pay, how much, what percentage. All these things can change in the same identical case. If you just swap out the jury, of course we know that, we know this is how juries work. And that is something that quite offends Oliver Wendell Holmes because he says that doesn't feel like the rule of law. Oscillating juries oscillating to and fro, doesn't like that, right? So he's taking care of that problem in this context, but he's also making a statement about how tort law overall should work. He's like, hey, you know what, next time we get one of these, we're gonna lay down another rule, bright line rule. So now let's go to Pakora, the other side of this. Umutemere Kaplan. Hi, Umu Uma Uma, tell us about Pakora. Totally different case, similar case, where are we?
+
+SPEAKER 4
+Uh Somewhere in the 7th Circuit.
+
+SPEAKER 0
+There. Uh, John Pura is a uh truck driver.
+
+SPEAKER 4
+He delivers ice.
+
+SPEAKER 0
+OK.
+
+SPEAKER 4
+He uh comes to hall ice and he sees there's a.
+
+SPEAKER 0
+I guess on both sides of the track there are these warehouses that have ice and he is on the east side and there's a big line ahead of him
+
+SPEAKER 4
+I'm not dealing with all that so he's gonna cross to the other side.
+
+SPEAKER 1
+OK, I'm about to fall asleep from all these details. What's interesting. No, no, no, this is not about you. What's interesting is who's writing this? Cardozo. Remember Mr. Cardozo, Mr. No facts, let's be mysterious. What is he doing here? He's flooding you with facts, flooding you with facts. You can draw this picture in like much more excruciating detail than I'm about to draw it. Think about what he's doing here. He's just like fact after fact after fact, like this many feet, this many inches, this northeast, southeast. There's lines for the ice, and then there's another line behind him at the go. What is he doing? OK, keep going. So this is good. Yeah, tell me. So there's, he needs to go to the other side to get the eyes or the line, uh, OK.
+
+SPEAKER 4
+Obstructed. So, um, and he's like, I, I, well, I can't hear the, the bell from the train. So he goes to cross and that's when he gets struck and the train's going 30 miles an hour and he's alive. He's very injured.
+
+SPEAKER 1
+OK, so he's coming in from this side. OK, he's going over this way. Goodman was going that way. Oh, OK. Um, let's do this for the record just for the recording's sake.
+
+SPEAKER 0
+See if that works. Yeah. OK, so you were saying again he's crossing from one
+
+SPEAKER 1
+side to the other to get the ice from the other ice shop, lots of ice shops right here. OK, and that's not it. What happened to this car? OK, here we go. All right. So he's driving, I guess he's driving west, that's different from Goodman but barely, OK. And the train tracks, so he's gonna take some care of the train tracks. What happens?
+
+SPEAKER 4
+Um, there's other boxcars that are obstructing his view.
+
+SPEAKER 1
+Ah, OK, so we don't know what exactly that means, but it's something like something is blocking his view. So remember what's happening here. These guys cannot see. Because of some obstruction. Between them and the rest of the tracks. OK. In this particular situation, it's because there's multiple tracks, there's multiple tracks on one of the tracks, there's a bunch of stuff stored on it, right? That seems to be what's happening. A bunch of boxcars stored on the switching track around which you cannot see anything coming, all right. So quite naturally, is this before or after the Goodman case? After, after. At this point, the law is clear. Everyone knows that when you cannot see because of all the rental homes, everyone's supposed to know that when you cannot see, you're supposed to do what?
+
+SPEAKER 4
+Listen. Oh no, get out of your car.
+
+SPEAKER 1
+Listen also, but yeah, get out of your car. If you cannot say get out of your car, do what, uh, and go see what's going on. So what's going on? Yeah, whatever's obstructing you, go, go past it and take
+
+SPEAKER 4
+a look car, drive, yeah.
+
+SPEAKER 1
+Holmes, Holmes tells you, fam most famous judge in America tells you to do this. From the US Supreme Court, he's written a traffic regulation, basically. That's what he's done. I mean, that's what he does. OK. And so he does it, right? Picor does this, obviously he does this because it's the law of the land. No, no, he doesn't do it. What does he do?
+
+SPEAKER 4
+He listens for a bell or a whistle and hearing that there isn't one, he decides to cross.
+
+SPEAKER 1
+Yeah, why do you think he's listening for a bell or a whistle? Is he listening for a sheep with a bell on it? Is he listening for? I don't know, um, a sports team coming and there's a whistle. Why would you, why is that an important fact for Cardoso to have thrown in here?
+
+SPEAKER 4
+Trains usually have bells at these crossings and also he's, I'm, uh, I'm assuming he's like an experienced driver, so
+
+SPEAKER 1
+he's an experienced driver. He probably crosses this place all the time. He's probably heard bells and whistles before. You could draw all these inferences, right? This is why Cardozo's giving you these facts. Trains do this all the time. In fact, there's a regulation saying trains are supposed to do this. Now we're starting to think about, oh. The rest of the legal context also matters. What other people are doing determines what you expect of them and therefore how you should expect to be safe yourself. We've come across this idea of thinking about the other party's own caution, a warning sign. How much do you have to warn? Well, it depends on how careful you think that people are going to be who see it or don't see it. You have to think about their reaction to it, right, and so on. So remember there's always gonna be these interactions. Cardozo is serving it up for you here saying. Trains coming. They should have been running a ringing a bell or whistle probably, right? He's kind of saying they're a little bit liable here. But more importantly, he's saying about this guy, he expected to hear a bell or a whistle. He should have been listening and that was fine and So he does that and then and then what happens? he hears he hears the train and then he's safe.
+
+SPEAKER 4
+He goes to cross and then that's when he strikes
+
+SPEAKER 1
+hit, yeah, OK. If he doesn't do what Holmes says. This should be a clear cut case, right, because the Supreme Court of the United States has now laid down tort law for everybody saying. You gotta get out. If you can't see it, you gotta get out, walk over, take a look, come back, and he's not done it, so he's supposed to lose. Does he lose in the lower courts?
+
+SPEAKER 4
+Um. I've, uh, in the Court of Appeals, they reverse so that he does lose.
+
+SPEAKER 1
+Yeah, they're like, well, Holmes told us, yeah, OK. And then Cardozo gets this. Where are we? Which court are we in now?
+
+SPEAKER 4
+Supreme Court. Again, Supreme Court of the United States, what year are
+
+SPEAKER 1
+we in?
+
+SPEAKER 4
+1934.
+
+SPEAKER 1
+How many years after the other case?
+
+SPEAKER 4
+Oh God. 7, 7 years.
+
+SPEAKER 1
+Within 7 years, Cardoso steps in and says, what?
+
+SPEAKER 4
+Hell no.
+
+SPEAKER 1
+No, yeah, what does he say exactly, really, um. A little more precise.
+
+SPEAKER 4
+He's talking about what um. One point he makes is that sometimes it's actually a bad idea to get out of your car. It could be like unsafe.
+
+SPEAKER 1
+Why? Explain, explain the situation. I suppose I'm like, I can't see the train. Listen. And I wanna start driving, but I know homelessness told me I need to get out and take a look. So I opened my door. I get out. Tell me what's happening here. Why is there a danger by something like a train.
+
+SPEAKER 4
+Yeah, yes, I'm on the tracks now, right?
+
+SPEAKER 1
+There's multiple tracks. That's why he told you there are multiple tracks and poke my head out to where I can see, right. Could that could happen. Something could happen like that. What else? What else could happen? Oh, um, you know, a car could hit you. OK, so the other people, right? Other things are happening. I'm unprotected in a in a pretty tense situation. OK, something like that. What else? What else might happen? Someone could steal your car.
+
+SPEAKER 4
+So, OK, this is well beyond the Cardozo opinion.
+
+SPEAKER 1
+Do not look for it in the Cardozo opinion, but this is good, right? All these things could happen. Also Doesn't do any good. Necessarily. Right. What happens? Get out. I go, take a look, and then what do I have to do?
+
+SPEAKER 4
+Go back in your car and then a train could be coming in that moment. Yeah, you know, it's 19:20 something.
+
+SPEAKER 1
+OK, I go, go, go. It's like 30 seconds later and then what happens. Yeah, Cardoso says. You have this rule, sometimes it's a bad idea, sometimes it doesn't do any good, depending on what?
+
+SPEAKER 4
+The circumstance circumstances, depending on the circumstances.
+
+SPEAKER 1
+You made this rule based on one fact, and yet there are all these other facts that could potentially come into play in thinking about what the right thing to do in that situation is. So what does that mean for legal design? Should we have a rule or a standard? Should it go to a judge or a jury?
+
+SPEAKER 4
+Um, that this should be more of a standard and that, uh, well, he says judgments should be reversed and cause remanded for further proceedings. So I'm assuming further proceedings would be going to a jury, going to a jury.
+
+SPEAKER 1
+He says more than that about the jury. What does he, what does he push? Here, turn to page two of the opinion, last paragraph. And just read that start of that paragraph.
+
+SPEAKER 4
+Sure. In such circumstances, the question we think was for the jury whether reasonable caution forbade his going forward in reliance on the sense of hearing unaided by that of sight. No doubt it was his duty to look along the track from his seat if looking would have failed to warn him of the danger. This does not mean, however, that if vision was cut off by obstacles, there was negligence in going on any more than there would have been in trusting to his ears if vision had been cut off by the darkness of the night. OK, 2 more sentences.
+
+SPEAKER 1
+Keep going.
+
+SPEAKER 4
+Pakora made his crossing in the daytime, but like the traveler by night, he used the facilities available to one in his position. Uh, a jury, but not the court might say that with facilities thus limited, he should have found some other means of assuring himself of safe, of safety before venturing to cross. OK, so is he wanting this to go to a
+
+SPEAKER 1
+judge or a jury? A jury, jury, yeah, he's like the jury is the right place for this, not the judge. He says not the court. He adds that phrase, not the court. There is a way to say judges should be the ones to take all this stuff into account. We cut off a bright-line rule with like 50 factors. You can do that. Sure. You have a giant flow chart, you can have a judge apply that, but no, that's not what he wants. He wants to make clear this is really not just a standard where you take all these circumstances into account and all the inferences and all the argumentation you can make out of it as we've been doing, but actually that is for aunt and uncle. It's a little complicated, Cardozo and the jury. Little Leo Adams won in front of the jury, and Cardoso sweeps in, takes it away with telling you nothing, mysterious opinion, uh, take it away. So Cardo, you know, he sounds very pro-jury here, but that's because he's responding to Holmes. He's kind of, he's doing what he thinks is writing the course of tort law going forward. This is a model for other courts to use in developing tort law, saying. Think about all the facts that could matter. Really? Are you gonna rule them all out? You're just gonna say don't, they don't matter because you're gonna make a bright line rule? You're gonna do that? You're gonna do the thing Holmes did here and tell this guy to do something potentially stupid? Really? That's what you wanna do with tort law? That's what he's saying here. Not clear Cardozo loves the jury, but here he's using it to make a point, OK? One more passage to read just to emphasize that a tiny bit more. Which is Let's Flip to Page 4. And let's read two more passages if you don't mind. Sure. The 1st is the 2nd paragraph there, Standards of prudent conduct.
+
+SPEAKER 4
+Standards of prudent conduct are declared at times by courts, but they're taken over from the facts of life. To get out of a vehicle and. What's that word?
+
+SPEAKER 1
+Let's say a reconnoiter, reconnoiter, not a word any of us has ever have ever had to say. And do you know what it means? It means to like inspect, spy, check it out, right?
+
+SPEAKER 4
+To get out of a vehicle and reconnoiter is an uncommon precaution, as everyday experience informs us. Besides being uncommon, it is very likely to be futile and sometimes even dangerous. If the driver leaves his vehicle when he nears a cut or curve, he will learn nothing by getting out about the perils that lurk beyond. By the time he regains his seat and sets his car in motion, the hidden train may be upon him. OK, alright, stop there for a second and we're gonna
+
+SPEAKER 1
+skip all the way down to the last paragraph. This will be the first few lines of the last paragraph. Notice what he's picking out here, he's saying things like everyday experience, uncommon precaution, hold these things in your head, you already know where this is going.
+
+SPEAKER 4
+Illustrations such as these bear witness to the need for caution in framing standards of behavior that amount to rules of law.
+
+SPEAKER 1
+Caution, before you take a standard of behavior and yourify it, you crystallize it into a bright line rule like who just did? 7 years ago, uh. Holmes, homes, right? Keep reading. The need is, the need is the more urgent when
+
+SPEAKER 4
+there's no background of experience out of which the standards have emerged. There are then not the natural flowerings of behavior in its customary forms, but rules artificially developed and imposed from without. OK, what is he saying here?
+
+SPEAKER 1
+He's saying, hey, wait a second, we need to learn from experience. We need to learn from what's common. We need to learn from common sense. We need to not what? Listen to a judge. Listen to a judge, in particular, a judge who he knows very well and happens to know has never driven a car a day in his life. Oliver Wendell Holmes didn't know how to drive, so the myth of this debate goes, right? That's the story. But who does know how to drive?
+
+SPEAKER 4
+I'm assuming Cardoso. No, no, sorry, or the, the, uh, Pakora and other truck drivers, yes, and the people in the jury, jury,
+
+SPEAKER 1
+I I'm gonna know how to drive. Who's gonna. Be able to digest who has the institutional competence to digest all the circumstances, all those facts, figure out like what is the safe thing to do when it's raining and then you can't really see and you can't hear because it's whatever and also blah blah, aunt and uncle know how to do that. Holmes surely doesn't. I, Cardozo, also don't want to do it, so tort law shouldn't develop that way. That's his message here, OK. All right, so that's the classic debate, Holmes versus Cardozo, rules versus standards, you'll see this in all your classes, you'll have endless debates about. Comedians and sort of clarity in the law versus flexibility and ability to take on more facts and evolve and. Yeah, you have oscillation to and fro and you have inconsistent decisions, and then you get more consistency here. You're gonna have this endless debate, you'll hear this quite a lot. But here's one example, um, the famous example from tort law. This continues on. This is not like, uh, oh, we had this historical debate. And it's gone Right. This is why we had you go back and read the Parks and Rec case a little more in a different section, because there you have exactly the rules versus standards debate showing up in a case from not that long ago, just a few years ago. So let's just briefly remind ourselves of what happened there. Dylan Canyon. Hi, Will you just remind us again very quickly about Parks and Rec? We know what happened there, but just remind us, and then we're gonna turn to the Davies case, which is the story within that story, the opinion within that opinion. And get those facts out So you want to remind
+
+SPEAKER 6
+her of the facts of Parks and Rec, or really,
+
+SPEAKER 1
+where are we? What's happening?
+
+SPEAKER 6
+So I, I forgot exactly the state, but basically, uh, North Carolina, um, we're at a, a public park where a few high school teenagers, uh, come upon the, I guess, little lake or, you know, maybe it's dubious whether it's really a lake given the depth, but they noticed that there's a very long pier that extends into the water and they, you know, are thinking they want to try it, try it out and swim, maybe have some fun. So they decide, maybe they should get a sense of its depth. I think there was some organic matter in the water that made it very dark and difficult to see to the bottom. So the crude method they choose to. Um, check the depth is to throw rocks into the water, and if they don't, you know, see the rock hit the water, then presumably it's a very deep, uh, depth is their approach.
+
+SPEAKER 1
+Remember a lot of details for not remembering this. OK, that's great. So then what's the actual accident?
+
+SPEAKER 6
+Um, so I believe the plaintiff, um, being a Experienced swimmer and diver decides that he'll dive off the pier, uh, head first, and I think hits his head on the bottom of the rock.
+
+SPEAKER 1
+Does he dive like this or does he dive like
+
+SPEAKER 6
+like this head first.
+
+SPEAKER 1
+He does a shallow dive. He's an expert diver, swimmer. He knows how to do this, dives right in and hits his head on the rocks, hits his head and
+
+SPEAKER 6
+seems to have injure his shoulder as well, yeah.
+
+SPEAKER 1
+More than the football field's length of pier, you're in the middle of the lake and it's this deep. No warning signs, nothing, ladders, I guess. OK, so that's of course that what this case is about. They're suing and so on, and part of the question is about, what is it? Isn't it his own darn fault? And we can debate that, you know how to use all the facts, the fact that he's an expert, the fact that it's dark in the water, the fact that whatever, you know how to do that. We know how to argue that to aunt and uncle. Where does the Davies case come in? Why is this opinion referring to the Davises case? And tell us about the Davies case.
+
+SPEAKER 6
+Um I don't know specifically what, uh, the Davies case, uh, how that comes in, but specifically they're talking about it as there were other instances where someone dove into water that was, you know, a limited depth, and it, you know, that they failed to use, uh, ordinary care in doing so. And so I think it stands for the notion that the plaintiffs can have contributory negligence in the injuries they receive, um, yeah, from engaging in this sort of case
+
+SPEAKER 1
+where someone did something similar. OK, do you remember the details or can you find them? Like where, where are we? Um, is it another long pier? What's happening?
+
+SPEAKER 6
+Well, it says that the, in the Davis case, the plaintiff knew from her experience as a trained diver that diving into water of unknown depth was dangerous, but did so of her own, by her own choosing and at her own risk. So I guess, you know, that's pretty similar too, she
+
+SPEAKER 1
+knew how about this particular spot already, maybe a little bit different in the facts. And then how old is she? um.
+
+SPEAKER 6
+I don't, at least not, don't remember exactly from these details. Someone wants to assist 1414, 14 years old, 14 years
+
+SPEAKER 1
+old, 14 years old, OK. He was in college, so let's say something above 18 maybe, right? Or maybe again something different here going on. But what was her injury? What happened to her?
+
+SPEAKER 6
+So, um, Trying to see what her injury was, but basically, um, I guess that other point of comparison, uh, is that there, you know, she had other reasons to believe or expect that maybe she might have been injured or the ways, ways that she could have avoided this, um, injury or this risk similar to, you know, the plaintiffs in our case have taken more care of herself,
+
+SPEAKER 1
+yeah, and her injury again, just remind us what, how did she get injured, um, I guess.
+
+SPEAKER 6
+Her friend had allowed her to, you know, ride the jet ski, and they decided to, um. You know, ride to the dock and then dive into the water and she hits her head and in the middle and broke her neck, uh, afterwards because we're in
+
+SPEAKER 1
+the middle of the lake again, but it's not one of these attached piers, it's one of these floating piers, OK. And what does she do?
+
+SPEAKER 6
+She dives off. The water is about 12 inches deep, so maybe even more shallow than she doesn't want to get caught messing
+
+SPEAKER 1
+around on a jet ski with her friend. She's in the dock. She decides to jump into the water here and she
+
+SPEAKER 6
+hits her head and breaks her neck.
+
+SPEAKER 1
+Sure, 20 inches of water, same structure of injury, diving into too shallow water when you probably should have known better, right? That's the idea. They themselves are contributory negligent. Davies and James Court are. Contributorily negligent, comparatively negligent here in this case because they should have known, but they should have taken more care. We're debating their own negligence. So why is the Davies case being mentioned here? Let's figure this part out. Sarah Hahn. Why is this opinion telling us a story about this other accident that happened before? Um, because it's just an, an equal comparison, a similar situation. It's interested in the comparison. Why is it interested in the comparison? What did the lower court do here? Um. Here the lower court is called the commission but it's basically a lower court. What did they do? They saw this previous case, basically the same kind of neck injury. You dive into too shallow water. Yeah, maybe some facts are different, but. So I think in that the Davies case they didn't, they found that they did not use ordinary care. Say again. They did not have, they did not use ordinary care. They were in the Davies's case she was found negligent for her own injury and therefore the lower courts saw that and said, what about this case? Um, they found the defendant liable. Well, we're talking about courts, the plaintiff's own negligence right now. What did they say about him? Um. They found it was a sim similar s I'm sorry, I'm not sure, yeah, similar situation. It's the same. They're like this is the same as Davies. We know what to do with tort law in Davy's case, the Davies's case where we already found that she is negligent for her own injuries, this is the same thing. That's precedent. Let's just apply it. It's basically what they said. Treating the Davies case as a rule or a standard or how, how, what's, what's different from how we would have discussed Jane Coors' liability for his own injury. Um, I sort of read it as following precedent from based off of a similar situation, but. Yeah, so what does that mean? Um. Rule or standard here's the standard of care. OK, we're talking about the standard of care, yes, but what happens when you take a precedent, a prior case, he's like, well, that now we know what to do. Does that sound more like Holmes or Cardozo? Uh, it sounds more like Holmes. It's Holmes. The lower court kind of did a Holmes here. They said we don't even know what to do with this kind of case. Some kid like throws her head into the water, didn't look for us, they're negligent. That's too bad for them. We take away some of their recovery or did they get nothing depending on the state or whatever. But here in this particular jurisdiction we already have a case that looks just like this. Let's just do that again. It's not exactly laying down a rule of law. It's not exactly what Holmes is talking about. It's very similar. The idea that you look at prior cases and you say, here's what came out of that case in that situation. This one's close enough. That's like using precedent. That's like looking to the prior ruling as some kind of laid down rule of law, because you're not doing it from scratch now, right? How would you do it from scratch, Sarah, if you would, right? How, how would we do a negligence analysis for James Core without reference to Davies? How would we do it? Um, kind of like Cardozo following, looking at the facts and following steps. Do all the normal thing that we do in class. Here are all the facts. Do what you can with it, make some arguments. She's an expert. She knows. Her mom told her, um, at the same time it's kind of a weird situation. It's a floating dock. Well, you know, you just make the arguments. In her case, and then you show up in the James Core case and you use all the facts again. Uh, long pier, it's kind of dark in the water, no signs. He's an expert swimmer, he knew how to dive, he should have known better, therefore, actually he's really good at diving, so it was reasonable for him, uh, back and forth. You just do it from scratch. You just do it from scratch. You don't learn anything from a prior similar case because each aunt and uncle set of jury. Is allowed to come up with different answers even in the same case, never mind when you have different facts to work with in a new case. So that's the old rules and standard debate playing out in our swimmer case. Lower court did a Holmes and this high court comes in and says no, or appeals court comes in and says no, no. Cardozo, Cardozo told us where tort law has gone ever since then. Should be going, and we're gonna keep doing that. Tort law, as we will basically talk about, um, from here on out is almost entirely. Standards based, going to the jury, aunt and uncle. It could have gone the other way. We could have had a tort law if Holmes had won this debate. We could have had Put this off. We could have had a tort law. That was just made up of rule after rule after rule after rule. That's what the regulations look like. Again, there's a regulation for the wood content in this. There's a flammability of this. There's a rule for exactly how much current can go through this mic without electrocuting me. There's a rule for every little thing. It's laid out in excruciating detail. Is there an infinite rule book? Yes, there is. It's called regulation. And it's possible for tort law to have gone down that path where judges made up individual regulations, individual rules endlessly, here and here and here and here and here and here. It could have gone down that way, or at least for the most common situations. Here's a rule for this common situation that always comes up. Here's another for that common situation which always comes up. It is possible that was would have been probably Holmes's vision for tort law. We don't have that. We have a Cardozo vision of tort law, which is standards goes to the jury, and that's why, at least in this course and a lot of the practice of tort law, most of what you're doing all the time is working with the facts, because there's just not that many rules. There's not an infinite rulebook. There's a tiny little rulebook in torts, and it really is about taking the facts and trying to convince aunt and uncle that given whatever loosey goosey standard framework you get. This is how it should come out. Aunt and uncle make up the mini rule in each case, and it doesn't last as a rule in the rule books. It just disappears the next time. So always making arguments afresh using the facts, that's what we'll be practicing because of this. OK, let's take a break. Let's take 5 minutes, and when we come back, we'll do uh the external standards.
+
+SPEAKER 0
+Oh yeah. For yeah. Yeah Yeah. That You. No. reality celebrate I I think Me. wasn't I It's always I. I I was. I'm all right. Those I I. got it. Yeah so All Thank OK. Welcome back. Welcome back. Hello. Any announcements from our teaching fellows?
+
+SPEAKER 1
+Renata Fang, any announcements?
+
+SPEAKER 0
+TA session tomorrow at like 12:20 we're not gonna be able to provide lunch, so it's starting at 12:20 so that you can go get lunch and then come. Please feel free to eat. I'm sorry about the no lunch. The university is stingy. It's not our fault, um.
+
+SPEAKER 1
+Thank you TFs. Where is it?
+
+SPEAKER 0
+Big 10. There will be an email right after this.
+
+SPEAKER 1
+Yes, OK, great. Keep an eye, keep an eye out for that, uh. Let's see if this one's working. Yeah, good. OK, so my office hours start tomorrow. First office hours, they'll be 8:30 to 9:30 in JG 908. Straight up the elevator, turn left, look through the big glass room, nice sunny room. Probably warmer than down here.
+
+SPEAKER 0
+There will be snacks. OK.
+
+SPEAKER 1
+Tuesday 8:30 to 9:30 is my normal office hours time. At certain points along the way, I will do some on Zoom for people who can't get here that early or have other obligations or whatever in case Zoom is easier, but generally we'll be doing it in person. Remember, it's just like a bunch of people talking about torts, so feel free to come and go. You don't have to be prepared with anything. You don't have to have a question. You don't have to stay the whole time. You can just come in, get a snack, leave, that's OK too. It happens, you know, I get it, um, but also feel free to stick around and listen to your classmates' questions and whatever we're talking about. OK. Any other announcements? All right, So rules are the standards. That's the first half of our class. If you want to do a little exercise for yourself, you can go back to this, which we already know from last time, how the children's tort law of children negligence is structured. And look for the rules and standards. Where are the rules? Where are the standards? Where are the bright line cutoffs? Where's the loosey goosey stuff? And if you do this, you'll start to see that yeah actually you know the rules and standards it's a little bit of exaggerated binary. There are ways to have something in between. You can have meta rules sort of setting off one standard from another or you could have things that are kind of in between. Like standards where you constrict what information you can use, that's on the way to a rule, right? So play with that and sort of, if you want a little bit more of a um a nuanced picture of rules versus standards. What we're turning to now is another aspect of legal design. Remember we've been talking already, you know, here too, about what is it that aunt and uncle should be thinking about, what is it that they really shouldn't be thinking about. And here we're going to be talking about that same question but in the context of what external sources of information should or shouldn't matter a little or a lot? To aunt and uncle, also to just the determination of the outcome of a tort case, which What kinds of outside information, of course in every tourist case we're going to have evidence coming in from somewhere. How far was the train and so on. Did they ring the bell? Did they ring the whistle, whatever. But also there will be cases where you want to know about how does the whole industry do this. Do all trains ring their bell and whistle every time. Right. Or how does the profession do it? What does it mean to be a good doctor? Really? We're gonna leave that up to aunt and uncle? Or are we gonna take in expert evidence? If we take in expert evidence about good medical practice, what do we do with that evidence? What is it the same as a training company or? An AI startup, we, you know. What about that source of information? And of course the final source of information will be legislatures. Legislatures sometimes will have come up with something. Hey, you're supposed to do this, you're supposed to do that. That infinite rule book of regulations I was just talking about, that sets all kinds of standards of behavior. Should that matter at all when we're looking at a torts case, as opposed to thinking about whether they violated a regulation, which is a different thing? What do we do with that? So that's what we're dealing with in this part of the class. All right, so. To get into this, we're gonna start off with uh the first column, which is custom, and for this, we're going to talk about a classic case. Called TJ Hooper. I'll just give you the picture for now, but there's more later. TJ Hooper. Why are we reading this? This one is actually a classic case. It is a classic pairing of cases again this time district court and then the circuit court again well known judge, influential judge, and so what is said in this classic case does become sort of the structure of tort law. Ever since So in a way, this case does kind of stand for something and it's about how custom works within tort law. So let's get right into that. Peter Krannitz. Hi, will you just remind us what happened in this accident? They're all accidents, so what happened in this accident?
+
+SPEAKER 5
+Yeah, so this is about a couple of tugboats or a couple of barges rather, that got lost, um, at sea during a storm. Um, and barges, OK, these are barges or tugboats, uh, they're, uh. Yes. So they sue the owners of the coal companies are suing the owners of the tugboats, which were guiding the barges. Um, what happened to these boats that got lost and
+
+SPEAKER 1
+in, in the sense of like they couldn't find their way back or, uh, they sunk. Oh, they sunk, OK. You're gonna see a lot of cases, especially around this period, and a lot from the Second Circuit, including on Wednesday, is a big, big, big one. Lots of cases about barges and tugboats. OK. Tort law at this moment is being determined, decided in mainly in this context of. Kind of greater industrialization, greater trade, greater mechanical means of travel, so tugboats, barges, trains, early cars, you know, torque case after torque case after torque case. Erie, remember Erie? What happened there? Do you remember? Train accident, car accident, bar, railroad railroad accident, hops off his arm, right? That kind of thing was happening all the time. The clash of like giant machines that move fast, made of steel, and like human bodies. OK, or the ocean in this case, right? So we're gonna see quite a lot of tort law being made up in tort, uh, in situations of, of barges, tort law of, of trains and cars and so on. OK, so just keep your, keep your eye out on that. The reason I emphasize that is because then this stuff is gonna be applied to like everything else, pharmaceuticals. Products, chainsaws, pills, oil spills, like, does that make sense that we have this body of law that's made up from early days of kids electrocuting themselves, early days of barges, early days of trains and cars suddenly being applied more broadly. How was, how is that going to work? But here's a famous example, TJ Hooper. OK. So Peter, sorry, you were telling us about the story.
+
+SPEAKER 5
+Uh, yeah, so the, the barges sunk in the storm, uh, and the, they were carrying coal, and the owners of the coal are suing the owners of the tugboats that were guiding the barges, uh, claiming that they were negligent in failing to provide them with reliable radios which, with which they could have received the storm warnings and gotten the, the barges safely.
+
+SPEAKER 1
+So there are storms that you need to be worried about when you're driving one of these boats around. But there are also storm warnings. This is the early day of radios, radio broadcasting, and radio broadcasting was used to do what?
+
+SPEAKER 5
+Uh, to warn of storms. Yeah, whenever you see a storm coming, you put out
+
+SPEAKER 1
+the announcement over the radio, and if the boat has the radio and it's working. Then they may be able to hear that there's a storm coming. Were there other boats that did have a radio in the situation? Uh, there were, there were 4 other tugs that were
+
+SPEAKER 5
+able to receive the warnings because they had the radios,
+
+SPEAKER 1
+and they sank, or no, no, they were fine. They're fine. Seems to have made a difference to have the radio or not. We'll get to that later when we talk about causation. You have to show that it made a difference. Here it sounds like there's evidence that it would have made a difference. The boats that had radios were saved. The boats that did not have radios were not saved. And so the owners for not providing these radios, are they now on the hook for what what got lost here, OK? So, um, what does the lower court say? Let's start there and then we'll work to Second Circuit.
+
+SPEAKER 5
+Uh, the lower court points out there isn't any statutory law there, um, but that radios are pretty standard for a lot of different industries and for disseminating information, uh, and that it does seem to be that using radios, uh, is pretty much, uh, universal practice for Tugs.
+
+SPEAKER 1
+90%, everyone does it. Now we're starting to talk about custom, right? It's a custom potentially we might might say to have these radios on board. That seems to be what this lower court's saying. Look, yeah, there's no regulations about this, but look, everybody's doing it. Everybody's got it. It seems to do some good. And so what does that mean for this particular. Negligent actor here, it settles that on the side that
+
+SPEAKER 5
+the tugs, the tug owners were negligent for not providing the radios.
+
+SPEAKER 1
+You should have done it. You should have done what everybody else does. Why should it matter if you had to make it up? Why might it be useful information to know that everybody else is doing it, the safety thing, everybody else does it.
+
+SPEAKER 5
+Well, I think that it shows that if it's something that everyone's doing, there's probably a good reason for why they're doing it.
+
+SPEAKER 1
+A good reason it's probably foreseeable that there's danger, it probably works, probably it's just reasonable to do it, right? Sure, you're trying to establish a reasonable person. Here's evidence of what a reasonable person does. It's what the rest of the industry is doing. At the very least, you think you might want to meet that safety bar, OK. So that seems to be the lower court's reasoning. It sounds quite sensible, but then the Second Circuit comes in. Right, who are the judges here and who is the judge who writes this?
+
+SPEAKER 5
+Uh, this is Learned Hand is the, the judge who writes it.
+
+SPEAKER 1
+Yeah, who are the other judges?
+
+SPEAKER 5
+Uh. Swan and Augustus, Augustus who and hand. Augustus hand, right?
+
+SPEAKER 1
+Second Circuit, learned hand and Augustus's hand. The cousins, OK. Think about their parents naming them Learned and Augustus. Maybe a little bit of sibling rivalry happening among the all right, anyway, Learned Hannah and Augustus Hand, they both do just fine in the law. They become judges in the Second Circuit. Learned Hanna is the one who's quite well known, writes lots of opinions that we will be interested in, um. Including on Wednesday. But this is learned at hand and what does he say? What does he say? He always says, yeah, OK, this custom thing. What do we, what do we do with it? First of all, is there a custom?
+
+SPEAKER 5
+Uh, he says that there kind of isn't a custom for the companies themselves to provide the radios to the tug owners, but that, uh, it does seem to be a general practice on board anyway for there to be radios, but not provided by the companies. OK, so why is he making that distinction?
+
+SPEAKER 1
+Notice what Learned Hand is doing. This is lawyering, right? He says lower court said everybody's got these radios, 90%. That sounds like a custom. But I'm gonna say there's not a custom for what and why is he saying that? What's the distinction? Uh, his distinction is kind of that like even if
+
+SPEAKER 5
+it isn't like, uh, uh, no, no, no, not that,
+
+SPEAKER 1
+that's, that's the second move. First move is to say what you just said. There is kind of general practice, but it's not a custom in what sense?
+
+SPEAKER 5
+Uh, it's, it's not a custom that it's not, uh, something that's like an industry standard required to operate these boats.
+
+SPEAKER 1
+No, no, no, no, that's what the lower court's talking about. Lower court says, hey, everybody's got radios. What is the, again, you just said it. What does learned Hand say is not the custom here. There is not a custom among whom to do what?
+
+SPEAKER 5
+The, the company owners provide the, the barges with the radios.
+
+SPEAKER 1
+Most of those radios come from the ship people, the masters ship captains, ship crew themselves. Not the companies providing them. Whose liability are we talking about in this case?
+
+SPEAKER 5
+Uh, the, the company's liability, is there a custom among
+
+SPEAKER 1
+similar parties to those we are evaluating for negligence and now we're talking about quite specifically. Company owners, tugboat owners providing radios. Is there a custom there? And he says no, even if everybody's got radios because everybody brings their own. Is the company acting unreasonably in not providing it, well then we need to look at other companies providing it, and he says, we don't have evidence of that. Most of these come from the crew themselves. It's a nice bit of lawyering for you, right? Making distinctions, narrowing down, being precise about exactly what you're interested in evaluating. So that's move number 1. What's the move number 2 you're just about to tell us? What's the move number 2? He says, OK, so this doesn't seem to be a custom that's relevant here. Does that mean that Because it doesn't look like a lot of other boat owners or tugboat companies are providing the radios to their crews just because everybody else is not doing it, does that mean they're off the hook?
+
+SPEAKER 5
+Uh, he says that they're not off the hook for that, uh, that. Basically it's a bad custom to not provide the radios and that it is essentially negligent to not do so, um, because of the, the risks involved.
+
+SPEAKER 1
+So let's, let's, it's, it's great, he says, he says that everybody else is not doing it, doesn't look like it, everybody else being other companies providing it. It doesn't mean they're off the hook. They could still be negligent for not doing it. But why? Why is it that if nobody else is doing the thing, you might still be negligent for not doing the thing?
+
+SPEAKER 5
+Uh, he says that, uh, precaution is so imperative that even their universal disregard will not excuse their omission. Basically that it's like so.
+
+SPEAKER 1
+Tell us where you're reading. This is the famous passage from TJ Hooper. This is the one everybody knows. This is the one everything is everybody quotes it. This is every law. Everybody who went to law school knows TJ Hooper for this particular passage. Just read it for us, uh, just from the, the
+
+SPEAKER 5
+middle of that paraph. Yeah, indeed, in most cases just where you were looking. Indeed, in most cases, reasonable prudence is in fact common prudence, but strictly it is never its measure. A whole calling may have unduly lagged in the adoption of new and available devices. It never may set its own tests, however persuasive be its usages. Courts must in the end say what is required. There are precautions so imperative that even their universal disregard will not excuse their omission.
+
+SPEAKER 1
+OK. Tell us in your own words what's happening here. You were just about to tell us. You're about to start to explain.
+
+SPEAKER 5
+Yeah, he's basically saying that like even if the, the companies don't have this custom of providing the radios, that not doing so is so dangerous that it basically should be the custom for them to do it and it's negligent for them to not.
+
+SPEAKER 1
+He's asking this question of how do we know they're getting it right? How do we trust that they are living up to the right standard of taking enough care? That clearly they have a financial incentive to. Maybe they do, maybe they don't, we don't know that. Maybe the whole calling the whole industry is lagging. Do we trust the industry of AI startups to protect us and set the right standard for whatever? I mean, Yeah, because they're the experts, yeah, because they're the experts, yeah, because, but no, because all kinds of reasons, right? So if all the AI startups aren't doing something for our safety, does that mean that, well, now there's a custom where you don't have to do it and so anybody who doesn't do it is off the hook because, hey, nobody else is doing it? No. What's the test? If that may never strictly be its measure, then what is actually the measure? What do we go back to? If we're not gonna just lean on custom one way or the other, everybody has the radios, doesn't mean you need to have it. Nobody has a provides the radios, sorry, provides the radios. Nobody provides the radios doesn't mean that you don't have to do it. Then what? Where are we left with? What are we left with? How do you make the arguments now? You can't just lean on a standard and say, Yes or no, then what you gotta do? You, you have to look at what they should have
+
+SPEAKER 5
+done or could have done to, to be safe, to not be negligent. Yeah, it's just your usual negligence analysis.
+
+SPEAKER 1
+We're just doing ordinary care, standard care, reasonable person. What would a reasonable tugboat company have done in the situation? Is it informative potentially to bring in this evidence about the outside practice? Potentially Still informative. I mean, it's not dispositive. He's telling us, right? That's the famous TJ Hooper statement is that it's not dispositive custom is not dispositive, but is it potentially still useful evidence?
+
+SPEAKER 5
+Uh, it seems like it is, especially given the, the, in this case with the tugboats that had radios that didn't get lost, you could show that that is, uh, yeah.
+
+SPEAKER 1
+Useful. It just becomes more stuff you can use. Here's another fact you can use. It's kind of downgrading custom. The history here is that before this courts were a little bit all over the place on how much force customs should have as evidence. Or more than evidence as actually setting the standard as you saw in Abraham and where tort law comes out in part because of TJ Hooper and sort of courts following it is that Yeah, use it. It's a nice fact to have. You almost certainly want to have it. When we get a product's liability, we will rely on it kind of heavily. It's a very useful fact to have what other people are doing, what other reasonable designs there are for the product there might be. We'll talk about, talk about that in a few weeks, but it's not dispositive, and you just make your arguments the usual way. Got a little bit more stuff to work with maybe, but it's not going to answer the question for us. OK. So AI startups is one thing, but what about doctors? What about doctors? How are we gonna ask aunt and uncle to just make it up? Like we can maybe ask aunt and uncle to make it up about radios and if you give them enough information, but really? Surgery? We got these experts coming in we have like established medical practice, right? That's a custom, it's just a professional custom. Rather than an industry custom, I guess. We're not gonna take that more seriously, really. Let's turn to medical malpractice, or professional negligence, as it's also called in the materials. Zhang Weihan. Will you just start reading for us from the jury instructions? For malpractice. And here, let's look at 105.01. Let's read the actual instruction that a judge gives to the jury. And we'll see if this works out the same way or something different from how custom works.
+
+SPEAKER 7
+Sure. A specialist, doctor, nurse, therapist, healthcare provider, accountant, lawyer, other. OK, so let's just pause there for a second.
+
+SPEAKER 1
+Here's a list of what we think of, or at least the state of Illinois thinks of as professions that fall into this category, that aren't just industries, but actually professions where something different is about to happen, right? So like a medical specialist, a doctor, nurse, therapist, healthcare provider, accountant, lawyer. Maybe there are others, but those are the main ones. Let's just say doctor from now on. So a doctor must.
+
+SPEAKER 7
+possess and The knowledge, skill, and care ordinarily used by a reasonable, careful professions. OK.
+
+SPEAKER 1
+Keep going.
+
+SPEAKER 7
+The failure to do something that it that are reasonably careful professions. Practicing in the same or similar localities would do or the doing of something that are reasonably careful professions would not do under. Circumstances similar to those shown by the evidence is professional negligence. The phrase deviation from the standard of care practice means the same thing as professional negligence.
+
+SPEAKER 1
+OK, let's pause here and I'll just say again that by professional negligence, we mean the same thing as malpractice. When we talk about malpractice, this is what we're talking about. All right. And now, here's the part where the judge is really talking to the jury. He says, what? Or she says, what?
+
+SPEAKER 7
+The law does not say how a reasonably careful act professions would. Under these circumstances, that is for you to decide.
+
+SPEAKER 1
+OK, that sounds familiar, right? That's what we heard in the same instructions from Illinois just for negligence. The law doesn't tell you how careful somebody's supposed to be. That's for you to decide. But keep going In reaching your decision, you must rely
+
+SPEAKER 7
+upon opinion testimony from qualified witness witnesses and evidence of professional standards, evidence of bylaws, rules, regulations, policies, procedural procedures, or similar evidence.
+
+SPEAKER 1
+Wait, wait, so pause for a second. You may or must rely on this outside expert evidence. You just read to us, the judge is telling the jury you may or you must rely on this outside expert evidence. Must, must uncle uncle, the law doesn't tell you, it's over to you to decide, but in deciding you must rely on. The expert witness OK. Keep going.
+
+SPEAKER 7
+You must not attempt to determine how a reasonably careful the same professions would act from any personal knowledge you may have. OK, there it is.
+
+SPEAKER 1
+I get to use all their common sense, right? All their knowledge or they don't get to bring their own knowledge in. According to what you just read, yes or no, they can or cannot rely on their own knowledge. They cannot, they cannot. Think about his instructions are structured. Yes, it's a negligence case, kind of on and uncle, you decide with law is not gonna tell you, but you must rely on the expert evidence and you cannot rely on your own Googling. All right, of whatever illness or surgery or whatever it is, you're not bringing your own uh you, this is the kind of situation where we're not letting you use your common sense even though that's the idea of the jury is the common sense. Instead we're gonna ask you to really have to rely on the experts. Now of course, how does this play out in reality you have competing experts. They're gonna be arguing from different sides. You have one say, oh no, the proper medical standard here is this kind of surgery and this kind of whatever. And then the other one will say, no, no, no, no, no, that's old fashioned, and what we really do now is we use these tools and so on, or whatever. So the jury is still going to really actually be making a choice between two expert opinions from qualified people, qualified people almost always in medical malpractice cases will be other doctors, right? And so the jury in a way still is choosing. But they're basing it on one or the other. Again, they're not using their own judgment about this. They're not using their own knowledge, their own experience, their own common sense or whatever. They're picking which expert they believe, basically. OK. So Chang Hui, do you think that If A jury decides to believe this expert. And the expert says really what a doctor should have done in this situation. There's such and such and such, and they didn't do it. If the doctor doesn't meet this expert's standard that's being brought in by the standard of care from the outside by this doctor, then The party is automatically liable. The doctor is automatically liable for malpractice. Or no, the jury can still let them off the hook. Is it pretty much automatic that once. The doctor has set a bar. The jury has believed it, the outside expert rather has set a bar. The jury has decided to believe it, and the defendant doctor didn't live up to that standard. Is that negligent, non-negligent, malpractice, not not malpractice?
+
+SPEAKER 7
+Perhaps strictly according to this jury's instruction, probably expert testimony testimony could be. You know, automatically meaning that, you know, automatic.
+
+SPEAKER 1
+OK. Think about how different this is from custom, custom's like, yeah, everybody's kind of doing it, this is how everybody does it, um, but you can come up with your own answer, aunt and uncle. But malpractice for professions rather than industries and we can think about what is going on here. It's the opposite. It's not just loose evidence you might bring in and may be useful. Here it is actually dispositive. So here in a way you can think of this as a pocket of the historical practice where custom was really quite influential. Here we're saying, aunt and uncle, if the doctor didn't live up to the standards set by the outside expert that you're believing here, then that's just malpractice, that's just negligence. And essentially, by the same token, if the doctor does meet that bar, the jury believes the expert and they say, actually, we find that the doctor did meet the bar of the expert that we believe. Does that mean they're off the hook? Does that mean that there's no malpractice, that they did fine, basically?
+
+SPEAKER 7
+Without low quality rule, probably the expert is going to be fine here, the better practice.
+
+SPEAKER 1
+It's like a bright line rule in a way, but brought in by the outside expert. Right? On and off, if you meet that standard that the expert has brought in and the jury chooses to believe, and the jury finds that the doctor met that standard. You're good. That's not malpractice. You did what you were supposed to do. You did what a reasonably careful doctor would have done, as defined by someone else. Not by aunt and uncle's own common sense or by their own judgment or deliberations, but by someone else that they've chosen to believe. So why would it be Songhui, why do you think it might be that for the professions. We give that much power. Typically in tort law. To the opinions of experts. But in like the AI in the AI example, if like, I don't know, one of those AI startup founders comes in and says, oh, none of us do that. We don't give that any credit, extra beyond whatever aunt and uncle want to make of it. What's different? Or tugboats or trolley companies? Why, why are the professions, quote unquote professions maybe. Usefully different that can explain this treatment in tort law.
+
+SPEAKER 7
+Perhaps experts here have some expertise that are not necessarily uh decided by the jury, so the expert testimony has more expertise and influence.
+
+SPEAKER 1
+OK, but so does the AI guy. So does the trolley company. They have expertise. What's different? Something different about the expertise is there what else? What else did Matthew be about the difference between what we are calling a profession, doctors, lawyers, therapists versus AI startups, trolley companies. Tugboat companies. Let's say they all have expertise. It's true that expertise is going to be something that we care about. We're caring about institutional competence. Here we're worried that Aunt and uncle don't have the expertise. We need the expertise. Maybe that's still true of some of these more technical industries though, and we don't give them all that much extra weight. What else might be going on?
+
+SPEAKER 7
+Perhaps we're giving here the courts are giving more weight to medical, legal, and scientific fields, more weight in terms of expertise. Yeah, but why cumulative knowledge perhaps maybe the knowledge is
+
+SPEAKER 1
+just maybe the technical expertise is just that much greater. OK, it is possible that there's so much science and it's just so cumulative that there's no way you can get a jury up to speed, whereas with a. AI startup, maybe you can get juries up to speed pretty fast. It's possible that there is some difference in the amount of expertise that's really required to make any kind of judgment about what the right thing to do is, it's possible. OK. And to be fair, when we get to really technical areas, quite often, as you all know, parties can agree to a bench trial rather than a jury trial. Quite often parties will agree to have the judge hear a very complicated antitrust case or a science-based case because they don't want a jury kind of throwing the dice on it. And they'll say, well, the judge can actually take on board more of that scientific expert information more quickly also because the judge can appoint a special master to actually take care of all of that stuff, right? So there are ways that competence is sort of still steered towards judges in a way from aunt and uncle, even in areas that we're not talking about as malpractice. But one other thing that might be happening. Is Maybe that the professions are considered professions because. They have their own internal regulations, they have their own judicial system really inside they have their own ethical principles, they have their own disciplining systems. Maybe we trust the professions in a way because they also actually think this way. About what is right to do. What is good for the public. And AI startups maybe don't, maybe they do, maybe they don't. Right, maybe that's what what's happening here, but for whatever historical reasons, this is how it's shaken out now practice, though you might think of it as a form of industry custom based expertise in forming a jury. It's just gonna work very differently in most jurisdictions than custom. Custom is following TJ Hooper, famous case, medical malpractice, lawyer malpractice, all these accounting malpractice is going to follow the professional standards, having almost a dispositive, basically a dispositive. Um, say for. The jury. OK. There are two exceptions that you saw in Abraham. One is called Common Knowledge. And this is kind of the compliment or inverse or something, the flip side of the expertise. If the doctor did something so obviously wrong, like leave a sponge inside the person they did a surgery on after tying them up, sewing them up, sewing, sewing them up rather, what you don't need a doctor to tell you that that that's negligence. If aunt and uncle themselves can so easily see that. You know, you amputated the wrong leg or something like that. All right, now you don't really need to rely on expert evidence. OK, fine. So there are still pockets even when the doctor is being sued where what we're talking about here really isn't about that kind of expertise. So common knowledge means that the jury can just do it themselves. The other, which I'm not sure it's really an exception, but I'll write it up here anyway, is what we can call two schools of thought. Sometimes it's called the minority school of thought or minority view. And here you might have two different prevailing standards within a profession. Right, for a particular cancer treatment, you might have one side of the debate in the medical community that's all about using the term particular form of radiation. Another is all about using immunotherapy now, and it's just this debate between different schools of thought, major respected schools of thought within the profession. At that point, OK, um, you know, the jury can pick among the different schools of thought and use them as a standard. That's OK. I don't quite get why that's an exception. It seems like that's what a jury does anyway, but it's listed in Abraham as an extra. Add on to how malpractice works. OK. Alright, so let's turn to our 3rd possible source. Of outside information about how you're supposed to behave. That's going to be statutes. And here we're thinking of the Institutional competence of the legislatures or maybe regulators. And we're also thinking about the interaction of other areas of law with tort law, because now we're talking about statutes playing a role within tort analysis for aunt and uncle of the jury. But it's not a tort statute. So it's gonna be some kind of speed limit or it's gonna be some kind of liquor licensing statute or rule as you saw in your readings. These are not statutes or regulations that create tort liability. Right, if you're speeding, you get a ticket and maybe it's a criminal fine or a criminal sanction or you get something on your record, that's not a tort. If it's a liquor licensing thing, maybe you get your liquor license taken away if you violate it too much or you're fined or something. That's not a tort. There are regulations and statutes of course that are not about torts. Most are not about torts. There are some tort statutes. We're not gonna get into that very much, but here we're talking about some other area of law has created some expectation about how you're supposed to behave and does that come into. The tort law analysis for aunt and uncle. And how? How does it come in? How should it come in? That's what we're turning to. So Zhu Haoshan Will you start us off with reminding us about the. Booze Cruz case, the Hawaii case with the drunk driver. What happened here? This was the boat serving alcohol.
+
+SPEAKER 8
+Sorry, I, I, um, I didn't find the case.
+
+SPEAKER 1
+OK, we'll come back to you. OK, Daniel Harker.
+
+SPEAKER 9
+Yes, so, uh, White here is suing on behalf of her deceased friend, Bornole. On February 13, 2004. Sabatino, who's one of the defendants in this case, was drunk driving and got into an auto accident with Bernacle, uh, who suffered traumatic injuries and died. Um, prior to the accident, Sabatino had been a passenger on a cruising vessel called the Alinui, um, and she'd been consuming alcohol on the cruise.
+
+SPEAKER 1
+OK, so there's a cruise, there's a boat, it's for visitors, tourists. They're serving alcohol on it. We just think of it as a booze cruise, basically. And in serving this alcohol to the driver here, um, the later driver here, how did the serving work? Did you order a drink, pay for it, order a drink, pay for it, have to eat some food, order a drink, pay for how does. Um, so it wasn't necessarily advertised this way, but effectively
+
+SPEAKER 9
+what happened is you have this fixed period between 11:00 a.m. and 12:30 p.m. on which they were on the cruise, and they paid the price of the ticket, um, and effectively had access to all you can drink, all
+
+SPEAKER 1
+you can drink, that's how it worked. This is a booze cruise because it's an all you can drink. The price is included in the ticket. And the allegation here is that they served her too much. And that maybe having this all you can drink policy without having to. Half her pay every time or maybe cut her off from drinking more. Did what?
+
+SPEAKER 9
+That this put her in a position where she was, uh, prone to get in an accident and hurt somebody.
+
+SPEAKER 1
+Yeah. There were not natural limits on the amount she was drinking, she overdrank and then she became a drunk driver and then killed somebody on the road. Your classic drunk driving case. And this structure of is the server of the alcohol responsible for the actions of the driver is something we'll keep coming back to because there's an interesting idea about why, when are you responsible in a way for contributing to somebody else's causing of the harm to yet a third party. That structure will come back to. And it's also familiar debate in tort law about what to do with this type of actor who maybe was upstream from the accident in some. Clear but kind of diff maybe a few steps away kind of way. Hold that thought, we'll keep coming back to that. But here the allegation is that look, you had this policy of all you can drink that's why she drank too much and also you didn't cut her off and so that, you know. That's the problem. You're now liable for the person's death. OK. What is the statutory component of this? You can think about how you might debate that aunt and uncle style, but here we're talking about a particular extra bit of information we have, which is what? What is the statute that's maybe relevant here? Uh, the statute here is the Maui County Liquor Rule.
+
+SPEAKER 9
+And it says that you can't advertise um for all the liquor you can drink for a fixed price or serve unlimited amounts of liquor during a set period of time for a fixed price.
+
+SPEAKER 1
+And is this a criminal law? Is this a tort law? Is this, do we know what this is? It's just, just like a civil like liquor license.
+
+SPEAKER 9
+It's just an ordinance, yeah, right?
+
+SPEAKER 1
+City council passes a code. They say, well, if you want a liquor license, then you need to not, you know, have all you can drink because we don't allow that. And again, this is not a tort statute. This is a tort statute that says, hey, look, if you do this, you get fined or your license is taken away or something else. But it's out there as kind of a pre-existing standard of expectation, standard of behavior. That, I don't know, maybe that becomes useful for helping aunt and uncle understand what it is that booze cruise operators are supposed to do. Right, and the question is, does that come in kind of like custom evidence where, yeah, it's kind of useful just to beat it out, or does it come in more like malpractice, hey, look, if the profession tells you you gotta do it this way, you gotta do it that way. What do we do when the legislature or city council or some regulatory body not dealing with tort law has decided, well, you should act this way. What do we do about that? And how does it turn out here? What's the answer as far as we know? If you fail to comply with the level of care here or to take the precaution that's required by some external source of law, a legislature has created, in this case, not having all you can drink.
+
+SPEAKER 9
+The court holds that this was precisely the kind of accident that this law was designed to prevent and so under the Maui County of local rule, 390 was liable.
+
+SPEAKER 1
+Yeah. That's what we call statutory negligence or negligence per se. Negligence per se. There's lots of ways you can think of the phrase negligence per se, but we're gonna use it to mean this precisely, which is that there's a statute out there that said you should have behaved a certain way. It's not a tort statute. It's a a speed limit or, you know, a criminal law or whatever it is. Here a licensing thing, but it tells you how you're supposed to behave, and you didn't do it. And so you're automatically negligent, you're per se negligent instantly because you failed to live up to that external standard set by some legislature or other regulatory body. wow. OK. We're gonna come back to something you just said, Daniel, in a second, but what happens if you do comply, right? Can the booze crews say if they had, they're like, oh, we didn't have a. Or you can drink policy we complied with that statute and the jury believes them or something. Does that mean they're automatically off the hook? In other words, if you just live up to whatever standard is out there floating around from the speed limit or the ordinance or their licensing whatever, is that good enough? Is that always good enough where you're not negligent automatically? Or can you still be found negligent?
+
+SPEAKER 9
+Or are you asking me directly? I would say that it's not enough just to comply with the statute.
+
+SPEAKER 1
+Yeah, we just say it's not necessarily. OK. I can't think of a more elegant way to say that, but there it is. You can still be found negligent. Why? Because these things weren't meant to define tort law. They kind of set like a minimum standard. It's like the least you can do is like drive past the speed limit. The least you can do is whatever the ordinance tells you about all you can drink. Beyond that, you still may have to take more care in not getting somebody drunk or letting them drive or call a taxi for them or whatever. Aunt and uncle decide what's the sensible thing, reasonable thing to do in that situation. So think about the lopsidedness of this, right? It's a little bit like just kind of like custom on one side and kind of like malpractice on the other where, yes, if you fail to meet this minimum bar set by some other law out there, then you're automatically negligent, negligent per se, statutorily negligent. But if you comply, that doesn't mean you're off the hook. You should still call a taxi. Doesn't matter. She got super drunk, like you didn't have an all you can drink so you're off the hook. No, call her a taxi, aunt and uncle might say. So that, that's how this might work. Two exceptions here, as you know from Abraham again. One is that, look, you know, if it's just safer not to do the thing that the regulation tells you to do, OK, aunt and uncle can make that call. If it's actually safer, you were not complying with the regulation in order to be safer. OK, aunt and uncle can let you out of that. You didn't comply, but you did it for good reason, having to do with safety. And the other thing is what Daniel just said. Daniel, you said that this statue was on point or not on point, and why?
+
+SPEAKER 9
+This was uh exactly the kind of accident or wrong that the statute was designed to prevent.
+
+SPEAKER 1
+The statute or whatever you're borrowing from the speed limit, the ordinance, the licensing, whatever, it has to kind of be about the same kind of safety. And here it clearly is, here you're talking about not getting somebody drunk and maybe they do crazy things or kill somebody. But if it's a tax statute or tax regulation that says you can't serve all you can drink because like the accounting doesn't need to, needs to be done differently or we need to charge, you need to charge tax or something like that's not about safety, that don't have anything to do with drunk driving. That's just accounting or something else. So it has to really be about a statute that you can make the case that it covers what happened here in its general purpose of safety. So just keep in mind that Abraham brought that in, OK? One thing you might do on your own time is download these PDFs. Remember these PDFs are all on. Courseworks courseworks is a little harder to navigate now somehow, but if you go to files, you go to files and you'll see virtual chalkboards, you'll see all these PDFs. I'll post it within hours after this. Try this out. And here what we're talking about is how do these things interact. What if there's custom and a statute? What if there's no custom and a statute or a statute that cuts against the custom or the other way around? How do you deal with that? How do you make arguments? How do you analyze a tort case when you have competing things going on with this exact thing we've been talking about the second half of class, Different external sources clashing against each other. What do you do then? How does aunt and uncle supposed to, how are they supposed to deal with it? OK. Here's what we did today. We did two more aspects of legal design, getting into institutional confidence with rules and standards and judges versus juries, but also thinking about what to do with institutional confidence coming in from the outside. Experts from industry, experts from profession, and then legislatures and so on.
+
+SPEAKER 0
+OK.
+
+SPEAKER 1
+All right, see you Wednesday. See you at office hours tomorrow.
+
+SPEAKER 0
+Yes Oh Yeah. What a lot Oh. Don

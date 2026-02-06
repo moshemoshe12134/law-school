@@ -1,0 +1,517 @@
+HYMOWITZ v. ELI LILLY & CO.
+73 N.Y.2d 487 (1989)
+New York Court of Appeals
+
+====================
+CASE SUMMARY
+====================
+
+Court: New York Court of Appeals
+Citation: 73 N.Y.2d 487, 539 N.E.2d 1069, 541 N.Y.S.2d 941 (1989)
+Decided: April 4, 1989
+
+PARTIES:
+- Plaintiffs: Mindy Hymowitz and approximately 500 other DES daughters
+- Defendants: Eli Lilly & Co., E.R. Squibb & Sons, Abbott Laboratories, The Upjohn Company, and numerous other DES manufacturers
+- Intervenor: Attorney General of New York (supporting plaintiffs)
+
+TOPIC: Market Share Liability - Product Identification - Mass Tort - DES Litigation
+
+KEY HOLDING:
+New York adopts market share liability theory using national market for DES cases where plaintiff cannot identify specific manufacturer. Each defendant held severally (not jointly) liable for proportion of damages equal to its share of national DES market for pregnancy use.
+
+====================
+BACKGROUND: THE DES STORY
+====================
+
+What is DES?
+- Diethylstilbestrol (DES) = synthetic estrogen
+- Invented in 1937 by British researchers
+- NEVER PATENTED (available to any manufacturer)
+- Chemical composition IDENTICAL regardless of manufacturer
+
+FDA Approval Timeline:
+- 1941: FDA approved 12 manufacturers to market DES for non-pregnancy ailments
+- 1947: FDA began approving DES for miscarriage prevention
+- 1951: FDA concluded DES "generally safe" for pregnancy
+  * Stopped requiring New Drug Applications (NDAs) for pregnancy use
+  * Any manufacturer could produce it without specific approval
+- 1971: FDA BANNED DES for pregnancy use
+  * Studies showed DES caused cancer in daughters
+  * Vaginal adenocarcinoma (rare cancer)
+  * Adenosis (precancerous growth)
+
+Market Characteristics:
+- Approximately 300 manufacturers produced DES
+- Companies constantly entering and leaving market
+- 24-year period (1947-1971) of pregnancy use
+- All DES chemically identical
+- Druggists filled prescriptions from whatever available
+- No brand loyalty or tracking
+
+====================
+FACTS
+====================
+
+The Plaintiffs' Predicament:
+
+Injuries:
+- Plaintiffs (DES "daughters") injured by DES their mothers took during pregnancy
+- Latent injuries: appeared 15-30 years after exposure in utero
+- Serious medical problems: cancer, reproductive issues
+
+Two Insurmountable Barriers to Recovery:
+
+1. IDENTIFICATION PROBLEM:
+   - Cannot identify which manufacturer produced specific pills mothers took
+   - Why impossible:
+     * All DES chemically identical
+     * 300 manufacturers over 24 years
+     * Druggists used whatever on hand
+     * Long latency period (memories fade, records lost)
+     * Mothers never knew/recorded manufacturer
+     * No reason to track manufacturer until injury appeared decades later
+
+2. STATUTE OF LIMITATIONS:
+   - Traditional rule: limitations period began at EXPOSURE
+   - Problem: injuries didn't appear for 15-30 years
+   - Many claims time-barred before injury discovered
+   - Legislature responded:
+     * 1986: Changed accrual to DISCOVERY of injury
+     * Revived DES actions previously time-barred for one year
+
+Mass Litigation:
+- Nearly 500 similar cases pending in New York courts
+- Need for uniform, administrable rule
+- Court's decision must be "administratively feasible"
+
+====================
+PROCEDURAL HISTORY
+====================
+
+- Trial courts divided on whether plaintiffs could recover without identifying manufacturer
+- This appeal consolidated multiple cases
+- Court of Appeals granted review to resolve state-wide issue
+- Attorney General intervened on behalf of plaintiffs
+
+====================
+TRADITIONAL TORT DOCTRINES
+(And Why They Don't Work)
+====================
+
+I. ALTERNATIVE LIABILITY (Summers v. Tice)
+
+Rule: When small group of defendants all act negligently and one caused harm but plaintiff can't tell which, burden shifts to defendants.
+
+Why It Doesn't Apply to DES:
+✗ TOO MANY DEFENDANTS (300 companies, not 2-3)
+✗ ENTERED/EXITED MARKET over 24 years (not single incident)
+✗ NOT ALL BEFORE COURT (impossible to join all)
+✗ DEFENDANTS NOT IN BETTER POSITION to identify (genuinely unknowable)
+✗ NO "REALISTIC CHANCE" all possible wrongdoers before court
+
+II. CONCERT OF ACTION
+
+Rule: Defendants who act together pursuant to common plan are jointly liable.
+
+Why It Doesn't Apply to DES:
+✗ NO COMMON PLAN OR DESIGN
+✗ NO AGREEMENT among manufacturers
+✗ Each acted independently
+✗ No evidence of collaboration to market unsafe drug
+✗ Simply all followed FDA approval (no concert)
+
+====================
+NEW YORK'S SOLUTION: MARKET SHARE LIABILITY
+====================
+
+Rationale:
+- DES daughters deserve relief (real, serious injuries)
+- Legislature showed intent by reviving time-barred claims
+- Loss should be borne by those who created risk
+- Even though specific manufacturer unknowable
+- Based on OVERALL CULPABILITY, not specific causation
+
+Core Principle:
+"Liability is based on the over-all risk produced, and not causation in a single case"
+
+====================
+MARKET SHARE LIABILITY DOCTRINE
+====================
+
+Basic Rule:
+Each DES manufacturer liable for proportion of plaintiff's damages equal to its share of national DES market for pregnancy use during relevant period.
+
+Key Features:
+
+1. NATIONAL MARKET:
+   - Use national market share (not local/regional)
+   - Fair method: reflects total culpability
+   - Practical: same calculation for all plaintiffs
+   - Administrable: avoids case-by-case assessment
+
+2. SEVERAL LIABILITY (Not Joint):
+   - Each defendant pays only ITS percentage
+   - NOT jointly and severally liable
+   - Plaintiff's recovery NOT increased when some defendants missing
+   - Plaintiff may not recover 100% if all manufacturers not sued
+
+3. NO EXCULPATION:
+   - Defendant CANNOT escape by proving it didn't cause THIS plaintiff's injury
+   - Liability based on overall risk created to public
+   - "No exculpation of defendant who appears not to have caused particular plaintiff's injury"
+
+4. WHO IS LIABLE:
+   - Only manufacturers who marketed DES for pregnancy use
+   - Must have been in pregnancy market during relevant period
+   - If never marketed for pregnancy → not liable
+   - If in market → liable regardless of whether caused THIS case
+
+====================
+CALCULATING LIABILITY
+====================
+
+Formula:
+Plaintiff's Total Damages × Defendant's Market Share = Defendant's Liability
+
+Steps:
+1. Plaintiff proves:
+   - Mother ingested DES during pregnancy
+   - Plaintiff's injuries caused by DES
+   - Defendant produced/marketed DES for pregnancy use
+
+2. Determine defendant's market share:
+   - Percentage of national DES market
+   - For pregnancy use specifically
+   - During relevant time period
+
+3. Multiply damages by market share percentage
+
+Example:
+- Plaintiff's damages: $1,000,000
+- Defendant A's market share: 20%
+- Defendant B's market share: 15%
+- Defendant C's market share: 10%
+- Plaintiff sued only A, B, and C (45% of market)
+
+Result:
+- A pays: $200,000 (20% of $1M)
+- B pays: $150,000 (15% of $1M)
+- C pays: $100,000 (10% of $1M)
+- Total recovery: $450,000 (45% of damages)
+- Plaintiff bears risk of not suing ALL manufacturers
+
+====================
+WHY NATIONAL MARKET?
+====================
+
+Rejected Regional/Local Market Because:
+
+Problems with Case-by-Case Market Assessment:
+- Unfair burden on individual plaintiffs
+- Perhaps impossible to prove local market 30 years ago
+- Would create inconsistent results state-wide
+- Administratively infeasible given 500+ pending cases
+- Overwhelm courts with mini-trials on market share
+
+Advantages of National Market:
+- Fair reflection of overall culpability
+- Each defendant's total culpability in marketing DES
+- Equitable way to provide relief
+- Rational distribution of responsibility
+- Uniform, administrable rule
+- Same calculation for all cases
+
+====================
+COURT'S REASONING
+====================
+
+I. POLICY JUSTIFICATIONS
+
+1. Justice Requires Relief:
+   - Real injuries suffered by innocent victims
+   - Through no fault of their own, cannot identify manufacturer
+   - "Extant common-law doctrines, unmodified, provide no relief"
+   - Legislature showed intent (amended statute of limitations)
+
+2. Fairness in Risk Allocation:
+   - Manufacturers created the risk
+   - Marketed drug for profit
+   - Should bear burden of uncertainty
+   - More fair than leaving injured plaintiffs without remedy
+
+3. Deterrence:
+   - Encourages manufacturers to ensure product safety
+   - Prevents benefit from unknowability they created
+   - Promotes careful testing before marketing
+
+4. Spread the Loss:
+   - Manufacturers can spread loss through insurance, pricing
+   - Better risk bearer than individual injured plaintiffs
+   - Consistent with enterprise liability theory
+
+II. SPECIAL CHARACTERISTICS OF DES CASES
+
+Why Market Share Appropriate Here:
+1. Fungible product (chemically identical)
+2. Long latency period makes identification impossible
+3. Many manufacturers over long period
+4. FDA approval process created appearance of safety
+5. Mass tort requiring administrable solution
+6. Legislative recognition of problem (statute amendment)
+
+====================
+LIMITATIONS & BOUNDARIES
+====================
+
+Court Emphasized Limits:
+
+1. DES-Specific:
+   - Rule limited to DES cases
+   - Not automatic extension to other products
+   - Unique circumstances of DES litigation
+
+2. No Joint Liability:
+   - Several liability only
+   - Each pays own percentage
+   - Protects defendants from over-exposure
+
+3. No Exculpation:
+   - Can't prove you didn't cause THIS injury
+   - Based on market participation, not individual causation
+
+4. Must Have Marketed for Pregnancy:
+   - Only liable if marketed DES for pregnancy prevention
+   - If only sold for other uses → not liable
+
+====================
+STATUTE OF LIMITATIONS ISSUE
+====================
+
+Legislature's Response:
+- 1986 Law (L. 1986, ch. 682, § 4):
+  * Changed accrual from exposure to discovery
+  * Revived DES actions previously time-barred
+  * One-year revival window
+
+Constitutional Challenge:
+- Defendants argued revival unconstitutional
+- Court: UPHELD revival statute
+- Legitimate legislative purpose
+- Remedied unfairness of exposure rule
+- Rational classification
+
+====================
+HOLDING
+====================
+
+New York Law:
+1. Adopts MARKET SHARE LIABILITY for DES cases
+2. Uses NATIONAL MARKET to determine shares
+3. Liability is SEVERAL (not joint)
+4. NO EXCULPATION by proving non-causation in individual case
+5. Statute of Limitations revival is CONSTITUTIONAL
+
+Judgment: Cases REMANDED for determination of market shares
+
+====================
+DISSENT (Judge Mollen)
+====================
+
+Partial Dissent on Exculpation:
+
+Mollen's View:
+- Should allow defendants to prove non-causation
+- If manufacturer can prove plaintiff's mother couldn't have taken their product → should escape liability
+- Example: entered market after mother's pregnancy → not liable
+
+Mollen's Proposed Modification:
+- Shift burden to defendants on causation
+- Each defendant must prove they didn't cause injury
+- Those who can't prove it → liable for market share
+- Those who prove non-causation → escape
+- Joint and several liability among those who remain
+
+Majority's Response:
+- Too difficult/impossible to prove negative
+- Defeats purpose of market share approach
+- Based on overall risk, not individual causation
+- Exculpation would undermine administrability
+
+====================
+SIGNIFICANCE & IMPACT
+====================
+
+Revolutionary Approach:
+- First major adoption of market share liability
+- Solved "impossible" identification problem
+- Provided remedy for mass tort victims
+
+Influenced Other Jurisdictions:
+- California (Sindell v. Abbott Labs - pioneered concept)
+- Washington, Wisconsin, Michigan (various modifications)
+- Many states followed New York approach
+
+Limited Application:
+- Most courts limit to DES or similar cases
+- Requires:
+  * Fungible product
+  * Identically defective
+  * Many manufacturers
+  * Long time period
+  * Genuine impossibility of identification
+  * Mass tort situation
+
+Rejected for Other Products:
+- Asbestos (too many variables)
+- Lead paint (different formulations)
+- Vaccines (government records available)
+- Firearms (policy reasons)
+- Blood products (different donors)
+
+====================
+MARKET SHARE VS. ALTERNATIVE LIABILITY
+====================
+
+Summers v. Tice (Alternative Liability):
+- 2-3 defendants
+- Single incident
+- Brief time period
+- All defendants before court (or realistic possibility)
+- Burden shifts to defendants
+- Plaintiff can recover 100%
+- Based on presumed causation
+
+Hymowitz (Market Share Liability):
+- 300 defendants
+- 24-year period
+- Impossible to join all
+- NO burden shifting on causation
+- Plaintiff likely recovers <100%
+- Based on overall risk/culpability
+- NOT based on causation in individual case
+
+====================
+PRACTICAL IMPLICATIONS
+====================
+
+For Plaintiffs:
+✓ Can recover without identifying manufacturer
+✓ Uniform, predictable rule
+✗ May not recover 100% (if not all manufacturers sued)
+✗ Must prove mother took DES during pregnancy
+✗ Must prove injuries caused by DES
+
+For Defendants:
+✓ Several liability only (not joint)
+✓ Liability limited to market share
+✗ Cannot exculpate by proving non-causation
+✗ Liable based on market participation alone
+
+For Courts:
+✓ Administrable rule
+✓ Avoids case-by-case market assessment
+✓ Uniform application
+✓ Efficient resolution of mass tort
+
+====================
+KEY QUOTES
+====================
+
+"Plaintiffs seeking relief in court for their injuries faced two formidable and fundamental barriers to recovery...identification of the manufacturer...is generally impossible, and...many claims were barred by the Statute of Limitations."
+
+"We recognized this predicament...stating that in DES cases it is a 'practical impossibility for most victims [to] pinpoint...the manufacturer directly responsible for their particular injury.'"
+
+"Use of a national market is a fair method...of apportioning defendants' liabilities according to their total culpability in marketing DES for use during pregnancy."
+
+"Liability...is based on the over-all risk produced, and not causation in a single case, there should be no exculpation of a defendant who, although a member of the market producing DES for pregnancy use, appears not to have caused a particular plaintiff's injury."
+
+"The ever-evolving dictates of justice and fairness, which are at the heart of our common-law system, require formation of a remedy for injuries caused by DES."
+
+====================
+SUBSEQUENT PROCEEDINGS
+====================
+
+Market Share Determination:
+- After Hymowitz, market share issue severed
+- Consolidated for all NY DES cases
+- In re DES Market Share Litigation, 79 N.Y.2d 299 (1992)
+- Held: Plaintiffs entitled to JURY TRIAL on market share
+- Complex historical inquiry into each manufacturer's share
+
+Ongoing Issues:
+- Determining accurate market shares
+- Which years to count
+- Different dosages/formulations
+- Entry/exit dates from market
+- Available evidence/records
+
+====================
+EXAM TIPS
+====================
+
+Spotting Market Share Liability Issues:
+✓ Multiple manufacturers of identical product
+✓ Long time period of production/exposure
+✓ Plaintiff genuinely cannot identify manufacturer
+✓ All manufacturers created same risk
+✓ Product caused identifiable harm
+
+Apply Market Share When:
+✓ Fungible product (chemically identical)
+✓ Many potential defendants (not just 2-3)
+✓ Extended time period (years, not single incident)
+✓ Impossible to identify specific manufacturer
+✓ All manufacturers equally culpable
+✓ Mass tort situation
+
+Don't Apply Market Share When:
+✗ Can identify specific manufacturer
+✗ Small group of defendants (use alternative liability)
+✗ Single incident
+✗ Products not fungible/identical
+✗ Not all manufacturers equally culpable
+✗ Plaintiff's choice/negligence caused non-identification
+
+Remember:
+- Based on RISK CREATED, not causation
+- SEVERAL liability (not joint)
+- NO exculpation in most jurisdictions
+- Limited to special circumstances
+- Calculate: Damages × Market Share = Liability
+
+====================
+COMPARISON TO OTHER DOCTRINES
+====================
+
+Alternative Liability (Summers v. Tice):
+- Small group, can identify all
+- Single incident
+- Burden shifts
+- Joint and several liability
+- Based on causation presumption
+
+Market Share Liability (Hymowitz):
+- Large group, can't identify all
+- Extended period
+- No burden shift
+- Several liability only
+- Based on risk contribution
+
+Concert of Action:
+- Defendants act together
+- Common plan/agreement
+- Joint and several liability
+- Traditional causation applies
+
+Enterprise Liability:
+- Industry-wide standard/collaboration
+- Joint action to test/market
+- Joint and several liability
+- Rarely adopted
+
+Risk Contribution (Wisconsin):
+- Defendant must have contributed to risk
+- Can exculpate if prove non-causation
+- Burden shifts to defendants
+- More like alternative liability hybrid

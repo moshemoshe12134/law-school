@@ -1,0 +1,1776 @@
+Professor Lee, Property Spring 2024
+
+Property Outline
+●
+●
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+●
+
+●
+
+FUNDAMENTALS
+HOW CAN PRIVATE PROPERTY CREATE PROBLEMS?
+ACQUIRING PROPERTY
+○ FIRST POSSESSION
+○ WATER RIGHTS
+○ AD COELUM
+○ SEQUENTIAL POSSESSION
+○ ADVERSE POSSESSION
+○ OWNERSHIP OF BODY PARTS
+WHEN DO WE HAVE THE RIGHT TO EXCLUDE?
+○ TRESPASS TO LAND
+○ CONTINUAL (REPEATED) TRESPASS
+○ CONTINUOUS (UNINTERRUPTED) TRESPASS
+○ CRIMINAL & CIVIL ENFORCEMENT
+○ SELF-HELP ENFORCEMENT
+○ LIMITS ON RIGHT TO EXCLUDE (NECESSITY, PUBLIC ACCOMMODATION, PUBLIC POLICY, ANTI DISCRIMINATION)
+CEDING SOVEREIGNTY
+○ LICENSES AND THEIR EQUITABLE ENFORCEMENT
+○ BAILMENTS
+○ ABANDONMENT
+○ DESTRUCTION
+○ TRANSFER OF PROPERTY (STATUTE OF FRAUDS, DELIVERY, LAND TRANSACTIONS, NEMO DAT, GOOD FAITH
+PURCHASERS, PROVING OWNERSHIP)
+SERVITUDES
+○ EASEMENTS (CREATION, TERMINATION, MISUSE)
+○ COVENANTS (EQUITABLE SERVITUDES, REAL COVENANTS, RUNNING WITH THE LAND, NOTICE, TERMINATION)
+NUISANCE
+○ BASICS
+○ DISTINGUISHING FROM TRESPASS
+○ SCOPE OF RIGHT OF NON-INTERFERENCE
+ZONING
+DIVIDING OWNERSHIP
+○ PRESENT + FUTURE INTERESTS AND WASTE
+○ CO-TENANCIES (SEVERANCE, PARTITION)
+○ LEASES (INDEPENDENT/DEPENDENT COVENANTS, IMPLIED WARRANTY OF HABITABILITY, CONSTRUCTIVE
+EVICTION, SURRENDER, DUTY TO MITIGATE)
+TAKINGS
+○ EMINENT DOMAIN (PUBLIC USE + JUST COMPENSATION)
+○ REGULATORY TAKINGS
+
+Professor Lee, Property Spring 2024
+
+FUNDAMENTALS
+Property
+● It concerns a bundle of sticks!! (Possession, right to exclude, etc.)
+○ BUT property can be unbundled into discrete rights for purposes of legal analysis (think of the Takings Clause)
+● Property law aims to mitigate (not resolve) the tragedy of the commons through utilitarian justifications
+● Real property (a restaurant, a parcel of land + attached structures) does not move!! Personal property (a car) moves!!
+● Standing in line hypo
+○ Externalities: effects on other people (ex: 4 people adding to 1 person standing in line)
+■ It seems that no one behind suffers from a 1 v. 1 swap, BUT the swap has externalities when multiple
+people who can afford it act on it (this affects who benefits)
+● Philosophers
+○ Margaret Radin might consider a high school yearbook signed by classmates to be “personal” property (under
+ordinary circumstances)
+○ Hayek: those without respect for spontaneous order seek to impose “a synthetic system of morals” to implement
+their plans
+Common question in property law
+● Is the legislature or the judiciary responsible for updating property law? (Moore v. Regents says legislature)
+○ A lot of people think the legislature should be making policy decisions!
+Rules vs. Standards
+● Rules (think Jaque v. Steenberg Homes, encroachment cases)
+○ Simple & rigid → Example: Speed limits!
+○ Includes time limits!
+○ Decisional devices (if x, then y)
+○ Pros: simple/general, apply to everyone, advantages, generate conclusions at low costs/cheap application
+○ Cons: inflexible, insensitive to nuances of particular situations (Yoda on rollercoaster example lol), developing
+optimal rules are expensive/difficult/more work upfront
+● Standards (think State v. Shack → wellbeing of workers on land > employer’s ownership rights)
+○ Much looser → Example: Drive at a safe speed!
+■ “Drive at an appropriate speed” does not tell you anything
+○ Pros: more open-ended (like a caution sign), includes purpose of law (like to promote safety), more flexible,
+sensitive to peculiarities of a particular situation, generate appropriate results at a wider span of circumstances,
+relatively inexpensive to create (optimal speed limit not needed; just say “caution”!)
+○ Cons: generating conclusions is higher cost and more expensive because you must consider more (what is “safe”
+under the circumstances?), you might have to get a ruling on what a standard means in a new case (harder for
+citizens to guess what standards require them to do…”caution” sign is not that helpful!), unfair biases affect
+standards more than rules
+○ Standards change!!
+
+Professor Lee, Property Spring 2024
+
+HOW CAN PRIVATE PROPERTY CREATE PROBLEMS?
+●
+
+●
+
+●
+
+The tragedy of the commons (coined by Garrett Hardin); example: cow grazing commons
+○ Everyone uses common resources for little/no cost, which can harm/benefit a third party/society
+○ Elinor Ostrom (part of the New Institutional Economics school of thought) notes various solutions
+■ Leviathan (state control)
+● Inherently coercive (state punishment for lack of adherence)
+● Problem of information (Hayek)
+○ The knowledge problem
+○ Coordination to produce is more than any one person can do
+■ E.g. apple/Microsoft example of central planning
+■ Private Property
+● Competition is no longer a competition against each other, it becomes man v. nature.
+● You can now internalize the benefits of forbearance and investment; same thing holds true for
+pollution
+● The theory is that this will lead to optimal decision making.
+● Disadvantages:
+○ Additional required costs
+○ Risk mitigation (markets and insurance)
+■ Alternative Solution
+● Turkish fishing village example - monitoring, organization, and enforcement all handled privately.
+● Concerns: is this any less coercive than the state?
+○ Receiving benefit from common resources for little or no cost can be dangerous to society/environment
+○ Some say socialism fixes this, others say establishing who owns property (privatization of the commons) fixes
+○ No incentive to continue maintaining the commons; the benefit cannot be internalized to any one person!
+○ POLICY: Taking things from the commons (including atmosphere) AND adding things (like trash) can be a problem!
+The tragedy of the anticommons
+○ Too many permissions/exclusions required = so no one can use resource
+○ Some say could be a good thing! (ex: letting many veto developing over a park can preserve the park)
+○ Easy to govern
+○ Video/movie store problem: it takes forever to find something everyone agrees to watch, or you don't even find
+one people agree on
+■ Resource = movie, everyone has a veto, hard to agree and use resources efficiently!
+■ Many people have ownership stakes
+NOTE: Semicommons
+○ Resource is excluded in some uses/purposes, but otherwise a commons/open-access resource
+○ Incentivizes one to favor their part of the semicommons and trash other parts
+○ Internet can be a semicommons
+○ Easy to govern, hard to change (difficult to negotiate over/disentangle)
+
+Professor Lee, Property Spring 2024
+
+ACQUIRING PROPERTY
+FIRST POSSESSION, WATER RIGHTS, AD COELUM, SEQUENTIAL POSSESSION, ADVERSE POSSESSION, OWNERSHIP OF BODY
+PARTS
+
+FIRST POSSESSION
+●
+
+●
+
+●
+
+How to establish ownerships when something is unowned (“a commons”)
+○ You can own something if you are the first to possess it…but how does “possession” work?
+○ Ideas are NOT subject to ownership via “first possession”
+Pierson v. Post: disagreement over the PURPOSE of property law (fox case)
+○ Possession in wild animals is acquired by occupancy (wounding or capturing/trapping)
+○ Majority
+■ You snooze, you lose! Focused on peace, minimize dispute!
+■ Hunter = possessor if BOTH: mortally wound animal + hunter did not abandon pursuit
+■ Trapper possessor if BOTH: Trapped animal of natural liberty + rendered escape impossible
+■ Ratione soli: animals on possessed land belongs to possessor
+■ For wild animals, first to possess is typically the owner
+○ Dissent (Livingston)
+■ Focused on incentive! Rewards effort!
+■ Different proposed test: One must
+● Show intent to get animal
+● Animal is within reach OR there's a reasonable prospect of taking it
+■ No mortal wounding required
+■ Sportsmen should decide this case, not philosophers! → midterm question!
+Custom can be determinative (sometimes)
+○ Ghen: whales = property if person follows custom to possess carcass
+■ Custom trumps Common Law here because people rely on it; it’s been around for awhile!
+■ What if you’re out of town and don’t know the custom? It’s always evolving too!
+● Custom’s ability to circumvent the common law could further entrench racism/classism
+○ Outsiders would have no way of learning way the law is; universal customs should trump
+local customs
+○ Universal vs. local customs is the motivation for the decision Swift v. Gifford
+■ Some think whales are moral persons; should that matter when deciding this case? Minds differ
+● Whaling is illegal everywhere except Japan & Norway
+○ Potential issue: custom’s ability to circumvent the common law can further enrich discrimination
+
+Professor Lee, Property Spring 2024
+
+WATER RIGHTS (Common Law of water)
+●
+●
+
+●
+
+Riparian rights: right to land = right to water on land; cannot sever the two!
+○ Created from owning land bordering a watercourse…strict rule!
+2 dimensions of water law:
+○ (1) surface v. underground and (2) defined channel v. diffuses.
+■ Focus will be on surface + defined channel
+○ Surface water: Casual water under common enemy doctrine = landowners can protect land from surface water
+even if it causes flooding to other landowners, but those landowners can try to repel the water back
+○ Diffused water = pest to be eradicated (diffused surface water is undesirable)
+○ Defined channel of water = valuable/coveted
+Three approaches to water rights
+○ 1: Natural flow theory (old English idea, not a basis for water allocation rights in US
+■ Too strong a barrier to water use
+■ One may remove water, but only to the extent that the natural flow is not disrupted
+■ Everyone is entitled to the same amount of water (EQUALLY!! → egalitarian principle)
+■ Disturbance of natural flow by upstream owners require the consent of each downstream owner
+■ Policy concerns
+● High costs (transfer or rights allowed, but expensive negotiations)
+● Problem of holdouts (strategic to turn a profit or stubborn)
+● Not efficient use of resource being used (anticommons)
+■ Rejected in Evans v. Merriweather
+○ 2: Reasonable use theory is more popular! (it resembles the law of nuisance)
+■ Used in northeastern states where there is a lot of water
+■ Allows for the use of some water
+■ When property rights are allocated justly and reasonably, resources are used for socially valuable reasons
+● Problem! Who determines what’s reasonable?
+○ Bias exists in government/big companies, genuine disagreement
+● Problem! Reasonableness changes over time
+■ Accepted in Evans v. Merriweather (mill owners on river with dams)
+● If waterstream would not individually satisfy everyone, only proportional use is allowed!
+● Natural use (necessary, reasonable) trumps artificial use (for comfort & prosperity, unreasonable)
+○ Some uses are natural in some countries but artificial in others
+○ 3: First appropriation (promotes economic development)
+■ Used in dry, arid, southwestern states where there is not a lot of water
+■ Whoever gets to the water first, gets it! This severs riparian rights!
+● The first to use/divert water for a beneficial use owns rights to it, no more than necessary
+■ Upheld in Coffin v. Left Hand Ditch Company (which did NOT follow reasonable use)
+● KILLS ~ think “coffin”!!~ the other person’s chances!
+● Riparian rights never applied in CO, so inapplicable here (land and water ownership is SEPARATE)
+● Same setup as Evans v. Merriweather, but opposite decision due to policy! (dam ok here)
+○ Water = more valuable out west
+■ Mirrors bright line rule from Pierson v. Post - whoever is first gets it for all time!
+● Problem! Overcompensation because “use it or lose it!” No incentive to save it!
+● Problem! First owner not always obvious! (Evans v. Merriweather)
+
+AD COELUM
+●
+
+“Cujus est solum, ejus est usque ad coelum et ad inferos” = to whomever the soil belongs, he owns also to the sky & below
+
+Professor Lee, Property Spring 2024
+○ Invision a cone that extends to the center of the earth and into the atmosphere above/below you
+○ Another example of the general principle of accession (you own things that go together, like fruit and tree)
+● Great Onyx Cave (Edwards v. Sims)
+○ Majority: ad coelum rule! Follows rules governing mines
+○ Logan’s Dissent: landowners can own everything that may be taken from the earth and used for their
+profit/happiness…but the landowner does not own things he cannot control himself!
+■ Favors active, creative users!
+■ The owner must (1) control it and (2) be able to benefit from it
+
+SEQUENTIAL POSSESSION
+●
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+Possession = prima facie evidence of property!
+Usually through purchase or gift…but what if possession is not voluntary?
+○ Either way, the first person wins!
+○ How can Gifts be effective? (1) handed over & (2) accepted (CANNOT REFUSE!)
+Three possible owners
+○ 1: True owner = Original owner (could be unknown)
+○ 2: Finder = Property belongs to true owner until SOL runs out, allowing finder to keep
+○ 3: Convertor = Finder may be legally required to not convert property to own use & only deliver to the true owner
+True owner → finder → convertor
+○ If P finds & D converts, P wins
+■ Armory v. Delamare (chimney sweep boy who was cheated out of diamond ring)
+● Possession raises a presumption of title; but it can be rebutted by showing a superior title
+● Finder’s rights are good against all the world EXCEPT true owner
+● Finders don’t get full ownership; it still belongs to the true owner until SOL runs out
+○ You have some duties to the true owner (including returning)
+● Jus tertii: An argument made by a third party (not the rightful owner) which attempts to justify
+property ownership based on showing who the rightful owner is
+○ It doesn’t work as a defense!
+● Duty to return if they know who owner is
+True owner → finder → finder
+○ If P finds & D finds, P wins
+■ Clark v. Maloney (P must show floating logs were his property, & that D converted them to their own use)
+● First finder wins over second finder (good against all EXCEPT true owner)
+True owner → convertor → convertor
+○ If P converts & D converts, P wins
+■ Anderson v. Goldberg (steal from thief)
+● First convertor’s rights are good against all others, EXCEPT those who have better titles
+● One who possesses illegally acquired property may advance an action for replevin against one
+who subsequently takes the property without the possessor’s consent
+○ If B steals from A but then C takes from B, B can sue for replevin against C
+Convertor = thief
+
+Professor Lee, Property Spring 2024
+
+ADVERSE POSSESSION
+●
+●
+●
+●
+●
+●
+
+●
+
+Original owner’s possession is displaced by an adverse possessor, whose rights are good against ALL THE WORLD
+Ejectment is what you bring to STOP AP if you find it in time (protects your title)
+Example: you own blackare but aren’t really using it, someone else starts trespassing on it, they are now an AP
+Why AP is allowed: Endowment effects, cheaper to determine ownership, use (active users) > disuse (passive users)
+○ Caveat: sometimes doing nothing for land is the best thing for it (pro for passive user)
+AP doesn’t apply to a prescriptive easement (the permanent legal right to use someone else’s property…there is no SOL)
+Scott v. Anderson-Tully Co → Blue tape on trees led to AP claim winning
+○ Anderson-Tully Co was AP, so they could remove timber from Scott’s land
+○ Adverse possession must be proved (by clear & convincing evidence) to be:
+■ Actual: have control of land (NOT just solely for recreation like hunting/fishing)
+■ Exclusive: sole possession (can’t share with anyone, even true owner, obvi)
+■ Open, notorious, & visible (so as to give notice - even if constructive - of AP to community)
+■ Continuous (Continual = repetitive → this is different!)
+● Uninterrupted (minimum 10 years, but depends on jurisdiction)
+● Howard v Kunto case he diagrammed in class
+● Tacking is usually permitted!
+○ Successive landowners can combine AP time so that the last owner can meet 10 year
+requirement
+● Property type considered when determining intermittent occupancy (summer homes are OK)
+■ Adverse (hostile/no permission/under a claim of right/color of title)
+● Permission defeats AP claim
+● Taking possession of what is mistakenly believed to be valid title (awareness immaterial)
+○ Finding incorrect deed in Grandma’s attic
+● Wildland doesn’t need to be cared for!
+■ For the statutorily required time! (if enough time has passed, you can own land via AP)
+● Usually around 10 years, but SOL can be tolled if TO had disabilities when AP began!
+○ Old age, insanity, etc….but not poverty!
+Courts care about good faith, but it’s not explicitly required (“Connecticut Rule”)
+○ Carpenter v. Ruperto, 1982 → woman extends land into corn field
+■ No AP; if she had only been concerned about safety, then nuisance claim could’ve worked
+■ Rule 1: Good faith matters! It is an essential component of claim of right
+● NY requires AP have a reasonable basis to believe they are the TO (Squatters rights don’t apply)
+■ Rule 2: AP can act in good/bad faith (the “Maine Rule” from a past decision)
+● Maine doesn’t even follow this and most states don’t follow it anymore either
+■ Rule 3: Good faith can be irrelevant since they just didn’t have permission (the “Connecticut Rule”)
+
+OWNERSHIP OF BODY PARTS
+●
+
+Which body parts are subject to ownership?
+Moore vs. Regents → UCLA (spleen, torts case)
+○ No conversion claim once cells leave a patient’s body after surgery because no property interest in cells
+○ State statutes greatly limit what can be done with excised cells
+○ Medical research done on excised cells has high social value
+○ Disclosure laws adequately protect patient autonomy
+○ Legislatures are better situated than courts to decide what should be treated as property
+○ Mosk’s Dissent - focuses on ethics & policy
+■ “Property” = estate, real, personal, and everything one person can own/transfer
+
+Professor Lee, Property Spring 2024
+■ Moore owned rights to his tissue; he could have profited off of it instead
+■ Unequal bargaining positions
+
+WHEN DO WE HAVE THE RIGHT TO EXCLUDE?
+TRESPASS TO LAND
+●
+●
+
+●
+
+Trespass = land is invaded by a tangible object that interferes with the right of exclusive possession
+Jaque v. Steenberg Homes, Inc. (1997) → Civil Action/Enforcement
+○ A property owner has an absolute right to exclude even when there is minimal or no damage to the property!
+○ Nominal & punitive damages can’t coexist per Barnard (society doesn’t care to punish if no nominal damages)
+■ TRESPASSING IS DIFFERENT! Society reeeeally cares about trespassing
+■ Otherwise, people will trespass because they will only face nominal charges
+○ The law is not as protective over personal property (harm must actually occur) as it is with land property
+○ $100K punitive damages awarded to Jaques EVEN THOUGH no actual damage
+■ Punitive damages 9x actual damages are wrong, but presumption can be overcome
+Hinman v. Pacific Air Transport (1936)
+○ Airplane case; Ad Coelum law rejected unless actual & substantial damage! Air ownership is insane!
+■ Trespass is only available to possessors of land; people don’t possess land they can’t reach (like air above)
+○ Distinguished from traditional trespass rule – it’s a use right, not a possessory right!
+○ The owner of land owns as much of the space above him as he uses, but only so long as he uses it
+○ Favors the Edwards v. Sims dissent!! → this was a midterm question!
+■ Landowners can’t own things they can’t themselves control
+■ The owner must (1) control it and (2) be able to benefit from it
+
+CONTINUAL (REPEATED) TRESPASS
+●
+●
+
+If land is repeatedly invaded by a trespasser, the possessor may sue for either trespass or nuisance
+Baker v. Howard County Hunt (1936) → Foxhound case
+○ Foxhunter’s rights are subordinate to landowner’s rights; Baker’s reasonable enjoyment was interrupted!
+○ Equity remedies (injunctions) will relieve against repeating trespasses
+○ BAKER 2-PART TEST → if someone wants equitable relief, NOT monetary damages
+■ (1) P comes to court with clean hands (no harming/wrongdoing as to specific dispute)
+■ (2) No adequate remedy at law exists (damages won’t fix the problem)
+● Ask what caused damage to the property!
+
+Professor Lee, Property Spring 2024
+
+CONTINUOUS (UNINTERRUPTED) TRESPASS
+●
+
+●
+
+●
+
+●
+
+Balancing the equities! Courts often deny enjoinment injunctions if encroachment is done in good faith
+○ Injunction granted if relief is required by “traditional equitable principles”; 4-part test (less care about good-faith)
+■ 1: P suffered irreparable injury
+■ 2: Monetary damages are inadequate
+■ 3: Considering the balance of hardships between both parties, a remedy in equity is warranted
+■ 4: The public interest would not be disserved by an injunction
+Pile v. Pedrick (1895) → building accidentally built over land border by 1” & forced to tear down
+○ Question: should innocent building encroachments be enjoined? Cost = main issue!
+■ Yep! Encroacher had to tear down wall & rebuilt on own land despite accidental nature
+● Many courts reject this absolutist, wasteful approach
+■ Don’t really care about good faith; the right to exclude is super strong!
+○ Ex-ante considerations (before building’s construction)
+■ Pile v. Pedrick’s harsh rule incentivizes people to act carefully before they build ($$$ on the line!)
+Golden Press, Inc. v. Rylands (1951) - basically same facts as Pile v. Pedrick, but now we care about good faith
+○ 2” (de minimis) encroachment underneath P’s land, encroacher can keep encroachment
+○ Ex-ante considerations (before building’s construction)
+■ Golden Press’s rule incentivizes people to act in good faith
+○ MODERN RULE: enjoinment injunction for UNINTENTIONAL (good faith) damage can be denied if
+■ 3 PART BALANCING TEST
+● Removal causes grave financial hardship
+● P’s use is unaffected (P not harmed)
+● Damage is unintentional & slight
+■ Court should not become a party to extortion if good faith mistake (concern = unequal bargaining)
+● “Bargaining occurs in the shadow of the law”; Courts of equity are courts of conscience!
+○ Clean hands and adequate remedy of law still required!
+Ex post considerations (after building’s construction) are trickier
+○ Bilateral monopoly! Bargaining can break down over a modification of rights!
+○ Courts like the softer, efficient, fair analysis of ex post better because it is mostly what they litigate
+
+CRIMINAL & CIVIL ENFORCEMENT
+●
+●
+
+Criminal law of trespass
+○ Small penalties; allows you to call cops instead of resorting to self-help
+Civil action
+○ Three actions to enforce right to exclude
+■ (1) Trespass: protects person in possession who has in exclusion possession of land
+● Protects possession; a party must be in possession of land to sue an intruder for trespass
+■ (2) Ejectment: protects person who has been dispossessed of property (projects title)
+● What you bring to STOP AP if you find it in time
+● Example: only the tenant in possession can bring an action in trespass
+■ (3) Nuisance: protects use & enjoyment of land
+
+Professor Lee, Property Spring 2024
+
+SELF-HELP ENFORCEMENT
+●
+●
+●
+
+●
+
+●
+
+Self help allowed with real property (movable goods)...JUST DON’T BREACH THE PEACE!!!
+○ Controversial: using self-help to recover possession of property after it’s been transferred to another
+Examples: Fences, locks on doors, security guards, dogs, burglar alarms, video cameras, safes, ignition locks, etc.
+Hohfeld (legal scholar)
+○ Right = a claim one has against others that corresponds to a duty they have towards others
+○ Privilege = freedom to act without interference (others have “no-right” to interfere)
+■ Permits (not compels!) one to use self-help
+SELF HELP ENFORCEMENT FOR REAL PROPERTY
+○ Berg v. Wiley (1978) → gives us the Modern Rule for real property in landlord/tenant disputes
+■ Old Common Law rule for real property REJECTED in Berg:
+● Landlords can use self-help to retake leased premises if:
+○ (1): Landlord is legally entitled to possession (clause where tenant forfeits possession
+rights)
+○ (2): re-entry is peaceful
+● WHY IT’S REJECTED
+○ The court likes when people do things the judicial way, especially when peace is breached!
+○ High risk of violence
+■ Modern Rule for real property in landlord/tenant disputes in Berg:
+● Self-help never allowed to retake real property
+SELF HELP ENFORCEMENT FOR MOVABLE PROPERTY
+○ Williams v. Ford Motor Credit Company (1982) → divorce/car case
+■ Article 9 of UCC says self-help is ok if done without breaching the peace (no actual violence)
+■ Heaney Dissent
+● Violence WAS invoked! This wasn’t a silent night raid; invasion was detected, confrontation
+ensued
+● Requiring ex ante violence is not good public policy
+
+Professor Lee, Property Spring 2024
+
+LIMITS ON THE RIGHT TO EXCLUDE
+NECESSITY, PUBLIC ACCOMMODATION, PUBLIC POLICY, ANTI DISCRIMINATION
+●
+●
+●
+
+●
+
+●
+
+●
+
+One has the right to exclude for any reason at all = Common Law!
+GENERAL LIMITATION: Sic Utere Principle → Sic Utere Tuo Ut Alienum Non Laedas)
+○ Use what is yours in such a way that you don’t harm somebody else (limits exist; property rights are not absolute)
+NECESSITY LIMITATION ON THE RIGHT TO EXCLUDE (just has to be objectively or subjectively reasonable)
+○ Outside of human life, deciding what’s necessity and what isn’t is TRICKY!
+○ Ploof v. Putnam (1908) - storm, boat tied to dock, dock damage
+■ Tying the boat to dock due to storm was justified by necessity!
+■ Human life is more sacred than the right to exclude and thus validates necessity
+● BUT the party causing damage still must pay damages!
+○ Extra lesson: don’t always trust authority! (Eugenics story)
+PUBLIC ACCOMMODATIONS LIMITATION ON THE RIGHT TO EXCLUDE
+○ Private accommodations can reasonably exclude
+○ Requirements for public accommodations (common carriers) to exclude:
+■ (1) First come first serve basis (anyone willing to pay)
+■ (2) Reasonable prices
+○ The more you accommodate to common use, the more you must accommodate to public use
+■ IF YOU LET PEOPLE USE YOUR PROPERTY, NOW YOU HAVE TO RESPECT THEM MORE! Duhhhh
+■ Uston v. Resorts International Hotel, Inc. (NJ, 1982) → Card counting case, D barred from P’s casino
+● Casino Control Commission does not determine whether card counters should be excluded
+○ NJ cannot decide whether P’s exclusion is lawful!
+○ D was playing correctly under the Commission’s existing rules
+PUBLIC POLICY LIMITATION ON THE RIGHT TO EXCLUDE
+○ General exception to the right to exclude = Public policy balancing test!
+■ Weighs right to exclude against social interest (State v. Shack)
+■ Don’t exclude people for unreasonable reasons!
+■ Society can be better off if certain exclusions happen
+○ State v. Shack (NJ, 1971) → wellbeing of workers on land > employer’s ownership rights
+■ Property rights serve human values! Courts’ job is to figure out what promotes human values
+■ Rights are relative; there must be an accommodation when they meet
+■ Did not clarify who can be excluded from land and who can’t
+■ THIS IS A STANDARD, NOT A RULE!
+■ Sic Utere Principle in action!
+○ Some courts allow denying people from entertainment venues if not for race, color, creed, national origin, or sex
+■ BUT they can deny experts in a game…horse-racing case example!
+ANTI DISCRIMINATION LIMITATION ON THE RIGHT TO EXCLUDE
+○ Shelley v. Kraemer (1948) → black family bought house, white neighbors sued to enforce restrictive covenant
+■ Racially restrictive covenants are not judicially enforceable; you can create them, but courts enforcing
+them = state action, which violates EP (this is binding everywhere)
+● Differs from self-help repossessions, which are NOT state action
+○ Fair Housing Act of 1968 prohibits discrimination for race, religion, sex, familial status, national origin, & disability
+■ Goal = uniformity (discrimination laws differed because previously regulated by state & local laws)
+■ Applies to discriminatory sale/leasing of (1) dwellings (2) terms of such sales/ rentals (3) advertising of
+sales & rentals (4) misrepresentations about sale/rental unavailability or profit-seeking representations
+about changing racial makeup of communities in which they are located (5) failures to make reasonable
+accommodations in the disability context
+
+Professor Lee, Property Spring 2024
+■ Policy: (1) privacy + safety and (2) statutes will be interpreted to avoid constitutional questions
+■ Mrs. Murphy (old racist irish ladies) exception to FHA: § 3603(b)(2) → Mrs. Murphy can be racist
+● Professor Lee thinks this is unfairly stereotyping Irish people!
+● Does not apply to advertising! Mrs. Murphy cannot be racist in her ads!
+● Mrs. Murphy’s dwelling has <4 rental units = exempt from FHA
+■ STEP 1 → P shows prima facie case of discrimination via disparate treatment/impact
+■ STEP 2 → D can rebut prima facie case by showing a non-discriminatory reason
+● Private D → Rational Basis Review
+● Public D → Strict Scrutiny
+■ STEP 3 → P may rebut the alleged non-discriminatory reason as pretext (landlord did not actually rely on
+the claimed legitimate reason)
+○ Roommates case; FHA does not extend to shared living; gov.’t can’t invade privacy/autonomy/security!
+■ Court says “dwelling” does NOT include shared living
+■ Congress intended FHA to apply to landlord and tenant transactions, NOT shared living
+■ Rights of intimate association (like the right not to associate) are protected
+○ Policy for laws that prohibit discrimination in private housing markets
+■ 1) Increase housing opportunities for protected groups
+■ 2) Eliminate harm/indignity suffered by members of protected groups when they are rejected by a
+landlord or seller based on persons being a member of a protected group
+■ 3) Eliminate inferiority/subordination communicated to community when landlords/sellers discriminate
+
+Professor Lee, Property Spring 2024
+
+CEDING SOVEREIGNTY
+LICENSES AND THEIR EQUITABLE ENFORCEMENT, BAILMENTS, ABANDONMENT, DESTRUCTION
+TRANSFER OF PROPERTY: STATUTE OF FRAUDS, DELIVERY, LAND TRANSACTIONS, NEMO DAT/GOOD FAITH
+PURCHASERS EXCEPTION, PROVING OWNERSHIP
+●
+
+●
+●
+
+One stick in your bundle = your right to transfer property
+○ Why should the law allow transfers?
+■ Enhances autonomy; rids of burden of taking care of property no longer wanted; owners can designate!
+Licenses and bailments are how property owners can relinquish right to exclude temporarily
+LICENSES AND THEIR EQUITABLE ENFORCEMENT
+○ License example: when you go to the movies, you are allowed in, but you don’t own any part of the theater
+■ Licenses authorize licensees to enter land, but they don’t transfer a property right
+○ LICENSES = REVOCABLE, GRANTS = IRREVOCABLE
+■ Licenses = revocable at any time & are temporary; black letter law via Baron Alderson!
+■ License + grant = irrevocable; the grantor is estopped from defeating their grant!
+● Grants (implied license to enter land) transfer property rights (one can remove property from
+land)
+● Irrevocable property rights to enter land given via deed; if no deed, interest = license (revocable)
+○ Wood v. Leadbitter (1845) → buying a horse racing ticket = a revocable license
+■ Wood was granted access to property during horse races, but was later removed
+■ If licensee exceeds license/remains on land after license expires/is revoked, then TRESPASSER!
+● Many think this rule was unjust here since a contract existed & Eglintoun didn’t provide a reason
+for removing Wood (but Wood was a shitty guy/fraudulent bookmaker…interesting case!)
+
+Professor Lee, Property Spring 2024
+BAILMENTS
+● Temporarily transferring possession (NOT ownership) of property for a specific reason (usually created via contract)
+○ Ex: temporarily transferring clothes to a dry cleaning shop for cleaning = bailment
+● Bailor: transferor → they create the bailment relationship
+● Bailee: receiver
+○ Old rule for involuntary bailees
+■ Involuntary bailee MUST STILL deliver goods to the proper owner…good faith doesn’t matter!
+● Cowen majority
+○ Modern rule for involuntary bailees
+■ Involuntary bailee has no duty to return goods to property owner, but good faith matters!
+● Lehman’s Cowen dissent has modernly been adopted!
+○ Voluntary bailee accepts responsibility that comes with possessing property; TO can evaluate good faith!
+● BAILMENT ANALYSIS: three questions!
+○ 1: Is there a bailment issue/is a bailment relationship formed?
+■ Did a transfer of property possession happen?
+● Circumstantial! Is there some attendant/security guard that has temporary possession?
+■ If not, stop → there is no duty/liability if no formed bailment relationship
+○ 2: What is the bailee’s duty of care with respect to the bailment?
+■ Modern Doctrine framework: DUTY OF REASONABLE CARE FOR ALL BAILMENTS
+● Circumstantial! Was it foreseeable?
+● Courts are stricter on misdelivery (property given to wrong person) than for damage/theft
+(Cowen)
+■ Justice Story’s framework (Old Story Doctrine) → duty of care depends on who benefits from the
+bailment (requires understanding what the benefit is!)
+● 1: If sole benefit is for the bailor, bailee’s slight diligence is required
+○ Liable for gross neglect
+○ Ask: how can the bailee satisfy slight diligence?
+■ Ex: B possesses (keeps) A’s car while A is vacationing (B owes SD)
+● 2: If sole benefit is for the bailee, bailee’s great diligence is required
+○ Liable for slight neglect
+○ Ask: how can the bailee satisfy great diligence?
+■ Ex: B possesses (borrows) A’s lawn mower (B’s owes GD)
+● 3: If reciprocal benefit, bailee’s ordinary diligence is required
+○ Liable for ordinary neglect
+○ Ask: how can the bailee satisfy ordinary diligence?
+■ Could be helpful to analyze who is paying who if applicable in fact pattern
+■ Ex: A possesses B’s coat at A’s dry cleaning shop (A owes OD)
+○ 3: Who is better situated to protect the property?
+■ THIS IS A POLICY POINT that derives from Allen (hotel in better position, they can spread out cost)
+■ Learned Hand?
+● Allen v. Hyatt Regency-Nashville Hotel (TN, 1984) → commercial garage, P parked in D’s garage, car missing
+○ BAILMENT FOR HIRE RELATIONSHIP FORMED; a bailment was created in hotel parking garage because the hotel
+was in a better position to protect
+○ When bailee doesn’t give property back (non-deliver), negligence is presumed (provided by statute)
+■ Bailments can be created despite disclaimers (circumstantial)
+● Garage was commercial/enclosed/regularly attended by security patrolled
+● Disclaimers are NOT ENOUGH to prevent a bailment relationship when circumstances point to the
+existence of a bailment relationship! → this is focused on THEFT
+
+Professor Lee, Property Spring 2024
+● Are they on notice? (signed a clear disclaimer vs. signed an easily ignorable disclaimer like in Allen)
+○ Court analyzes through torts lens; duty of care should fall on who can cheaply avoid problems
+○ Dissent (Drowota): No implied bailment because no traditional elements of delivery/control exist
+● Cowen v. Pressprich (1922) → misdelivery of a bond (dissent + majority focused on reasonableness standard)
+○ LOTS OF MISTAKES!! Bailee is strictly liable!
+■ Courts are typically stricter on bailees receiving misdeliveries than for damage/theft
+■ OLD RULE: Involuntary bailee still must deliver goods to the proper owner…good faith doesn’t matter!
+● MODERN RULE = Lehman’s dissent: involuntary bailee has no duty to return, good faith matters!
+● Finders of goods are typically “involuntary bailees”
+
+Professor Lee, Property Spring 2024
+ABANDONMENT
+○ General rule: Personal property CAN be abandoned, but perfect title to real property CANNOT be abandoned!
+○ The law doesn’t allow real property to NOT be owned
+■ Someone must always have a present possessory interest in real property!
+○ Pocono Springs (1995) → D stopped paying real estate taxes, sheriff’s sale, no buyers, another tax sale, no buyers,
+D mailed intent to abandon to “all interested parties,” refused to accept mail at that address, D loses because he
+did not relinquish rights!
+■ Test for abandoning real property
+● Voluntary relinquishment of all title & right/claim to possession
+● Intention to terminate ownership
+● No vesting ownership in anyone else
+● Intention to not reclaim possession
+■ POLICY REASON WHY WE DON’T ALLOW ABANDONMENT
+● People make decisions that are optimal for themselves, but taint the pool
+● Negative externalities: we don’t want empty houses everywhere
+● Environmental concerns
+● Government wants to gain the property taxes on real property
+● DESTRUCTION
+○ Eyerman v. Mercantile Trust Co. (1975) → house NOT destroyed for public policy reasons
+■ P’s will to knock down house void for public policy (dead landowners more restrained than living)
+■ Dissent (Clemens): Destruction might have been for good reason, and we should protect a will’s wishes
+○ POLICY: Destroying houses just to honor a will is against public policy; No one would benefit from destruction!
+■ Cannot impose conditions that oppose public policy!
+○ RULE: Taking property by inheritance (will) is not an absolute right; the state may foreclose the right
+● TRANSFER OF PROPERTY
+○ 2 basic types
+■ Exchanges (contracts)
+■ Gifts (trusts and estates)
+● (1) donor must intend to give the gift
+● (2) donor must deliver the gift
+● (3) donee must accept the gift (CANNOT REFUSE)
+● TRANSFER OF PROPERTY: STATUTE OF FRAUDS (SOF)
+○ Land transactions must be transferred in a signed writing under the SOF
+■ Exceptions: (1) short term leases, (2) Louisiana doesn’t follow this, lol
+■ Types of signed writings: deed, a will, any written instrument
+○ Two types of fraud:
+■ Fraud in the inducement
+● They think they’re signing one thing, but they’re signing something else (they’re just kinda dumb)
+■ Fraud in the factum → produces void title, NOT voidable title
+● Misrepresentation causes one to enter a transaction without realizing risks, duties, or obligations
+● Hauck v. Crawford: Hauck = 8th grade education, his negligence does not justify fraud
+○ Foster v. Reiss → delivery requirement for non-gifts:
+■ Dying woman wrote letter showing intent to leave to husband, but no property transferred (not delivered)
+■ Delivery requirement for a non-gift! The deed must be signed, sealed, and delivered
+■ Dissent: this is too ritualistic, we know the woman wanted to transfer to her husband
+■ Establishing a gift causa mortis requires:
+● Donor (1) anticipates death, (2) dies of anticipated peril, (3) and has clear donative intent
+● TRANSFER OF PROPERTY: LAND TRANSACTIONS
+
+Professor Lee, Property Spring 2024
+○ Wood v. Donahue (doctrine of equitable conversion)
+■ The purchaser under a land installment contract = equitable owner of the land via contract’s execution
+● Purchaser: property’s equitable owner, reaps benefits that accrue to the land and bears risk of
+loss
+● Seller: entitled to purchase money, retains title as security for payment of purchase money, does
+not retain any equitable interest on the property
+○ Marketable title: free from defects and incumbencies
+○ Perfect title: nothing wrong with it – no dispute!
+○ Types of deeds:
+■ General warranty deed
+● The grantor covenants against title defects created both by himself and by all prior titleholders
+● You make promises and you’re willing to go to court to defend them
+■ Quit claim deed
+● To formally release, renounce, or relinquish a legal claim to property (giving up whatever you
+have)
+● Basically, a release of whatever interest, if any, the grantor has in the property
+● Covenants warranting the grantor’s title is inconsistent with quick claim deeds
+● Seller says “not my problem, I gave this to you”
+■ Special warranty deed
+● Guarantees the title against defects arising only during the period the grantor holds title, and does
+not extend to the property's entire ownership history (warranting that this is good title and will
+defend against it)
+● The grantor covenants only that he himself did not create title defects; he represents nothing
+about what prior owners might have done
+● Covers ANY problems that the seller caused
+○ LAND DEMARCATIONS
+■ Defines property boundaries!
+● Keeping of land involves identifying what land you are keeping! What are the exact boundaries?
+● Two broad categories
+○ Rectangular survey: originated w/ Land Ordinance of 1785; defines rectangular land plots
+■ Almost all land in fed. public domain follows this/why cities/farms are rectangular
+■ More $$$ than metes & bounds, but more certain descriptions/easier to use
+■ Some (Libecap & Lueck) argue shapes lead to economic value!
+○ Metes and bounds system: rocks, trees, etc. mark boundaries (prevails in Eastern states)
+■ Mistakes are common! Nature erodes over time!
+■ Cheaper than rectangular survey, but can be tailored to rugged terrain
+■ Uniquely suited to American colonial development
+● TRANSFER OF PROPERTY: NEMO DAT (nobody can give dat!)
+○ Nemo dat quod non habet = one cannot give that which one does not have
+○ “Chain of transactions”/“derivation principle”
+○ Transferee’s rights derive from those of transferor
+○ Prior in time = prior in right
+○ Nemo dat = baseline principle regarding transfers of ownership
+■ UNLESS good faith purchaser
+● UNLESS original sale gave void title due to fraud in the factum
+○ UNLESS the seller was negligent
+○ Innocent purchaser can still have rights to goods IF
+■ (1) Their purchase was in good faith
+
+Professor Lee, Property Spring 2024
+■ (2) they gave value in exchange for the good
+● TRANSFER OF PROPERTY: GOOD FAITH PURCHASERS’ EXCEPTION TO NEMO DAT
+○ The purchaser didn’t have notice that there was something wrong with the intermediate seller claim
+■ Don’t blame innocent purchaser who did not have notice!
+○ “ETERNAL TRIANGLE” = original owner, bad actor, innocent purchaser
+■ The bad actor is usually gone, so 2 innocent parties have to battle it out
+● Ask: who of those 2 parties is in a better position to avoid the loss? It depends!
+○ UCC recognizes exception for goods (UCC §2-403), BUT transferor must have “voidable” title; NOT “void” title
+○ Voidable title: Power to transfer to a good faith purchaser for value!! → NEMO DAT EXCEPTION APPLIES!
+■ SOMEBODY (the bad actor) CAN GIVE DAT!
+■ Example of Nemo Dat exception: acquiring goods with a fraudulent check (Kotis v. Nowlin Jewelry)
+● Original owner: Nowling Jewelry, sold watch to Sitton
+● Bad actor: Sitton, fraudulently purchased watch from Nowling Jewelry
+● “Innocent purchaser”: Kotis, purchased watch from Sitton
+● Sitton had voidable title; he paid with a forged check, so he could transfer title to Kotis
+○ KOTIS ON CONSTRUCTIVE NOTICE THAT WATCH WAS STOLEN via low watch cost
+○ Void title: No power to create rights in another (via theft) → NEMO DAT EXCEPTION DOES NOT APPLY
+■ SO, STILL, NOBODY CAN GIVE DAT!!
+■ EXAMPLE: If Sitton (Kotis v. Nowlin Jewelry) had stolen Nowlin’s watch, title to Kotis = void
+○ How to prove ownership (3 ways to effectuate transferring property; 3 types of jurisdictions for recording acts)
+■ Filing system (permanent public recording of property interests) = alt. to transfer rules based on
+possession
+● Purpose = notice to all of the world, but purchasers need the most info!
+○ Problem: does a potential trespasser need to look up the state of a title?
+■ Recording acts require a grantee to make some sort of recordation that gives “notice to the world” that
+property title has already been conveyed, which puts subsequent purchasers on notice
+● Inquiry notice: a reasonable person would have done more research to discover something
+● Record notice: there’s a record, you should have checked!
+■ 1: Race acts (it’s a race to the government office to file your deed first!)
+● Just file first and you win the property! → no requirement of good faith
+● Creates another exception to Nemo Dat principle and partial exception to good faith purchaser
+● Subsequent purchaser could prevail over the holder of a prior unrecorded interest
+■ 2: Notice acts:
+● Subsequent purchaser for value prevails over a prior grantee only if the subsequent purchaser
+lacked notice of the earlier conveyance
+● Recording provides constructive notice → good faith matters!
+● A → B, B→ C…who wins between B and C?
+○ C wins only if C didn’t have notice (which can be record notice) of the other transfer
+■ If C was on record notice and acted in bad faith, B wins!
+■ 3: Race-Notice acts:
+● First purchaser to record (race) AND acquired in good faith prevails (like if you lacked notice of the
+earlier interest)
+■ *some states apply mixed regimes (example: a race act to mortgages, but others to general conveyances)
+
+Professor Lee, Property Spring 2024
+
+SERVITUDES
+EASEMENTS (CREATION, TERMINATION, MISUSE)
+COVENANTS (EQUITABLE SERVITUDES, REAL COVENANTS, RUNNING WITH THE LAND, NOTICE, TERMINATION)
+●
+
+●
+
+●
+
+SERVITUDE = a contract that binds successors in ownership; they run with the land (1: easements and 2: covenants)
+○ Easements CANNOT be struck down for changed circumstances
+○ Covenants CAN be abandoned AND struck down for changed circumstances
+■ Peckham v. Milroy → To determine if a covenant has been abandoned, the court will consider:
+● 1) Habitual & substantial violations (frequency & size of violation ); and
+● 2) If enforcement of the covenant would be inequitable
+○ Nonpossessory interest in land!
+○ 5 types of servitudes
+■ 1: Easements → grant of property use right that tends to stick around!
+■ 2: Licenses → a privilege to enter the land of another for a limited purpose! (flimsiest of all servitudes)
+■ 3: Profit a prendre → similar to an easement, but entitles holder to extract natural resources from land
+■ 4: Real covenant → starts as a contract, rooted in law
+■ 5: Equitable servitude → similar to a real covenant, rooted in equity
+THE LAW OF SERVITUDES: Allows for lawful transfers of permanent property rights! (Permanently serving property rights)
+○ One way to rearrange one’s bundle of rights (aka sticks); transfer ownership of individual bundle elements!
+How are leases different from licenses and easements?
+○ Leases include the right to exclude, Licenses & Easements do NOT include the right to exclude
+○ Leases transfer possession, Licenses & Easements only transfer use rights (not possession)
+○ Lease = contract + conveyance of land, Licenses & Easements are not that
+Present Estates
+
+Easements
+
+Licenses
+
+Possessory or Non-possessory RIGHT?
+
+Possessory
+
+Subject to SOF?
+
+Triggers SOF
+
+Only triggers SOF if trying
+to transfer the easement
+
+No SOF (typically oral)
+
+Yes
+
+Can it be granted orally?
+
+No (SOF!!)
+
+Yes
+
+Yes (and it’s typical)
+
+No
+
+Right to exclude?
+What if Licensee detrimentally relies
+on Licensor’s permission?
+
+N/A
+
+Non-possessory (use)
+
+Lease
+Possessory
+
+No
+
+Yes
+
+License → Easement by Estoppel (an irrevocable
+grant)
+
+N/A
+
+EASEMENTS → functionally like a contract, make a deal!
+● Easements give you the right to enter/use someone else's land
+○ Usually waives the right to exclude
+○ Runs with the land (good or bad…you bought the land, so you bought the easement’s burden/benefit!)
+○ Gives right to a particular use
+○ Cannot be revoked easement’s duration (differs from licenses, which are revocable)
+○ The right to use is non-possessory
+● Ex: right of way across land, right to water cattle on someone’s land, utilities’ right to lay power lines
+● Easements are either (1) appurtenant to land or (2) held in gross
+○ Easement Appurtenant = Benefit is attached to the parcel of land and always runs with it
+■ Waiver of one’s right to exclude BELONGS with the land!
+
+Professor Lee, Property Spring 2024
+■ “It Takes Two” → two parcels must be involved!
+● Land being crossed/burdened by easement = servient parcel
+● Land being reached/benefited/enhanced by easement = dominant parcel
+● Example: A grants B a right of way across A’s land so that B can more easily reach B’s land
+○ A’s land is serving B’s easement
+○ B has an easement appurtenant to B’s dominant tenement because it allows B to derive a
+benefit in B’s use and enjoyment of B’s own land
+○ Easement in Gross = Benefit is attached to a person
+■ Baseball Publishing Co: This is more than a lease or a license; it’s an easement in gross!
+■ “It Takes One” → servient land; no dominant parcel
+■ Servient land is burdened, but there is no dominant parcel
+● No land is benefited; only a person benefits
+● Examples: the right to place a billboard on another’s lot or swim in another’s pond
+■ Typically for recreational easements:
+● Easement to fish, hunt, camp, boating etc on someone else’s land
+■ They are NOT transferable, unless for commercial purposes
+● Example: you cannot transfer the right you were given to swim in another’s pond!
+● Example: you can transfer the right to fish for bait in another’s lake
+● Easements are either (1) affirmative (most common!) or (2) negative
+○ AFFIRMATIVE EASEMENT: Permits easement holder to perform some affirmative act on servient parcel
+■ Example: allowing a power company to put electrical wires on your property
+■ Can be created in any of four ways (PING): Prescription, Implication, Necessity, or Grant (estoppel)
+○ Negative Easement: Rare, but permits easement holder to demand servient stop certain actions
+■ More narrow in scope than affirmative easements!
+■ No automatic right to a negative easement! They can only be granted via expressed grant (a signed
+writing)
+■ Does not give dominant holder the right to do anything; they can only STOP the servient’s actions
+■ 5 traditional negative easements (today these are usually done by creating a covenant):
+● SASS → sunlight, air, support, stream water
+○ 1: Stop interfering with sunlight falling on windows
+○ 2: Stop the flow of air in a defined channel
+○ 3: Stop removing lateral support of buildings
+○ 4: Stop the flow of stream water from an artificial source (common in dry, arid climates)
+○ 5: (depends on jurisdiction) stop interfering with someone’s scenic view
+● Public vs. private easement
+○ PRIVATE EASEMENT: authorizes specific named parties to use the land for designated purposes
+○ PUBLIC EASEMENT: authorizes the general public to use land for designated purposes
+● Easement by Grant → MUST BE IN WRITING
+○ Baseball Publishing Co. v. Burton
+■ P received personal benefit, but no benefit to land, so P has an easement in gross created by grant
+■ If lease, then transfer of possessory interest in land does exist; so NOT a lease here!
+■ How do you tell which easement is which?
+● If they intended it to be either, that’s what it will be
+● If unclear, court will look at circumstances
+● If it adds to use and enjoyment of neighboring partner, will probably be appurtenant
+● SOF does not apply to the following: PINE (easements by Prescription, Implication, Necessity, or Estoppel)
+○ EASEMENT BY PRESCRIPTION → the permanent legal right to use someone else’s property
+■ Similar to AP, but AP grants title while prescriptive easements only grant an easement
+
+Professor Lee, Property Spring 2024
+● Prescriptive easements don’t have to be exclusive, are usually revocable, give use rights, & have a
+shorter SOL
+■ When the claimant’s use of property is COAH + DLOT + For the Given Statutory Period, they have an
+easement by prescription
+● C → Continuous (not constant)/uninterrupted for the statutory period
+● O → Open and notorious (visible use to owner, like walking across someone’s land)
+● A → Actual entry that need not be exclusive
+● H → Hostile use (without the servient owner’s consent; if you get permission, that’s a license)
+● DLOT → Definite Line Of Travel
+○ The court in Warsaw also added this requirement (like following a driveway)!
+■ Structure interfering with Warsaw’s property use right must be removed
+■ Sometimes, easement holders must compensate for (1) the fair market value of the easement OR (2) the
+cost of removing an interfering encroachment
+○ EASEMENT BY IMPLICATION → An easement is implied from prior use
+■ A separation of title, but use allowed from before the separation (1) continued and (2) was so obvious so
+as to show that it was meant to be permanent
+■ Without this easement, the property owner cannot enjoy usual use of property
+■ Policy for existing: prevent subdivision property purchasers from being surprised that no easement exists
+■ Example: A owns two lots; Lot 1 is hooked up to a sewer drain located on Lot 2, A sells Lot 1 to B without
+mention of B’s right to continue use of the drain → the court will imply an easement for B!
+○ EASEMENT BY NECESSITY → When an owner conveys partland with no way out (landlocked)
+■ If the owner severs a landlocked portion of property & conveys it to another, the future buyer of
+landlocked property has an easement that was passed onto them
+■ Owners who do the land-severing cannot claim an easement by necessity or implication
+■ It doesn’t matter how inconvenient it is to get to your land (geographical barriers like water/forest); if you
+can get to your land legally, NO easement by necessity!
+● Courts are less strict on this today
+● Schwab v. Timmons
+○ P failed to show they needed an easement by implication; the private road they sought to
+extend did not & had never extended to their properties
+○ REQUIREMENTS
+■ (1) severance of property held in common ownership
+■ (2) the owner is who severed part of the property
+■ (3) the severed portion is landlocked
+○ EASEMENT BY ESTOPPEL → Easement holder pays to use land
+■ The owner of land grants a license to another to use and make improvements upon the land, and the
+licensee, relying on this permission, does so at considerable cost, leaving license irrevocable
+● Licenses are freely revocable, UNLESS estoppel applies through a licensee investing substantial
+money or labor in reasonable reliance that license would continue!
+○ Example: show tickets are revocable: no significant money/labor spent!
+● License = privilege that are NOT subject to SOF
+■ Holbrook v. Taylor → easement by estoppel
+● Once a landowner gives the licensee permission to use/improve land in an expensive way, the
+landowner does not have the right to revoke the license
+● How to succeed on easement by estoppel
+○ 1: Owner grants permission to use/improve land
+○ 2: A reasonable person would not think this permission would be revoked!
+■ Granted license = IRREVOCABLE!
+
+Professor Lee, Property Spring 2024
+Revocation of the license can cause unjust enrichment!
+● We want to prevent this
+○ 3: The recipient detrimentally relied on permission being continued!
+■ Reliance can estopp someone from claiming “no easement”
+■ Fontainebleau Hotel Corp v. 4525 inc. → no easement by estoppel
+● As long as no legal right is infringed, a landowner may reasonably & lawfully use property
+● No legal right to the free flow of light and air across adjoining land
+● The right to have one’s view cannot be created by implication; otherwise, property development
+would be hindered
+○ EASEMENT BY RESERVATION → The landower reserves himself an easement in the land he sells to the buyer
+■ Example: A buys land from B that is between B and the road. B can reserve himself an easement to cross
+A’s parcel in order to get to the road
+EASEMENT TERMINATION
+○ 5 ways to terminate easements
+■ Most commonly by deed (parties agree to end easement)
+■ Merger as a Matter of Law (dominant & servient tract are commonly owned which merges the easement)
+■ AP/prescription (easement ends UNLESS dominant owner objects before SOL expires)
+■ Prolonged nonuse creates an inference that easement = abandoned…then easement ends (ex: railroads)
+■ Necessity for easement ends
+● Schwab v. Timmons → landlocked
+○ 1 way to temporary stop easement
+■ Misuse of easement (reasonableness standard)
+● Remedy = temporary injunction to stop misuse, not easement termination unless you don’t stop
+● Penn Bowling (bowling alley uses land for restaurant unloading, land owner puts up wall to stop)
+○ Use with one parcel is fine, but NOT with additional parcel
+Profit a prendre: the nonpossessory right to enter another’s land to extract something (similar to an easement)
+○ One’s right to exclude is WAIVED; a right to cross/use someone else's land, typically for a specified purpose
+○ Examples: timber, fruit from trees, fish/game from a lake/forest
+■
+
+●
+
+●
+
+Professor Lee, Property Spring 2024
+COVENANTS VS. EQUITABLE SERVITUDES
+● Covenant → contract where parties agree to do/not do something with land
+○ SOF applies; all covenants must be in writing!
+○ Ex: you cannot paint your house yellow or blue, you won’t dry clothes on clothes lines
+○ 2 covenant variations (both are promises to respect use of land; the difference lies in the remedy for the breach!)
+■ Equitable servitude remedy = injunction (equity)
+■ Real covenant remedy = damages (common law)
+● SOMETIMES these agreements bind successors when they didn’t agree to anything
+○ If they are bound, the benefit/burden of the covenant is said to “run with the land” (Tulk v. Moxhay)
+■ Missing privity requirement is okay in Tulk
+● Covenants can’t be by PINE (prescription, implication, necessity, estoppel) bc they need to be in writing (differs from
+easements)
+● Restrictive covenant = we discussed racially restrictive covenants (most covenants are restrictive!)
+● Affirmative covenant = contract requiring a party to do something (like promising to maintain a fence)
+● How to analyze Covenant vs Equitable Servitude questions
+○ Step 1: Who is the burdening/benefiting party
+■ Who is being forced (burdener), and who is doing the forcing (benefiter)? Are both?
+○ Step 2: Are we dealing with a real covenant, or an equitable servitude?
+■ What remedy is being sought; injunction (ES) or damages (RC)?
+○ Step 3: Does the burden/benefit run?
+■ Harder for burden to run than for the benefit to run
+● How to terminate a Covenant
+○ Bolotin v. Rindge (change of circumstances)
+■ A court will declare a deed restriction unenforceable by reason of changed circumstances if:
+● 1) If enforcement of the covenant would be inequitable;
+● 2) enforcement would harass the other (the burdened) party; and
+● 3) and it would serve no benefit to the adjoining land owners
+○ Covenant abandonment requires proof that prior violations eroded general plan, & enforcement is inequitable
+○ Peckham v. Milroy
+■ To determine if a covenant has been abandoned, the court considers:
+● 1) Habitual & substantial violations (Frequency and size of violation); and
+● 2) If enforcement of the covenant would be inequitable
+● Equitable servitude theory (injunction remedy)
+○ When a lessor/lessee transfers their interest in property subject to a lease
+○ If you purchase property with notice of restrictive covenant burdening the land, you must honor it
+○ Tulk v. Moxhay → why courts should enforce ES
+■ It’s inequitable to knowingly sell property that's burdened to another & receive $ for it
+Requirements for burden of an ES to run (TWIN):
+
+Requirements for benefit of an ES to run (WIT):
+
+No horizontal/vertical privity requirement AT ALL
+Touch and Concern
+
+Writing
+
+Writing
+
+Intent
+
+Intent
+
+Touch and Concern
+
+Notice
+●
+
+Real covenant theory (damages remedy)
+
+Professor Lee, Property Spring 2024
+○ Normally found in deeds: written promise to do or not do something on land
+○ Benefits and burdens are analyzed separately to determine if they run with the land
+○ Eagle Enterprises Inc. v. Gross
+■ A covenant runs with the land only if (all three conditions must be met → tripartite rule):
+● (1) Intent between original grantor and original grantee;
+● (2) Privity of estate between current parties contesting the covenant; and
+● (3) the covenant touches and concerns the land with which it runs
+○ Must reasonably relate to use of land and affect parties’ legal relations as landowners
+■ A covenant must change the value of the land
+■ Somewhat uncertain, it varies & is a murky area of the law
+○ Neponsit Prop Owners Assc. V. Emigrant Industrial Savings Bank
+■ Expanded definition of touch & concern
+● Covenant need not physically TOUCH land (it included an easement
+allowing use of roads/beaches)
+Requirements for burden of a RC to run (WITHN)
+
+Requirements for benefit of a RC to run (WITV)
+Writing
+Intent
+
+Touch and Concern
+Horizontal + Vertical Privity (need both…THIS DIFFERS IN ES)
+Vertical Privity ONLY
+Horizontal concerns relationship between OG parties
+● Complete succession not required, only need
+● Difficult to establish (common obstacle for burden to run)
+some non hostile nexus (not AP)
+○ Neighbors don't count; they are often not each
+other's grantor/grantee, landlord/tenant,
+debtor/creditor, etc. (grantor/grantee would be
+most common)
+● OG relationship must have been one of SUCCESSION
+○ Landlord/tenant, debtor/creditor, grant/grantee like
+a developer who sells off lots to people
+Vertical concerns relationship between CURRENT parties
+● Easier to establish
+● Some non-hostile nexus (no AP) must be found between A &
+A1 via deed, familial relationship, deed, a devise in a will, etc.
+● COMPLETE succession of the estate must exist
+○ Lease is not complete succession, purchase is
+○ Kind of gets at fee simple absolute
+Notice
+● A1 must have had notice (constructive/inquiry, record, or actual) of A and B’s original promise
+○ Sanborn v. McLean: McLean’s on inquiry notice of covenant’s existence bc obvious, general neighborhood plan;
+they should have tried to discover the covenant’s existence!
+● Traditionally not required, but now it is (varies by jx)
+● (1) Actual/told up front OR (2) Constructive (on record with county which establishes inquiry notice)
+
+NUISANCE
+
+Professor Lee, Property Spring 2024
+
+BASICS, DISTINGUISHING FROM TRESPASS, SCOPE OF RIGHT OF NON-INTERFERENCE
+●
+
+●
+●
+
+●
+
+●
+
+●
+●
+
+Nuisance picks up where trespass leaves off; it is a non-trespassory invasion of land that causes substantial injury and an
+unreasonable interference with the use and enjoyment of property
+○ Nuisance is an ex post way of dealing with property-use conflict
+Prosser calls it an “impenetrable jungle”; many complications arise with nuisance law, no concrete theory to deal with it
+Remember Sic Utere Principle; it limits the private use right of one’s property, but to an extent
+○ Fontainebleau Hotel Corp
+■ A landowner does not have a legal right to the light/air/sunlight across the adjoining land of his neighbor
+● Light/air/sunlight are NOT sticks in your bundle!
+● If no legal right is infringed, a landowner can use property in any reasonable & lawful manner
+● The right to have one’s view remain unobstructed cannot be created by implication; otherwise,
+property development would be hindered!
+■ Court doesn’t care if done out of spite (hotel owners = friends breakup) (some jx allow spite exceptions)
+● Spite Fence Doctrine (unless spiteful structure is useful)
+○ Malicious things to injure neighbors are not allowed!
+Campbell v. Seaman → toxic fumes enough for nuisance; damage to P (mansion/flowers) large & substantial, P wins!
+○ If damage to P is small or trifling, and the damage to D is large if restrained, courts sometimes deny an injunction
+○ How to establish a prima facie case of nuisance:
+■ (1) What defenses are available
+■ (2) What remedies are available?
+○ Locality rule/principle
+■ What is ordinary use in the neighborhood?
+■ Some can tolerate certain noise/smells in industrial areas, some can’t (determines if wrongful land
+interference)
+NUISANCE DEFENSES
+○ “Coming to the nuisance” defense → P literally came to the nuisance so they can’t complain!
+■ Bars a nuisance claim if P knew of the nuisance before they acquired the property
+■ Courts usually don’t apply this!
+● Instead, courts look at many factors: timing, good faith, spite, public interest, etc.
+○ Estoppel or acquiescence defense
+■ Estoppel: one party led the other to think one thing, but then did the other (be reasonable!)
+NUISANCE REMEDIES
+○ Injunction granted IF no adequate remedy at law (damages unhelpful…if no injunction, litigation = infinity!)
+DISTINGUISHING NUISANCE FROM TRESPASS
+○ Nuisance social value balancing test:
+■ P must show:
+● (1) Actual, substantial/significant harm that results from
+● (2) An unreasonable interference(s) with
+● (3) The use or enjoyment of property
+○ Modern trespass view:
+■ Invasion of physical object OR intangible object can qualify as trespassing
+■ Actual & substantial damages NOT required
+■ NO NEED to balance P’s damage with the social utility of it’s cause
+○ Trespass historically required and concerned POSSESSION (less P friendly) think Jaques
+■ (1) An invasion by a physical tangible object (tangible = visible to naked eye)
+■ (2) The invasion is direct (no intervening force)
+○ Adams v. Cleveland-Cliffs Iron Company → THIS IS A NUISANCE CASE, TRESPASSING CLAIM LOSES
+■ P sues mining company for trespassing via dust, vibrations, and noise (but court says this is nuisance)
+
+Professor Lee, Property Spring 2024
+■ The court did NOT follow the modern view of trespassing that allows intangible objects to be trespassing
+■ The mining company failed the trespass requirements:
+● Did the mining company know or should they have known what they were doing?
+○ Directness requirement satisfied (the court said they probably should have known!)
+○ BUT tangible physical object requirement not satisfied (dust/noise/vibrations not tangible)
+■ 4 tests to distinguish nuisance from trespassing:
+● 1: Was D’s action giving rise to the intrusion committed on P’s land or outside P’s land?
+○ On Land → T
+○ Outside → N
+● 2: Was the harm to P’s land direct or indirect?
+○ Direct → T
+○ Indirect → N
+● 3: Was the invasion committed by a tangible matter or some intangible substance?
+○ Tangible → T
+○ Intangible → N (but now, a T claim can succeed)
+● 4: Did the intrusion deprive P of land possession or use and enjoyment of their land?
+○ Possession → T
+○ Use & Enjoyment → N
+
+Professor Lee, Property Spring 2024
+
+ZONING
+●
+
+●
+
+●
+
+●
+
+●
+
+Zoning ordinances
+○ Zoning is meant to regulate land (organizes different locations for different uses)
+○ They are law; the government steps in to enact regulations to say you can/can’t do something
+■ Zoning is not unconstitutional on its face, but their constitutionality has been challenged before!
+○ Modern zoning ordinances prescribe 3 zones: (1) residence (2) business (3) unrestricted
+Cumulative/use-based zoning
+○ Zoning levels go from restrictive to permissive, allowing all previous uses while accumulating additional uses
+■ Euclid: U1-6 have diff. rules about what types of buildings/structures can go in certain areas of the village
+● If something is allowed in U1, it is also allowed in U2, U3, U4, U5, and U6
+○ Things that are less pleasant can go in any zone that is designated for it, or a less-nice zone
+● If something is allowed in U6, it is ONLY allowed in U6
+● Scheme example from Euclid
+○ U-1 – Single family homes, parks
+Residenti
+○ U-2 – Duplexes
+al
+○ U-3 – Apartments and schools
+Residential,
+○ U-4 – Offices and retail
+Commercial
+○ U-5 – Warehouses and auto repair
+Residential, Commercial,
+○ U-6 – Industrial
+Agricultural
+○ Duplexes can go in U-2 through U-6
+Residential, Commercial,
+Agricultural, Industrial
+○ Warehouses can only go in U-5 or U-6
+● Holding: use-based zoning regulations are constitutional UNLESS they are clearly arbitrary and
+unreasonable, have no substantial relation to public health, safety, morals, or general welfare
+○ ISSUE: zoning was trying to keep out poor people here
+Ind
+Noncumulative zoning
+ustr
+○ Each zoning district is exclusive & each zone only allows one type of development
+Agr
+○ Determined by municipalities
+ial
+icul
+Co
+How to not be bound/burdened by zoning ordinance:
+tura
+mm
+Re
+○ 1: Non-conforming use
+lsid
+erci
+■ If the structure was built BEFORE the zoning ordinance took effect, it will be allowed to stay standing
+al
+enti
+● Grandfathering in, if not you can go to the board and ask
+al
+■ Amortization: you can stay here for X amount of years
+○ 2: Special exceptions (they are built into the zoning ordinance itself)
+■ Exception specially designed for certain parcels/particular building that are baked into the zoning law
+○ 3: Get a variance
+■ It is NOT baked into the zoning law
+■ Case-by-case exception for hardship; developers can apply for them AFTER zoning ordinances go into
+effect, and if they receive a variance, they will be excused for following the ordinance
+○ Difference between a special exception & a variance:
+■ A right to a special exception is given if one satisfied criteria is set forth in the zoning ordinance
+■ Variance is given for a special hardship or undue burden as determined within a broad grant
+Pro-Zoning (late 19th & early 20th centuries)
+○ Pro-regulation in general; they promote certainty
+○ Buying a home is investing A LOT into a single property; people get nervous about home value decreasing
+○ Can’t rely on nuisance law because fines could happen instead of injunctions, which are needed
+○ Can’t rely on covenants because there are huge transaction costs + it’s difficult for everyone to agree
+○ Zoning leads to better cities (urban planning argument)
+
+Professor Lee, Property Spring 2024
+○ People place higher value in their homes (endowment effect) than what the true market value is, so market value
+compensation is undercompensating them
+● Anti-Zoning:
+○ Entities with more political power will be more effective at shaping zoning laws to their liking
+■ Rent Seeking: spending $ to lobby the government to get economic advantage
+■ Real estate developers have a lot of money & power
+■ Some regulatory entities can be captured by other entities
+○ Discriminatory purposes/effects
+■ Earlier zoning targeted users (not uses), which led to racist zoning ordinances that USSC struck down
+■ Zoning can further class & race segregation (it is a tool to implement exclusion)
+● Think of the Lochner era (1987-1937), where there was race discrimination
+● Think of Euclid; it was trying to keep out people that couldn’t afford single family homes
+○ Zoning an entire community for only mansions is unfair against lower classes
+○ Too rigid & sticks around too long
+○ Nuisance & covenants are better to let people determine what uses should be allowed
+■ Changed circumstances doctrine can be used to get out of them if needed
+○ Let people build what they want!
+
+Professor Lee, Property Spring 2024
+
+DIVIDING OWNERSHIP
+PRESENT + FUTURE INTERESTS AND WASTE, CO-TENANCIES (SEVERANCE & PARTITION), LEASES
+(INDEPENDENT/DEPENDENT COVENANTS, IMPLIED WARRANTY, SURRENDER, DUTY TO MITIGATE
+●
+●
+
+Possessory rights can be flexible over time (they can be divided!)
+When dividing property rights to land over time, the pieces created must conform to a menu of possibilities called Estates
+in Land (the degree, quantity, nature, & extent of interest a person has in real & personal property)
+STEP 1: Identify which present POSSESSORY interest is being discussed!
+● How is the title being held? What form of estate is it? FSA? LE? FSD? FSSTACS? FSSTEL?
+● There are 5 Present Possessory Interests (an interest in property that gives you the right to possess now):
+○ 1) Fee Simple Absolute
+■ Title is given by saying “To Mr. Smith”; Mr. Smith has a Fee Simple Absolute
+○ 2) Life Estate
+■ Title is given by saying “To Mr. Smith, for life.”; Mr. Smith has a Life Estate
+■ Title of Life Estate Pur Autre Vie is given by saying “To Mr. Smith, for the life of Mr. Johnson.”
+● Mr. Smith has a Life Estate Pur Autre Vie
+■ Life tenants are entitled to reasonable uses & profits from land, but they cannot commit waste because it
+can injure future interest holders!
+● The law is trying to prevent conflict between people who have rights at different times
+● Three types of waste (waste is a COA)
+○ Affirmative waste: acting, not harmful, but excessive damage (wilful destruction)
+■ More than ordinary wear and tear
+■ Example: chopping down rare trees
+○ Permissive waste: neglectfulness, not acting when you should, excessive damage
+■ More than ordinary wear and tear
+■ Example: failure to patch up a leaky ceiling hole
+○ Ameliorative waste: significant change in property that enhances the property’s market
+value (waste that makes things better!)
+■ Ex: no enhancement allowed UNLESS all future interest holders know & consent
+● Brokaw v. Fairchild → ameliorative waste case; P’s could NOT demolish
+■ Traditionally prohibited, but not anymore (it’s a benefit, you can’t really be upset)
+○ 3) Fee simple determinable (Defeasible Fees)
+■ Title is given by saying “To Mr. Smith, as long as he is a lawyer”
+● Triggering event = Mr. Smith NOT being a lawyer anymore
+● Mr. Smith has a Fee Simple Determinable with the Possibility of Reverter!
+○ 4) Fee simple subject to a condition subsequent (Defeasible Fees)
+■ Title is given by saying “To Mr. Smith, but if coffee is ever consumed on the premises, grantor reserves the
+right to re-enter and re-take”
+● Mr. Smith has a Fee Simple Subject to a Conditional Statement!
+○ The grantor has the Right to Entry in the future if Mr. Smith breaks the conditional
+statement!
+○ 5) Fee simple subject to executory limitation (Defeasible Fees)
+■ Title is given by saying “To Mr. Smith, but if he ever leaves the legal profession, then to Mr. Johnson.”
+
+STEP 2: Once identified, look ACROSS THE CHART and figure out which (and if a) future interest corresponds!
+
+Professor Lee, Property Spring 2024
+Future Interests That Accompanies the Present Possessory Interest
+
+Present Interest
+
+Reversionary Interest (Original Grantor)
+
+Interest In Other People
+
+1: Fee Simple Absolute (Fees Simple Absolute)
+Largest package of ownership rights; it’s the complete
+bundle if you are transferring the fee simple!
+Unlimited, no contingencies!
+While alive, you have “heirs apparent”
+Once dead, you have “heirs” (a living person has NO heirs!)
+
+No future interest at all! (the OG owner has an
+unlimited, present interest!)
+Heirs don’t exist yet!
+
+No future interest at all! (original
+owner has an unlimited, present
+interest!)
+Heirs don’t exist yet!
+
+2: Life Estate
+A carve out of ownership rights!
+Life estate pur autre vie (life estate through another life;
+termination is measured by someone else’s death)
+
+Reversion (if life estate is held by the original
+owner; someone must always be able to take!)
+
+Remainder (if life estate is held by a
+third party)
+Brokaw v. Fairchild
+BUT a life tenant CANNOT cause
+permanent injury affecting inheritor
+(ameliorative waste)
+
+Defeasible fees
+Who gets the possessory interest if a triggering event occurs → the original grantor, or a 3rd party?
+Basically, they are all fees simple, but with a catch!
+1: Fee Simple Determinable
+If triggering event occurs, present interest
+AUTOMATICALLY ends.
+Clear, durational language indicates a FSD:
+● So/as long as, During, Until, While
+
+The Possibility of Reverter (similar to reversion,
+but different!)
+● ONLY goes with fee simple
+determinable
+● “Fee simple determinable with
+possibility of reverter”
+
+N/A (goes back to original grantor)
+
+2: Fee simple subject to a condition subsequent
+If triggering event occurs, the OG grantor can CHOOSE
+whether to end the possessory interest
+Words that indicate a FSSTACS:
+● But if, on condition that, if, provided that
+
+Right of Entry AKA Power of Termination (but
+laches can bar on the grounds of unreasonable
+delay in bringing it…even a 10 min gap!)
+
+N/A (goes back to original grantor)
+
+3: Fee simple subject to executory limitation
+If the triggering event occurs, the possessory interest does
+NOT return to the OG grantor…it AUTOMATICALLY
+transfers to a 3RD PARTY, who has the executory interest!
+Clauses that make conditional OR durational statements:
+● Property to A, until X happens, then to B
+
+N/A (it goes to someone else, not the original
+owner)
+
+Executory Interest (goes to 3rd party;
+NOT original grantor)
+
+Professor Lee, Property Spring 2024
+CO-TENANCIES (CONCURRENT OWNERSHIP/ESTATES)
+● Types of division: horizontal (division over time) & vertical (division at any moment in time)
+● Severance only changes the nature of the relationship
+● Tenancy in common (presumed unless clear manifestation of intent to create JT/TBTE) → DEFAULT CONCURRENT
+ESTATE
+○ Unequal shares allowed
+○ NO right of survivorship between tenants: when 1 tenant dies, their interest passes onto their own heirs
+■ The interest goes where each tenant wants it to go!
+○ 1 unity required at the creation of TIC
+■ Possession→ Each must have equal right to possess the whole
+○ Unity can be severed unilaterally (like if one person dies or by transferring the unity of “title”)
+● Joint tenancy (presumed if no TBTE & there is an ambiguous transfer to a married couple)
+○ Each has the right to possession of the whole
+○ Separate, UNDIVIDED interest
+○ Right of survivorship between tenants: when 1 tenant dies, the other tenant takes all (deceased will is immaterial)
+■ This will be expressly stated
+■ The interest goes to the other tenant
+○ 4 unities required at the creation of JT: time, title, interest, possession
+■ Possession → Each has equal right to possess the whole
+■ Interest → Each has equal AND same legal interest (FS/FSD/lease, etc.)
+■ Time → Each acquired interest at the same time
+■ Title → Each acquired title by same instrument (like a deed) or by joint AP
+■ Destroying a unity (which can be done unilaterally) = severing JT and thus creating a TIC, which removes
+right of survivorship even if co-tenant is unaware
+● Example: M → 50% to A and 50% to B
+○ If A sells his 50% to C, C and B are now TIC because the unities of time & title were broken;
+so, neither C or B have a right of survivorship anymore
+● DIFFERENT FOR 3+ PARTIES: M → 33% to A, 33% to B, 33% to C
+○ If A sells his 30% to D, D has a TIC (if he dies, his 33% passes to his heirs); HOWEVER…B
+and C are still joint tenants; if one of them dies, there is still a right of survivorship
+between them
+○ Does transferring a mortgage sever a JT? States are split!
+■ Majority of states: Lien theory jx
+● Transferring a mortgage interest is a lien (does NOT destroy JT; title unity title wasn’t broken!)
+● Harms v. Sprague → JT not severed by mortgage since unity of title was preserved; interest
+vanished & other tenant had whole interest without mortgage
+■ Minority of states: Title theory jx
+● Transferring a mortgage interest is transferring title (destroys JT; title unity was broken, now TIC)
+■ *States are also split on whether leasing out property severs a JT*
+○ Policy: an unrecorded mortgage is similar to a judgment lien or another type of lien, which merely establishes an
+interest but not a transfer of the title
+● Tenancy by the entirety (similar to JT, but more durable because neither spouse can unilaterally destroy their TBTE)
+○ Separate, UNDIVIDED interest, each has the right to possession of the whole
+○ Right of survivorship DEPENDS
+■ If one spouse dies, the survivor takes all…but some states require spousal consent
+■ If spouses divorce, the relationship is now one of TIC with no right of survivorship
+○ Some southern/western states recognize Community Property for married couples
+○ 5 unities required at the creation of TBTE: time, title, interest, possession, marriage
+
+Professor Lee, Property Spring 2024
+■ Possession → Each must have equal right to possess the whole
+■ Interest → Same legal interest in property (FS/LE/lease, etc; equal fractional shares unneeded)
+■ Time → Each interest must be acquired at the same time
+■ Title → Each acquired title by the same instrument or by joint AP
+■ Marriage → At the time of conveyance
+○ Unities can ONLY be severed via divorce, death, or agreement (no partition allowed)
+Tenancy In Common
+
+Joint Tenancy
+
+Tenancy By The Entirety
+
+Unilateral severance?
+
+Yes
+
+Yes
+
+No → only divorce, death, or agreement severs
+
+Is partition available?
+
+No
+
+Yes
+
+Not unless divorced OR agree to convert into TIC/JT
+
+Right of Survivorship?
+
+No (passes to heirs)
+
+Yes (doesn’t pass to heirs)
+
+Depends; no if divorce (bc now its aTIC) but if death,
+survivor takes all
+
+Separate but undivided interest?
+
+Yes
+
+Yes
+
+No
+
+Unities required at creation?
+
+P
+
+PITT
+
+PITTM
+
+Professor Lee, Property Spring 2024
+PARTITION
+● Any tenant can use the partition tool to sever their JT or TIC relationship at any time for any reason, or no reason at all
+○ Courts determine which type (by kind or by sale) by parties’ best interests
+○ TBTE tenants CANNOT use partition!
+● Partition by Kind
+○ The court basically auctions off the property and physically divides it proportionally via ownership %
+○ The law generally favors partitioning in kind, but certain conditions warrant the court to order partition by sale
+■ Delfino v. Vealencis (TIC, one owner = garbage business, guy wanted to build subdivision, 69% vs 31%)
+● Policy favors partition in kind if TIC holder lives on & runs a business on their property portion
+● Policy still cares if impractical/inequitable OR if partition by sale would serve interests better
+● Partition by Sale
+○ Sell the property and divide proceeds proportionally to % of ownership
+LEASES → another way to divide the bundle of rights! BIG STICK in bundle!!
+● How are leases different from licenses and easements?
+○ Leases include the right to exclude, Licenses & Easements do NOT include the right to exclude
+○ Leases transfer possession, Licenses & Easements only transfer use rights (not possession)
+○ Lease = contract + conveyance of land, Licenses & Easements are not that
+● Lease types
+○ Term of Years
+■ Specified, fixed endpoint; neither party needs to give notice because lease is up when its up
+■ If longer than a year, SOF applies (writing required)
+■ NYC lease history: fixed endpoint = May 1st, people switched houses a lot…chaos!
+○ Periodic Tenancy (month-to-month leases)
+■ Lease automatically rolls over (renews) for a specified time period UNLESS either party terminates
+● BUT advance notice of termination is required in most jx (usually correlates to payment period)
+● A lease > 1 year requires 6 month termination notice
+■ Usually a month or a year → fixed period/end date (example: month-to-month leases)
+○ Tenancy at will
+■ No fixed end date
+■ No automatic renewal (like renting with an ordinary lease)
+■ Either party can terminate, but advance notice is required (usually correlates to payment period)
+○ *Tenancy at sufferance → not really a lease!
+■ Tenant has lease, it ends, but they don’t leave!
+■ Differs from a trespasser in that the tenant at sufferance was ORIGINALLY there lawfully!
+■ Landlord can evict, but CANNOT use self help (Berg v. Wiley)
+■ This is NOT AP; tenant had permission at first
+● How do we allocate risk when multiple leases exist?
+○ Asymmetries of information: various people, they all have different type/amount of information
+○ Asymmetries in the ability to control: various people, some can control what happens next, some can’t
+■ Asymmetric/unequal bargaining power between landlords & tenants; leases are standardized (boilerplate)
+○ The law is trying to come to a sensible allocation of risk to address asymmetry!
+■ If we divide up rights, who is on the hook when bad stuff happens?
+■ Caveat lessee: (tenant, beware!) → this WAS the default (Javins got rid of that)
+● Who bears the risk? The tenant; the landlord doesn’t know everything about the tenant
+○ The tenant needs to ask questions! They are the beneficiary of information asymmetry!
+○ This can seem harsh, so courts have tried to mitigate
+○ The courts try to decide if covenants are INDEPENDENT or DEPENDENT in addressing risk
+■ Independent covenants
+
+Professor Lee, Property Spring 2024
+● 2 covenants exist, P1 violates one, P2 is NOT excused from violating other covenant
+● Example: if P1 breaks lease & sells to other drug sellers, P2 still must pay rent
+■ Dependent covenants = covenants affecting ENTIRE contract
+● 2 covenants are linked (like through a rider), breaking one = breaking both
+○ Medico-Dental Building Company of Los Angeles v. Horton and Converse
+■ Covenants to pay rent & not to lease to another drug seller = DEPENDENT (breaking one = breaking both)
+● Implied Warranty of Habitability → determined by the housing code
+○ Is it good or bad for poor people? Practically, it doesn’t do as much as we hope
+■ The poor is who this especially matters, but it’s hard for them to access legal representation to sue
+○ Dependent covenant that CAN’T be waived even if tenant wants to so as to save $ by making their own repairs!
+■ Landlords should fix things, not tenants because:
+● Tenants are not good at repairing things
+● Modern housing = difficult to repair
+● People frequently move
+● Tenants make fixes that last longer than their stay, so landlord reaps the benefits (asymmetry)
+● Unequal bargaining power
+○ Javins v. First National Realty Corp.: Implied warranties of habitability are read into residential leases
+● Doctrine of constructive eviction → pro-lessee!
+○ Not a regular eviction, but the law treats it as such…you move out & don’t have to pay the remainder rent!
+○ Blackett v. Olanoff (Ds successfully raised constructive eviction as defense for club next door, no need to pay
+rent!)
+■ Factors for Constructive Eviction:
+● (1) Someone’s conduct substantially interferes w/ tenant’s use and enjoyment of property
+● (2) Landlord can be held responsible for that conduct
+■ Nonfeasance; the landlord didn’t do anything to stop the noise! They should have…they had control!
+● Doctrine of Surrender → pro-lessee! PAY ATTENTION TO TIMING; the question is when did the landlord accept surrender?
+○ Based on the idea of a contractual release of liability (how to get out of a lease)
+○ Gotlieb v. Taco Bell Corporation → Taco Bell wins even though community didn’t want it there
+■ Gotlieb & Taco Bell had 20-year lease where Taco Bell could cancel if it couldn’t obtain permits
+■ Gotlieb accepted TB’s surrender when they tried to lease to Rite-Aid at higher rate than proposed to TB
+○ The landlord has three options when a tenant abandons:
+■ (1) reject surrender by doing nothing & sue for accrued rent; if no duty to mitigate, tenant is on the hook
+■ (2) reject surrender & relet for tenant’s benefit as their “agent”, tenant is on the hook (default rule)
+● No duty to mitigate, but landlords are incentivized to mitigate
+● Tenant only has to pay difference between new market rate (if lower) & original lease payment
+■ (3) accept surrender & relet for landlord’s benefit, tenant NOT on the hook
+● Surrender accepted if landlord rejects tenant’s surrender but then changes locks
+● Surrender accepted if landlord terminated relationship in express agreement
+● Surrender can be accepted if by operation of law/ implication
+○ What did the parties do?
+○ Did the market price go up/down? Down = tenant’s benefit, Up = landlord’s benefit
+○ Duty to Mitigate (pure contract doctrine)
+■ NO duty to mitigate for commercial property!
+■ Landlord must try to find tenant within reasonable amount of time
+● Sommer v. Kridel → landlord duty to mitigate when ex-army/school/no engagement guy backs
+out
+■ Exception: lost volume seller (example: seller could’ve sold more if you didn’t back out)
+● No exception in residential leases (each apartment is real property, which is unique)
+
+Professor Lee, Property Spring 2024
+
+Professor Lee, Property Spring 2024
+TAKINGS: EMINENT DOMAIN → the government takes property (even if owner doesn’t want to sell) & pays just compensation
+● Eminent domain > ordinary property rights, Americans are suspicious!
+● Limitations:
+○ State statutes
+■ Almost every state has own version of the takings clause (usually similar to Constitution)
+○ US Constitution (not explicitly there, but government’s power is recognized)
+■ The 5th Amendment Takings Clause directly constraints the use of eminent domain
+● “Nor shall private property be taken for public use without just compensation”
+● This originally applied only to federal government, but USSC found that these principles apply to
+states under the DP of the 14th A (takings clause is understood as incorporated)
+■ 14th Amendment
+● Justifications for Eminent Domain:
+○ Inherent attribute of sovereignty; considered necessary for government operation
+○ Property markets are often thin economic markets
+● Basic Taking Structure requirements: (1) Taking must be for a Public Use (2) Just Compensation
+○ *the 5th and 14th amendments also require notice & OTBH, but not all states recognize this
+● Public Use → USSC thinks this means public advantage/benefit
+○ Kelo v. City of New London, CT → received a TON of backlash!
+■ States can seize private property & sell to private developers to create new jobs/increase tax revenues
+WITHOUT violating 5th A → state legislatures have great deference (not the judiciary)
+■ Public Purpose Test (it was PASSED here, the property owners lose):
+● (1) The plan has a public purpose (solely for economic benefits is OK)
+○ Public benefit does not even need to be “reasonably certain to occur”
+● (2) The plan is carefully considered
+● (3) The taking furthers the public purpose
+○ The taking must be reasonably necessary to achieve the public use for reasonably
+foreseeable needs
+■ Dissent (Thomas): this is unfair for poor and black communities!
+■ Dissent (O’Connor): slippery slope; any property is vulnerable if “some socially valuable other use”
+○ 3 classes of takings have historically satisfied public-use requirement:
+■ (1) taking property for public ownership (public roads)
+■ (2) taking property for use by common carriers (railroads) who put the property to public uses
+■ (3) taking property for private ownership for a public program
+● Just Compensation (difficult to have a fixed amount per U.S. v. Miller)
+○ U.S. v. Miller
+■ Strong argument that you should be offered more than market value bc you’re being forced
+■ Basic takings principles
+● 1: Compensation is for the loss of the owner, not the gain of the taker
+● 2: Compensation is for fair market value of property (Constitutionally required minimum)
+○ What a willing buyer would pay a willing seller in cash
+○ Fair market value date = date of taking
+● 3: Property value excludes value from a particular fitness (personal value attached to property)
+
+Professor Lee, Property Spring 2024
+TAKING: REGULATORY TAKINGS → common issue presented by the Takings Clause generally goes by “regulatory takings”
+● Regulatory takings = not physically taking property, but they regulated it so much so that in essence, they did take it and
+they should compensate you for it
+● Government takes action without exercising eminent domain, but they should have, so they should compensate (remedy)
+● The most powerful substantive Constitutional constraint on governmental interference with property rights
+● Pennsylvania Coal Co. v. Mahon (1922) → the modern regulatory takings doctrine began to take shape
+○ Mahon is not good law concerning whether anti-subsidence laws give rise to a takings claim
+○ General rule (N): property can be regulated BUT if it goes too far, it’s a taking ($ should be paid)
+■ How far is too far is a “question of degree”; We must limit police power!
+○ 4 primary factors in distinguishing between proper police power & proper eminent domain power:
+■ (1) Diminution in value (consider economic effects of the regulation)
+■ (2) Whether the measure is designed to regulate a nuisance (did it abate a public nuisance)
+■ (3) Reciprocity of advantage
+■ (4) The regulation interferes with long-established property or contract rights
+● Dissent: The restriction here is merely the prohibition of a noxious use; this is not a taking, so no compensation required
+○ Where the police power is exercised to protect the public from detriment and danger and not to confer benefits
+upon property owners, there is no room for considering reciprocity of advantage
+● Per Se Takings: rare, categorical → certain situations/categories are takings
+○ They are ALWAYS regulatory takings; doesn’t matter what the circumstances are
+○ It must (1) not just do what nuisance law is doing, and (2) qualify as at least one (no balancing) of the following:
+■ Physical invasion/occupation of something on the property (Loretto)
+■ Government eliminated 100% of property’s economic value (Lucas)
+■ Government appropriated the right to exclude, even if temporarily (Cedar Point Nursery)
+● Ad Hoc Takings: more common→ case by case on whether a regulation went too far so as to categorize it as a taking
+○ Example: Pennsylvania Coal Co. v. Mahon
+■ Holmes found that there was a taking here because the 4 primary factors (from above) applied (although
+they are not ALL required)
+■ Majority Factors:
+● (1) Diminution in value caused by regulation
+● (2) Public nuisance? (if yes, no $ owed because it’s an exercise of police power)
+● (3) Is there average reciprocity of advantage? Benefits of regulation compensate for the burdens
+● (4) Does the regulation interfere with long-established property or contract rights
+○ The dissent doesn’t like factor #4 and applies it differently:
+■ (1) restriction imposed to protect the public health is not a taking
+■ (2) look at TMV of rights to whole property; support right is not significant
+■ (3) average reciprocity only relevant if it benefits people; difference between
+benefit & preventing harm, here it’s just preventing
+○ Policy considerations
+■ It’s murky to let governments decide on vibes!! Who has influence on takings?
+● Unclear rules cause people to lobby so as to tilt the playing field to their favor!!
+● Penn Central Transportation Company v. City of New York (1978) → GCT designated as historical landmark by NYC law
+○ PCTC = railroad, which weren’t doing well in the 70s, PTCTC owned GCT and realized they could make $
+○ TDRs (transfer of development rights) allow building higher than zoning allows, PCTC got TDRs for airspace above
+○
+● Policy concerns for requiring no change to building’s exterior design without providing $ for lost development rights
+○ (1) owners of potential targets for historic preservation may rush to demolish them before they can’t anymore
+○ (2) owners contemplating constructing new buildings may decline dramatic/innovative designs for fear they will be
+“rewarded” with a historic preservation designation
+
+Professor Lee, Property Spring 2024
+
+

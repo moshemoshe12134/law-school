@@ -1,0 +1,500 @@
+TORTS - WEEK 4 STUDY GUIDE
+CAUSATION-IN-FACT & ALTERNATIVE THEORIES OF LIABILITY
+
+Based on: Readings for Week 4 (2/9 and 2/11)
+
+====================
+OVERVIEW OF WEEK 4 TOPICS
+====================
+
+MONDAY 2/9 - Panel: Goldfinch
+• But-for causation as main analytical tool
+• Loss of chance in medical malpractice
+• Causation in failure to warn cases
+• Multiple sufficient causes problem
+
+WEDNESDAY 2/11 - Panel: Bluebird
+• Alternative liability (Summers v. Tice)
+• Market share liability (Hymowitz v. Eli Lilly)
+• Comparative negligence vs. comparative causation
+
+====================
+KEY CONCEPTS
+====================
+
+I. CAUSATION-IN-FACT (FACTUAL CAUSATION)
+
+Definition: Set of analytical tools for determining which parties can be said to have CAUSED harm
+
+Distinguished from:
+- Proximate cause (legal cause/scope of liability)
+- Breach of duty (what defendant did wrong)
+- Damages (harm suffered)
+
+Purpose:
+- Links defendant's conduct to plaintiff's injury
+- Required element for tort liability
+- Must be proven by preponderance of evidence
+
+====================
+II. "BUT-FOR" CAUSATION
+====================
+
+The Standard Test:
+"But for defendant's negligence, would plaintiff's harm have occurred?"
+- If answer is NO → causation established
+- If answer is YES (would have happened anyway) → no causation
+
+Formula:
+Plaintiff must prove: More likely than not (>50%) that defendant's conduct caused the harm
+
+Example:
+- Doctor fails to diagnose cancer in timely manner
+- Patient had 51% chance of survival with timely diagnosis
+- Patient dies
+- Analysis: But for doctor's failure, would patient have lived?
+- If evidence shows YES (>50% chance) → causation proven
+- If evidence shows NO (<50% chance) → no causation
+
+====================
+III. THE "ALL OR NOTHING" PROBLEM
+====================
+
+Traditional Rule:
+- Patient with >50% chance of survival → full recovery if negligence caused death
+- Patient with <50% chance of survival → NO recovery even if negligence reduced chance to 0%
+
+Problems:
+1. Arbitrary 50% threshold
+2. Immunizes whole areas of medical practice
+3. Fails to deter negligence when patient already seriously ill
+4. Denies compensation for real loss (the chance itself)
+5. Unjust when defendant's negligence makes outcome unknowable
+
+====================
+IV. LOSS OF CHANCE DOCTRINE
+(Matsuyama v. Birnbaum)
+====================
+
+Revolutionary Concept:
+- Loss of chance is an INJURY, not a causation theory
+- The injury = diminished likelihood of favorable outcome
+- Chance of survival has VALUE even if <50%
+
+Requirements:
+1. Medical malpractice context (limited to this area)
+2. Physician's negligence reduced patient's prospects
+3. Plaintiff must prove by preponderance that negligence CAUSED the diminished likelihood
+4. Expert testimony required (survival statistics, staging, etc.)
+
+Damages Calculation - Proportional Damages Approach:
+
+Step 1: Calculate full wrongful death damages (as if not loss of chance)
+Step 2: Determine chance of survival BEFORE malpractice
+Step 3: Determine chance of survival AFTER/result of malpractice  
+Step 4: Subtract Step 3 from Step 2 = % loss
+Step 5: Multiply Step 1 × Step 4 = Award
+
+Example from Matsuyama:
+- Full wrongful death damages: $875,000
+- Chance before negligence: 37.5% (Stage 2 cancer)
+- Chance after negligence: 0% (Stage 4, terminal)
+- Loss: 37.5%
+- Award: $875,000 × 0.375 = $328,125
+
+Why This Makes Sense:
+- Defendant only liable for harm actually caused
+- Fair apportionment based on degree of fault
+- Recognizes value of medical chance/opportunity
+- Doesn't overcompensate plaintiff
+- Maintains preponderance of evidence standard
+
+Policy Justifications:
+1. Deterrence: Incentivizes proper medical care even for seriously ill
+2. Fairness: Compensates for real loss (the chance)
+3. Justice: Doesn't give "free pass" when patient <50%
+4. Practical: Medical science can now quantify chances reliably
+
+Limited Application:
+- Currently limited to medical malpractice
+- Requires reliable statistical evidence
+- May expand to other areas in future
+
+====================
+V. MULTIPLE SUFFICIENT CAUSES
+====================
+
+The Problem:
+What if TWO independent causes, each alone sufficient to cause the entire harm?
+
+Example:
+- Two fires, each large enough to burn down house
+- Both reach house simultaneously
+- House burns down
+- But for Fire A, would house have burned? YES (Fire B would have done it)
+- But for Fire B, would house have burned? YES (Fire A would have done it)
+- Traditional but-for test FAILS
+
+Solution - Substantial Factor Test:
+- Each cause is a "substantial factor" in bringing about harm
+- Both defendants liable
+- Not limited to but-for causation
+- Recognizes overdetermined causation
+
+Restatement Approach:
+• Restatement Third § 27: Multiple sufficient causes
+• Restatement Second: Different approach (older)
+• Compare comment d to § 27
+
+Question to Consider:
+What if ONE of the multiple sufficient causes is NON-TORTIOUS (e.g., natural event)?
+- Should defendant still be liable?
+- Defendant's fire + lightning strike both sufficient
+- Is defendant off the hook?
+
+====================
+VI. ALTERNATIVE LIABILITY
+(Summers v. Tice)
+====================
+
+The Scenario:
+- Two hunters shoot negligently
+- One bullet hits plaintiff
+- Impossible to tell which hunter's bullet
+- Both hunters equally at fault
+- Small, identifiable group
+
+Traditional Problem:
+- Plaintiff can't prove which defendant caused injury
+- Neither defendant can be held liable under but-for test
+- Plaintiff goes uncompensated despite clear negligence
+
+Solution - Burden Shifting:
+When:
+1. Small group of defendants (typically 2-3)
+2. All acted negligently toward plaintiff
+3. One of them caused the harm
+4. Plaintiff cannot determine which one
+5. Defendants in better position to know
+
+Then:
+- Burden shifts to EACH defendant
+- Each must prove he DIDN'T cause injury
+- If neither can prove it → BOTH liable
+- Joint and several liability
+
+Rationale:
+- Both wrongdoers
+- Created the dangerous situation
+- Unfair to let both escape when one clearly caused harm
+- Defendants know whether they caused it
+- "Let them be the ones to apportion it among themselves"
+
+Requirements for Application:
+✓ Small group (not 300 companies)
+✓ Single incident (not 24-year period)
+✓ All defendants negligent
+✓ All before court (or realistic possibility)
+✓ Plaintiff genuinely can't identify tortfeasor
+
+Distinguished From:
+- Market share liability (too many defendants, long period)
+- Concert of action (no agreement/common plan required)
+- Res ipsa loquitur (burden shifts on negligence, not causation)
+
+====================
+VII. MARKET SHARE LIABILITY
+(Hymowitz v. Eli Lilly)
+====================
+
+The DES Problem:
+- 300 manufacturers over 24 years
+- Chemically identical drug
+- Long latency (15-30 years)
+- Impossible to identify manufacturer
+- Mothers never knew/recorded which brand
+
+Why Traditional Doctrines Fail:
+✗ Alternative Liability: Too many defendants, can't join all
+✗ Concert of Action: No agreement/common plan
+✗ But-for Causation: Genuinely unknowable who caused harm
+
+Revolutionary Solution:
+Each manufacturer liable for its proportion of national DES market for pregnancy use
+
+Formula:
+Plaintiff's Damages × Defendant's Market Share = Defendant's Liability
+
+Key Features:
+1. NATIONAL MARKET (not local/regional)
+   - Fair reflection of overall culpability
+   - Administrable across all cases
+   - Avoids case-by-case market fights
+
+2. SEVERAL LIABILITY (not joint)
+   - Each pays only its percentage
+   - Plaintiff may not recover 100%
+   - Bears risk of not suing all manufacturers
+
+3. NO EXCULPATION
+   - Can't escape by proving "not me"
+   - Based on risk created to public
+   - Overall culpability, not individual causation
+
+4. WHO'S LIABLE
+   - Only those who marketed for pregnancy use
+   - During relevant time period
+   - If never in pregnancy market → not liable
+
+Rationale:
+- Based on RISK CONTRIBUTION, not causation
+- Manufacturers created the risk
+- Should bear cost of uncertainty they created
+- More fair than leaving victims without remedy
+- Spreads loss through enterprise
+
+Limited Application:
+- Unique circumstances of DES
+- Requires:
+  * Fungible product (identical)
+  * Many manufacturers
+  * Long time period
+  * Genuine impossibility of identification
+  * Mass tort context
+- Not extended to most other products
+
+====================
+VIII. FAILURE TO WARN CASES
+====================
+
+But-For Analysis in Warning Cases:
+Question: Would adequate warning have prevented the harm?
+
+Factors to Consider:
+1. Would warning have reached the person at risk?
+2. Would person have read/understood warning?
+3. Would person have heeded warning?
+4. Would heeding warning have prevented harm?
+
+Examples from Readings:
+- Leo with wire (Adams): Would warning on wire have mattered?
+- Swimmer (Parks & Rec): Would "No Swimming" sign have prevented?
+- Hospital (Cuyler): Would warning to patient have changed outcome?
+- Flying saw blade (Ryobi): Would warning on saw have prevented injury?
+
+Burden:
+- Plaintiff must show warning would have made a difference
+- More likely than not that warning would have been heeded
+- Causation still required
+
+====================
+IX. COMPARING THE DOCTRINES
+====================
+
+When to Use Which:
+
+BUT-FOR CAUSATION:
+→ Standard case
+→ Can identify defendant
+→ Normal causal chain
+→ >50% probability standard
+
+LOSS OF CHANCE:
+→ Medical malpractice
+→ Patient had <50% chance
+→ Negligence reduced that chance
+→ Statistical evidence available
+
+ALTERNATIVE LIABILITY (Summers):
+→ 2-3 defendants
+→ Single incident
+→ All negligent
+→ Can't tell which caused harm
+→ All before court
+
+MARKET SHARE LIABILITY (Hymowitz):
+→ Many defendants (100s)
+→ Extended time period
+→ Impossible to identify
+→ Fungible product
+→ Mass tort
+
+MULTIPLE SUFFICIENT CAUSES:
+→ Two independent causes
+→ Each alone sufficient
+→ Both actually contributed
+→ Overdetermined causation
+
+====================
+X. COMPARATIVE NEGLIGENCE VS. COMPARATIVE CAUSATION
+====================
+
+Traditional: Comparative Negligence
+- Reduce plaintiff's recovery based on plaintiff's fault
+- Example: Plaintiff 30% at fault → recovery reduced 30%
+
+Alternative: Comparative Causation
+- Reduce recovery based on relative causation
+- Example: Defendant's conduct 40% of causal factors → liable for 40%
+
+Question for Discussion:
+Which better serves tort law goals?
+- Compensation
+- Deterrence
+- Corrective justice
+- Fairness
+
+====================
+XI. RESTATEMENT PROVISIONS
+====================
+
+Key Sections to Know:
+
+Restatement Third § 26:
+- General rule on factual cause
+- But-for causation
+- Comment n: Loss of chance (takes no position)
+
+Restatement Third § 27:
+- Multiple sufficient causes
+- Compare to Restatement Second approach
+
+Restatement Third § 36:
+- [Check specific provision]
+
+Compare:
+- Restatement Second vs. Restatement Third
+- Different approaches to causation issues
+- Evolution of tort doctrine
+
+====================
+XII. PRACTICAL EXAM TIPS
+====================
+
+Analyzing Causation Issues:
+
+Step 1: Identify the Type of Causation Problem
+- Standard but-for?
+- Multiple sufficient causes?
+- Indeterminate defendant?
+- Loss of chance?
+
+Step 2: Apply Appropriate Test
+- But-for: Would harm have occurred anyway?
+- Loss of chance: Was there diminished likelihood?
+- Alternative liability: Small group, all negligent?
+- Market share: Many defendants, impossible to identify?
+
+Step 3: Consider Policy Arguments
+- Which rule achieves fairness?
+- Deterrence implications?
+- Administrative feasibility?
+- Compensating victims vs. protecting defendants
+
+Step 4: Don't Forget Limitations
+- Loss of chance: Limited to medical malpractice
+- Alternative liability: Small group only
+- Market share: Rarely applied outside DES
+- But-for: Requires >50% probability
+
+Common Mistakes to Avoid:
+✗ Confusing causation-in-fact with proximate cause
+✗ Applying market share to small group (use alternative liability)
+✗ Applying alternative liability when many possible defendants
+✗ Forgetting proportional damages in loss of chance
+✗ Assuming joint liability in market share (it's several)
+✗ Missing that loss of chance is injury, not causation theory
+
+====================
+XIII. HYPOTHETICALS TO PRACTICE
+====================
+
+Hypo 1: Multiple Sufficient Causes
+Factory A and Factory B both discharge toxins into river. Either discharge alone sufficient to kill plaintiff's fish. Both actually discharge. Fish die. Liability?
+
+Hypo 2: Medical Malpractice - Loss of Chance
+Patient has 35% chance of survival. Doctor negligently fails to diagnose cancer. Patient dies. Full damages would be $1M. What can plaintiff recover?
+
+Hypo 3: Product Identification
+Three companies make identical brake pads. Plaintiff's brakes fail due to defect. Cannot identify which company made plaintiff's brake pads. All three companies in local market with 30%, 25%, and 45% shares. Plaintiff sues all three. Damages: $500,000. What can plaintiff recover?
+
+Hypo 4: Hunting Accident Variation
+Three hunters shoot at duck. All shoot negligently toward plaintiff. One pellet hits plaintiff causing injury. Cannot tell whose pellet. What result?
+
+====================
+XIV. POLICY THEMES TO EMPHASIZE
+====================
+
+Throughout Week 4, Consider:
+
+1. FAIRNESS
+- Between plaintiffs and defendants
+- Among defendants
+- Allocating risk of uncertainty
+
+2. DETERRENCE
+- Incentivizing careful conduct
+- Especially in medical context
+- Product safety
+
+3. COMPENSATION
+- Providing remedy for real injuries
+- Even when causation uncertain
+- Tort law's compensatory function
+
+4. ADMINISTRABILITY
+- Courts need workable rules
+- Mass tort contexts
+- Avoiding impossible proof burdens
+
+5. EVOLUTION OF LAW
+- Common law adapts to modern problems
+- Medical advances create new issues
+- Complex products and multiple actors
+- Mass torts require new solutions
+
+====================
+XV. CONNECTIONS TO OTHER TOPICS
+====================
+
+Links to Earlier Material:
+- Duty (must have duty before causation matters)
+- Breach (must have negligence before causation)
+- Proximate cause (next topic after causation-in-fact)
+
+Links to Future Topics:
+- Joint and several liability
+- Contribution and indemnity
+- Settlement issues in multi-defendant cases
+- Insurance and risk spreading
+
+Real-World Applications:
+- Medical malpractice litigation
+- Pharmaceutical liability
+- Environmental contamination
+- Construction defects
+- Product liability
+
+====================
+XVI. FINAL CHECKLIST FOR WEEK 4
+====================
+
+Make Sure You Can:
+
+✓ Explain but-for causation test
+✓ Identify when but-for test fails
+✓ Distinguish causation-in-fact from proximate cause
+✓ Apply loss of chance doctrine (medical malpractice)
+✓ Calculate proportional damages
+✓ Recognize alternative liability fact pattern
+✓ Explain burden shifting in Summers v. Tice
+✓ Identify market share liability situation
+✓ Calculate market share damages
+✓ Distinguish alternative liability from market share
+✓ Understand multiple sufficient causes
+✓ Apply substantial factor test
+✓ Discuss policy justifications for each doctrine
+✓ Know limitations of each doctrine
+✓ Spot which doctrine applies to which facts
+
+Good luck with Week 4!

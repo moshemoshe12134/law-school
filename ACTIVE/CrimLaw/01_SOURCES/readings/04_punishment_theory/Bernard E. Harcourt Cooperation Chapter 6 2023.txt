@@ -1,0 +1,1775 @@
+© COLUMBIA UNIVERSITY PRESS
+COOPERATION
+A Political, Economic, and
+Social Theory
+bernard e. harcourt
+Columbia University Press
+New York
+harc20954_1st_pp.indb 3 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Columbia University Press
+Publishers Since 1893
+New York Chichester, West Sussex
+cup.columbia.edu
+Copyright © 2023 Bernard E. Harcourt
+All rights reserved
+Library of Congress Cataloging-in-Publication Data
+{to come}
+Columbia University Press books are printed on permanent
+and durable acid-free paper.
+Printed in the United States of America
+Add cover/jacket credit information
+harc20954_1st_pp.indb 4 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Contents
+Getting Started vii
+1 The Urgency of Coöperism 1
+Stuck in a Rut 1
+The Crux of the Problem 9
+Another Path: Cooperation 12
+Toward a Political, Economic, and Social Theory and Practice of Coöperism 22
+A Word on Language and a Road Map 26
+2 The Ubiquity of Cooperation 31
+The Global Reach of Cooperation 34
+Cooperation in Conventional Economic Domains 39
+The Resilience and Productivity of Cooperation 51
+3 The Simplicity of Cooperation 54
+The Basic Building Blocks 55
+The Corporate Finance of Cooperation 60
+The Crucial Difference of Cooperation 68
+Incentivizing Cooperation 70
+Toward Coöperism 72
+4 The Political Theory of Coöperism 73
+The Three Traditional Justifications 74
+Grounding a Political Theory of Coöperism 92
+(1) Concentrated and Compounded 94
+(2) Deliberate and Chosen 98
+(3) Open and Inclusive 105
+harc20954_1st_pp.indb 5 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+vi Contents
+5 The Economic Theory of Coöperism 106
+The Whiggish History of Capitalism’s Triumph 107
+The Misleading Label Capitalism 109
+The Problem with the Label Communism 121
+Getting Beyond the Cold War 125
+Coöperism Economics 128
+A Final Thought on Growth 132
+6 The Social Theory of Coöperism 135
+A Social Theory of Crime and Punishment 137
+The Implications for the Notion of Harm 151
+Some Models for the Paradigm of Coöperism 157
+The End of the Punishment Paradigm 161
+7 A Defense of Coöperism 163
+On Capital Markets 164
+On the Return on Capital 167
+On Historical Criticisms from the Left 172
+On the Challenge of Utopianism 179
+On the Reformist Alternative 181
+8 Cooperation Democracy 186
+The Paradox of Democratic Theory 188
+The Relationship to Abolition Democracy 190
+Toward Cooperation Democracy 197
+The Age of Coöperism 198
+Acknowledgments 203
+Notes 205
+Bibliography 257
+Index 279
+harc20954_1st_pp.indb 6 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+chapter 6
+The Social Theory of Coöperism
+I
+n a series of lectures pronounced at the Collège de France in 1973 titled
+The Punitive Society, the French philosopher Michel Foucault painted a
+haunting picture of Western society. He delivered his portrait at a time
+of heightened repression in France in the aftermath of the May 1968 revolution.
+It was the exact moment that racialized mass incarceration would skyrocket on
+the other side of the Atlantic, where Foucault had just visited Attica Prison. In
+the United States, imprisonment began climbing exponentially starting in 1973,
+rising to more than 2.3 million incarcerated people by 2008. A full 1 percent of
+the adult population in the United States was behind bars. One out of every
+thirty-one adults, or 7.3 million people, were under criminal supervision, includ-
+ing parole and probation. The situation was far worse for persons of color. One
+in nine African American men between the ages of twenty and thirty-four—more
+than 10 percent—were behind bars by 2008.1
+Like inequality in society, the public policies that created this travesty were
+chosen and deliberate. There were no natural laws of detention or evolutionary
+principles at play.2 It was all constructed and enforced by legislators, sentenc-
+ing judges, prosecutors, and corrections officials. The human-made exponential
+curve shown in figure 6.1 hides the devastating toll on human lives.
+What Foucault showed, in those lectures on The Punitive Society and two years
+later in his book Discipline and Punish, is that some modern Western societies are gov-
+erned by a punishment paradigm. Punishment is not so much a response to crime as
+it is the mechanism through which these societies create and maintain their social
+order. Governments impose punishment with the stated intention of combating
+criminality, but in reality the punishments serve more to shape and structure social
+hierarchies—in the United States, a social and racial order. Foucault’s lectures on
+harc20954_1st_pp.indb 135 05/12/22 10:12 AM
+
+136 The Social Theory of Coöperism
+2,500,000
+2,000,000
+1,500,000
+1,000,000
+500,000
+0
+1925 1935 1945 1955 1965 1975 1985 1995 2005 2015
+6.1 Populations of federal prisons, state prisons, and local jails (1925–2015)
+Source: Prison Policy Initiative.
+The data used for this figure were obtained from the Prison Policy Initiative’s “State prisons, local jails
+and federal prisons, incarceration rates and counts, 1925–2020” data set, which can be found on the Prison
+Policy Initiative’s Data Toolbox page. “Data Toolbox,” Prison Policy Initiative, accessed September 4,
+2022, https://www.prisonpolicy.org/data/. Local jails’ population data were available for the years 1940,
+1950, 1960, 1970, 1978, 1980, and every year 1983 and after. For this figure, local jails’ populations for the
+years prior to 1940 were estimated to be equal to the jail population of 1940. In the years following 1940
+for which no data are available, the mean of the closest available data points before and after the year in
+question was used.
+elpoep
+fo
+rebmuN
+© COLUMBIA UNIVERSITY PRESS
+Year
+Local jails Federal prisons State prisons
+the punitive society were prescient of what was to come. They were also deeply
+insightful in exposing the punishment paradigm in modern society.
+In many liberal democracies, individuals are left to fend for themselves, with
+relatively little direction or support, until the moment they do something that
+is perceived to be wrong, and then they are punished, often severely. That is cer-
+tainly the case in the United States. In America, we don’t spend too much on
+public education or skills training. We don’t have very good public-health or
+mental-health systems, or accessible drug-treatment programs. Pretty much
+everything is privatized—the better schools, the fancy treatment facilities, the
+counseling. The main public institutions for mental health are now county jails.
+America’s largest mental hospital, in fact, is the Cook County Jail.3 We let people
+harc20954_1st_pp.indb 136 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 137
+figure things out for themselves, pay for it on their own, get in debt with student
+loans; basically, we leave them alone and let them find their way. But the minute
+they are accused of wrongdoing, then we go after them with everything we’ve got.
+We’ll spend all the money in the world to punish. In New York City, we’ll lock
+someone up pretrial, before they have even been found guilty of a crime, at a cost
+of $556,539 per person per year.4 We’ll spend more than half a million dollars per
+person to punish them if we think they’ve gotten out of line, or fit the profile.
+But we won’t spend a dime on them until that time. If you don’t believe me, let
+me take you to a public drug-treatment facility off the Van Wyck Expressway in
+Queens and show you what I mean. To be honest, matters are even worse because
+the people we punish in America are disproportionately poor and of color.
+There is a punishment paradigm that dominates in many liberal democracies
+and serves to create a particular social order of racial, class, and gender hierarchy.
+Many of us have been searching for an alternative to this punishment paradigm
+for years. Many have debated and discussed an education paradigm, or a justice-
+and-education paradigm, restorative justice programs, and now a transformative
+justice paradigm, all of which are promising. But these alternatives, I believe, fit
+better as part of a cooperation paradigm.
+In addition to a political and economic theory, coöperism represents a social
+theory that can replace the punishment paradigm with a cooperation paradigm,
+creating a more just social order based on equal citizenship, equity, and respect
+and care for others and for the environment. Coöperism allows us to transcend
+the punishment paradigm of the punitive society and achieve a new society based
+on cooperation. It seeks to put in place the mechanisms of mutual support that
+will allow people to thrive. It cares about people from the start, rather than
+investing in them only through prison construction and guard labor. We need to
+replace today’s punishment paradigm with coöperism.
+A SOCIAL THEORY OF CRIME AND PUNISHMENT
+The timing could not be more propitious. Today, there is a swelling movement
+in the United States and around the world arguing for the abolition of punitive
+practices and institutions, including the police, jails and prisons, child protective
+services, immigration detention, and border policing—in effect, for the abolition
+of the punitive society. The new abolitionists (“new” in relation to the earlier
+harc20954_1st_pp.indb 137 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+138 The Social Theory of Coöperism
+movement for the abolition of chattel slavery) have fueled national debates over
+whether to reform or abolish the central institutions of the criminal legal pro-
+cess. In the United States especially, their writings are flourishing and reaching
+increasingly large audiences. Mariame Kaba’s collection of essays, We Do This ’Til
+We Free Us, published in March 2021, appeared on the New York Times paperback
+nonfiction bestseller list. Dorothy Roberts wrote the foreword to the Harvard Law
+Review’s esteemed annual constitutional law survey for 2019 under the title “Abo-
+lition Constitutionalism.” Ruth Wilson Gilmore’s work has been profiled in the
+pages of the New York Times Magazine. Derecka Purnell’s book Becoming Abolition-
+ists has been received to acclaim, as has a new book by Angela Davis, Gina Dent,
+Erica Meiners, and Beth Richie, Abolition. Feminism. Now. And a wave of abolition-
+ist writings are being published in scholarly journals and news outlets by thought
+leaders and organizers, including Amna Akbar, Che Gossett, Alexis Hoag, Allegra
+McLeod, Barbara Ransby, Andrea Ritchie, Dylan Rodriguez, Omavi Shukur,
+Keeanga-Yamahtta Taylor, and Harsha Walia, nourishing a national debate over
+abolition.5 These writings along with abolitionist organizing have, in Akbar’s
+words, “catapulted abolition into the mainstream and, in the process, unsettled
+the intellectual foundations of . . . reform discourse.”6 Not just in the United
+States but globally, they have sparked a worldwide movement for Black lives and
+for abolition.7 They have also significantly affected public opinion. At the height
+of the George Floyd protests in July 2020, a Gallup poll found that 33 percent of
+respondents between the ages of eighteen and thirty-four, and almost a quarter
+of all nonwhite Americans, supported the idea of abolishing police departments.8
+Many people are skeptical, though. Many, including many progressive think-
+ers, doubt we will ever get beyond the punishment paradigm. Most progressives
+consider the emerging debate over abolition to be a nuisance or, worse, something
+that is driving a wedge among progressives. Many argue that the movement for
+abolition of the police is counterproductive to the shared goals of reformers and
+abolitionists. Former president Barack Obama expressed this sentiment in his cri-
+tique of the idea of “defunding” the police. “You lost a big audience the minute you
+say it, which makes it a lot less likely that you’re actually going to get the changes
+you want done,” President Obama said on a political talk show in December
+2020. “The key is deciding, do you want to actually get something done, or do you
+want to feel good among the people you already agree with?”9 Many progressives
+agree with this sentiment. They fear that the new movements for abolition will
+only backfire and push the country in a more conservative direction, away from
+harc20954_1st_pp.indb 138 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 139
+productive social reforms. Meanwhile, on the far right, Marjorie Taylor Greene
+has embraced the “defund” language, selling T-shirts that say “Defund the FBI”;
+but many Republicans also view that as a counterproductive strategy.10 Some rad-
+ical thinkers also resist the calls for abolition, viewing them as a form of iden-
+titarianism. Slavoj Žižek questions the prospects of intersectional-identitarian
+movements, arguing that they fail to appreciate the centrality of class struggle.11
+For Žižek, class, rather than gender, sexuality, race, or ethnicity, represents the
+only true form of pure antagonism; class struggle alone, he argues, aims to abolish
+a dominating class completely, whereas race or gender struggles seek “forms of
+reconciliation.”12 Class, for Žižek, represents the principal contradiction that tra-
+verses all particular contradictions (i.e., the localized and situated conflicts over
+race or gender); on this view, the focus needs to remain on class struggle.
+But far from a nuisance or distraction as many progressives and conservatives
+suggest, and far from a subsidiary or subordinate phenomenon as some Marxists
+might suggest, the new movements to abolish prisons and police build on a long
+history of critical thought that challenges the punishment paradigm and, as a
+result, is an extremely promising development. They have also been a galvanizing
+force, along with the movement for Black lives, which has helped bring about the
+largest and most diverse protest in American history. They are a powerful force
+for social change, perhaps the force with the greatest political momentum today,
+sparking “a global movement for racial and economic equality.”13
+The new abolitionist movements force us to address a central challenge to
+contemporary liberalism: whether the institutions, practices, and agents of law
+enforcement (the punishment paradigm) function to redress the harms associ-
+ated with illegal behavior or, instead, serve primarily to impose a social and racial
+order on society. This question goes to the heart of whether the punishment par-
+adigm is a response to crime and to deviations of law or constitutes a mode of
+governing that produces racial, ethnic, gender, and other hierarchies. In its most
+concrete form, this poses the question whether there is a legitimate relationship
+between “crime and punishment” or whether punishment does its own work,
+independent of crime.
+The challenge takes aim at a central premise of contemporary legal and polit-
+ical liberalism: that law and legal rights are neutral devices that serve merely
+as hedges to allow each individual to pursue their own vision of the good life
+without imposing their values on others.14 It proposes instead that the punitive
+paradigm serves primarily to impose racial, gender, and other forms of perverse
+harc20954_1st_pp.indb 139 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+140 The Social Theory of Coöperism
+hierarchies on society. The law does not simply redress the claimed injury caused
+when an individual crosses a legal hedge; rather, it contributes to entrenching
+forms of discrimination and oppression against persons of color and other mar-
+ginalized groups. It reproduces racial, caste, and class structures.15
+This challenge is at the very core of the new movements for abolition. So,
+for instance, when contemporary abolitionist scholars and practitioners such
+as Amna Akbar, Brandon Hasbrouk, Mariame Kaba, Derecka Purnell, and Alex
+Vitale demonstrate how contemporary American policing practices trace back
+to slave patrols and are continuous, historically, with the enforcement of chattel
+slavery and fugitive slave laws;16 or when abolitionist historians and legal scholars
+like Dennis Childs or Dorothy Roberts trace racialized mass incarceration to its
+antecedents in the convict-leasing practices and plantation prisons that arose
+during Reconstruction, or demonstrate that the modern death penalty and legal
+executions grow out of practices of Southern lynching at the turn of the twenti-
+eth century;17 or, more generally, when abolitionist thinkers and activists, from
+Angela Davis to Ruth Wilson Gilmore, argue that there are historical links from
+slavery to Jim Crow, the urban ghetto, resistance to the civil rights movement,
+and our racialized punitive society today18—all of these thinkers show that the
+criminal law and its enforcement are instruments of social ordering predomi-
+nantly deployed to keep African Americans and other persons of color in a con-
+dition of second-class citizenship.
+Critical social theorists had posed this challenge for more than a century,
+but to little avail. Like a tree falling in a forest unheard, no one paid attention.
+Most liberal thinkers, including many progressive thinkers, were able to dodge
+the challenge by taking reasonable-sounding positions that essentially swept the
+issue under the rug. “Of course the law shapes society,” they responded, “but it
+must be enforced to address the harms of violent crime, and there are ways to
+make it less racially discriminatory.” In this way, even progressives were able to
+avoid the heart of the challenge. Meanwhile, Marxist thinkers paid relatively lit-
+tle attention to law and legal structures, believing that they were superstructural
+and obviously instrumentalized in furtherance of class oppression. To make mat-
+ters worse, many of the critical theorists who actually challenged legal liberalism,
+such as W. E. B. Du Bois and members of the Frankfurt School, were either inten-
+tionally marginalized for political reasons or had to tone down their critique in
+order to assimilate into liberal institutions of higher education.19
+Only now, as a result of the newfound debate over abolition, are people begin-
+ning to take seriously, or at least debate, the challenge to the punishment paradigm.
+harc20954_1st_pp.indb 140 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 141
+Addressing the challenge carefully and honestly will help us identify an alternative
+paradigm of cooperation that properly reflects our interdependence, not only as
+humans, but also with life on Earth. Coöperism offers a new paradigm for society.
+To be clear, the critique of the punishment paradigm is a deep challenge to
+the neutrality of the law. It is a fundamental attack on the idea that, in a liberal
+democracy, it is proper to leave people alone but then punish them when they
+violate the law, and that the enforcement of law is not itself political but simply
+maintains society. This is the idea that, in a liberal democracy, in contrast to
+autocracies, we value freedom and individual autonomy and are governed by the
+rule of law, not of men. With the punishment paradigm, this translates into the
+idea that there is a necessary link between crime and punishment: illegal activity
+is what triggers punishment, and punishment is limited to preventing or remedy-
+ing crime. The legitimacy of that relationship founds the liberal state. It grounds
+the philosophical, literary, and juridical discourse of “crime and punishment,”
+from Hobbes and Locke, through Cesare Beccaria and Dostoyevsky, to John Stu-
+art Mill and John Rawls. A foundational premise of liberal democracy is that
+that there should be as much freedom as possible, limited and enforced by the
+criminal law; that there should be freedom except where there is force or fraud;
+and that people should only be punished for committing illegal acts that harm
+others. This is the central foundational premise of Western liberal democracy,
+and it rests firmly on the conceptual pillars of legal neutrality and the rule of law.
+But for more than a century now, critical thinkers have documented, histori-
+cally and theoretically, how the enforcement of criminal law serves instead, and
+primarily, as a political device deployed by coalitions in power to reproduce and
+entrench social and racial hierarchies. Rather than maintaining a neutral frame-
+work intended to benefit all citizens, the law and its enforcement shape the
+racial, sexual, and class order in society. Punishment is not merely a response to
+crime; it is a principal tool, weapon, tactic, or technique deployed to reproduce
+racial and social hierarchies. This critique of liberal democracy went unheard for
+decades. The challenge to the punishment paradigm has finally propelled this
+critical insight into mainstream debate.
+W. E .B. Du Bois, Black Reconstruction in America (1935)
+W. E. B. Du Bois was at the fountainhead of this critical tradition. In his path-
+breaking book Black Reconstruction in America: 1860–1880, published in 1935, Du
+Bois demonstrated that the enforcement of penal law was used as one of the main
+harc20954_1st_pp.indb 141 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+142 The Social Theory of Coöperism
+devices to re-enslave freed Black women and men after Emancipation. Through the
+implementation of Black Codes in the former Confederate states, which imposed
+severe punishments and labor restrictions on African American men and women,
+new punitive practices of convict leasing and plantation prisons emerged that gave
+birth to new forms of slavery. “The whole criminal system,” Du Bois wrote, “came
+to be used as a method of keeping Negroes at work and intimidating them.”20
+The enforcement of the criminal law practically replaced property law as the
+principal stratagem to perpetuate white supremacy. The penal law served not to
+redress instances of criminal harm but rather to enforce a racial hierarchy that
+had been unsettled during Reconstruction. It served to impose the social order
+of white supremacy. Du Bois made this explicit: “In no part of the modern world
+has there been so open and conscious a traffic in crime for deliberate social deg-
+radation and private profit as in the South since slavery,” Du Bois emphasized.
+“Since 1876 Negroes have been arrested on the slightest provocation and given
+long sentences or fines which they were compelled to work out. The resulting
+peonage of criminals extended into every Southern state and led to the most
+revolting situations.”21 In tandem, the enforcement of penal law was widely used
+to disenfranchise Black men and women of their civil and political rights.22
+Du Bois traced the continuity from chattel slavery to criminal punishment in
+the 1930s, well before modern mass incarceration of African Americans. And he
+exposed as well the deeper economic logic motivating that continuity: “The hor-
+rid system of convict leasing gave to the state a profit in crime, not to mention the
+vast profits which came to the private contractors,” Du Bois showed.23 Through
+new punishment practices, the criminal law served to transform American slav-
+ery into a new system of peonage that, in many cases, exceeded the horrors of the
+antebellum period.
+In many respects, Du Bois was far ahead of more orthodox Marxist analy-
+ses, which in their more classical formulations often resorted, in a somewhat
+reactionary way, to notions of the “criminal element” or what they called the
+lumpenproletariat. Du Bois’s engagement with critical thought—which, as Cedric
+Robinson shows in Black Marxism, represented a critique, an advance, and an
+alternative—was especially productive for students of crime and punishment.24
+Rusche and Kirchheimer, Punishment and Social Structure (1939)
+Writing at about the same time, a group of critical thinkers, members of the
+Frankfurt School then in exile at Columbia University, also set out to challenge
+harc20954_1st_pp.indb 142 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 143
+the link between crime and punishment. In their pioneering book Punishment and
+Social Structure, published in 1939, Georg Rusche and Otto Kirchheimer reviewed
+the history of Western punishment practices since the seventeenth century and
+demonstrated their inextricable interconnection with the labor needs of those in
+power. Rusche and Kirchheimer documented how punishment practices served
+primarily to bolster economic regimes: modes of punishment are shaped, pre-
+dominantly, by the need for labor.
+Rusche and Kirchheimer unearthed evidence, for instance, showing how pun-
+ishments such as transportation and the galleys served primarily to uphold the
+ancien régime. The evidence was hidden in plain view, in letters and official cor-
+respondence between the monarchy and the judges and prosecutors. “Since His
+Majesty urgently needs more men to strengthen His rowing crews,” the King’s
+administrators wrote to the public prosecutor of Paris by letter dated Febru-
+ary 21, 1676, “He wishes you to take the necessary steps in His name in order
+to have the criminals judged quickly.” In response to such a request, the public
+prosecutor at Bordeaux wrote back: “You will be gratified to learn that this Court
+has twenty prisoners who will be chained together this morning and sent off.”25
+Rusche and Kirchheimer went on to meticulously trace how imprisonment and
+prison labor were used, after the Industrial Revolution, to help negotiate the
+fluctuating supply and demand for workers. They demonstrated how the prison
+became the chief form of punishment when industrial changes eliminated the
+need for houses of corrections and how transportation was later used to deal with
+excess labor and the needs of the new colonies.26 Thorsten Sellin summarized
+their overarching argument: “Fundamentally, then, the aim of all punishment is
+the protection of those social values which the dominant social group of a state
+regard as good for ‘society.’ ”27
+Rusche and Kirchheimer explicitly took aim at the purported relationship
+between crime and punishment. Their aim, they wrote, was to “strip” the “ideo-
+logical veils and juristic appearance and to describe it in its real relationships.”
+They declared:
+The bond, transparent or not, that is supposed to exist between crime and
+punishment prevents any insight into the independent significance of the
+history of penal systems. It must be broken. Punishment is neither a simple
+consequence of crime, nor the reverse side of crime, nor a mere means which
+is determined by the end to be achieved. Punishment must be understood as
+a social phenomenon freed from both its juristic concept and its social ends.28
+harc20954_1st_pp.indb 143 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+144 The Social Theory of Coöperism
+Rusche and Kirchheimer focused primarily on the relationship between punish-
+ment practices and the supply of labor. Their work spawned a wealth of scientific
+studies testing whether and how punishments are shaped by systems of economic
+production, which became known in the literature as the Rusche-Kirchheimer
+hypothesis.29 The crux of their hypothesis targeted the supposed link between
+crime and punishment.
+Angela Davis, “Political Prisoners, Prisons, and Black Liberation” (1971)
+It is that link between crime and punishment that Angela Davis explicitly set out
+to “pull apart,” beginning even before her fugitivity in 1971. In her brilliant book
+Are Prisons Obsolete?, Davis underscored the need to “do the ideological work of
+pulling apart the conceptual link between crime and punishment.” If we did that,
+Davis wrote, “we would recognize that ‘punishment’ does not follow from ‘crime’
+in the neat and logical sequence offered by discourses that insist on the justice
+of imprisonment, but rather punishment—primarily through imprisonment
+(and sometimes death)—is linked to the agendas of politicians, the profit drive
+of corporations, and media representations of crime.”30 Punishment has its own
+logic and functions separate from crime reduction, Davis argued. Punishment
+constructs our social and racial hierarchy.
+Angela Davis’s theoretical intervention—pulling apart the purported link
+between crime and punishment—was nourished by her own lived experience as
+a fugitive from the law and a political prisoner, as well as by the experiences of
+other members of the Black Panther and Black liberation movements, of the Sole-
+dad Brothers, and of other political prisoners. In 1971, incarcerated in the Marin
+County Jail, Davis documented the political nature of criminal law enforcement
+in America. In her May 1971 letter from jail, she wrote: “The prison is a key com-
+ponent of the state’s coercive apparatus. . . . The prison has actually operated as
+an instrument of class domination, a means of prohibiting the have-nots from
+encroaching upon the haves.”31
+Davis emphasized how the enforcement of the criminal law was used as a tool
+of repression and a form of counterrevolution, specifically identifying the “sys-
+tem of ‘preventive fascism,’ as Marcuse has termed it, in which the role of the
+judicial and penal systems loom large.” Davis portrayed policing as social order-
+ing, the courts as an enabler, the prison as the main tool or device, and the prison
+“frame-up” as the final act of elimination. She noted the increasing awareness of
+harc20954_1st_pp.indb 144 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 145
+this among Black and Latinx prisoners themselves: “Prisoners—especially blacks,
+Chicanos and Puerto Ricans—are increasingly advancing the proposition that
+they are political prisoners. They contend that they are political prisoners in the
+sense that they are largely the victims of an oppressive politico-economic order,
+swiftly becoming conscious of the causes underlying their victimization.”32
+The writings and speeches of George Jackson, Eldridge Cleaver, Bobby Seale,
+and other movement leaders at the time confirmed the political nature of law
+enforcement. Jackson was clear that the definitions of crimes were tied directly
+to maintaining an economic order and property relations, and that criminal
+law enforcement was intended to repress any form of resistance to racial and
+economic hierarchies.33 Jackson combined, in his critique, the racial and the eco-
+nomic dimensions: the enforcement of the criminal law and the “chief repressive
+institutions,” such as the police and prison, served to impose a racial capitalist
+order that both subjugated persons of color and quashed political resistance.34
+Frantz Fanon had developed a similar thesis regarding the role of policing as a
+political weapon to control populations living under colonial rule. In the French
+colonies, Fanon noted, and others agreed, the police and prisons served “as the
+linchpin” of French imperialism.35 Angela Davis, writing from her cell in Marin
+County jail, highlighted the parallel: “Fanon’s analysis of the role of colonial police
+is an appropriate description of the function of the police in America’s ghettos.”36
+Meanwhile, James Baldwin compared Davis’s plight—detained, chained, isolated
+in jail—to that of “the Jewish housewife in the boxcar headed to Dachau, or as any
+one of our ancestors, chained together in the name of Jesus, headed for a Christian
+land.”37 Baldwin situated the prison and the enforcement of criminal law in the
+register of politics and warfare. He referred to the women and men in prison as
+“the numberless prisoners in our concentration camps—for that is what they are.”38
+Michel Foucault, Penal Theories and Institutions (1972) and
+The Punitive Society (1973)
+At about the same time, across the Atlantic, Catharine von Bülow, Daniel Defert,
+Michel Foucault, Jean Genet, and others were challenging the neutrality of
+punishment.
+“The death of George Jackson is not a prison accident. It is a political assassina-
+tion.”39 Thus opens the tract Intolerance Inquiry: The Assassination of George Jackson, by
+members of the Prison Information Group, published November 10, 1971, concerning
+harc20954_1st_pp.indb 145 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+146 The Social Theory of Coöperism
+the shooting death of George Jackson at San Quentin on August 21, 1971. In an essay
+titled “The Masked Assassination,” Bülow, Defert, and Foucault treat punishment as
+political warfare—not the consequence of crime, but rather a form of civil war. They
+too deconstruct the purported relationship between crime and punishment:
+What is happening in the prisons is war, a war having other fronts in the black
+ghettos, the army, and the courts. . . . Today, the imprisoned revolutionary
+militants and the common law prisoners, who became revolutionaries specifi-
+cally during their detention, paved the way for the war front to extend inside
+prisons. . . . At this stage, the ruling power is left with one resort: assassination.40
+Writing of Jackson’s plight—serving more than ten years in prison before being
+gunned down by a prison guard—Bülow, Defert, and Foucault denounced the
+penal system as warfare: “Ten years in prison for seventy dollars is a political
+experience—an experience of hostage, of a concentration camp, of class warfare,
+an experience of the colonized.” With reference to Jackson’s brother, Jonathan
+Jackson, they wrote: “This same justice system, with its white judges and its white
+jurors, consigned hundreds of thousands of African Americans to the blood-
+thirsty guards of concentration camps.”41
+In his lectures on Penal Theories and Institutions a few months later, Foucault
+developed what he called a political theory of criminal law.42 Beginning in January
+1972, Foucault minutely demonstrated over the course of seven lectures how
+Cardinal Richelieu and his emissary, Chancellor Séguier, repressed the Nu-pieds
+(barefoot) rebellion in Normandy in 1639 through a strategic interlacing of the
+penal sanction and military force.
+“Penality is political from top to bottom,” Foucault declared on March 1,
+1972.43 His political theory of criminal law had several elements, the first and
+most important of which called for a rigid deconstruction of the assumed relation
+between crime and punishment. Criminal law enforcement, Foucault argued, is
+not a consequence of criminality. It is not a reaction to delinquency or crime,
+which are themselves fabricated by criminal law enforcement during a process of
+social struggle. The enforcement of criminal law is instead a response and reac-
+tion to that political struggle. As he explained in his lecture of January 26, 1972,
+“all the major phases of the evolution of the penal system, of the repressive sys-
+tem, are ways of responding to forms of popular struggles.”44 Crime had to be
+understood as a threat, as an attack on the state’s power. “Crime is always, in at
+least one of its dimensions,” he said, “an attack on the public power, a struggle
+harc20954_1st_pp.indb 146 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 147
+against it, the provisional suspension of its laws.”45 Thus, criminal law enforce-
+ment could only be properly understood within the framework of social struggle
+as a weapon, tactic, or strategy in relations of power being waged within society.46
+This led Foucault to his concept of the “punitive society,” the topic of his lectures
+the following year, 1973.47
+Two years later, Foucault published his famous book on the birth of the
+prison, Discipline and Punish (1975), which built on this theoretical foundation,
+as well as on his own militant encounters with prison.48 Of greatest importance
+here, Foucault’s stated aim was to eradicate the purported relationship between
+crime and punishment in order to expose all the work that disciplinary practices
+achieve in modern society:
+We must first rid ourselves of the illusion that punishment is above all (if not
+exclusively) a means of reducing crime and that, in this role, according to the
+social forms, the political systems or beliefs, it may be severe or lenient, tend
+toward expiation or instead toward obtaining reparation, applied in pursuit
+of individuals or for the attribution of collective responsibility.49
+In other words, Foucault argued, we must sever the supposed link between crime
+and punishment, stop distracting ourselves with theories of just punishment, and
+focus instead on what economic and social forms punishments achieve in society.
+In this, Foucault explicitly built on Rusche and Kirschheimer. He emphasized
+that their work—in his words, their “grand livre”—provided a number of “essential
+reference points.”50 First and foremost was the need to break the link between
+crime and punishment.
+In the 1970s, these arguments were taking root in many countries, including
+Scandinavia and northern Europe, and especially in Latin America. In 1974, the
+Norwegian sociologist Thomas Mathiesen published a groundbreaking work of
+critical criminology, The Politics of Abolition. Mathiesen explored Scandinavian
+penal reforms and called for the abolition of prisons. His work became influen-
+tial in countries such as the Netherlands and Argentina.51
+Dorothy Roberts, Ruth Wilson Gilmore, and the 2000s
+Since the turn of the twenty-first century, abolitionist scholars have built on
+these foundations to highlight the political nature of law enforcement and to
+deconstruct the supposed relation between crime and punishment.
+harc20954_1st_pp.indb 147 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+148 The Social Theory of Coöperism
+Dorothy Roberts, in one of the earliest law review articles offering an aboli-
+tionist framework, in 2007, begins from this premise: what we call the “criminal
+justice system” is not about redressing crime, but about imposing a racial order.52
+“The U.S criminal justice system has always functioned, in coordination with
+other institutions and social policy, to subordinate black people and maintain
+the racial caste system.” Roberts argues that every aspect of criminal law is tied
+up with imposing a racial order: it is “engrained in the very construction of the
+system and implicated in its every aspect—how crimes are defined, how suspects
+are identified, how charging decisions are made, how trials are conducted, and
+how punishments are imposed.”53
+Roberts traces the history of the key institutions of the criminal law back to
+the enslavement and control of African Americans: “The pillars of the U.S. crim-
+inal justice system—mass imprisonment, capital punishment, and police terror—
+can all be traced to the enslavement of Africans.” More generally, and in direct
+conversation with the work of Rusche and Kirschheimer, Roberts notes, “Penal
+institutions have historically been key components of social policy aimed at gov-
+erning marginal social groups.”54 Roberts traces the death penalty back to the
+lethal punishment of enslaved Africans, the Black Codes during and after slavery,
+the lynching of freed Black persons after Emancipation, and the racialized use of
+public executions.55 Roberts ties coercive interrogation in this country back to
+the lynching era as well.56 In sum, Roberts writes,
+I argue that these immoral practices [mass incarceration, capital punishment,
+and police terror] have flourished in the United States in order to impose a
+racist order. Understanding their racial origins and function helps to explain
+their endurance and the need to abolish them.57
+In her 2007 book Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Global-
+izing California, Ruth Wilson Gilmore documented the political economy of the
+California prison-industrial complex (PIC), demonstrating how political and eco-
+nomic forces, surplus finance capital, and labor issues, rather than crime, were what
+brought about the massive prison expansion.58 Michelle Alexander, in her 2010
+book The New Jim Crow: Mass Incarceration in the Age of Colorblindness, demonstrated
+how mass incarceration functions as a form of racial segregation and oppression
+similar to post-Reconstruction Jim Crow laws.59 The very title of Alexander’s book
+deconstructs the crime-and-punishment nexus and demonstrates the political
+harc20954_1st_pp.indb 148 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 149
+dimensions of punishment practices: mass incarceration is not the product of
+criminality but a new form of the old social regime of Jim Crow. The same is true
+of Jonathan Simon’s Governing Through Crime (2007)—again, the very title expresses
+the deconstruction of crime and punishment—and Katherine Beckett’s Making
+Crime Pay (1997).
+Loïc Wacquant’s 2000 study of what he called the “structural and functional
+homologies” among the “four peculiar institutions”—slavery, Jim Crow, urban
+ghettoization, and racialized mass incarceration—made the point as well.60 Pun-
+ishment is just the last of these peculiar institutions that impose racial hierar-
+chy. Wacquant is explicit about the need to sever the connection between crime
+and punishment. To understand Black hypercarceration, he writes, “we first
+need to break out of the narrow ‘crime and punishment’ paradigm and examine
+the broader role of the penal system as an instrument for managing dispossessed and
+dishonored groups.” In a footnote, Wacquant traces this explicitly back to Rusche
+and Kirchheimer: “In this, I follow Georg Rusche: ‘Punishment must be under-
+stood as a social phenomenon freed from both its juristic concept and its social
+ends,’ that is, its official mission of crime control, so that it may be replaced in
+the complete system of strategies, including social policies, aimed at regulating
+the poor.”61
+Similarly, in their work on capital punishment, Carol Steiker and Jordan
+Steiker demonstrate how the intricate Eighth Amendment jurisprudence sur-
+rounding the death penalty is best understood not as addressing questions of
+crime and deterrence but instead as serving to legitimize the death penalty. It
+makes little sense to evaluate the criminal law within the conventional frame-
+work, because the legal enforcement serves other purposes. As they cunningly
+remark, “You can’t know that a thing is not being done well until you know what
+it is that is being done.”62
+Contemporary New and Feminist Abolitionism
+The more recent abolitionist writings build on this intellectual tradition but push
+it further. Spurred by the documentation of police killings and the movements
+for Black lives, these writings further deconstruct the crime and punishment
+nexus.63 They offer a more radical vision of abolition that seeks not only to break
+the link between crime and punishment and get rid of the PIC institutions and
+practices but, further, to undo the world that makes those possible.
+harc20954_1st_pp.indb 149 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+150 The Social Theory of Coöperism
+For Mariame Kaba, breaking the link between crime and punishment is a fun-
+damental starting point. “What work do prisons and policing actually do?” Kaba asks.
+“Most people assume that incarceration helps to reduce violence and crime,” she
+writes, but “facts and history tell a different story.” Kaba pulls apart the crime
+and punishment nexus:
+Increasing rates of incarceration have a minimal impact on crimes rates.
+Research and common sense suggest that economic precarity is correlated
+with higher crime rates. Moreover, crime and harm are not synonymous. All
+that is criminalized isn’t harmful, and all harm isn’t necessarily criminalized.
+For example, wage theft by employers isn’t generally criminalized, but it is
+definitely harmful.64
+In the debate over policing, the new abolitionists demonstrate that the police
+function is tied to maintaining the racial order, not to combating crime. “Policing
+is among the vestiges of slavery, colonialism, and genocide,” Derecka Purnell writes,
+“tailored in America to suppress slave revolts, catch runaways, and repress labor
+organizing.”65 Contemporary policing practices, Purnell and others argue, trace
+back to slave patrols in the South and to the control of freed persons and labor in
+the North; they emphasize the legacy of police violence against African American
+and Latinx communities.66 Brandon Hasbrouck shows how modern policing
+reflects the badges and incidents of slavery, originally intended to be abolished by
+the Thirteenth Amendment.67 Chenjerai Kumanyika argues that policing evolved
+as a form of labor control: the control of enslaved persons in the South, and of
+labor in the North, such that the “institution of policing is very much connected
+to the enactment of violence against strikers and union-breaking.”68 In the debate
+over prisons, Dorothy Roberts emphasizes that racialized mass incarceration is
+the legacy of slavery and serves to maintain a racial, gender, and class hierarchy.69
+In the debate over the death penalty, the new abolitionists connect the modern
+history of executions back to the history of lynching in the South.70 In Slaves of the
+State, Dennis Childs documents how slavery was transformed into institutions of
+punishment: “the convict lease camp, the chain-gang camp, the county farm, the
+peonage camp, the prison plantation, and the ‘modern’ penitentiary.” This is the
+continuity of “neoslavery from the chain gang to the prison-industrial complex.”71
+In her extraordinary historical research on convict leasing, chain gangs, and
+the Milledgeville State Prison Farm in Georgia during the late nineteenth and
+harc20954_1st_pp.indb 150 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 151
+early twentieth centuries, Sarah Haley meticulously unveils the ideological con-
+struction of our punitive society by focusing on the forms of punishment meted
+out to Black women at the turn of the twentieth century in the state of Georgia.72
+Haley shows us the ideological groundwork that founds our contemporary
+understanding and prejudices regarding the human condition. She writes that
+she is trying to explain “the necessity of violence against black women’s bodies
+in the maintenance of white supremacy as an ideological, economic and political
+order during a period of rapid historical transition.” Haley’s work exposes the
+depth of the hegemonic structures of belief that entrench ideologies of antiblack-
+ness and heteropatriarchy. Her work not only underscores the urgency of aboli-
+tionist feminism but also highlights how difficult the task is, given the long-term
+pervasive ideological constructs that have produced contemporary society. Her
+research amplifies the interlocking systems of state and interpersonal violence
+by exposing the ideological construction, gendered and racialized, of our present
+reality. Haley offers a “history of ideology” and shows in minute detail, through
+the archives of punishment, how those punitive forms contributed to “the con-
+struction of racially determined and defined gendered subject positions during
+the long historical era in which segregation took hold.”73
+Almost one hundred years ago, W. E. B. Du Bois referred to punitive practices
+postbellum as “a new form of servitude.”74 Few listened. But today the challenges
+to the punishment paradigm are finally reaching larger and larger audiences, and
+establishing what for so many decades was marginalized and ignored: that the
+enforcement of criminal law is not so much a response to harmful activity as it is
+an instrument for social and racial ordering, and that rather than redressing the
+individual and social harms associated with crime, the enforcement of law in the
+United States serves to perpetuate racial subordination.
+THE IMPLICATIONS FOR THE NOTION OF HARM
+Many progressive thinkers today still manage to sidestep these challenges to the
+punishment paradigm. For the most part, they do so by taking what appears to
+be a reasonable middle ground: the truth must lie somewhere in between, as it
+always does. The penal law surely enforces a social order, but it also addresses
+harms associated with crimes. Law enforcement tries to remedy the individual
+and collective harms of criminality and, in the process, inevitably imposes a
+harc20954_1st_pp.indb 151 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+152 The Social Theory of Coöperism
+particular vision of society that affects gender, racial, class, and other relations.
+So, for instance, the elimination of the marital rape exception, challenges to
+stand-your-own-ground laws, changes to heat-of-passion defenses, and the elim-
+ination of the homosexual advance defense all address the harms of crime while
+simultaneously shaping racial, gender, and other relations of power in society. It
+is not an “either-or,” many progressives respond, but a “both-and.”
+According to this view, it is possible to bracket the broader political issues,
+recognize and try to address racism and sexism, even systemic racism, but stay
+focused on the enforcement of law to address social harms. Progressive reform-
+ers thus continue to offer ways to fix the law and propose new ways to address
+the harms of society without creating racist outcomes. Violent crime and dis-
+order cause individual and systemic harms that need to be addressed, the argu-
+ment goes; through careful, reformed practice, progressive actors can get back to
+enforcing law as a just response to harm. It’s better not to get too political, on
+this view, because there will never be universal agreement about social ordering
+and anyway it is best to leave that to democratic politics. In the meantime, pro-
+gressive thinkers can find better ways to address social harms. This may mean
+incremental reform measures or more ambitious reform, such as a turn to restor-
+ative justice or other more holistic approaches, to address the harm caused by
+crime and deviance from the law.
+But far from being more reasonable, this progressive reform position is entirely
+unstable, because the existing social and racial order shapes the very conceptions
+of harms and violence that lie at the heart of law enforcement. In other words,
+the perception of harm and violence associated with illegality is determined by
+race, gender, class, and other relations of power in society. It is not possible to
+talk about social harms in a vacuum. Those “harms” are themselves artifacts of the
+present social condition and racial hierarchies.
+This is not just a chicken-and-egg problem. One cannot simply respond, “Well,
+all these problems are co-constitutive, so we might as well just start somewhere.”
+They are not equally co-constitutive. To be sure, there is feedback. The fact, for
+instance, that we sentence to death and execute more Black men convicted of
+white-victim homicides fuels a perception of Black criminality that then rein-
+forces racial subjugation in this country; and the tragic effects of “Black crimi-
+nality” are well documented.75 Still, it is not the case that the penal law is wholly,
+or primarily, or even equally responsible for systemic racism in American soci-
+ety, a society that was based on slavery and the genocide of indigenous peoples.
+harc20954_1st_pp.indb 152 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 153
+No, there is some directionality: a systematically racist society uses the penal
+law as one tool among others to maintain, perpetuate, and augment racial dom-
+ination. What this means is that we have to be far more nuanced about how
+the social order shapes and uses penal law as a tool of domination.76 Returning
+to racial disparities in capital punishment, the fact that the death penalty is
+enforced more in homicide cases involving white victims reflects the fact that
+white life is valued more than the lives of persons of color. It reveals that the
+harm of white-victim homicides is perceived, at least by most of the principals in
+the criminal legal ordeal, as greater than the harm of Black-victim homicides.77
+Relations of racial power in American society shape those racialized conceptions
+of value and harms. In other words, social forces shape perceived harms.
+I have written at length elsewhere about the malleability of harm (The Collapse
+of the Harm Principle) and the limits of the liberal understanding of harm and
+violence (several chapters in Critique and Praxis).78 Others as well have discussed
+the constructed nature of the conception of violence in criminal law.79 Suffice it
+to say here that the notions of harm and violence are inextricably linked to the
+social context within which they are situated. There are no universals here, and
+any attempt to reduce these concepts to their core or their reasonable meaning
+is nothing more than an imposition of a minority position on the whole; it is an
+imperialist project. We cannot start from a universal or common core to harm;
+we have to start from the social context.
+Many people believe, instinctively, that there are universal harms that traverse
+human history, such as murder, rape, and theft. They argue that these harms have
+been prohibited throughout history, from the earliest tablets and commandments
+to Napoleonic and modern penal codes. “Thou shalt not kill” represents a univer-
+sal maxim, many would argue. But that is far too simplistic. What matters are not
+the broad abstract categories of, say, murder or rape, but the way in which those
+prohibitions are interpreted and shaped by the social order. The different ways
+that rape was defined—how the harm of rape was defined—utterly transforms the
+prohibition: at common law, rape was limited to violent stranger rape where a
+woman physically resisted to her utmost; marital rape was not considered rape;
+nonconsent was not considered rape. It was a very different harm, shaped by
+patriarchal norms, than what we consider to be rape today. The fact that patri-
+cide was one of the most egregious offenses under the Napoleonic Code, or the
+changing definitions of justified police killings of civilians, give homicide and
+its associated harms very different meanings. To speak of murder as a universal
+harc20954_1st_pp.indb 153 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+154 The Social Theory of Coöperism
+harm but ignore the social and historical ways in which it is defined and prose-
+cuted is to miss the most important dimension.
+We need to pay far more attention to the ways in which social and racial forces
+shape the harms that the law aims to address. When we do, it becomes clear
+that for the vast majority of contemporary law enforcement, the perceived harms
+associated with illegal behavior (drugs, disorderly conduct, resisting arrest, pros-
+titution, theft, quality-of-life offenses, even justifiable homicide) are shaped, or
+rather distorted, by the existing social and racial hierarchy, not just race, but
+gender, sexuality, class, poverty, patriarchy, and more. We tend to enforce street
+crime, public crimes, and crimes of poverty because, given the way our society is
+racially structured, we view them as more harmful than white-collar crimes, even
+if white-collar crimes may far outweigh the former in terms of true social costs.
+We do that because we are enforcing a social and racial order. Most of what we
+police and enforce, we do because we perceive the harm to be greatest, but that
+harm perception is shaped by the existing social order.80
+It is a Sisyphean task to discuss harms divorced from the social and racial
+ordering. Something is perceived as harmful, calling for law enforcement, only
+within the normative framework of a social hierarchy. Theft of private prop-
+erty is only perceived as harmful in a social order that rests on private property;
+prostitution only causes cognizable harm where the moral order privileges non-
+commercial consensual sexual relations. These are truisms, but they have crucial
+implications that we constantly sweep under the rug: the normative social and
+racial order determines our conceptions of harm for purposes of law enforce-
+ment, meaning that we simply cannot bracket the social ordering.81
+Given that social forces shape perceptions of harm, it makes no sense to say
+“Let’s just hold off on the politics, deal with that separately, but keep enforcing
+the law in an even-handed way to prevent harms,” because the very notion of
+harm at the heart of law enforcement, the very measure of “an even-handed way,”
+is inflected by the normative structure of the existing social and racial order.
+Once we take seriously the challenge to the punishment paradigm and real-
+ize that our present notions of harm and violence are inextricably linked to the
+current social and racial order, the question becomes what the world would look
+like if it were not disfigured by racial, gender, class, and other forms of injustice.
+Pragmatic thinkers will resist this invitation as overly utopian.82 Rather than
+imagine a just social order, the pragmatist will respond that we should extract
+racism, even systemic racism, from current practices and institutions and enforce
+harc20954_1st_pp.indb 154 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 155
+the law on a race-neutral basis. This might be accomplished by means of a positiv-
+ist legal approach, just enforcing the penal code in a neutral way, or by addressing
+social harms holding race constant. That, however, is impossible because society
+without social and racial hierarchy would be an entirely different society and, as
+a result, the harms would be different.
+That is what coöperism reveals: it shows the potential of cooperation and
+participatory democracy across all aspects of our lives. What would a world of
+cooperation, without systemic racism, look like? It would be an entirely different
+world, one in which everyone treats all others with equal dignity, true respect, and
+humanity, where everyone regards others as truly equals, as their own, as people
+to care about. What makes it possible for us all to allow the inequality that sur-
+rounds us, as well as the racial, gender and sexuality hierarchies and other forms
+of domination along lines of poverty and class, is not just evil intent, although
+there is plenty of that, but a disregard for the lives of others, for the humanity of
+others. What makes it possible to tolerate walking by a homeless person lying on
+the ground, bundled up in winter, is that they are not our child, our brother, our
+loved one, our friend; they are not our equal; they do not command the respect or
+dignity we would afford someone we know. We turn our eyes away because they
+are not of us, not our own, not fully human, because we are not working or eating
+or sharing cooperatively with them.
+Just imagine, for a moment, what coöperism would look like: a world where
+people cooperate in all dimensions of consumption, work, housing, aid, and sup-
+port, regardless of race or ethnicity as well as gender, sexuality, poverty, or class.
+This would be a world without racial segregation and deep inequality in housing
+and education, where there would not be elite white suburban public schools and
+struggling Black urban public schools, where access to good health care would
+not be different in the South Bronx than on the Upper East Side, where the parks
+on the South Side of Chicago would look like Millennium Park in the Loop,
+where there would not be hollowed out Black neighborhoods or “million dollar
+blocks,”83 where urban public housing would not be predominantly for people
+of color, where our courts would not be filled almost exclusively with Black and
+Latinx defendants, where young Mexican and Asian men would not be relegated
+to driving e-bikes into the wee hours of the morning in subfreezing tempera-
+tures delivering Uber Eats to wealthy white college students and families, where
+young Mexican women would have other options than cleaning the homes of
+wealthy mostly white families for cash or manning the grocery checkout, where
+harc20954_1st_pp.indb 155 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+156 The Social Theory of Coöperism
+young Black men would be more likely to be employed than incarcerated,
+where Pakistanis and Haitians would not be driving cabs but sitting on corpo-
+rate boards, where all the most menial jobs in society would not be relegated to
+women and minorities. This would not be the same world that we live in today
+merely stripped of race and ethnicity. It would not be a society like ours today
+except that the color of our skins would be randomly distributed across occupa-
+tions, neighborhoods, classrooms, and professions.
+Coöperism would entail a different society from the punitive society we live
+in today. In that different society, what would harm consist of? Harm also would
+be completely different. Our values would be different, and so would our concep-
+tions of harm. Harm might mean not helping the person who is struggling and
+homeless. It might mean not finding work for the young man who is panhandling
+in front of the grocery store. It might mean not providing an apprenticeship to
+someone without work. It might mean not volunteering at a child-care center in
+order to help working mothers. Just imagine how different our notions of harm
+would be in a world that truly addressed relations of race and power. It is, in fact,
+practically unimaginable what society would value. Our values and conceptions
+of harm would be completely different.
+The task, then, must be to inquire what coöperism would look like and how
+that would affect our conception of harm. We need to address questions in
+reverse order.84 It is essential to start in the right place and ask the right question:
+What would cooperation look like? And what would harm amount to in coöper-
+ism. As Mariame Kaba writes in We Do This ’Til We Free Us, the proper inquiry
+must begin “not with the question ‘What do we have now, and how can we make
+it better?’ Instead, let’s ask, ‘What can we imagine for ourselves and the world?’ If
+we do that, then boundless possibilities of a more just world awaits us.”85
+Coöperism, by contrast to other progressive efforts, contains the only seeds
+of a just transformation of society. Reformist achievements, such as the passage
+and survival of Obamacare, tend to be compromised policies that satisfy few and
+achieve little.86 It is important to recognize this and to work toward a coöperist
+future. Instead of impeding the efforts, we need to work with and toward aboli-
+tion and a new society based on cooperation.
+As for the critiques from the left, they are simply outdated. It does not make
+sense to think of class as the principal contradiction and other social, racial, gen-
+der, and sexuality conflicts as the particular contradiction, as Žižek proposes. If
+anything, it makes more sense to conceptualize the movement for Black lives as
+harc20954_1st_pp.indb 156 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 157
+the contemporary instantiation of class struggle. As Barbara Ransby argues in
+her essay “The Class Politics of Black Lives Matter,” the movements for Black
+lives embrace demands for economic justice, rest on a conception of racial capi-
+talism, and seek to uplift the lives of the most marginalized populations.87 They
+represent the current embodiment of what would formerly have been called
+“class struggle,” even if they do not center the working class and especially not the
+white working class. Žižek may refer to class struggle as the only form of “pure”
+antagonism, or the principal antagonism, but today it is the challenge to the pun-
+ishment paradigm that represents the radical form of contradiction.
+In the end, the effort to imagine coöperism is an exercise in what Harsha
+Walia refers to, in the context of borders and migration, as an exercise in “world-
+making.”88 In arguing for a world without borders between nations, Walia draws
+on the Arendtian notion of worldmaking as a process of “homemaking”; she
+closes her discussion with a passage from Toni Morrison’s essay “Home” from the
+collection The House That Race Built:
+In this new space one can imagine safety without walls, can iterate difference
+that is prized but unprivileged, and can conceive of a third, if you will pardon
+the expression, world ‘already made for me, both snug and wide open, with a
+doorway never needing to be closed.’ Home.89
+In an interview from 1976, Foucault said that “there can be no reform of the
+prison without the search for a new society.” He added that, when trying to imag-
+ine what punishment would look like in that new society, one should not ask
+what form of punishment would be “more gentle, acceptable, or efficient,” but
+instead raise a more fundamental and difficult question: “Can one in effect con-
+ceptualize a society in which power has no need for illegalities?”90 That is the
+proper place to start.
+SOME MODELS FOR THE PARADIGM OF COÖPERISM
+A new paradigm of a society based on cooperation is emerging, one that may lead
+us beyond the punitive society we now live in. This vision fundamentally changes
+the questions we ask. It reformulates the problems we must address. And it rep-
+resents the most promising path forward to address our current crises.
+harc20954_1st_pp.indb 157 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+158 The Social Theory of Coöperism
+One source of skepticism regarding cooperation is whether it would be pos-
+sible to imagine a society without punishment. Is it possible to imagine a large-
+scale society that does not punish as ours does? What role would there be for the
+enforcement of law in a world that is not marked by racial and ethnic hierarchy,
+by gender domination, by class conflict? What would be considered harmful and
+call for enforcement? What role would there be for punishment to address those
+new harms?
+There are no easy responses because so much of what we identify today as
+criminal activity is itself the product of systemic racism and sexism. Domestic
+violence is mostly gender violence that would not exist if there were more coop-
+eration and systemic sexism did not traverse our society. Much of the street polic-
+ing of drugs and minor disorder are the product of poverty and racism that, again,
+would not be the case if a cooperation paradigm governed. Even white-collar
+crimes—cornering markets, insider trading, consumer fraud—would not exist if
+we had a society based on cooperation, collaboration, and mutual respect.
+In other words, the conceptions of harms would be entirely different in a
+cooperative society that was not riven with racism and sexism; so would the defi-
+nitions of crimes and our conception of how to address norm violations. We
+would be living in a world of cooperation, respect, and dignity, of treating others
+as one would want to be treated oneself. Under those circumstances, we would
+not treat norm deviation by caging people in disgusting environments where they
+are more likely to get raped than educated. Even restorative justice would have
+to be reimagined because the notions of harm underlying restorative approaches
+would change so much.
+In fact, we would need to build beyond restorative justice, or reimagine it,
+because it remains today too wedded to the existing understandings of harm
+shaped by our current society. At present, restorative justice takes those concep-
+tions of harm as its starting point and seeks to include all the parties who have
+been affected by a crime, including the persons who claim to have been harmed,
+those who allegedly committed the harm, and often their respective families and
+communities, in a process of collective resolution that allows all parties to be
+heard, to be understood, and to participate in the formulation of a redress of
+the harm.91 In practice, restorative justice often involves conferencing methods
+that bring the parties together to discuss and find ways forward. Restorative
+justice, of course, comes in many variations and can also serve as an umbrella
+term to cover other innovative developments, such as therapeutic jurisprudence
+harc20954_1st_pp.indb 158 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 159
+or positive criminology.92 But most of these practices assume current definitions
+of crime and of harm. They have not yet been reimagined for a society without
+racism and sexism.
+Restorative justice tends to be a form of alternative dispute resolution within
+the existing criminal legal ordeal.93 It remains nested within the traditional
+framework of crime and punishment; it displaces punishment to a substantial
+degree but is consistent with punishment as an alternative. John Braithwaite, a
+proponent of restorative justice, recognizes this: “Basically, we should try restor-
+ative justice, perhaps again and again; when restorative justice fails, try deter-
+rence, and when deterrence fails, try incapacitation.”94 In this sense, restorative
+justice is best understood as a form of punishment that traces back to a form
+of compensation as punishment.95 It is an effort at compensation and making
+whole, but it assumes current ideas of harm. This approach is too limited to the
+crime-and-punishment model.
+Instead, we might look for guidance in the new experiments in transformative
+justice. Mariame Kaba discusses transformative justice principles at length in her
+2021 book, and she and others, such as Allegra McLeod, detail some of its prac-
+tices and experiments.96 Kaba describes the ambition of transformative justice as
+the effort to address violence and harm in such a way as not to increase violence
+or harm (terms that we would need to reexamine in a just world). “It’s asking us
+to respond in ways that don’t rely on the state or social services,” Kaba explains.
+“Transformative justice is militantly against the dichotomies between victims
+and perpetrators, because the world is more complex than that.”97
+One such experiment involved the response to an allegation of sexual assault
+where both the person victimized and the person accused were members of the
+Chicago organization Black Youth Project 100 (BYP100). In that case, the orga-
+nization deliberately did not turn to the police or criminal law enforcement and
+instead created a process of its own to address the allegation, convening what
+it called a “community accountability process,” or what McLeod calls “a trans-
+formative justice process to come to terms with the harm done.”98 It began with
+about fifteen months’ worth of work, each party working with a separate sup-
+port team, and then led to a convening.99 The process brought together both
+parties, along with transformative justice facilitators, in an effort to address the
+harm alleged without implicating law enforcement. McLeod refers to this, citing
+Harsha Walia, as an effort “to realize critical commitments at a local scale as a
+politics of prefiguration in which participants seek through their own choices
+harc20954_1st_pp.indb 159 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+160 The Social Theory of Coöperism
+and relationships to prefigure the sort of world in which they wish to live.”100 The
+organization produced, in addition, new ways of dealing with future incidents,
+including creating a Healing and Safety Council that would convene whenever
+there was an allegation of misconduct. According to McLeod, “the Council is
+composed of two squads, one focused on prevention and one on intervention,
+and both collaborate to respond to harm in the organization’s chapters and to
+foster a culture of ‘healing praxis.’ ” They also created a manual, Stay Woke Stay
+Whole: Black Activist Manual, to help prevent and address future harms.101
+Kaba and McLeod elsewhere detail other alternative efforts at achieving
+justice outside the criminal law framework in response to police brutality and
+torture.102 In Chicago, in the wake of serial torture by the infamous police com-
+mander Jon Burge, local activists put in place efforts to document and memori-
+alize the incidents, to bear witness to history. They created testimonial evidence
+and records of what happened, sharing these with international organizations
+dedicated to human rights, including the Inter-American Commission for
+Human Rights and the United Nations Committee Against Torture. Activists
+created the Chicago Torture Justice Memorials (CTJM) project to memorialize
+the police torture. They also sought reparations through legislation and the cre-
+ation of institutions to “offer rehabilitative support and treatment, community
+education, and vocational assistance.”103 McLeod describes other initiatives in
+Chicago, New York, and elsewhere to take over traditional police spaces (like
+the neighborhood adjacent to the Chicago Police Department’s infamous Homan
+Square headquarters) and replace them with the kinds of institutions and prac-
+tices associated with abolition democracy, such as public educational workshops
+and clothing and meal programs.104
+There are numerous ongoing experiments with transformative justice, ranging
+from the narrow area of intimate-partner violence to broader violence-interrup-
+tion programs.105 A collective of organizers and critical thinkers, including Alisa
+Bierria, Hyejin Shim, Mariame Kaba, and Stacy Suh, have developed a model called
+“Survived and Punished” that seeks to protect survivors of domestic and sexual vio-
+lence from the criminal law and includes a mutual-aid manual that treats “Survivor
+Defense as Abolitionist Praxis.”106 This forms part of a broader effort to acknowl-
+edge harm and victimization and the needs of survivors without deflecting the
+call for abolition.107 A number of violence-interruption programs have been devel-
+oped as well in cities around the country. The model, originally conceived on the
+basis of a public-health paradigm, has evolved through community engagement.
+harc20954_1st_pp.indb 160 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+The Social Theory of Coöperism 161
+Violence-interrupter programs now locate their interventions within the broader
+context of community mobilization, public education campaigns, and the provi-
+sion of services such as GED programs, counseling, and health treatment.108 These
+and other programs seek forms of reconciliation and repair.109
+THE END OF THE PUNISHMENT PARADIGM
+Challenging the link between crime and punishment pushes us to realize the
+larger implications of a world of mutual respect and cooperation, one that would
+fundamentally change the way we think about harm, victimization, crime, and
+how to address deviations from the norms. An ethic of care and cooperation
+would displace the punitive paradigm. It would render obsolete the notion of
+enforcing the criminal law. Instead of punishment, there would be a panoply of
+measures of care, well-being, education, and support to help individuals work
+through problems. These measures would take us beyond punishment practices.
+In a society based on coöperism, when someone deviates from the norm, oth-
+ers would likely interpret that as a call for care and assistance. In the same way
+a partner or parent tries to understand what their loved one is going through
+and what their needs are, people in a cooperative society would try to under-
+stand what brought about the norm violation and how best to address the needs.
+They would try to help the person understand their actions and what they need
+to do in order to try to achieve their goals. When our loved ones lash out, we
+often rightly say that they may be calling out for attention. I believe that is how
+we would treat people when they engage in norm-violating behavior under con-
+ditions of cooperation and equity, as if they were essentially asking for help,
+knowingly or unwittingly. People would intervene to help the individual under-
+stand their situation better, work with the individual to identify the problems
+that led them to act that way, and work to address those problems. We would be
+committed to working with people to put their lives back on track. Naturally,
+we would do the same with the persons affected by those actions. We would try
+to help everyone heal. This pushes hard on the definition of crime. We know
+that legal definitions of violence and violent crime are themselves a function of
+political choices.110 But to push this one step further, we may need to get rid of
+the conception of crime entirely: the concept of crime may be the wrong way to
+understand norm deviation in a cooperative, egalitarian, respectful society.
+harc20954_1st_pp.indb 161 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+162 The Social Theory of Coöperism
+What becomes clear from all this is that it takes an incredible investment in
+and commitment to mutual care, support, enrichment, and cooperation to enact
+a society of coöperism. We would all need to dedicate parts of our days, every
+day, to serving and helping others. It would be like participating in a cooperative,
+where we each have to give part of our time and energy each day to taking care
+of others and serving others. In a caring and cooperative society, we would need
+to invest in one another, care for one another, and treat one another with equal
+humanity and dignity. This would certainly call for what Seyla Benhabib refers to
+as a foundational social transformation. Those have occurred. With Hobbes and
+modern political theory, Benhabib reminds us, “A momentous transformation in
+the Western philosophical tradition took place when ‘the good life’ was no longer
+viewed as the life of doing ‘just and noble deeds,’ as it was for Aristotle, or as the
+life of Christian virtue and devotion, as it was for St. Augustine, but rather, when
+the good life became defined as the life of individual satisfaction and consump-
+tion.”111 Benhabib is referring to the way modern science and political theory
+gave rise to a new, more individualistic way of thinking. A new view of science
+allowed moderns to reduce human experience to fear of death and then justify
+an authoritarian political regime. In a similar way, the life of care, mutuality, and
+cooperation would require a foundational change in political vision and action,
+in our very way of being.
+In many societies today, people have embraced a logic of punishment, a form
+of individualism in which the principal role of government is to punish. Coöper-
+ism would displace that with a logic of cooperation. It aims to transcend our
+punitive society and to put in its place a social order marked by cooperative
+arrangements throughout every aspect of our lives, including education, training,
+work, apprenticeship, housing, food, health, finance, leisure, aid, and support.
+Coöperism can displace the punishment paradigm and replace it with a cooper-
+ation paradigm.
+harc20954_1st_pp.indb 162 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+chapter 8
+Cooperation Democracy
+M
+ore democracies are failing today and veering into autocracy than
+at any point in the past century. According to the Varieties of
+Democracy Institute at the University of Gothenburg in Sweden,
+the number of liberal democracies in the world is steadily declining. It now stands
+at thirty-four nations representing about 13 percent of the global population,
+the lowest level in over a quarter century, down from forty-two countries at its
+peak in 2012. The number of closed autocracies has increased from twenty-five to
+thirty since 2011, now representing 26 percent of the world’s population. Coun-
+tries with electoral autocracies represent 44 percent of the world’s population, or
+about 3.4 billion people. In addition, toxic polarization is rising around the globe.
+Toxic polarization—defined as declining respect for counterarguments, opposi-
+tion, and pluralism—got more severe in thirty-two countries in 2021, compared
+to only five countries in 2011.1
+We are experiencing a democratic crisis around the world. In the United States,
+the situation is critical. When Donald Trump was elected in 2016, many Demo-
+crats believed that the Russians had helped get him elected and questioned the
+legitimacy of his mandate. Four years later, when Joe Biden was elected, Trump,
+his advisers, and a mass of his supporters challenged the peaceful transition of
+the presidency. The January 6th insurrection was an armed and violent uprising
+intended to keep Trump in power despite his electoral loss. On the right, many
+Republicans continue to believe Trump’s unfounded claims of a stolen election.
+There is growing anxiety about the fragility of American democracy. The New
+York Times carried an extensive and probing series of opinion pieces following
+January 6th, including essays by former President Jimmy Carter (“I Fear for Our
+harc20954_1st_pp.indb 186 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 187
+Democracy”), my colleague and friend Jedediah Britton-Purdy (“The Republican
+Party Is Succeeding Because We Are Not a True Democracy”), well-known polit-
+ical essayists Rebecca Solnit and Francis Fukuyama, and other thinkers across
+the political spectrum, decrying the threat to democracy.2 The editorial board
+of the Times ran its own opinion piece under the title “Every Day Is Jan. 6 Now,”
+arguing that the country faces an ongoing daily threat to its democratic institu-
+tions: “the Republic faces an existential threat from a movement that is openly
+contemptuous of democracy and has shown that it is willing to use violence to
+achieve its ends,” the board wrote. “No self-governing society can survive such a
+threat by denying that it exists.”3 Many argued for the urgency of strengthening
+existing democratic institutions. “The sooner we do,” the New York Times editorial
+board concluded, “the sooner we might hope to salvage a democracy that is in
+grave danger.”4
+Some of the rhetoric was overblown, and some of it is misleading. The United
+States is not a 250-year-old democracy at the brink of failure. It is a young
+and fledgling democracy that just barely withstood a stress test in 2021. The
+United States was founded as a republic, to be exact a representative aristocracy,
+not a democracy. It was not a democracy during the antebellum period when
+Black people were enslaved and Indigenous peoples were displaced and killed. It
+was not a democracy before women acquired national suffrage in 1920 or prior
+to the Voting Rights Act of 1965 that sought to lift Jim Crow restrictions on
+Black voters. For most of its history, the United States has been a representative
+republic with limited franchise, not a democracy. And still today, with voter sup-
+pression, political gerrymandering, unlimited corporate spending on elections,
+low (55–62 percent) voter turnout in the most important national presidential
+elections, the United States is a young, limping democracy at best. The problem
+is not just the counter-majoritarian dimensions of American democratic institu-
+tions, such as the Electoral College and the U.S. Senate, which are not democrat-
+ically representative and undermine fair and equal democratic representation;
+there are many ongoing challenges to full and fair elections and one-person-one-
+vote principles in the United States.
+But even if we set all that aside, there remains a problem with all the discourse
+about the threats to democracy, a problem that is reflected in the recent global
+findings by the Varieties of Democracy Institute, namely that we often focus too
+much on the form of democracy and not sufficiently on the quality of democracy.
+harc20954_1st_pp.indb 187 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+188 Cooperation Democracy
+Electoral democracy is not something to be valued in and of itself. Democratic
+elections are not a be-all and end-all, especially if they lead to authoritarian forms
+of governing. There must be certain substantive limits to the notion of democracy,
+above and beyond the procedural definitions.
+THE PARADOX OF DEMOCRATIC THEORY
+This raises a central paradox in democratic theory regarding the relationship
+between the procedural and substantive dimensions of democracies. Democracy
+is generally defined along procedural lines. It is a political decision-making process
+that privileges the general public, rather than an elite aristocratic group or a single
+autocrat. General definitions of democracy are heavily weighted toward the pro-
+cedural dimension. For a political system to be considered minimally democratic
+(what some call an electoral democracy), there needs to be at a minimum fair
+and open elections with universal suffrage and some freedom of expression and
+assembly. In defining liberal democracy, most people add to fair and open elec-
+tions a respect for individual rights, functioning courts, the rule of law, and some
+constraints on the executive.5 But the root and core of all definitions of democracy
+is fair elections open to all citizens. The form that a democracy can take may vary,
+from representational democracy to direct democracy, but throughout all defini-
+tions of democracy, there is a strong procedural element. We identify a democracy
+when we believe that the people have a say in political decisions or that all citizens
+participate in the decision-making process through fair and open elections.
+This creates a tension between form and substance: the trouble is that even when
+there are fair and open elections, and other guarantees such as a free press, the out-
+comes of democratic decision making are not always worthy. Democratic processes
+can produce discrimination against minorities, despite counter-majoritarian safe-
+guards. In the United States, for instance, the racially discriminatory and expo-
+nential increase in incarceration discussed in chapter 6, resulting in one in nine, or
+more than 10 percent, of African-American men between the ages of twenty and
+thirty-four being caged behind bars, occurred through a democratic process involv-
+ing democratically elected Democratic and Republican administrations. None of
+the safeguards prevents the possibility that a democracy may reach terrible deci-
+sions.6 They can sometimes lead to very nondemocratic outcomes. In fact, they
+can even result in the election of authoritarian leaders. Even high-participation
+harc20954_1st_pp.indb 188 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 189
+democracy may not prevent dreadful outcomes.7 At those moments, the tension
+between form and substance is at its most acute. Most defenders of democracy will
+defend democracy up to a point, but not where the outcomes are unacceptable.
+That’s when substantive checks on democratic decision making become necessary.
+This is where the notion of coöperist democracy, or “cooperation democracy”
+to make it easier on the tongue, is so powerful and helpful. The point is, not all
+democracies are worth fighting for, only those that are imbued with coöperism.
+Cooperation democracy can define substantive limits to democratic theory along
+the lines of coöperism, understood as the practices and institutions that promote
+the core values and principles of cooperation and extend them throughout every
+aspect of our lives.
+Anyone invested in politics is not going to settle for a democracy that func-
+tions formally but legitimately goes off the rails. We do not want a democracy
+that merely functions; we want a democracy that functions well. The difficulty
+is how to identify a substantive check that does not simply impose outcomes
+nondemocratically—in other words, how to place substantive limits on a democ-
+racy that do not end up being undemocratic. Cooperation democracy does that by
+extending the practice of genuine participatory democracy and one-person-one-
+vote principles throughout every aspect of our lives, including work, consumption,
+production, and mutual support. Cooperation democracy is not undemocratic.
+To the contrary, it enshrines as its first core value and principle full participatory
+democracy across the board. In other words, it is a substantive limit to democratic
+theory that has at its heart a principle of democracy.
+Cooperation democracy injects a substantive democratic limiting principle
+right into the center of democratic theory. It privileges only those democratic
+regimes that promote concentrated forms of cooperation: those that place all cit-
+izens on an equal footing, that give everyone a full participatory role in all aspects
+of their lives, that promote the values and principles of self-determination, sol-
+idarity, sustainability, and mutualism at the heart of coöperism. What coopera-
+tion democracy offers, then, is a vision of democracy that is fully democratic both
+procedurally and substantively, tying the notion of democratic decision making
+to institutions and practices that truly make possible one-person-one-vote, equal
+citizenship, solidarity, and sustainability. The ambition is to put all the people,
+including those who have traditionally been disadvantaged, in a position such
+that they can and do fully exercise their democratic rights. Cooperation democ-
+racy, I would argue, is a truly democratic ideal worth fighting for.
+harc20954_1st_pp.indb 189 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+190 Cooperation Democracy
+THE RELATIONSHIP TO ABOLITION DEMOCRACY
+There are precursors to the notion of cooperation democracy. In the early twen-
+tieth century, you will recall, the Cooperative League of the United States of
+America spoke of creating a “Cooperative Commonwealth.”8 Recall also that
+James Peter Warbasse, discussed in chapter 5, titled his 1923 manifesto Co-operative
+Democracy.9 There have been many proposals to anchor democracy in cooperation.
+Perhaps one of the most relevant here is W. E. B. Du Bois’s notion of “abolition
+democracy,” at least as it is interpreted by Angela Davis, Eduardo Mendieta, and
+others. Let me focus on this last concept.
+The term abolition democracy is a complicated one in Du Bois’s writings, because
+he uses it in several different ways. I will use it here to speak specifically about a
+notion of democracy that is “abolitionist,” in the sense that it seeks to get rid of
+practices and institutions like slavery and its afterlife, including convict leasing,
+plantation prisons, and racialized mass incarceration, that undermine the equal
+humanity of all citizens. It seeks to put in place instead institutions that could
+found a society based on equality and democratic participation. As Robin D.
+G. Kelley notes, there were other precursors to the idea of abolition democracy,
+including T. Thomas Fortune’s book Black and White: Land, Labor, and Politics in
+the South, in which he specifically called on the South to “spend less money on
+penitentiaries and more money on schools.” But for reasons that Kelley and Seth
+Moglen detail, including Fortune’s complex alliance with Booker T. Washington,
+the focus has remained on Du Bois, who coined the term abolition democracy.10
+W. E. B. Du Bois on Abolition Democracy
+In Black Reconstruction in America, Du Bois argued that the reconstructive work
+necessary to achieve the ambition of a racially just society, begun with Emanci-
+pation, was abandoned when Reconstruction was brutally aborted in 1877. As a
+result, the abolition of slavery was accomplished only in the narrow sense that
+chattel slavery was ended, but the true ambition, the creation of a racially just
+society, was never realized. It required the construction of new institutions, new
+practices, and new social relations that would have afforded freed Black persons
+the economic, political, and social capital to live as equal members of society.
+That ambition, as Du Bois documents in Black Reconstruction, was thwarted by
+White resistance and terror during the decade following the end of the Civil War
+harc20954_1st_pp.indb 190 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 191
+and ultimately abandoned with the political compromise of 1876–77, which
+resulted in the negotiated election of President Rutherford B. Hayes and the
+withdrawal of federal troops from the South. It was thwarted by a reign of White
+terrorism, accentuated in, but not limited to, the South. After the Civil War, as
+Du Bois wrote, the South “looked backward toward slavery,” with the passage of
+Black Codes and the rise of the Klan.11 Mississippi, for instance, “simply reenacted
+her slave code and made it operative so far as punishments were concerned.”12 The
+period after the war was truly a reign of terror: the formerly enslaved were held
+back by brute force, terrorized, killed, and dispossessed. As Du Bois observed,
+“war may go on more secretly, more spasmodically, and yet as truly as before the
+peace. This was the case in the South after Lee’s surrender.”13
+In the more aspirational passages of the book, Du Bois offered a vision of what
+a racially just society might look like and of the work necessary to achieve a just
+society. He placed this under the name abolition democracy: “Abolition-democracy
+demands for Negroes physical freedom, civil rights, economic opportunity and
+education and the right to vote, as a matter of sheer human justice and right.”14
+It required establishing new institutions in society that would pave the way for
+equality. For Du Bois, it meant public education, jobs, and equal civil and politi-
+cal rights. These are the more visionary passages of Du Bois’s book. In these aspi-
+rational passages, abolition democracy is described as an enlightened, righteous,
+just ambition, “based on freedom, intelligence and power for all men.”15
+In other passages, though, the notion of abolition democracy is tethered more
+to a historical interest analysis. In those passages, it is portrayed as an economically
+motivated, self-interested project of small capitalists and the labor movement,
+united in faith in individualism, on the one hand, and on the other hand, Northern
+industrialist capitalists who were opposed to slavery for profit motives and wanted
+to enlist Black labor for purposes of industrialization.16 My colleague Derecka Pur-
+nell does a brilliant job of distinguishing between these two historical conceptions
+of abolition democracy in Du Bois’s writings in her book Becoming Abolitionists.17
+There are, then, in Du Bois’s text several different battling conceptions of abo-
+lition democracy: the first, a more forward looking and aspirational ideal;18 the
+other two more historical, at times the product of an alliance between laborers
+and small capitalists, at other times reflecting the interests of Northern industri-
+alists, both of them far closer to Derrick Bell’s theory of interest convergence.19
+These different conceptions of abolition democracy correspond, in effect, to an
+ideal vision for the future, on the one hand, and to the historical reality of what
+blocked it, on the other.20 As Du Bois documents, many in the North were torn
+harc20954_1st_pp.indb 191 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+192 Cooperation Democracy
+between them: “the one was abolition-democracy based on freedom, intelligence
+and power for all men; the other was industry for private profit directed by an
+autocracy determined at any price to amass wealth and power. The uncompre-
+hending resistance of the South, and the pressure of black folk, made these two
+thoughts uneasy and temporary allies.”21
+The first, the ideal vision, was tied to the discourse of staunch abolitionists,
+such as Senator Charles Sumner and his inspiring speeches in 1866 that, in
+Du Bois’s words, “laid down a Magna Charta of democracy in America.”22 It
+led to a moment of glory for the ideal of abolition democracy during Recon-
+struction: “Here for the first time there was established between the white
+and black of this country a contact on terms of essential social equality and
+mutual respect . . . on the whole, the result was one of the most astonishing
+successes in new and sudden human contacts.” This ideal offered the possibil-
+ity of “endowed Negro education, legal civil rights, and eventually even votes
+for Negroes to offset the Southern threat of economic attack.” It was tied to a
+vision of federal government intervention through civil rather than military
+means. “The abolition-democracy,” Du Bois explained, “advocated Federal con-
+trol to guide and direct the rise of the Negro, but they desired this control to
+be civil rather than military.”23
+The second, the historical reality, was associated at times with a momentary
+alliance of smaller capitalists and workers, aiming to bring Black persons into the
+workforce and to protect against Southern backlash. “The abolition-democracy
+was the liberal movement among both laborers and small capitalists,” Du Bois
+explained, “who united in the American Assumption [the myth of individual-
+ism and the self-made man], but saw the danger of slavery to both capital and
+labor.” Along these lines, there was a historical potential, ultimately unrealized,
+for labor to unite. As Du Bois suggested, this historical articulation of abolition
+democracy “pushed towards the conception of a dictatorship of labor, although
+few of its advocates wholly grasped the fact that this necessarily involved dicta-
+torship by labor over capital and industry.”24 At other times, Du Bois describes
+the historical discourse of abolition democracy as Northern industrialists oppos-
+ing slavery with the ambition of tapping a new source of labor, Black workers, for
+their own benefit up North.
+It is possible to untangle these battling conceptions of abolition democracy,
+as the philosopher Robert Gooding-Williams does, by distinguishing between
+an ideal of abolition democracy, on the one hand, and the actual historical
+harc20954_1st_pp.indb 192 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 193
+movements for abolition democracy, on the other.25 This leaves us, then, with the
+possibility of an ideal vision of abolition democracy different from its histori-
+cal manifestations. Gooding-Williams reminds us of what ultimately emerged in
+American history: rather than abolition democracy, the country veered toward
+what Du Bois called democratic despotism and a new imperialism.26 Du Bois did
+not sugarcoat the situation; he called it out in no uncertain terms.27 He wrote:
+“[Northern industry] began in 1876 an exploitation which was built on much the
+same sort of slavery which it helped to overthrow in 1863. It murdered democracy
+in the United States so completely that the world does not recognize its corpse.”28
+Angela Davis on Abolition Democracy
+Angela Davis built on the first, ideal vision of abolition democracy in Du Bois’s
+work and turned it into a broader ambition to abolish not just the direct legacies
+of slavery but the punitive society more broadly. Her vision was tied to a trans-
+formation of our political economy, one with more of a socialist ambition. There
+are several steps to her argument.
+To begin with, Davis and members of Critical Resistance tied the idea of abo-
+lition democracy to the larger goal of abolishing what they called the “prison
+industrial complex” (PIC), a term intended to highlight the way the prison
+(standing in for the broader punitive state) was inextricably linked to industri-
+alized advanced capitalism. As with slavery, simply reforming or even abolishing
+the prison, Davis explained, would only result in new institutions of systemic
+racism. Prison abolition had to be accompanied by “the creation of an array of
+social institutions that would begin to solve the social problems that set people
+on the track to prison.”29 As Davis argues in her book Are Prisons Obsolete?, these
+new institutions would not replicate the prison, using similar practices and insti-
+tutions, but replace it:
+We would not be looking for prisonlike substitutes for the prison, such as
+house arrest safeguarded by electronic surveillance bracelets. Rather, positing
+decarceration as our overarching strategy, we would try to envision a contin-
+uum of alternatives to imprisonment—demilitarization of schools, revitaliza-
+tion of education at all levels, a health system that provides free physical and
+mental care to all, and a justice system based on reparation and reconciliation
+rather than retribution and vengeance.30
+harc20954_1st_pp.indb 193 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+194 Cooperation Democracy
+These alternatives include “job and living wage programs, alternatives to the dis-
+established welfare program, community-based recreation, and many more.”31 As
+Dorothy Roberts argues as well, in her 2007 article “Constructing a Criminal
+Justice System Free of Racial Bias: An Abolitionist Framework”:
+Abolishing these institutions [mass incarceration, capital punishment, and
+police terror] should be accompanied by a redirection of criminal justice
+spending to rebuild the neighborhoods that they have devastated. There should
+be a massive infusion of resources to poor and low-income neighborhoods to
+help residents build local institutions, support social networks, and create
+social citizenship.32
+Davis was always clear that her vision for a just society, like Du Bois’s, requires
+economic and institutional transformation, not just abolition.33 It requires, in the
+words of Ruth Wilson Gilmore, “campaigns that both create solid organizations and
+foster robust coalitions among already existing organizations.”34 Derecka Purnell and
+others continue to emphasize this today: the struggle for abolition is part of a larger
+struggle for “self-determination, an end to capitalism, the return of Indigenous land,
+the redistribution of land for newly freed Black people, and for autonomous regions
+where communities could test their independence.”35 It also to address the crises of
+ableism, transphobia, and sexual violence through an abolitionist paradigm.36
+Many abolitionists, including Davis, Purnell, Gilmore, and others, are ori-
+ented more toward socialist visions. Purnell writes, “For me and many of my
+peers, our abolitionist fight and future is committed to decolonization, disability
+justice, Earth justice, and socialism.”37 Davis explains:
+I’m convinced that the ultimate eradication of racism is going to require us
+to move toward a more socialist organization of our economies, of our other
+institutions. I think we have a long way to go before we can begin to talk
+about an economic system that is not based on exploitation and the super
+exploitation of Black people, Latinx people, other racialized populations. But
+I do think that we now have the conceptual means to engage in discussions—
+popular discussions—about capitalism. Occupy, it was new language. The
+notion of the prison industrial complex requires us to understand the global-
+ization of capitalism. Anticapitalist consciousness helps us to understand the
+predicament of immigrants, who are barred from the US by the wall that has
+harc20954_1st_pp.indb 194 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 195
+been created by the current occupant. These conditions have been created by
+global capitalism. This is a period during which we need to begin a process of
+popular education, which will allow people to understand the interconnec-
+tions of racism, hetero-patriarchy, capitalism.38
+The reason, for Davis, is clear: it is possible to abolish one specific form of
+property (chattel slavery or prison labor), but without transforming property
+relations writ large, racial oppression will be reestablished. If the relations of pro-
+duction and exchange are not transformed, the same forms of racial exploitation
+will take place.
+New Abolitionism and an Ethic of Care
+The swelling abolitionist movement, discussed in chapter 6, has taken the baton,
+drawing in part on Du Bois’s and Davis’s discussion of abolition democracy, arguing
+for the abolition of the police, prisons, juvenile detention facilities, immigration
+detention, and border policing and proposing new forms of cooperation instead.39
+It is the culmination of a long historical trajectory dating back to the first aboli-
+tionist movements and including, more recently, liberation movements from the
+1960s, prison revolts from the 1970s, and the founding in the late 1980s and 1990s
+of Critical Resistance by Angela Davis, Rose Braz, Rachel Herzing, and others.40
+This second wave of abolitionism targets not only the prison and police but, more
+broadly, the social and economic structures that legitimize prisons and produce a
+punitive society.41 Its ambition, in the words of Fred Moten and Stefano Harney, is
+“not so much the abolition of prisons, but the abolition of a society that could have
+prisons, that could have slavery, that could have the wage, and therefore not aboli-
+tion as the elimination of anything but abolition as the founding of a new society.”42
+In their book Abolition. Feminism. Now., Angela Davis, Gina Dent, Erica Meiners,
+and Beth Richie emphasize how their vision is inextricably linked to antiracism
+and anticapitalism and, in that sense, is tied to the longer arc of Black feminism
+that goes back to the Combahee River Collective statement of 1977.43 They embrace
+a robust conception of abolition that is not limited to the negative task of abolish-
+ing certain institutions but also includes the positive task of reconstruction. At the
+same time, they highlight the need to assure the safety of women and nonbinary,
+queer, and transgender persons from violence and harm. Abolitionist feminism
+underscores the dual tasks of ensuring the welfare and safety of women and others
+harc20954_1st_pp.indb 195 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+196 Cooperation Democracy
+harmed by patriarchy while, at the same time, not reverting to the punitive mecha-
+nisms of the state. As they explain, the struggle to end violence against women took
+on a carceral turn toward criminal law enforcement (mandatory arrest and no-drop
+policies, for instance) during the latter part of the twentieth century. Abolitionist
+feminist activism aims to end violence against women without recourse to the
+police or prisons, to find a different paradigm than the criminal justice system as a
+way to end violence against women. It embraces instead movements and organiza-
+tions like INCITE! and others that oppose carceral feminism. This coming together
+of antiviolence and anticarceral creates a unique form of activism that is inextri-
+cably linked to a broader anticapitalist effort. This comes through, for instance,
+in the authors’ criticism of Michelle Alexander and Ava DuVernay, in which they
+emphasize that the problems of racialized mass incarceration cannot be solved “by
+conventional and domestic civil rights activism” but will necessarily entail “disturb-
+ing larger global frameworks of power such as capitalism and heteropatriarchy.”44
+In its most robust expressions, the new abolitionist movement advocates for a
+society based on an ethic of care, mutual aid, and cooperation. Many of the prac-
+titioners place care at the core of their bold and audacious imaginations about
+a world without race or class oppression. They are not alone. A growing body of
+theory and practice of care has built on the foundations of the idea of an “ethic
+of care” developed in the works of Carol Gilligan, Nel Noddings, and others in
+the 1980s, in Joan Tronto’s pathbreaking book Caring Democracy, and in other
+engagements with the politics of care, including The Care Manifesto of the Care
+Collective.45 These ideals are tied to community building, social transformation,
+solidarity, and love.46 Dean Spade speaks about “scaling up” mutual-aid work “to
+a point where everyone has what they need.”47 Bryan Stevenson focuses attention
+on the relationship among care, health, and well-being. In an interview on “How
+America Can Heal,” Stevenson remarks: “We’re going to have to talk about end-
+ing crime in a meaningful way and that’s not more police, and more prisons, and
+more punishment. It is actually interventions rooted in care [and] a belief in what
+can happen when people recover from the things that have burdened them.”48
+Patrisse Cullors adds:
+Abolition is about how we treat each other. It is about how we show up in
+relationships. Abolition is about how we respond to harm caused and how
+we respond when we cause harm. . . . We need to be committed to building a
+culture that is rooted in care, dignity, and accountability.49
+harc20954_1st_pp.indb 196 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 197
+Cooperation is also at the heart of it, as Mariame Kaba suggests in We Do This ’Til
+We Free Us:
+People like me who want to abolish prisons and police, however, have a vision
+of a different society, built on cooperation instead of individualism, on mutual
+aid instead of self-preservation. What would the country look like if it had
+billions of extra dollars to spend on housing, food and education for all? This
+change in society wouldn’t happen immediately, but the protests show that
+many people are ready to embrace a different vision of safety and justice.50
+Somewhat like Du Bois’s ideal of abolition democracy, the new abolition-
+ists articulate a robust vision that has, on my reading, a tripartite structure. It
+includes, first, the negative task of abolishing the institutions of domination
+and punishment; second, the positive task of creating new social institutions for
+housing, jobs, food, health, and education; and third, the radical task of trans-
+forming our political economy. The third task can take different forms depend-
+ing on the author: social democratic, socialist, anarchist, left libertarian, or other.
+For Derecka Purnell, it takes the form of “robust movements for socialism, decol-
+onization, disability justice, and Earth justice” and an ideal of a socialist world
+where “everyone would have a decent place to live, enough food to eat, clean
+water to drink, clean air to breathe, medical attention when they need it, warm
+clothes for the cold weather, a good education, and the ability to develop to their
+fullest potential.”51 That is, indeed, an inspiring vision.
+TOWARD COOPERATION DEMOCRACY
+Cooperation democracy has a similar tripartite structure. In emphasizing par-
+ticipatory democracy and the core values and principles of cooperation, it puts
+the first emphasis on the third element: establishing an integrated theory and
+practice of coöperism. It starts by combining and leveraging the most promising
+forms of cooperatives, mutuals, nonprofits, mutual-aid projects, and other sup-
+port networks, those that most embody the core values and principles of cooper-
+ation and that, together, form an integrated political theory and practice. It then
+builds on that integrated economic regime to develop even more institutions
+that will displace the reality of tournament or state dirigisme. And, on the basis
+harc20954_1st_pp.indb 197 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+198 Cooperation Democracy
+of this political and economic framework, it makes possible the replacement of
+the punishment paradigm with a social theory and practice of cooperation, a
+cooperation paradigm. In a sense, it inverts the logic, but not the temporality, of
+the tripartite structure.
+With participatory democratic decision making as one of its core values and
+principles, cooperation democracy provides a limiting principle for democratic
+theory; in this way, it can save democratic theory. Cooperation democracy envisages
+a society in which people work together to create better work environments and
+training, education, and apprenticeships that make possible collaboration on an
+equal footing, an equal say in the management of enterprises, and respect for the
+working and living environment. Apprenticeships could form a key dimension,
+drawing on the Swiss apprenticeship model that has proven so successful as inte-
+grating younger people into the economy, but modifying it to promote the values
+and principles of cooperation.52 Nonprofits and community organizations can help
+create supportive living environments, greener spaces, and the values of solidarity
+and caring for others; worker and consumer cooperatives can promote the fifth
+core principle of cooperatives, education and training. Cooperation democracy
+aims for a society in which everyone will achieve their full potential.
+Coöperism places a limit on democracy. It has as its goal democratic participa-
+tion throughout all aspects of our lives. In the end, there is no need to support any
+form of majoritarian decision making. A majority vote, even with freedoms and
+counter-majoritarian checks, does not guarantee favorable outcomes. It does not
+ensure equity and nondiscrimination, and neither do the conventional counter-ma-
+joritarian devices like courts, especially when those are subject to political appoint-
+ment. What is urgently needed today is a limiting principle on democracy that is
+substantive, not just procedural. That is what coöperism provides and makes pos-
+sible. Cooperation democracy offers a new democratic theory worth fighting for.
+THE AGE OF COÖPERISM
+This is the dawning of an age of coöperism. A future of integrated cooperative
+projects and mutual collaborations is on the horizon. They will augur a more sus-
+tainable, equitable, democratic, and caring society that operates on the paradigm
+of cooperation. There is no need to wait to realize this ambition. There is no need
+to convince a majority of other people. No need to seize power, nor to dismantle
+harc20954_1st_pp.indb 198 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 199
+the state. Each of us can determine, or continue, to work together to concentrate,
+leverage, and compound cooperation and watch coöperism grow like a snowball
+rolling down a hill. The models of cooperation are at hand. The core values and
+principles are crystal clear. We can do this together now.
+Rather than conclude these reflections, which are intended instead to be an
+opening, I will attempt in these final pages to recap as succinctly as possible the
+ground covered in order to lay a clear foundation for the trajectory ahead.
+Global climate change has created, for humans, a form of extreme interdepen-
+dence that could never have been imagined before. Humans have become symbi-
+otic, codependent to an unprecedented degree. This is the result of a long history
+of unrestrained competition and extraction of wealth that took the form, in the
+recent past, of imperialism, colonialism, slavery, apartheid, and exploitation—in
+sum, unconscionable and unlimited grabs for resources. The effects on our natu-
+ral and social environment are now causing crises that are rippling through lib-
+eral democracies around the world. The dominant two responses are forms of
+either individualism or statism, but both are blocked and have become dead ends.
+Both require a supermajority to either shrink or empower the government. As
+the endless tug-of-war stretches on, polarization is rising; threats to democracy
+and the danger of civil strife are increasing. As the poles get further apart, there
+is more paralysis and gridlock: liberal democratic governments are increasingly
+unable to effectively pass or uphold their regulations, but their temporary man-
+dates and interventions impede those who are trying to go it alone.
+There is, however, another path that receives less attention because it does
+not depend on electoral politics. It is more promising, and realistic, because it
+draws on actually existing and successful practices—cooperatives, mutuals, credit
+unions, nonprofits, mutual aid. It can move forward on its own because it does
+not depend on widescale coordination, nor on the dismantling of the state. It is
+the path of cooperation based on the long-standing values and principles of coop-
+eratives: democratic participation, equity, solidarity, respect for others and the
+environment. It operates on well-established principles of one-person-one-vote,
+the equitable distribution of wealth, caring for the welfare of all stakeholders and
+the Earth, sustainability, mutual aid and assistance, sharing, and being attentive
+to communal well-being. It is the paradigm of people working together, cooper-
+ating, and extending the ideal of participatory democracy to all the other areas
+of their lives, from consumer cooperatives to credit unions, from worker cooper-
+atives to insurance mutuals, from nonprofits to mutual aid.
+harc20954_1st_pp.indb 199 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+200 Cooperation Democracy
+It turns out that these forms of cooperation surround us and that there is a
+growing movement toward cooperation in countries around the world: consum-
+ers who work together to coordinate consumption to support each other and
+the environment; producers who combine their harvest or farmers who share
+their equipment; workers who get together to form an owner-operated cooper-
+ative and share in the equitable distribution of their labor; residents who come
+together to comanage their living quarters and conditions; educators or lawyers
+who get together to work for the public interest in nonprofits and community
+organizations; citizens around the world who engage in mutual aid in times of
+crises. These forms of cooperation are flourishing in all corners of the world
+based on a unique logic, a logic of democratic participation and attention to the
+well-being of others and the environment.
+The theory of coöperism builds on this momentum. It seeks to extend these
+forms of cooperation more widely, on the understanding that all forms of coop-
+eration are beneficial but, even more, to concentrate and leverage the instances of
+cooperation that are most true to the core values and principles. Not all instances
+of cooperation are equally effective in addressing the global climate crisis and the
+other crises humans face, including growing inequalities within societies and threats
+to democracy. Some cooperative enterprises are not sufficiently attentive to worker
+welfare and may oppose worker unionization. Some ESOPs, community groups,
+and nonprofits retain hierarchical structures and management. Some retail coop-
+eratives remain too focused on conventional profit motives. The ubiquity of coop-
+erative enterprises demonstrates the real possibility of extending cooperation, but
+some instantiations of cooperation could be privileged and reinforced over others.
+Coöperism is, first, a political theory and practice grounded in deliberate
+choice in the face of our newfound interdependence. Coöperism identifies and
+then integrates, leverages, and compounds the most promising cooperative ini-
+tiatives. It seeks to distill the power of cooperation, the power that is generated
+by people working together, by the fact that the whole is greater than the sum
+of the parts. That greater element is precisely what I have called coöpower. The
+core idea of coöperism is to deploy and leverage that coöpower through forms
+of combination: to combine cooperation so that, for instance, worker coopera-
+tive distribute through consumer cooperatives; to leverage cooperation so that
+members of a worker cooperative, for example, obtain the credit they need to
+join the cooperative from a credit union, or get insurance from a mutual; to con-
+centrate cooperation by doubling down on the core values and principles so that,
+harc20954_1st_pp.indb 200 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+Cooperation Democracy 201
+for instance, the respect for all stakeholders extends further to all suppliers in the
+chain. Coöperism takes the most promising forms of cooperation and integrates
+them into a coordinated framework that extends the political notion of dem-
+ocratic participation to all aspects of life and promotes respect for the human
+environment, care for human well-being, equity, and solidarity.
+Coöperism forms, second, an economic theory and practice that can displace
+existing economic regimes of dirigisme, what we conventionally call capitalism
+and communism (both misnomers). Capitalist economies, we were led to believe,
+were governed by the economic laws of capital: both the strongest proponents of
+capitalism (the free market economists of the Chicago School) and its staunchest
+opponents (Marxists and anarchists) held that capital had inherent traits that
+produced good (or bad) outcomes—that capital, in effect, has a force of its own.
+But capital does not exist as an autonomous thing. It is not alive. It is not gov-
+erned by natural laws. It is purely a creature of the human-made laws surrounding
+incorporation, taxation, corporate finance, bankruptcy, etc. It can be privileged
+or disfavored. The term communism is equally misleading. The valiant idea of
+living together in common and sharing means of production most often results
+in a centralized state apparatus that tends toward authoritarianism. The model
+may possibly work under certain conditions for a small commune, but it does not
+scale up well to the level of a large economy. Instead, it too produces a form of
+dirigisme. It is time to end our various experiments in dirigisme and embrace a
+new economic regime of coöperism.
+Coöperism provides, third, a social theory that would replace the punishment
+paradigm with a paradigm of cooperation. It proposes an alternative to the puni-
+tive society so pervasive in Western liberal democracies. Rather than leave people
+to their own devices and then punish them severely when they are accused of
+wrongdoing, coöperism begins by fostering education, job and skills training,
+mental health, counseling, and therapy through a deep investment in the core
+values of cooperation and a wide array of community nonprofit organizations,
+cooperatives, and mutual-aid projects.
+Coöperism is the most promising way to address our urgent crises today.
+Worker cooperatives are focused on the working environment, not just prof-
+itability. Harmful emissions and carbon footprints are not just an externality
+for them, as they are for a distant shareholder of a publicly traded corporation
+intent on maximizing profits. Those environmental consequences affect the liv-
+ing and working environment for workers. Farmer cooperatives better utilize
+harc20954_1st_pp.indb 201 05/12/22 10:12 AM
+
+© COLUMBIA UNIVERSITY PRESS
+202 Cooperation Democracy
+farm equipment and machinery, resulting in less consumption and waste, and
+a reduction of the carbon footprint of agriculture. Consumer cooperatives are
+oriented to servicing the needs of their members, including their health, welfare,
+and environment, and do not have as their goal, like many conventional stores,
+increased sales or consumption. The values and principles of cooperation place
+the environment at the heart of the enterprise.
+By drawing on the core values of cooperation and mutualism, on the coöpower
+generated by people working together, on the political, economic, and social the-
+ory and practice of coöperism, a new world of cooperation democracy is within
+our grasp. I have no doubt that when the modern history of humankind is writ-
+ten in the next century or thereafter—assuming we make the right choices on
+global climate change—it will be a story of the transformation from feudal coer-
+cion to capitalist competition to cooperation democracy.
+harc20954_1st_pp.indb 202 05/12/22 10:12 AM

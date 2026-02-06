@@ -1,0 +1,1282 @@
+Gary Becker, François Ewald, and Bernard Harcourt
+“BECKER AND FOUCAULT ON CRIME AND
+PUNISHMENT”
+A Conversation with Gary Becker, François Ewald,
+and Bernard Harcourt
+The Second Session
+The University of Chicago – May 15, 2013 1
+Bernard Harcourt: Welcome everyone to the second session.
+Last year, we met to discuss Gary Becker’s theory of human
+capital in conversation with, or in confrontation with, Michel
+Foucault’s reading of Becker’s theory and Foucault’s critique
+of neoliberalism. That discussion was located primarily in
+Foucault’s lecture of March 14, 1979, in his Collège de France
+lectures titled The Birth of Biopolitics.2
+In this second session, we will focus on Gary Becker’s
+1968 theory of crime and punishment3 and Foucault’s discus-
+sion of that work in the following lecture, which was delivered
+on March 21, 1979.4 We are going to use that exchange to
+5
+
+"Becker and Foucault on Crime and Punishment"
+explore the relationship between, on the one hand, Foucault’s
+writing on punishment (from Discipline and Punish5 in 1975
+through The Birth of Biopolitics in 1979) and, on the other
+hand, the economic theory of crime and punishment.
+We are dealing with two seminal texts in the field of twen-
+tieth century thought. Gary Becker’s 1968 article has been
+described by Judge Richard Posner, in his tracing of the history
+of the law and economics movement, as the origin or the “first
+shot”: Posner wrote, in 2001, that “If one year must be picked
+for the beginning of the [law and economics movement], it
+would be 1968.”6 Why? Because, Posner writes, “in 1968,
+Gary Becker published his article on crime, reviving and refin-
+ing Bentham,” and thereby demonstrating, in Posner’s words,
+“that no field of law could not be placed under the lens of
+economics with illuminating results.”7 As for Foucault’s work,
+Discipline and Punish, and his Collège de France lectures as
+well, those are perhaps the texts on punishment from the twen-
+tieth century that have had the greatest influence in the field
+and on Western contemporary theory.
+To start this exchange, then, I would like to turn first to
+François Ewald, who was present at the lectures, who was at the
+time Michel Foucault’s assistant at the Collège de France, and
+who was one of Foucault’s closest interlocutors.8 I should note,
+once again, that Gary Becker has read Foucault’s March 21st,
+1979 lecture, and he sent me an email—as he did last time
+before the first session—with some thoughts, noting that the
+lecture was interesting, and asking whether there is disagree-
+ment or not. In his own words, “I read the lecture, and it is
+interesting. Does he agree with the approach I take? Not clear,
+but he does not obviously disagree.”9
+6
+
+Gary Becker, François Ewald, and Bernard Harcourt
+With that, let me turn first, then, to François Ewald.
+François Ewald: Thank you, Bernard. Thank you, Professor
+Becker, for your time.
+I will make three remarks about Foucault’s views on your
+writings on crime and punishment. The first remark will be
+about the reason why Foucault was so interested by your work,
+especially with respect to penality. My second remark will be
+about insights that you, Professor Becker, might find—not so
+much in this particular lesson, but more broadly in Discipline
+and Punish. And the last one will concern themes that I would
+like to develop regarding penal judgment and the economy of
+justice.
+First remark, then. I think that the first connection
+between you and Foucault is a methodological one: Foucault
+saw in your work the possibility of a critique of governmental-
+ity. I think we have to understand critique here both in a
+political sense, but also in a philosophical one—in the sense of
+a Kantian critique.
+Foucault interprets your kind of critique of governmental-
+ity as “cynicist.” Yes, that is what is written – “le cynisme.”10
+For Foucault, that is not bad! Because the Cynics, for Foucault,
+are the kind of people who define a new type, or a new possibil-
+ity of truth-telling.11 For Foucault, your critique of govern-
+mentality produces the capacity to be true without or outside
+of moral considerations.
+The second connection between you and Foucault is that
+Foucault, I believe, found your work helpful. Discipline and
+Punish offered a very thorough criticism of the modern penal
+7
+
+Break up with Margaret Thatcher
+system, of the modern art of punishing; but it ultimately pro-
+vided no solution. Many people asked Foucault: “Perhaps
+penal policy does not work, but what do you think is the solu-
+tion?” And you gave, on his view, an alternative to modern
+penal policy. And there are two or three elements in this lesson
+that specifically contribute to an alternative vision. With you,
+we have a model of a penal policy that moves away from homo
+criminalis toward a new kind of objectivation of criminal
+behavior—the model of homo economicus. Your model conveys
+the idea that there is no particular psychology of the criminal,
+that the criminal is the man on the street. The only difference
+is his relationship to risk. In this respect, you were a liberator
+for Foucault, a liberator from past models, with this new objec-
+tivation of criminal behavior.
+The final connection between you and Foucault is cer-
+tainly the idea that the optimal public policy against crime does
+not seek to eradicate crime, but rather to make the offer of
+crime as unattractive as possible, under specific conditions.
+Here, you addressed a very important concern of Foucault:
+power and its limits. For Foucault, it was very important that
+power have its limits, limits which give people the possibility to
+play with the rules, the possibility for “illégalismes” in society.
+Gary Becker: Can you restate that? I’m not sure I understand.
+François Ewald: Yes. For Foucault there is, in our society, in a
+modern liberal society, there is a temptation of power to seek
+control of each person, each individual, each agent. This is total
+power. Against that, we have to manage, we have to create
+limits to power, and thus create a field of tolerance—this was
+very important for Foucault—a field of tolerance that is part of
+8
+
+Anna Elise Johnson
+our rights, in the sense of a “bill of rights.” Thanks to these
+limitations, we have the right to be outside, not entirely inside
+the domination of power. For me, these are the three connec-
+tions: your critique, an alternative, and the idea he shared with
+you of tolerance.
+My second point is about what you could find helpful for
+your work in Discipline and Punish. There is, perhaps, in that
+work a way to complete your economic analysis of crime. The
+project of Foucault in Discipline and Punish was also an eco-
+nomic approach to crime. The idea is of course somewhat
+metaphorical, but through it, Foucault tried to describe an
+“economy of power.” There is an attempt to develop a new
+vision of power in relationship with the idea of an economy.
+Economy, for Foucault, is not exactly the same concept as what
+you call economy: Foucault’s notion of economy is related to
+having a strategy, to making a calculus. But in this sense, they
+are both connected.
+In this respect, what could be of interest to you is the idea
+that prison is a failure, that it is something that does not work,
+that the goals of the prison have not been achieved. But that
+this failure has a positive aspect: it allows power to control a
+certain kind of population, namely the population that ends up
+in prison. And with the control of this population, it may be
+possible to control a certain form of crime. This could be inter-
+esting for you: to take into account not only the cost of crime,
+but the benefits and side effects of a failed policy. I’m not sure
+what would be the right translation…
+Gary Becker: …I understand what you’re saying...
+9
+
+François Ewald: … but it is the idea that behind a failure,
+there is an advantage. What is the value of this advantage? Well,
+it turns out that, as between the failure and costs of prisons and
+the benefits of the control of criminality, prison may not be as
+expensive, perhaps, as would be a National Security Agency, for
+example.
+A second aspect of the insight that Discipline and Punish
+might provide is that you would have to add, to the calculus of
+the costs and benefits of crime, the value provided by the man-
+agement of crime and the exercise of power. Through these
+kinds of public policies, power finds a way to exercise its dom-
+ination. That is important, there is a value in that. From your
+perspective, I believe—though I am no expert—that the costs
+and benefits are taken to be those typically associated with a
+state’s budget. But perhaps we should add some other value to
+crime, perhaps we should consider other costs and benefits
+than those described in a state’s budget.
+Finally, one last remark, but here you will have to be indul-
+gent. I said earlier that Foucault saw in your work the possibil-
+ity for a new kind of critique; but your work is not merely
+critical. It also contains a proposal about the proper character
+of penal judgment. As you know, penal judgment is complex:
+in imposing a punishment, we make two different kinds of
+judgments. First, a judgment of conviction: we have to attri-
+bute such fact, such illegality, to this particular person. The
+second judgment concerns the person who is convicted: it
+determines what kind of penalty should be imposed on him or
+her. The difficulty is to understand the relation between these
+two kinds of judgment. And you have a view about both.
+Regarding the judgment of conviction, you provide arguments
+10
+
+Gary Becker, François Ewald, and Bernard Harcourt
+about, for instance, certainty: for you, the certainty of convic-
+tion is important, and so is the rapidity of the conviction. But
+you also have a proposal about the second judgment, the impo-
+sition of punishment.
+It is difficult for me to express this, but I think that the
+difficulty for you, with regard to penal judgment, is that you
+propose a punishment that is not addressed to the person con-
+victed but to other possible cases …
+Bernard Harcourt: … not to the particular defendant, but to
+other individuals, as in a general theory of deterrence…
+François Ewald: … yes. And that is a key question: we have to
+ask whether it is just to attribute to a particular defendant the
+task of preventing other individuals. In this respect, the form of
+your penal judgment is predictive, with all of the uncertainty
+linked to this kind of prediction. We do not know what will be
+their reaction, what effect this penalty will have on the others.
+The consequence is that you have to make a lot of differentia-
+tions between kinds of crimes, kinds of criminals, and so on.
+And I think it is extremely difficulty to do that in practice. And
+at this point, you are in conflict with the logic of law. The law
+has a universal logic, it is addressed to the general case, the
+reasonable man. By contrast, for you, punishment has to be
+perpetually differentiating, for each particular case. That
+becomes complex: How is it possible to reconcile the generality
+of a public policy of punishment and this idea that the public
+policy has to be adapted to each situation, to each case? You
+need, for that, a lot of knowledge about individuals, in which
+case perhaps you have come back into the domain of criminol-
+ogy. And that creates a tension: at the beginning, you said you
+11
+
+"Becker and Foucault on Crime and Punishment"
+wanted to leave aside the criminological approach; but in the
+end, you may need to use just such kind of knowledge.
+One last remark. I would like to raise some questions—but
+here I speak with respect for the courage of your statement—
+about your position on capital punishment and the death pen-
+alty.12 In your blog about capital punishment, you give this
+equation: for murder, the death penalty is valid because indi-
+viduals may be sensible to the risk associated to this penalty.
+You give this reasoning: in the case where one execution deters
+five homicides, naturally, the cost-benefit analysis militates in
+favor of saving the five lives and thus in favor of the death pen-
+alty. You extend this reasoning to the case where one execution
+saves one life. You argue that in this situation as well, you
+would choose capital punishment. Why? Because, you say, the
+value of the life of both individuals involved is not the same: the
+life of the murderer does not have the same value as that of the
+innocent person.
+Okay. We could perhaps agree with you. But this then
+raises two questions: first, that kind of statement, that kind of
+assessment, is not exactly an economic one. It is a moral one.
+Also, when you say such kinds of things, the murderer is abso-
+lutely condemned for the rest of his life, while you do not know
+what will be the future of the innocent person. At that point,
+your evaluation of the price of life is not exactly an economic
+one in a relation of risk, but a moral one. And here, then, you
+are in competition and conflict with other kinds of moral
+evaluation. For instance, when I was young, I had to read Les
+évangiles, and I found statements there of Jesus saying, with
+regard to the criminals: “For my Father, the criminal Magdalene,
+12
+
+Gary Becker, François Ewald, and Bernard Harcourt
+has the same value—maybe even more value—than a good,
+moral person.”
+So, I would ask: Aren’t we here at the limit of economic
+reasoning? It is a presupposition of economic analysis that
+everything has a value that can be expressed by a price, a money
+value. But the question here, in the context of the death pen-
+alty, is: “Is it possible to assess the price of life, of the future of
+an individual?” That is perhaps beyond the limit of economics,
+and it is why, in my opinion, you are making at this point a
+moral judgment, not an economic one. That was my final
+remark. I thank you for this opportunity.
+Bernard Harcourt: Gary, do you want to address some of
+those comments?
+Gary Becker: Well, let me address it in a broader context. I will
+come to some of the comments, definitely, because they are
+very interesting comments and I appreciate them.
+Let me first come back to Foucault. I’m no expert on
+Foucault, unlike both of you. In fact, the only things I’ve read
+of Foucault are these two lectures that you had me read. I
+should be reading more, if I were sensible, because of what I’ve
+found in reading these two essays. My beliefs about modern
+French philosophers were that they were opaque, impossible to
+understand. So I read Foucault, these two essays—they are
+lectures in translations, obviously not the best from the point
+of view of giving clarity—and yet they were clear. I mean, I
+understood what he was saying, and generally agreed with most
+of what he said, which I’ll come to in a little while. But I
+thought they were perceptive, clearly written, not hiding
+behind a lot of complicated phraseology that didn’t amount to
+13
+
+"Becker and Foucault on Crime and Punishment"
+anything. So to me, it said that I should be reading more of
+him. He’s a very good thinker.
+Now, in discussing his comments on my work, let me first
+give people here, who may not be that familiar with my paper
+on crime, a very short synopsis of what I do there. Then I’ll
+discuss some of Foucault’s comments on it, and then I’ll dis-
+cuss, François, your comments.
+I set up a very simple model, fundamentally. It’s a norma-
+tive model. It explicitly was normative. And the normative
+question was: We have laws—and I don’t evaluate whether
+these are good laws or not, and I’ll come back to that in the
+context of what Foucault says—We have laws and we try to
+discourage up to a point, and only up to a point, violation of
+these laws. And so, the question posed in that essay is, “What’s
+the optimal way to approach that kind of a problem?” When I
+say “optimal,” it means taking account of various consider-
+ations. You have to integrate several different types of consid-
+erations in order to see this problem, and try to attack the
+problem. Now, what are the considerations? Well, first of all,
+you have the laws, and then you have some assessment about
+what the cost is to society of violating these laws—what
+Foucault calls, I don’t know if I use that language—the “exter-
+nality” involved. You have potential criminals, and how can you
+deter their behavior with the instruments you have available?
+Now, what are the instruments? In the Crime and
+Punishment paper, I stress two instruments, and you mention
+them in discussion: the likelihood that you’re going to appre-
+hend and convict somebody, and the magnitude and nature of
+the punishment that you impose. Now, the framework there, of
+14
+
+Gary Becker, François Ewald, and Bernard Harcourt
+course, deals with other instruments. Maybe a more effective
+way to reduce crime is to educate the population better, so
+their opportunities are better in non-criminal activities. You
+have various instruments, and the paper focuses on the proba-
+bility of conviction and the magnitude of the punishment. And
+punishment can take different forms. It could be a fine. In fact,
+I argue that one possible fine is actually the best form of pun-
+ishment from an effectiveness point of view. But, of course, it
+often deals with imprisonment for the more serious crimes,
+because fines are not adequate for a variety of reasons in those
+situations.
+Now, it’s costly to impose punishment: police, the impris-
+onment (or other types of punishment), the judiciary—there
+are a variety of costs. And these costs—and this is important—
+these costs limit how much you want to do in terms of the
+punishment. I’ll come back to Foucault’s comments on that a
+little bit later.
+And finally you have: How responsive are criminals to dif-
+ferent punishments? So if criminals respond a lot, in Foucault’s
+language—I don’t know if I use it, I guess I use it in my
+paper—if criminals are very elastic to the punishment (this is
+language Foucault uses in his lecture) then maybe a small
+amount of punishment can have a big effect. On the other
+hand, if criminals are very unresponsive, then you say, well,
+maybe the punishment won’t do any good because you won’t
+be able to deter them. When I say criminals, I mean not simply
+the criminals that you are punishing in a particular courtroom,
+but all criminals who might be engaging in theft, robbery, rape,
+murder and other crimes. It’s not just an individual, even
+though the theory is based on an individual. It’s really a group
+15
+
+"Becker and Foucault on Crime and Punishment"
+behavior that you’re concerned about. How does punishing X
+affect the criminal activities of Y, Z and everybody else?
+Now it’s true that when you punish X by putting X in
+prison, you prevent X from committing crime—at least against
+non-prisoners—while they’re in prison. But basically, the
+framework asks: “How do you affect other people?” And if you
+don’t have much effect on other people, that says, well, maybe
+you don’t want to use this instrument very much, because you
+really can’t accomplish a lot with this instrument. I mean, you
+may like to do it, but the cost of doing it is too great.
+That’s the framework. What are the components of it? You
+have the laws, you have the potential criminal—and the
+approach doesn’t say there’s one type who are criminals and
+another type who isn’t—it doesn’t make any distinction, funda-
+mentally. Yes, of course some people may be more willing to
+obey the law for non-punishment reasons, but it doesn’t say
+there’s some criminal type based on physiology, etc. It basically
+says that most, if not everybody, can be affected if you have the
+right sort of instruments, including education and punishment.
+So you have the criminal, you have the laws, you have the cost
+of enforcing the laws, and then you come out with some con-
+clusion about how much you want to do with regard to differ-
+ent crimes and with regard to different types of individuals.
+That’s the framework that Foucault is commenting on.
+So then I read Foucault’s essay, and here I’ll have to look
+at some of the comments I made as I was reading the essay.
+Foucault doesn’t like neoliberalism, and he classifies me as a
+neoliberal. And I am a neoliberal, I suppose, whatever that
+term means. I am a liberal, a classical liberal I would classify
+16
+
+Gary Becker, François Ewald, and Bernard Harcourt
+myself as, and that’s sometimes meant as a neoliberal. So he
+doesn’t like neoliberalism, and the first part of this chapter he
+criticizes some other neoliberals: Röpke and some of the oth-
+ers, then he criticizes Bentham—I don’t know if you would call
+him a neoliberal, but he criticizes Bentham—and Beccaria and
+so on.
+Foucault puts me in this class of neoliberals, but as I read
+the essay it’s hard for me to see something in that essay that
+Foucault doesn’t like in terms of my work. I’ll tell you to look
+at the various comments he makes. What he likes is—he starts
+out, when he discusses my essay, and he’s also discussing essays
+by some other economists, important essays by George Stigler,
+a colleague and friend of mine, and a former student of mine,
+Isaac Ehrlich, but he mainly focuses on my essays. I’ll act as if
+it’s my essay, but there’s other literature that he discusses.
+He says, “Well, Becker says that all one is interested in, in
+terms of the definition of crime, is what the penal code defines
+as behaviors that can be punished.” And then, the editor notes,
+“there’s laughter” in the auditorium. And Foucault scolds his
+audience. He says, “No, you shouldn’t laugh at that. That’s
+what the French penal code says, basically.” It’s not a bad
+approach to the problem, he says. So that’s how he starts off.
+And what he likes about that approach and what he
+doesn’t like about Bentham, in particular, is there’s no attempt
+to have a calculus of what laws there should be or shouldn’t be
+in that approach. There’s other literature that goes into it, and
+I’ve gone into that literature, as in the capital punishment case
+and other cases; but he says, there’s no attempt in this approach,
+17
+
+"Becker and Foucault on Crime and Punishment"
+one doesn’t try to do that, and he likes that, because he’s criti-
+cal of a lot of the laws that get passed.
+The second thing is that he dislikes Bentham. His interpre-
+tation of Bentham—and I didn’t go back to read Bentham but
+it seemed to be right—was that Bentham thought he could
+eliminate all crime by having the right punishment and this
+panoptic prison where every criminal can be seen all the time,
+there is no privacy, and the like. And he says, in this approach,
+in this economic approach, one recognizes the cost of punish-
+ment, which means that there will be an optimal amount of
+crime. I mean, I like to challenge people, and I say, “The the-
+ory is about the optimal amount of crime.” Optimal in what
+sense? There are different meanings you can give to the word
+optimal, but the meaning that I’m giving it in this context is:
+optimal in the sense that you have to benefit the value of trying
+to reduce crime versus the gain.
+Foucault gives an example, I like the example. It was not
+up in the air, but a very practical example of how you reduce
+theft of inventory in a store. If theft is at a high rate, you can
+cut it down pretty easily from 50% to 40% to 30%, you go
+through a bunch of numbers – except, when you get down to
+5% to cut it down any more, it’s going to be very costly and it
+probably doesn’t pay to do it. So that’s the optimal amount of
+theft in that case, would be 5%. And I think that’s absolutely
+right, it’s a very good example, and it’s certainly fundamental
+to this type of approach.
+Now the third thing it seems to me he liked, was it recog-
+nizes that there’s no fundamental person we can identify as a
+criminal by their physiology, their genetics, and so on. Maybe
+18
+
+Gary Becker, François Ewald, and Bernard Harcourt
+genetics will eventually tell us about it, but we definitely don’t
+know that now. We know there’s a lot of influence in determin-
+ing whether people commit crime and the different types of
+crime—that people who commit white collar crimes are differ-
+ent in terms of education and background, typically, than
+people who commit assaults and felonies of various types.
+There’s not a criminal individual, per se, but a different indi-
+vidual is going to be affected differently, to be sure, by the
+punishment, depending on the nature of the individual, or the
+nature of the individuals committing a crime, and the nature of
+the crimes.
+So you have this heterogeneity both by type of crime and
+type of individual, and in principle you like to tailor the punish-
+ments to take account of this type of heterogeneity. You may
+not know enough to be able to do it, but you try to do what
+you can in that regard.
+Here’s an example. Let’s say drugs. Now my paper doesn’t
+discuss drugs, although I’ve since written a fair amount on the
+drug question. Foucault says, “Well, people respond differ-
+ently. The addict,” he says, “is not at all responsive to price.” I
+don’t think that’s right. The addict is a bit responsive, but in
+the long run they can be considerately responsive. Modern
+analysis, and I think data, if you look at data, show that addicts
+respond to punishment and higher price, but they may, in gen-
+eral, respond less. People respond differently and you want to
+have, maybe, different punishments for the addict and the per-
+son who’s just starting out in taking drugs. If you want to
+reduce the incident with drugs, that’s his approach: the high
+price for the person who’s experimenting so they don’t experi-
+ment, and a low price for the addict—because they’re addicted,
+19
+
+"Becker and Foucault on Crime and Punishment"
+you’re not going to do any good and with a high price; they’ll
+just commit a lot of crime, so you’ll want to cut that down.
+So there’s, I thought, a lot of insight in that analysis. I
+wouldn’t agree that the addicts aren’t responsive, but the basic
+framework, I think, is the right one. So, those are my basic
+comments on Foucault.
+My conclusion was—I think, Bernard, you asked me,
+“Well, where did Foucault agree and where did he disagree?”—
+and I didn’t find any place where he explicitly disagreed. I
+mean, in these lectures. Maybe in his other work he does.
+It’s a bit hard to tell how much he’s expositing what I’m
+saying, and how much he’s agreeing with what I’m saying. He
+wasn’t hesitant to disagree with Bentham, Röpke, and some of
+the other neoliberals. I don’t see anything in there where he’s
+really disagreeing, so maybe we’ll come back to that.
+Bernard Harcourt: Yes.
+Gary Becker: Now, let me come to your comments, François.
+I agree with a lot of what you said, and some of them are
+related to what I said. Let me just mention a few of them:
+criticism of government, analysis aside from moral reasoning,
+and I’ll come back to the capital punishment issue that you
+raised. Nowhere in my essay do I discuss capital punishment,
+by the way, but my former student, Ehrlich, discussed capital
+punishment. In some subsequent blogs, I discuss capital pun-
+ishment,13 so I’ll stand behind what I said about capital punish-
+ment. I’ll have to come back to that later on.
+My essay is not taking a moral stand on laws and govern-
+ment; it’s just looking at how you can affect the adherence to
+20
+
+Gary Becker, François Ewald, and Bernard Harcourt
+these laws. I agree there’s no psychology. The criminal you
+mention—I agree, there’s not a psychology of the criminal. I
+think most attempts to give a psychology of the criminal have
+really misled penology and how to deter crime. What I was try-
+ing to do in this essay was free one‘s thinking from that
+approach to criminology.
+“Not to eradicate crime”—you mention that, and I agree
+100%. “Limit to the power of the state that implies the limits
+of the power of the state, because they can only do a limited
+amount of activities,” which I agree. “Economy of power”—I
+mean, absolutely. A neoliberal is very much worried about the
+power of the state, what laws get passed, and so on. That’s why
+neoliberals come out generally for a small state, a limited state.
+I haven’t read Foucault’s other work on power, but I think
+overall, on the basic picture, I would tend to agree with that.
+You don’t want to have an economy of power, it’s too easily
+corrupted. Imprisonment can be used as a way of enforcing the
+power of the state, and certainly it’s a great concern of myself
+and neoliberals in general. This essay recognizes that you may
+be imprisoning people for the wrong reasons, they’re not
+criminals, you’re doing other things, and so you have to bal-
+ance. And even if the intent is right, the evidence is limited.
+You convict people on limited evidence, and so you have to
+have a procedure whereby—I mean, you want to have a proce-
+dure whereby you can reevaluate the evidence in the light of
+additional evidence. That’s what the appeal process does in
+most societies. You want to provide a lot of protection in that
+dimension. I think this approach certainly does that.
+Fundamental to the approach, and I think you didn’t use
+the word, is “deterrence.” In your discussion you didn’t use
+21
+
+"Becker and Foucault on Crime and Punishment"
+the word deterrence, but you’re really describing deterrence.
+Deterrence is fundamental to this type of approach. I agree
+with you on that. You can’t deter [everyone] because it’s too
+costly to do, basically. There’s a couple of qualifications to that.
+Now my last comment would be on capital punishment.
+The theory is silent on whether you want capital punishment or
+not. It’s a calculation: What’s the advantage in terms of what’s
+the deterrent effect of capital punishment? If capital punish-
+ment didn’t deter, you still want to prevent murderers from
+committing additional murders, so you may keep them in
+prison, and so on. That’s fine. You could easily come out with
+this theory and say you’re opposed to capital punishment. I
+don’t have the slightest argument with that.
+When I discuss the capital punishment in my blog… Let
+me tell you a funny story about this. I gave a lecture in Italy for
+roughly 2,000 individuals, so a huge audience. I was lecturing
+about education, nothing to do with this topic, and there was
+a question and answer period and somebody got up to me—
+and the boy, he was obviously very emotionally involved and he
+said to me, “You have written in favor of capital punishment.
+You should be thrown out of Italy for doing that!” So I said,
+“Well, I wasn’t talking about capital punishment.” I went in
+and discussed my views on capital punishment, and he calmed
+down a little bit.
+The theory is agnostic about whether you want to use
+capital punishment. The view I took in my blog, and I still take,
+depends upon how much you can reduce subsequent murders
+by capital punishment. If you can reduce a lot, and remember
+you’re comparing capital punishment to alternatives, so let’s
+22
+
+Gary Becker, François Ewald, and Bernard Harcourt
+say life in prison is an alternative. In fact, most people convicted
+of murder do not spend life in prison in the United States. I
+don’t know the French situation, but if life in prison is the
+alternative, what additional deterrent effect and cost involved
+in capital punishment versus others, recognizing that you may
+be making an error when you convict somebody of murder and
+you have to watch the appeal process. You may conclude from
+that, the additional benefit is not worth the cost both in terms
+of improper conviction and the like.
+Why do I conclude, therefore, that I favor capital punish-
+ment? I make the judgment based on very poor and limited
+evidence. There’s a great controversy in the empirical evi-
+dence—hold that for a moment, and let me make a broader
+point. I said in the beginning that the essay was normative:
+asking what should governments do, what would be the best
+policy. It had in it a lot of positive or empirical aspects to it:
+How big is deterrence? Does it differ if you send someone to
+prison, or fine them, or increase the probability of apprehen-
+sion? What’s the cost of punishing people? How do you change
+that by varying your police force, and the like? It led to a lot of
+empirical work based on trying to assess for different types of
+crime, — how can you deter crime? Including things like:
+increasing education, reducing unemployment, providing bet-
+ter opportunities for individuals who might commit felonies. It
+led to a lot of empirical work. A very small fraction of that
+empirical work dealt with capital punishment, and the evidence
+is mixed on that. Some studies conclude that capital punish-
+ment had very little deterrent effect; some studies conclude
+that capital punishment has pretty sizable effect, starting with
+23
+
+"Becker and Foucault on Crime and Punishment"
+Ehrlich’s study, but other subsequent studies. And so it is
+mixed.
+The exact evidence isn’t clear, but we have to have a policy.
+My judgment is that capital punishment does deter murder.
+Then I go into this discussion that you didn’t like, and I’ll try
+to defend what I was doing. I say most people would agree that
+if we were convinced that using capital punishment could
+reduce five murders, most people would be inclined to say,
+“Well, we don’t like capital punishment, but we’re going to use
+it.” Just like we don’t like going to war, but we’re going to use
+it. So the question I ask is: “Where is the dividing line?”
+Nobody knows where the dividing line is, because a lot of
+people don’t ask that question. They usually just say, “I don’t
+like capital punishment,” without asking: “Are you saving lives?
+How many lives are you saving?” To use a hypothetical, we’ll
+come to your example: “If I could save one life, would I be in
+favor of capital punishment?”
+That’s a tough one. It’s not easy. You’re taking one life and
+you’re saving one additional life. And I argue there, it was a
+judgment. It doesn’t come out—I mean, it comes out in maybe
+some other analysis; there is a whole literature, as you know, on
+the statistical value of life which tries to measure that.
+I suppose I could measure that and integrate that into this,
+and if I did that I would come to the conclusion: Yes, on the
+whole, it’s worth using capital punishment, because the life
+you’re saving is going to be some innocent person. It’s more
+valuable than the life you’re taking who is going to, on the
+whole, be some other person who’s going to commit other
+crimes, and so on.
+24
+
+Gary Becker, François Ewald, and Bernard Harcourt
+If you accepted that, push it further. Say you agree 1:1 –
+what about .75:1? You save ¾ of a life for the murder you take.
+It’s getting tougher. What about ½:1? I mean, I don’t know
+where to draw the line. But I do believe that most people
+would conclude that if you felt capital punishment deterred at
+least one life for each capital punishment, most people would
+say, “Well, I don’t like it, but it’s worth using,” taking account
+of all the cost.
+I’m just about finished.
+Bernard Harcourt: Okay.
+Gary Becker: That’s my basic comments. I’ll summarize what
+they are, aside from giving an outline of what I try to do in the
+paper. And remember, capital punishment was not in the paper.
+I don’t consider that an important part of the work of the eco-
+nomics of crime, because, I mean, you can take that either way.
+It doesn’t have a conclusion. It is a framework for discussing a
+lot of different crimes, and I read Foucault on this and I like
+what he said. Maybe because he was agreeing with what I said.
+I didn’t detect—even though he doesn’t like neoliberalism and
+he classifies me explicitly as a neoliberal, which is right—I
+didn’t detect any significant criticism. Maybe I’m wrong about
+that. I’d like to discuss some of them, if there are any.
+Bernard Harcourt: All right. Let me try to sharpen the
+exchange, then, in a couple of ways.
+Last session we were discussing human capital and we did
+identify one particular critique of your theory of human capital.
+The critique concerned the investments and disinvestments in
+populations that would follow from a human capital approach.
+25
+
+"Becker and Foucault on Crime and Punishment"
+Let’s put that aside for now, and move to Foucault’s second
+lecture, which is about crime and punishment.
+Here I think that Foucault’s text—which is an analysis of
+the kind of rationality that forms the basis of your theory—
+motivates two separate critiques. Unfortunately, the two cri-
+tiques are further developed and come out more clearly in the
+next lecture that Foucault delivered, on March 28, 1979—so
+we are going to need to have a third session! But in any event,
+the text motivates two critiques.
+The first critique has to do with the particular type of gov-
+ernable actor that is assumed and that is integral to the rational
+actor model—and that is evident in your Crime and Punishment
+article from 1968. This critique is located in Foucault’s lecture
+around the time when the audience laughs14—I will come back
+to this later because that passage is a critical moment in the
+lecture, in the sense that it also reveals, importantly, a critical
+path not taken. In any event, at that moment, Foucault draws
+a parallel between your economic model and French penal law.
+There is both a parallel and an important distinction. The paral-
+lel is that your model defines crime in the same way as French
+penal law: Crime is defined, in a positivist way, as behavior that
+is punishable under the criminal code. You use a formal defini-
+tion of crime, as does the French penal code, limiting yourself
+to the words of the criminal code. Same formal approach, but
+a very different view. Your view is from the perspective of the
+rational actor in the model, whereas the French view is from
+the perspective of the sovereign in the model. This differential
+produces a very different way of thinking about and then gov-
+erning individuals.
+26
+
+Gary Becker, François Ewald, and Bernard Harcourt
+It’s that differential—namely, the fact that we’re now look-
+ing at it from the view of the rational actor, from the individu-
+al’s point of view, rather than from the perspective of the
+sovereign—that produces the unique mode of governability of
+neoliberalism, namely the mode that involves behavioral tech-
+niques and environmental changes, etc. Foucault discusses this
+mode of governability on page 252 of the English edition, but
+actually the payoff, or the critique, comes in the next lecture
+around page 270, where he talks about the more aberrant
+forms of behavioral techniques associated, for instance, with
+Skinner.15 But it is…
+Gary Becker: I don’t want to associate with Skinner.
+Bernard Harcourt: No, of course not, and Foucault is not
+associating you with Skinner. But that is the slope or the direc-
+tion in which this particular notion of governability can lead.
+The second critique that Foucault’s text motivates is an
+epistemological critique. It is connected to what we might call
+the “theory of the subject,” but it also has to do with an epis-
+temology of governance: What we can know well, and what we
+cannot know well about the subject, about the individual,
+about his or her interests. The insight here is that the rational
+actor model rests on the premise that the individual subject can
+know well his personal interests, in contrast to the State that
+doesn’t have that knowledge in the same way. There is an inex-
+tricable connection between the rational actor knowing his
+interest best, but being faced by a governing body that does
+not, and whose calculations misfire because they don’t have
+that knowledge. And this produces, by itself, a certain need for
+limited government intervention.
+27
+
+"Becker and Foucault on Crime and Punishment"
+In other words, the idea of a limited government is built
+into the theory of the subject in the rational actor model. And
+this second critique, we will have to address at our next session
+in more depth. It will take us to page 282 of the English edi-
+tion, where you will find the argument that the theory of the
+subject ultimately disqualifies the political sovereign.16 These
+then are two critiques that emerge specifically out of Foucault’s
+reading of your 1968 essay.
+However, I would like to develop a third critique that
+could have been made, but was not, and that represents, to my
+eyes, a more penetrating critique. And this takes me back to the
+passage discussed earlier where Foucault defends you against
+his French audience—when he chastises his audience. It is a
+critical passage because Foucault, at that moment, makes a for-
+malist move that, in my opinion, results in his missing his tar-
+get.
+Gary Becker: He being Foucault?
+Bernard Harcourt: Yes, Foucault. Foucault misses his target—
+in other words, you—at that particular juncture by adopting, as
+you do, a formalist view of the law. Let me explain.
+By not questioning the formalist definition of the criminal
+law in your work—in other words, by taking the penal code as
+a given, as a limiting factor that defines the behaviors that we
+are then going to subject to a social welfare analysis—you are
+doing a few things. You are bracketing out some of the most
+important considerations. Now, I can understand that it’s an
+attempt to find a partial equilibrium; that you are bracketing
+out the definition of crime to simplify the model. But it seems
+28
+
+Gary Becker, François Ewald, and Bernard Harcourt
+to me that what you’ve done by bracketing out the definition
+of crime is problematic for three reasons.17
+First, you’re bracketing out the whole complexity of the
+problem, the definitions of the criminal law, where all of the
+morality, all of the theories of dangerousness, all of the psy-
+chiatry, etc., are going to be at play. So you are trying to create
+a theory that eliminates the need for psychiatry and criminol-
+ogy, but you’ve almost done that by definition at the very out-
+set, at the beginning of the enterprise, by bracketing off the
+very definition of crime.
+Second, and more importantly, you also avoid the radical
+potential of your own theory. Simultaneously, you create ten-
+sion between what you can then say, for instance, with regard
+to drugs. There’s an internal tension in the sense that, ulti-
+mately, you might want to say we should decriminalize drugs—
+you do not say it in this text, but in other work…
+Gary Becker: I do believe in that, yes.
+Bernard Harcourt: Yes, you do believe in that, but then
+there’s a tension –
+Gary Becker: Not necessarily that this theory leads to that
+conclusion.
+Bernard Harcourt: Right. But the tension… well, wait a min-
+ute. We’re taking the definition of crimes as given. If so, how
+can it be that a social welfare analysis would then lead to the
+elimination of a definition of crime? That is precisely the ten-
+sion that I would want to push you on.
+29
+
+"Becker and Foucault on Crime and Punishment"
+What this tension reveals is that there would have been a
+far more radical theory that you could have developed in ’68,
+which would have been to subject all human behavior to the
+kind of calculus to which you subject only criminal behaviors
+defined as such in the criminal code. Your theory could have
+defined crime. It could have addressed all behaviors, whether
+or not they are formally defined as crimes in the penal code,
+and determined which should be criminalized. The model
+would have defined as criminal any behavior that if punished—
+i.e. criminally sanctioned—in the right amount and to the cor-
+rect extent would maximize social welfare and minimize social
+costs.
+That is the theory, it seems to me, that you could have and
+should have argued for in 1968: Any human behavior that can
+be efficiently regulated by means of the criminal sanction—by
+means of punishment properly applied—should be criminal-
+ized. If you had done that, of course, all domains of economic,
+social, political life would have been subjected to potential
+regulation. It opens all human activity to state sanction, includ-
+ing, well, anything. We can draw the list: infidelity, impolite-
+ness, sexism, political protest, financial contributions to political
+parties—in sum, any activity could be subjected to the kind of
+analysis that you’re proposing, and we would then know what
+should be criminal: that which you can efficiently regulate by
+means of the criminal law and punishment. Some things we can
+efficiently regulate by punishment, and some things we can’t—
+but there is no way of knowing ahead of time.
+When you limited the definition of crime to the formal
+definition, you severely limited the potential of your model.
+But worse, you injected into the theory a particular political
+30
+
+Gary Becker, François Ewald, and Bernard Harcourt
+vision – a somewhat libertarian vision. There are certain liber-
+tarian values that are lurking in the very decision to bracket the
+definition of crime. The more radical model would subject all
+human behavior to social welfare analysis and could potentially
+expand the scope of government regulation. Instead, your
+1968 model begins by taking a defined subset of human behav-
+ior—behavior defined as crime by law—and then limits that
+scope.
+So, I think that Foucault missed an important critique by
+agreeing with your decision to formally bracket the definition
+of crimes. I believe that that formalist move reveals a libertarian
+bias that should make one suspicious about the positivistic
+nature of the model itself, and about all of the measurements
+that would then have to be made. After all, your model calls for
+a myriad of complicated measurements—the costs of policing
+and punishing, the values of life, victimization, etc. These are
+really complicated measurements. But your decision to bracket
+makes me suspicious that something is biased in your approach,
+biased against state intervention.
+One final point on the death penalty. When you say –
+Gary Becker: But I don’t want to spend a lot of time on the
+death penalty. It’s not a big part of the essay.
+Bernard Harcourt: No, me neither, but it’s a good illustration
+of the same critique. When you say, how many lives are we sav-
+ing, that calculation itself is only the tip of the iceberg. You see,
+Gary Becker wouldn’t just ask, “How many lives are we sav-
+ing?” Gary Becker would have to ask the next questions, which
+are the much more complicated questions: “How much money
+does it cost to engage in an execution? How much could an
+31
+
+"Becker and Foucault on Crime and Punishment"
+equivalent amount of money buy in health care? How many
+lives could be saved if we used that money differently?” Etc.
+In other words, we don’t limit ourselves simply to the
+empirical fact that an execution may deter one or more homi-
+cides, assuming that it does. It is not just a question of how
+many lives. It turns into the larger calculus whether the money
+could be better spent saving lives in some other domain, such
+as health care or education or nutrition, etc.
+At which point, I think, you have to throw up your hands
+and say, “I can’t say I’m in favor of the death penalty, I can’t
+say I’m against the death penalty.” I’d say it’s a hugely, mas-
+sively complicated calculus that involves lots of different fac-
+tors—not just whether it’s one life to one life, but also how
+much money are we spending for lawyers, should we be spend-
+ing that money differently, etc.
+I think that Gary Becker would have to say, “I don’t know
+the answer to this complex question.”
+Gary Becker: Yes, okay, thanks. Let me respond to these com-
+ments.
+This essay had a limited goal. It was not trying to say what
+laws we should have, and what laws we shouldn’t have. We
+have some laws, how are we going to engage in deterrence with
+regard to these laws.
+In my other manifestations, in my other writings, of course
+I’ve written a lot about what laws we should have. I believe
+there’s a lot of risk of government overregulating society with
+too many laws, and that’s why I’ve always been a small govern-
+ment person.
+32
+
+Gary Becker, François Ewald, and Bernard Harcourt
+This essay has a more modest goal: it says, given the laws
+that we have and the various cost that we have, what is the best
+way to sort of optimize social welfare? When they say, “Well,
+it’s a bad law so you should get rid of the law rather than trying
+to optimize it,” and I don’t disagree with that. No one essay
+can try to deal with every single problem, and I didn’t try to
+do that in this essay.
+Now, let me deal with a couple of the other issues that you
+mention. The individual versus the sovereign: yes, this takes the
+individual’s point of view. I had the feeling from my reading of
+Foucault in this chapter that he liked that, as opposed to taking
+the sovereign’s point of view. I don’t know if I have the exact
+statement on that, but I think it wasn’t a critique that he had,
+but I’ll have to find what he says.
+Bernard Harcourt: It’s on the bottom of page 252 of the
+English edition. Basically, what he says is: “It simply means that
+economic behavior is the grid of intelligibility one will adopt on
+the behavior of a new individual. It also means that the indi-
+vidual becomes governmentalizable”18 in a particular way.
+Gary Becker: Yes. I don’t see any critique of that. Homo eco-
+nomicus is “the surface of contact between the individual and
+the power exercised on him,”19 but that doesn’t mean that
+every individual has no other motivations. Anyway, it is
+nowhere… I don’t think you can cite, Bernard, a passage where
+he says that that is a worse view than taking it from the point
+of view of the sovereign, which he does say is the French
+approach. So my reading of this essay—but I may be wrong on
+that—is that he didn’t think it was inferior to taking the sover-
+eign’s approach.
+33
+
+"Becker and Foucault on Crime and Punishment"
+Now, “taking laws as given”: you mentioned that on sev-
+eral different occasions. The same approach might be useful in
+discussing what laws we should have. It may be useful. For
+instance, in a cost-benefit analysis of particular types of legisla-
+tion, let’s say, whether drugs should be illegal or not. We have
+a benefit-cost analysis of whether drugs should be illegal: I’ve
+done that, and a lot of other people have done that. One looks
+at similar types of considerations: What’s the benefit of having
+a law? How much effect does it have on drug use? What’s the
+cost of doing it? Is it worth having this law when there are
+other alternatives, for instance taxing the use of drugs? So the
+same approach is an approach to law in general, I agree. He
+says he doesn’t try to do that because you have to go down
+other dimensions, you have to evaluate in various ways what
+law is doing. You have, and you can take that benefit-cost
+analysis and do that, and much evaluation of public policy,
+whatever the approach, is really implicitly doing that.
+Bernard Harcourt: Right. But not just laws. Behaviors, right?
+We could subject any behavior to some sort of calculus to
+determine whether or not the use of punishment, the state
+sanction…
+Gary Becker: Well, state sanction would mean: “We have a law
+against this type of behavior.” That’s a state sanction. And
+therefore you have to ask yourself: “Is it desirable or not to
+have that law?” And then you have to do an analysis of it. I
+don’t care if you take this approach or any other approach.
+Bernard Harcourt: The only difference would be civil reme-
+dies versus criminal penalties. So what would be criminalized
+would be those behaviors for which, when you go through
+34
+
+Gary Becker, François Ewald, and Bernard Harcourt
+your analysis, if you impose a criminal form of punishment
+(rather than civil liability, compensation, etc.), it would most
+efficiently bring that behavior to a level at which it minimizes
+the social costs or maximize social welfare, right?
+Gary Becker: Absolutely. In my essay, I do distinguish between
+torts or civil law, and criminal law. And I have a definition that
+people may not like, according to which criminal law applies to
+activities or crimes that you cannot use a fine to deter, as
+opposed to civil violation. If you can use a fine, then it’s part of
+tort law or civil law. If you cannot then it becomes a crime. So,
+yes, I think that distinction comes out of the analysis. You don’t
+have to add it as a separate distinction.
+Bernard Harcourt: But notice how radically regulatory, how
+much government analysis of social welfare would be going on
+if we in fact did that for any possible behavior, including being
+impolite, talking too much…
+Gary Becker: Well, we may have a general principle for a lot of
+issues that when the effectiveness of government is so poor, we
+don’t want to regulate, and that’s my view. The government
+makes matters worse on many issues, rather than making them
+better. Take the capital punishment issue: you say, “Well, some-
+one has to adopt a certain approach and make all these calcula-
+tions.” What’s the alternative? What kind of calculation would
+you make?
+Bernard Harcourt: Well, one approach is, as you say, to make
+a huge calculation about whether using capital punishment is
+an efficient use of resources.
+Gary Becker: Right. What’s the alternative?
+35
+
+"Becker and Foucault on Crime and Punishment"
+Bernard Harcourt: There are plenty of alternatives. For
+instance, we could adopt a deontological principle. You could
+come up with the principle that we don’t take life, among other
+alternatives.
+Gary Becker: But then you have to analyze that principle: “We
+don’t take life because of that reason, this reason, and even
+though we may be saving ten lives we’re not taking this life.”
+Okay, you may want to do that, but you still have to go
+through, you still have to probe behind that phrasing and make
+some sense out of it. You still have to go into some kind of
+analysis of this kind.
+Bernard Harcourt: Well, you do not necessarily have to do a
+social welfare maximizing analysis of a deontological principle,
+but my point is not to argue for one versus the other.
+My point was to develop an internal critique of a social
+welfare maximizing approach to the death penalty. I meant to
+argue that, in fact, we have got a lot of calculations to make, we
+have to do far more than find out the number of lives that we
+might save, because even if we could be saving five lives—even
+if that were true, if those studies were true—it might still turn
+out that with the amount of money it takes to execute some-
+one, which is say, 2.5 million dollars because of judicial
+expenses and whatnot, we could save twenty lives through
+improved health care.
+Gary Becker: Any approach has to do something like that.
+Unless you want to avoid analysis and replace it by a phrase, like
+“We don’t take lives.” That’s avoiding analysis. If you got to
+provide an analysis, you have to analyze such a sentence, and
+wonder: “Why do I not want to take a life? What are the con-
+36
+
+Gary Becker, François Ewald, and Bernard Harcourt
+sequences, plus and minus?” And if you don’t want to do this,
+you’re avoiding the question, not answering it.
+Bernard Harcourt: Right. But I would say that from your
+approach, which may be the right approach, one cannot ex ante
+say one is in favor of the death penalty. That’s all.
+Gary Becker: Absolutely. That’s what I said. I think …. The
+paper does not even take a stand on this. I could easily be con-
+vinced not to use capital punishment!
+Bernard Harcourt: And similarly, all behaviors would also be
+subject to that analysis.
+Gary Becker: Well, there’s a lot of uncertainty about all this.
+And a model sets out various concepts. Now, to implement a
+model in actual policy, you have to quantify these contexts.
+That’s why I said my analysis stimulated a lot of literature try-
+ing to quantify these concepts. What’s the cost of doing this?
+How much deterrence is there? Tremendous literature, contro-
+versial literature. These are not things that are easily discovered.
+I’m not saying one can just take the model and say: “Well, we
+want to do this, and that.” No, it requires various judgments.
+I’m willing to make a judgment, we all have to make judg-
+ments, but in order to make stronger judgments we have to
+make them from a foundation.
+Bernard Harcourt: Alright. But when you say, “That’s why
+I’ve always been a small government person,” where does that
+come from? What’s the basis for that statement?20
+Gary Becker: It comes from a belief that the government usu-
+ally makes things worse, rather than making them better, for
+the bulk of the population. It’s an analysis—it may be a wrong
+37
+
+"Becker and Foucault on Crime and Punishment"
+analysis, but that’s the analysis. Some people may say that’s not
+true, that the government is better than the private sector for
+solving a lot of problems.
+Bernard Harcourt: Right, but I’m just trying to figure out…
+How did you come to that conclusion? Is it an evidence-based
+conclusion?
+Gary Becker: I think so, but not a conclusion that is a hundred
+percent proven, so that somebody else couldn’t have a different
+conclusion. Why do people differ on different public policy? I
+think most of the differences between people on public policy
+is not due to the fact that your values are different from mine,
+but to the fact that we have different evaluations of the conse-
+quences of different types of behaviors. So it’s a different judg-
+ment about magnitudes.
+When I say I’m a small government person, I am making
+the judgment that whatever the imperfection when the private
+sector operates, the effects are worse when I see the govern-
+ment operating. Now, other people may say that the evidence
+for that is not so clear, that in other sectors it is different. I
+recognize that. But that is what it would be based on.
+Bernard Harcourt: Okay, but just to get back to Foucault,
+and to let François Ewald have the last word…
+Gary Becker: Yes, François, you should say something!
+Bernard Harcourt: … I have a sense that what Foucault is
+arguing—and this will be for the next session because it comes
+out in the third and final lecture on American neoliberalism…
+38
+
+Gary Becker, François Ewald, and Bernard Harcourt
+Gary Becker: People say there is no good second act, now
+we’re going to have a third!
+Bernard Harcourt: I have a sense that what Foucault is argu-
+ing is that, somehow, embedded in the theory of subjectivity
+that is part of your 1968 article, and that differs from the
+French perspective on sovereignty, that somehow embedded in
+your notion of subjectivity is the conclusion that, in your
+words, “I’m a small government person.”
+Gary Becker: That does not stem necessarily from my essay by
+the way. You can read my essay, believe in the essay, and say I’m
+a big government person because there are tools… I mean
+there are other types of readings. I guess Foucault considered
+himself a socialist?
+François Ewald: Socialist, no! On the Left.
+Gary Becker: But well, what does Left mean? In terms of the
+role of government, let’s say that Left usually means bigger
+government.
+François Ewald: At this time, Foucault was in search of a new
+kind of governmentality. It was the research for new possibili-
+ties in politics that motivated his work on governmentality.
+Bernard Harcourt: In fact, what Foucault explicitly says in
+these lectures is that socialism lacks a theory of governmental-
+ity.21 And so, to a certain extent, what he’s doing when he’s
+probing your thought is trying to explore forms of governmen-
+tality, in particular the form of neoliberal governmentality.
+Gary Becker: Yes, well, in probing that—I don’t know enough
+about Foucault to know where he ends up—you have to make
+39
+
+"Becker and Foucault on Crime and Punishment"
+some evaluation. Is the government going to do X or Y? I put
+it in pragmatic terms because these are the issues we tend to
+deal with. What should be the role of government health care
+policy? That takes some analysis. I don’t care what conclusions
+you come out with, whether you say government should con-
+trol prices or not… You have some analysis of that problem.
+And when I say that I’m a small government person, I
+don’t mean that there should be no government. Government
+is crucial to the functioning of any society. But for a lot of these
+policies, my judgment—and the evidence is limited in many of
+these areas—is that intervention just makes matters worse. And
+I don’t see how you can resolve these issues… To me the cru-
+cial issue is, if you want to resolve these issues, is that you have
+to have some analysis, and an analysis is going to take you down
+the path of considering some costs and benefits. Now, people
+may have different costs and benefits, and different assess-
+ments. They may put value on having freedom and people not
+being coerced by the government, things like that. And mine is
+just one particular form of that type of analysis.
+Bernard Harcourt: So, I’m going to give the last word to
+François Ewald to close this discussion. But while you think of
+your last word, François, I will just say that from the perspec-
+tive of an internal critique, everything you say I can buy within
+the system, except making any kind of claim about being a small
+government person or not. It’s just subject to a kind of com-
+plicated calculus that we need to make in every case, and I
+don’t know what the outcome is ahead of time.
+Gary Becker: I don’t disagree. You need that calculus, and in
+a lot of areas we don’t have enough evidence to make that cal-
+40
+
+Gary Becker, François Ewald, and Bernard Harcourt
+culation with confidence. So one is making a judgment when
+one says one thinks the government should be extended or
+contracted; one is making a judgment in the face of very imper-
+fect knowledge and information about what the outcomes will
+be. It’s not a judgment based on certainty. The framework—
+and I’m going to stress this—the essay I wrote on crime and
+punishment could easily be used by people who think the gov-
+ernment should dominate the economy. There is nothing in
+there that dictates the conclusion that one should be a small
+government person.
+Bernard Harcourt: Well, except for the fact that you limit the
+definition of crime to the penal code. You are effectively brack-
+eting the space within which we are going to explore govern-
+ment intervention, and then, within that limited space, you
+bracket it even more by deciding what is not efficiently regu-
+lated by the criminal law.
+I think you would want to say—you, Gary Becker—if you
+could rewrite the essay now: “The same economic analysis
+applies to all behaviors. Frankly, I can’t tell you what the out-
+come will be. I cannot tell you whether I’m a big or small
+government person. You have to do the work!”
+Gary Becker: Well, you would say this particular framework
+does not lead you to any conclusion about whether you’re a big
+or small government person. You would need other kinds of
+evidence to determine that. But I did say something like that
+elsewhere…
+Bernard Harcourt: Okay, we will read that too for the next
+seminar! François?
+41
+
+"Becker and Foucault on Crime and Punishment"
+François Ewald: I think the discussion has addressed two
+aspects of your analysis. The first has to do with the economic
+analysis as a critique of a specific type of public policy. I think
+that, in this respect, there is no problem. And yet, at the same
+time, and after your work, people tried to set up new ways of
+punishing, relying on the normative rather than the critical side
+of your work. The side on which you try to rebuild, to conceive
+a new kind of art of punishment. But both sides are embedded
+in your work.
+You were useful for Foucault for your critical insights. And
+you gave him the idea that it may be possible to make a critique
+of governmentality that is internal to a system. That is, you are
+a positivist. You take a set of laws and you wonder if they are
+effective, optimal. And you give us answers. For that, you build
+a specific set of tools, a dispositif of economic analysis.
+The main question comes with the normative dimension
+of your work – it is there that you enter into competition with
+other approaches. For example, a moral one, with respect to
+deterrence, especially if you are Kantian. Kant says that the
+main moral rule is that it is forbidden to treat a man as a means,
+you always have to treat a man as an end. So then, what of
+deterrence? With deterrence as a tactic of punishment, you
+punish a person to protect and dissuade other persons. This
+takes one as a means to another end. At this point, you enter in
+the normative dimension and you are in competition with
+other normative views. And you can ask the question again
+about the effectiveness of these other dimensions. Indeed. But
+that is not the only way to compare them.
+42
+
+Gary Becker, François Ewald, and Bernard Harcourt
+My second remark is that our problem, the main problem
+about punishment, what is it? It is not the evil of men, but a
+lack of information. You can only observe crime after it has
+been committed. And I think the difficulty with punishment, if
+it is given the role of deterring future crime, is that this tool, to
+use punishment to do this, is immensely difficult. The dream—
+or the horror—would be the capacity to prevent the crime
+before it happens. We are faced with a lack of information. This
+last observation brings out a major difficulty because it would
+imply that to build an effective punishment policy, we have to
+know everything. And that is, for you, impossible.
+Bernard Harcourt: Thank you François. Thank you Gary.
+NOTES
+1 This is an edited transcript of a conversation held at The University of
+Chicago on May 15, 2013, in Foster Hall 505, the seminar room of the
+Committee on Social Thought. The video recording of the open seminar
+can be viewed on-line at http://vimeo.com/68074285. It represents a
+continuation of a conversation begun the year before, titled “Becker on
+Ewald on Foucault on Becker”: American Neoliberalism & Michel
+Foucault’s 1979 Birth of Biopolitics Lectures. That first session can be
+viewed on-line as well at h ttp://vimeo.com/43984248, and the tran-
+script of that first session can be read here http://www.thecarceral.org/
+cn7_Becker_Ewald_Conversation.pdf. Professors Gary Becker and
+François Ewald have individually reviewed their portions of the conversa-
+tion; Professor Bernard Harcourt has edited and annotated the text. We
+are extremely grateful to Eléonore Rimbault for transcribing the conver-
+sation.
+2 Michel Foucault, The Birth of Biopolitics: Lectures at the Collège de France,
+1978-79, ed. Michel Senellart, English series ed. Arnold I. Davidson,
+trans. Graham Burchell (Palgrave Macmillan 2008), pp. 215-239;
+43
+
+"Becker and Foucault on Crime and Punishment"
+Foucault, Naissance de la biopolitique. Cours au Collège de France. 1978-
+1979. Ed. Michel Senellart (Gallimard/Le Seuil 2004).
+3 Gary S. Becker, “Crime and Punishment: An Economic Approach,” The
+Journal of Political Economy, Vol. 76, No. 2. (Mar. - Apr., 1968), pp.
+169-217. A sample of Professor Gary Becker’s other publications include:
+Gary S. Becker, Human Capital: A Theoretical and Empirical Analysis,
+with Special Reference to Education (University of Chicago Press 1964);
+The Economics of Discrimination (University of Chicago Press 1971); A
+Treatise on the Family (Harvard University Press 1991); and Accounting
+for Tastes (Harvard University Press 1996).
+4 Foucault, The Birth of Biopolitics, pp. 239-265; Foucault, Naissance de la
+biopolitique, pp. 245-270.
+5 Michel Foucault, Discipline and Punish: The Birth of the Prison, trans.
+Alan Sheridan (Pantheon Books 1978 [1975]); cf. also Michel Foucault,
+La Société punitive. Cours au Collège de France. 1972-1973. Ed. Bernard
+E. Harcourt (Gallimard/Le Seuil forthcoming 2013).
+6 Richard Posner, Frontiers of Legal Theory, Cambridge, MA: Harvard
+University Press, 2001, p. 34.
+7 Ibid.
+8 Professor François Ewald’s publications include, in English: François
+Ewald, “Omnes et singulatim. After Risk,” Carceral Notebooks 7, pp.
+77-107 (2011); François Ewald, “The Return of Descartes’s Malicious
+Demon: An Outline of a Philosophy of Precaution,” in Tom Baker and
+Jonathan Simon, eds., Embracing Risk (University of Chicago Press
+2002); and François Ewald, “Insurance and Risk,” in Graham Burchell,
+Colin Gordon & Peter Miller, eds, The Foucault Effect: Studies in
+Governmentality (University of Chicago Press 1991); and in French:
+François Ewald, L’État providence (Grasset 1986); and François Ewald,
+Christian Gollier, and Nicolas de Sadeleer, Le principe de précaution (PUF
+2001).
+9 E-mail correspondence from Gary Becker to Bernard Harcourt dated
+May 13, 2013 (on file).
+10 Foucault, Naissance de la biopolitique, p. 252; Foucault, Birth of
+Biopolitics, p. 246.
+44
+
+Gary Becker, François Ewald, and Bernard Harcourt
+11 On truth-telling, see generally, Michel Foucault, Wrong-Doing, Truth-
+Telling: The Function of Avowal in Justice, eds. Fabienne Brion and
+Bernard E. Harcourt (University of Chicago Press, forthcoming).
+12 Gary S. Becker and Richard A. Posner, Uncommon Sense: Economic
+Insights, from Marriage to Terrorism, Chicago: University of Chicago
+Press, 2009, pp. 253-258.
+13 Becker and Posner, Uncommon Sense, pp. 253-258.
+14 Foucault, Birth of Biopolitics, p. 251; Foucault, Naissance de la biopoli-
+tique, p. 256.
+15 Ibid., p. 270; French edition, p. 274.
+16 Ibid., p. 282; French edition, p. 286.
+17 See also Bernard E. Harcourt, The Illusion of Free Markets: Punishment
+and the Myth of Natural Order (Harvard University Press, 2011), pp.
+127-128 and 133-136.
+18 Foucault, Birth of Biopolitics, p. 252; Foucault, Naissance de la biopoli-
+tique, p. 258.
+19 Ibid., pp. 252-253; French edition, p. 258
+20 Cf. Harcourt, The Illusion of Free Markets, p. 40.
+21 Fouca ult, Naissance de la biopolitique, p. 93 ; Foucault, Birth of Biopolitics,
+p. 92-94.
+45

@@ -1,0 +1,1645 @@
+NEW YORK STATE UNIFIED COURT SYSTEM
+GRAND JUROR’S
+HANDBOOK
+
+FOR COPIES OF THIS BOOKLET CALL:
+1-800-NY-JUROR, 1-800-695-8767
+OR ORDER ON THE WEB:
+WWW.NYJUROR.GOV
+Revised July 2023
+
+MESSAGE FROM THE CHIEF JUDGE
+Thank you for your upcoming service as grand
+jurors. As grand jurors, you now are a part of
+our court system. As a grand juror, you do not
+work for the prosecutor or for the defendant.
+Instead, like me, like the judges throughout
+our state, and like the many others who work
+in our courts, your responsibility is to fulfill
+the mission of the courts to provide the best
+justice that can be provided.
+Before a criminal prosecution starts, grand juries provide a vital
+function by hearing the prosecution’s evidence against the defendant
+and determining whether that evidence is sufficient to charge the
+defendant with a crime. Just like judges, grand jurors work for the
+court and must be neutral and fair: indicting persons accused of crimes
+where the evidence is sufficient to meet the legal definition of the
+crimes charged, and refusing to indict persons charged with crimes
+where the evidence is not sufficient to meet the legal definition of
+the crimes charged.
+Without the careful and thoughtful participation of grand jurors,
+we could not preserve the rights of both defendants and victims in
+our system, could not protect public safety, and could not ensure
+that police and prosecutors follow the law. We know that grand jury
+service will require you to make changes to your usual daily routine,
+and we will attempt to accommodate you to make sure the disruption
+is not severe. Grand jury service, though, is one of the very most
+important parts of the criminal justice system: it gives citizens like you
+– instead of kings or dictators -- the decision of whether to prosecute
+someone with a serious crime.
+For a brief period of your lives, you will be performing an essential and
+rewarding service vital to a democratic system of justice. On behalf of
+the more than our 16,000 people within New York’s court system, I
+offer our deepest gratitude for your contribution to the pursuit of
+justice. Thank you.
+Rowan D. Wilson
+
+CONTENTS
+OVERVIEW
+The Purpose of this Handbook .....................................................................................................................................1
+The Role of the Grand Jury in the Criminal Justice System ..........................................................1
+Why We Have Grand Juries ..............................................................................................................................................2
+Differences Between Grand Juries and Trial Juries ...............................................................................2
+BASICS OF GRAND JURY SERVICE
+Qualifications of Jurors .........................................................................................................................................................3
+Term of Service ...............................................................................................................................................................................3
+Orientation and Selection of a Grand Jury.....................................................................................................3
+How Many Grand Jurors? ...................................................................................................................................................4
+The Foreperson ..............................................................................................................................................................................4
+The Assistant Foreperson ...................................................................................................................................................4
+The Secretary ....................................................................................................................................................................................4
+Grand Juries and Criminal Trial Juries Compared ....................................................................................5
+THE GRAND JURY GETS TO WORK
+What Grand Juries Do .............................................................................................................................................................6
+Grand Jury Secrecy .....................................................................................................................................................................6
+Who is Present in the Grand Jury Room? .........................................................................................................7
+Grand Jurors’ Questions .......................................................................................................................................................7
+Note-Taking by Grand Jurors ..........................................................................................................................................8
+The Accused Person’s Role .................................................................................................................................................8
+Deciding Which Witnesses Testify ............................................................................................................................9
+How the Grand Jury Makes Decisions ..................................................................................................................9
+QUESTIONS ABOUT GRAND JURY SERVICE
+What if i recognize a witness or the name of the accused person? ...............................10
+What if grand jury service would be a hardship for me? ...........................................................10
+Do I have to attend every session? .......................................................................................................................10
+Will I understand what I have to do? ................................................................................................................10
+What should I wear? .............................................................................................................................................................10
+When will I have to serve again? .............................................................................................................................11
+Will I get paid for my grand jury service? ......................................................................................................11
+Who pays the jury fee? .......................................................................................................................................................12
+CONCLUSION ..................................................................................................................................................................11
+
+ARTICLE 190
+§ 190.05 Grand jury; definition and general functions. ............................................................15
+§ 190.10 Grand jury; for what courts drawn. ........................................................................................15
+§ 190.15 Grand jury; duration of term and discharge. ...............................................................15
+§ 190.20 Grand jury; formation, organization and other matters
+preliminary to assumption of duties. ....................................................................................16
+§ 190.25 Grand jury; proceedings and operation in general. ..............................................17
+§ 190.30 Grand jury; rules of evidence. ........................................................................................................19
+§ 190.32 Videotaped examination; definitions, application, order and
+procedure. ............................................................................................................................................................23
+§ 190.35 Grand jury; definitions of terms. ................................................................................................25
+§ 190.40 Grand jury; witnesses, compulsion of evidence and immunity...............25
+§ 190.45 Grand jury; waiver of immunity. .................................................................................................26
+§ 190.50 Grand jury; who may call witnesses; defendant as witness. .......................26
+§ 190.52 Grand jury; attorney for witness. ..............................................................................................29
+§ 190.55 Grand jury; matters to be heard and examined; duties and
+authority of district attorney. ........................................................................................................29
+§ 190.60 Grand jury; action to be taken. ....................................................................................................30
+§ 190.65 Grand jury; when indictment is authorized. .................................................................30
+§ 190.70 Grand jury; direction to file prosecutor`s information and
+related matters. .............................................................................................................................................31
+§ 190.71 Grand jury; direction to file request for removal to family court. .......31
+§ 190.75 Grand jury; dismissal of charge. ..................................................................................................33
+§ 190.80 Grand jury; release of defendant upon failure of timely grand
+jury action. ...........................................................................................................................................................33
+§ 190.85 Grand jury; grand jury reports. ....................................................................................................34
+§ 190.90 Grand jury; appeal from order concerning grand jury reports. .............35
+INDEX .........................................................................................................................................................................................................................37
+
+UNITED STATES CONSTITUTION
+5th Amendment
+No person shall be held to answer for a capital, or otherwise
+infamous crime, unless on a presentment or indictment of
+a Grand Jury…
+NEW YORK STATE CONSTITUTION
+Article 1, Section 6
+No person shall be held to answer for a capital or otherwise
+infamous crime…unless on indictment of a grand jury…
+
+OVERVIEW
+The Purpose of this Handbook
+This handbook is for citizens summoned to serve as grand jurors in
+New York State. It is designed to answer commonly asked questions
+about grand jury service. Whether or not you actually sit on a grand
+jury, this handbook has information that everyone should know about
+grand juries and grand jury service.
+This handbook is not a substitute for Article 190 of the Criminal
+Procedure Law, which is the legal framework for the grand jury. New
+York State law requires that each grand juror be given a copy of Article
+190 to read and to use as a reference while serving as a grand juror.
+There is a copy of Article 190 starting at page 14 of this handbook.
+If you do sit on a grand jury, remember that the grand jury’s legal
+advisors are the District Attorney or assistant district attorney (also
+called the prosecutor) and the judge - and no one else. Any questions
+you have about the law should be addressed only to the prosecutor,
+and, if necessary, to the judge. For other questions about grand jury
+service, you should consult with commissioner of jurors’ staff or the
+grand jury warden, or with the prosecutor if a grand juror needs to
+speak with a judge.
+The Role of the Grand Jury in the Criminal Justice System
+The grand jury is an arm of the court. It is not an agent of the
+prosecutor or the police. A grand jury does not decide whether or not
+a person has been proven guilty. That is the trial jury’s job. The grand
+jury decides whether or not a person should be formally charged with
+a crime or other offense. The grand jury makes that decision based
+on evidence presented to it by the prosecutor, who also instructs the
+grand jury on the law. The grand jury’s decision must be based on the
+evidence and on the law.
+In general, the grand jury makes one of three decisions:
+a) The grand jury may vote to formally accuse someone of a crime.
+This accusation is called an “indictment,” also known as a “bill”
+which is short for “bill of indictment.”
+b) The grand jury may vote to dismiss the charges, also known as
+a “no-bill.”
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 1
+
+c) The grand jury may direct the prosecutor to file an information
+accusing the person of an offense less serious than a felony.1
+There are also rare circumstances where a grand jury recommends
+that a case should be sent to Family Court or where the grand jury
+makes a report to the court.
+Why We Have Grand Juries
+The use of trial juries (also called petit juries) and grand juries goes
+back approximately 800 years. Beginning around 1215 A.D., both
+types of juries were used in England. The grand jury made the formal
+accusation, known as a “bill of indictment” or “presentment.”2 The
+trial jury decided whether the accusation was proven.
+The grand jury is included in the United States Constitution and the New
+York State Constitution. In New York State, a person cannot be brought
+to trial for a felony unless that person has been indicted by a grand jury.
+The grand jury has an awesome responsibility. It uses its power both
+as a sword and as a shield: a sword to accuse or indict those whom
+there is reason to believe have committed crimes; a shield to protect
+the innocent against unfounded accusations.
+Differences Between Grand Juries and Trial Juries
+Usually when we think of juries, trial juries come to mind. That’s
+because most people who serve as jurors serve as trial jurors. In fact,
+out of 574,000 people who served as jurors in New York State in 2005,
+only 29,000 of them were grand jurors. Another way of looking at it is
+that only one juror out of 20 is a grand juror.
+There are many differences between trial juries and grand juries. The
+most important is that a grand jury decides whether or not there is
+enough evidence to charge an accused person with a crime and a trial
+jury decides whether or not the person who is charged with a crime has
+been proven guilty beyond a reasonable doubt. (See chart on page 5)
+1) U nder special circumstances in cases involving 13 to 15 year olds, the prosecutor may
+instruct the grand jury about the option of sending or removing the case to Family
+Court. Also, a grand jury may be asked to investigate alleged misconduct in office by
+a public official, criminal or otherwise. As a result of its investigation the grand jury
+may issue a report to the court making recommendations for legislative, executive or
+administrative action in the public interest.
+2) The terms “indictment” and “presentment” are used interchangeably. This handbook
+will refer only to “indictment.”
+2 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+BASICS OF GRAND JURY SERVICE
+Qualifications of Jurors
+Grand jurors and trial jurors must meet the same qualifications. You
+are eligible to serve as a juror in New York State if you are:
+1) a United States citizen,
+2) at least 18 years old, and
+3) a resident of the county to which you are summoned to serve
+In addition, jurors must
+4) be able to understand and communicate in the English
+language, and
+5) not have been convicted of a felony.3
+In general, people who serve as grand jurors or trial jurors in New
+York State are not eligible to be called for jury service again for six
+years. Those who serve for 11 days or more (which is very common for
+grand jurors) cannot be called again for eight years.
+Term of Service
+Your jury summons states whether you have been summoned as a
+grand juror or as a trial juror. Length of service for a grand juror can
+vary from two weeks to a month or more. Where the term of service
+lasts for a month or more, grand jurors usually sit for one or two days
+per week. The grand jury summons states the length of the term and
+the reporting requirements. The Commissioner of Jurors and the
+judge will explain how long the grand jury term of service will be and
+how often grand jurors will be required to be present in court. Grand
+jurors serving for long terms go about their normal business on days
+when the grand jury is not in session.
+Orientation and Selection of a Grand Jury
+Upon arrival at the courthouse, summoned grand jurors typically see
+a grand jury orientation video and the Commissioner of Jurors or a
+member of the Commissioner’s staff explains the logistics of service.
+The actual selection process is conducted by the Commissioner of
+Jurors or by the judge, who are the only people authorized to excuse
+summoned grand jurors. After assuring that all summoned grand
+jurors are qualified to serve, the Commissioner or judge explains the
+3) Persons previously convicted of a felony who have received a Certificate of Relief from
+Civil Disabilities or a Certificate of Good Conduct may be qualified to serve as jurors.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 3
+
+grand jurors’ duties, and 23 jurors are randomly selected from among
+those who are qualified.
+How Many Grand Jurors?
+A grand jury has 23 members. In order to conduct any business
+- hearing evidence or deliberating - a “quorum” of at least 16
+grand jurors must be present. In order to make a decision, at least
+12 grand jurors who have heard the essential and critical evidence
+and also the legal instructions must vote. All jurors who have heard
+the essential and critical evidence and have been provided with the
+instructions may vote.
+The Foreperson
+After the grand jurors are sworn, the judge appoints a foreperson.
+The foreperson administers the oath to each witness who testifies
+before the grand jury (although any member of the grand jury may
+do so) and may chair the grand jury sessions.
+The grand jury’s decisions must be given to the judge in writing. The
+foreperson signs the document and gives it to a member of the court
+staff or directly to the judge. If the grand jury cannot make a decision,
+that too is reported in writing to the judge by the foreperson.
+The Assistant Foreperson
+The judge also appoints an assistant or acting foreperson who
+performs the foreperson’s duties if the foreperson is absent or
+unavailable.
+The Secretary
+The grand jury selects a secretary to keep the records of the grand
+jury’s business. For example, the secretary keeps a record of jurors who
+are not present when evidence or legal instructions are given. When
+the grand jury votes, the secretary records the results of the vote.
+Service as a grand juror begins with an oath of office given to the
+jurors by the judge. The grand jurors swear or affirm that they will
+perform their duties faithfully.
+4 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+Grand Juries and Criminal Trial Juries Compared
+GRAND JURIES AND CRIMINAL TRIAL
+JURIES COMPARED
+QUESTIONS GRAND JURY FELONY TRIAL JURY
+How many jurors? 23 jurors and no alternates 12 jurors plus alternates
+How long does the jury Two weeks to three Length of one trial
+serve? months or more
+depending on the county
+For how many days do the From every day for two Every day until the trial is
+jurors report? weeks or more to a couple completed
+of days a week for several
+months
+How many cases does the Usually hears many cases One
+jury hear?
+Who presents evidence? The prosecution In addition to the
+prosecution, the defense
+may present evidence.
+Is a defense attorney A defense attorney is Yes. The defense attorney
+present? present only if the accused is present throughout the
+person chooses to testify. trial except in cases where
+The defense attorney the defendant is acting as
+is not permitted to ask his or her own lawyer. The
+questions, make objections defense attorney takes an
+or speak to the grand jury. active role in the trial.
+Is a judge present? A judge may be present Yes. The judge must be
+to select the jurors but present in the courtroom
+is not present during throughout the trial.
+presentation of evidence.
+The judge is available
+to answer grand jurors’
+questions as needed.
+How many jurors must be At least 16 All 12 jurors (and
+present to hear evidence? alternates) must be present
+throughout the trial.
+What does the jury Whether or not to formally Whether or not the
+decide? charge the accused person prosecution has proved
+with a crime the defendant guilty
+beyond a reasonable
+doubt
+How many jurors decide? 16 jurors must be present To fi nd a defendant guilty
+to deliberate. 12 jurors or not guilty a unanimous
+who have heard all the vote of the 12 jurors is
+essential and critical required.
+evidence and the legal
+instructions must agree.
+Are the proceedings open No. A grand jury’s work Yes. A jury trial is a public
+to the public? is done in secret. Only proceeding. Only the
+specifi c individuals with jury’s deliberations are
+a role to play in the conducted in secret. In
+proceedings may be rare instances a judge may
+present. close the court-room to
+the public.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 5
+
+THE GRAND JURY GETS TO WORK
+What Grand Juries Do
+A grand jury usually hears many different, unrelated cases. Only the
+prosecution presents evidence to the grand jury. There is no judge
+present during the grand jury’s proceedings. However, a judge is
+available to resolve legal issues and to answer questions, if needed.
+The grand jury’s work comes before a trial. The grand jury’s main job
+is to decide whether or not a person should be formally charged with
+a crime. This formal charge is called an indictment. The grand jury
+decides whether there is legally sufficient evidence of a crime and
+whether there is reasonable cause to believe that the accused person
+committed that crime.
+Grand Jury Secrecy
+Everything that happens in the grand jury room is secret. The purposes
+of grand jury secrecy are to obtain the full cooperation of the witnesses
+who appear before the grand jury, to permit grand jurors to make
+decisions free from outside interference, and to protect an innocent
+person who may be investigated but never indicted.
+Grand jurors must preserve the secrecy of the grand jury proceedings.
+Grand jurors may not discuss anything that occurs in the grand jury
+room with anyone other than the other members of the jury, the
+prosecutor or the judge, if necessary. Any discussion about the case by
+grand jurors must occur only in the grand jury room. When proposing
+questions for a witness, grand jurors should take care not to reveal
+the identity of another witness, the substance of another witness’s
+testimony, or other evidence they have heard or seen. Grand jurors
+may not tell others anything about any action the grand jury takes.
+Unlike others involved with the grand jury, witnesses are not required
+to keep their role secret. Grand jury witnesses are allowed to discuss
+their own testimony in public if they wish to do so. Anyone other than
+a witness who violates the secrecy of a grand jury is subject to serious
+penalties, including imprisonment.
+No one may talk to a grand juror about the grand jury’s work. A grand
+juror should immediately inform the jury staff, grand jury warden, the
+prosecutor or, if necessary, the judge if anyone outside the grand jury
+room approaches the grand juror and tries to talk about the grand
+jury or its work.
+6 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+Reasons For Grand Jury Secrecy
+• Full cooperation • Protection of the innocent
+from witnesses - who may be investigated,
+• Free and confidential but never indicted
+deliberations
+Who is Present in the Grand Jury Room?
+The law strictly limits who may be present in the grand jury room
+during grand jury proceedings. Only those who have official duties
+may be present. In addition to the grand jurors themselves, those who
+may be present include: the prosecutor, the witness, an attorney for
+the witness, an interpreter, the stenographer who records everything
+that is said during the proceedings, and a court employee authorized
+to assist the grand jury. Sometimes a social worker, rape crisis
+counselor, psychologist or other professional accompanies a child
+witness during the child’s testimony. If there is evidence that must be
+presented by video, then a video operator is present. And, finally, a
+corrections officer or other public servant will accompany a witness
+who is in custody.
+When the grand jury is deliberating and voting, only the grand
+jurors may be in the room. The only exception to this rule is where a
+sign-language interpreter is needed for a deaf or hearing-impaired
+grand juror.
+Who May be Present in the Grand Jury Room?
+• Jurors • Court employee who assists
+• Prosecutor the grand jury
+• Witness • Professional accompanying a
+• Attorney for the witness child witness
+• Stenographer • Video operator
+• Interpreter • Public servant holding a
+witness in custody
+Grand Jurors’ Questions
+Grand jurors may ask questions about the law. They may also ask
+questions of witnesses about the evidence. Generally, the prosecutor
+reviews grand jurors’ questions for witnesses and permits only those
+that are relevant and legally proper.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 7
+
+All substantive discussions between grand jurors and prosecutors
+or between grand jurors and judges are recorded stenographically.
+There are no “off the record” remarks about the substance of a case
+in the grand jury.
+Note-Taking by Grand Jurors
+Because grand jurors may hear evidence in many cases and because
+there may be gaps of days or weeks between witnesses or between
+hearing evidence and deliberating, many grand jurors find taking
+notes helpful, and sometimes essential, in recalling the evidence in a
+particular case. In some counties, grand jurors are given note-taking
+materials. Grand jurors who are not given such materials may request
+them from Commissioner of Jurors staff or the grand jury warden.
+Jurors who do not take notes should rely on their own independent
+recollection and should not be influenced by the notes of other grand
+jurors. At any time the grand jury may ask the stenographer to read
+testimony from the transcript.
+Grand jurors’ notes must remain in the grand jury room at all times.
+All notes are collected and destroyed when the grand jury’s work
+is completed.
+The Accused Person’s Role
+An accused person is not required to testify before the grand jury and
+may not even be aware that he or she is being investigated by one.
+Sometimes the accused person chooses to testify before the grand
+jury. When that happens, the person’s attorney may be present in
+the grand jury room only during the defendant’s testimony to advise
+him or her during the testimony. The attorney may not ask questions,
+make objections or address the grand jury.
+An accused person who does not testify is not permitted to have an
+attorney present for any part of the grand jury proceedings. This is
+because unlike a trial, the grand jury proceeding is not an adversary
+proceeding. The purpose of a grand jury proceeding is only to decide
+whether or not the prosecution has enough evidence to proceed with
+a case against the person and not whether or not the prosecution
+can prove that person guilty beyond a reasonable doubt. Therefore,
+it is only at a trial that a defendant may have an attorney present
+at all times.
+8 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+An accused person who is indicted - formally charged with a crime -
+becomes a defendant in a criminal case. A defendant is represented
+by an attorney for all proceedings, except in the rare case where a
+defendant decides to represent herself or himself.
+Deciding Which Witnesses Testify
+The prosecutor can call any witness believed to have relevant
+information. Also, the grand jury may direct the prosecutor to call
+witnesses or to recall witnesses who have already testified.
+In addition, the accused person or that person’s attorney may ask
+the grand jury to hear from a particular witness. If such a request is
+made, the grand jury decides whether it wishes to hear the witness’s
+testimony. If the grand jury wishes to hear from the witness, the grand
+jury directs the prosecutor to subpoena the witness.
+When the grand jury directs the prosecutor to call a witness, that
+request must be honored. However, the prosecutor may ask the judge
+to limit or prevent a witness’s appearance. If the judge concludes that
+the witness’s appearance would not be in the public interest, the
+witness will not be called to testify.
+How the Grand Jury Makes Decisions
+Before the grand jury is asked to deliberate and vote, the prosecutor
+gives the legal definitions of the proposed charges and other legal
+instructions. Grand jurors may ask questions about these definitions
+and instructions of the prosecutor and, if necessary, the judge.
+In order for a grand jury to deliberate and vote on a case, a “quorum”
+of at least 16 grand jurors must be present. The grand jurors discuss
+with each other the evidence and the legal instructions and then
+they vote. No one else is present in the room when the grand jury
+deliberates and votes except a sign language interpreter if needed for
+a juror. At any time the grand jury may ask the stenographer to read
+testimony from the transcript.
+To formally charge an accused person with a crime, 12 grand jurors
+who heard all the essential and critical evidence and also the legal
+instructions must agree that there is legally sufficient evidence and
+reasonable cause to believe that the accused person committed a
+crime. A grand juror who has not heard all the essential and critical
+evidence on a case or who has not heard the legal instructions cannot
+vote in that case.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 9
+
+QUESTIONS ABOUT GRAND JURY SERVICE
+What if I recognize a witness or the name of the accused person?
+A grand juror who recognizes a witness or the name of an accused
+person should immediately inform the Commissioner of Jurors staff
+or the grand jury warden or the District Attorney or assistant district
+attorney or the judge.
+What if grand jury service would be a hardship for me?
+Grand juries, like trial juries, represent the communities from which they
+are drawn. Despite the inconvenience, everyone who is summoned is
+expected to serve. Excusals from grand jury service are granted rarely,
+and only after a juror provides proof to the Commissioner of Jurors
+or to the judge that grand jury service would pose a severe hardship.
+Do I have to attend every session?
+Yes. Attendance must be taken seriously. A grand juror is expected to
+report for every day that the grand jury is sitting. However, the law
+recognizes that there are emergencies or other unusual circumstances
+when a grand juror must be absent. A grand juror who cannot be
+present should contact Commissioner of Jurors staff or the grand jury
+warden to explain.
+When grand jurors are absent, serious consequences can result. No
+evidence can be presented and no vote can be taken unless a “quorum”
+of 16 grand jurors is present. A juror who has not heard all of the essential
+and critical evidence on a case cannot vote on that case. Jurors should
+bear in mind that evidence might be presented on different days.
+Will I understand what I have to do?
+Grand jurors listen to all the evidence presented and decide which
+evidence or witnesses are credible. All individuals, regardless of
+educational level or occupation, are equally equipped to make these
+decisions. The grand jury’s conclusion is a group decision; it is not the
+decision of any single person. For centuries, our jury system has worked
+well with citizens using their common sense and good judgment while
+serving as grand jurors and as trial jurors.
+What should I wear?
+Grand jury service is a very serious matter. The grand jury plays a
+crucial role in the criminal justice system. A juror’s appearance and
+attitude should reflect the importance of the grand jury’s work.
+Clothes appropriate to a dignified occasion should be worn.
+10 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+When will I have to serve again?
+Jurors who sit for 11 days or more and successfully complete their
+service will not be eligible to be called again for eight years. Generally,
+jurors who serve for less than 11 days are eligible to be called again
+in six years. A person who is qualified and called again is selected at
+random from the county wide pool of jurors and may be summoned
+either as a trial juror or a grand juror.
+Will I get paid for my grand jury service?
+Grand jurors are paid according to the same rules as trial jurors. The
+jury fee is $40 per day. The law requires employers with more than ten
+employees to pay an employee serving as a juror at least $40 per day
+for the first three days of service. After the first three days, the state
+pays the jury fee to jurors whose employers are not paying them.
+The state pays the $40 fee for jurors who work for employers with
+fewer than ten employees if the employer is not paying them. The
+state also pays the jury fee to jurors who are not employed, or who
+are serving while on vacation or on a regularly scheduled day off. For
+more information about juror payment, see the chart that appears
+on the next page or go to “Who pays your jury fee?” at the court
+system’s website: www.nyjuror.gov.
+The Commissioner of Jurors is required to collect Social Security
+numbers from all jurors who may be paid $600 or more for their
+service. Jurors paid $600 or more will be issued an IRS 1099 form for
+tax purposes at the end of the calendar year.
+Grand jurors serve until they are discharged by the judge. The judge
+may extend the grand jury term if the District Attorney or assistant
+district attorney and the grand jury say that it cannot complete its
+work before the end of its term of service. However, it is rare that a
+grand jury’s term is extended.
+CONCLUSION
+The decision whether or not to charge someone with a crime is an
+important one. The grand jury must give individual consideration to
+each person under investigation and to each charge being considered.
+The grand jury’s decisions must be based on the evidence and on the
+law and not on speculation, bias, hostility or prejudice.
+The judge, the witnesses, the attorneys and, most important, the
+accused person all rely upon each individual grand juror to perform
+the duties of a grand juror with honesty, integrity and fairness.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 11
+
+Who pays the jury fee?
+WHO PAYS THE JURY FEE?
+JUROR: ARE YOU EMPLOYED?
+YES NO / COLLECTING STATE PAYS
+• Social Security JURY FEE
+• Unemployment
+• Workers Comp
+• Wages • 100% Commission STATE PAYS
+• Salary • Casual Postal Worker JURY FEE
+• Self-employed • Receiving a Draw
+Are you normally scheduled to work (any shift) on
+the same day as jury service?
+STATE PAYS
+JURY FEE
+YES NO
+Will you miss any work in order to serve?
+STATE PAYS
+JURY FEE
+YES NO
+Will you be paid wages for time missed from work?
+USE CHART
+YES NO / NOT SURE ON NEXT
+PAGE TO SEE
+WHO PAYS
+Are the wages you will be paid HIGHER or LOWER
+than the jury fee?
+HIGHER LOWER STATE PAYS
+If your wage for time If your wage for time DIFFERENCE
+missed from work is missed from work is
+higher than the jury lower than the jury
+fee, then the State fee, then the State
+does not pay. pays the difference
+between the wage STATE
+and the jury fee. DOES NOT
+PAY JURY
+FEE
+12 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+EMPLOYER: HOW MANY EMPLOYEES DO YOU HAVE?
+MORE THAN 10 10 or FEWER STATE PAYS
+EMPLOYEES EMPLOYEES JURY FEE*
+What day of service? * To jurors
+who are not
+paid by their
+DAY 1, 2 or 3: DAY 4 or MORE: employers
+For the fi rst 3 days of Beginning on the 4th
+jury service, employers day of jury service, STATE PAYS
+of more than 10 must the State pays the jury JURY FEE
+pay the jury fee or the fee to employees who
+wage. are not paid at least
+the jury fee by their
+employers.
+Is wage paid for time missed from work HIGHER or
+LOWER than the jury fee?
+HIGHER LOWER STATE PAYS
+If the employee’s If the employee’s wage DIFFERENCE
+wage for time missed for time missed from
+from work is higher work is lower than
+than the jury fee, the the jury fee, the State
+employer must pay at pays the difference
+least the jury fee. between the wage and
+the jury fee. EMPLOYER
+PAYS
+JURY FEE
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 13
+
+ARTICLE 190
+ARTICLE 190
+THE GRAND JURY AND ITS PROCEEDINGS
+§ 190.05 Grand jury; definition and general functions. .......................................................15
+§ 190.10 Grand jury; for what courts drawn. ....................................................................................15
+§ 190.15 Grand jury; duration of term and discharge. ...........................................................15
+§ 190.20 Grand jury; formation, organization and other matters
+preliminary to assumption of duties. ................................................................................16
+§ 190.25 Grand jury; proceedings and operation in general. ........................................17
+§ 190.30 Grand jury; rules of evidence. ...................................................................................................19
+§ 190.32 Videotaped examination; definitions, application, order and
+procedure. .......................................................................................................................................................23
+§ 190.35 Grand jury; definitions of terms. ...........................................................................................25
+§ 190.40 Grand jury; witnesses, compulsion of evidence and immunity. .........25
+§ 190.45 Grand jury; waiver of immunity. ............................................................................................26
+§ 190.50 Grand jury; who may call witnesses; defendant as witness. ..................26
+§ 190.52 Grand jury; attorney for witness. ..........................................................................................29
+§ 190.55 Grand jury; matters to be heard and examined; duties and
+authority of district attorney.....................................................................................................29
+§ 190.60 Grand jury; action to be taken. ...............................................................................................30
+§ 190.65 Grand jury; when indictment is authorized. ............................................................30
+§ 190.70 Grand jury; direction to file prosecutor`s information and
+related matters. .........................................................................................................................................31
+§ 190.71 Grand jury; direction to file request for removal to family court. ...31
+§ 190.75 Grand jury; dismissal of charge. ..............................................................................................33
+§ 190.80 Grand jury; release of defendant upon failure of timely grand
+jury action. ......................................................................................................................................................33
+§ 190.85 Grand jury; grand jury reports. ...............................................................................................34
+§ 190.90 Grand jury; appeal from order concerning grand jury reports. .........35
+14 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.05 Grand jury; definition and general functions.
+A grand jury is a body consisting of not less than sixteen nor more
+than twenty-three persons, impaneled by a superior court and
+constituting apart of such court, the functions of which are to
+hear and examine evidence concerning offenses and concerning
+misconduct, nonfeasance and neglect in public office, whether
+criminal or otherwise, and to take action with respect to such evidence
+as provided in section 190.60.
+§ 190.10 Grand jury; for what courts drawn.
+The appellate division of each judicial department shall adopt rules
+governing the number and the terms for which grand juries shall be
+drawn and impaneled by the superior courts within its department;
+provided, however, that a grand jury may be drawn and impaneled
+for any extraordinary term of the supreme court upon the order of a
+justice assigned to hold such term.
+§ 190.15 Grand jury; duration of term and discharge.
+1) A term of a superior court for which a grand jury has been impan-
+eled remains in existence at least until and including the opening
+date of the next term of such court for which a grand jury has
+been designated. Upon such date, or within five days preceding
+it, the court may, upon declaration of both the grand jury and the
+district attorney that such grand jury has not yet completed or
+will be unable to complete certain business before it, extend the
+term of court and the existence of such grand jury to a specified
+future date, and may subsequently order further extensions for
+such purpose.
+2) At any time when a grand jury is in recess and no other appropri-
+ate grand jury is in existence in the county, the court may, upon
+application of the district attorney or of a defendant held by
+a local criminal court for the action of a grand jury, order such
+grand jury reconvened for the purpose of dealing with a matter
+requiring grand jury action.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 15
+
+§ 190.20 Grand jury; formation, organization and other matters
+preliminary to assumption of duties.
+1) The mode of selecting grand jurors and of drawing and impanel-
+ing grand juries is governed by the judiciary law.
+2) Neither the grand jury panel nor any individual grand juror may
+be challenged, but the court may: (a) At any time before a grand
+jury is sworn, discharge the panel and summon another panel if
+it finds that the original panel does not substantially conform to
+the requirements of the judiciary law; or (b) At any time after a
+grand juror is drawn, refuse to swear him, or discharge him after
+he has been sworn, upon a finding that he is disqualified from
+service pursuant to the judiciary law, or incapable of performing
+his duties because of bias or prejudice, or guilty of misconduct
+in the performance of his duties such as to impair the proper
+functioning of the grand jury.
+3) After a grand jury has been impaneled, the court must appoint
+one of the grand jurors as foreman and another to act as foreman
+during any absence or disability of the foreman. At some time
+before commencement of their duties, the grand jurors must
+appoint one of their number as secretary to keep records material
+to the conduct of the grand jury`s business.
+4) The grand jurors must be sworn by the court. The oath may be in
+any form or language which requires the grand jurors to perform
+their duties faithfully.
+5) After a grand jury has been sworn, the court must deliver or
+cause to be delivered to each grand juror a printed copy of all
+the provisions of this article, and the court may, in addition, give
+the grand jurors any oral and written instructions relating to
+the proper performance of their duties as it deems necessary or
+appropriate.
+6) If two or more grand juries are impaneled at the same court term,
+the court may thereafter, for good cause, transfer grand jurors
+from one panel to another, and any grand juror so transferred is
+deemed to have been sworn as a member of the panel to which
+he has been transferred.
+16 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.25 Grand jury; proceedings and operation in general.
+1) Proceedings of a grand jury are not valid unless at least sixteen of
+its members are present. The finding of an indictment, a direction
+to file a prosecutor`s information, a decision to submit a grand
+jury report and every other affirmative official action or decision
+requires the concurrence of at least twelve members thereof.
+2) The foreman or any other grand juror may administer an oath to
+any witness appearing before the grand jury.
+3) Except as provided in subdivision three-a of this section, during
+the deliberations and voting of a grand jury, only the grand jurors
+may be present in the grand jury room. During its other proceed-
+ings, the following persons, in addition to witnesses, may, as the
+occasion requires, also be present: (a) The district attorney; (b) A
+clerk or other public servant authorized to assist the grand jury
+in the administrative conduct of its proceedings; (c) A stenogra-
+pher authorized to record the proceedings of the grand jury; (d)
+An interpreter. Upon request of the grand jury, the prosecutor
+must provide an interpreter to interpret the testimony of any
+witness who does not speak the English language well enough
+to be readily understood. Such interpreter must, if he has not
+previously taken the constitutional oath of office, first take an
+oath before the grand jury that he will faithfully interpret the
+testimony of the witness and that he will keep secret all matters
+before such grand jury within his knowledge; (e) A public servant
+holding a witness in custody. When a person held in official cus-
+tody is a witness before a grand jury, a public servant assigned
+to guard him during his grand jury appearance may accompany
+him in the grand jury room. Such public servant must, if he has
+not previously taken the constitutional oath of office, first take
+an oath before the grand jury that he will keep secret all matters
+before it within his knowledge. (f) An attorney representing a
+witness pursuant to section 190.52 of this chapter while that
+witness is present. (g) An operator, as that term is defined in
+section 190.32 of this chapter, while the videotaped examination
+of either a special witness or a child witness is being played. (h)
+A social worker, rape crisis counselor, psychologist or other pro-
+fessional providing emotional support to a child witness twelve
+years old or younger, or a social worker or informal caregiver, as
+provided in subdivision two of section two hundred six of the
+elder law, for a vulnerable elderly person as provided in subdivi-
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 17
+
+sion three of section 260.31 of the penal law, who is called to give
+evidence in a grand jury proceeding concerning a crime defined
+in article one hundred twenty-one, article one hundred thirty,
+article two hundred sixty, section 120.10, 125.10, 125.15, 125.20,
+125.25, 125.27, 255.25, 255.26 or 255.27 of the penal law provided
+that the district attorney consents. Such support person shall not
+provide the witness with an answer to any question or otherwise
+participate in such proceeding and shall first take an oath before
+the grand jury that he or she will keep secret all matters before
+such grand jury within his or her knowledge.
+3a) Upon the request of a deaf or hearing-impaired grand juror, the
+prosecutor shall provide a sign language interpreter for such
+juror. Such interpreter shall be present during all proceedings of
+the grand jury which the deaf or hearing-impaired grand juror
+attends, including deliberation and voting. The interpreter shall,
+if he or she has not previously taken the constitutional oath of
+office, first take an oath before the grand jury that he or she
+will faithfully interpret the testimony of the witnesses and the
+statements of the prosecutor, judge and grand jurors; keep
+secret all matters before such grand jury within his or her knowl-
+edge; and not seek to influence the deliberations and voting of
+such grand jury.
+4) (a) Grand jury proceedings are secret, and no grand juror, or other
+person specified in subdivision three of this section or section
+215.70 of the penal law, may, except in the lawful discharge of his
+duties or upon written order of the court, disclose the nature or
+substance of any grand jury testimony, evidence, or any decision,
+result or other matter attending a grand jury proceeding. For the
+purpose of assisting the grand jury in conducting its investigation,
+evidence obtained by a grand jury may be independently exam-
+ined by the district attorney, members of his staff, police officers
+specifically assigned to the investigation, and such other persons
+as the court may specifically authorize. Such evidence may not
+be disclosed to other persons without a court order. Nothing
+contained herein shall prohibit a witness from disclosing his own
+testimony. (b) When a district attorney obtains evidence during
+a grand jury proceeding which provides reasonable cause to sus-
+pect that a child has been abused or maltreated, as those terms
+are defined by section ten hundred twelve of the family court
+act, he must apply to the court supervising the grand jury for an
+order permitting disclosure of such evidence to the state central
+18 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+register of child abuse and maltreatment. A district attorney need
+not apply to the court for such order if he has previously made or
+caused a report to be made to the state central register of child
+abuse and maltreatment pursuant to section four hundred thir-
+teen of the social services law and the evidence obtained during
+the grand jury proceeding, or substantially similar information,
+was included in such report. The district attorney`s application to
+the court shall be made ex parte and in camera. The court must
+grant the application and permit the district attorney to disclose
+the evidence to the state central register of child abuse and
+maltreatment unless the court finds that such disclosure would
+jeopardize the life or safety of any person or interfere with a
+continuing grand jury proceeding.
+5) The grand jury is the exclusive judge of the facts with respect to
+any matter before it.
+6) The legal advisors of the grand jury are the court and the district
+attorney, and the grand jury may not seek or receive legal advice
+from any other source. Where necessary or appropriate, the court
+or the district attorney, or both, must instruct the grand jury con-
+cerning the law with respect to its duties or any matter before it,
+and such instructions must be recorded in the minutes.
+§ 190.30 Grand jury; rules of evidence.
+1) Except as otherwise provided in this section, the provisions of
+article sixty, governing rules of evidence and related matters with
+respect to criminal proceedings in general, are, where appropri-
+ate, applicable to grand jury proceedings.
+2) A report or a copy of a report made by a public servant or by a
+person employed by a public servant or agency who is a physicist,
+chemist, coroner or medical examiner, firearms identification
+expert, examiner of questioned documents, fingerprint techni-
+cian, or an expert or technician in some comparable scientific or
+professional field, concerning the results of an examination, com-
+parison or test performed by him in connection with a case which
+is the subject of a grand jury proceeding, may, when certified by
+such person as a report made by him or as a true copy thereof, be
+received in such grand jury proceeding as evidence of the facts
+stated therein.
+2a) When the electronic transmission of a certified report, or certified
+copy thereof, of the kind described in subdivision two or three-a
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 19
+
+of this section or a sworn statement or copy thereof, of the kind
+described in subdivision three of this section results in a written
+document, such written document may be received in such grand
+jury proceeding provided that: (a) a transmittal memorandum
+completed by the person sending the report contains a certifica-
+tion that the report has not been altered and a description of the
+report specifying the number of pages; and (b) the person who
+receives the electronically transmitted document certifies that
+such document and transmittal memorandum were so received;
+and (c) a certified report or a certified copy or sworn statement
+or sworn copy thereof is filed with the court within twenty days
+following arraignment upon the indictment; and (d) where such
+written document is a sworn statement or sworn copy thereof
+of the kind described in subdivision three of this section, such
+sworn statement or sworn copy thereof is also provided to the de-
+fendant or his counsel within twenty days following arraignment
+upon the indictment.
+3) A written or oral statement, under oath, by a person attesting
+to one or more of the following matters may be received in such
+grand jury proceeding as evidence of the facts stated therein: (a)
+that person`s ownership or lawful custody of, or license to occupy,
+premises, as defined in section 140.00 of the penal law, and of
+the defendant`s lack of license or privilege to enter or remain
+thereupon; (b) that person`s ownership of, or possessory right
+in, property, the nature and monetary amount of any damage
+thereto and the defendant`s lack of right to damage or tamper
+with the property; (c) that person`s ownership or lawful custody
+of, or license to possess property, as defined in section 155.00 of
+the penal law, including an automobile or other vehicle, its value
+and the defendant`s lack of superior or equal right to possession
+thereof; (d) that person`s ownership of a vehicle and the absence
+of his consent to the defendant`s taking, operating, exercising
+control over or using it; (e) that person`s qualifications as a dealer
+or other expert in appraising or evaluating a particular type of
+property, his expert opinion as to the value of a certain item
+or items of property of that type, and the basis for his opinion;
+(f) that person`s identity as an ostensible maker, drafter, drawer,
+endorser or other signator of a written instrument and its falsity
+within the meaning of section 170.00 of the penal law; (g) that
+person’s ownership of, or possessory right in, a credit card account
+number or debit card account number, and the defendant’s lack
+20 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+of superior or equal right to use or possession thereof. Provided,
+however, that no such statement shall be admitted when an ad-
+versarial examination of such person has been previously ordered
+pursuant to subdivision 8 of section 180.60, unless a transcript of
+such examination is admitted.
+3a) A sex offender registration form, sex offender registration
+continuation/supplemental form, sex offender registry address
+verification form, sex offender change of address form or a copy
+of such form maintained by the division of criminal justice services
+concerning an individual who is the subject of a grand jury pro-
+ceeding, may, when certified by a person designated by the com-
+missioner of the division of criminal justice services as the person
+to certify such records, as a true copy thereof, be received in such
+grand jury proceeding as evidence of the facts stated therein.
+4) An examination of a child witness or a special witness by the
+district attorney videotaped pursuant to section 190.32 of this
+chapter may be received in evidence in such grand jury proceed-
+ing as the testimony of such witness.
+5) Nothing in subdivisions two, three or four of this section shall
+be construed to limit the power of the grand jury to cause any
+person to be called as a witness pursuant to subdivision three of
+section 190.50.
+6) Wherever it is provided in article sixty that the court in a criminal
+proceeding must rule upon the competency of a witness to tes-
+tify or upon the admissibility of evidence, such ruling may in an
+equivalent situation in a grand jury proceeding, be made by the
+district attorney.
+7) Wherever it is provided in article sixty that a court presiding at a
+jury trial must instruct the jury with respect to the significance,
+legal effect or evaluation of evidence, the district attorney, in an
+equivalent situation in a grand jury proceeding, may so instruct
+the grand jury.
+8) (a) A business record may be received in such grand jury proceed-
+ings as evidence of the following facts and similar facts stated
+therein: (i) a person’s use of, subscription to and charges and
+payments for communication equipment and services including
+but not limited to equipment or services provided by telephone
+companies and internet service providers, but not including
+recorded conversations or images communicated thereby; and
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 21
+
+(ii) financial transactions, and a person’s ownership or possessory
+interest in any account, at a bank, insurance company, brokerage,
+exchange or banking organization as defined in section two of
+the banking law. (b) Any business record offered for consider-
+ation by a grand jury pursuant to paragraph (a) of this subdivision
+must be accompanied by a written statement, under oath, that
+(i) contains a list or description of the records it accompanies, (ii)
+attests in substance that the person making the statement is a
+duly authorized custodian of the records or other employee or
+agent of the business who is familiar with such records, and (iii)
+attests in substance that such records were made in the regular
+course of business and that it was the regular course of such
+business to make such records at the time of the recorded act,
+transaction, occurrence or event, or within a reasonable time
+thereafter. Such written statement may also include a statement
+identifying the name and job description of the person making
+the statement, specifying the matters set forth in subparagraph
+(ii) of this paragraph and attesting that the business has made a
+diligent search and does not possess a particular record or records
+addressing a matter set forth in paragraph (a) of this subdivision,
+and such statement may be received at grand jury proceedings
+as evidence of the fact that the business does not possess such
+record or records. When records of a business are accompanied
+by more than one sworn written statement of its employees or
+agents, such statements may be considered together in deter-
+mining the admissibility of the records under this subdivision. For
+the purpose of this subdivision, the term “business records” does
+not include any records prepared by law enforcement agencies
+or prepared by any entity in anticipation of litigation. (c) Any
+business record offered to a grand jury pursuant to paragraph (a)
+of this subdivision that includes material beyond that described
+in such paragraph (a) shall be redacted to exclude such additional
+material, or received subject to a limiting instruction that the
+grand jury shall not consider such additional material in support of
+any criminal charge. (d) No such records shall be admitted when
+an adversarial examination of such a records custodian or other
+employee of such business who was familiar with such records has
+been previously ordered pursuant to subdivision eight of section
+180.60 of this chapter, unless a transcript of such examination is
+admitted. (e) Nothing in this subdivision shall affect the admissi-
+bility of business records in the grand jury on any basis other than
+that set forth in this subdivision.
+22 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.32 Videotaped examination; definitions, application, order
+and procedure.
+1) Definitions. As used in this section: (a) “Child witness” means a
+person twelve years old or less whom the people intend to call as
+witness in a grand jury proceeding to give evidence concerning
+any crime defined in article one hundred thirty or two hundred
+sixty or section 255.25 of the penal law of which the person was
+a victim. (b) “Special witness” means a person whom the people
+intend to call as a witness in a grand jury proceeding and who
+is either: (i) Unable to attend and testify in person in the grand
+jury proceeding because the person is either physically ill or inca-
+pacitated; or (ii) More than twelve years old and who is likely to
+suffer very severe emotional or mental stress if required to testify
+in person concerning any crime defined in article one hundred
+thirty or two hundred sixty or section 255.25 of the penal law
+to which the person was a witness or of which the person was a
+victim. (c) “Operator” means a person employed by the district at-
+torney who operates the video camera to record the examination
+of a child witness or a special witness.
+2) In lieu of requiring a witness who is a child witness to appear in
+person and give evidence in a grand jury proceeding, the district
+attorney may cause the examination of such witness to be vid-
+eotaped in accordance with the provisions of subdivision five of
+this section.
+3) Whenever the district attorney has reason to believe that a wit-
+ness is a special witness, he may make an ex parte application to
+the court for an order authorizing the videotaping of an exam-
+ination of such special witness and the subsequent introduction
+in evidence in a grand jury proceeding of that videotape in lieu
+of the live testimony of such special witness. The application
+must be in writing, must state the grounds of the application and
+must contain sworn allegations of fact, whether of the district
+attorney or another person or persons, supporting such grounds.
+Such allegations may be based upon personal knowledge of the
+deponent or upon information and belief, provided, that in the
+latter event, the sources of such information and the grounds for
+such belief are stated.
+4) If the court is satisfied that a witness is a special witness, it shall
+issue an order authorizing the videotaping of such special wit-
+ness in accordance with the provisions of subdivision five of this
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 23
+
+section. The court order and the application and all supporting
+papers shall not be disclosed to any person except upon further
+court order.
+5) The videotaping of an examination either of a child witness or a
+special witness shall proceed as follows: (a) An examination of a
+child witness or a special witness which is to be videotaped pur-
+suant to this section may be conducted anywhere and at any time
+provided that the operator begins the videotape by recording a
+statement by the district attorney of the date, time and place of
+the examination. In addition, the district attorney shall identify
+himself, the operator and all other persons present. (b) An accu-
+rate clock with a sweep second hand shall be placed next to or
+behind the witness in such position as to enable the operator to
+videotape the clock and the witness together during the entire
+examination. In the alternative, a date and time generator shall
+be used to superimpose the day, hour, minute and second over
+the video portion of the recording during the entire examination.
+(c) A social worker, rape crisis counselor, psychologist or other
+professional providing emotional support to a child witness or to
+a special witness, as defined in subparagraph (ii) of paragraph (b)
+of subdivision one of this section, or any of those persons enumer-
+ated in paragraphs (a), (b), (c), (d), (e), (f ) and (g) of subdivision
+three of section 190.25 may be present during the videotaping
+except that a doctor, nurse or other medical assistant also may be
+present if required by the attendant circumstances. Each person
+present, except the witness, must, if he has not previously taken
+a constitutional oath of office or an oath that he will keep secret
+all matters before a grand jury, must take an oath on the record
+that he will keep secret the videotaped examination. (d) The dis-
+trict attorney shall state for the record the name of the witness,
+and the caption and the grand jury number, if any, of the case.
+If the witness to be examined is a child witness, the date of the
+witness` birth must be recorded. If the witness to be examined is a
+special witness, the date of the order authorizing the videotaped
+examination and the name of the justice who issued the order
+shall be recorded. (e) If the witness will give sworn testimony, the
+administration of the oath must be recorded. If the witness will
+give unsworn testimony, a statement that the testimony is not
+under oath must be recorded. (f ) If the examination requires the
+use of more than one tape, the operator shall record a statement
+of the district attorney at the end of each tape declaring that
+24 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+such tape has ended and referring to the succeeding tape. At the
+beginning of such succeeding tape, the operator shall record a
+statement of the district attorney identifying himself, the witness
+being examined and the number of tapes which have been used
+to record the examination of such witness. At the conclusion of
+the examination the operator shall record a statement of the dis-
+trict attorney certifying that the recording has been completed,
+the number of tapes on which the recording has been made and
+that such tapes constitute a complete and accurate record of the
+examination of the witness. (g) A videotape of an examination
+conducted pursuant to this section shall not be edited unless
+upon further order of the court.
+6) When the videotape is introduced in evidence and played in the
+grand jury, the grand jury stenographer shall record the examina-
+tion in the same manner as if the witness had testified in person.
+7) Custody of the videotape shall be maintained in the same manner
+as custody of the grand jury minutes.
+§ 190.35 Grand jury; definitions of terms.
+The term definitions contained in section 50.10 are applicable to
+sections 190.40, 190.45 and 190.50.
+§ 190.40 Grand jury; witnesses, compulsion of evidence
+and immunity.
+1) Every witness in a grand jury proceeding must give any evidence
+legally requested of him regardless of any protest or belief on his
+part that it may tend to incriminate him.
+2) A witness who gives evidence in a grand jury proceeding receives
+immunity unless: (a) He has effectively waived such immunity
+pursuant to section 190.45; or (b) Such evidence is not responsive
+to any inquiry and is gratuitously given or volunteered by the
+witness with knowledge that it is not responsive. (c) The evidence
+given by the witness consists only of books, papers, records or
+other physical evidence of an enterprise, as defined in subdivision
+one of section 175.00 of the penal law, the production of which
+is required by a subpoena duces tecum, and the witness does not
+possess a privilege against self-incrimination with respect to the
+production of such evidence. Any further evidence given by the
+witness entitles the witness to immunity except as provided in
+subparagraph (a) and (b) of this subdivision.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 25
+
+§ 190.45 Grand jury; waiver of immunity.
+1) A waiver of immunity is a written instrument subscribed by a
+person who is or is about to become a witness in a grand jury
+proceeding, stipulating that he waives his privilege against
+self-incrimination and any possible or prospective immunity to
+which he would otherwise become entitled, pursuant to section
+190.40, as a result of giving evidence in such proceeding.
+2) A waiver of immunity is not effective unless and until it is sworn
+to before the grand jury conducting the proceeding in which the
+subscriber has been called as a witness.
+3) A person who is called by the people as a witness in a grand jury
+proceeding and requested by the district attorney to subscribe
+and swear to a waiver of immunity before giving evidence has
+a right to confer with counsel before deciding whether he will
+comply with such request, and, if he desires to avail himself of
+such right, he must be accorded a reasonable time in which to
+obtain and confer with counsel for such purpose. The district
+attorney must inform the witness of all such rights before ob-
+taining his execution of such a waiver of immunity. Any waiver
+obtained, subscribed or sworn to in violation of the provisions of
+this subdivision is invalid and ineffective.
+4) If a grand jury witness subscribes and swears to a waiver of
+immunity upon a written agreement with the district attorney
+that the interrogation will be limited to certain specified subjects,
+matters or areas of conduct, and if after the commencement of
+his testimony he is interrogated and testifies concerning another
+subject, matter or area of conduct not included in such written
+agreement, he receives immunity with respect to any further tes-
+timony which he may give concerning such other subject, matter
+or area of conduct and the waiver of immunity is to that extent
+ineffective.
+§ 190.50 Grand jury; who may call witnesses;
+defendant as witness.
+1) Except as provided in this section, no person has a right to call a
+witness or appear as a witness in a grand jury proceeding.
+2) The people may call as a witness in a grand jury proceeding any
+person believed by the district attorney to possess relevant infor-
+mation or knowledge.
+26 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+3) The grand jury may cause to be called as a witness any person be-
+lieved by it to possess relevant information or knowledge. If the
+grand jury desires to hear any such witness who was not called by
+the people, it may direct the district attorney to issue and serve
+a subpoena upon such witness, and the district attorney must
+comply with such direction. At any time after such a direction,
+however, or at any time after the service of a subpoena pursuant
+to such a direction and before the return date thereof, the people
+may apply to the court which impaneled the grand jury for an
+order vacating or modifying such direction or subpoena on the
+ground that such is in the public interest. Upon such application,
+the court may in its discretion vacate the direction or subpoena,
+attach reasonable conditions thereto, or make other appropriate
+qualification thereof.
+4) Notwithstanding the provisions of subdivision three, the dis-
+trict attorney may demand that any witness thus called at the
+instance of the grand jury sign a waiver of immunity pursuant
+to section 190.45 before being sworn, and upon such demand
+no oath may be administered to such witness unless and until he
+complies therewith.
+5) Although not called as a witness by the people or at the instance of
+the grand jury, a person has a right to be a witness in a grand jury
+proceeding under circumstances prescribed in this subdivision: (a)
+When a criminal charge against a person is being or is about to
+be or has been submitted to a grand jury, such person has a right
+to appear before such grand jury as a witness in his own behalf
+if, prior to the filing of any indictment or any direction to file a
+prosecutor`s information in the matter, he serves upon the district
+attorney of the county a written notice making such request and
+stating an address to which communications may be sent. The
+district attorney is not obliged to inform such a person that such
+a grand jury proceeding against him is pending, in progress or
+about to occur unless such person is a defendant who has been
+arraigned in a local criminal court upon a currently undisposed
+of felony complaint charging an offense which is a subject of
+the prospective or pending grand jury proceeding. In such case,
+the district attorney must notify the defendant or his attorney
+of the prospective or pending grand jury proceeding and accord
+the defendant a reasonable time to exercise his right to appear
+as a witness therein; (b) Upon service upon the district attorney
+of a notice requesting appearance before a grand jury pursuant
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 27
+
+to paragraph (a), the district attorney must notify the foreman
+of the grand jury of such request, and must subsequently serve
+upon the applicant, at the address specified by him, a notice that
+he will be heard by the grand jury at a given time and place.
+Upon appearing at such time and place, and upon signing and
+submitting to the grand jury a waiver of immunity pursuant to
+section 190.45, such person must be permitted to testify before
+the grand jury and to give any relevant and competent evidence
+concerning the case under consideration. Upon giving such
+evidence, he is subject to examination by the people. (c) Any in-
+dictment or direction to file a prosecutor`s information obtained
+or filed in violation of the provisions of paragraph (a) or (b) is
+invalid and, upon a motion made pursuant to section 170.50 or
+section 210.20, must be dismissed; provided that a motion based
+upon such ground must be made not more than five days after
+the defendant has been arraigned upon the indictment or, as the
+case may be, upon the prosecutor`s information resulting from
+the grand jury`s direction to file the same. If the contention is
+not so asserted in timely fashion, it is waived and the indictment
+or prosecutor`s information may not thereafter be challenged on
+such ground.
+6) A defendant or person against whom a criminal charge is being
+or is about to be brought in a grand jury proceeding may request
+the grand jury, either orally or in writing, to cause a person des-
+ignated by him to be called as a witness in such proceeding. The
+grand jury may as a matter of discretion grant such request and
+cause such witness to be called pursuant to subdivision three.
+7) Where a subpoena is made pursuant to this section, all papers and
+proceedings relating to the subpoena and any motion to quash,
+fix conditions, modify or compel compliance shall be kept secret
+and not disclosed to the public by any public officer or public
+employee or any other individual described in section 215.70 of
+the penal law. This subdivision shall not apply where the person
+subpoenaed and the prosecutor waive the provisions of this
+subdivision. This subdivision shall not prevent the publication of
+decisions and orders made in connection with such proceedings
+or motions, provided the caption and content of the decision are
+written or altered by the court to reasonably preclude identifica-
+tion of the person subpoenaed.
+28 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.52 Grand jury; attorney for witness.
+1) Any person who appears as a witness and has signed a waiver of
+immunity in a grand jury proceeding, has a right to an attorney
+as provided in this section. Such a witness may appear with a
+retained attorney, or if he is financially unable to obtain counsel,
+an attorney who shall be assigned by the superior court which im-
+paneled the grand jury. Such assigned attorney shall be assigned
+pursuant to the same plan and in the same manner as counsel are
+provided to persons charged with crime pursuant to section seven
+hundred twenty-two of the county law.
+2) The attorney for such witness may be present with the witness in
+the grand jury room. The attorney may advise the witness, but
+may not otherwise take any part in the proceeding.
+3) The superior court which impaneled the grand jury shall have the
+same power to remove an attorney from the grand jury room as
+such court has with respect to an attorney in a courtroom.
+§ 190.55 Grand jury; matters to be heard and examined; duties and
+authority of district attorney.
+1) A grand jury may hear and examine evidence concerning the al-
+leged commission of any offense prosecutable in the courts of the
+county, and concerning any misconduct, nonfeasance or neglect in
+public office by a public servant, whether criminal or otherwise.
+2) District attorneys are required or authorized to submit evidence
+to grand juries under the following circumstances: (a) A district
+attorney must submit to a grand jury evidence concerning a felony
+allegedly committed by a defendant who, on the basis of a felony
+complaint filed with a local criminal court of the county, has been
+held for the action of a grand jury of such county, except where in-
+dictment has been waived by the defendant pursuant to article one
+hundred ninety-five. (b) A district attorney must submit to a grand
+jury evidence concerning a misdemeanor allegedly committed by a
+defendant who has been charged therewith by a local criminal court
+accusatory instrument, in any case where a superior court of the
+county has, pursuant to subdivision one of section 170.25, ordered
+that such misdemeanor charge be prosecuted by indictment in a
+superior court. (c) A district attorney may submit to a grand jury any
+available evidence concerning an offense prosecutable in the courts
+of the county, or concerning misconduct, nonfeasance or neglect in
+public office by a public servant, whether criminal or otherwise.
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 29
+
+§ 190.60 Grand jury; action to be taken.
+After hearing and examining evidence as prescribed in section 190.55,
+a grand jury may:
+1) Indict a person for an offense, as provided in section 190.65;
+2) Direct the district attorney to file a prosecutor`s information with
+a local criminal court, as provided in section 190.70;
+3) Direct the district attorney to file a request for removal to the
+family court, as provided in section 190.71 of this article.
+4) Dismiss the charge before it, as provided in section 190.75;
+5) Submit a grand jury report, as provided in section 190.85.
+§ 190.65 Grand jury; when indictment is authorized.
+1) Subject to the rules prescribing the kinds of offenses which may
+be charged in an indictment, a grand jury may indict a person
+for an offense when (a) the evidence before it is legally sufficient
+to establish that such person committed such offense provided,
+however, such evidence is not legally sufficient when corrobo-
+ration that would be required, as a matter of law, to sustain a
+conviction for such offense is absent, and (b) competent and ad-
+missible evidence before it provides reasonable cause to believe
+that such person committed such offense.
+2) The offense or offenses for which a grand jury may indict a person
+in any particular case are not limited to that or those which may
+have been designated, at the commencement of the grand jury
+proceeding, to be the subject of the inquiry; and even in a case
+submitted to it upon a court order, pursuant to the provisions of
+section 170.25, directing that a misdemeanor charge pending in a
+local criminal court be prosecuted by indictment, the grand jury
+may indict the defendant for a felony if the evidence so warrants.
+3) Upon voting to indict a person, a grand jury must, through its
+foreman or acting foreman, file an indictment with the court by
+which it was impaneled.
+30 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.70 Grand jury; direction to file prosecutor`s information and
+related matters.
+1) Except in a case submitted to it pursuant to the provisions of
+section 170.25, a grand jury may direct the district attorney to
+file in a local criminal court a prosecutor`s information charging
+a person with an offense other than a felony when (a) the evi-
+dence before it is legally sufficient to establish that such person
+committed such offense, and (b) competent and admissible
+evidence before it provides reasonable cause to believe that such
+person committed such offense. In such case, the grand jury must,
+through its foreman or acting foreman, file such direction with
+the court by which it was impaneled.
+2) Such direction must be signed by the foreman or acting foreman. It
+must contain a plain and concise statement of the conduct constitut-
+ing the offense to be charged, equivalent in content and precision
+to the factual statement required to be contained in an indictment
+pursuant to subdivision seven of section 200.50. Subject to the
+rules prescribed in sections 200.20 and 200.40 governing joinder in
+a single indictment of multiple offenses and multiple defendants,
+such grand jury direction may, where appropriate, specify multiple
+offenses of less than felony grade and multiple defendants, and
+may direct that the prospective prosecutor`s information charge
+a single defendant with multiple offenses, or multiple defendants
+jointly with either a single offense or multiple offenses.
+3) Upon the filing of such grand jury direction, the court must, unless
+such direction is insufficient on its face, issue an order approving
+such direction and ordering the district attorney to file such a
+prosecutor`s information in a designated local criminal court
+having trial jurisdiction of the offense or offenses in question.
+§ 190.71 Grand jury; direction to file request for removal to
+family court.
+(a) Except as provided in subdivision six of section 200.20 of this
+chapter, a grand jury may not indict (i) a person thirteen years of
+age for any conduct or crime other than conduct constituting a crime
+defined in subdivisions one and two of section 125.25 (murder in the
+second degree) or such conduct as a sexually motivated felony, where
+authorized pursuant to section 130.91 of the penal law; (ii) a person
+fourteen or fifteen years of age for any conduct or crime other than
+conduct constituting a crime defined in subdivisions one and two
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 31
+
+of section 125.25 (murder in the second degree) and in subdivision
+three of such section provided that the underlying crime for the
+murder charge is one for which such person is criminally responsible;
+135.25 (kidnapping in the first degree); 150.20 (arson in the first
+degree); subdivisions one and two of section 120.10 (assault in the
+first degree); 125.20 (manslaughter in the first degree); subdivisions
+one and two of section 130.35 (rape in the first degree); subdivisions
+one and two of section 130.50 (criminal sexual act in the first degree);
+130.70 (aggravated sexual abuse in the first degree); 140.30 (burglary
+in the first degree); subdivision one of section 140.25 (burglary in the
+second degree); 150.15 (arson in the second degree); 160.15 (robbery
+in the first degree); subdivision two of section 160.10 (robbery in the
+second degree) of the penal law; subdivision four of section 265.02
+of the penal law, where such firearm is possessed on school grounds,
+as that phrase is defined in subdivision fourteen of section 220.00 of
+the penal law; or section 265.03 of the penal law, where such machine
+gun or such firearm is possessed on school grounds, as that phrase is
+defined in subdivision fourteen of section 220.00 of the penal law;
+or defined in the penal law as an attempt to commit murder in the
+second degree or kidnapping in the first degree, or such conduct as
+a sexually motivated felony, where authorized pursuant to section
+130.91 of the penal law. (b) A grand jury may vote to file a request to
+remove a charge to the family court if it finds that a person thirteen,
+fourteen or fifteen years of age did an act which, if done by a person
+over the age of sixteen, would constitute a crime provided (1) such
+act is one for which it may not indict; (2) it does not indict such
+person for a crime; and (3) the evidence before it is legally sufficient
+to establish that such person did such act and competent and
+admissible evidence before it provides reasonable cause to believe
+that such person did such act. (c) Upon voting to remove a charge to
+the family court pursuant to subdivision (b) of this section, the grand
+jury must, through its foreman or acting foreman, file a request to
+transfer such charge to the family court. Such request shall be filed
+with the court by which it was impaneled. It must (1) allege that a
+person named therein did any act which, if done by a person over the
+age of sixteen, would constitute a crime; (2) specify the act and the
+time and place of its commission; and (3) be signed by the foreman
+or the acting foreman. (d) Upon the filing of such grand jury request,
+the court must, unless such request is improper or insufficient on its
+face, issue an order approving such request and direct that the charge
+be removed to the family court in accordance with the provisions of
+article seven hundred twenty-five of this chapter.
+32 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+§ 190.75 Grand jury; dismissal of charge.
+1) If upon a charge that a designated person committed a crime, ei-
+ther (a) the evidence before the grand jury is not legally sufficient
+to establish that such person committed such crime or any other
+offense, or (b) the grand jury is not satisfied that there is reason-
+able cause to believe that such person committed such crime or
+any other offense, it must dismiss the charge. In such case, the
+grand jury must, through its foreman or acting foreman, file its
+finding of dismissal with the court by which it was impaneled.
+2) If the defendant was previously held for the action of the grand
+jury by a local criminal court, the superior court to which such
+dismissal is presented must order the defendant released from
+custody if he is in the custody of the sheriff, or, if he is at liberty
+on bail, it must exonerate the bail.
+3) When a charge has been so dismissed, it may not again be submit-
+ted to a grand jury unless the court in its discretion authorizes or
+directs the people to resubmit such charge to the same or another
+grand jury. If in such case the charge is again dismissed, it may not
+again be submitted to a grand jury.
+4) Whenever all charges against a designated person have been so
+dismissed, the district attorney must within ninety days of the
+filing of the finding of such dismissal, notify that person of the
+dismissal by regular mail to his last known address unless resub-
+mission has been permitted pursuant to subdivision three of this
+section or an order of postponement of such service is obtained
+upon a showing of good cause and exigent circumstances.
+§ 190.80 Grand jury; release of defendant upon failure of timely
+grand jury action.
+Upon application of a defendant who on the basis of a felony
+complaint has been held by a local criminal court for the action
+of a grand jury, and who, at the time of such order or subsequent
+thereto, has been committed to the custody of the sheriff pending
+such grand jury action, and who has been confined in such custody
+for a period of more than forty-five days, or, in the case of a juvenile
+offender, thirty days, without the occurrence of any grand jury action
+or disposition pursuant to subdivision one, two or three of section
+190.60, the superior court by which such grand jury was or is to be
+impaneled must release him on his own recognizance unless: (a) The
+lack of a grand jury disposition during such period of confinement
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 33
+
+was due to the defendant`s request, action or condition, or occurred
+with his consent; or (b) The people have shown good cause why such
+order of release should not be issued. Such good cause must consist
+of some compelling fact or circumstance which precluded grand jury
+action within the prescribed period or rendered the same against the
+interest of justice.
+§ 190.85 Grand jury; grand jury reports.
+1) The grand jury may submit to the court by which it was im-
+paneled, a report: (a) Concerning misconduct, non-feasance
+or neglect in public office by a public servant as the basis for a
+recommendation of removal or disciplinary action; or (b) Stating
+that after investigation of a public servant it finds no misconduct,
+nonfeasance or neglect in public office by him provided that such
+public servant has requested the submission of such report; or (c)
+Proposing recommendations for legislative, executive or adminis-
+trative action in the public interest based upon stated findings.
+2) The court to which such report is submitted shall examine it and
+the minutes of the grand jury and, except as otherwise provided
+in subdivision four, shall make an order accepting and filing
+such report as a public record only if the court is satisfied that
+it complies with the provisions of subdivision one and that: (a)
+The report is based upon facts revealed in the course of an in-
+vestigation authorized by section 190.55 and is supported by the
+preponderance of the credible and legally admissible evidence;
+and (b) When the report is submitted pursuant to paragraph (a)
+of subdivision one, that each person named therein was afford-
+ed an opportunity to testify before the grand jury prior to the
+filing of such report, and when the report is submitted pursuant
+to paragraph (b) or (c) of subdivision one, it is not critical of an
+identified or identifiable person.
+3) The order accepting a report pursuant to paragraph (a) of subdi-
+vision one, and the report itself, must be sealed by the court and
+may not be filed as a public record, or be subject to subpoena or
+otherwise be made public until at least thirty-one days after a
+copy of the order and the report are served upon each public ser-
+vant named therein, or if an appeal is taken pursuant to section
+190.90, until the affirmance of the order accepting the report, or
+until reversal of the order sealing the report, or until dismissal of
+the appeal of the named public servant by the appellate division,
+34 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+whichever occurs later. Such public servant may file with the clerk
+of the court an answer to such report, not later than twenty days
+after service of the order and report upon him. Such an answer
+shall plainly and concisely state the facts and law constituting
+the defense of the public servant to the charges in said report,
+and, except for those parts of the answer which the court may
+determine to be scandalously or prejudicially and unnecessarily
+inserted therein, shall become an appendix to the report. Upon
+the expiration of the time set forth in this subdivision, the district
+attorney shall deliver a true copy of such report, and the appen-
+dix if any, for appropriate action, to each public servant or body
+having removal or disciplinary authority over each public servant
+named therein.
+4) Upon the submission of a report pursuant to subdivision one, if
+the court finds that the filing of such report as a public record
+may prejudice fair consideration of a pending criminal matter, it
+must order such report sealed and such report may not be subject
+to subpoena or public inspection during the pendency of such
+criminal matter, except upon order of the court.
+5) Whenever the court to which a report is submitted pursuant to
+paragraph (a) of subdivision one is not satisfied that the report
+complies with the provisions of subdivision two, it may direct that
+additional testimony be taken before the same grand jury, or it
+must make an order sealing such report, and the report may not
+be filed as a public record, or be subject to subpoena or otherwise
+be made public.
+§ 190.90 Grand jury; appeal from order concerning grand
+jury reports.
+1) When a court makes an order accepting a report of a grand jury
+pursuant to paragraph (a) of subdivision one of section 190.85, any
+public servant named therein may appeal the order; and when a
+court makes an order sealing a report of a grand jury pursuant to
+subdivision five of section 190.85, the district attorney or other
+attorney designated by the grand jury may appeal the order.
+2) When a court makes an order sealing a report of a grand jury pur-
+suant to subdivision five of section 190.85, the district attorney or
+other attorney designated by the grand jury may, within ten days
+after service of a copy of the order and report upon each public
+servant named in the report, appeal the order to the appellate
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 35
+
+division of the department in which the order was made, by filing
+in duplicate a notice of appeal from the order with the clerk of
+the court in which the order was made and by serving a copy of
+such notice of appeal upon each such public servant. Notwith-
+standing any contrary provision of section 190.85, a true copy of
+the report of the grand jury shall be served, together with such
+notice of appeal, upon each such public servant.
+3) The mode of and time for perfecting an appeal pursuant to this
+section, and the mode of and procedure for the argument there-
+of, are determined by the rules of the appellate division of the
+department in which the appeal is brought. Such rules shall pre-
+scribe the matters referred to in subdivision one of section 460.70
+and in section 460.80, except that such appeal is a preferred cause
+and the appellate division of each department shall promulgate
+rules to effectuate such preference.
+4) The record and all other presentations on appeal shall remain
+sealed, except that upon reversal of the order sealing the report
+or dismissal of the appeal of the named public servant by the ap-
+pellate division, the report of the grand jury, with the appendix,
+if any, shall be filed as a public record as provided in subdivision
+three of section 190.85.
+5) The procedure provided for in this section shall be the exclusive
+manner of reviewing an order made pursuant to section 190.85
+and the appellate division of the supreme court shall be the sole
+court having jurisdiction of such an appeal. The order of the
+appellate division finally determining such appeal shall not be
+subject to review in any other court or proceeding.
+6) The grand jury in an appeal pursuant to this section shall be
+represented by the district attorney unless the report relates to
+him or his office, in which event the grand jury may designate
+another attorney.
+36 GRAND JUROR’S HANDBOOK • NEW YORK STATE UNIFIED COURT SYSTEM
+
+INDEX
+Acting foreperson .................................................4 Objections ......................................................................8
+Action to be taken ......................................1, 29 Orientation ...................................................................3
+Alternate jurors in criminal Petit juries ......................................................................2
+trial juries ...................................................................5 Police ...................................................................................1
+Article 190 of the Criminal Presentment ................................................................2
+Procedure Law ............................................1, 14 Proceedings and operation
+Attendance by jurors ......................................10 in general ...............................................................17
+Attorney for witness..................................7, 29 Prosecutor ..................................................1, 5, 6–9
+Bill of indictment ....................................................1 Prosecutor’s information ............................30
+Child witness ...............................................................7 Psychologist .................................................................7
+Commissioner of Questions .........................................................1, 7–11
+jurors staff ................................................1, 8, 10 Quorum ............................................................4, 9–10
+Defendant (in a criminal case) .................9 Rape crisis counselor ...........................................7
+Defense attorney ...................................................5 Records of the grand
+Deliberations ........................................................7–9 jury’s business .......................................................4
+Dismiss the charges ....................................1, 33 Removal to family court .......................2, 30
+Duration of term and discharge .........15 Report .............................................................2, 34-35
+Duties and authority of Rules of evidence .......................................19-22
+district attorney ...............................................29 Secrecy ..........................................................................6-7
+Emergencies ..............................................................10 Secretary of the grand jury .........................4
+Employers’ obligations .........................11–13 Social worker ..............................................................7
+English language ....................................................3 Stenographer .......................................................7–9
+Essential and critical Subpoena....................................................9, 25–28
+evidence .......................................................4, 9-10 Term of service ..........................................................3
+Excusal from grand jury service...........10 Trial juries .................................................................1–5
+Family Court..............................................2, 30-32 Unanimous vote by criminal
+Felony ...........................................................................2–3 trial jury .......................................................................5
+Foreperson ....................................................................4 Unfounded accusations ..................................2
+Formal accusation .................................................2 United States citizen ...........................................3
+Formation and organization United States Constitution ..........................2
+of the grand jury ............................................16 Videotaped examination ..................23-25
+Grand jury warden ...............................6, 8, 10 Vote................................................................4–5, 9–10
+Grand jury’s decision ....................................1, 9 Waiver of immunity ................................25-26
+Hardship of juror .................................................10 Witness ...........................................................4–11, 25
+How many cases ...............................................5, 6
+How many jurors .............................................4, 5
+Immunity ......................................................................25
+Indictment .......................................................... 1, 29
+Interpreter ...............................................................7, 9
+Juror qualifications ..............................................3
+Jury fee...................................................................11-13
+Legal definitions ...........................................9, 25
+Legal instructions...................................................9
+Length of service ....................................................3
+Logistics of service ................................................3
+New York State Constitution.....................2
+Note-Taking..................................................................8
+Oath of office.............................................................4
+1-800-NY-JUROR • 1-800-695-8767 • WWW.NYJUROR.GOV 37
+
+RESOURCES AVAILABLE FOR JURORS
+Visit WWW.NYJUROR.GOV for:
+Petit Juror’s Handbook and Grand Juror’s Handbook
+Juror Orientation Films
+Daily Reporting Instructions by County
+Jury Information for Employers
+CENTRAL INFORMATION:
+1-800-NYJUROR, 1-800-695-8767
+nyjuror@nycourts.gov
+Visit www.nyjuror.gov to find
+contact information for your county.
+
+GRAND JUROR HANDBOOK
+COMMITTEE (2000)
+John Amodeo
+Assistant Deputy Counsel,
+Office of Court Administration
+Norman Goodman
+New York County Clerk
+Dennis Hawkins
+Executive Director,
+the Fund for Modern Courts
+Vincent Homenick
+Chief Clerk,
+New York County Clerk, Jury Office
+Herculano Izquierdo
+Assistant District Attorney,
+Deputy Chief-trial Division, New York County
+Barry Kamins, Esq.
+Hon. Martin Marcus
+Bronx Supreme Court
+Hon. Patricia Marks
+Monroe County Supreme and County Courts
+Mary C. Mone
+Counsel to the Chief Judge
+Phylliis Mingione
+Counsel to the New York County Clerk
+Sidney Oglesby
+Commissioner of Jurors,
+Onondaga County
+John Ryan
+Chief Assistant District Attorney,
+Queens District Attorney’s Office
+Hon. Micki Scherer
+Administrative Judge,
+Supreme Court Criminal Term, New York County
+Irwin Shaw
+Attorney in Charge, Legal Aid Society,
+Criminal Defense Division, New York County
+
+FOR COPIES OF THIS BOOKLET CALL:
+1-800-NY-JUROR, 1-800-695-8767
+OR ORDER ON THE WEB:
+WWW.NYJUROR.GOV
+Revised July 2023

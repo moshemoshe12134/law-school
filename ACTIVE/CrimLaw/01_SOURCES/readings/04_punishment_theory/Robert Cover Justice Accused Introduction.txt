@@ -1,0 +1,330 @@
+JUSTICE ACCUSED
+
+ANTISLAVERY AND THE JUDICIAL PROCESS
+
+Robert M. Cover
+
+New Haven and London
+Yale University Press
+
+
+xi Acknowledgments
+
+I have had the good fortune to work with a helpful and most per-
+ceptive editor; my thanks also to Jane Isay of the Yale University
+Press.
+
+Works are but vanities without a life into which they fit. I owe
+more than gratitude to Diane, and more recently to Avi, who share
+and create that life with me.
+
+All citation to legal materials except for books and treatises is in
+accord with the forms suggested or required in the Harvard Law
+Review et al., A Uniform System of Citation (11th ed., 1967, pub-
+lished by the Harvard Law Review Association).
+
+PRELUDE: Of Creon and Captain Vere
+
+Antigone’s star has shown brightly through the millennia. The arche-
+type for civil disobedience has claimed a constellation of first-magni-
+tude emulators. The disobedient—whether Antigone, Luther,
+Gandhi, King, or Bonhoeffer—exerts a powerful force upon us. The
+singular act, the risk, the dramatic appeal to a juster justice, all con-
+tribute to the high drama of the moment and the power of the actor’s
+role. No wonder, then, that such men and women are celebrated in
+literature and history. No wonder that a great psychiatrist like Erik-
+son, upon embarking on a venture in history and biography, chose
+Luther and Gandhi as his first subjects.!
+
+Yet, in a curious way, to focus upon the disobedient and the pro-
+cess of disobedience is to accept the perspective of the established
+order. It is a concession that it is the man who appeals beyond law
+that is in need of explanation. With the sole exception of Nazi atroci-
+ties, the phenomenon of complicity in oppressive legal systems (op-
+pressive from the actor’s own perspective) has seldom been studied.*
+Thus, Creon is present only as a foil for Antigone, not himself the
+object of the artist’s study of human character. In Antigone note the
+curious one-dimensional character of the King. How he comes to
+
+* Complicity with the Nazi regime has been the object of much study. But at least the trans-
+atlantic emphasis has been an analysis of responsibility on the command and policy initiative
+level in a genocidal situation. Some attempts have been made to associate legal positivism—
+especially in its Kelsenian form—with the atrocities. H. L. A. Hart has vigorously and convinc-
+ingly argued that positivism has no necessary relationship to such amoral and immoral judicial
+conduct. Indeed, he has demonstrated how the English positivists, and most especially
+Bentham, urged the analytical distinction between law as it is and law as it ought to be and
+stressed the human origins of law in order to be able to effectively measure the law against an
+external standard for reform purposes. (In Bentham’s case the external standard was, of course,
+utility. But one need not accept the utilitarian basis of morality to accept the necessity of the an-
+alytical distinction.) See, e.g., H. L. A. Hart, ‘‘Positivism and the Separation of Law and
+Morals,”’ 71 Harvard Law Review 593 (1958). While I argue within that a thoroughgoing legal
+positivism was one of the many factors that determined the complicity of the antislavery judge
+in the system of law that he himself considered immoral, it is but one such factor. Moreover, I
+shail also argue that the same jurisprudential perspective contributed to the most radical of the
+opposition viewpoints with regard to slave law. See, Chapter 9, infra.
+
+1
+
+
+2 Prelude
+
+make his law and at what cost in psychic terms is not treated at all.
+Indeed, Creon’s first conflict is not between right and law, but be-
+tween his son and his pride. And even in the midst of that conflict he
+betrays his singular obtuseness to the complexity of the situation he
+created by crying filial impiety and anarchy in one breath. He is as-
+tounded by the possibility of Haemon’s sympathy to an affront to au-
+thority. Much of the simplicity of Creon lies in the choice of a tyrant
+as model for legal system. The making of law and its applications are
+wholly confined to a single will unconstrained by any but the most
+personal of considerations such as the feelings and actions of a son.
+
+Melville’s Captain Vere in Billy Budd is one of the few examples
+of an attempt to portray the conflict patterns of Creon or Creon’s
+minions in a context more nearly resembling the choice situations of
+judges in modern legal systems. Billy Budd, radical innocence per-
+sonified, is overwhelmed by a charge of fomenting mutiny, falsely
+levied against him by the first mate Claggart. Claggart seems to per-
+sonify dark and evil forces. Struck dumb by the slanderous charges,
+Billy strikes out and kills the mate with a single blow. Captain Vere
+must instruct a drumhead court on the law of the Mutiny Act as it is
+to be applied to Billy Budd—in some most fundamental sense ‘‘in-
+nocent,’’ though perpetrator of the act of killing the first mate.? In
+what must be, for the legal scholar, the high point of the novella,
+Vere articulates the ‘‘scruples’’ of the three officers (and his own)
+and rejects them.
+
+How can we adjudge to summary and shameful death a fellow
+creature innocent before God, and whom we feel to be
+so?—Does that state it aright? You sign sad assent. Well, I too
+feel that, the full force of that. It is Nature. But do these buttons
+that we wear attest that our allegiance is to Nature? No, to the
+King.
+
+And, but a few paragraphs farther on, Vere asks the three whether
+“occupying the position we do, private conscience should not yield
+to that imperial one formulated in the code under which alone we of-
+ficially proceed.’’ 3
+
+In Vere’s words we have a positivist’s condensation of a legal sys-
+tem’s formal character. Five aspects of that formalism may be dis-
+cerned and specified: First, there is explicit recognition of the role
+
+Of Creon and Captain Vere 3
+
+character of the judges—a consciousness of the formal element. It is
+a uniform, not nature, that defines obligation. Second, law is distin-
+guished from both the transcendent and the personal sources of ob-
+ligation. The law is neither nature nor conscience. Third, the law is
+embodied in a readily identifiable source which governs transactions
+and occurrences of the sort under consideration: here an imperial
+code of which the Mutiny Act is a part. Fourth, the will behind the
+law is vague, uncertain, but clearly not that of the judges. It is here
+“imperial will’? which, in (either eighteenth- or) nineteenth-century
+terms as applied to England, is not very easy to describe except
+through a constitutional law treatise. But, in any event, it is not the
+will of Vere and his three officers. Fifth, a corollary of the fourth
+point, the judge is not responsible for the content of the law but for
+its straightforward application.
+
+For that law and the rigor of it, we are not responsible. Our
+vowed responsibility is in this: That however pitilessly that law
+may operate in any instances, we nevertheless adhere to it and
+administer it.*
+
+These five elements are part of Vere’s arguments. But Billy Budd
+is a literary work and much that is most interesting about Vere is not
+in what he says but in what he is, in overtones of character. For ex-
+ample, we have intimations from the outset of a personality commit-
+ted to fearful symmetries. His nickname, derived from Marvell’s
+lines
+
+Under the discipline severe
+Of Fairfax and the starry Vere
+
+suggests an impersonal and unrelaxed severity. And his intellectual
+bent, too, reinforces this suggestion of rigidity. He eschewed innova-
+tions ‘‘disinterestedly’’ and because they seemed ‘‘insusceptible of
+embodiment in lasting institutions.’’ And he lacked ‘‘companionable
+quality.’’ A man emerges who is disposed to approach life institu-
+tionally, to avoid the personal realm even where it perhaps ought to
+hold sway, to be inflexibly honest, righteous, and duty bound.®
+
+It is this man who, seeing and appreciating Budd’s violent act,
+exclaimed, ‘‘Struck dead by an angel of God! Yet the angel must
+hang.”’ And, characteristically, it is Vere who assumes the responsi-
+
+
+4 Prelude
+
+bility of conveying the dread verdict to the accused. Melville’s specu-
+lations on that ‘‘interview’’ are revealing. He stresses the likelihood
+that Vere revealed his own full part in the ‘‘trial.”” He goes on to
+speculate that Vere might well have assumed a paternal stance in the
+manner of Abraham embracing Isaac ‘‘on the brink of resolutely of-
+fering him up in obedience to the exacting behest.’’ ® Such a re-
+ligious conviction of duty characterizes our man. Neither conven-
+tional morality, pity, nor personal agony could bend him from a stern
+duty. But in Vere’s case the master is not God but the King. And the
+King is but a symbol for a social order.
+
+Righteous men, indeed, suffer the agonies of their righteousness.
+Captain Vere betrayed just such agony in leaving his meeting with
+Billy Budd. But there is no indication that Vere suffered the agony of
+
+doubt about his course. When Billy died uttering ‘‘God Bless Captain.
+
+Vere,’’ there is no intimation that the Captain sensed any irony
+(whether intended or not) in the parting benediction. If Captain Vere
+is Abraham, he is the biblical version, not Kierkegaard’s shadow
+poised achingly at the chasm.
+
+Melville has been astonishingly successful in making his readers
+ask dreadful questions of Vere and his behavior. What deep urge
+leads a man to condemn unworldly beauty and innocence? To em-
+brace, personally, the opportunity to do an impersonal, distasteful
+task? How reconcile the flash of recognition of ‘‘the angel must die’
+and the seizing of the opportunity to act Abraham, with declared pro-
+testations, unquestionably sincere, that only plain and clear duty
+overcomes his sense of the victim’s cosmic innocence? We have so
+many doubts about a man who hears and obeys the voice of the Mas-
+ter so quickly, and our doubts are compounded when it is a harsh
+social system that becomes the Lord.
+
+I venture to suggest that Melville had a model for Captain Vere
+that may bring us very close to our main story. Melville’s father-in-
+law was Chief Justice Lemuel Shaw of the Massachusetts Supreme
+Judicial Court. A firm, unbending man of stern integrity, Shaw domi-
+nated the Massachusetts judicial system very much as Captain Vere
+ran his ship. The Chief Justice was a noted, strong opponent to slav-
+ery and expressed his opposition privately, in print, and in appropri-
+ate judicial opinions.” Yet, in the great causes célébres involving
+fugitive slaves, Shaw came down hard for an unflinching application
+
+Of Creon and Captain Vere 5
+
+of the harsh and summary law. The effort cost Shaw untold personal
+agony. He was villified by abolitionists. I cannot claim that Vere is
+Lemuel Shaw (though he might be), for there is no direct evidence. I
+can only say that it would be remarkable that in portraying a man
+caught in the horrible conflict between duty and conscience, between
+role and morality, between nature and positive law, Melville would
+be untouched by the figure of his father-in-law in the Sims Case, the
+Latimer affair, or the Burns controversy. We know Melville’s predi-
+lection to the ship as microcosm for the social order. He used the
+device quite plainly with respect to slavery in Benito Cereno. :
+The fugitive slave was very Budd-like, though he was as black as
+
+Billy was blonde. The Mutiny Act admitted of none of the usual |
+defenses, extenuations, or mitigations. If the physical act was that of |
+the defendant, he was guilty. The Fugitive Slave Act similarly ex-
+cluded most customary sorts of defenses. The alleged fugitive could
+not even plead that he was not legally a slave so long as he was the
+person alleged to be a fugitive. The drumhead court was a special
+and summary proceeding; so was the fugitive rendition process. In
+both proceedings the fatal judgment was carried out immediately.
+There was no appeal.® ~
+
+More important, Billy’s fatal flaw was his innocent dumbness. He
+struck because he could not speak. So, under the Fugitive Slave Acts,
+the alleged fugitive had no right to speak. And, as a rule, slaves had
+no capacity to testify against their masters or whites, generally. Billy
+Budd partakes of the slave, generalized. He was seized, impressed,
+from the ship Rights of Man and taken abroad the Bellipotent.'°
+Aboard the Bellipotent the Mutiny Act and Captain Vere held sway.
+The Mutiny Act was justified because of its necessity for the order
+demanded on a ship in time of war. So the laws of slavery, often
+equally harsh and unbending, were justified as necessary for the
+social order in antebellum America. Moreover, the institution itself
+was said to have its origin in war.
+
+But most persuasive is Vere and his dilemma—the subject matter
+of this book. For, if there was a single sort of case in which judges
+during Meiville’s lifetime struggled with the moral-formal dilemma,
+it was slave cases. In these cases, time and again, the judiciary
+paraded its helplessness before the law; lamented harsh results; in-
+timated that in a more perfect world, or at the end of days, a better
+
+
+6 Prelude
+
+law would emerge, but almost uniformly, marched to the music,
+steeled themselves, and hung Billy Budd.
+
+Of course, Billy Budd, like any great work of literature, exists on
+many levels. I would not deny the theology in the work, nor the clash
+of elemental good and elemental evil in Budd and Claggart. But the
+novella is also about a judgment, within a social system, and about
+the man who, dimly perceiving the great and abstract forces at work,
+bears responsibility for that judgment. It is about starry-eyed Vere
+and Lemuel Shaw.
+
+2
+
+The rest of this book is not about literature, but about Lemuel Shaw
+“and many judges like him. It is the story of earnest, well-meaning
+pillars of legal respectability and of their collaboration in a system of
+oppression—Negro slavery. I have chosen to analyze at length only the
+dilemma of the antislavery judge—the man who would, in some
+sense, have agreed with my characterization of slavery as oppression.
+It was he who confronted Vere’s dilemma, the choice between the
+demands of role and the voice of conscience. And it was he who con-
+tributed so much to the force of legitimacy that law may provide, for
+he plainly acted out of impersonal duty.
+~~ In a static and simplistic model of law, the judge caught between
+law and morality has only four choices. He may apply the law against
+his conscience. He may apply conscience and be faithless to the law.
+He may resign. Or he may cheat: He may state that the law is not
+what he believes it to be and, thus preserve an appearance (to others)
+of conformity of law and morality. Once we assume a more realistic
+model of law and of the judicial process, these four positions become
+only poles setting limits to a complex field of action and motive. For
+in a dynamic model, law is always becoming. And the judge has a le-
+gitimate role in determining what it is that the law will become. The
+flux in law means also that the law’s content is frequently unclear.
+We must speak of direction and of weight as well as of position.
+Moreover, this frequent lack of clarity makes possible ‘‘ameliorist’’
+solutions: The judge may introduce his own sense of what ‘‘ought to
+be’’ interstitially, where no ‘‘hard’’ law yet exists. And, he may do
+so without committing the law to broad doctrinal advances (or re-
+treats).
+
+Of Creon and Captain Vere 7
+
+In a given historical context the way in which judges are likely to
+respond to the moral-formal dilemma is going to be determined by a
+wide variety of intellectual and institutional variables. Judges, more
+than most men, are conscious of the baggage of the past. Thus, the
+traditions that they inherit will be important. For both slavery and the
+judicial role in antebellum America the judge had a library of works
+that influenced the idiom in which he thought. The nature of that in-
+tellectual tradition is my first inquiry. I shall examine the natural law
+tradition on slavery as it stood in the late eighteenth century. I shall
+then explore the actual uses of principled preferences for liberty in
+the first thirty or forty years of the nineteenth century. This explora-
+tion will delineate the areas of accepted usage of preference for lib-
+erty in judicial opinion and the areas where the judge could move the
+law in the direction of freedom. I shall then explore the sorts of
+demands that were made upon the judiciary to go beyond those ac-
+cepted areas and the judicial refusal to do so. That refusal will be
+traced on the cognitive level to carefully formulated ideas about the
+judicial function that are themselves the products of a heritage of
+conflict over the values that ought to govern judging. The dialectical
+context for the judge’s response was not constant, and it is necessary
+to examine responses to many demands varying, in part, with the
+ideology of the lawyers and the movements they represented.
+
+Finally, I shall confront directly the question of personality. With
+Captain Vere we have the sense that it is not logic alone that leads
+him to his response. So, with Lemuel Shaw, John McLean, Joseph
+Story, and others, we must inquire into the internal forces that pro-
+duced an almost uniform response of role fidelity. The theory of cog-
+nitive dissonance provides a suggestive framework for integrating the
+uniform response, the personalities of these men, and the professional
+and intellectual milieu in which they worked.
+
+Make no mistake. The judges we shall examine really squirmed;
+were intensely uncomfortable in hanging Billy Budd. But they did the
+job. Like Vere, they were Creon’s faithful minions. We must under-
+stand them—as much as Antigone—if we are to understand the pro- .
+cesses of injustice. ~

@@ -1,0 +1,60 @@
+Dear class,
+Please note that all the readings for next week are in Course Packet #2, now available at the
+bookstore. Because it seems the strikeouts (like this) did not show up in this round of printing, I
+will try to be more precise in detailing what (not) to read.
+On Monday, we will begin our next major section of the course: What does it mean, in tort law,
+to “cause harm”? We will begin with the concept of “causation-in-fact” (or “factual causation”),
+which is a set of analytical tools for figuring out which parties can be said to have caused
+harm. This section will seem pretty logical to you, even as it raises some intriguing
+puzzles. These puzzles include tricky practical problems at the frontiers of tort law, involving
+cases where multiple actions could be seen as factual causes of the same harm.
+Also, for this coming week, please note that Goldfinches are up first, then Bluebirds.
+Enjoy,
+BH
+* * *
+Monday 2/9
+Panel: Goldfinch
+“But-for” causation will be our main analytical tool for determining causation-in-fact, a
+requirement for tort liability. In the Matsuyama medical malpractice case, you may notice how
+our topics are starting to fit together, as this case shows how a few familiar ideas from
+negligence relate directly to causation-in-fact.
+For practice, we will then apply this but-for logic to negligence liability based on failures to
+warn: Think about whether (and which kinds of) warnings would have made any difference in
+the stories of little Leo with the wire in Adams, the swimmer in Parks & Rec, the hospital
+in Cuyler, or the flying saw blade in Ryobi.
+Finally, we will explore the puzzle of “multiple sufficient causes” by thinking through the
+variations addressed in the Restatement Third and by working with hypotheticals in class. One
+interesting question we will discuss is: What if one of the multiple sufficient causes is a non-
+tortious cause (e.g., not due to negligence)?
+
+“But-For” Causation
+Cause-in-Fact, “But For” Test, pp. 125-128 KA (stop before section A)
+Matsuyama v. Birnbaum, pp *3-11, *15-20 (star pages are also shown in left margin)
+Multiple Sufficient Causes
+Theories Underlying the Causation Requirement, pp. 131-134 KA
+Multiple Sufficient Causes, pp. 134-137 KA (stop before section C)
+Restatement Third §§26-27 vs. Restatement Second
+Restatement Third § 27, comment d
+Restatement Third § 36
+* * *
+Wednesday 2/11
+Panel: Bluebird
+We will explore further puzzles which relate to the problem of proving causation-in-fact. What
+happens when you know that one member of a group caused the harm, but you don’t know
+which one exactly? (Ask yourself: How is this new puzzle different from the one about multiple
+sufficient causes?) We will consider two answers that the courts have created, one old and one
+relatively new, for addressing variations on this problem. (Ask yourself: How are
+the Summers and the Hymowitz cases similar? How are they different?) Again, we will consider
+the question: What if one of the possible causes is non-tortious?
+Finally, we will revisit the idea of comparative negligence, and discuss whether making the
+parties pay based on relative causation rather than relative negligence might be more useful (or
+not) in serving the competing aims of tort law.
+“Alternative Liability”
+Indeterminate Causes, Alternative Liability, pp. 139-140 KA
+
+Summers v. Tice, pp. *82, *84-86 (start at [4] and stop after [6])
+Market Share Liability
+Market Share Liability, pp. 143-146 KA (stop before section 5)
+Hymowitz v. Lilly, pp. *491-513 (stop before III)
+Comparative Negligence or Comparative Causation?
+The Basis for Comparison, Assessment, pp. 182-184 KA

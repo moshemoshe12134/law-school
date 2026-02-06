@@ -1,0 +1,188 @@
+Arizona launches a bold new experiment to limit racist
+convictions
+vox.com/22648651/arizona-jury-race-batson-kentucky-peremptory-strikes-challenges-thurgood-marshall
+Ian Millhiser August 31, 2021
+The state embraces a reform proposed by Justice Thurgood Marshall more than three
+decades ago.
+By Ian Millhiser Aug 31, 2021, 8:00am EDT
+Thirty-five years ago, Justice Thurgood Marshall proposed eliminating a practice known as
+“peremptory strikes” in jury selection. Now Arizona will follow his lead.
+Bettman/Getty Images
+Ian Millhiser is a senior correspondent at Vox, where he focuses on the Supreme Court, the
+Constitution, and the decline of liberal democracy in the United States. He received a JD
+from Duke University and is the author of two books on the Supreme Court.
+Arizona’s conservative state Supreme Court took a surprising step last week that could lead to
+juries in that state being more racially diverse, and thus less likely to treat racial minorities
+more harshly.
+It announced that it will eliminate “peremptory challenges” in Arizona — a practice that
+allows trial lawyers to remove jurors from a case, often for arbitrary or ill-defined reasons.
+1/6
+
+Although criminal justice reformers, including some who sit on the Supreme Court of the
+United States, have warned for decades that peremptory challenges are often used to exclude
+jurors because of their race, the practice remains widespread in the United States. Arizona
+will be the first state to eliminate peremptory challenges entirely; the state’s new rules will
+take effect in January.
+People of color are less likely to serve on juries for a wide range of reasons — racial minorities
+are less likely than white people, for example, to appear on voter registration lists and vehicle
+registration lists, which many jurisdictions use to develop a pool of potential jurors. But
+multiple studies suggest that peremptory strikes play a major role in producing juries that
+are whiter than the population as a whole.
+Typically, in both criminal and civil jury trials, a court will assemble a panel of potential
+jurors that is much larger than the actual number of jurors needed to hear the case. Though
+the rules vary from state to state (and the federal system has its own set of rules), lawyers on
+both sides of a case may ask the judge to remove a juror “for cause” if there is reason to doubt
+that juror’s impartiality. (A prosecutor, for example, may wish to exclude a juror who is
+related to the defendant.)
+Peremptory challenges, meanwhile, allow lawyers to strike jurors even if they are unable to
+convince the judge to do so for cause. Typically, a lawyer who uses a peremptory challenge to
+remove a juror does not have to explain why they decided to do so, and is allowed to remove a
+juror for arbitrary reasons. A lawyer may, for example, use a peremptory challenge to remove
+a juror because they do not like the juror’s haircut.
+The number of peremptory challenges available to lawyers varies depending on the type of
+case and which court is hearing the case. In most federal felony trials, for example, the
+prosecution may strike up to six jurors, while the defense may strike 10.
+There are a few constitutional limits on peremptory strikes. Most notably, in Batson v.
+Kentucky (1986), the Court held that lawyers may not remove a juror because of that juror’s
+race, and it laid out a three-part test that judges should use to sniff out whether a particular
+juror was removed for racist reasons.
+In practice, however, Batson is difficult for judges to apply, and it rarely leads to convictions
+being tossed out because a juror was struck for racist reasons — even though data suggests
+that racial jury discrimination is quite widespread. As a pair of Arizona judges explained in a
+petition asking the state supreme court to abolish peremptory challenges, “decades of
+litigation over Batson challenges have consumed countless hours of attorney time and
+judicial resources. Yet in Arizona, only five cases have been reversed over a Batson
+challenge.”
+2/6
+
+The stakes are very high if racial minorities are less likely to serve on a jury than white
+Americans. A 2012 study of felony trials in Florida, for example, found that Black defendants
+are 16 percent more likely to be convicted than white defendants when no Black person
+serves on the jury. This gap disappears if the jury has a single Black member.
+The upshot of the Arizona Supreme Court’s new rules is that racial discrimination through
+peremptory strikes will cease to exist in Arizona because peremptory strikes will themselves
+cease to exist. But the new rules were also criticized by prosecutors and at least some defense
+lawyers because they will take away a tool that can potentially be used to screen out biased
+jurors.
+Ultimately, the state supreme court appears to have decided that the benefits of eliminating
+peremptory challenges, including the benefit of eliminating a frequent vehicle for race
+discrimination, outweigh the risk of having some bad jurors remain on juries.
+The case against peremptory challenges
+Peremptory challenges have a long pedigree that predates the United States. Yet while the
+practice existed in English courts for many centuries, English prosecutors were stripped of
+their ability to exercise peremptory strikes as far back as 1305.
+It was, instead, a protection afforded to defendants. As William Blackstone, a famous
+chronicler of English law, wrote in 1769, criminal defendants retained an “arbitrary and
+capricious species of challenge to a certain number of jurors” out of respect for the principle
+of “in favorem vitae,” a Latin phrase meaning “in favor of life.” The idea was that, if the life or
+liberty of a criminal defendant could be placed in the hands of a jury, the defendant should
+have some ability to exclude jurors who might be biased against them.
+American courts, however, largely have not followed the centuries-old English practice of
+only giving peremptory strikes to defense counsel. Typically, federal and state courts within
+the United States permit prosecutors and defense lawyers to exercise some peremptory
+challenges — although some jurisdictions do give extra challenges to the defense.
+Indeed, peremptory strikes are so widely used by prosecutors and defense attorneys that,
+when assembling a pool of potential jurors, courts typically summon far more potential
+jurors to serve jury duty than they actually need — because the courts assume that many of
+these potential jurors will either be removed for cause or removed by a peremptory challenge.
+Batson recognized that peremptory strikes may be used to remove jurors for unconstitutional
+reasons. “Purposeful racial discrimination in selection of [potential jurors] violates a
+defendant’s right to equal protection,” Justice Lewis Powell wrote for the Court in Batson. It
+also violates the rights of the jurors themselves, who should have an equal opportunity to
+decide the fate of their peers, regardless of their race.
+3/6
+
+Yet, while racially motivated peremptory strikes are unconstitutional in theory under Batson,
+Justice Powell’s decision also made it very difficult for courts to sniff out discrimination.
+Under Batson, if the defendant raises a credible claim that a juror was excluded because of
+the juror’s race, the prosecution must “come forward with a neutral explanation” for why it
+decided to exclude a particular juror. At that point, it’s up to the judge to determine whom to
+believe.
+One problem with this system is that there are all kinds of lawful reasons a prosecutor may
+wish to strike a juror who happens to be a person of color. The prosecutor may legitimately
+believe that the juror expressed a bias against police, for example. Or they may simply feel
+that the juror seemed inattentive during the juror screening process. The Constitution
+forbids excluding a juror because the juror is of a particular race, but it doesn’t forbid a
+prosecutor from striking a juror for being inattentive or a skeptic of police, even if that juror
+is also a person of color.
+Peremptory strikes may be used to remove a juror for completely arbitrary reasons. In
+Purkett v. Elem (1995), for example, the Supreme Court permitted a prosecutor to strike two
+Black jurors because the prosecutor disapproved of one juror’s “long hair” and thought that
+both jurors’ “mustaches and the beards look suspicious to me.”
+Judges are not mind readers. So, when faced with a prosecutor’s race-neutral explanation for
+why they struck a particular juror, a judge will often have no way to determine that the
+prosecution’s real motive was racism.
+Many prosecutors are even trained on how to devise pretextual reasons to exclude jurors. In
+2004, Texas prosecutors were advised to tell judges that they excluded jurors not because of
+a particular juror’s race, but because the juror “agreed with O. J. Simpson verdict” or
+“watched gospel TV programs.”
+Data suggest that racial jury discrimination is widespread, even after Batson. The Arizona
+Supreme Court decided to eliminate peremptory challenges after two of the state’s appellate
+judges petitioned them to do so. That petition, co-authored by Judges Peter B. Swann and
+Paul J. McMurdie, cites several studies suggesting that people of color are unusually likely to
+be excluded from juries.
+A study of capital cases in North Carolina, for example, found that prosecutors “were
+responsible for eliminating 12% of whites who went through the [jury selection] process
+without being removed [for cause], and 35% of blacks who did so,” while “the defense’s
+strikes eliminated 35% of whites who were not removed [for cause], and 3% of blacks.”
+A study in Mississippi found that “Black venire members are 4.51 times as likely to be
+excluded from a jury due to peremptory challenges from the prosecution in comparison to
+White venire members.” And federal data shows that “in criminal cases, the proportion of
+4/6
+
+white jurors seated varied only 3% from their representation in the population.” Meanwhile,
+“black jurors were underrepresented by 16%, Native American jurors were underrepresented
+by 51% and Hispanic jurors were underrepresented by 21%.”
+Courts, moreover, have been aware of similar data for at least the past several decades. In
+Batson, which was decided in 1986, Justice Thurgood Marshall wrote a concurring opinion
+arguing that the goal of ending race discrimination in jury selection “can be accomplished
+only by eliminating peremptory challenges entirely.”
+Marshall cited a raft of studies arguing that race discrimination in the use of peremptory
+strikes was pervasive, including a study of prosecutions in Dallas that found that “the chance
+of a qualified black sitting on a jury was 1 in 10, compared to 1 in 2 for a white.”
+Thirty-five years after Batson, it appears that Marshall was correct that Justice Powell’s
+decision did not go far enough, if the goal was to prevent race discrimination in jury
+selection. The disparities Marshall warned about in Batson remain widespread.
+Arizona’s new rules do add some uncertainty to criminal trials
+The primary argument for retaining peremptory challenges is that eliminating them will
+prevent trial attorneys from removing jurors who they correctly believe might be biased, even
+if the juror doesn’t do anything suspicious enough to justify removing them for cause.
+Several prosecutors criticized the Arizona Supreme Court’s move, arguing that, in the words
+of Maricopa County prosecutor Kenneth Vick, “expecting a prospective juror to candidly
+admit that they cannot be fair is not realistic.” Trial lawyers often pay close attention to a
+potential juror’s body language or other subtle signals when determining whether to exercise
+a peremptory strike, rather than relying solely on how the juror responds to lawyers’
+questions.
+Scott Greenfield, a criminal defense lawyer in New York, offered a similar criticism of the
+new Arizona rules on his personal blog. Greenfield warned of a situation where a criminal
+defense attorney spots “a glint of hatred as [a potential juror] stares at the defendant,” but
+the lawyer is unable to remove that juror because they can no longer exercise peremptory
+strikes.
+There are two reasons, however, to be hopeful that Arizona’s experiment with eliminating
+peremptory challenges will not lead to systemic injustices against a defendant. One is the
+Supreme Court’s recent decision in Ramos v. Louisiana (2020), which held that “the Sixth
+Amendment’s right to a jury trial requires a unanimous verdict.”
+That’s not a perfect safeguard against biased jurors — as Greenfield argues, there is a risk
+that the “juror with the killer eyes” will convince a juror who is inclined to vote for acquittal
+to flip their vote. But the requirement that convictions must be unanimous does diminish the
+5/6
+
+ability of a biased juror to sway a verdict toward conviction.
+The other reason to be optimistic that Arizona’s new rules might succeed is that, while they
+are novel within the United States, they are in line with the rules in other democracies. Great
+Britain, for example, eliminated peremptory challenges in 1988, and Canada did so in 2019.
+Realistically, we cannot know what the full impact of Arizona’s new rules will be until the
+rules have been in place for some time. But, at the very least, Arizona’s experiment could
+teach us whether Justice Marshall was right when he warned that we cannot abolish
+discrimination in jury selection until we get rid of peremptory challenges.
+You've read 1 article in the last 30 days.
+Will you support Vox’s explanatory journalism?
+Millions turn to Vox to educate themselves, their family, and their friends about what’s
+happening in the world around them, and to learn about things that spark their curiosity.
+Financial contributions from our readers are a critical part of supporting our resource-
+intensive work and help us keep our journalism free for all. Please consider making a one-
+time contribution to Vox today.
+Yes, I'll give $120/year
+We accept credit card, Apple Pay, and Google Pay. You can also contribute via
+Next Up In Politics
+6/6

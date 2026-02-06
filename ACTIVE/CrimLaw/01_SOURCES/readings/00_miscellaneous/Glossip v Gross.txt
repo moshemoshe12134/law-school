@@ -1,0 +1,447 @@
+Cite as: 576 U. S. ____ (2015) 1
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+_________________
+No. 14–7955
+_________________
+RICHARD E. GLOSSIP, ET AL., PETITIONERS v.
+KEVIN J. GROSS, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE TENTH CIRCUIT
+[June 29, 2015]
+JUSTICE ALITO delivered the opinion of the Court.
+Prisoners sentenced to death in the State of Oklahoma
+filed an action in federal court under Rev. Stat. §1979, 42
+U. S. C. §1983, contending that the method of execution
+now used by the State violates the Eighth Amendment
+because it creates an unacceptable risk of severe pain.
+They argue that midazolam, the first drug employed in the
+State’s current three-drug protocol, fails to render a per-
+son insensate to pain. After holding an evidentiary hear-
+ing, the District Court denied four prisoners’ application
+for a preliminary injunction, finding that they had failed
+to prove that midazolam is ineffective. The Court of Ap-
+peals for the Tenth Circuit affirmed and accepted the
+District Court’s finding of fact regarding midazolam’s
+efficacy.
+For two independent reasons, we also affirm. First, the
+prisoners failed to identify a known and available alterna-
+tive method of execution that entails a lesser risk of pain,
+a requirement of all Eighth Amendment method-of-
+execution claims. See Baze v. Rees, 553 U. S. 35, 61 (2008)
+(plurality opinion). Second, the District Court did not
+
+2 GLOSSIP v. GROSS
+Opinion of the Court
+commit clear error when it found that the prisoners failed
+to establish that Oklahoma’s use of a massive dose of
+midazolam in its execution protocol entails a substantial
+risk of severe pain.
+I
+A
+The death penalty was an accepted punishment at the
+time of the adoption of the Constitution and the Bill of
+Rights. In that era, death sentences were usually carried
+out by hanging. The Death Penalty in America: Current
+Controversies 4 (H. Bedau ed. 1997). Hanging remained
+the standard method of execution through much of the
+19th century, but that began to change in the century’s
+later years. See Baze, supra, at 41–42. In the 1880’s, the
+Legislature of the State of New York appointed a commis-
+sion to find “‘the most humane and practical method
+known to modern science of carrying into effect the sen-
+tence of death in capital cases.’” In re Kemmler, 136 U. S.
+436, 444 (1890). The commission recommended electrocu-
+tion, and in 1888, the Legislature enacted a law providing
+for this method of execution. Id., at 444–445. In subse-
+quent years, other States followed New York’s lead in the
+“‘belief that electrocution is less painful and more humane
+than hanging.’” Baze, 553 U. S., at 42 (quoting Malloy v.
+South Carolina, 237 U. S. 180, 185 (1915)).
+In 1921, the Nevada Legislature adopted another new
+method of execution, lethal gas, after concluding that this
+was “the most humane manner known to modern science.”
+State v. Jon, 46 Nev. 418, 437, 211 P. 676, 682 (1923). The
+Nevada Supreme Court rejected the argument that the
+use of lethal gas was unconstitutional, id., at 435–437, 211
+P., at 681–682, and other States followed Nevada’s lead,
+see, e.g., Ariz. Const., Art. XXII, §22 (1933); 1937 Cal.
+Stats. ch. 172, §1; 1933 Colo. Sess. Laws ch. 61, §1; 1955
+Md. Laws ch. 625, §1, p. 1017; 1937 Mo. Laws p. 222, §1.
+
+Cite as: 576 U. S. ____ (2015) 3
+Opinion of the Court
+Nevertheless, hanging and the firing squad were retained
+in some States, see, e.g., 1961 Del. Laws ch. 309, §2 (hang-
+ing); 1935 Kan. Sess. Laws ch. 155, §1 (hanging); Utah
+Code Crim. Proc. §105–37–16 (1933) (hanging or firing
+squad), and electrocution remained the predominant
+method of execution until the 9-year hiatus in executions
+that ended with our judgment in Gregg v. Georgia, 428
+U. S. 153 (1976). See Baze, supra, at 42.
+After Gregg reaffirmed that the death penalty does not
+violate the Constitution, some States once again sought a
+more humane way to carry out death sentences. They
+eventually adopted lethal injection, which today is “by far
+the most prevalent method of execution in the United
+States.” Baze, supra, at 42. Oklahoma adopted lethal
+injection in 1977, see 1977 Okla. Sess. Laws p. 89, and it
+eventually settled on a protocol that called for the use of
+three drugs: (1) sodium thiopental, “a fast-acting barbitu-
+rate sedative that induces a deep, comalike unconscious-
+ness when given in the amounts used for lethal injection,”
+(2) a paralytic agent, which “inhibits all muscular-skeletal
+movements and, by paralyzing the diaphragm, stops respi-
+ration,” and (3) potassium chloride, which “interferes with
+the electrical signals that stimulate the contractions of the
+heart, inducing cardiac arrest.” Baze, supra, at 44; see
+also Brief for Respondents 9. By 2008, at least 30 of the
+36 States that used lethal injection employed that particu-
+lar three-drug protocol. 553 U. S., at 44.
+While methods of execution have changed over the
+years, “[t]his Court has never invalidated a State’s chosen
+procedure for carrying out a sentence of death as the
+infliction of cruel and unusual punishment.” Id., at 48. In
+Wilkerson v. Utah, 99 U. S. 130, 134–135 (1879), the Court
+upheld a sentence of death by firing squad. In In re
+Kemmler, supra, at 447–449, the Court rejected a chal-
+lenge to the use of the electric chair. And the Court did
+not retreat from that holding even when presented with a
+
+4 GLOSSIP v. GROSS
+Opinion of the Court
+case in which a State’s initial attempt to execute a pris-
+oner by electrocution was unsuccessful. Louisiana ex rel.
+Francis v. Resweber, 329 U. S. 459, 463–464 (1947) (plu-
+rality opinion). Most recently, in Baze, supra, seven Jus-
+tices agreed that the three-drug protocol just discussed
+does not violate the Eighth Amendment.
+Our decisions in this area have been animated in part
+by the recognition that because it is settled that capital
+punishment is constitutional, “[i]t necessarily follows that
+there must be a [constitutional] means of carrying it out.”
+Id., at 47. And because some risk of pain is inherent in
+any method of execution, we have held that the Constitu-
+tion does not require the avoidance of all risk of pain.
+Ibid. After all, while most humans wish to die a painless
+death, many do not have that good fortune. Holding that
+the Eighth Amendment demands the elimination of essen-
+tially all risk of pain would effectively outlaw the death
+penalty altogether.
+B
+Baze cleared any legal obstacle to use of the most com-
+mon three-drug protocol that had enabled States to carry
+out the death penalty in a quick and painless fashion. But
+a practical obstacle soon emerged, as anti-death-penalty
+advocates pressured pharmaceutical companies to refuse
+to supply the drugs used to carry out death sentences.
+The sole American manufacturer of sodium thiopental, the
+first drug used in the standard three-drug protocol, was
+persuaded to cease production of the drug. After suspend-
+ing domestic production in 2009, the company planned to
+resume production in Italy. Koppel, Execution Drug Halt
+Raises Ire of Doctors, Wall Street Journal, Jan. 25, 2011,
+p. A6. Activists then pressured both the company and the
+Italian Government to stop the sale of sodium thiopental
+for use in lethal injections in this country. Bonner, Letter
+from Europe: Drug Company in Cross Hairs of Death
+
+Cite as: 576 U. S. ____ (2015) 5
+Opinion of the Court
+Penalty Opponents, N. Y. Times, Mar. 30, 2011; Koppel,
+Drug Halt Hinders Executions in the U. S., Wall Street
+Journal, Jan. 22, 2011, p. A1. That effort proved success-
+ful, and in January 2011, the company announced that it
+would exit the sodium thiopental market entirely. See
+Hospira, Press Release, Hospira Statement Regarding
+PentothalTM (sodium thiopental) Market Exit (Jan. 21,
+2011).
+After other efforts to procure sodium thiopental proved
+unsuccessful, States sought an alternative, and they even-
+tually replaced sodium thiopental with pentobarbital,
+another barbiturate. In December 2010, Oklahoma be-
+came the first State to execute an inmate using pentobar-
+bital. See Reuters, Chicago Tribune, New Drug Mix Used
+in Oklahoma Execution, Dec. 17 2010, p. 41. That execu-
+tion occurred without incident, and States gradually shifted
+to pentobarbital as their supplies of sodium thiopental
+ran out. It is reported that pentobarbital was used in all
+of the 43 executions carried out in 2012. The Death
+Penalty Institute, Execution List 2012, online at www.
+deathpenaltyinfo.org/execution-list-2012 (all Internet
+materials as visited June 26, 2015, and available in Clerk
+of Court’s case file). Petitioners concede that pentobarbi-
+tal, like sodium thiopental, can “reliably induce and main-
+tain a comalike state that renders a person insensate to
+pain” caused by administration of the second and third
+drugs in the protocol. Brief for Petitioners 2. And courts
+across the country have held that the use of pentobarbital
+in executions does not violate the Eighth Amendment.
+See, e.g., Jackson v. Danberg, 656 F. 3d 157 (CA3 2011);
+Beaty v. Brewer, 649 F. 3d 1071 (CA9 2011); DeYoung v.
+Owens, 646 F. 3d 1319 (CA11 2011); Pavatt v. Jones, 627
+F. 3d 1336 (CA10 2010).
+Before long, however, pentobarbital also became una-
+vailable. Anti-death-penalty advocates lobbied the Danish
+manufacturer of the drug to stop selling it for use in exe-
+
+6 GLOSSIP v. GROSS
+Opinion of the Court
+cutions. See Bonner, supra. That manufacturer opposed
+the death penalty and took steps to block the shipment of
+pentobarbital for use in executions in the United States.
+Stein, New Obstacle to Death Penalty in U. S., Washing-
+ton Post, July 3, 2011, p. A4. Oklahoma eventually be-
+came unable to acquire the drug through any means. The
+District Court below found that both sodium thiopental
+and pentobarbital are now unavailable to Oklahoma. App.
+67–68.
+C
+Unable to acquire either sodium thiopental or pentobar-
+bital, some States have turned to midazolam, a sedative in
+the benzodiazepine family of drugs. In October 2013,
+Florida became the first State to substitute midazolam for
+pentobarbital as part of a three-drug lethal injection pro-
+tocol. Fernandez, Executions Stall As States Seek Differ-
+ent Drugs, N. Y. Times, Nov. 9, 2013, p. A1. To date,
+Florida has conducted 11 executions using that protocol,
+which calls for midazolam followed by a paralytic agent
+and potassium chloride. See Brief for State of Florida as
+Amicus Curiae 2–3; Chavez v. Florida SP Warden, 742
+F. 3d 1267, 1269 (CA11 2014). In 2014, Oklahoma also
+substituted midazolam for pentobarbital as part of its
+three-drug protocol. Oklahoma has already used this
+three-drug protocol twice: to execute Clayton Lockett in
+April 2014 and Charles Warner in January 2015. (Warner
+was one of the four inmates who moved for a preliminary
+injunction in this case.)
+The Lockett execution caused Oklahoma to implement
+new safety precautions as part of its lethal injection proto-
+col. When Oklahoma executed Lockett, its protocol called
+for the administration of 100 milligrams of midazolam, as
+compared to the 500 milligrams that are currently re-
+quired. On the morning of his execution, Lockett cut
+himself twice at “‘the bend of the elbow.’” App. 50. That
+
+Cite as: 576 U. S. ____ (2015) 7
+Opinion of the Court
+evening, the execution team spent nearly an hour making
+at least one dozen attempts to establish intravenous (IV)
+access to Lockett’s cardiovascular system, including at his
+arms and elsewhere on his body. The team eventually
+believed that it had established intravenous access
+through Lockett’s right femoral vein, and it covered the
+injection access point with a sheet, in part to preserve
+Lockett’s dignity during the execution. After the team
+administered the midazolam and a physician determined
+that Lockett was unconscious, the team next administered
+the paralytic agent (vecuronium bromide) and most of the
+potassium chloride. Lockett began to move and speak, at
+which point the physician lifted the sheet and determined
+that the IV had “infiltrated,” which means that “the IV
+fluid, rather than entering Lockett’s blood stream, had
+leaked into the tissue surrounding the IV access point.”
+Warner v. Gross, 776 F. 3d 721, 725 (CA10 2015) (case
+below). The execution team stopped administering the
+remaining potassium chloride and terminated the execu-
+tion about 33 minutes after the midazolam was first in-
+jected. About 10 minutes later, Lockett was pronounced
+dead.
+An investigation into the Lockett execution concluded
+that “the viability of the IV access point was the single
+greatest factor that contributed to the difficulty in admin-
+istering the execution drugs.” App. 398. The investiga-
+tion, which took five months to complete, recommended
+several changes to Oklahoma’s execution protocol, and
+Oklahoma adopted a new protocol with an effective date of
+September 30, 2014. That protocol allows the Oklahoma
+Department of Corrections to choose among four different
+drug combinations. The option that Oklahoma plans to
+use to execute petitioners calls for the administration of
+500 milligrams of midazolam followed by a paralytic agent
+
+8 GLOSSIP v. GROSS
+Opinion of the Court
+and potassium chloride.1 The paralytic agent may be
+pancuronium bromide, vecuronium bromide, or rocuronium
+bromide, three drugs that, all agree, are functionally
+equivalent for purposes of this case. The protocol also
+includes procedural safeguards to help ensure that an
+inmate remains insensate to any pain caused by the ad-
+ministration of the paralytic agent and potassium chlo-
+ride. Those safeguards include: (1) the insertion of both a
+primary and backup IV catheter, (2) procedures to confirm
+the viability of the IV site, (3) the option to postpone an
+execution if viable IV sites cannot be established within an
+hour, (4) a mandatory pause between administration of
+the first and second drugs, (5) numerous procedures for
+monitoring the offender’s consciousness, including the use
+of an electrocardiograph and direct observation, and
+(6) detailed provisions with respect to the training and
+preparation of the execution team. In January of this
+year, Oklahoma executed Warner using these revised
+procedures and the combination of midazolam, a paralytic
+agent, and potassium chloride.
+II
+A
+——————
+1The three other drug combinations that Oklahoma may admin-
+ister are: (1) a single dose of pentobarbital, (2) a single dose of
+sodium thiopental, and (3) a dose of midazolam followed by a dose of
+hydromorphone.
+
+26 GLOSSIP v. GROSS
+Opinion of the Court
+C
+Petitioners’ remaining arguments about midazolam all
+lack merit. First, we are not persuaded by petitioners’
+argument that Dr. Evans’ testimony should have been
+rejected because of some of the sources listed in his report.
+Petitioners criticize two of the “selected references” that
+Dr. Evans cited in his expert report: the Web site
+drugs.com and a material safety data sheet (MSDS) about
+midazolam. Petitioners’ argument is more of a Daubert
+challenge to Dr. Evans’ testimony than an argument that
+the District Court’s findings were clearly erroneous. The
+District Court concluded that Dr. Evans was “well-
+qualified to give the expert testimony that he gave” and
+that “his testimony was the product of reliable principles
+and methods reliably applied to the facts of this case.”
+App. 75–76. To the extent that the reliability of Dr.
+Evans’ testimony is even before us, the District Court’s con-
+clusion that his testimony was based on reliable sources is
+reviewed under the deferential “abuse-of-discretion”
+standard. General Elec. Co. v. Joiner, 522 U. S. 136, 142–
+143 (1997). Dr. Evans relied on multiple sources and his
+own expertise, and his testimony may not be disqualified
+simply because one source (drugs.com) warns that it “ ‘is
+not intended for medical advice’” and another (the MSDS)
+states that its information is provided “‘without any war-
+ranty, express or implied, regarding its correctness.’”
+Brief for Petitioners 36. Medical journals that both par-
+ties rely upon typically contain similar disclaimers. See,
+e.g., Anesthesiology, Terms and Conditions of Use, online
+at http://anesthesiology.pubs.asahq.org/ss/terms.aspx
+(“None of the information on this Site shall be used to
+diagnose or treat any health problem or disease”). Dr.
+Lubarsky—petitioners’ own expert—relied on an MSDS to
+argue that midazolam has a ceiling effect. And petitioners
+do not identify any incorrect statements from drugs.com
+on which Dr. Evans relied. In fact, although Dr. Sasich
+
+Cite as: 576 U. S. ____ (2015) 27
+Opinion of the Court
+submitted a declaration to the Court of Appeals criticizing
+Dr. Evans’ reference to drugs.com, that declaration does
+not identify a single fact from that site’s discussion of
+midazolam that was materially inaccurate.
+Second, petitioners argue that Dr. Evans’ expert report
+contained a mathematical error, but we find this argu-
+ment insignificant. Dr. Evans stated in his expert report
+that the lowest dose of midazolam resulting in human
+deaths, according to an MSDS, is 0.071 mg/kg delivered
+intravenously. App. 294. Dr. Lubarsky agreed with this
+statement. Specifically, he testified that fatalities have
+occurred in doses ranging from 0.04 to 0.07 mg/kg, and he
+stated that Dr. Evans’ testimony to that effect was “a true
+statement” (though he added those fatalities occurred
+among the elderly). Id., at 217. We do not understand
+petitioners to dispute the testimony of Dr. Evans and their
+own expert that 0.071 mg/kg is a potentially fatal dose of
+midazolam. Instead, they make much of the fact that the
+MSDS attached to Dr. Evans’ report apparently contained
+a typographical error and reported the lowest toxic dose as
+71 mg/kg. That Dr. Evans did not repeat that incorrect
+figure but instead reported the correct dose supports
+rather than undermines his testimony. In any event, the
+alleged error in the MSDS is irrelevant because the Dis-
+trict Court expressly stated that it did not rely on the
+figure in the MSDS. See id., at 75.
+Third, petitioners argue that there is no consensus
+among the States regarding midazolam’s efficacy because
+only four States (Oklahoma, Arizona, Florida, and Ohio)
+have used midazolam as part of an execution. Petitioners
+rely on the plurality’s statement in Baze that “it is difficult
+to regard a practice as ‘objectively intolerable’ when it is in
+fact widely tolerated,” and the plurality’s emphasis on the
+fact that 36 States had adopted lethal injection and 30
+States used the particular three-drug protocol at issue in
+that case. 553 U. S., at 53. But while the near-universal
+
+28 GLOSSIP v. GROSS
+Opinion of the Court
+use of the particular protocol at issue in Baze supported
+our conclusion that this protocol did not violate the Eighth
+Amendment, we did not say that the converse was true,
+i.e., that other protocols or methods of execution are of
+doubtful constitutionality. That argument, if accepted,
+would hamper the adoption of new and potentially more
+humane methods of execution and would prevent States
+from adapting to changes in the availability of suitable
+drugs.
+Fourth, petitioners argue that difficulties with Oklaho-
+ma’s execution of Lockett and Arizona’s July 2014 execu-
+tion of Joseph Wood establish that midazolam is sure or
+very likely to cause serious pain. We are not persuaded.
+Aside from the Lockett execution, 12 other executions
+have been conducted using the three-drug protocol at issue
+here, and those appear to have been conducted without
+any significant problems. See Brief for Respondents 32;
+Brief for State of Florida as Amicus Curiae 1. Moreover,
+Lockett was administered only 100 milligrams of midazo-
+lam, and Oklahoma’s investigation into that execution
+concluded that the difficulties were due primarily to the
+execution team’s inability to obtain an IV access site. And
+the Wood execution did not involve the protocol at issue
+here. Wood did not receive a single dose of 500 milligrams
+of midazolam; instead, he received fifteen 50-milligram
+doses over the span of two hours.8 Brief for Respondents
+——————
+8The principal dissent emphasizes Dr. Lubarsky’s testimony that it is
+irrelevant that Wood was administered the drug over a 2-hour period.
+Post, at 20. But Dr. Evans disagreed and testified that if a 750-
+milligram dose “was spread out over a long period of time,” such as one
+hour (i.e., half the time at issue in the Wood execution), the drug might
+not be as effective as if it were administered all at once. Tr. 667. The
+principal dissent states that this “pronouncement was entirely unsup-
+ported,” post, at 20, n. 6, but it was supported by Dr. Evans’ expertise
+and decades of experience. And it would be unusual for an expert
+testifying on the stand to punctuate each sentence with citation to a
+
+Cite as: 576 U. S. ____ (2015) 29
+Opinion of the Court
+12, n. 9. And Arizona used a different two-drug protocol
+that paired midazolam with hydromorphone, a drug that
+is not at issue in this case. Ibid. When all of the circum-
+stances are considered, the Lockett and Wood executions
+have little probative value for present purposes.
+Finally, we find it appropriate to respond to the princi-
+pal dissent’s groundless suggestion that our decision is
+tantamount to allowing prisoners to be “drawn and quar-
+tered, slowly tortured to death, or actually burned at the
+stake.” Post, at 28. That is simply not true, and the prin-
+cipal dissent’s resort to this outlandish rhetoric reveals the
+weakness of its legal arguments.
+VI
+For these reasons, the judgment of the Court of Appeals
+for the Tenth Circuit is affirmed.
+It is so ordered.
+——————
+medical journal.
+After the Wood execution, Arizona commissioned an independent
+assessment of its execution protocol and the Wood execution. According
+to that report, the IV team leader, medical examiner, and an independ-
+ent physician all agreed that the dosage of midazolam “would result in
+heavy sedation.” Ariz. Dept. of Corrections, Assessment and Review of
+the Ariz. Dept. of Corrections Execution Protocols 46, 48 (Dec. 15,
+2014), online at https://corrections.az.gov/sites/default/files/documents/
+PDFs/arizona_final_report_12_15_14_w_cover.pdf. And far from
+blaming midazolam for the Wood execution, the report recommended
+that Arizona replace its two-drug protocol with Oklahoma’s three-drug
+protocol that includes a 500-milligram dose of midazolam as the first
+drug. Id., at 49.

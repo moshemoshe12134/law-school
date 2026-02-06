@@ -1,0 +1,762 @@
+Stanford Law Review
+(cid:21)(cid:42)(cid:47)(cid:35)(cid:45)(cid:44)(cid:45)(cid:35)(cid:47)(cid:38)(cid:49)(cid:35)(cid:1)(cid:20)(cid:43)(cid:42)(cid:46)(cid:47)(cid:45)(cid:48)(cid:33)(cid:47)(cid:38)(cid:43)(cid:42)(cid:1)(cid:38)(cid:42)(cid:1)(cid:47)(cid:37)(cid:35)(cid:1)(cid:28)(cid:48)(cid:32)(cid:46)(cid:47)(cid:31)(cid:42)(cid:47)(cid:38)(cid:49)(cid:35)(cid:1)(cid:20)(cid:45)(cid:38)(cid:41)(cid:38)(cid:42)(cid:31)(cid:40)(cid:1)(cid:23)(cid:31)(cid:50)
+(cid:19)(cid:48)(cid:47)(cid:37)(cid:43)(cid:45)(cid:2)(cid:46)(cid:3)(cid:18)(cid:1)(cid:24)(cid:31)(cid:45)(cid:39)(cid:1)(cid:22)(cid:35)(cid:40)(cid:41)(cid:31)(cid:42)
+(cid:28)(cid:43)(cid:48)(cid:45)(cid:33)(cid:35)(cid:18)(cid:1)(cid:28)(cid:47)(cid:31)(cid:42)(cid:36)(cid:43)(cid:45)(cid:34)(cid:1)(cid:23)(cid:31)(cid:50)(cid:1)(cid:27)(cid:35)(cid:49)(cid:38)(cid:35)(cid:50)(cid:4)(cid:1)(cid:30)(cid:43)(cid:40)(cid:6)(cid:1)(cid:11)(cid:11)(cid:4)(cid:1)(cid:25)(cid:43)(cid:6)(cid:1)(cid:12)(cid:1)(cid:2)(cid:19)(cid:44)(cid:45)(cid:6)(cid:4)(cid:1)(cid:9)(cid:17)(cid:16)(cid:9)(cid:3)(cid:4)(cid:1)(cid:44)(cid:44)(cid:6)(cid:1)(cid:13)(cid:17)(cid:9)(cid:5)(cid:14)(cid:15)(cid:11)
+(cid:26)(cid:48)(cid:32)(cid:40)(cid:38)(cid:46)(cid:37)(cid:35)(cid:34)(cid:1)(cid:32)(cid:51)(cid:18)(cid:1)Stanford Law Review
+(cid:28)(cid:47)(cid:31)(cid:32)(cid:40)(cid:35)(cid:1)(cid:29)(cid:27)(cid:23)(cid:18)(cid:1)http://www.jstor.org/stable/1228535 .
+(cid:19)(cid:33)(cid:33)(cid:35)(cid:46)(cid:46)(cid:35)(cid:34)(cid:18)(cid:1)(cid:10)(cid:10)(cid:7)(cid:8)(cid:17)(cid:7)(cid:10)(cid:8)(cid:9)(cid:9)(cid:1)(cid:8)(cid:16)(cid:18)(cid:13)(cid:8)
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Stanford Law Review is collaborating with JSTOR to digitize, preserve and extend access to Stanford Law
+Review.
+http://www.jstor.org
+
+April 1981] INTERPRETIVEC ONSTRUCTION 593
+we use one time frame or another. Finally, I will suggest what role
+interpretive construction plays-why the interpreter does what he
+does, although I offer my accounts of why "analysts" do what they do
+with more trepidation than I have when I offer my account of what
+they are doing.
+Though it may appear to some that I have nonrandomly selected
+the cases in which these interpretive constructs are involved, this
+charge strikes me as unwarranted. First, though the group of "hard"
+cases I have selected may seem unrepresentative, I have simply se-
+lected nearly all of the issues that I cover teaching a traditional sub-
+stantive criminal law course, using a good casebook3 that certainly
+was not edited with my concerns in mind. Second, and more impor-
+tantly, I have attempted in Part IV to extend the discussion of inter-
+pretive constructs to the sorts of "easy" cases that legal commentators
+never bother to discuss, cases with few apparent puzzling aspects. If
+the interpretations I discuss are at work in these "easy" cases, they
+are at stake in everyc ase.
+I. A GENERAL SUMMARY OF INTERPRETIVEC ONSTRUCTS
+Legal argument can be made only after a fact pattern is charac-
+terized by interpretive constructs. Once these constructs operate, a
+single legal result seems inevitable, a result seemingly deduced on
+general principle. These constructs appear both in conscious and un-
+conscious forms in standard legal discourse. Before examining in de-
+tail how interpretive constructs reify substantive "textbook" law, it
+will be useful to examine them more precisely.
+A. Four UnconsciouIsn terprettieC onstructs
+Unconscious interpretive constructs shape the way we view dis-
+ruptive incidents, but they are never identified or discussed by judges
+or commentators. There are basically four forms of unconscious con-
+structs, two dealing with "time-framing" and two dealing with
+problems of categorization. I discuss unconscious constructs before
+conscious ones because the former are often used to avoid issues in-
+herent in the latter, issues that the legal analysts are most prone to be
+aware are controversial, perhaps insoluble, and highly politicized.
+1. Broada nd narrowt imef rames.
+We put people on trial. People exist over time; they have long,
+3. S. KADISH& M. PAULSEN,C RIMINALL AW AND ITS PROCESSES( 3d ed. 1975).
+
+594 STANFORDL AWR EVIEW [Vol. 33:591
+involved personal histories. We prosecute particular acts-untoward
+incidents-that these people commit. But even these incidents have
+a history: Things occur before or after incidents that seem relevant
+to our judgment of what the perpetrator did. Sometimes we incorpo-
+rate facts about the defendant's personal history.4 Other times, we
+incorporate facts about events preceding5 or post-dating6 the crimi-
+nal incident. But an interpreter can readily focus solely on the iso-
+lated criminal incident, as if all we can learn of value in assessing
+culpability can be seen with that narrower time focus.
+Most often, though not invariably, the arational choice between
+narrow and broad time frames keeps us from having to deal with
+more explicit political questions arising from one conscious interpre-
+tive construct-the conflict between intentionalism and determinism.
+Often, conduct is deemed involuntary (or determined) rather than
+freely willed (or intentional) because we do not consider the defend-
+ant's earlier decisions that may have put him in the position of ap-
+parent choicelessness. Conversely, conduct that could be viewed as
+freely willed or voluntary if we looked only at the precise moment of
+the criminal incident is sometimes deemed involuntary because we
+open up the time frame to look at prior events that seem to compel or
+determine the defendant's conduct at the time of the incident. The
+use of "time-framing" as interpretive method blocks the perception
+that intentionalist or determinist issues could be substantively at
+stake. If one has somehow convinced oneself that the incident, nar-
+row time-framed focus is the appropriate technique for interpreting
+criminal law material, there is simply no background data one can
+use, either to provide the grist for a determinist account or to locate a
+prior sphere of choice in a seemingly constricted world. The inter-
+pretive "choice" between narrow and broad time frames affects not
+only controversial, doctrinally tricky legal cases, but also "easy"
+cases, because narrow time-framing fends off, at the methodological
+level, the possibility of doing determinist analyses.
+2. Dtsjoineda nd untfieda ccounts.
+A second unconscious interpretive construct relating to time in-
+volves the tension between disjoined and unified accounts of inci-
+dents. Many legally significant situations seem to require a
+4. For example, we incorporate facts about a defendant's personal history in raising the
+insanity defense.
+5. Eg., in raising the defense of duress.
+6. E.g., in raising the defense of abandonment.
+
+April 1981] INTERPRETIVEC ONSTRUCTION 595
+somewhat broad time frame, at least in the sense that we feel we
+must look beyond a single moment in time and account, in some
+fashion, for some clearly relevant earlier moment. The earlier "mo-
+ment" may be the time at which a defendant made some judgment
+about the situation she was in, some judgment that at least contrib-
+uted to the ultimate decision to act criminally. For instance, the de-
+fendant negligently believes she must use deadly force to defend
+herself and then she intentionally kills someone, having formed that
+belief. Alternatively, the earlier moment may simply be the moment
+at which the defendant initiated the chain of events that culminated
+in criminal results. For instance, the defendant may shoot at X, but
+the bullet will miss X and then kill Y, an unforeseeably present by-
+stander.
+Once we agree to look at these earlier moments, we must decide
+whether to disjoin or unify the earlier moment with the later mo-
+ment. We can treat all the relevant facts as constituting a single inci-
+dent, or we can disjoin the events into two separate incidents.
+Once this arational interpretive decision is made, the question of
+criminal culpability is forever biased. Is a negligent decision to kill
+followed by an intentional killing a negligent or intentional act? Is
+the person who misses X and shoots Y someone who commits two
+crimes-attempted murder of X plus, say, reckless homicide of Y-or
+one crime-an intentional murder of a person? Sometimes, unifying
+two arguably separate incidents allows us to avoid making a hard-to-
+justify assertion that the arguably second incident or decision was
+determined by the first. Often, other interests are at stake in separat-
+ing or joining a series of incidents.
+3. Broada nd narrowv iews of intent.
+A third unconscious construct involves broad and narrow views of
+intent. Each time someone acts, we can say with fair confidence that,
+in the absence of some claim of accident, he intended to do precisely
+the acts that he has done. But we have difficulty categorizing those
+acts, because an individual set of acts may, in the observer's eyes, be
+an instance of a number of different categories of acts. For example,
+when the defendant intends to undertake certain deeds constituting a
+particular crime, it feels both misleading in significant ways, and per-
+fectly proper in others, to assert that the defendant intended the par-
+ticular crime. On one hand, it is odd to think of actors as viewing the
+world in criminal law categories when they act. On the other hand,
+it is equally odd to think of actors as focusing in their consciousness
+
+600 STANFORDL AWR EVIEW [Vol. 33:591
+neither has killer force.21 Because neither position can dominate the
+other, legal arguments about the desirable form of legal commands
+are not just oscillating, unsettled, and unbalanced, but the choice of
+one resolution or the other ultimately feels like a product of whim-a
+reflection of one's most recent overreaction to the follies of the previ-
+ously adopted form.
+II. UNCONSCIOUS INTERPRETIVEC ONSTRUCTS
+Having examined the interpretive constructs in general, I shall
+now apply the four unconscious constructs to doctrinally "hard"
+cases in the substantive criminal law. This part illustrates how each
+construct is used and how certain results are apparently mandated
+only after an unwarranted interpretation is made. I shall also try in
+this section to account for the appearance of particular constructs in
+particular fact situations. Though I am generally skeptical of ac-
+counts of construction, it is most often my belief that interpretive
+construction appears to enable the legal analyst to avoid dealing with
+fundamental political problems.
+A. Broada nd Narrow Time Frames
+1. Narrow time-framing.
+Generally speaking, narrow time frames buttress the traditionally
+asserted intentionalism of the criminal justice system. In a number of
+doctrinal areas, though, conduct is deemed to be involuntary or
+otherwise outside the responsibility of the defendant even though, if
+we interpret the relevant legal material as including earlier decisions
+(that is, if we broaden the time frame), we can interpret the courseo f
+conduct that culminates in criminal harm as chosen.
+Status versusc onductd tsttiction. The tensions of time-framing are
+evident in the status versus conduct distinction. In United States v.
+Moore,22 Judge Wright, in dissent, argued that a statute proscribing
+narcotics possession should not apply to drug addicts, because posses-
+sion merely manifests their status of being addicted. He contended
+that drug addicts cannot be deterred from or blamed for possessing
+21. Much of the technique of Socratic first-year law teaching involves the teacher driv-
+ing the student towards a rule position and countering with a parade of horrible cases in
+which actors within the culture abuse the precisely framed rules, or driving the student to-
+wards advocacy of a vague, purposive standard and countering with a parade of horrors
+about the "nonlegal," fiat-based, bigoted system the student has created.
+22. 486 F.2d 1139 (D.C. Cir. 1973).
+
+April 1981] INTERPRETIVEC ONSTRUCTION 601
+narcotics because their addiction rendered them choiceless.23 Since
+punishment is inappropriate unless its deterrence or retributory aims
+are met, it is inapt here.
+Fully addicted people truly may not be deterrable by the pros-
+pect of punishment at the momentw hen they decide to possess or use
+drugs. In Judge Wright's narrow view of the relevant legal material,
+the defendant may be nondeterrable because his then-pressing desire
+makes him oblivious to the costs imposed by state punishment. But
+once we broaden the time frame, we can see that even the particular
+use by the addict in Moore would have been less likely if addicts were
+punished. Assuming, as one must in applying deterrence theories,
+that actors calculate rationally and try to avoid pain, we know that if
+a person can be punished at any future time he uses drugs, not just in
+the pre-addiction period, he will be less prone to start using drugs.
+But, of course, if the person who ultimately came to trial had not
+made the initial uses, he would not have become an addict or made
+the particular use we are concerned with.24
+Precisely the same objection can be made to Judge Wright's argu-
+ment that the status of addiction cannot be deemed blameworthy.
+Even if we should not blame people for being sick, we may well blame
+23. Judge Wright stated, "[R]ecognition of a defense of 'addiction' for crimes such as
+possession of narcotics is consistent not only with our historic common law notions of criminal
+responsibility and moral accountability, but also with the traditional goals of penology-
+retribution, deterrence, isolation and rehabilitation.
+". . [T]he retributive theory of criminal justice looks solely to the past . . .. Revenge,
+if it is ever to be legitimate, must be premised on moral blameworthiness, and what segment
+of our society would feel its need for retribution satisfied when it wreaks vengeance upon
+those who are diseased because of their disease?
+"The most widely employed argument in favor of punishing addicts for crimes such as
+possession of narcotics is that such punishment or threat of punishment has a substantial
+deterrent effect. . . . [But d]eterrence presupposes rationality .... In the case of the nar-
+cotic addict, however, the normal sense of reason, which is so essential to effective functioning
+of deterrence, is overcome by the psychological and physiological compulsions of the disease.
+As a result, it is widely agreed that the threat of even harsh prison sentences cannot deter the
+addict from using and possessing the drug." Id. at 1242-44.
+24. Thus, to use obviously artificial numbers, assume the person on day one prevalues
+all future drug uses at 100 and prevalues punishment for use at (-200). However, there is
+only a 1 in 4 chance of being caught using before he is addicted. He may then use the drugs,
+since the expected value of use (100) exceeds the negative expected value of punishment (1/4
+x (-200) or (-50)). Use may lead to the pressing desire of addiction, so at the time of the
+particular use for which he is arrested, drug use may have reached a value of, say, 50,000, so
+that, in Wright's terms, he is nondeterrable.
+If a potential drug user knows he will be punished even if addicted, he may never use
+drugs at all. Thus, even postaddiction drug use is less likely if we broaden the time frame to
+include the defendant's earlier decisions to use drugs.
+
+602 STANFORDL AWR EVIEW [Vol. 33:591
+them for becomings ick. The addict may seem blameless in the narrow
+time frame, but in a broader time frame he may well be blamewor-
+thy. Certainly, it is not at all uncommon or bizarre for a parent to
+blame (and punish) a child who goes out of the house in a storm
+without adequate raingear for getting a cold, even though the same
+parent would not punish the child for the "status" of betng ill. Vene-
+real disease is another clear case: That VD is generally considered a
+disease hardly precludes us from blaming its victims, because they
+contractedit through earlier voluntary acts.25
+Judge Wright dismissed, in conclusory fashion, the possibility of
+using a broader time frame in assessing retributive demands.26 Pre-
+sumably, Judge Wright used a very narrow time frame here to reach
+the determinist result he would like to reach by using the very
+broadesto ne: I surmise that the judge actually believes that the initial
+"voluntary" drug uses are themselves determined by social and envi-
+ronmental pressures that predate those early uses. Despairing of the
+possibility of applying a very wide time focus and a more general
+determinism, he avoided this political confrontation by constructing
+the legal "material" in terms of the traditional incidentf ocus, a focus
+which the majority implicitly rejected in the following conclusory
+terms:
+The gist of appellant'sa rgument is that "the common law has long
+held that the capacity to control behavior is a prerequisitef or crim-
+inal responsibility."
+It is inescapablet hat the logic of appellant's argument, if valid,
+would carry over to all other illegal acts of any type whose purpose
+25. In his concurring opinion in Robinson v. California, 370 U.S. 660, 676-78 (1962),
+Justice Douglas argued that it is unconstitutionally cruel and unusual to punish a person for
+being an addict, since addiction is an illness. But why are we morally duty-bound to treat,
+rather than to condemn, sick people, if we believe that having an illness is not an inevitably
+disconnected incident, but may be part of an historical process to which the ill person volun-
+tarily contributed?
+Besides the time-framing issue, his argument is ambiguous in two other ways: First, what
+does it mean to say that addiction is an illness? If, for instance, an illness is something doctors
+can treat, would addiction count? Second, even if addiction is an illness and illnesses must be
+treated, how do we know that punishment is not a form of treatment or that traditional
+"treatment" is not, at least when unwanted, punishment? See In re De La 0, 59 Cal. 2d 128,
+378 P.2d 793, 28 Cal. Rptr. 489 (1963) (upholding mandatory civil commitment program for
+addicts because it was not deemed punishment under Robinson).
+26. Judge Wright noted that "there may have been a time in the past before the addict
+lost control when he made a conscious decision to use drugs. But imposition of punishment
+on this basis would violate the long-standing rule that '[t]he law looks to the immediate, and
+not to the remote cause; to the actual state of the party, and not to the causes, which remotely
+produced it.' " 486 F.2d at 1243 (quoting United States v. Drew, 25 F. Cas. 913, 914 (C.C.D.
+Mass. 1828) (No. 14,993)).
+
+April 1981] INTERPRETIVEC ONSTRUCTION 603
+was to obtain narcotics.27
+If we take it as given that we must punish the people we are now
+punishing-and a lot of those people are stealing to obtain narcot-
+ics-then we must avoid Judge Wright's incident-based determinism.
+But this is simply a functionalist complacency, the belief that things
+are right because they are done: a world view hardly more or less
+acceptable than any other political assertion (e.g., things can be pre-
+sumed to be wrong, if done, because the world we see is pretty
+crummy), and hardly the outcome of piercing legal analysis.
+The voluntarya ct requirement.U nconscious shifting between broad
+and narrow time frames also arises in applying the criminal law's
+voluntary act requirement. In Martin v. State,28 police officers ar-
+rested the defendant at his home and took him onto a public high-
+way, where the defendant used loud and profane language. He was
+convicted under a statute prohibiting public exhibition of a drunken
+condition. The appellate court reversed, holding that the defendant
+was involuntarily and forcibly carried to the public place by the ar-
+resting officers. The court concluded, uncontroversially, that an in-
+voluntary act cannot give rise to liability.29 But in People v. Decina,30
+the court sustained the defendant's conviction for negligent homi-
+cide, though at the time his car struck the victims, he was uncon-
+scious as a result of an epileptic fit, not voluntarily operating the
+vehicle. The court held that the defendant was culpable because he
+had made a conscious decision to drive, knowing that an epileptic
+attack was possible.31
+The hidden interpretive time-framing construct becomes visible
+when one tries to square Martin with Decina. In Decina, the court
+opened up the time frame, declaring that if the defendant commits a
+voluntary act at time one which poses a risk of causing an involun-
+tary harm later-drives the car knowing he is a blackout-prone epi-
+leptic-then the second act-crashing while unconscious-will be
+deemed voluntary. But the defendant in Martin, as well, may have
+done somethingv oluntarily (before the police came) that posed a risk
+that he would get arrested and carried into public in his drunken
+state. While it is plausible that Martin was arrested on an old war-
+27. 486 F.2d at 1145.
+28. 31 Ala. App. 334, 17 So. 2d 427 (1944).
+29. Id. at 335, 17 So. 2d at 427.
+30. 2 N.Y.2d 133, 138 N.E.2d 799, 157 N.Y.S.2d 558 (1956).
+31. Id. at 139-40, 138 N.E.2d at 803-04, 157 N.Y.S.2d at 565.
+
+604 STANFORDL AWR EVIEW [Vol. 33:591
+rant32 and could not foresee that he would wind up in public on this
+occasion, it is quite possible that the defendant was arrested for activ-
+ity he was engaging in at home: for instance, beating his wife.33
+Why did the court not consider saying that the voluntary act at time
+one (wife beating) both posed a risk of and caused a harmful involun-
+tary act at time two (public drunkenness) and assessing the voluntari-
+ness of the alleged criminal act with reference to the wider time-
+framed scenario? It cannot be that the involuntary, harmful act at
+time two was unforeseeable:34 The probability of an epileptic black-
+out is almost certainly far lower than the probability of ending up in
+public after engaging in behavior likely to draw police attention. Ar-
+guments that we are less concerned with people "thinking ahead" to
+avoid public drunkenness than unconscious driving seem inadequate
+32. In a truly intentionalist discourse, the hypothetical fact that Martin did not foresee
+arrest on the particular occasion that he was drunk (e.g., when he was arrested on a past
+warrant) would still not preclude a finding of voluntariness, at least if the arrest was valid.
+(An invalid arrest, as in Finch v. State, 101 Ga. App. 73, 112 S.E.2d 824 (1960), would make
+the public appearance that follows seem involuntary in a broad time frame as well.) One of
+the risks one (voluntarily) takes when one performs acts for which one ultimately may be
+arrested is that one will someday be forced to go places with the police, when they want to go
+and not when the individual wants to. This sort of broad voluntary reading of human inten-
+tion typifies traditional assumption of risk doctrine, in which a worker is deemed to contract
+away his rights to a safe workplace when he makes a deal that includes, but makes no explicit
+reference to, the abnormal risks of the workplace.
+33. Courts do not examine whether the defendant's voluntary acts brought the police to
+his home just prior to the arrest. Instead, they unconsciously use a narrow time frame in
+assessing voluntariness. Cases where the defendant clearly took such recent acts, e.g., Mar-
+shall v. State, 70 Ga. App. 106, 27 S.E.2d 702 (1943) (defendant arrested after a reported
+disturbance at a soda plant); People v. Lane, 8 Misc. 2d 325, 32 N.Y.S.2d 61 (1942) (defend-
+ant taken from a friend's apartment by police after he began fighting with the friend's guest);
+People v. Brown, 64 Misc. 677, 120 N.Y.S. 859 (1909) (defendant hauled away from a private
+house because he had been "licking his horse"), read just like the cases where the root of the
+public appearance is unsure or unclear, e.g., Martin v. State, 31 Ala. App. 334, 17 So. 2d 427
+(1944); Gunn v. State, 37 Ga. App. 333, 140 S.E. 524 (1927); Reddick v. State, 35 Ga. App.
+256, 132 S.E. 645 (1926).
+Two recent California cases do broaden the time frame in looking at the voluntariness of
+a public appearance, People v. Perez, 64 Cal. App. 3d 297, 134 Cal. Rptr. 338 (2d Dist.
+1976); People v. Olson, 18 Cal. App. 3d 592, 96 Cal. Rptr. 132 (2d Dist. 1971) (both deciding
+questions of suppressing evidence obtained after arrest, rather than validity of drunk-in-pub-
+lic conviction).
+34. First, one must note that the court made no foreseeability arguments; the interpre-
+tive characterization of the situation precluded the need for such an argument. Second, in
+courts using narrow time frames, a defendant who is involuntarily brought into public, even
+when he could clearly foresee when that involuntary appearance would occur, will be acquit-
+ted of a drunk-in-public charge. See, e.g., Moody v. State, 131 Ga. App. 355, 206 S.E.2d 79
+(1974) (defendant brought by deputy sheriff into public in response to subpoena; court did
+not see that although presence in public may not have been voluntary over the short run, it
+was clearly foreseeable).
+
+April 1981] INTERPRETIVE CONSTRUCTION 605
+as well; the penalties for public drunkenness are presumably set lower
+to reflect the relative lack of gravity of the offense. Ultimately, the
+Martin finding of voluntariness "works" not because it is "right," but
+because all the hard points disappear in the initial interpretive con-
+struction of the potentially relevant facts.35
+Hostility to strict liability. Commentators who attack the use of
+strict liability in criminal law invariably use narrow time-framing.
+They imply that the defendant deemed guilty of an offense which
+allows no mental state excuses as to some element of the crime is
+treated unjustly because he could somehow not avoid criminality.
+Look, for instance, at H.L.A. Hart's comments on criminal responsi-
+bility:
+The reason why, according to modern ideas, strict liability is odi-
+ous, and appears as a sacrifice of a valued principle . . . is that
+those whom we punish should have had, when they acted, the nor-
+mal capacities ... for doing what the law requires and abstaining
+from what it forbids. . . . [T]he moral protest is that it is morally
+wrong to punish because "he could not have helped it" or "he
+could not have done otherwise" or "he had no real choice."36
+But this implication is not valid. Often, the actor could readily avoid
+35. The case ultimately may be better understood as involving issues traditionally raised
+either as entrapment, see notes 135-36 tifra and accompanying text (te., the police may sim-
+ply be too entwined in this particular violation to sustain a conviction), or justification, see
+notes 192-93 infra and accompanying text (zie., we actually want Martin to violate the drunk-
+in-public law in these particular circumstances, because, on balance, we like obedience to
+police much more than we dislike public drunkenness). The interpretive construction may
+obviate the need to apply inevitably vague entrapment and justification doctrines; thus, it
+expands the core of the criminal law covered by rules rather than ad hoc standards.
+36. H.L.A. HART, supra note 1, at 152.
+See J. FEINBERG, DOINGA ND DESERVING1 11-12 (1970) ("[S]trict liability to imprisonment
+. . . 'has been held by many to be incompatible with the basic requirements of our Anglo-
+American, and indeed, any civilized jurisprudence.' . . . [T]he reason why strict liability to'
+imprisonment (punishment) is so much more repugnant to our sense of justice than is strict
+liability to fine (penalty) is simply that imprisonment in modern times has taken on the sym-
+bolism of public reprobation. . . . We are familiar with the practice of penalizing persons
+for 'offenses' theyc ouldn ot help. It happens every day in football games, business firms, traffic
+courts, and the like. But there is something very odd and offensive in punithing people for
+admittedly faultless conduct. .. .") (second emphasis added) (footnotes omitted).
+All the major commentators, with the partial exception of Wasserstrom, Strict LiabZit?yin
+the CriminalL aw, 12 STAN. L. REV. 731 (1960), share this hostility to strict liability. See, e.g.,
+G. FLETCHERs,u pra note 1, ? 9.3, at 717-36; J. HALL, supra note 1, at 342-59; H. PACKER,
+supra note 1, at 121-31; G. WILLIAMS, supra note 1, ? 89; Wechsler, The Challengeo f a Model
+Penal Code, 65 HARV. L. REV. 1097, 1108-09 (1952). The Model Penal Code predicates crim-
+inality only on negligence, recklessness, purpose, or knowledge. MODEL PENAL CODE ? 2.05
+(Tent. Draft No. 4, 1955) provides that any strict liability "crime" can be no worse than a
+"violation," with no nonmonetary penalties.
+
+April 1981] INTERPRETIVEC ONSTRUCTION 611
+can only be practiced where there is personal fault-if one reacts with
+enough horror and shock at the idea of punishing those one defines as
+faultless without paying much attention to how faultlessness is de-
+fined-perhaps one can ignore the charge that in our routine ac-
+counts of fault in ordinary "intentional" criminal cases, we simply
+rule out the determinist claim that "crime is unavoidable." The de-
+terminists can be warded off by pointing out just how sensitive we
+purportedly are to punishing the blameless; the desired rhetorical
+point is that such sensitive people err only on the side of the accused.
+2. Broad time-framing.
+Much criminal law doctrine departs from the traditional incident
+focus and opens up the time frame. Broad time frame construction is
+most often used when deterministic discourse supplants the usual in-
+tentionalism. The substantive doctrines of duress, subjective entrap-
+ment, provocation, and insanity are examples of such uses of broad
+time-framing.47 These doctrines describe how certain blameworthy
+acts are in fact blameless because rooted in or determined by factors
+that preceded the criminal incident. The question, of course, is why
+the broad time frame is selected in these cases, while it continues to
+be excluded as methodologically inappropriate in most other cases
+for no apparent reason.
+Broad time-framing unrelated to determinism and intentionalism
+also occurs in other areas of the substantive criminal law. The time
+frame can be opened up to account for events both prior and subse-
+quent to the criminal incident.
+Abandonment.T he basic decision to allow any abandonment de-
+fense follows a wide time-framed interpretive construction.48 The de-
+fendant has already committed some act which, if interrupted by
+external forces, would constitute an offense, an attempt of some other
+substantive crime. Yet we judge the act innocent because of the de-
+fendant's subsequent failure to consummate the harm. Although
+many reasons for this widened time frame have been offered, none
+overcomes the fundamentally nonrational, interpretive aspect of the
+initial broadening of focus. Some deterrence-oriented theorists sug-
+47. See notes 128-54 infra and accompanying text.
+48. See, e.g., MODEL PENALC ODE ? 5.01(4) (Tent. Draft No. 10, 1960), exculpating an
+actor who completely and voluntarily renounces an unconsummated criminal plan, even
+though he had already done enough so that were he interrupted by external forces, he would
+be guilty of attempt. Cf People v. Staples, 6 Cal. App. 3d 61, 85 Cal. Rptr. 589 (2d Dist.
+1970) (denying that voluntary abandonment is a good defense).
+
+612 STANFORDL AWR EVIEW [Vol. 33:591
+gest that an abandonment defense provides incentives to avoid the
+consummation of harm.49 But there are surely a number of "com-
+pleted" crimes whose harm can be as effectively "undone" as can the
+abandoned attempt: An embezzler, for instance, may return money
+to victims unaware of their loss50 and "undo" as much harm as the
+person who desists from an assault with intent to commit rape be-
+cause the victim talks him out of continuing.5'
+Retributively oriented commentators note that abandonment
+makes us reassess our vision of the defendant's blameworthiness or
+deviance.52 Of course, if we admitted evidence of post-criminal con-
+duct (whether remorse, restitution, condonation, or reform) into every
+trial, we would frequently change our views of the defendant's
+blameworthiness. Once more, the act of interpretation, the open
+time frame, allows the policy conclusion.
+Broad time-framing is used in the abandonment area because the
+general rule-oriented nature of the criminal law has already stum-
+bled in the less rule-like attempt area. Attempt law is generally prob-
+lematic in our legal culture because it is inexorably less rule-like than
+the law of consummated harms; the actus reus of "attempting" refers
+not so much to particular proscribed acts53 as to unavoidably noncat-
+egorizable acts which, in the particular case, seem to give evidence of
+the particular defendant's subjective disposition to act criminally.
+To commit rape is to force carnal knowledge of a woman; to attempt
+rape is to do sufficient acts to indicate that one would force carnal
+knowledge. Whether the requisite "sufficient" acts include the pre-
+cise acts of undressing, fondling, cornering, isolating from public
+view, using force, and/or simply implying that force will be used is
+inevitably a case-by-case determination. I suspect that the use of a
+forward-looking broad time frame in considering the blameworthi-
+ness of an attempter is the predictable outcome of the breakdown of
+the rule-like form. The system demands all available information
+49. See, e.g., W. LAFAVE& A. SCOTT,s upra note 1, ? 60, at 450; G. WILLIAMSs,u pra note
+1, ? 199, at 620-21.
+50. G. FLETCHERs,u pra note 1, ? 3.3.8, at 186.
+51. See Le Barron v. State, 32 Wis. 2d 294, 145 N.W.2d 79 (1966).
+52. G. FLETCHERs,u pra note 1, ? 3.3.8, at 187-88.
+53. See the discussion of distinguishing preparation from attempt, notes 167-80 infra
+and accompanying text. H. PACKERs, upra note 1, at 100 states: "[A]ll of us frequently make
+moves in the direction of criminal activity, thereby satisfying this essential element of the
+attempt concept. It is, therefore, instructive to note the doctrinal mechanisms whose function
+it is, baldly put, to keep from making criminals of us all." The difficulties of squaring this
+vague doctrine with legalism are discussed in id. at 101; G. FLETCHERs,u pra note 1, ? 3.3.4, at
+157-59.
+
+April 1981] INTERPRETIVEC ONSTRUCTION 613
+about defendant's blameworthiness, taken from as wide a period as
+possible, as soon as it departs from the rule-like form.
+The attachment to overtly political Rule of Law ideals precludesa
+general broadening of time focus in the traditional consummated
+harm case; the idea is that blameworthiness must be conclusively pre-
+sumed from the performance of one of the proscribed acts in one of
+the narrow time-framed blameworthy fashions. Once we allow our-
+selves to recognize the breakdowns in our inevitably imprecise con-
+clusive presumptions, we see the strains of legalism. To recognize
+that we were probably thinking about the unremorseful, nonrestitu-
+tionary thief when we set out general penalties for larceny is to re-
+mind ourselves of the limit of the universalistic model. But we can
+avoid overtly political defenses of obviously inapt conclusive pre-
+sumptions by implying that, as a matter of method, our factual in-
+quiry simply does not go forward once a criminal act is complete.
+The undefended, but deviant, broad time frame appears in con-
+structing an abandonment defense because of the inevitable break-
+down of pure legalist form in the attempt area. Since we cannot infer
+blame from a single act, because no such act is present in attempting,
+we move, at the very least, to more partial Rule of Law strictures:
+We try to infer a disposition to perform one of the still automatically
+blameworthy acts. But this does not imply, as Fletcher seems to be-
+lieve,54 the logical necessity of allowing an abandonment defense:
+Once one performs acts indicating a firm intention to commit blame-
+worthy criminal acts, there is no rational reason not to treat the per-
+formance of these acts as conclusively presumed proof of criminal
+intent. Of course, such a conclusive presumption would be inaccu-
+rate, as all conclusive presumptions are; the abandoning defendant
+demonstrates that our presumption that defendants who have "at-
+54. Fletcher argues not precisely that the abandonment undermines our sense that the
+defendant is a blameworthy harm-causer, but that it undermines the far more specific crimi-
+nal intent that he feels is required to carry out a crime. G. FLETCHERs,u pra note 1, ? 3.3.8, at
+189. This more complex vision, though, is ultimately circular: It is based solely on Fletcher's
+notion that consummated harms are more than simply indicators of blameworthiness or need
+for reformation, incapacitation, etc., cf. MODEL PENAL CODE ? 1.02(1) (Proposed Official
+Draft 1962) ("The general purposes of the provisions governing the definition of offenses are:
+... (b) to subject to public control persons whose conduct zndicatest hat they are disposed to
+commit crimes.") (emphasis added), while attempts, uniquely, are simply indicators. But the
+validity of the vision of attempts as indicators of blameworthiness and completed harms as
+inexorably blameworthy, without regard to the rest of the defendant's revealed attitude about
+harming, is precisely the question here; it cannot be used to provide the answer to the ques-
+tion of whether the open time frame used in the abandonment defense is uniquely appropri-
+ate.
+
+614 STANFORD LAW REVIEW [Vol. 33:591
+tempted" are firmly resolved to commit crimes is sometimes wrong.
+But the remorseful consummated criminal would equally well
+demonstrate that conclusive presumptions about the need to inca-
+pacitate, reform, or blame a person because he has committed some
+crime can be inapt. The abandonment defense, then, appears not
+because a forward-looking broad time frame is logically better suited
+to attempt law, but because the always available policy attacks on
+rules (and conclusive presumptions) are allowed sway only in an area
+where the rule-form is already weakened by the imprecision of the
+definition of the act upon which criminal liability is predicated.
+Consent. Problems of time-framing also appear in deciding
+whether consent has been given to otherwise criminal acts.55 Assum-
+ing, arguendo, that no action is harmful which the subject assents to,
+we still can identtfyt he supposedly consenting subject using either a
+broad or a narrow time frame. We can look into the subject's past or
+just at a single moment of assent. Should that moment be immedi-
+ately before the act is performed? If the victim at one point did not
+assent to the harmful act but has assented to it right before the act is
+taken, has he assented to it? When Odysseus demands at one point
+to be bound up when the Sirens sing, and later demands to be re-
+leased, which choice most fulfills his "desires"? When someone goes
+on a diet, do you give him the piece of chocolate cake he begs for if
+you are trying to do his will? That we have no ready rules of
+thumb-e.g., "last statement counts," or "statements made under
+oath count"-can be seen not just from these sorts of explicitly am-
+bivalent expressions over time, but by noting that we vary our defini-
+55. Libertarian commentators have long been hostile to the idea that one can convict a
+defendant when the purported "victim" has agreed to allow that defendant to treat him in a
+certain way. See, e.g., H.L.A. HART, THE MORALITYO F THE CRIMINALL AW, 37-39 (1965);
+J.S. MILL, ON LIBERTY9 5-100, 179-89, 206-09 (Everyman American ed. 1951). This hostil-
+ity is manifested in a generalized opposition both to so-called "victimless crime" legislation,
+see, e.g., E. SCHUR, CRIMESW ITHOUTV ICTIMS( 1965), and to the judicial practice of disal-
+lowing consent as a defense in particular cases of, say, assault. See, e.g., MODEL PENAL CODE
+? 2.11 (Proposed Official Draft 1962). The libertarian argument is quite straightforward:
+The criminal law is designed to deter harm (or blame those who do harm), and it is (defini-
+tionally) absurd to say that harm has been done when all parties affected by conduct have
+assented to it.
+Antilibertarians have generally relied on two positions to justify punishing acts that have
+been consented to: pure paternalism (the victim's capacity to judge what will be good for him
+is not to be trusted), see, e.g., H.L.A. HART, LAW, LIBERTY,A ND MORALITY3 0-34 (1963);
+Dworkin, Paternalism in MORALITY AND THE LAW 107 (Wasserstrom ed. 1971), and a view
+that there are broad harmful externalities to the purportedly private interaction, see, e.g., P.
+DEVLIN,T HE ENFORCEMENOT F MORALS (1965); E. DURKHEIM,T HE DIVISIONO F LABOR
+IN SOCIETY 96-110 (1933).
+
+664 STANFORDL AWR EVIEW [Vol. 33:591
+conduct, particularly conduct not taken on single discrete occasions
+by single actors to whom the harm can easily be attributed. These
+may be seen as "easy" cases of noncriminality solely because of an
+unshakably strong procedural norm against vagueness.
+B. UnconsczouIsn terpretation
+More interesting, though, is the way the more obscured, un-self-
+conscious interpretive constructs serve to buttress conventional blam-
+ing practices. This section applies the four unconscious constructs to
+the easy cases.
+1. Broada nd narrowt imef rames.
+Choosing a time frame is critical for a number of reasons. Most
+critically, the interpreter's ability to convince himself of the legiti-
+macy, or better, the necessity of a narrow focus eliminates the more
+obvious political tensions inherent in the choice of an intentionalist
+account. Narrow time-framing simply excludes all the potentially
+explanatory background data.212 For instance, a criminologist's fa-
+miliar category for homicide-that the crime is fundamentally vic-
+tim-precipitated213-disappears in ordinary criminal law discourse,
+except in those rare provocation cases where the victim enrages the
+perpetrator just before the killing, rather than over some longer time
+period. The distinction between those who are partially exculpated
+because they were enraged once (provoked), and those who are incul-
+pated though they were tortured for years before reacting makes no
+sense as a matter of retribution214 and only superficial sense in terms
+of deterrence.215 Ultimately, I suspect, the distinction is grounded in
+212. For instance, it excludes the sort of pseudo-scientific analysis of behavior in Del-
+gado, Ascrption of CriminalS tates of Mind- Toward a Defense Theoryf or the CoercivelyP ersuaded
+("Brainwashed') Defendant, 63 MINN. L. REV. 1 (1978).
+213. See, e.g., M. WOLFGANG,P ATTERNS IN CRIMINAL HOMICIDE 245-65 (1958);
+Gobert, VictimP recipitation, 77 COLUM. L. REV. 511, 530-34 (1977).
+214. In ordinary discourse, a party who kills after he has been repeatedly provoked
+would almost certainly be deemed less culpable than one who boils over and kills the first
+time he is so provoked. Somehow, in legal discourse, the fact that the long-term provoked
+defendant has managed to squelch his violent reactions in the past makes him more culpable
+when he finally gives in. The legal discourse makes sense only if we assume that a person
+should leave rather than slowly build up an uncontrollable rage-an assumption that de-
+pends on the exaggerated assertions that the person is aware of his rage and that there are no
+other reasons that compel him to stay in spite of that rage.
+215. Deterrence theory, I take it, assumes that the short-run provoked party is blind to
+the criminal law signals; the longer-run provoked party ought to have time to consider the
+jailer and leave if he fears he is being worked into a frenzy. Again, this strikes me as a phe-
+nomenologically unsound reading of many cases of long-run provocation: People may get
+
+April 1981] INTERPRETIVEC ONSTRUCTION 665
+a nearly primeval fear of the collapse of the easy case: If long-term
+interactions are appropriate subjects of judicial scrutiny, then there is
+indeed no certainty in blaming.
+2. Dtsjoineda nd unjfieda ccounts.
+Disjoined time-framing eases blaming practices where an excul-
+patory, broad time-framed determinism presses on the would-be con-
+demnor. The quasi-methodological notion is that the ultimate
+criminal act, even if comprehensively grounded in prior experience,
+must be separated from its backdrop. While we sometimes unify an
+overt criminal decision with its backdrop,216 our more usual tech-
+nique is to say, in essence, that the criminal moment stands separate,
+as a matter of technique, from even obviously relevant background.
+But while narrow or disjoined time-framing is connected with the
+artificial and problematic restriction of "excused" behavior, its more
+politically central role may be in its suppression of the recognition of
+something akin to the "justification" of behavior. Take our easy-case
+thief. It is true that he alters the current holdings of property, but
+the legitimacy of these holdings is politically contingent and prob-
+lematic. It does not matter, for our purposes, whether these present
+property holdings can be satisfactorily justified in the eyes of some
+relevant group or other. The justification of the distribution of goods
+that preceded the "theft" is decidedly not an issue in any particular
+criminal trial. The incidental focus that supports this limitation of
+issues-a focus that blurs the "crime" by freezing or taking for
+granted the background conditions in which the "crime" is commit-
+ted-serves important ideological purposes. First, it normalizes, sani-
+tizes, and decriminalizes the property holdings of dominating groups,
+which are unlikely to be traceable to single, easily identified disruptive
+incidents. The dominant rarely appear "criminal" when the implicit
+theory of criminality is dsruption, when the only sort of crime we
+comfortably discuss is temporally limited. Second, the incidental fo-
+cus decontextualizes, delegitimatizes, and thereby criminalizes the
+activities of the dispossessed. Instead of viewing, say, theft and epi-
+sodic violence as part of a dynamic struggle for control over re-
+sources, as one group's more or less self-conscious "strategy" to
+counter another long-term strategy of control over "privately held"
+upset and then find themselves, for a moment that need last no longer than that which the
+traditionally provoked party faces, in an unforeseeable oblivious-to-punishment rage.
+216. For instance, we can ground the decision to kill in the perception of the need to
+defend oneself and judge the defendant's blameworthiness as to the whole scene.
+
+666 STANFORDL AWR EVIEW [Vol. 33:591
+means of production and concomitant definitions of job roles and
+productivity,217 and control over the state and its resources,218a nar-
+row time-framed focus views each act of theft as occurring outside of
+history.
+Note the implicit disjunctive, nonunified interpretation of time:
+Criminal trials implicitly assume that property systems arefollowed by
+theft rather than that real property systems are continually being cre-
+ated by a social struggle that includes everything from alternately
+encouraging and discouraging the flow of illegal aliens219 to "steal-
+ing." The political beliefs flowing from the unified perspective are
+naturally by no means unambiguous. On the other hand, if one be-
+comes fully smugly functionalist and views everythinga s part of some
+single, unified grand scheme, punishing labeled thieves is just an-
+other aspect of the ultimate "system" of property. On the other
+hand, the unified perspective may be counter-complacent as well: If
+"taking" is just another technique for getting distributive shares
+straight, "antitaking" (punishment for theft) seems like a simple act
+of force, a victory for one group in a dynamic struggle rather than a
+restoration of some prepolitical equilibrium.
+Just as the ordinarily asserted narrow time frame inculpates the
+"easy case" defendant by denying him both determinist excuses and
+contextual justifications, so an asserted broad and unified time frame
+precludes labeling as criminal those who sell unsafe products or those
+who insist on the performance of unsafe work. Rather than viewing
+the introduction of an unsafe product onto the market as a reckless
+act which later causes harm, exculpating interpretations focus on the
+act as part of a longer-term process of market interaction. In this
+long-term process, the victim's (buyer's) participation is deemed cru-
+cial; the focus is precisely opposite that of the typical criminal law
+analysis in which the victim's participation (precipitation) is irrele-
+vant. The marketing of dangerous products is interpreted simply as
+a part of a generally justified system of producing and exchanging
+goods. The sale of a particular dangerous product is not viewed as a
+disruptive departure from a more narrowly normatively justified sys-
+217. See, e.g., Stone, The Orgins of Job Structurei n the Steel Industry, REV. RADICALP OL.
+ECON., Summer 1974, at 113 (arguing that the extensive division of labor in the steel industry
+is not technically mandated, but serves to immunize steel bosses from effective in-plant oppo-
+sition).
+218. See, e.g., P. BARAN & P. SWEEZY,M ONOPOLYC APITAL( 1966).
+219. See S. CASTLES& G. KOSACK,I MMIGRANTW ORKERSA ND CLASSS TRUCTUREI N
+WESTERN EUROPE (1973) (discussing impact of "guest workers" in dampening labor's hopes
+for larger share of national income).
+
+April 1981] INTERPRETIVEC ONSTRUCTION 667
+tem in which safe goods are produced and marketed. Instead, it is
+seen as one part of a properly equilibrated system of distribution
+where goods, not harms, are delivered. The otherwise criminal act
+gains legitimacy because it need not justify itse/f; one need show only
+that production is worthwhile, not that this production serves any of
+the purposes that generally make production worthwhile. Contrast
+that account with the typical criminal law account of the thief:
+Theft is deemed to represent a departure from a normatively justified
+general system of property rights rather than as a part of the estab-
+lishment of a normatively justified system. Each instance of theft
+must be justified on its own; it is not enough to claim that the distrib-
+utive scheme that would exist in a world without thieves would be
+normatively less desirable on the whole than the system that has
+emerged in a world with thieves.
+3. Broad and narrowv iews of intent.
+Interpretive flexibility in determining the actor's intent is the
+ability to oscillate between views that the actor intended precisely
+what he did and views that he intended some broader category of act
+of which his conduct is an instance. This flexibility is critical in
+drawing the vital, but ultimately ungrounded, line between legally
+irrelevant motive and legally relevant purpose. Again, take our thief.
+The standard, reassuring criminal law view of the act of grabbing a
+bundle of goods with the expressedt ntent or purpose of feeding the pro-
+verbial starving family is to steal, while only the irrelevant motive is
+to feed.220 But the supposed actual intention is a sham: While a
+defendant may intend acts which constitute theft, he need not intend
+theft. Yet, when the defendant claims the legitimated but still
+broader category for his actions, in this case, feedzng, the usual re-
+sponse is to narrow the permissible breadth of category. One's pre-
+cise acts become only an instance of the midrange category (criminal
+takings) rather than of the broader one that might include attempts
+to better oneself, to survive, etc.22'
+Certainly, there are reasons of expediency for adopting the
+midrange categorization: If we want to prevent theft or incapacitate
+people who take other people's goods, we can reassure ourselves that
+people who take intend to do what they do, and that is taking. But
+220. Obviously, justification doctrine, see notes 192-93 supra and accompanying text,
+limits the purported irrelevance of motive to some extent.
+221. See, e.g., United States v. Berrigan, 482 F.2d 171, 188 n.35 (3d Cir. 1973), for a
+typical statement of this midrange categorization.

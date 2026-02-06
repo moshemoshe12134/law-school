@@ -1,0 +1,27 @@
+# Voice Cloning System - Ignore generated files
+
+# Test outputs
+test_outputs/*.wav
+test_outputs/*.mp3
+test_outputs/*.m4a
+
+# But keep the directory
+!test_outputs/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*_temp.*
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log

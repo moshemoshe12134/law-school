@@ -1,0 +1,721 @@
+{
+  "sources_root": "ACTIVE/Torts/01_SOURCES",
+  "output_root": "ACTIVE/Torts/01_SOURCES",
+  "generated_at": "2026-01-20T23:50:08-0500",
+  "entries": [
+    {
+      "source": "README.md",
+      "output": "README.md",
+      "status": "already_markdown"
+    },
+    {
+      "source": "core/abraham_tort_theory.pdf",
+      "output": "core/abraham_tort_theory.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/core/abraham_tort_theory.pdf",
+        "ACTIVE/Torts/01_SOURCES/core/abraham_tort_theory.pdf.md"
+      ],
+      "elapsed_ms": 333,
+      "stderr_tail": ""
+    },
+    {
+      "source": "core/cases/adams_v_bullock.docx",
+      "output": "core/cases/adams_v_bullock.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/core/cases/adams_v_bullock.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/core/cases/adams_v_bullock.docx.md"
+      ],
+      "elapsed_ms": 404,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/2018_Spring_Huang_Torts_Midterm.pdf",
+      "output": "past_exams/2018_Spring_Huang_Torts_Midterm.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/2018_Spring_Huang_Torts_Midterm.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/2018_Spring_Huang_Torts_Midterm.pdf.md"
+      ],
+      "elapsed_ms": 16,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/2018_Spring_Huang_Torts_Midterm_Sample_Answer.pdf",
+      "output": "past_exams/2018_Spring_Huang_Torts_Midterm_Sample_Answer.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/2018_Spring_Huang_Torts_Midterm_Sample_Answer.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/2018_Spring_Huang_Torts_Midterm_Sample_Answer.pdf.md"
+      ],
+      "elapsed_ms": 21,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof Huang Torts Exam 2017 Spring.pdf",
+      "output": "past_exams/Prof Huang Torts Exam 2017 Spring.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof Huang Torts Exam 2017 Spring.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof Huang Torts Exam 2017 Spring.pdf.md"
+      ],
+      "elapsed_ms": 16,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof Huang Torts Exam 2018 Spring.pdf",
+      "output": "past_exams/Prof Huang Torts Exam 2018 Spring.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof Huang Torts Exam 2018 Spring.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof Huang Torts Exam 2018 Spring.pdf.md"
+      ],
+      "elapsed_ms": 18,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2013+Sample+Answers.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2013+Sample+Answers.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2013+Sample+Answers.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2013+Sample+Answers.pdf.md"
+      ],
+      "elapsed_ms": 21,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2013.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2013.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2013.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2013.pdf.md"
+      ],
+      "elapsed_ms": 15,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2014.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2014.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2014.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2014.pdf.md"
+      ],
+      "elapsed_ms": 15,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2015+Fall+Sample+Answers.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2015+Fall+Sample+Answers.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Fall+Sample+Answers.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Fall+Sample+Answers.pdf.md"
+      ],
+      "elapsed_ms": 26,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2015+Fall.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2015+Fall.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Fall.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Fall.pdf.md"
+      ],
+      "elapsed_ms": 18,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2015+Spring+Sample+Answers.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2015+Spring+Sample+Answers.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Spring+Sample+Answers.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Spring+Sample+Answers.pdf.md"
+      ],
+      "elapsed_ms": 25,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/Prof+Huang+Torts+Exam+2015+Spring.pdf",
+      "output": "past_exams/Prof+Huang+Torts+Exam+2015+Spring.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Spring.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/Prof+Huang+Torts+Exam+2015+Spring.pdf.md"
+      ],
+      "elapsed_ms": 14,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/practice_problems/2015_Spring_Practice_Problems_Sample_Answers.pdf",
+      "output": "past_exams/practice_problems/2015_Spring_Practice_Problems_Sample_Answers.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2015_Spring_Practice_Problems_Sample_Answers.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2015_Spring_Practice_Problems_Sample_Answers.pdf.md"
+      ],
+      "elapsed_ms": 19,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/practice_problems/2017_Spring_Practice_Problems.pdf",
+      "output": "past_exams/practice_problems/2017_Spring_Practice_Problems.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2017_Spring_Practice_Problems.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2017_Spring_Practice_Problems.pdf.md"
+      ],
+      "elapsed_ms": 16,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_exams/practice_problems/2017_Spring_Practice_Problems_Sample_Answers.pdf",
+      "output": "past_exams/practice_problems/2017_Spring_Practice_Problems_Sample_Answers.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2017_Spring_Practice_Problems_Sample_Answers.pdf",
+        "ACTIVE/Torts/01_SOURCES/past_exams/practice_problems/2017_Spring_Practice_Problems_Sample_Answers.pdf.md"
+      ],
+      "elapsed_ms": 19,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Copy of Torts_Huang Spring 2022.docx",
+      "output": "past_outlines/Huang/Copy of Torts_Huang Spring 2022.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Copy of Torts_Huang Spring 2022.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Copy of Torts_Huang Spring 2022.docx.md"
+      ],
+      "elapsed_ms": 450,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Huang 2015 Torts Outline.docx",
+      "output": "past_outlines/Huang/Huang 2015 Torts Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Huang 2015 Torts Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Huang 2015 Torts Outline.docx.md"
+      ],
+      "elapsed_ms": 649,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Huang_Torts_S18.docx",
+      "output": "past_outlines/Huang/Huang_Torts_S18.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Huang_Torts_S18.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Huang_Torts_S18.docx.md"
+      ],
+      "elapsed_ms": 438,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts - Fall 2013 - Huang.docx",
+      "output": "past_outlines/Huang/Torts - Fall 2013 - Huang.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Fall 2013 - Huang.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Fall 2013 - Huang.docx.md"
+      ],
+      "elapsed_ms": 257,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts - Huang - Fall 15.docx",
+      "output": "past_outlines/Huang/Torts - Huang - Fall 15.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Huang - Fall 15.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Huang - Fall 15.docx.md"
+      ],
+      "elapsed_ms": 388,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts - Spring 2015 - Huang.docx",
+      "output": "past_outlines/Huang/Torts - Spring 2015 - Huang.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Spring 2015 - Huang.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts - Spring 2015 - Huang.docx.md"
+      ],
+      "elapsed_ms": 31,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts First Half (Huang).docx",
+      "output": "past_outlines/Huang/Torts First Half (Huang).docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts First Half (Huang).docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts First Half (Huang).docx.md"
+      ],
+      "elapsed_ms": 170,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts_Huang F20 Tan.docx",
+      "output": "past_outlines/Huang/Torts_Huang F20 Tan.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts_Huang F20 Tan.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts_Huang F20 Tan.docx.md"
+      ],
+      "elapsed_ms": 453,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/Torts_Huang_Fall2015Outline.docx",
+      "output": "past_outlines/Huang/Torts_Huang_Fall2015Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts_Huang_Fall2015Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/Torts_Huang_Fall2015Outline.docx.md"
+      ],
+      "elapsed_ms": 620,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/15S Huang Torts Attack.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/15S Huang Torts Attack.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/15S Huang Torts Attack.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/15S Huang Torts Attack.docx.md"
+      ],
+      "elapsed_ms": 357,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/15S Huang- Torts Outline.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/15S Huang- Torts Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/15S Huang- Torts Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/15S Huang- Torts Outline.docx.md"
+      ],
+      "elapsed_ms": 1083,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/2014 Huang Torts Outline.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/2014 Huang Torts Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/2014 Huang Torts Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/2014 Huang Torts Outline.docx.md"
+      ],
+      "elapsed_ms": 1127,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang 2015 Torts Outline.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang 2015 Torts Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang 2015 Torts Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang 2015 Torts Outline.docx.md"
+      ],
+      "elapsed_ms": 1166,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts Outline- Fall 2015.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts Outline- Fall 2015.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts Outline- Fall 2015.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts Outline- Fall 2015.docx.md"
+      ],
+      "elapsed_ms": 900,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Kay).docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Kay).docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Kay).docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Kay).docx.md"
+      ],
+      "elapsed_ms": 877,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Mehta).docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Mehta).docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Mehta).docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Mehta).docx.md"
+      ],
+      "elapsed_ms": 739,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Reeves).docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Reeves).docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Reeves).docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang- Torts- 2013 (Reeves).docx.md"
+      ],
+      "elapsed_ms": 459,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Long Outline_Ackerman.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Long Outline_Ackerman.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Long Outline_Ackerman.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Long Outline_Ackerman.docx.md"
+      ],
+      "elapsed_ms": 1409,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Short Outline_Ackerman.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Short Outline_Ackerman.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Short Outline_Ackerman.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Huang_Torts_Spring 2017_Short Outline_Ackerman.docx.md"
+      ],
+      "elapsed_ms": 207,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack (2).docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack (2).docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack (2).docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack (2).docx.md"
+      ],
+      "elapsed_ms": 251,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Attack.docx.md"
+      ],
+      "elapsed_ms": 270,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Notes.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Notes.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Notes.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.Notes.docx.md"
+      ],
+      "elapsed_ms": 1769,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.POLICYnotes.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.POLICYnotes.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.POLICYnotes.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts.Huang.2018.Spring.POLICYnotes.docx.md"
+      ],
+      "elapsed_ms": 187,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/imports_from_Huang_Outlines/Torts_Huang_Fall2015Outline.docx",
+      "output": "past_outlines/Huang/imports_from_Huang_Outlines/Torts_Huang_Fall2015Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts_Huang_Fall2015Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/imports_from_Huang_Outlines/Torts_Huang_Fall2015Outline.docx.md"
+      ],
+      "elapsed_ms": 1109,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Huang/torts outline huang f13.docx",
+      "output": "past_outlines/Huang/torts outline huang f13.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/torts outline huang f13.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Huang/torts outline huang f13.docx.md"
+      ],
+      "elapsed_ms": 362,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Torts Attack Outline.docx",
+      "output": "past_outlines/Torts Attack Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts Attack Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts Attack Outline.docx.md"
+      ],
+      "elapsed_ms": 45,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Torts_Spring 2022_Huang_Full Outline.docx",
+      "output": "past_outlines/Torts_Spring 2022_Huang_Full Outline.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts_Spring 2022_Huang_Full Outline.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts_Spring 2022_Huang_Full Outline.docx.md"
+      ],
+      "elapsed_ms": 872,
+      "stderr_tail": ""
+    },
+    {
+      "source": "past_outlines/Torts_Spring 2024_Ahmed_Full Outline - Charlotte Waldman.docx",
+      "output": "past_outlines/Torts_Spring 2024_Ahmed_Full Outline - Charlotte Waldman.docx.md",
+      "status": "ok",
+      "command": [
+        "pandoc",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts_Spring 2024_Ahmed_Full Outline - Charlotte Waldman.docx",
+        "-t",
+        "markdown",
+        "--wrap=none",
+        "-o",
+        "ACTIVE/Torts/01_SOURCES/past_outlines/Torts_Spring 2024_Ahmed_Full Outline - Charlotte Waldman.docx.md"
+      ],
+      "elapsed_ms": 1388,
+      "stderr_tail": ""
+    },
+    {
+      "source": "syllabus/Torts 2026 Prof Huang Syllabus as of January 14.md",
+      "output": "syllabus/Torts 2026 Prof Huang Syllabus as of January 14.md",
+      "status": "already_markdown"
+    },
+    {
+      "source": "syllabus/Torts 2026 Prof Huang Syllabus as of January 14.pdf",
+      "output": "syllabus/Torts 2026 Prof Huang Syllabus as of January 14.pdf.md",
+      "status": "ok",
+      "command": [
+        "pdftotext",
+        "-layout",
+        "-enc",
+        "UTF-8",
+        "ACTIVE/Torts/01_SOURCES/syllabus/Torts 2026 Prof Huang Syllabus as of January 14.pdf",
+        "ACTIVE/Torts/01_SOURCES/syllabus/Torts 2026 Prof Huang Syllabus as of January 14.pdf.md"
+      ],
+      "elapsed_ms": 25,
+      "stderr_tail": ""
+    }
+  ]
+}

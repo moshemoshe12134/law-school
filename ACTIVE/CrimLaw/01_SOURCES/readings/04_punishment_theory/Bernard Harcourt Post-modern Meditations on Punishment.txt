@@ -1,0 +1,1410 @@
+Bernard E. Harcourt
+Post-Modern Meditations
+on Punishment: On the
+Limits of Reason and the
+Virtues of Randomization
+(A Polemic and Manifesto
+for the Twenty-First
+Century)
+Enlightenment is man’s emergence from his self-incurred
+immaturity. Immaturity is the inability to use one’s own
+understanding without the guidance of another.
+—Immanuel Kant, “An Answer to the Question:
+‘What is Enlightenment?’” (1784)
+in an essay bearing the same title, michel foucault read kant’s
+text against the backdrop of his critique of reason, published just three
+years earlier. It is precisely at the moment that we assert ourselves as
+mature beings, Foucault observed, that it is most important to recog-
+nize the limits of reason. “It is precisely at this moment that the critique
+is necessary, since its role is that of defining the conditions under
+which the use of reason is legitimate in order to determine what can be
+known, what must be done, and what may be hoped” (Foucault, 1997:
+social research Vol 74 : No 2 : Summer 2007 307
+SRSummer07.indb 307 7/16/07 2:13:27PM
+
+308). Foucault warned us, with Kant, that reliance on reason beyond its
+proper bounds would merely set the clock back: “Illegitimate uses of
+reason are what give rise to dogmatism and heteronomy, along with
+illusion” (308). The careful and critical use of reason, in contrast, is
+what enlightens and leads forward, out of the shadows of illusion. But
+it could only do so by relying on itself. The modern period would thus
+embrace a strong conception of self-reliance—carefully bounded by
+critique.
+Foucault also saw in Kant’s essay a new philosophical attitude
+consisting of genuine reflection on the “present”—a turning of the
+more traditional, eternal gaze of the philosopher onto the contempo-
+rary moment, and, with that, an associated task of theorizing knowl-
+edge in relation to current times. Foucault dubbed this “the attitude
+of modernity” and located it later in the writings of nineteenth- and
+twentieth-century authors, starting foremost with Charles Baudelaire.
+“By ‘attitude,’” Foucault wrote, “I mean a mode of relating to contem-
+porary reality; a voluntary choice made by certain people; in the end,
+a way of thinking and feeling; a way, too, of acting and behaving that
+at one and the same time marks a relation of belonging and presents
+itself as a task” (Foucault, 1997: 309). This attitude brought together
+philosophical inquiry and critical thought focused on contemporary
+historical actuality. Philosophical training and reflection would now
+apply themselves to the contemporary moment—most notably, the
+French Revolution—and concentrate on the task of reasoning through
+the present. Foucault saw in Kant the origin of a modern attitude that
+would run through Hegel, Nietzsche, Marx, Durkheim, Rusche, and
+Kirchheimer.
+In another essay bearing the same title, Jürgen Habermas adds:
+“Surprisingly, in the last sentence of his lecture Foucault includes
+himself in this tradition” (Habermas, 1994: 150).
+Once again, the attitude of modernity triumphed over the critique
+of reason. In these pages, I argue that the two strands that Foucault
+identified in Kant’s essay—the crucial moment of critical reason and
+the modern attitude—collided throughout the nineteenth and twenti-
+308 social research
+SRSummer07.indb 308 7/16/07 2:13:28PM
+
+eth century, and that the modern attitude repeatedly prevailed. Even
+when the moderns were engaged in the most critical of enterprises, the
+attitude gained the upper hand and offered new ways of conceptual-
+izing and making sense of the present, consistently beyond the limits of
+critical reason. Never daunted by those warnings about illusions, never
+chastened by the foolish excesses of earlier generations, modern think-
+ers continued to theorize contemporary historical actuality beyond
+reason’s bounds.
+I propose that we finally abandon the misguided attitude of
+modernity. It will mean, no doubt, leaving much to chance and random-
+ization. This is all for the better. Let me explain.
+1.
+The moderns posed three questions of punishment. The first, born of
+the Enlightenment itself, sought to identify and define a rational basis
+for punishing. As men freed themselves from the shackles of religious
+faith, this first question took shape: If theologians can no longer ground
+political and legal right, then on what foundation does the sovereign’s
+right to punish rest? On what basis does the state have a right to punish
+its citizens?
+Naturally, the question was not entirely innocent—no good ques-
+tions ever are. It was animated by a desire to locate the righteous limits
+of the sovereign’s punitive power at a time that was marked—at least
+in the eyes of many of the first modern men of reason—by excessive
+punishments. The right to punish, it turns out, would serve to limit
+punishment.
+“Here, then, is the foundation of the sovereign’s right to punish
+crimes,” a young, 25-year-old Cesare Beccaria would declare in 1764:
+“the necessity of defending the repository of the public well-being from
+the usurpations of individuals” (Beccaria, 1995: 10). The origin of the
+right, Beccaria explained, derived from the sovereign’s duty to promote
+“the greatest happiness shared among the greater number” (Beccaria,
+1995: 7). Through his disciple, Jeremy Bentham, Beccaria’s writings
+would translate into more conventional theories of utilitarianism and
+Post-Modern Meditations on Punishment 309
+SRSummer07.indb 309 7/16/07 2:13:28PM
+
+deterrence and, later, economic models of social welfare maximization.
+Other early moderns would derive the right to punish elsewhere—in
+the autonomy or dignity of the moral agent, in the interests of enlight-
+ened self-development, in the harm principle, and in those other tradi-
+tional expressions of legal right.
+This first line of inquiry endures well into the present. In the
+Anglo-Saxon tradition, the answers draw heavily on a functional analy-
+sis of the criminal sanction. In the classic debate over the legal enforce-
+ment of morality, for instance, all the major contributors—from H. L.
+A. Hart (1963: 14) and Patrick Devlin (1965: 2-3), to Ernest Nagel (1968:
+138-39), Norval Morris (Morris and Hawkins, 1970: 4), Joel Feinberg
+(1987, 1984) and others—use as the starting point for their analysis the
+statement of function articulated in the Wolfenden Report of 1957: “the
+function of the criminal law . . . is to preserve public order and decency,
+to protect the citizen from what is offensive or injurious, and to provide
+sufficient safeguards against exploitation and corruption of others.”
+The liberal theorists tend to narrow the function to preserving order,
+and draw more heavily on John Stuart Mill’s earlier pronouncements
+in On Liberty, while legal moralists broaden the scope of the functions
+to include, centrally, the promotion of morality as a principal function
+of the criminal law. “The criminal law as we know it is based upon
+moral principle,” Devlin argued. “In a number of crimes its function is
+simply to enforce a moral principle and nothing else” (Devlin, 1965: 7).
+On both sides of the debate, though, the sovereign’s “right to punish”
+derived precisely from identifying the proper functions of the criminal
+sanction.
+Although this first discourse continues today, it did not take long
+for men of knowledge—as Nietzsche described himself—to spot the
+error in this line of inquiry. The right to punish, after all, was precisely
+what defined sovereignty and, as such, could hardly serve to constrain
+sovereign power. The first question had gotten things backwards:
+the “right to punish” was what the sovereign achieved by persuad-
+ing its members that it could best promote the legitimate goals of
+punishment. To seek the origin of the right to punish by analyzing
+310 social research
+SRSummer07.indb 310 7/16/07 2:13:29PM
+
+the purposes or utilities of punishment would lead nowhere. “The
+‘purpose of law,’” Nietzsche declared, “is absolutely the last thing to
+employ in the history of the origin of law: . . . whatever exists, having
+somehow come into being, is again and again reinterpreted to new
+ends, taken over, transformed, and redirected by some power superior
+to it” (Nietzsche, 1967: 77).
+It was fruitless to look for the right to punish in its purposes,
+utilities, or functions—whether from a utilitarian or deontological
+perspective. “[P]urposes and utilities are only signs that a will to power
+has become master of something less powerful and imposed upon it
+the character of a function,” Nietzsche emphasized (1967: 77). The
+proper question to ask of the “right to punish,” then, was not “on
+what ground,” “of what origin,” or “from where” but rather: “How
+does the sovereign’s act of punishing get perceived as legitimate?” Or
+better yet, “Under what conditions does the sovereign’s exercise of
+that power of punishing not trigger sufficient resistance to undermine
+sovereignty itself?” That question, however, did not call for philosoph-
+ical debate over rights, deontological argument about autonomy, or
+econometric analyses of deterrence. It called for historical, sociologi-
+cal, political, and genealogical research about acts of resistance, social
+movements, transformative moments, ideology, and social cohesion.
+It called for a genealogy of morals, law, and power—in sum, a geneal-
+ogy of punishment.
+With the birth of the social sciences in the late nineteenth
+century, this critical impulse gave rise to a second line of inquiry. More
+skeptical, more critical, the questions probed and excavated deeper
+processes and forces: If the rational discourse over the right to punish
+is mere pretext and serves only to hide power formations, then what
+is it exactly that punishment practices do for us? What is the true func-
+tion of punishment? What is it that we do when we punish? From
+Emile Durkheim to Antonio Gramsci and the later Frankfurt School,
+Michel Foucault, and fin-de-siècle trends in penology, twentieth-century
+moderns struggled over social organization, economic production,
+political legitimacy, governance, and the construction of the self—
+Post-Modern Meditations on Punishment 311
+SRSummer07.indb 311 7/16/07 2:13:29PM
+
+turning punishment practices upside down, dissecting not only their
+repressive functions but more important their role in constructing the
+contemporary subject and modern society.
+At the apex of this second line of inquiry, Michel Foucault would
+articulate and enumerate, in his magisterial book, Surveiller et punir:
+Naissance de la prison, the central tasks and rules of engagement. First and
+foremost, “Do not concentrate the study of the punitive mechanisms
+on their ‘repressive’ effects alone. . . . [R]egard punishment as a complex
+social function” (1979: 23; 1975: 28). Foucault explicitly acknowledged
+that this second project built on the work of Emile Durkheim, citing
+him alone on that same page (1975: 28 n.1), and owed much to the
+Frankfurt School. In the immediate passage following his enumeration,
+Foucault emphasized that “the great book of Rusche et Kirchheimer,
+Punishment and Social Structures, offers a number of essential reference
+points” (1975: 29):
+We must first rid ourselves of the illusion that penality is
+above all (if not exclusively) a means of reducing crime. . . .
+We must analyse rather the “concrete systems of punish-
+ment,” study them as social phenomena that cannot be
+accounted for by the juridical structure of society alone. . . ;
+we must situate them in their field of operation, in which
+the punishment of crime is not the sole element; we must
+show that punitive measures are not simply “negative”
+mechanisms that make it possible to repress, to prevent, to
+exclude, to eliminate; but that they are linked to a whole
+series of positive and useful effects which it is their task to
+support (Foucault, 1979: 24; 1975: 29-30).
+All of these reference points originated with the Frankfurt
+School, and the key task that emerged from the second line of inquiry
+was to unearth the deeper forces and relations of power that, through
+the means of punitive practices, shape us as contemporary subjects.
+To explore, in effect, “How a specific mode of subjugation could give
+312 social research
+SRSummer07.indb 312 7/16/07 2:13:30PM
+
+birth to man as an object of knowledge for a discourse with scientific
+status” (Foucault, 1975: 28-29). To discover and trace the deeper forces
+that shape our punitive practices and, through them, our knowledge of
+ourselves.
+However, a series of further critiques—critiques of metanar-
+ratives, functionalism, and scientific objectivity—would chasten this
+line of inquiry and nudge it around the cultural turn, helping shape a
+third discourse on punishment. This line of inquiry would focus not on
+what punishment is doing for us, but on what punishment tells us about
+ourselves: What do our punishment practices tell us about our cultural
+values? What is the social meaning of our institutions of punishment?
+Less metatheoretical, less critical-theoretic, this final set of questions
+would build on, while simultaneously trying to avoid, the searing
+critique of the construction of knowledge. The questions were intended
+to be less normative. A description at most. A compelling interpreta-
+tion. Something to make sense of our world and ourselves. Something
+to ground, perhaps later, an evaluation of those punishment practices.
+The difference was subtle, but important. The second set of
+questions—especially as they evolved over the course of the twentieth
+century—had become increasingly focused on the constructed nature
+of knowledge, what has come to be known as the “power/knowledge”
+critique: How, exactly, do we come to believe what we hold as true?
+How is it, for instance, that we come to believe a progress narrative
+of punishment? What institutions and practices shape us to believe in
+the idea of the “delinquent”—or, for that matter, in the idea that we
+could possibly “rehabilitate” or “correct” that “delinquent”? How have
+our own disciplinary practices contributed to shaping our beliefs? By
+the late twentieth century, this second set of questions had begun to
+revolve entirely around the formation of knowledge and to constitute
+an acid test for all knowledge claims regarding punishment.
+In contrast, the third set of questions—the product, as I mentioned,
+of a critique of metanarratives—tried assiduously to avoid the power/
+knowledge critique. It cut a more humble profile. It sought only to reflect
+on what our punishment practices tell us about ourselves, our values,
+Post-Modern Meditations on Punishment 313
+SRSummer07.indb 313 7/16/07 2:13:30PM
+
+our society—as a mere preliminary to a better understanding of punish-
+ment, to make possible, later, a better evaluation of our practices and
+institutions. David Garland’s book, Punishment and Modern Society (1990),
+though ostensibly a pedagogic treatment of the four leading voices in
+the sociology of punishment, reflects well this third line of inquiry. “The
+social meaning of punishment is badly understood,” Garland contends.
+What is needed is “a descriptive prolegomenon which sets out the social
+foundations of punishment, its characteristic modern forms, and its
+social significance” (Garland, 1990: 9). The social meaning of punish-
+ment “needs to be explored if we are to discover ways of punishing
+which better accord with our social ideals” (Garland, 1990: 1).
+This third line of inquiry represents, in Garland’s words, “a
+deliberate attempt to shift the sociology of punishment away from its
+recent tendency—engendered by Foucault and the Marxists—to view
+the penal system more or less exclusively as an apparatus of power and
+control” (1990: 1-2). The task is to develop “a pluralistic, multidimen-
+sional approach,” “a rounded, completed image; a recomposition of
+the fragmentary views developed by more narrowly focused studies”
+(Garland, 1990: 280). To explore “multiple causality, multiple effects,
+and multiple meaning” (Garland, 1990: 280). Garland explains:
+Values, conceptions, sensibilities, and social meanings—
+culture, in short—do not exist in the form of a natural
+atmosphere which envelopes social action and makes it
+meaningful. Rather, they are actively created and recreated
+by our social practices and institutions—and punishment
+plays its part in this generative and regenerative process
+(Garland, 1990: 251).
+In this sense, the third line of inquiry calls for richly textured, thick
+descriptions of our punishment practices intended to expose their social
+meaning and their role in shaping the fabric of society—all this to serve
+as a preparatory to normative analysis, to provide “a proper descriptive
+basis for normative judgments about penal policy” (Garland, 1990: 10).
+314 social research
+SRSummer07.indb 314 7/16/07 2:13:30PM
+
+It is not entirely clear, though, how the third and final line of
+inquiry could escape the power/knowledge critique. If Foucault’s disci-
+plinary hypotheses were themselves susceptible, surely an interpreta-
+tion of the “social meaning” of punishment practices and institutions
+would also be vulnerable. Any interpretation would tell us more about
+the interpreter and her belief systems than about the meaning of the
+practice itself. Surely the semiotic enterprise would reveal more about
+the modes of reasoning, beliefs, and ethical choices held by the indi-
+vidual interpreter than about the social meaning of the punishment
+practices themselves.
+The closing paragraphs of Garland’s book are revealing in this
+respect. Modern societies, Garland writes, should expect less from
+punishment and “might be encouraged to treat it instead as a form of
+social policy which should, where possible, be minimized” (Garland,
+1990: 292). The goal should be to socialize and integrate young citi-
+zens, not punish them: “a work of social justice and moral education
+rather than penal policy. And to the extent that punishment is deemed
+unavoidable, it should be viewed as a morally expressive undertaking
+rather than a purely instrumental one” (Garland, 1990: 292). These, I
+take it, are significant normative commitments that, in all likelihood,
+bleed into and color the cultural critic’s interpretation of the social
+meaning of punishment practices.
+As dusk fell on the twentieth century, modern writings on punish-
+ment continued to reflect more on the authors than on the punish-
+ments. Somehow, despite the reformulation of the questions, the texts
+still told us more about the interpreter’s beliefs, intuitions, and ethi-
+cal choices than they did about the practices of punishment and their
+social meaning.
+2.
+What do we do now—now that we have seen what lies around the
+cultural bend and realize, painfully, that the same critiques apply with
+equal force to any interpretation of cultural meaning that we could
+possibly slap on our contemporary punishment practices? Should we
+Post-Modern Meditations on Punishment 315
+SRSummer07.indb 315 7/16/07 2:13:31PM
+
+continue to labor on this final set of questions, return to an earlier set,
+or, as all our predecessors did, craft a new line of inquiry? What ques-
+tion shall we—children of the twenty-first century—pose of our punish-
+ment practices and institutions?
+The answer, paradoxically, is that it does not matter. The formula-
+tion of the questions themselves never really mattered, except perhaps
+to distinguish the analytic philosopher from the critical theorist, the
+positivist from the cultural critic—minor differences that reflected
+nothing more than taste, desire, personal aptitude, upbringing, and
+training. Yes, new questions were formulated and new discourses
+emerged, but the same problem always plagued those modern text.
+In all the modern texts, there always came this moment when
+the empirical facts ran out or the deductions of principle reached their
+limit—or both—and yet the reasoning continued. There was always this
+moment, ironically, when the moderns—those paragons of reason—
+took a leap of faith. It is no accident that it was always there, at that
+precise moment, that we learned the most—that we could read from
+the text and decipher a vision of just punishment that was never
+entirely rational, never purely empirical, and never fully determined
+by the theoretical premises of the author. In each and every case, the
+modern text let slip a leap of faith—a choice about how to resolve a gap,
+an ambiguity, an indeterminacy in an argument of principle or fact.
+The inevitable space between theoretical or empirical premises
+and the final judgment derives, in the end, from that imperceptible
+fissure in the human sciences between the not falsified, the not yet falsi-
+fied, the apparently unfalsifiable, the verified but only under certain
+questionable assumptions, and truth. In the empirical domain—no
+less than in philosophical discourse, legal analysis, and public policy
+debates—proof never followed mathematical deduction, but rested
+instead on assertions—whether empirical or logical—that may well
+have been true, but for which other entirely reasonable hypotheses
+could have been substituted. The key issue was always which hypothesis
+to believe from among the many possible hypotheses, all of which were
+consistent with the data; which subprinciple to uphold from among all
+316 social research
+SRSummer07.indb 316 7/16/07 2:13:31PM
+
+the possible subprinciples that were theoretically coherent with the
+guiding principle. What the moderns chose to believe, ultimately, told
+us more about them than it did about the world around them. It was
+always the answers that moderns gave to the questions—regardless of
+the question itself—that revealed the most about them and their intu-
+itions about just punishment.
+Ironically, this gap is precisely what made possible the moment
+of enlightenment at the very heart of critical theory—what Raymond
+Geuss refers to as that reflective opening that “gives agents a kind of
+knowledge inherently productive of enlightenment and emancipation”
+(Geuss, 1981: 2). Once we lifted the veil from our eyes and realized fully
+that our rational belief in certain theories or premises were no better
+than religious faith—that we had taken a leap of faith to arrive at our
+conclusion—it then became possible to trace the genealogy of how we
+took that leap. It became possible to explore how we came to believe
+what we did believe and at what price. That is precisely what the great
+critical thinkers of the nineteenth and twentieth century did along the
+three principal dimensions of radical thought—power (from Nietzsche
+through Foucault to Agamben), economic production (from Marx
+through the Frankfurt School to Althusser), and desire (from Freud
+through Lacan to Zizek). Not surprisingly, identifying the gap is what
+also gave birth to the American Legal Realist movement in the early
+twentieth century and the Critical Legal Studies movement at midcen-
+tury. It also made possible deconstruction at the end of the century—
+perhaps the fullest instantiation of the insight.
+In this respect, Jacques Derrida—no hero of mine, I assure you,
+far too ambiguous and playful for my taste—was entirely right when
+he wrote that the foundation of law itself rests on a leap of faith—what
+he refers to as “a performative force, in other words always an interpre-
+tive force with an appeal to faith” (Derrida, 1994: 32). Legal authority
+traces to this act of auto-authorization, itself never subject to a legal
+evaluation of right or wrong—not simply, though certainly, because the
+legal framework itself postdates the founding moment, but also and
+more important, because the judgment that a punishment is just must
+Post-Modern Meditations on Punishment 317
+SRSummer07.indb 317 7/16/07 2:13:31PM
+
+always overcome the gap between theoretical premises and final judg-
+ment. The act of reaching the legal conclusion—the just punishment,
+the sentence, the execution—represents “a stroke of force, a violent
+performative act, and thus an interpretation that is in itself neither just
+nor unjust” (Derrida, 1994: 32-33). And it is precisely in this sense that
+Derrida concludes, paradoxically, that the structure of the law is what
+opens the door to the very possibility of deconstruction itself. Thus, his
+playful hypothesis that justice makes possible deconstruction (Derrida,
+1994: 36). Though addressing law and justice, Derrida’s point applies
+equally well to the other disciplines that form the field of crime and
+punishment, such as sociology, politics, economics, and public policy.
+I said “ironically” earlier because it is precisely the moment of
+critical perception and enlightenment that simultaneously undermines
+the claims of the radical critical theorists—though not necessarily those
+of the deconstructionists.
+3.
+What do these gaps, ambiguities, and indeterminacies look like? What
+does it mean, exactly, that the moderns inevitably took a leap of faith?
+“The empirical facts ran out, the deductions of principle reached their
+limit, and yet the reasoning continued.” What does that reasoning sound
+like? Let me stop for a moment here and give some illustrations. Let me
+demonstrate some of the gaps and ambiguities.
+Deterrence of Juvenile Offenders
+First, let’s examine a claim of deterrence. The trouble with most
+research on deterrence is that it is extremely difficult to divorce the
+effects of deterrence from those of incapacitation—from the fact that
+increased law enforcement will also result in more imprisonment
+and thus greater incapacitation of criminal offenders. The National
+Academy of Sciences appointed a blue-ribbon panel of experts to
+examine the problem of measuring deterrence in 1978—led by Alfred
+Blumstein, Jacqueline Cohen, and Daniel Nagin—but the results were
+disappointing: “Because the potential sources of error in the estimates
+318 social research
+SRSummer07.indb 318 7/16/07 2:13:32PM
+
+of the deterrent effect of these sanctions are so basic and the results
+sufficiently divergent, no sound, empirically based conclusions can
+be drawn about the existence of the effect, and certainly not about its
+magnitude” (Blumstein, Cohen, and Nagin, 1978: 42; see also Nagin,
+1978: 95, 135; Spelman, 2000: 97). Little progress has been made since
+then. As Steven Levitt suggested in 1998, “few of the empirical studies
+[regarding deterrence of adults] have any power to distinguish deter-
+rence from incapacitation and therefore provide only an indirect test of
+the economic model of crime” (Levitt, 1998: 1158 n.2).
+Levitt nevertheless contends that juveniles and young adults are
+responsive to increases in punishment. In order to demonstrate this,
+Levitt takes a state-level dataset of criminal offending rates and clas-
+sifies states into three categories: first, states that have a more severe
+adult than juvenile criminal justice system; second, states that have
+similar levels of severity for their adult and juvenile criminal justice
+systems; and third, states that have a more lenient adult than juvenile
+criminal justice system. Levitt then compares the relative offending
+rates of young adults as they turn from juveniles to adults—as they
+reach majority age and become subject to the adult criminal justice
+system.
+Levitt finds that juveniles who have turned adult in the first
+category of states—those with relatively more severe adult systems—
+offend less in their first year of majority than they did in the previ-
+ous year, whereas those juveniles in states with relatively more lenient
+adult systems offend more than they did the previous year (Levitt, 1998:
+1175). Levitt concludes from this that deterrence, rather than simply
+incapacitation, is at work: “Sharp drops in crime at the age of majority
+suggest that deterrence (and not merely incapacitation) plays an impor-
+tant role” (Levitt, 1998: 1156).
+Why, exactly, do the data confirm the deterrence hypothesis? The
+answer, Levitt suggests, is that “if deterrence is at work, then one would
+expect an abrupt change in behavior associated with passage to adult
+status. If, on the other hand, incapacitation is the primary channel,
+then one would expect longer delays in the transition from the juve-
+Post-Modern Meditations on Punishment 319
+SRSummer07.indb 319 7/16/07 2:13:32PM
+
+nile equilibrium to the adult equilibrium due to lags in the timing of
+arrest and sentencing. . . . It seems likely that large immediate changes
+in behavior associated with the age of majority are likely to primarily
+reflect deterrence” (Levitt, 1998: 1172). The logic of the argument, then,
+rests on the assumption that deterrence works more speedily than inca-
+pacitation at the transitional period around majority.
+The trouble with this logic, though, is that there is no metric
+to test the speed of either mechanism alone, nor is there any metric
+to compare the speed of the two competing theories (Harcourt, 2005:
+219-226). There is no way, a priori, to determine how fast either effect
+would take—whether it is a month, two months, three months, six
+months, nine months, twelve months, eighteen months, two years,
+or more. Levitt’s model uses an annual measure of crime. Yet the inca-
+pacitation time lag—if there is one—may very well be shorter than
+that. In fact, if true incapacitation theory is correct—the idea that
+about 6 percent of young adults are responsible for about 50 percent
+of their cohort’s criminal activity—one would expect that strict
+enforcement would have an immediate and sharp incapacitative
+effect precisely at the moment of the release of delinquent youths
+turning to majority.
+Here, then, is the gap: there is no measure, no metric, no standard
+against which we could declare that an effect on crime—deterrence or
+incapacitation—is abrupt or delayed. Nor is there any way to determine
+how the two effects would compare. We do not have a measure for the
+incapacitation effect, and a separate one for the deterrence effect. We
+just have one number, and have to guess whether it seems relatively
+immediate or relatively delayed. Since we do not know how long the
+incapacitation effect takes, there is no way of knowing from annual
+crime data whether the effect looks more immediate or more delayed—
+whether it is incapacitation or deterrence.
+Why is it that Steven Levitt is prepared to skip over this gap and
+confirm the deterrence hypothesis? It does not really matter. I would
+tend to emphasize taste, desire, training, and professional advance-
+ment; but there may be other explanations. What does matter is that
+320 social research
+SRSummer07.indb 320 7/16/07 2:13:32PM
+
+there is a gap and a leap of faith—of faith in rationality—that we can
+identify. Here it is a gap of the not yet falsified type. A theory that
+is consistent with the data, but does not exclude other competing
+hypotheses. It would be wrong to base public policy on these empiri-
+cal findings.
+Racial Profiling
+A number of economists contend that the use of racial profiling can
+improve the efficiency of policing by increasing the number of success-
+ful searches (Knowles, Persico, and Todd, 2001; Hernández-Murillo
+and Knowles, 2003). Assuming that people respond rationally to the
+increased cost of offending—assuming rational action theory—target-
+ing more police resources at a higher-offending population will reduce
+their rate of offending (given the greater likelihood of being detected
+and punished). If we assume, in addition, that minorities have a higher
+offending rate than whites, then the optimal level of profiling occurs
+when the offending rate of minorities declines to the same level as the
+offending rate of whites. At that point, the police will maximize the
+number of successful police interventions and have no legitimate inter-
+est in profiling minorities to any greater extent. The economists verify
+these conclusions with accurate mathematical equations and economic
+models.
+Even under these assumptions, however, racial profiling may
+increase the overall societal rate of offending (Harcourt, 2007a: 111-144).
+It all depends on the relative responsiveness of the two groups—the
+profiled minorities and the nonprofiled whites—to policing. If minori-
+ties are less responsive to policing then whites, then their decrease in
+offending will be outweighed, in absolute numbers, by the more elastic
+responsiveness of whites—i.e. by the increased offending of whites in
+response to the fact that they are being policed less. This is true despite
+the fact that the overall number of successful police interventions
+increases—despite the fact that the police are detecting and punishing
+more crime. I demonstrate this with accurate mathematical equations
+and economic models in Against Prediction (2007a: 132-136).
+Post-Modern Meditations on Punishment 321
+SRSummer07.indb 321 7/16/07 2:13:33PM
+
+The economists had essentially assumed in their model of racial
+profiling that minorities are as responsive to policing as whites, if not
+more. If they had not made that crucial assumption, then their own
+models would demonstrate that racial profiling may increase the amount
+of crime in society—which is definitely not an efficient outcome. Their
+claims are nonfalsifiable but only under dubious assumptions. They are
+mathematically verified, but only if we assume something about the
+relative elasticity of the two groups that we have no ground to assume.
+(In fact, if minorities have a higher offending rate than whites, it is far
+more likely that the cause of that difference, perhaps lower employ-
+ment opportunities, would lower their responsiveness to policing in
+comparison to whites).
+This, I take it, is a gap within their own model: even assuming
+deterrence (which itself is, for many, a leap), there is a gap over which
+these economists took another leap of faith. Why? Again, it does not
+matter. I would speculate that it is because they desire a clean, parsimo-
+nious, mathematical model that affirms rationality. Maybe that is why
+they became economists. But again, why they took a leap of faith does
+not really matter. What matters is that they took it and that we can
+identify it.
+Order Maintenance
+For a third illustration, let me turn to a modern policing practice. In the
+early 1990s, several major US cities began implementing order-mainte-
+nance strategies—most notably New York City, in 1994, where Mayor
+Rudolph Giuliani and his first police commissioner, William Bratton,
+put in force the “quality-of-life initiative.” The order-maintenance
+strategies rested on the “broken windows” theory: the idea that minor
+neighborhood disorder like graffiti and loitering, if left unattended, will
+cause serious criminal activity (Wilson and Kelling, 1982: 31; Harcourt,
+2001: 23-27; Harcourt and Ludwig, 2006: 278-287).
+During the 1990s, several proponents of order-maintenance
+declared that the broken windows theory had been empirically verified
+(Kelling and Coles, 1996: 24). They rested this assertion on the findings
+322 social research
+SRSummer07.indb 322 7/16/07 2:13:33PM
+
+of a 1990 study titled Disorder and Decline. Subsequent research discov-
+ered several gaping flaws in the study that undermine confidence in
+the findings (Harcourt, 2001: 59-78). Even putting those gaps aside, the
+1990 study used a static dataset to test a dynamic hypothesis: the data
+consisted of disorder and robbery victimization at one point in time,
+whereas the broken windows theory posited a developmental sequence
+over time. The statistical analysis could not—and as a result, did not —
+falsify the broken windows hypothesis. As Ralph Taylor succinctly
+observes, the 1990 study was simply off the mark “because these data
+are cross-sectional, and the thesis is longitudinal” (Taylor, 2006: 1626).
+The gap was between the not-yet-falsified-because-not-really-tested and
+truth. Again, it was inappropriate at the time to form public policy on
+its basis.
+Today, the social scientific support for the broken windows
+theory rests principally on a 2001 study coauthored by George
+Kelling and William Sousa. In their study, Kelling and Sousa focus
+on the 75 police precincts in New York City over the period 1989
+to 1998. They statistically compare the relationship between violent
+crime and broken-windows policing, as well as three other indepen-
+dent variables—unemployment, demographics, and crack cocaine
+consumption—simulating comparison groups by treating the city
+as 75 separate and comparable entities. Looking at the change over
+time, they find that the measure of broken-windows policing is signif-
+icantly related to the drops in precinct violent crime over the 10-year
+period—in contrast to demographics, unemployment, and drug use
+patterns, which are not.
+The trouble with the Kelling and Sousa study is that they do not
+control for what statisticians call “mean reversion.” An examination of
+their data reveals just that: those precincts that experienced the largest
+drop in crime in the 1990s were the ones that experienced the largest
+increases in crime during the city’s crack epidemic of the mid- to late
+1980s. In other words, it may well be true that the precincts that received
+the greatest dose of broken windows policing in the 1990s experienced
+the largest declines in crime. But those precincts were precisely the
+Post-Modern Meditations on Punishment 323
+SRSummer07.indb 323 7/16/07 2:13:33PM
+
+ones that were hit hardest by the crack epidemic that fueled homicide
+rates in New York City from the mid-1980s through the early 1990s.
+Everywhere that crime skyrocketed as a result of the crack epidemic,
+crime declined sharply once the epidemic ebbed—which, it turns out,
+was also true across the country.
+In a recent study with Jens Ludwig, we demonstrate that the
+declines in crime observed in New York City in the 1990s are exactly
+what would have been predicted from the rise and fall of the crack
+epidemic, even if New York had not embarked on its broken windows
+policing strategy (Harcourt and Ludwig, 2006: 315). Jens Ludwig and I
+call this Newton’s Law of Crime: what goes up, must come down, and
+what goes up the most, tends to come down the most. What it repre-
+sents, in effect, is a competing hypothesis that more fully explains the
+relationship between crime and policing.
+There’s a third gap—or fourth or fifth, I’ve lost track frankly.
+Kelling and Sousa infer the truth of the broken windows theory—and
+advocate a public policy of broken windows policing—on the basis of a
+not-falsified hypothesis that coincidentally fails to test for a competing
+explanation. But even if they had tested for mean reversion, we would
+still be left with a nonfalsified hypothesis: the broken windows theory
+has not been disproved by Jens Ludwig and my study of the New York
+City data, we have merely offered a different (though in our mind better)
+explanation of the crime trends.1 But who is to say which is right? It is,
+as Ludwig and I suggest, a Scotch verdict: not proven. That’s a gap.
+Why are Kelling and Sousa willing to take a leap of faith and
+advocate policies based on the broken windows theory—a theory that
+is at best not falsified? It does not matter. I think I know why, but of
+course I may be wrong: George Kelling, the coauthor of the original
+Broken Windows article, has a lot invested in its truth, especially now
+that he is running a consulting business, the Hanover Justice Group,
+that markets broken-windows policing methods to city mayors and
+councils. But again, it really does not matter. What matters here is
+that we have identified another gap and a corresponding leap of
+faith.
+324 social research
+SRSummer07.indb 324 7/16/07 2:13:33PM
+
+The Death Penalty
+Modern writings on capital punishment also illustrate radical indeter-
+minacy—those gaps and ambiguities that allow moderns to express,
+more than anything, their moral intuitions about just punishment. Take,
+for example, modern rational choice literature on the death penalty.
+Beccaria, the first true rational choice theorist, did not believe that the
+sovereign had the right to sentence to death. Capital punishment, accord-
+ing to Beccaria, fell within the domain of war and thus was governed by
+rules of necessity and utility. Beccaria did not believe, however, that the
+death penalty served either interest. It was not necessary because long-
+drawn-out punishments, such as penal servitude or slavery for life, were
+more effective and fear-inducing than the fleeting shock of death. It was
+also not useful because capital punishment had a brutalizing effect on
+society (Beccaria, 1995: 67). Jeremy Bentham—the very spokesman for the
+theory of marginal deterrence in the modern era—agreed entirely: “the
+more attention one gives to the punishment of death the more he will
+be inclined to adopt the opinion of Beccaria—that it ought to be disused.
+This subject is so ably discussed in his book that to treat it after him is a
+work that may well be dispensed with” (quoted in Hart, 1982: 41).
+Fast forward to the present, Christmas Day 2005 (and note the
+irony of the timing). Here’s Gary Becker, one of the world’s leading
+rational choice theorists and Nobel prize economist, writing on his
+blog: “My belief in [the death penalty’s] deterrent effect is partly based
+on these limited quantitative studies, but also because I believe that
+most people have a powerful fear of death. David Hume said in discuss-
+ing suicide that ‘no man ever threw away life, while it was worth living.
+For such is our natural horror of death. . .’. Schopenhauer added also
+in discussing suicide ‘. . . as soon as the terrors of life reach a point
+at which they outweigh the terrors of death, a man will put an end
+to his life. But the terrors of death offer considerable resistance. . . .’”
+(Becker-Posner blog, December 25, 2005). Richard Posner adds, also on
+Christmas Day: “I do not consider revenge an impermissible ground for
+capital punishment. Revenge has very deep roots in the human psyche”
+(Becker-Posner blog, December 25, 2005).
+Post-Modern Meditations on Punishment 325
+SRSummer07.indb 325 7/16/07 2:13:33PM
+
+It would almost be funny, if it were not so sad, to watch these
+moderns twist and turn and contort themselves to justify their own
+ethical intuitions about killing other people. The only issue for a
+rational choice theorist is whether the death penalty actually deters
+homicides, net of any other effect. Becarria chose to believe that the
+brutalizing effect outweighed the deterrent effect. Becker chose to
+believe that people fear death. The empirical literature is all over the
+lot (see Donohue and Wolfers, 2005). Yet Becker and Posner decide to
+believe those economists who find a deterrent effect. It is remarkable to
+watch—though disheartening for those who once believed in the criti-
+cal project of reason.
+This is not to suggest that the rational choice theorists alone
+exhibit raw choice. Listen to Hegel: “Beccaria’s endeavor to have capital
+punishment abolished has had beneficial effects. Even if neither Joseph
+II nor the French ever succeeded in entirely abolishing it, still we have
+begun to see which crimes deserve the death penalty and which do not.
+Capital punishment has in consequence become rarer, as in fact should
+be the case with this most extreme punishment” (Hegel, 1981: 247 [empha-
+sis added]). These are telling words. What they tell us, though, is not
+the right way to formulate the inquiry, nor the correct answer to the
+proper question, but something more fundamental about the personal
+convictions of the author—and how it is, exactly, that authors bridge
+the inherent indeterminacy of their own principles.
+4.
+These gaps and ambiguities will bury the modern period—or at least,
+they should. Even the sharpest of critics, the most radical thinkers have
+never been able to escape the overpowering urge to build some new
+construct, a new edifice, some bridge to get to the other side of knowl-
+edge. Neither the followers of Nietzsche, Durkheim, or Marx, nor the
+cultural critics were able to resist the lure of reconstruction, always
+cobbling together the “best evidence” to soften their landing. Not even
+Michel Foucault—that wisest of moderns—could resist displacing our
+faith in rehabilitation with a genealogical story—one that required just
+326 social research
+SRSummer07.indb 326 7/16/07 2:13:34PM
+
+as great a leap of faith. Tragically, this is as true of the cultural critics as
+it was of the two earlier inquiries.
+Many have argued over the ages—and still do—that we should
+simply continue to live with our structure of knowledge and adjust
+our expectations of truth: that the not-yet-falsified simply is the best
+model—which is, obviously, hard to dispute—and that we should
+continue to deploy reason to select the most robust empirical infer-
+ences and the most coherent deductions of principle. But the idea that
+we could distinguish between different hypotheses consistent with the
+data or principles based on what “makes the most sense,” “sounds the
+most reasonable,” or “seems the most coherent,” is simply fantastic.
+Those types of judgment are so culturally determined and so highly
+influenced by our particular time and place, it is inconceivable that any
+rational being today could possibly continue to make those statements
+at this late stage of modernity—at least, with a straight face.
+No more. It is too embarrassing to watch as one generation after
+another of moderns, under the banner of reason, hop, jump, and skip
+over the gaps of knowledge. One would have thought that phrenology
+would have been sufficient to stop us in our tracks, but, no, instead we
+got biological determinist theories of social behavior applied to male
+rape, moral poverty theories of delinquency applied to super-predator
+black males, rational action theories applied to suicide bombers—
+and the list goes on and on of theories that require so many caveats
+and exceptions that even a child would question our modern claim to
+rationality.
+We can no longer leap over the not yet falsified. It is no better
+than turning the clock back and resurrecting faith in divine provi-
+dence. Foucauldian geneaology does not solve the problem: tracing the
+formation of belief represents nothing more than seducing us to believe
+another explanation for which there is hardly stronger evidence. It
+too requires a leap of faith. The cultural turn also solves nothing. The
+idea that we could interpret the social meaning of a contemporary
+punishment practice or institution—let alone a practice that occurred
+in a completely different historical and cultural context—is complete
+Post-Modern Meditations on Punishment 327
+SRSummer07.indb 327 7/16/07 2:13:34PM
+
+fantasy. The fact that the cultural interpretation is persuasive to us tells
+us a lot more about what we find convincing—how we categorize, what
+kind of evidence we find persuasive, what disciplines we defer to—than
+it does about the “social meaning” of the practice itself. And even when
+we do come to a rich description that makes sense of the world around
+us, even when we achieve that formidable task of symbolic interpreta-
+tion, we are no closer to drawing normative conclusions. We are located
+precisely at the gap, forced to take a leap. The symbolic interpretation
+tells us nothing about how the practice came about, how to transform
+or change it, or how to modify its social meaning. Social meaning offers
+no purchase on action.
+5.
+Where does this leave us? The answer must be randomization. Where our
+social scientific theories run out, where our principles run dry, we should
+leave the decision making to chance. We should no longer take that leap
+of faith, but turn instead to the coin toss, the roll of the dice, the lottery
+draw—in sum, to randomization and chance. And we should do so, I
+almost hesitate to say, throughout the field of crime and punishment.
+In the realm of searches, surveillance, and detection, law
+enforcement agencies should turn either to completeness or to
+random sampling. The Internal Revenue Service could audit tax
+returns at random using a social security number lottery system. The
+Transportation Security Administration could search every passen-
+ger at the airport, or randomly, select a certain percent based on a
+computer-generated algorithm using last names. The Occupational
+Safety and Health Administration could investigate compliance
+by employers randomly selecting on employer tax identification
+number. In these and other prophylactic law enforcement investiga-
+tions, the agency could very easily replace profiling—which rests on
+uncertain assumptions about responsiveness and rational action—by
+randomization.
+In choosing law enforcement priorities, government agencies
+should begin allocating resources by chance. The local district attor-
+328 social research
+SRSummer07.indb 328 7/16/07 2:13:34PM
+
+ney’s office, as well as the federal prosecutor’s office, could select
+annual enforcement targets (as between, for instance, public corrup-
+tion, insider trading, drug enforcement, or violent crimes) by lottery.
+State highway policing authorities could distribute patrol cars through
+a randomized mapping system using heavily trafficked roads and inter-
+state highways. The Bureau of Alcohol, Tobacco, and Firearms could
+choose between equal-impact initiatives on the basis of an annual
+lottery draw.
+And yes, even in the area of sentencing and corrections, courts and
+prison administrators should start thinking about relying more heavily
+on chance. Judges could impose sentences, following conviction, based
+on a draw from within a legislatively prescribed sentencing range; the
+range could easily be determined, for instance, by felony classifications.
+The department of corrections could assign prisoners to facilities on a
+random basis within designated escape-risk or security-level categories.
+Prisoners in need of drug, alcohol, or mental health treatment could be
+assigned to comparable programs based on a lottery draw.
+This is not as far-fetched as it may seem. It does, naturally, assume
+a sentencing scheme with specified ranges for different degrees of
+felony. The same kind of randomization, though, could be introduced
+at the legislative process to decide on actual ranges or to set mandatory
+sentences (if fixed sentences are preferred to ranges). So, for instance,
+legislators, having no scientific or principled way to distinguish
+between 6 or 12 months of imprisonment for an aggravated assault,
+could turn to chance. Randomization would allow those legislators to
+pick a mandatory sentence from within those bounds.
+The common gesture running through all this is to question and,
+ultimately, to reject social engineering through criminal punishment.
+The desire to stop and refuse to take leaps of faith represents noth-
+ing more, in practice, than stopping to engineer persons and social rela-
+tions through the criminal sanction. The central impulse is precisely to
+resist shaping people by means of punishment—and thereby to wipe
+the crime and punishment field clean of speculative social science and
+indeterminate principle.
+Post-Modern Meditations on Punishment 329
+SRSummer07.indb 329 7/16/07 2:13:34PM
+
+Critical reason reveals the limit of our reasoning abilities. It
+brings us to the gap where our predecessors always took their leap of
+faith. It sheds light on those theoretical constructs that the moderns
+used to bridge the gaps of knowledge. It should now also allow us to
+clear the field of these fabrications. It should free us to use the only
+unbiased device to decide our fate: randomization, lotteries, dice, and
+chance. And the point is not to roll the dice as between different theo-
+ries all of which require a leap of faith, but instead to use critical reason
+to take those theories off the table. To eliminate them—and thereby to
+stop social engineering.
+6.
+How far exactly shall we go with this? Once we have begun to roll the
+dice, how will we know when to stop? If we use a lottery within sentenc-
+ing ranges, why not then draw all sentences from the same urn? Why
+not determine guilt by the toss of a coin? Why not even decide whom
+to accuse by drawing lots? This is, after all, the whole point of Jorge Luis
+Borges’ brilliant short story, The Lottery of Babylon (1998). Once you go
+down the path of chance, the road may well lead to hell. Once we have
+tasted the sweat nectar of chance, where will we find the right place to
+stop?
+The Degree of Skepticism
+The central claim is not that we can know nothing. No. We have some
+basic intuitive knowledge that no one can dispute. As an empirical
+matter, we know that if we execute someone, we are not going to
+be able to rehabilitate them. As a matter of principle, we know that
+murdering an innocent person is worse than stealing her wallet. We
+know that raping someone is worse than spraying graffiti. We know
+that punishing an entirely innocent person is wrong. And we can
+use these minimal ingredients of certainty to set limits to the use of
+chance. So, for instance, we do not draw punishments for murder and
+pickpocketing—or for rape and vandalism—from the same urn. We do
+not decide who to accuse by drawing lots. These elementary forms of
+330 social research
+SRSummer07.indb 330 7/16/07 2:13:34PM
+
+knowledge allow us to rest our punishment practices minimally on very
+basic notions of proportionality. For instance, the convicted murderer
+and the person exceeding a speed limit are not to be treated the same.
+We impose proportionality constraints on the use of chance. Perhaps
+we create a category for homicide, another for serious bodily or psycho-
+logical injury, and another for property damage. There are some natu-
+ral limits to the use of randomization.
+We only turn to chance when our social science and principles
+run out. The easy cases are where our social science findings rest on
+bad evidence, weak data, or faulty models, where there is no scientific
+evidence at all, or where there are competing and equally plausible
+hypotheses that are all similarly nonfalsified—in other words, when we
+do not have reliable social science findings to rely on. This, I take it, can
+hardly be contested. No one wants to affirmatively and intentionally
+punish another human being on the basis of bad science or no science
+at all.
+What about the harder case where a reliable social scientific
+study exists that falsifies a null hypothesis? Here, I would argue that
+we need to draw distinctions between types of social scientific theory
+and save only those that involve social physics. By social physics I mean
+those claims that are necessarily true as a result of the physical nature
+of our mortal existence. Theories that depend on the intermediation of
+human consciousness and decision making should be set aside, left to
+deal with later when we have more leisure time or, perhaps, when we
+have made breakthroughs in those new consciousness studies. For the
+time being, though, we should focus on social physics only.
+By way of illustration, consider four theories dear to the field of
+crime and punishment: rational choice theory, the broken-windows
+theory, legitimacy theory, and incapacitation theory. The first three
+operate through the intermediary of human consciousness. In each case,
+the theories depend on actors believing certain things and conforming
+their behavior accordingly. The first assumes that individuals pursue
+their self-interest or maximize their utility, and that, accordingly, when
+the cost of offending goes up, they will offend less. It is a theory that
+Post-Modern Meditations on Punishment 331
+SRSummer07.indb 331 7/16/07 2:13:34PM
+
+requires us to accept the idea that individuals—whether knowingly
+or unconsciously—conform their behavior to calculated expectations
+of success or failure. The second and third theories—broken-windows
+and legitimacy theories—also depend on people taking cues from their
+social or physical environment—a disorderly neighborhood in one
+case, a discourteous or insolent police officer in another—and adapting
+their behavior accordingly. All three of these theories require a defined
+process of the human intellect and a decision about behavior. They
+require the intermediation of human consciousness. They are neither
+true, nor false, just not yet falsified properly, nor clearly falsifiable in
+the near future.
+In contrast, the fourth theory involves social physics. If we physi-
+cally detain an individual and isolate her from the free world, she will
+not commit statutory offenses on the outside. This is a matter of social
+physics, not modern social science. Similarly, transportation made it
+physically impossible for a convict to offend in the original jurisdiction.
+These types of theories alone are respectable hypotheses for the twen-
+ty-first century. To be sure, it narrows the range of acceptable empirical
+and principled claims. But that is all for the better.
+My intention is not to prove a social physics hypotheses, but to
+illustrate a point: critical reason may not necessarily eliminate all social
+science theories related to crime and punishment. There may still be
+room for some empirical findings that avoid the intermediation of
+human consciousness. It is important to note, though, that even those
+rare claims of social physics will not resolve the policy choices. The fact
+that incapacitation or transportation makes it physically impossible for
+the convict to offend (at least, in the original jurisdiction) does not tell
+us whether that effect will be outweighed by other consciousness-inter-
+mediating theories, such as a brutalizing effect on the convict or detri-
+mental consequences on his family and community. It also does not
+tell us how much incapacitation we should have. It takes us to another
+empirical and theoretical gap that simply cannot be bridged. The triage
+and elimination of claims that rest on the intermediation of conscious-
+ness will leave us most often without any guidance, without any theory
+332 social research
+SRSummer07.indb 332 7/16/07 2:13:35PM
+
+at all. There will be no “best evidence” to fill the void. How then shall
+we organize our political and social environment? Yes, you know the
+answer by now: through randomization.
+Ultimately, the degree of uncertainty in the punishment field is
+not complete, but radical. The model of nonfalsification alone is not
+adequate to sort social science theories apart. We need, in addition, a
+mechanism that distinguishes between social science hypotheses that
+intermediate though consciousness and those that do not. The first are
+far too susceptible to ideology. Only the second can be a valid basis for
+decision making. I say “ideological” in the sense that social scientific
+theories that intermediate through consciousness are shaped by histor-
+ical, social, and familial contexts that change over time and that are
+affected by the very punitive practices that we implement. In this area,
+there is a feedback mechanism—what Ian Hacking refers to as a “loop-
+ing effect” (Hacking, 2006: 2). The practices and categories we deploy
+shape us as subjects and change the way we respond to those very prac-
+tices. As a result, these theories will necessarily be filled with ideologi-
+cal commitments, biases, and prejudices. They need to be eliminated
+from the field of crime and punishment.
+The Domain of Uncertainty
+Does this extend to the natural sciences—or at least to the hard sciences
+in contrast to the human sciences? Does it apply to fields where the
+manipulations do not transform the objects of study or the underlying
+processes? In biology, for instance, there may be placebo and mental
+effects on health that intermediate through consciousness. But is it
+different in physics and chemistry? Even within the human sciences,
+there seem to be pockets of more reliable social scientific knowledge. Is
+the setting of fiscal policy or interest rates, for instance, more “certain”
+than setting the price of crime? Could it be that there is somehow a
+continuum in terms of the intermediation of conscience? Might it
+have something to do with the rational element in the decision-mak-
+ing process? In other words, is consumer spending related more to
+economic rationality than committing crime?
+Post-Modern Meditations on Punishment 333
+SRSummer07.indb 333 7/16/07 2:13:35PM
+
+These questions have been a source of formidable debates for
+centuries. There are, naturally, important differences between the
+human and hard sciences, not the least of which is the very possibility
+and use of experimental designs in the natural sciences. Experiments
+and control groups afford different insights into correlation. But these
+issues are far too significant to address in a short essay—and they are
+far too distracting. Distracting, because they paralyze us and prevent
+us from doing what is right in the field of crime and punishment. Let us
+leave those questions aside—to be answered some other day—and limit
+ourselves here to the intentional infliction of pain as a form of punish-
+ment. The same reasoning may well apply elsewhere, but that is not
+our concern. Time is of the essence. Our brothers and sisters are being
+punished. Right now, we can simply limit these claims of critical reason
+to the carceral zone.
+Why Turn to Randomization?
+Yes, of course, there are other alternatives. At the point of making that
+punishment decision, there are other options. We could simply stick
+with what we have done in the past. Do what we did before, use the
+same punishments as our mothers and fathers. We could heed the
+status quo. The problem is, their judgments were precisely the product
+of years and years of uncritical leaps of faith. We will have learned noth-
+ing from the exercise of critical reason. Alternatively, we could turn to
+the democratic process and allow the legislature to decide. But in the
+end, their vote will reflect nothing more than prejudice, ideology, bias,
+and, again, leaps of faith. We could decide simply to impose our tastes
+and aesthetic preferences; but that seems obnoxious and irrational.
+No, we must turn instead to randomization because we have no
+other choice. We must turn to the lottery because it is the only way to
+act within the bounds of critical reason. We must turn to the dice by
+default. Of course, randomization may have some positive values. It
+may remind us that our knowledge claims are limited. It may point
+out the frightening role of ideology in our punishment practices. It
+may help gather information. By using a form of random sampling, we
+334 social research
+SRSummer07.indb 334 7/16/07 2:13:35PM
+
+may in fact learn a lot about the world of deviance that surrounds us.
+Randomization may offer more transparency in our policy making. And
+in fact, it may be more efficient than the alternative. But none of these
+are the reason we turn to randomization. We turn instead because there
+is no alternative that satisfies critical reason.
+7.
+Randomization is by no means foreign to the law—and not just in
+François Rabelais’ vivid imagination (Rabelais, Tiers livre III: 39, 1999). A
+number of states today statutorily prescribe a coin toss to resolve elec-
+tion ties (Choper, 2001: 340 n.22). Louisiana law expressly states that
+“In case of a tie, the secretary of state shall invite the candidates to his
+office and shall determine the winner by the flip of a coin” (La. Rev. Stat.
+46: 1410(C)(3) (2005)). In New Mexico, it is a poker hand that resolves a
+tie (Reuters, 2000). A number of courts also partition disputed land by
+lot (Zitter, 1999). Randomness also surfaces across a number of policing
+strategies, including sobriety checkpoints and the random selection of
+airline passengers for further screening at airports. It plays a large role
+in the detection of crime. Our society embraces a “detection lottery”
+(Duff, 1990: 26-27). Even fixed sentencing schemes have a significant
+element of chance. A lot turns on the luck of the draw regarding which
+judge—lenient or stern—presides over the sentencing (Harel and Segal,
+1999: 292).
+Efficiency and Deterrence
+Nevertheless, a call for more randomization will undoubtedly meet with
+great resistance. Many will instinctively protest that the use of chance
+is far less efficient than profiling or targeting higher offenders—that it
+is wasteful to expend law enforcement resources on low-risk offenders.
+There is no point conducting extra airport security checks on elderly
+grandmothers in wheelchairs and families with infants—or “Girl Scouts
+and grannies,” as one recent commentator writes (Sperry, 2005). As I
+demonstrate elsewhere with equations and graphs, however, profiling
+on the basis of group-offending rates may in fact be counterproduc-
+Post-Modern Meditations on Punishment 335
+SRSummer07.indb 335 7/16/07 2:13:35PM
+
+tive and may actually cause more crime even under very conservative
+assumptions regarding the comparative elasticities of the different
+populations (Harcourt, Against Prediction, 2007a, 129-132; 2007b). We
+have no good theoretical reason to believe that targeted enforcement
+would be efficient in decreasing crime or would increase, rather than
+decrease, overall social welfare.
+More sophisticated economists may respond that targeting
+enforcement on groups that are more responsive, at the margin, would
+maximize the return of any law enforcement investment (Margoliath,
+2007). But here we face an empirical void. What we would need is reli-
+able empirical evidence concerning both the comparative offending
+rates and the comparative elasticities of the targeted and non-targeted
+populations. I derive the exact equation for this in Against Prediction
+(Harcourt, 2007a: 133). That evidence, however, does not exist. The
+problem is not the reliability of the evidence, it is that it simply does
+not exist.2 If there ever was a place to avoid taking leaps of faith, surely
+it would be here, where there is no empirical data whatsoever.
+The conventional wisdom among law-and-economists is that
+increasing the probability of detection serves as a greater deterrent to
+crime than increasing the amount of the sanction because of the high
+discount rate imputed to criminals (Polinsky and Shavell, 1999: 12).
+Assuming this is true, the decision to embrace randomization in sentenc-
+ing should have no effect on deterrence. Using a sentencing lottery to
+determine the length of incarceration from within a sentencing guide-
+line range, rather than using a grid that profiles on prior criminal history,
+gun use, or other factors, would not change the certainty of the expected
+sentence and need not change the amount of the expected sentence.
+Some behavioral law-and-economists had suggested that the
+certainty of a criminal sentence—the fact that the size of a criminal
+sanction is fixed and known ahead of time—may deter criminals more
+effectively than uncertain sentences and, on those grounds, had argued
+against sentencing lotteries (Harel and Segal, 1999: 280). However, more
+recent studies involving actual experimental research suggest that
+uncertainty regarding a sanction may be more effective at deterring
+336 social research
+SRSummer07.indb 336 7/16/07 2:13:35PM
+
+deviant behavior. Experiments by Alon Harel, Tom Baker and Tamar
+Kugler reveal that a sentencing lottery may in fact be more effective
+at deterring deviant behavior than fixed sentences (Baker, Harel, and
+Kugler, 2003). Other psychological experiments have similarly shown
+individuals to be averse to ambiguity (Harel and Segal, 1999: 291).
+Just Punishment and Moral Luck
+Randomization in sentencing will likely meet much greater resistance,
+not just because of efficiency concerns but also because of consider-
+ations of just punishment and desert. In a 1987 Tanner Lecture, Jon
+Elster reviewed the arguments for randomization and discussed a
+number of legal areas where lotteries might make sense. Yet he refused
+to see any room for a lottery in the criminal law. “I do not think there
+are any arguments for incorporating lotteries in present-day criminal
+law,” Elster concluded (Elster, 1987: 157). Most legal scholars agree—or
+at least suggest that we, as a community, would tend to agree. “We
+insist upon deliberate, self-conscious decision making,” Judith Resnik
+suggests. “The coin flip offend[s] this society’s commitment to ratio-
+nality. Whether or not a judge’s mental processes, when pronounc-
+ing a sentence of twenty or thirty days, actually amount to anything
+more than a mental coin flip, the community wishes judicial rulings
+to appear to be the product of contemplative, deliberate, cognitive
+processes” (Resnik, 1984: 610-611).
+A large body of philosophical and legal literature has grown
+around the issue of luck in criminal sentencing, much of it tied to the
+larger debate over what Bernard Williams and Thomas Nagel coined
+“moral luck” (Williams, 1981: 20-39; Nagel, 1979: 24-38). Most of the
+commentators oppose the use of chance (Kadish, 1994: 680; Lewis, 1989:
+58; Kessler, 1994: 2237; Duff 1990; Von Hirsch 1976: 72-73). Yet surpris-
+ingly, as a legal matter, the role of luck has been universally embraced
+in this country and in the West. Most jurisdictions in the United States
+impose a lesser sentence or half the punishment for attempts; beyond
+our borders, reduced punishment for attempts has achieved “near
+universal acceptance in Western law” (Kadish, 1994: 679).
+Post-Modern Meditations on Punishment 337
+SRSummer07.indb 337 7/16/07 2:13:35PM
+
+What accounts for this almost universal academic rejection of
+chance in criminal sentencing? The reason, I would suggest, is that
+we desperately want to believe that there is a rational alternative. We
+cling to the idea that there is a better way, a more rational way, a more
+morally acceptable way. As Elster explains, “Since human beings are
+meaning-seeking animals, they are uncomfortable with the idea that
+events are merely sound and fury, signifying nothing. Human beings
+are also reason-seeking animals. They want to have reasons for what
+they do, and they create reasons when none exist. Moreover, they want
+the reasons to be clear and decisive, so as to make the decision easy
+rather than close” (Elster, 1987: 174-75).
+In discussing penal lotteries, R. A. Duff observes that lotteries in
+general are justified only when “there is no other practicable or morally
+acceptable way of distributing the benefit or burden in question” (Duff,
+1990: 26). Lotteries are justified as a default mechanism when there is
+no other morally justifiable way: “What justifies such lotteries . . . is the
+fact that it is either impossible to eliminate them, or possible to reduce
+or eliminate them only at an unacceptably high cost” (Duff, 1990: 27).
+Duff has it right. What justifies lotteries, morally, is the lack of
+an alternative. Where he has it wrong, though—and where everyone
+seems to have it wrong—is in believing that there is a rational alterna-
+tive. The fact is, we have hunches. We take leaps of faith. But we do not
+have good evidence or determined principles that resolve the sentenc-
+ing ambiguities. Sentencing lotteries make sense, in the end, precisely
+because we have no better choice.
+CONCLUSION
+The end of modernity is within our reach. The final triumph of ratio-
+nality is near. Reason has finally achieved that exalted state of self-
+consciousness that will allow it to identify its own extremity and stop
+there: no longer to rely on blind faith to bridge the inevitable gaps,
+ambiguities, and indeterminacies of human knowledge; no longer to
+fill that space beyond the nonfalsified hypothesis; ready to relinquish
+that realm to chance, the coin toss, randomization—the arbitrary.
+338 social research
+SRSummer07.indb 338 7/16/07 2:13:36PM
+
+This represents the end of punishment as a transformative
+practice—as a practice intended to change mortals, to correct delin-
+quents, to treat the deviant, to deter the super-predator. We will have
+sanitized punishment: no longer the field of social engineering—but
+also no longer about moral education, nor about social intervention.
+Punishment will be unplugged and defused.
+Iris Marion Young urged me this past summer, in her subtle yet
+penetrating way, to use this essay as an opportunity to explore what a
+world without punishment would look like. I think I have seen it now.
+It is not a world without anything that could be described as punish-
+ment. The person convicted of murder or embezzlement may still be
+sentenced to a term of imprisonment. But it is a world in which we
+have ceased to punish in furtherance of hunches and unfounded theo-
+ries—in which punishment is chastened by critical reason and random-
+ization.
+It may now be possible to trace how reason matured through the
+different questions that moderns posed of punishment—from early
+enlightenment debates over the right to punish, to critical theoretic
+and positivist social scientific discourse over the true functions of
+punishment, to cultural criticism and later poststructuralist ethics. I
+know that I have passed through many of these stages and still struggle
+daily.3 Until very recently, I still believed that we should accept the inev-
+itable leaps of faith in human knowledge and make them transparent.
+That we should “dirty our hands” by setting out fully the ethical choices
+we make when we investigate and advocate public policy outcomes
+(Harcourt, 2005). My work, like that of many other poststructuralists—
+Michel Foucault especially at the end of his life—had taken a turn to
+ethics and to the cultivation of the self. It seemed that there was no
+other option but to recognize human frailty and proceed openly and
+honestly.
+No more. No more leaps of faith. When we are at the precipice
+of reason, faced with competing hypotheses, indeterminate principles,
+or questionable assumptions, we must stop. Stop rationalizing which
+hypothesis makes more sense. Stop marshalling better reasons for
+Post-Modern Meditations on Punishment 339
+SRSummer07.indb 339 7/16/07 2:13:36PM
+
+one derivation of principle over another. Stop legitimizing the ques-
+tioned assumption. Turn instead to chance. Resolve the indeterminacy
+by drawing straws, tossing a coin, throwing dice, running a computer
+algorithm. We need, in the end, to be mature and let chance take over
+where reason ends.
+NOTES
+* I would like to extend a special and warm thanks to Arien Mack for
+organizing such a stimulating conference and volume on punish-
+ment. I am deeply grateful to Ian Hacking, Martha Nussbaum,
+Pasquale Pasquino, Elizabeth Scott, Michel Troper, and Iris Young for
+conversations and comments, for encouragement, but most impor-
+tantly for resistance. I also owe a great debt for rich comments, reac-
+tions, and still more resistance, to Olivier Cayla, Chloe Cockburn,
+Andrew Dilts, John Donohue, Elizabeth Emens, Jeffrey Fagan, David
+Garland, Janet Haley, Philip Hamburger, Alon Harel, George Kateb,
+Tracey Meares, Thomas Miles, John Pfaff, Andrzej Rapaczynski,
+Adam Samaha, Jonathan Simon, Lior Strahilevitz, Bruce Western,
+and Tim Wu. I dedicate this essay to my dear friend and colleague
+Iris Young.
+1. I would suggest that the second half of the study, which focuses on
+the MTO program, does in fact falsify the broken-windows hypoth-
+esis (Harcourt and Ludwig, 2006: 300-314). But I leave that battle to
+another day.
+2. There may be a single exception. Avner Bar-Ilan and Bruce Sacerdote
+have a working paper from 2001 that explores the comparative
+responsiveness to an increase in the fine for running a red light along
+several dimensions (finding that the elasticity of red light running
+with respect to the fine “is larger for younger drivers and drivers
+with older cars,” equivalent for drivers “convicted of violent offenses
+or property offenses,” and smallest, within Israel, for “members of
+ethnic minority groups”). A handful of other papers come close,
+but do not address the key issue of comparative elasticities. So, for
+instance, Paul Heaton’s 2006 working paper on the effect of eliminat-
+340 social research
+SRSummer07.indb 340 7/16/07 2:13:36PM
+
+ing racial-profiling policies in New Jersey on the offending of minori-
+ties, “Understanding the Effects of Anti-profiling Policies,” does not
+address how the elasticity of black offenders compares to that of
+whites.
+3. My largest ongoing research project explores the relationship between
+mental hospitalization, imprisonment, and crime (Harcourt, 2007c).
+I justify the project as an investigation into social physics, but am
+constantly struggling to restrict my claims within the bounds of criti-
+cal reason.
+REFERENCES
+Baker, Tom, Alon Harel, and Tamar Kugler. “The Virtues of Uncertainty
+in Law: An Experimental Approach.” Iowa Law Review 89 (2004):
+443-494.
+Bar-Ilan, Avner, and Bruce Sacerdote. “The Response to Fines and
+Probability of Detection in a Series of Experiments.” National
+Bureau of Economic Research. Working Paper No. 8638 (December
+2001).
+Beccaria, Cesare. On Crimes and Punishments and Other Writings. Ed. Richard
+Bellamy. Cambridge: Cambridge University Press, 1995.
+Becker-Posner blog <http: //www.becker-posner-blog.com>.
+Blumstein, Alfred, Jacqueline Cohen, and Daniel Nagin. “Report of
+the Panel on Research on Deterrent and Incapacitative Effects.”
+Deterrence and Incapacitation: Estimating the Effects of Criminal Sanctions
+on Crime Rates. Eds. Alfred Blumstein et al. Washington, D.C.:
+National Academy of Sciences, 1978.
+Borges, Jorge Luis. 1998. “The Lottery in Babylon.” Collected Fictions. Trans.
+Andrew Hurley. New York: Penguin Putnam: 101-106.
+Choper, Jesse H. “Why the Supreme Court Should Not Have Decided the
+Presidential Election of 2000.” Constitutional Commentary 18 (2001).
+Derrida, Jacques. Force de loi: Le “Fondement mystique de l’autorité.” Paris:
+Éditions Galilée, 1994.
+Devlin, Patrick. The Enforcement of Morals. London: Oxford University Press,
+1965.
+Post-Modern Meditations on Punishment 341
+SRSummer07.indb 341 7/16/07 2:13:36PM
+
+Donohue, John, and Justin Wolfers. “Uses and Abuses of Empirical
+Evidence in the Death Penalty Debate.” Stanford Law Review 58
+(2005): 791-846.
+Duff, R. A. “Auctions, Lotteries, and the Punishment of Attempts.” Law
+and Philosophy 9:1 (February 1990): 1-37.
+Elster, Jon. “Taming Chance: Randomization in Individual and Social
+Decisions.” The Tanner Lectures on Human Values. Delivered at
+Brasenose College, Oxford University, May 6-7, 1987.
+Feinberg, Joel. The Moral Limits of the Criminal Law: Offense to Others. New
+York: Oxford University Press, 1985.
+———. The Moral Limits of the Criminal Law: Harm to Others. New York: Oxford
+University Press, 1987.
+Foucault, Michel. Surveiller et punir: Naissance de la prison. Paris: Editions
+Gallimard, 1975.
+———. Discipline and Punish. Trans. A. Sheridan. New York: Vintage Books,
+1979.
+———. “What is Enlightenment?” Michel Foucault: Ethics: Subjectivity and
+Truth. Ed. Paul Rabinow, Ed. New York: The New Press, 1997:
+303-319.
+Garland, David. Punishment and Modern Society. Chicago: University of
+Chicago Press, 1990.
+———. The Culture of Control. Chicago: University of Chicago Press, 2001.
+Geuss, Raymond. The Idea of A Critical Theory: Habermas and the Frankfurt
+School. Cambridge: Cambridge University Press, 1981.
+Habermas, Jürgen. “Taking Aim at the Heart of the Present: On Foucault’s
+Lecture on Kant’s What is Enlightenment?” Critique and Power: Recasting
+the Foucault/Habermas Debate. Ed. Michael Kelly. Cambridge: MIT
+Press, 1994: 149-154.
+Hacking, Ian. The Taming of Chance. New York: Cambridge University Press,
+1990.
+———. “Kinds of People: Moving Targets.” The Tenth British Academy Lecture.
+British Academy, London, April 11, 2006 <http: //www.britac.ac.uk/
+pubs/src/britacad06/index.html>.
+342 social research
+SRSummer07.indb 342 7/16/07 2:13:36PM
+
+Harcourt, Bernard E. Illusion of Order: The False Promise of Broken Windows
+Policing. Cambridge: Harvard University Press, 2001.
+———. Language of the Gun: Youth, Crime, and Public Policy. Chicago: University
+of Chicago Press, 2005.
+———. Against Prediction: Profiling, Policing, and Punishing in an Actuarial Age.
+Chicago: University of Chicago Press, 2007a.
+———. “Muslim Profiles Post 9/11: Is Racial Profiling an Effective
+Counterterrorist Measure and Does It Violate the Right to be Free
+from Discrimination?” Security and Human Rights. Eds. Benjamin
+Goold and Liora Lazarus. Oxford: Hart Publishing, 2007b.
+———. “From the Asylum to the Prison: Rethinking the Incarceration
+Revolution; Part II: State Level Analysis.” University of Chicago Law
+and Economics. Olin Working Paper No. 335 (March 2007c).
+Harcourt, Bernard E., and Jens Ludwig. 2006. “Broken Windows: New
+Evidence from New York City and a Five-City Social Experiment.”
+The University of Chicago Law Review 73:1 (Winter 2006): 271-316.
+Harel, Alon, and Uzi Segal. “Criminal Law and Behavioral Law and
+Economics: Observations on the Neglected Role of Uncertainty in
+Deterring Crime.” American Law and Economics Review 1:1/2 (1999):
+276-312.
+Hart, H. L. A. Law, Liberty and Morality. Stanford: Stanford University Press,
+1963.
+———. “Bentham and Beccaria” Essays on Bentham: Jurisprudence and
+Political Theory. Oxford: Oxford University Press, 1982.
+Heaton, Paul. “Understanding the Effects of Anti-Profiling Policies.”
+Working paper, March 2006 <http: //home.uchicago.edu/~psheaton/
+workingpapers/racialprofiling.pdf>.
+Hegel, G. W. F. Philosophy of Right. Trans. T. M. Knox. Oxford: Oxford
+University Press, 1981.
+Hernández-Murillo, Rubén, and John Knowles. “Racial Profiling or
+Racist Policing?: Testing in Aggregated Data.” Working paper,
+April 18, 2003 <http: //www.econ.upenn.edu/~jknowles/Research/
+HKRacProf_2003c.pdf>.
+Post-Modern Meditations on Punishment 343
+SRSummer07.indb 343 7/16/07 2:13:37PM
+
+Kadish, Sanford H. “The Criminal Law and the Luck of the Draw.” Journal
+of Criminal Law and Criminology 84:4 (Winter-Spring 1994): 679-702.
+Kant, Immanuel. “An Answer to the Question: ‘What is Enlightenment?’”
+Kant: Political Writings. Ed. Hans Reiss. Cambridge: Cambridge
+University Press, 1970: 54-60.
+Kelling, George, and Catherine M. Coles. Fixing Broken Windows: Restoring
+Order and Reducing Crime in Our Communities. New York: Free Press,
+1996.
+Kelling, George L., and William H. Sousa, Jr. “Do Police Matter? An
+Analysis of the Impact of New York City’s Police Reforms.”
+Manhattan Institute Center for Civic Innovation, Civic Report No.
+22 (December 2001).
+Kessler, Kimberly D. “The Role of Luck in Criminal Law.” University of
+Pennsylvania Law Review 142:6 (June 1994): 2183-2237.
+Knowles, John, Nicola Persico, and Petra Todd. “Racial Bias in Motor
+Vehicle Searches: Theory and Evidence.” Journal of Political Economy
+109 (2001).
+Levitt, Steven. “Juvenile Crime and Punishment.” Journal of Political Economy
+106:6 (December 1998): 1156-1185.
+Lewis, David. “The Punishment that Leaves Something to Chance.”
+Philosophy and Public Affairs 18:1 (Winter 1989): 53-67.
+Margoliath, Yoram. “In Defense of Prediction.” Law and Social Inquiry
+(forthcoming 2007).
+Morris, Norval, and Gordon J. Hawkins. The Honest Politician’s Guide to Crime
+Control. Chicago: University of Chicago Press, 1970.
+Nagel, Ernest. “The Enforcement of Morals.” The Humanist 28:3 (1968):
+20-27.
+Nagel, Thomas. “Moral Luck.” Mortal Questions. Cambridge: Cambridge
+University Press, 1979
+Nagin, Daniel. General Deterrence: A Review of the Empirical Evidence. Deterrence
+and Incapacitation: Estimating the Effects of Criminal Sanctions on Crime
+Rates. Eds. Alfred Blumstein et al. Washington, D.C.: National
+Academy of Sciences, 1978.
+344 social research
+SRSummer07.indb 344 7/16/07 2:13:37PM
+
+Nietzsche, Friedrich. On the Genealogy of Morals. Trans. Walter Kaufmann.
+New York: Random House, 1967.
+Polinsky, Mitchell, and Steven Shavell. “On the Disutility and Discounting
+of Imprisonment and the Theory of Deterrence.” Journal of Legal
+Studies 28 (1999): 1-16.
+Rabelais, François. Le Tiers livre des faits et dits heroïques du bon Pantagruel. Les
+Œuvres romanesques. Traduites en français moderne par Françoise
+Joukovsky. Paris: Honoré Champion Éditeur, 1999.
+Resnik, Judith. “Precluding Appeals.” Cornell Law Review 70 (1984-1985):
+603-624.
+Reuters. “Election 2000. The Presidency High Stakes: If Vote Is Tied in
+New Mexico, Poker Hand Could Settle It.” Newsday, November 15,
+2000: A05.
+Rusche, Georg, and Otto Kirchheimer. Punishment and Social Structure. New
+York: Columbia University Press, 1968.
+Spelman, William. “The Limited Importance of Prison Expansion.” The
+Crime Drop in America. Eds. Alfred Blumstein and Joel Wallman. New
+York: Cambridge University Press, 2000.
+Sperry, Paul. “When the Profile Fits the Crime.” The New York Times, July, 28
+2005 <http: //www.nytimes.com/2005/07/28/opinion/28sperry.html>.
+Taylor, Ralph B. Book Review of Illusion of Order. American Journal of Sociology
+111:5 (2006): 1625-1628.
+Tyler, Tom R. Why People Obey the Law. New Haven: Yale University Press,
+1990.
+———. “Trust and Democratic Governance.” Trust and Governance. Eds.
+Valerie Braithwaite and Margaret Levi. New York: Russell Sage
+Foundation, 1998.
+Von Hirsch, Andrew. Doing Justice. New York: Hill and Wang, 1976.
+Wacquant, Loic. Les Prisons de la Misère. Paris: Raisons d’Agir, 1999.
+Williams, Bernard. Moral Luck. Cambridge: Cambridge University Press,
+1981.
+Wilson, James Q., and George L. Kelling. “Broken Windows.” The Atlantic
+Monthly (March 1982): 29-38.
+Post-Modern Meditations on Punishment 345
+SRSummer07.indb 345 7/16/07 2:13:37PM
+
+Winch, Peter. The Idea of A Social Science and Its Relation to Philosophy. London:
+Routledge and Kegan Paul, 1958.
+Zitter, Jay M. “Judicial Partition of Land by Lot or Chance.” American Law
+Reports 4th 32 (Updated March 1999 annotation): 909.
+346 social research
+SRSummer07.indb 346 7/16/07 2:13:37PM

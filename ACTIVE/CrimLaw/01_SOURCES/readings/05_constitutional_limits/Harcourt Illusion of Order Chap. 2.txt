@@ -1,0 +1,1434 @@
+BERNARD E. HARCOURT
+
+Illusion of Order
+
+The False Promise of
+Broken Windows Policing
+
+HARVARD UNIVERSITY PRESS
+Cambridge, Massachusetts, and London, England
+2001
+
+
+
+22 - ILLUSION OF ORDER
+
+able insights. The fundamental problem with order maintenance is
+not that it rests on discussion of the norm and social meaning of or-
+derliness, but rather that it fails to be critical about these categories—
+order, disorder, and the disorderly—and to consider the ways in which
+they are shaped by the policing practices that surround us. Order
+maintenance fails to explore how punishment techniques may shape
+our very conception of thicker propensities, human nature, and social
+meaning.
+
+The alternative approach that I propose focuses not only on social
+meaning and short-term behavior and perception, but also, and more
+important, on the relationship between policing practices and the per-
+ceptions, thoughts, feelings, understandings, and relations of the con-
+temporary subject. Law enforcement policies and punitive practices
+shape us—and it is here, I suggest, that we should begin to rethink and
+research our criminal laws and policing. This book is a critique of the
+order-maintenance approach to criminal justice, but it is also a prole-
+gomenon to a new vision of punishment and criminal justice policy
+
+analysis.
+
+CHAPTER 2
+
+The Order-Maintenance Approach
+
+Broken windows policing has swept the American criminal justice sys-
+tem at record speed. In the euphoria of support, it is sometimes easy to
+lose sight of the subtle distinctions between the various practices and
+theories. Order maintenance, broken windows, zero tolerance, com-
+munity policing, social norms, social meaning, social influence: the
+terms begin to bleed into one another. How is it, precisely, that the
+broken windows theory relates to the legal scholarship of the New Chi-
+cago School or to New York-style policing? And how is it, exactly, that
+the more conservative writings of James Q. Wilson and Edward C.
+Banfield relate to the contemporary writings of the New Progressives?
+In this chapter I offer an interpretation of the different theories and
+practices that make up the order-maintenance approach to criminal
+justice. I begin with perhaps the most central doctrine of all, the bro-
+ken windows theory.
+
+Broken Windows
+
+The broken windows theory was first articulated in James Q. Wilson
+and George L. Kelling’s short, nine-page article “Broken Windows,”
+which appeared in the Atlantic Monthly in 1982. The theory is premised
+on the idea that “disorder and crime are usually inextricably linked, in
+a kind of developmental sequence” (Wilson and Kelling 1982:31). Ac-
+cording to Wilson and Kelling, minor disorders (such as littering, loi-
+tering, public drinking, panhandling, and prostitution), if tolerated
+
+23
+
+
+24 + ILLUSION OF ORDER
+
+in a neighborhood, produce an environment that is likely to attract
+crime. They signal to potential-criminals that delinquent behavior will
+not be reported or controlled—that no one is in charge. One broken
+window, left unrepaired, invites other broken windows. These progres-
+sively break down community standards and leave the community vul-
+nerable to crime.
+
+In the essay, disorder breeds crime in a highly scripted manner:
+
+Astable neighborhood of families who care for their homes, mind each
+other’s children, and confidently frown on unwanted intruders can
+change, in a few years or even a few months, to an inhospitable and
+frightening jungle. A piece of property is abandoned, weeds grow up,
+a window is smashed. Adults stop scolding rowdy children; the chil-
+dren, emboldened, become more rowdy. Families move out, unat-
+tached adults move in. Teenagers gather in front of the corner store.
+The merchant asks them to move; they refuse. Fights occur. Litter accu-
+mulates. People start drinking in front of the grocery; in time, an ine-
+briate slumps to the sidewalk and is allowed to sleep it off. Pedestrians
+are approached by panhandlers.
+
+At this point it is not inevitable that serious crime will flourish or vio-
+lent attacks on strangers will occur. But many residents will think that
+crime, especially violent crime, is on the rise, and they will modify their
+behavior accordingly. They will use the streets less often, and when on
+the streets will stay apart from their fellows, moving with averted eyes,
+silent lips, and hurried steps. . . .
+
+Such an area is vulnerable to criminal invasion. Though it is not in-
+evitable, it is more likely that here . . . drugs will change hands, prosti-
+tutes will solicit, and cars will be stripped. That the drunks will be
+robbed by boys who do it as a lark, and the prostitutes’ customers will
+be robbed by men who do it purposefully and perhaps violently.
+(1982:31-32)
+
+On the surface, the “Broken Windows” script privileges order over
+disorder. Whereas disorder attracts crime, order, by contrast, decreases
+criminal activity. The principal policy recommendation of the essay is
+that the police resume their “order-maintenance function’—a func-
+tion that was essentially displaced by the “crime fighting function”
+during the 1960s (1982:33; see also Wilson 1968:16-34). The order-
+maintenance function focuses on integrating police officers into the
+
+The Order-Maintenance Approach + 25
+
+community and teaching them to maintain the peace and order rather
+than solve crimes. It is symbolized by the foot-patrol officer on his beat,
+making his rounds, enforcing rules of civility, and maintaining good
+order.
+
+This hierarchy of order over disorder is refracted throughout the
+essay. A typical community, for instance, is composed of citizens or
+“decent folk” on the one hand, and criminals and “disorderly people”
+on the other (1982:30). The disorderly people include “disreputable
+or obstreperous or unpredictable people: panhandlers, drunks, ad-
+dicts, rowdy teenagers, prostitutes, loiterers, the mentally disturbed”
+(1982:30; see also Wilson 1968:16, 39). They are the rowdy children,
+the fighting teenagers, the slumped inebriates, and the marauding
+panhandlers in the script. And they are pitted against orderly citizens
+in a continual struggle of good versus evil. The disorderly are closely
+associated with vices such as drinking, prostitution, littering, and beg-
+ging. They are the “ill-smelling drunk” or the “importuning beggar”
+(1982:34). They are often associated with youth or with “unattached
+adults” (1982:32).
+
+This opposition of orderly and disorderly people cuts across a fur-
+ther pervasive insider-outsider dichotomy, in effect producing two cat-
+egories of troublemakers—the disorderly insiders, who need to be
+controlled, and the disorderly outsiders, who need to be excluded.
+The scheme of the essay can be represented as follows:
+
+| Regulars Strangers
+Ordered Decent folk Visitors
+Disordered Drunks and derelicts Criminals
+
+According to the essay, it is “outsiders” or “strangers” who commit
+crimes (1982:36, 30). “Regulars,” by contrast, tend not to cause real
+problems (1982:30). So, for instance, the essay recounts the views of a
+patrol officer, fictitiously named Kelly, who is assigned a beat in down-
+town Newark in a controlled experiment regarding community po-
+licing:
+
+The people were made up of “regulars” and “strangers.” Regulars in-
+cluded both “decent folk” and some drunks and derelicts who were al-
+ways there but who “knew their place.” Strangers were, well, strangers,
+and viewed suspiciously, sometimes apprehensively. The officer—call
+
+
+26 + ILLUSION OF ORDER
+
+him Kelly—knew who the regulars were, and they knew him. As he saw
+his job, he was to keep an eye on strangers, and make certain that the
+disreputable regulars observed some informal but widely understood
+rules. Drunks and addicts could sit on the stoops, but could not lie
+down. People could drink on side streets, but not at the main intersec-
+tion. Bottles had to be in paper bags. Talking to, bothering, or begging
+from people waiting at the bus stop was strictly forbidden. If a dispute
+erupted between a businessman and a customer, the businessman was
+assumed to be right, especially if the customer was a stranger. If a
+stranger loitered, Kelly would ask him if he had any means of support
+and what his business was; if he gave unsatisfactory answers, he was sent
+on his way. (1982:30)
+
+Kelly’s task, as he saw it, was to regulate the disorderly insiders and
+exclude the disorderly outsiders—a task that reflects the type of order-
+maintenance policing espoused in the essay. “We look for outsiders,”
+reports a leader of a community watch group in the Silver Lake area of
+Belleville, New Jersey. “If a few teenagers from outside the neighbor-
+hood enter it, ‘we ask them their business’” (1982:36).
+
+The insider-outsider dichotomy is also reflected in the recurring ref-
+erence to “criminal invasion” (1982:32-33). The term “invasion” rein-
+forces the idea that crime comes from outside the community. The es-
+say manages to sustain this fiction essentially by excluding delinquents.
+The insider teenager, for instance, who lives in a housing project and
+becomes a gang member simply loses his insider status. Though he
+may continue to live in the projects, he is no longer a “project resi-
+dent,” no longer a “citizen,” and no longer has a legitimate voice
+(1982:35). In short, he no longer has a claim to membership in the
+community—especially in the face of competing claims by orderly
+residents who are struggling to “reassert control over [their] turf”
+(1982:33). “What the police in fact do,” the essay asserts, “is chase
+known gang members out of the project” (1982:35). The essay does
+the same when it excludes gang members from the category of “resi-
+dents.”
+
+The “Broken Windows” essay is premised, then, on a number of
+shared assumptions about the privilege of order over disorder and of
+insider over outsider, about the likelihood of criminal invasion in dis-
+orderly neighborhoods, and about the suspicious nature of the unat-
+
+The Order-Maintenance Approach + 27
+
+tached adult, the importuning beggar, the unpredictable person—in
+sum, the disorderly. It is premised ona categorical distinction between
+the disorderly and the decent folk. The essay intimates that reducing
+crime is merely a question of details, that it requires only that we pick
+up litter, paint over graffiti, hide inebriates and panhandlers, and fix
+broken windows. The essay reflects an aesthetic of orderliness, cleanli-
+ness, and sobriety. And on these assumptions it tells a compelling story
+about crime and deterrence. The basic plot is simple: fighting minor
+disorder deters serious crime.
+
+Edward C. Banfield and the Lower Class
+
+The “Broken Windows” essay reflects an approach to crime, urban is-
+sues, and politics that was shaped by the earlier writings of Edward C.
+Banfield—James Q. Wilson’s mentor, colleague, and co-author in 1963
+of City Politics. In a series of writings addressing the urban crisis in
+the 1960s and 1970s—especially in The Unheavenly City and the subse-
+quent revision, The Unheavenly City Revisited—Banfield set forth a dis-
+tinct perspective on crime and urban decay that, in many ways, made
+possible the later broken windows theory. Just as the broken win-
+dows theory describes an evolutionary—or devolutionary—spiral of
+decay, Banfield had articulated earlier a similar developmental model
+of neighborhood change that relied significantly on behavioral norms
+and economic necessity to explain crime and urban blight. Banfield’s
+model of urban change was similarly premised on two important fac-
+tors: first, what he called the “logic of growth”; and second, the norms
+and values of neighborhood residents, including, more specifically,
+the pathological traits of “lower-class” individuals.
+
+According to Banfield, urban change reflected, in part, a natural
+evolutionary process—what he referred to as a “logic of growth.”
+Downtown neighborhoods fall into the hands of the less well-off be-
+cause the original, better-off property owners leave the central city
+for larger homes and more acreage in the suburbs. The well-off move
+to the suburbs not because of fear of crime or “white flight,” but
+rather because they “wanted and could afford newer and more spa-
+cious houses and neighborhoods” and could also afford to commute
+(1974:36). They are not pushed out by urban decay, but rather are im-
+pelled by their own desire for more luxurious homes. For their part,
+
+
+28 + ILLUSION OF ORDER
+
+the less well-off are glad to move into the downtown neighborhoods
+because of the proximity to jobs and stores, and also because of the rel-
+ative improvement of central city housing over rural poverty, older
+tenements, or shanties. “The logic of growth,” Banfield emphasized,
+“does require that, in general, the lowest-income people live in the old-
+est, highest-density, most run-down housing, which will be nearest to
+the factories, warehouses, stores, and offices of the inner city, or down-
+town, part of the central city” (1974:52).
+
+Eventually, the neighborhoods vacated by the well-off begin to de-
+cay. The well-off perceive their old neighborhoods, sadly, as examples
+of urban “blight’—“lawns and shrubbery trampled out, houses un-
+painted, porches sagging, vacant lots filled with broken bottles and
+junk” (1974:35). In what might playfully be called the “broken bottle
+theory,” Banfield suggests that the poor—or in his terms the “less well-
+off’—have an incentive to let their neighborhood decay:
+
+To the people who moved from old tenements and shanties into the
+housing that had been vacated by the relatively well-off people who
+moved to the suburbs, what was happening to the central city neighbor-
+hoods did not appear as “decay.” Many of them cared little or nothing
+for lawns and had no objections to broken bottles; they knew, too, that
+the more “fixed up” things were, the higher rents would be. . . . To the
+least well-off, “blight” was a blessing. They were able, for the first time
+in their lives, to occupy housing that was comfortable. (1974:36)
+
+According to Banfield, the logic of growth, however, does not ex-
+plain fully the existence of squalid and crime-ridden slums. What ac-
+counts for these features is the second important factor, namely, be-
+havioral norms and the concept of class (1974:52-53). By class,
+Banfield meant certain “patterns of perception, taste, attitude, and be-
+havior” (1974:53). These patterns, according to Banfield, permeate all
+facets of an individual’s life, including his or her “manners, consump-
+tion, child-rearing, sex, politics, or whatever” (1974:53). Banfield re-
+ferred to these patterns as norms or values. He called them “ethos,”
+which he defined as “the sum of the characteristic usages, ideas, stan-
+dards, and codes by which a group is differentiated and individualized
+in character from other groups” (Banfield 1958:10 n.3).
+
+For Banfield, class membership turns on the individual’s psychologi-
+cal orientation to time—that is, whether he or she is present- or future-
+
+The Order-Maintenance Approach + 29
+
+oriented. Banfield’s central hypothesis was that “the many traits that
+constitute a ‘patterning’ are all consequences, indirect if not direct, of
+a time horizon that is characteristic of a class” (1974:54, emphasis added).
+The “lower-class” person is present-oriented to a fault. In contrast to
+the future-oriented upper-class individual, the lower-class individual
+lives “from moment to moment,” and his behavior is governed by im-
+pulse. He is improvident and irresponsible, and, as a result, “likely also
+to be unskilled, to move frequently from one dead-end job to another,
+to be a poor husband and father” (1974:61, 54).
+
+The lower-class individual resembles, in many ways, the disorderly in
+Wilson and Kelling’s “Broken Windows” essay. Like the unattached
+adult, the lower-class individual in Banfield’s writings “is unable to
+maintain a stable relationship with a mate; commonly he does not
+marry” (1974:62). Like the aggressive panhandler, the lower-class indi-
+vidual is “aggressive yet dependent” (1974:62). And like the prostitute
+or slut, the lower-class person has loose sexual morals. “His bodily
+needs (especially for sex) and his taste for ‘action’ take precedence
+over everything else—and certainly over any work routine” (1974:61).
+The lower-class person is unemployed and “drifts from one unskilled
+job to another, taking no interest in his work” (1974:61). He is abu-
+sive and often violent. Lower-class households, Banfield contends, are
+“usually female-based.” The women heads of household are “charac-
+teristically impulsive,” and “once children have passed babyhood they
+are likely to be neglected or abused” (1974:61).
+
+The lower-class person has a lot in common with his environment.
+“The lower-class individual lives in the slum,” Banfield notes, “which,
+to a greater or lesser extent, is an expression of his tastes and style of
+life” (1974:71). He develops a symbiotic relationship with the ghetto
+that reinforces his own lower-class norms as well as the urban decay:
+
+[T]he indifference (“apathy” if one prefers) of the lower-class person is
+such that he seldom makes even the simplest repairs to the place that
+he lives in. He is not troubled by dirt and dilapidation and he does not
+mind the inadequacy of public facilities such as schools, parks, hospi-
+tal, and libraries; indeed, where such things exist he may destroy them
+by carelessness or even by vandalism. . . . [T]he slum is specialized as [a
+site] for vice and for illicit commodities generally. Dope peddlers, pros-
+titutes, and receivers of stolen goods are all readily available there,
+
+
+30 + ILLUSION OF ORDER
+
+within easy reach of each other and of their customers and victims. . . .
+In the slum, one can beat one’s children, lie drunk in the gutter, or go
+to jail without attracting any special notice; these are things that most
+of the neighbors themselves have done and that they consider quite
+normal. (1974:72)
+
+According to Banfield, it is precisely the norm of present-
+orientedness, characteristic of lower-class individuals, that gives rise
+to crime and delinquency, poverty and squalor, broken families and
+illegitimacy. Banfield was surprisingly blunt, at least by contempo-
+rary standards. Lower-class people, he stated, “generate social prob-
+lems—violent crime, for example” (1974:240). In The Unheavenly City
+Revisited, Banfield explained that “since the benefits of crime tend to
+be immediate and its costs (such as imprisonment or loss of reputa-
+tion) in the future, the present-oriented individual is ipso facto more dis-
+posed toward crime than others” (1974:183, emphasis added). Similarly, in
+his later essay “Present Orientedness and Crime,” Banfield wrote that
+“a cohort of present-oriented persons could as a rule be expected to
+commit a good many more crimes of certain types than a matched co-
+hort of persons who are not present oriented” (1991:320-321). Ban-
+field did not shy away from provocation.
+
+The norm of present-orientedness, in conjunction with the logic of
+growth, operates to perpetuate urban decay and blight. In turn, these
+problems of crime and poverty reinforce present-orientedness in what
+Banfield described as a “feedback loop” (1991:319). It is thus the mix
+of class culture and the logic of growth that determines the crime rate
+and housing conditions in central city neighborhoods (1974:74). The
+norm of present-orientedness, in conjunction with urban evolutionary
+norms, causes crime. Banfield’s “feedback loop” can be graphically illus-
+trated as shown in Figure 2.1.
+
+In effect, Banfield explained crime on the basis of two interrelated
+factors—class and situation. He summarized his view as follows:
+
+[C]rime, like poverty, depends primarily upon two sets of variables.
+One set relates mainly to class culture and personality (but also to sex
+and age) and determines an individual's propensity to crime. The other
+relates to situational factors (such as the number of policemen on the
+scene and the size of the payroll) and determines his inducement. The
+probability that he will commit crimes—his proneness to crime—de-
+
+The Order-Maintenance Approach + 31
+
+pends upon propensity and inducement. A city’s potential for crime may
+be thought of as the average proneness of persons in various “sex-age-
+culture-personality” groups times their number. (1974:180)
+
+According to Banfield, present-orientedness contributes not only to
+serious crime, such as assault, robbery, and rape, but also to antisocial
+behavior more generally. It causes what Wilson and Kelling refer to as
+“disorder”—in Banfield’s words, “behavior that is antisocial without
+being illegal, or that is merely unsocial.” This behavior, in turn, threat-
+ens “the ‘quality-of-life’ or, as it used to be called civilization” (Banfield
+1991:315).
+
+The focus on the norm of present-orientedness to explain larger so-
+cial phenomena is characteristic of Banfield’s thought more gener-
+ally. In his earlier work The Moral Basis of a Backward Society, Banfield
+focused on the behavioral norm of “amoral familism” to explain
+the extreme poverty and “backwardness” of southern Italian society
+(1958:9). “Amoral familism” is the tendency to care only about the
+short-term material advantages of one’s nuclear family and to disre-
+gard all other, larger interests, such as the interest of one’s community,
+city, or nation. The behavioral norm of amoral familism undermines
+the ability of southern Italians to act together to promote the general
+welfare, to create organizations to better society, or to cooperate in
+such a way as to improve living conditions. Banfield argued that the
+family-centered ethos explains the economic and social conditions of
+southern Italy. While he conceded that other factors were also impor-
+tant—such as “poverty, ignorance, and a status system which leaves the
+
+<—_ reinforces
+
+“Lower-class” culture Urban decay, including
+and situation factors poor housing, inferior schools,
+crime-ridden neighborhoods,
+and blight
+causes Vi
+\ influences
+Crime and poverty
+
+Figure 2.1 Banfield’s feedback loop of class, crime, and urban decay
+
+
+32 - ILLUSION OF ORDER
+
+peasant almost outside the larger society” (1958:155)—he neverthe-
+less maintained that “for purposes of analysis and policy the moral ba-
+sis of a society may usefully be regarded as the strategic, or limiting fac-
+tor. That is to say, the situation may be understood, or altered, better
+from this standpoint than from any other.” This “very simple hypothe-
+sis,” Banfield contended, could “make intelligible ail of the behavior
+about which questions have been raised and will enable an observer to
+predict how the Montegranesi [villagers] will act in concrete circum-
+stances” (1958:155, 83, emphasis added).
+
+Behavioral norms—present-orientedness in the lower classes in
+American society and family-orientedness in southern Italian society—
+are, for Banfield, the key to understanding social phenomena such as
+crime, urban decay, bad schools, lack of associations, and so on. They
+reflect what others, such as Wilson, would call “human nature” (Wil-
+son and Herrnstein 1985). And, by and large, they have to be taken for
+granted in policy analysis. From a policy perspective, Banfield argued,
+there is no point in trying to change individuals’ propensity to commit
+crime because these cultural and personality traits are practically im-
+mutable.
+
+Banfield was deeply pessimistic about the possibility of changing
+class characteristics. “The fact is,” he emphasized, “that no one knows
+how to change the culture of any part of the population” (1974:263).
+Even if we could change psychological orientation to time, he sug-
+gested, it would take several generations: class characteristics in any in-
+dividual change very slowly, if at all, and can be discussed only from a
+multigenerational perspective (1974:238-239). Moreover, “even if one
+did know how, there is good reason to suppose that doing so would be
+infeasible on other grounds; for example, it might require unconsti-
+tutional methods, such as taking infants from their parents at birth,
+or entail other disadvantages that more than offset its advantages”
+(1974:263). As a result, the Banfieldian policy maker has to focus on
+the environment and inducements rather than class and propensity.
+“[T]he policy maker usually must take certain cultural and psychologi-
+cal traits as given,” Banfield wrote. “If he is to change a city’s poten-
+tial for crime it must be by manipulating situational factors, which is
+to say inducements” (1974:180, 195-196). This could be done “either
+by raising the costs of crime or by raising the benefits of noncrime”
+(1974:196).
+
+The Order-Maintenance Approach + 33
+
+The truth is, Banfield was not very sanguine about the possibility of
+doing anything about the urban problem—and in fact sounded some-
+times as if he believed the problem itself was not a real issue. Banfield
+emphasized, in The Unheavenly City Revisited, that “[t]he import of what
+has been said in this book is that although there are many difficulties
+to be coped with, dilemmas to be faced, and afflictions to be endured,
+there are very few problems that can be solved; it is also that although
+much is seriously wrong with the city, no disaster impends unless it be
+one that results from public misconceptions that are in the nature of
+self-fulfilling prophecies” (1974:285).
+
+Banfield’s list of policy proposals was, accordingly, short and some-
+what limited (1974:268). He recommended repealing the minimum
+wage, reducing the school-leaving age, enacting a negative income tax
+for the “competent” poor, and providing intensive birth-control guid-
+ance to the “incompetent poor”—whom he defined as “the insane, the
+severely retarded, the senile, the lower class (inveterate ‘problem fami-
+lies’), and unprotected children” (1974:269-270). In terms of polic-
+ing, Banfield proposed, first, regulating police practices in such a way
+as to give victims a greater incentive to take reasonable precautions to
+prevent crime; second, intensifying patrols in high-crime neighbor-
+hoods and permitting police to stop and frisk; and third, reducing the
+time from arrest to conviction and punishment. In addition, as noted
+earlier, he recommended that society “abridge to an appropriate de-
+gree the freedom of those who in the opinion of a court are extremely
+likely to commit violent crimes” (1974:270). For Banfield, the policy
+focus was on manipulating opportunities rather than propensities.
+
+James Q. Wilson and Human Nature
+
+Banfield’s writings had a significant influence on Wilson and Kelling’s
+“Broken Windows” essay at a number of different levels. Just as the dis-
+orderly and obstreperous person in Wilson and Kelling’s work bears
+a sharp resemblance to the lower-class individual, the natural devolu-
+tion of a disorderly neighborhood is also reminiscent of the logic of
+growth. In addition, the policy orientation of both works—the focus
+on modifying situational factors and inducements rather than class val-
+ues or propensity—is very similar.
+
+Not surprisingly, Banfield also influenced, more generally, the other
+
+
+34 + ILLUSION OF ORDER
+
+writings of James Q. Wilson. Wilson’s prolific writings on crime can be
+grouped into three periods: the first period includes the more policy-
+oriented writings such as the “Broken Windows” essay and others an-
+thologized in Thinking about Crime (1975), as well as his work on polic-
+ing, Varieties of Police Behavior (1968); the second involves more tradi-
+tional criminological writings, especially his treatise Crime and Human
+Nature (1985), co-authored with his colleague at Harvard University,
+Richard Herrnstein; the third includes his more recent writings on
+moral theory reflected in works such as The Moral Sense (1993). All
+three periods reflect, in different ways and to different degrees,
+Banfield’s influence.
+
+In his earlier policy-oriented writings, Wilson, like Banfield, argued
+strenuously against trying to remedy the deep environmental causes of
+crime, such as poverty, or the psychological roots of crime, such as im-
+pulsiveness and present-orientedness. Instead, Wilson proposed more
+modest policies aimed at changing the situational factors that allow or
+encourage lawbreakers to commit crime—modest in the sense of the
+goal to achieve, not the consequences of the policies. Wilson’s princi-
+pal recommendations, other than order maintenance, included the
+increased use of incarceration, especially for serious and repeat of-
+fenders, more rapid trials and administration of punishment, manda-
+tory sentencing, and reduced prosecutorial discretion over whom to
+charge (Wilson 1975:199-201, 208). Wilson also advocated aggressive
+arrest practices as a way to lower crime rates (Wilson and Kelling 1982;
+Wilson and Boland 1978 and 1981).
+
+In these early writings, Wilson drew a sharp distinction between
+the criminologist’s task of discovering the causes of crime and the pol-
+icy analyst’s task of proposing politically feasible measures that would
+have some impact on the crime rate. “Policy analysis, as opposed to
+causal analysis, begins with a very different perspective,” Wilson wrote
+(1975:53). It begins with a perspective that focuses on feasible and
+measurable change. In contrast to Banfield—who, in a somewhat self
+deprecating way, repeatedly emphasized that hardly any of his pol-
+icy proposals were politically acceptable (1974:269, 285)—Wilson was
+highly concerned with political feasibility. Wilson’s policy orientation
+was mostly the product of a genuine desire to offer workable policy pre-
+scriptions—a desire shared by the New Chicago School. “Though in-
+tellectually rewarding, from a practical point of view it is a mistake to
+
+The Order-Maintenance Approach + 35
+
+think about crime in terms of its ‘causes’ and then to search for ways to
+alleviate those causes,” Wilson noted. “We must think instead of what it
+is feasible for a government or a community to do, and then try to dis-
+cover, by experimentation and observation, which of those things will
+produce, at acceptable costs, desirable changes in the level of criminal
+victimization” (1975:207-208) .
+
+In other words, for Wilson, it was the imperative of political feasibil-
+ity—rather than pessimism about changing class culture—that was the
+driving force behind his policy orientation. To be sure, Wilson shared
+with Banfield both a thick conception of human nature and deep
+skepticism about changing human nature. In fact, in many passages in
+Thinking about Crime, Wilson, like Banfield, suggested that it may well
+be impossible to change human nature (see, e.g., Wilson 1975:209).
+Nevertheless, Wilson’s principal motivation for situation-oriented poli-
+cies was the desire to change the real world by proposing politically
+practicable policies. And his principal prescription was to incapacitate
+a larger number of habitual offenders (1975:199).
+
+In the second period—in his more criminological writings—Wilson
+developed with Richard Herrnstein a comprehensive theory of crime
+that, like Banfield’s, emphasized human nature but also focused on
+situational factors. In contrast to his earlier writings, Wilson with
+Herrnstein distanced himself from the conception of class that was so
+central to Banfield’s writings. Whereas, in the earlier period, Wilson
+wrote about “lower-class persons” in a very Banfieldian way, suggest-
+ing that they are preoccupied with “immediate gratification” and are
+“inclined to uninhibited, expressive conduct” (1975:37), Wilson and
+Herrnstein recognized in their treatise in 1985 that “this argument
+continues to be controversial, and so it seems inappropriate to be-
+gin an explanation of criminality by assuming that it is based on
+class” (1985:28). They nevertheless developed a notion of present-
+orientedness that played a similar role as in Banfield’s writings. They
+referred specifically to the concept of “present-oriented[ness]” and
+discussed it in similar terms of “discounting” future rewards (1985:62).
+In fact, a central principle of their comprehensive theory of crime
+was that “people differ in the rate at which they discount the future”
+(1985:61).
+
+More generally, Wilson and Herrnstein developed a conception of
+human nature as playing an important role in determining crime.
+
+
+36 + ILLUSION OF ORDER
+
+“The argument of this book,” they explained, “is that there isa human
+nature that develops in intimate settings out of a complex interaction
+of constitutional and social factors, and that this nature affects how
+people choose between the consequences of crime and its alterna-
+tives” (1985:508). As with Banfield, Wilson and Herrnstein’s focus on
+human nature differentiated their work from sociological writings on
+crime, especially theories of strain, control, and cultural deviance,
+which traditionally emphasized social processes and their influence on
+crime (1985:63). Although Wilson and Herrnstein’s comprehensive
+theory of crime attempted to accommodate, to some extent, sociologi-
+cal emphases on social processes and norms, it focused to an impor-
+tant extent on psychological, biological, and environmentally caused
+predispositions to crime. In other words, like Banfield, Wilson and
+Herrnstein constructed a theory of crime that focused on propen-
+sity—what they refer to as “constitutional” and “developmental” fac-
+tors, or “subjective” states of the person—but that also implicated in-
+ducement—what they refer to as “social context,” objective factors, or
+contingencies. Like Banfield, Wilson and Herrnstein maintained that
+it is “very hard for society to change, by plan, the subjective state of
+large numbers of persons” (1985:377). In contrast to the earlier Wil-
+son, though, they reached this conclusion less because of the distinc-
+tion between policy analysis and criminology, and more because of
+criminological “truth.”
+
+In his more recent writings on moral theory, Wilson focuses increas-
+ing attention on the purported breakdown of morality in the modern
+age, and the resulting global increase in crime. This is a departure
+from his earlier writings. In Thinking about Crime, for instance, he em-
+phasized that “[m]y strong inclination is to resist explanations for ris-
+ing crime that are based on the alleged moral breakdown of society,
+the community, or the family. I resist in part because most of the fami-
+lies and communities I know have not broken down, and in part be-
+cause, had they broken down, I cannot imagine any collective action
+we could take consistent with our civil liberties that would restore a
+moral consensus” (1975:206).
+
+In his 1993 work The Moral Sense, however, Wilson maintains that
+moral relativism in the twentieth century contributed, to some extent,
+to an increase in crime rates. He suggests that global crime patterns to-
+
+The Order-Maintenance Approach + 37
+
+day respond more to cultural circumstances than, as they did formerly,
+to material circumstances, and that one important cultural circum-
+stance is “the collapse in the legitimacy of what once was respectfully
+called middle-class morality but today is sneeringly referred to as ‘mid-
+dle-class values’” (1993:10). Wilson argues that worldwide moral rela-
+tivism may contribute to the global increase in crime “by replacing the
+belief in personal responsibility with the notion of social causation and
+by supplying to those marginal persons at risk for crime a justification
+for doing what they might have done anyway” (1993:10). Banfield
+too attributed some of the increase in crime to moral relapse. He
+suggested that upper- and middle-class persons became more crime-
+prone during the 1960s because “these classes have come to have less
+respect for authority, including the authority of the law . . . [and be-
+cause] their conventional morality has been weakened and partially
+destroyed” (1974:193). Wilson’s discussion of the “moral sense” is also
+influenced by Banfield’s focus on ethos—as in the ethos of amoral
+familism that characterizes southern Italian villagers. Overall, though,
+Banfield’s influence may be less apparent here than in the first two
+periods.
+
+The New Chicago School
+
+What emerges from the Banfield-Wilson tradition is a common ef-
+fort to enrich classical doctrine with a thicker notion of class culture
+or human nature, as well as a policy orientation that focuses on the en-
+vironmental and situational cues that encourage people to commit
+crime. And it is here that the Banfield-Wilson tradition intersects with
+the writings of the New Chicago School. Dan Kahan, Tracey Meares,
+and others share Wilson’s orientation to policy analysis. In their own
+words, they are generating “an intensely practical agenda” of law en-
+forcement policies, and their motivations are “as much political as
+conceptual” (Kahan and Meares 1998b:806).
+
+In sharp contrast to Wilson, however, these legal scholars do not ad-
+vocate lengthier and more severe terms of incarceration. Quite to the
+contrary. In this respect they are writing against James Q. Wilson. They
+affirmatively promote what they refer to as “milder public-order alter-
+natives,” such as youth curfews, anti-gang loitering ordinances, and or-
+
+
+38 + ILLUSION OF ORDER
+
+der-maintenance crackdowns (Kahan and Meares 1999a:23). These,
+they contend, are “politically feasible and morally attractive” substi-
+tutes for extended incarceration (Kahan and Meares 1998b:806). At
+the same time, though, their policy proposals draw heavily on the logic
+of Wilson’s broken windows theory. Kahan in fact relies on the theory
+(1997a:369), as do other social norm theorists (see, e.g., Ellickson
+1996:1171-73, 1177-79, 1182; Livingston 1997:581-591).
+
+Social norm scholarship in criminal law, I would suggest, is best un-
+derstood as a type of constructivist social theory. The emerging lit-
+erature attempts to explain behavior by focusing on shared interpre-
+tations of social practices. These shared interpretations are socially
+constructed, and they move social actors to behave in certain ways. As
+Lawrence Lessig explains, “The regulatory effect of norms comes not
+from something physical or behavioral. The regulatory effect comes
+from something interpretive” (1998:680, emphasis added).
+
+Socially constructed meaning is at the heart of social norm theoriz-
+ing. With regard to each and every policy recommendation, social
+meaning plays a pivotal, if not the pivotal, role. The reverse sting strat-
+egy (the strategy of setting up and arresting purchasers rather than
+drug dealers), for example, purportedly changes “the social meaning
+of drug-law policy” (Kahan and Meares 1998b:818-819). At present,
+the meaning stigmatizes African-Americans as lawbreakers because
+they are the predominant targets of sting operations. By redistributing
+the impact of drug convictions outside the inner city, reverse stings
+“can affect the social meaning of drug offending in ways that encour-
+age residents of minority communities to cooperate with police of-
+ficers and with each other to reduce crime” (1998b:818-819). Anti-
+gang loitering ordinances and youth curfews allegedly affect behavior
+by changing the social meaning of gang membership: “The level of
+gang activity reflects whether individual juveniles believe that others
+value and expect gang membership” (1998b:819). Ordinances and
+curfews change the perception among juveniles that peers value gang
+criminality by reducing, for instance, the expressive function of the
+behavior: “[B]eing out at night becomes a less potent means of dis-
+playing toughness because fewer of one’s peers are around to wit-
+ness such behavior” (1998b:821). Order-maintenance policing pur-
+portedly works because of the social meaning of order. Since order
+
+The Order-Maintenance Approach + 39
+
+means that a neighborhood is in control, changing a neighborhood
+from disorderly to orderly will reduce crime (1998b:823). The policy
+of encouraging juvenile snitching, it is argued, works by changing the
+social meaning of carrying guns. By rewarding kids who turn in their
+peers, the strategy “interferes with norms that give guns their mean-
+ing” (1998b:825). Finally, church-police cooperation (such as the Elev-
+enth District prayer vigil in Chicago) is purportedly effective in part
+because it changes the social meaning of the police by casting them in
+a new light within the social fabric of the community, and changes po-
+lice officers’ perceptions of suspects (1998b:829-830).
+
+All of these proposed policing strategies operate on social mean-
+ing. In this regard, social norm scholarship in criminal law traces back,
+primarily, to Lawrence Lessig’s 1995 essay “The Regulation of Social
+Meaning.” Although Lessig did not originate the social norm turn—
+others, most notably Robert Ellickson (1991) and Jon Elster (1989)
+preceded him in this respect—Lessig nevertheless initiated the fo-
+cus on social meaning as the lens through which we understand so-
+cial norms (Lessig 1995, 1996, and 1998; Ellickson 1998:549; Posner
+1998a:563). The social norm scholarship in the criminal law area
+adopts the social meaning lens, and, in this respect, traces back most
+directly to Lessig’s work.
+
+In his 1995 essay, Lessig positions his conception of social meaning
+within the framework of constructivist theory. Lessig offers, in the mar-
+gin, the following intellectual background to his use of the term “so-
+cial meaning”:
+
+It is constructivism that defines modern social theory. Emile Durkheim
+is one start: “(S)ocial reality is constructed by the operation of the soci-
+ety itself. . . . Social facts are the product of the group life of the total
+operation of a society.” In our own time, the notion was advanced most
+forcefully in sociology by Peter L. Berger and Thomas Luckman’s work,
+The Social Construction of Reality: A Treatise in the Sociology of Knowledge,
+and in law most importantly by Roberto Unger. Unlike some of the ear-
+lier theorists, moderns think less about “society itself” constructing it-
+self and more about how the actions of individuals and collectivities
+work to construct it. Nevertheless, the tradition has maintained its view
+about social reality’s source: “Human reality is not provided at birth
+
+
+40 + ILLUSION OF ORDER
+
+by the physical universe, but rather must be fashioned by individuals
+out of the culture into which they are born.” (1995:949 n.19, citations
+omitted)
+
+Both Dan Kahan and Tracey Meares rely in important respects on
+Lessig’s conception of social meaning (Kahan 1997a:351 n.7; Kahan
+1997b:2478 n.8; Kahan 1998:611; Kahan and Meares 1998a:1181;
+Kahan and Meares 1998b:815). On its basis, they offer explanations
+for the purported effectiveness of the proposed policing stravegies.
+They make predictions, as evidenced by their claim that “disorderly
+norms create crime” (Kahan and Meares 1998b:806), and they en-
+dorse policy prescriptions. But they are candid about the fact that they
+are focusing on shared interpretations (1998b:815). In this sense, they
+are proposing “an interpretive turn” (Lessig 1996:2184)—a movement
+away, however slight, from behavioralism or more traditional eco-
+nomic modeling (Lessig 1998:682). This movement, interestingly, mir-
+rors a larger intellectual shift toward interpretivism in the human sci-
+ences (Foucault 1970:359).
+
+Lessig illustrates the social meaning approach with a discussion of
+New York City’s various strategies toward panhandling. During the
+late 1980s and early 1990s, the city sought to ban panhandling by pass-
+ing a law prohibiting loitering for the purpose of begging (Lessig
+1995:1039). That law was struck down by the federal courts under the
+First Amendment and, as a result, was not given the chance to change
+the social meaning associated with giving to panhandlers.! The Transit
+Authority then took a different tack, Lessig explains, and, through an
+advertising campaign, communicated to passengers that it was wrong
+to give money to panhandlers because it made them less likely to seek
+help. That campaign, Lessig reports, was effective and succeeded in
+changing the social meaning associated with giving to beggars. Lessig
+writes:
+
+Before the Transit Authority started this poster campaign, the refusal
+of a passenger to give any money to a panhandler had a relatively un-
+ambiguous meaning—identifying the passenger as coldhearted, or
+cheap, or uncaring. Thus, the refusal to give was costly for the passen-
+ger. But the Authority’s poster campaign ambiguated this meaning.
+Now, the refusal could either be because the passenger is coldhearted,
+etc., or because the passenger is concerned to do what is best for the
+
+The Order-Maintenance Approach + 41
+
+panhandler. What is best for the panhandler is for the passenger to say
+no to the panhandler. Thus the posters succeeded in making it less
+costly for the passenger not to give to the panhandler by ambiguating
+the social meaning of a refusal to give. (1995:1040)
+
+By changing the social meaning (through ambiguation), the Transit
+Authority attempted to change the patterns of giving to panhandlers
+and thereby reduce the number of panhandlers.
+
+To say that social norm theory is “constructivist” or “interpretive,”
+however, calls for more specificity, since there are today so many differ-
+ent types of social construction theories. Contemporary constructivist
+theories range from the historical or ironic, to the unmasking or re-
+formist, to the more rebellious or revolutionary (Hacking 1999:19—
+21). I would characterize the social norm scholarship as moderate, in-
+strumental, and at times reformist. First, it is moderate insofar as it
+does not suggest that all social meanings are constructed. As Lessig as-
+serts, “[S]ome social meanings are constructed” (1995:949). Moreover,
+he maintains, even though more than one construction may be possi-
+ble, not every construction is possible (1995:949 n.19). Second, it is in-
+strumental insofar as it seeks primarily to change social meaning in
+order to affect behavior. As discussed earlier, most of the proposed po-
+licing strategies operate in this way—most, but not all. And for this rea-
+son, third, it has an ambivalent relationship to reform. Again, most of
+the time, but not all, it questions, criticizes, or seeks to change social
+meaning. To make this clear, I will review here three of the concrete
+policy proposals that social norm scholars advocate.
+
+Juvenile Snitching Policies
+
+One of the earliest and longest-lived recommendations of social norm
+scholars is the policy of rewarding, in their own words, “juvenile snitch-
+ing” as a way to reduce juvenile gun possession (Kahan 1997a:364;
+Kahan 1998:611-612; Kahan and Meares 1998b:824-825; Kahan
+1999a:1867). Kahan and Meares begin their analysis by suggesting that
+guns have social meaning among youths. This, of course, is undoubt-
+edly true. (See, e.g., Pattillo and May 1994:16-29; Fagan 1999:29-31.)
+Specifically, Kahan and Meares maintain that “[g]un possession can
+confer status on the carrier because it expresses confidence and a will-
+
+
+42 + ILLUSION OF ORDER
+
+ingness to defy authority. Failure to carry a gun, on the other hand,
+may signal fear and thus invite aggression” (1998b:824).
+
+Kahan and Meares suggest that we should develop policies to dis-
+courage juvenile gun possession that take account of this meaning.
+They argue that the traditional policy of rewarding juveniles who vol-
+untarily give up their weapons and severely punishing those who do
+not is doomed to fail because the policy supports the present social
+meaning of gun possession. It “reinforce[s] the message of defiance
+associated with carrying guns and thus increase[s] the expressive value
+of that behavior” (1998b:825).
+
+In contrast, Kahan and Meares endorse a policy of rewarding juve-
+niles who turn in their classmates who are carrying guns:
+
+When students fear that their peers will report them, they are less likely
+to display their guns; when students are reluctant to display them, guns
+become less valuable for conveying information about attitudes and in-
+tentions. In addition, the perception that onlookers are willing to sell
+out possessors counteracts the inference that possessors enjoy high sta-
+tus among their peers. Encouraging snitching thus reduces the inci-
+dence of gun possession both by deconstructing its positive meaning
+and by disrupting behavioral norms—including the ready display of
+guns—that are essential to that activity’s expressive value. (1998b:825)
+
+The policy of encouraging juvenile snitching, Kahan and Meares ar-
+gue, changes the social meaning of gun possession and thereby lowers
+the incentive to carry. It works on the inducement to commit crime by
+decreasing the attractiveness of guns.
+
+Anti-Gang Loitering Ordinances
+
+Kahan and Meares also propose enforcing anti-gang loitering ordi-
+nances. Their analysis begins with the proposition that gang mem-
+bership has social meaning—which, again, is undoubtedly true. Spe-
+cifically, Kahan and Meares argue, in high-crime neighborhoods a
+majority of teens believe that their peers predominantly admire gang
+activity. Therefore, in order to reduce gang activity, “the Jaw should
+regulate the sources of social meaning that construct th[ese] impres-
+sion[s]” (1998b:819). They advocate, on these grounds, the use of
+anti-gang loitering ordinances, such as the ordinance that was enacted
+
+The Order-Maintenance Approach * 43
+
+by the city of Chicago in 1992 (held unconstitutionally vague in 1999
+by the United States Supreme Court in City of Chicago v. Morales).
+Kahan and Meares explain:
+
+A potentially more effective approach is to attack the public signs and
+cues that inform juveniles’ (mis) perception that their peers value gang
+criminality. That’s what gang loitering laws attempt to do. . . . By pre-
+venting gangs from openly displaying their authority, such laws coun-
+teract the perception that gang members enjoy high status in the com-
+munity. As that perception recedes, the perceived reputation pressure
+to join and emulate them should diminish. (1998b:820-821)
+
+Here, the norm-focused hypothesis is that anti-gang loitering ordi-
+nances change the social meaning of gang membership, reducing its
+attractiveness and thereby reducing the amount of gang activity.
+
+Order-Maintenance Policing
+
+Kahan and Meares also endorse the police strategy of order mainte-
+nance. Their analysis, again, starts with social meaning, here the mean-
+ing of order and disorder. Kahan writes that “(t]he effect of disorder
+on crime can be understood in terms of the effect that social meaning
+has on the mechanisms of social influence” (Kahan 1997a:370). Order,
+according to Kahan and Meares, means that the community has con-
+trol of the neighborhood, that it will not tolerate criminality, and that
+it will enforce basic norms of civility. Conversely, disorder means that
+the community tolerates crime, that the neighborhood is unsafe, and
+that disorderly persons and criminals can and will take over. The so-
+cial meaning of disorder makes a neighborhood vulnerable to crime.
+“By shaping preferences for crime, accentuating the perceived status
+of lawbreaking, and enfeebling the institutions that normally hold
+criminal propensities in check,” Kahan and Meares argue, “disorderly
+norms create crime” (1998b:806).
+
+The three key concepts, then, are social meaning, social norms, and
+social influence. The social meaning in question is the meaning of or-
+der and disorder. So, for instance, Kahan writes that “[d]isorder is. . .
+pregnant with meaning: Public drunkenness, prostitution, aggressive
+panhandling and similar behavior signal. . . that the community is un-
+able or unwilling to enforce basic norms” (Kahan 1997a:370). Social
+
+
+44 + ILLUSION OF ORDER
+
+meanings can have social influence, which is to say they can influence
+the behavior of individuals in society. In the order-maintenance con-
+text, the social meaning of disorder influences the disorderly to com-
+mit crimes and law abiders to leave the neighborhood. Conversely, the
+social meaning of order influences the disorderly to resist their incli-
+nation to commit crime, and influences law abiders to walk more
+freely in the streets at night. It is in this sense that Kahan writes: “Visi-
+ble disorder . . . tells individuals that their own forbearance is unlikely
+to be reciprocated. . .. The meaning of disorder can also influence the
+behavior of committed law-abiders in a way that is likely to increase
+crime.” In contrast, Kahan explains, “[w]hen citizens obey norms
+of orderliness—and when authorities visibly respond to those who
+don’t—onlookers see that the community is intolerant of criminality.
+This message counteracts the inferences that point social influence in
+the direction of crime” (1997a:371). To take advantage of social influ-
+ence, the social norm of orderliness must be enhanced. The idea is, as
+the previous passage suggests, that social influence may sway citizens to
+“obey norms of orderliness” (1997a:371). The norm of orderliness op-
+erates through social meaning to influence the kind of good behavior
+on the part of disorderly and honest people that will reduce crime. So-
+cial influence then has a feedback effect on social norms, influencing
+people to act in a more orderly manner. In this way, changing a social
+meaning may change social norms.
+
+In the context of order-maintenance policing, then, order itself
+brings about a dynamic relationship between meaning and influ-
+ence, a relationship that is illustrated in Figure 2.2. It is important
+to emphasize that there is a feedback mechanism in this explana-
+tion. Orderliness has a social meaning, which, by means of social influ-
+ence, effectively promotes the norm of orderliness itself. The social
+norm explanation, accordingly, loops through the figure over and
+over.”
+
+At the level of provocation, the New Progressives also take a page
+out of the Banfield-Wilson repertoire. In their writings, Kahan and
+Meares confront, head-on, the traditional racial coalitions of the civil
+rights era. They claim to speak on behalf of the African-American
+community against the American Civil Liberties Union. “[C]ircum-
+stances have changed since 1960,” they emphasize. “Today African-
+
+The Order-Maintenance Approach + 45
+
+Americans exercise considerable political clout in our nation’s inner-
+cities; and far from being terrorized by anti-loitering laws, curfews and
+building searches, many inner-city residents support these measures as
+potent weapons against the crime that drastically diminishes their eco-
+nomic and social prospects” (Kahan and Meares 1999a:8). The New
+Progressives claim to speak for inner-city residents and to express what
+is really an unspoken and unrecognized majority within that minority.
+They have challenged liberal stereotypes and aggressively promoted a
+provocative, alternative vision of justice. They have been called “New
+Progressives” (Pildes 1999) precisely because they claim to advance the
+interests of inner-city residents and of the African-American commu-
+nity by challenging the central orthodoxies of the Warren Court and
+the civil rights movement.
+
+And, not surprisingly, they elicit sharp responses. Some cheer them
+on enthusiastically. “In the lingo of the 1960s,” Jean Bethke Elshtain
+writes, “right on!” (1999:11). Wesley Skogan calls them “brave”
+(1999:15). Others, however, read their work as neoconservative. “The
+measures that Meares and Kahan advocate are not so much about ex-
+panding black self-determination,” Margaret Burnham writes, “as they
+are about expanding an already discredited approach to crime”
+(1999:17). Or, to borrow the title of Mark Tushnet’s response essay,
+“Everything Old Is New Again” (1998). Whether “New Progressive”
+or neoconservative, they certainly share with Wilson and Banfield a
+knack for being provocative.
+
+<— Social norm
+Orderliness Honest persons feel safe and
+criminals do not commit crimes
+
+Social meaning
+
+\
+
+Community is in control and
+criminals are in check
+
+/
+
+Social influence
+
+Figure 2.2. Order-maintenance policing
+
+
+46 + ILLUSION OF ORDER
+
+The “Revolution in American Policing”
+
+The order-maintenance approach has not been limited to scholarly
+books, law review articles, and academic conferences. A number of the
+policy proposals have been implemented in large cities, including New
+York, Chicago, and Boston, and in smaller cities and rural areas. In
+many cases, in fact, it is new policing strategies that have triggered so-
+cial norm theorizing, not the other way around. And the combination
+of theory and practice has been truly combustible. It has ignited what
+has been dubbed the “Blue Revolution,” a “revolution in American po-
+licing” (Massing 1998:32; Nifong 1997).
+
+At the outset, it is important to distinguish between these policing
+initiatives—order-maintenance crackdowns, anti-gang loitering ordi-
+nances, and youth curfews—and what is referred to as “community po-
+licing.” Public officials, journalists, and commentators often blur the
+distinctions between these policing techniques, sometimes calling the
+social norm proposals “community policing,” at other times drawing
+sharp distinctions. The slippage requires some attention.
+
+“Community policing,” at its most general level, stands for the idea
+that police officers can prevent crimes by integrating themselves into
+the community and solving community problems, rather than by
+merely responding to emergency calls. Community policing is preven-
+tion-oriented, in contrast to the earlier reform model—the model of
+professional crime fighting—which centered on the 911 strategy. It
+seeks to share with the public the tasks of problem identification,
+problem solving, and crime control. It is a means of developing in-
+creased communication between the police and the community
+(Fielding 1995:25; Kelling and Coles 1996:239; Moore, Trojanowicz,
+and Kelling 2000:53-55). In essence, community policing “consists of
+two complementary core components, community partnership and
+problem solving” (Community Policing Consortium 2000:118). It rests
+on the idea that “effective crime-fighting is based upon a ‘partnership’
+between police and the residents of the immediate community they
+serve” (Spitzer 1999:47).
+
+The difficulty is that “community policing” comes in a wide variety,
+and, as Kelling and Coles concede, “has come to mean all things to
+all people” (1996:158). Some understand community policing as a
+
+The Order-Maintenance Approach + 47
+
+type of order maintenance whereby police officers maintain neighbor-
+hood order by aggressively arresting low-level offenders. Kelling and
+Coles, for instance, have characterized New York City’s quality-of-life
+initiative as “community policing,” though they are acutely aware of
+the tension (1996:109, 145, 161-163). Others understand community
+policing as a style of community integration in which the beat cop spe-
+cifically withholds enforcement as a way to build community contacts.
+So, for instance, in Chicago, some police officers on the beat report-
+edly tolerate disorder so as to ingratiate themselves with the commu-
+nity (Eig 1996:63; see generally Skogan and Hartnett 1997).
+
+The variations on the theme of community policing are wide. This
+may explain why community policing has swept police departments in
+the United States and abroad in the past few decades. In a 1994 Na-
+tional Institute of Justice survey of police departments, more than 80
+percent of police chiefs polled stated that they were either implement-
+ing or intended to implement some aspect of community policing
+(McEwen 1995:27; see also Murphy 1992). The truth is, however, that
+the popularity and success of community policing is attributable in
+large part to the vagueness of the definition, to the national decline in
+crime beginning in the early 1990s, and to the fact that the expres-
+sion “community policing” is far more effective for public relations
+purposes than other terms such as “aggressive misdemeanor arrests,”
+“stop and frisk,” or “mass building searches.” It is important, then, to
+distinguish carefully between the specific types of community policing
+that are being discussed. For this reason, I will try to avoid using the
+term as much as possible, and turn instead to the more specific tech-
+niques of policing that make up the order-maintenance approach to
+criminal justice.
+
+New York City’s “Quality-of-Life Initiative”
+
+Rudolph Giuliani was elected mayor of New York City in 1993 on a
+platform that focused largely on crime, disorder, and quality-of-life is-
+sues, especially on the notorious “squeegee men.” Giuliani appointed
+William Bratton police commissioner in December 1993, and together
+they soon began implementing a policing strategy called the “quality-
+of-life initiative,” expressly premised on the broken windows theory
+
+
+48 + ILLUSION OF ORDER
+
+(Giuliani and Bratton 1994e:6). Both Giuliani and Bratton cite the
+“Broken Windows” essay as the main source of their initiative (Bratton
+1995; Bratton 1996:785-789; Bratton 1998:138-139, 152, 192; Giuliani
+1998 and 1999). In Bratton’s words, the essay “articulated and put into
+beautiful words what I had found from experience. I supported what
+[Wilson and Kelling] wrote because I had already lived it” (Bratton
+1998:139).
+
+The quality-of-life initiative was modeled on Bratton’s work in the
+New York subways. Bratton had first been appointed head of the New
+York Transit Police under Mayor David Dinkins in April 1990—re-
+cruited by George Kelling to implement a strategy of order main-
+tenance based on the broken windows concept (Bratton 1998:140).
+From 1990 to 1992, Bratton implemented an aggressive policy of mis-
+demeanor arrests in the subways. “We began to apply this [“Broken
+Windows”] concept to crime in the subways,” he writes. “Fare eva-
+sion was the biggest broken window in the transit system. We were go-
+ing to fix that window and see to it that it didn’t get broken again”
+(1998:152). Bratton aggressively pursued turnstile jumpers with sub-
+way station mini-sweeps. In addition, he changed the procedure for ar-
+rests. Instead of issuing what were known as “desk-appearance tick-
+ets’”—summonses which were generally disregarded—police officers
+began booking and processing suspects on the spot. Bratton initiated
+the “Bust Bus,” a city bus that was “completely retrofitted . . . into an
+arrest-processing center” (1998:155), He made a number of other
+changes at the Transit Police, including revamping radio equipment,
+moving the force to nine-millimeter semiautomatic weapons, and de-
+signing new uniforms. These changes were all part of a $40 million in-
+fusion into the Transit Police in 1990 from Governor Mario Cuomo
+(1998:172-176).
+
+As a result, ejections and arrests for misdemeanors both tripled
+within a few months of Bratton’s appointment—and, in fact, contin-
+ued to escalate through at least 1994 (Kelling and Coles 1996:132-
+133). As Bratton soon discovered, “many of those caught committing
+these small crimes were also guilty of larger crimes. One out of seven
+fare evaders had prior warrants out for their arrest. One out of 21 was
+carrying a handgun” (Kaplan 1997). The result was a sharp increase in
+arrests on outstanding warrants and gun possession (Purdy 1997).
+While the rate of arrests for felonies did not change, reported crimes
+
+The Order-Maintenance Approach + 49
+
+in the subway declined by about 50 percent from 1990 to 1995
+(Lardner 1995:56).
+
+When Bratton took over as police commissioner in early 1994, he
+began implementing a similar policy aimed at creating public order
+by aggressively enforcing laws against quality-of-life offenses such as
+public drunkenness, loitering, vandalism, littering, public urination,
+panhandling, turnstile jumping, prostitution, and other minor misde-
+meanor offenses (Giuliani and Bratton 1994e:6).
+
+Like the subway strategy, the quality-of-life initiative focused on ag-
+gressive arrests for minor misdemeanors (Giuliani and Bratton
+1994e:39-40). And, as in the subways, Bratton implemented a change
+in arrest procedures at the citywide level (Giuliani and Bratton
+1994e:9)—with similar results. “Very shortly into our program of deal-
+ing with squeegee operators—and I remember this—after the first
+group of arrests,” Giuliani recalls, “Police Commissioner Bratton came
+back to me and said that some very large percentage—don’t remem-
+ber the exact percentage—of the squeegee operators had warrants for
+other crimes, a number of them being violence crimes” (Onishi 1998).
+As in the subways, the order-maintenance strategy began netting a lot
+of other arrests.
+
+The quality-of-life initiative was one of a number of policing strate-
+gies that Bratton implemented during his two years as police com-
+missioner. Other strategies targeted gun possession, school violence,
+drug dealing, domestic violence, auto theft, and police corruption
+(Giuliani and Bratton 1994a, 1994b, 1994c, 1994d, and 1994f; Bratton
+1998:227-230). One other important initiative, for example, was
+called Operation Juggernaut, a strategy of flooding drug-infested
+neighborhoods with large numbers of police officers carrying out buy-
+and-bust operations, quality-of-life enforcement, and stops and frisks
+(Bratton 1998:272-278). Bratton shook up the NYPD in numerous
+other ways. He eliminated several layers of bureaucracy, appointed
+young and ambitious managers to top positions, and created a bottom-
+line mentality. He implemented a business school management-theory
+approach that brought him “a coterie of business school admirers”
+(“NYPD, Inc.” 1995; see also Lardner 1995; Bratton 1998:224). He in-
+creased the power of precinct commanders and instituted biweekly
+meetings, known as Crime Control Strategy Meetings or Compstat
+(for computer-statistics) meetings, where the top administrators would
+
+
+
+50 - ILLUSION OF ORDER
+
+grill precinct commanders on crime on their beat (Kelling and Coles
+1996:146; Bratton 1998:233). But, in the words of Bratton himself, the
+quality-of-life initiative was the “linchpin strategy” (1998:228; see also
+Giuliani and Bratton 1994e:7).
+
+Bratton’s successor, Howard Safir, continued the strategy of aggres-
+sive misdemeanor arrests, and also promoted a more aggressive stop-
+and-frisk policy. In 1997 Safir tripled the size of the Street Crime Unit
+(SCU)—originally a small, specialized plainclothes enforcement unit
+created in the 1970s under Police Commissioner Patrick Murphy,
+which was refocused on gun-oriented policing under Bratton
+(Giuliani and Bratton 1994a:12, 16)—to about 400 officers, and sharp-
+ened even further its focus on getting guns off the street by means of
+aggressive stop-and-frisk procedures. Safir credited the unit with about
+40 percent of all illegal gun confiscations in New York City in 1998.
+During 1998, the SCU, with only 435 officers out of a 40,000-member
+police force, was responsible for more than 10 percent of documented
+stop-and-frisk encounters citywide (Spitzer 1999:59). The unit stopped
+and frisked at least 45,000 people in 1997 and 1998 (Cooper 1999;
+Rosen 2000:26)—a conservative estimate based on reported searches
+only, which suggests that the real number was higher. The SCU re-
+ceived notorious attention in 1999 as a result of the shooting death
+of an unarmed man, Amadou Diallo, by four of its members. It has
+undergone changes since then, including a return to uniforms and an
+increase in the number of minority officers.
+
+New York City’s quality-of-life initiative has variously been called “or-
+der-maintenance policing,” “community policing,” “broken windows,”
+and “zero tolerance.” Very little, though, turns on the question of no-
+menclature. Both Giuliani and Bratton have used the various terms in-
+terchangeably since the inception of the policing initiative. Clearly,
+the initiative was originally premised on the broken windows theory.
+Equally clearly, the implementation of the initiative revealed other jus-
+tifications for its continued use. It has been continuously implemented
+in New York City in part because, it is believed, it promotes the broken
+windows theory and has produced increased orderliness in the city,
+but also because it has resulted in the arrest of suspects on outstanding
+warrants, as well as suspects linked to other crimes, and because it has
+functioned as a type of gun-oriented policing. In this sense, the most
+
+The Order-Maintenance Approach + 51
+
+appropriate label for New York City’s quality-of-life initiative is “order-
+maintenance” or “broken windows” policing.‘
+
+Chicago’s Anti-Gang Loitering Ordinance
+
+In June 1992 the city of Chicago enacted an anti-gang loitering ordi-
+nance. The ordinance prohibited any person from loitering with one
+or more other persons whom the police reasonably believed to be a
+member of a street gang. Specifically, the ordinance provided that
+“[w]henever a police officer observes a person whom he reasonably
+believes to be a criminal street gang member loitering in any public
+place with one or more other persons, he shall order all such persons
+to disperse and remove themselves from the area. Any person who
+does not promptly obey such an order is in violation of this section.”
+The ordinance defined loitering as “to remain in any one place with
+no apparent purpose.” The ordinance subjected any violator to a fine,
+to imprisonment for not more than six months, to community service,
+or to some combination of the three (Chicago Municipal Code §8-4-
+015 [added June 17, 1992]).
+
+The Chicago Police Department adopted implementing regula-
+tions in 1992, and began enforcing the ordinance gradually in 1993
+through most of 1995. During the three-year period of implementa-
+tion, the police issued over 89,000 orders to disperse and arrested over
+42,000 persons under the ordinance (Morales 1999:49; Schulhofer and
+Alschuler 2000:7). In 1995 alone, the police made over 22,000 arrests
+under the ordinance (Schulhofer and Alschuler 2000:13).
+
+Enforcement of the ordinance was enjoined in December 1995,
+when a state appellate court in Illinois ruled that the ordinance was
+unconstitutional for its vagueness, its overbreadth, and the fact that it
+criminalized the status of being a gang member (Youkhana 1995). The
+Illinois Supreme Court and the United States Supreme Court affirmed
+(Morales 1997 and 1999). Despite the temporary litigation setback,
+however, the city council of Chicago quickly got back to work on a new
+anti-gang loitering ordinance. Their task was made easy by Justice San-
+dra Day O’Connor, who, in a somewhat unusual maneuver for the Su-
+preme Court, had telegraphed to the city council, in a concurring
+opinion in Morales, how they might redraft the ordinance. “The term
+
+
+52 + ILLUSION OF ORDER
+
+‘loiter,’” O’Connor wrote, “might possibly be construed in a more lim-
+ited fashion to mean ‘to remain in any one place with no apparent
+purpose other than to establish control over identifiable areas, to in-
+timidate others from entering those areas, or to conceal illegal activi-
+ties. Such a definition,” O’Connor pregnantly suggested, “would avoid
+the vagueness problems of the ordinance as construed by the Illinois
+Supreme Court” (Morales 1999:68).
+
+Not surprisingly, the revised draft of the anti-gang loitering ordi-
+nance, which was passed by the city council in February 2000, by a vote
+of 44 to 5 (Fingeret 2000), defines “gang loitering” as remaining in any
+one place when the purpose is “to enable a criminal street gang to
+establish control over identifiable areas, to intimidate others from en-
+tering those areas, or to conceal illegal activities” (Chicago Munici-
+pal Code §8-4-015[d][1] [added February 16, 2000]). The revised
+ordinance limits enforcement to high-crime neighborhoods, as desig-
+nated by the police superintendent. It specifies the time period—
+three hours—during which the dispersal order remains in effect. And
+it adds a sentence enhancement for repeat offenders. The sentencing
+provision of the ordinance was revised to read:
+
+(e) Any person who fails to obey promptly an order [to disperse] under
+section (a), or who engages in further gang loitering within sight or
+hearing of the place at which such an order was issued during the three
+hour period following the time the order was issued, is subject to a fine
+of not less than $100 and not more than $500 for each offense, or im-
+prisonment for not more than six months for each offense, or both. A
+second or subsequent offense shall be punishable by a mandatory min-
+imum sentence of not less than five days imprisonment.
+
+In addition to or instead of the above penalties, any person who vio-
+lates this section may be required to perform up to 120 hours of com-
+munity service. (§8—4-015[e])
+
+The Chicago police started arresting people under the new ordi-
+nance in August 2000 (Belluck 2000). In addition, the Chicago coun-
+cil passed, at the same time, a narcotics-related anti-loitering ordi-
+nance very similar to the anti-gang ordinance. It too provided for a
+sentence enhancement for habitual offenders (Chicago Municipal
+Code §8-4-017 [added February 16, 2000]). These are but two of
+
+The Order-Maintenance Approach + 53
+
+dozens of targeted anti-loitering ordinances that were enacted in the
+1990s (Johnson 2000:A14).
+
+Youth Curfews
+
+Youth curfews are another very popular measure. In a 1997 survey of
+347 cities conducted by the United States Conference of Mayors, 276
+were found to have enacted a youth curfew; 190 of those had been en-
+acted within the previous ten years (U.S. Conference of Mayors 1997;
+Beaumont 1998). Since 1990, 90 cities with populations over 100,000
+have either enacted a new curfew or modified an existing one. More-
+over, four out of five cities with a population over 30,000 have curfews
+today (Privor 1999:420).
+
+Youth curfews are especially popular among mayors and city of
+ficials. When these officials were polled in the Conference of Mayors
+survey, 93 percent of the cities surveyed responded that curfews are
+useful. About 80 percent reported that curfews had made the streets
+safer for residents, and most had found that the curfews had resulted
+in decreased traffic at night, increased security for residents, and a de-
+cline in graffiti and vandalism. More than 80 percent of cities surveyed
+stated that the curfews helped to curb gang violence. These cities
+found that the curfews were an effective tool to reach potential gang
+members and that the curfews had helped to educate parents as to the
+signs of gang membership. Only nineteen surveyed cities reported
+that curfews were not useful. Twelve percent of the cities surveyed re-
+ported that curfews had no impact on street safety, noting that it is
+people over the age of seventeen who commit the most serious crime,
+and that the curfews are typically not enforced owing to lack of city re-
+sources (U.S. Conference of Mayors 1997).
+
+Other Policy Initiatives
+
+Police departments, municipalities, and courts have experimented
+with other order-maintenance and norm-focused strategies. In Chi-
+cago, for instance, the Housing Authority (CHA) began conducting
+mass building searches in September 1988. Between 1988 and 1994,
+the CHA, with the aid of the Chicago police and other law enforce-
+ment agencies, conducted searches of at least sixty buildings (Kirby
+
+
+54 + ILLUSION OF ORDER
+
+1994). In 1993 the CHA instituted an unwritten policy of conducting
+warrantless searches of entire buildings if random gunfire occurred
+in the area. This resulted in the warrantless searches, in the sum-
+mer of 1993, of several public housing projects, including the Robert
+Taylor Homes and Stateway Gardens (O’Connor 1994). The searches
+prompted the American Civil Liberties Union to file a federal law-
+suit. On February 14, 1995, United States District Judge Wayne
+Anderson issued a temporary injunction barring the searches, and on
+August 16, 1995, the injunction was made permanent (“Injunction
+Forbids Sweeps by CHA” 1995). According to the Chicago Tribune, the
+CHA has been attempting to get residents to agree formally to allow
+searches of their apartments as a rider to the standard lease, though
+residents were not being denied housing for failing to sign the agree-
+ment. The ACLU was planning to challenge this effort (Crawford
+1994).
+
+In Charleston, South Carolina, the chief of police implemented a
+juvenile snitching policy specifically designed to keep firearms away
+from schools. The New York Times reported, “With money from several
+local businesses, the Charleston police will now pay $100 to any stu-
+dent who provides information on a person who has an illegal hand-
+gun in a public place” (Butterfield 1996). Other cities, including
+Boston, have also implemented order-maintenance crackdowns as
+part of larger strategies to combat juvenile gun carrying (Kennedy
+1998:5) 5
+
+These are some of the diverse strands that together make up the order-
+maintenance approach to criminal justice. There are, of course, im-
+portant differences between the various theories and practices. The
+New Progressives, for example, do not advocate, like James Q. Wilson,
+incapacitating increased numbers of repeat offenders for lengthier pe-
+riods of time. In fact, it is precisely against this trend in criminal justice
+that Kahan and Meares revolted. Similarly, the New Progressives do
+not talk about “lower-class” individuals—even with the caveat, which
+Banfield repeatedly insisted upon, that “lower-class” is not a proxy
+term for “black” or “poor” (1974:235). To the contrary, the New Pro-
+gressives boldly speak on behalf of inner-city residents and the African-
+
+The Order-Maintenance Approach + 55
+
+American community. They claim to represent these communities and
+to be working on their behalf to improve their living conditions.
+Despite these important differences, the tradition of Banfield and
+Wilson and the New Progressives have a lot in common, especially
+at the conceptual level. What they share is the desire to build on and
+enrich the classical model of criminology. They all seek to enrich
+the economic notion of preferences. Banfield accomplished this with
+concepts such as “lower-class individuals,” “present-orientedness,” and
+“amoral familism”; Wilson by focusing on “human nature”; social
+norm theorists by developing social meaning and expressive prefer-
+ences. They also all seek to broaden the range of opportunities.
+Banfield and Wilson oriented their policy discussions toward reshap-
+ing situational factors; the New Progressives enrich the conception of
+opportunities by focusing on social meaning and possible changes in
+meaning. In addition, these various intellectual traditions share an im-
+portant focus on the social norm and meaning of orderliness. Their
+central insight is that order in a community may influence the behav-
+ior of neighborhood residents and outsiders in such a way as to im-
+prove the quality of life in the neighborhood and decrease serious
+
+criminal activity. And their insights have met with overwhelming popu-
+larity.

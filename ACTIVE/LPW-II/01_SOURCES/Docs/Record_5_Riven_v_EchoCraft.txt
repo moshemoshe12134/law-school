@@ -1,0 +1,3385 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+
+PHILIP RIVEN,
+Plaintiff-Appellant
+Civil Action No.
+1:23-cv-45678-CBA
+v.
+ECHOCRAFT PRODUCTIONS,
+Defendant- Appellee
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN
+DISTRICT OF NEW YORK
+
+RECORD ON APPEAL
+
+Revised from a problem originally written by Andrew Lent, Stuart Levitin, Benjamin Apfel, and Joshua Schilowitz
+
+1
+
+QUESTIONS PRESENTED
+1.​ Did the district court err in granting summary judgment for EchoCraft and finding that
+Mr. Riven had not established a prima facie claim of retaliation?
+2.​ Did the district court err in granting summary judgment for EchoCraft and
+determining that EchoCraft’s use of portions of Mr. Riven’s song, “Revere Paul
+Revere,” constituted fair use?
+
+1
+
+STIPULATIONS
+1.​ Parties may not cite cases, statutes, law review articles, treatises, or other
+materials, written, decided, enacted, or promulgated after December 31, 2025.
+2.​ Plaintiff has satisfied all issues regarding standing and jurisdiction for all claims brought
+forth in this appeal.
+3.​ There are no statute of limitations issues. Both parties have met all filing deadlines.
+4.​ The only issues to be decided on appeal are stated above in the Questions Presented.
+5.​ Parties waive all challenges based on procedural issues, including jurisdiction and venue.
+6.​ The parties agree that for purposes of establishing a prima facie case of retaliation,
+Riven has demonstrated that EchoCraft took an adverse action against Riven by firing
+him.
+7.​ Issues of contract law related to Riven’s emails with Toobin are not at issue.
+8.​ The parties agree that “Revere Paul Revere” does not constitute a work for hire.
+9.​ The parties agree that Riven’s copyright of “Revere Paul Revere” is valid.
+10.​Students should limit their copyright analysis to the four-factor test fair use test.
+11.​Students should limit their retaliation analysis to the plaintiff’s initial burden of
+establishing a prima facie case.
+
+2
+
+STATEMENTS OF JURISDICTION AND VENUE
+1.​ The United States District Court for the Southern District of New York had original
+jurisdiction over the subject matter of this claim pursuant to 28 U.S.C. §§ 1331 and
+1338.
+2.​ Venue is appropriate because EchoCraft Productions’s main office is located in New
+York, and this is where the events giving rise to these claims took place.
+3.​ The United States Court of Appeals for the Second Circuit has jurisdiction of appeal from
+the final decision of the Southern District of New York under 28 U.S.C. § 1291.
+
+3
+
+KEY STATUTORY PROVISIONS
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-3
+(a) Discrimination for making charges, testifying, assisting, or participating in enforcement
+proceedings.
+It shall be an unlawful employment practice for an employer to discriminate against any of his
+employees or applicants for employment, for an employment agency, or joint
+labor-management committee controlling apprenticeship or other training or retraining,
+including on-the-job training programs, to discriminate against any individual, or for a labor
+organization to discriminate against any member thereof or applicant for membership, because
+he has opposed any practice made an unlawful employment practice by this title [42 USCS §§
+2000e–2000e-17], or because he has made a charge, testified, assisted, or participated in any
+manner in an investigation, proceeding, or hearing under this title [42 USCS §§
+2000e–2000e-17].
+
+17 U.S.C. § 107. Limitations on exclusive rights: Fair use
+Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work,
+including such use by reproduction in copies or phonorecords or by any other means specified
+by that section, for purposes such as criticism, comment, news reporting, teaching (including
+multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.
+In determining whether the use made of a work in any particular case is a fair use the factors to
+be considered shall include—
+(1) the purpose and character of the use, including whether such use is of a commercial
+nature or is for nonprofit educational purposes;
+(2) the nature of the copyrighted work;
+(3) the amount and substantiality of the portion used in relation to the copyrighted work
+as a whole; and
+(4) the effect of the use upon the potential market for or value of the copyrighted work.
+
+4
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+v. ​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+No. 1:23-cv-45678-CBA
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+ECHOCRAFT PRODUCTIONS, ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+COMPLAINT
+
+Defendant
+---------------------------------------------------------------------X
+
+Plaintiff Philip Riven (“Riven”) files this Complaint against Defendant EchoCraft Productions
+(“EchoCraft”) and in support thereof alleges the following:
+NATURE OF THE PROCEEDINGS
+1.​ This is a civil action seeking damages against EchoCraft Productions for retaliation
+in violation of 42 U.S.C. § 2000e-3(a), contained in Title VII of the Civil Rights Act
+of 1964, 42 U.S.C. § 2000e et seq., as amended by the Civil Rights Act of 1991.
+2.​ This is a civil action seeking damages and injunctive relief against EchoCraft
+Productions for copyright infringement under the Copyright Act of the United States,
+17 U.S.C. § 101.
+JURISDICTION AND VENUE
+3.​ This Court has original jurisdiction over the subject matter of this claim pursuant to 28
+U.S.C. § 1331 and 28 U.S.C. § 1338.
+4.​ Plaintiff Philip Riven is a citizen of New York and is domiciled in New York, NY.
+
+5
+
+5.​ At all material times, Defendant EchoCraft Productions was a corporation formed and
+operated in New York. EchoCraft Productions is headquartered at 215 Mercer Street,
+New York, NY 10012.
+6.​ Venue is proper in this Court pursuant to 28 U.S.C. § 1391(b)(2) because a substantial
+part of the events and injury giving rise to Plaintiff’s claims has occurred and continues
+to occur in the Southern District of New York.
+PARTIES
+7.​ Plaintiff is Philip Riven (“Riven”), a former employee at EchoCraft Productions.
+8.​ Defendant is EchoCraft Productions (“EchoCraft”) a New York City-based
+entertainment conglomerate with satellite offices nationwide.
+BACKGROUND
+9.​ On or about September 4, 2018, Riven joined EchoCraft as a member of the
+country song-writing team.
+10.​In or around February 2020, after a string of positive performance reviews,
+Riven was promoted to Manager of the country song-writing department.
+11.​On or about December 21, 2022, at a holiday party for EchoCraft employees, Riven,
+Jackie Moses (manager of the education songwriting department), and several of their
+employees engaged in a conversation in which Moses’ employees expressed concerns
+that employees in her department were receiving lower bonuses than Riven’s
+employees who had received comparable performance reviews. The vast majority of the
+employees in Moses’ division were women.
+12.​On or about January 10, 2023, Riven and Moses approached Daphne Sniff, head of the
+songwriting division of EchoCraft, to express their concerns about discrepancies in
+bonuses awarded between their departments.
+13.​At the meeting, Sniff told Riven that while she did not believe EchoCraft discriminated
+in assignment of bonuses, Riven was welcome to look into the matter.
+
+6
+
+14.​Between January and in or about May 2023, Riven interviewed approximately 81
+EchoCraft employees across approximately 12 departments, asking them about their
+performance reviews, bonuses, and base salaries.
+15.​On or about July 5, 2023, Sniff informed Riven that he had failed to meet his
+department’s songwriting quotas for the previous six consecutive months. Riven was
+issued a formal warning.
+16.​Upon information and belief, on July 5, 2023, Sniff informed Moses that she had failed
+to meet her department’s songwriting quotas for the previous six consecutive months.
+Moses did not receive a formal warning.
+17.​On or about August 18, 2023, Riven e-mailed a summary of his findings on EchoCraft’s
+assignment of bonus awards to Sniff. In an email dated on or about August 19, Sniff
+replied, “I take these concerns very seriously. However, are you sure this is the best use
+of your time right now?”
+18.​On or about December 1, 2023, Riven composed an educational song about Paul Revere
+(“Revere Paul Revere”) for his daughter in order to help her study for her Advanced
+Placement United States History class.
+19.​On or about December 21, 2023, EchoCraft fired Riven, citing Riven’s failure to meet
+song-writing quotas as a contributing factor in his termination.
+20.​As a consequence of the popularity of “Revere Paul Revere” at both his daughter’s
+school and several others, between in or about January and February 2024, Riven
+engaged in negotiations with the principal of Columbia Grammar School, Elle Toobin,
+for use of Riven’s Paul Revere composition and future educational songs. Toobin paid
+Riven an advance of $500.
+21.​On or about January 2, 2024, Riven registered a copyright with the U.S. Copyright
+Office for his song “Revere Paul Revere.”
+22.​Based on information and belief, on or about January 3, 2024, Ryan Raine, EchoCraft’s
+CEO, discovered the original copy of “Revere Paul Revere.”
+
+7
+
+23.​On or about January 15, 2024, EchoCraft released a near-duplicated version of Revere
+Paul Revere, titled “Revere Paul Revere?”, through EchoCraft’s not-for-profit
+education division (“EchoCraft Ed”), which produces educational American History
+songs targeted to a high school audience.
+24.​After dissemination at Columbia Grammar high school in January 2024, “Revere Paul
+Revere?” became known among teenagers and educators.
+25.​On or about February 12, 2024, Toobin terminated Columbia Grammar’s ongoing
+negotiations with Riven.
+26.​Upon information and belief, as of September 2024, commercial interest in Riven’s
+original composition has effectively vanished.
+
+FIRST CAUSE OF ACTION: RETALIATION
+27.​Plaintiff Riven repeats and alleges the averments contained paragraphs 1 through 19
+as if fully set forth herein.
+28.​Defendant EchoCraft was aware of Riven’s investigations into bonus award practices
+at the company.
+29.​Defendant EchoCraft cited Riven’s failure to meet songwriting quotas as a contributing
+factor in his termination. However, Jackie Moses held an equivalent position in
+another department and similarly failed to meet her quotas without receiving a warning
+or termination.
+30.​Pursuant to 42 U.S.C. § 2000e–3(a), Defendant EchoCraft retaliated against Plaintiff
+Riven, who lost income and career opportunities as a result of EchoCraft’s adverse
+action of terminating him.
+SECOND CAUSE OF ACTION: COPYRIGHT INFRINGEMENT
+31.​Riven repeats and realleges the averments contained in paragraphs 1 through 26 as if
+fully set forth herein.
+8
+
+32.​Riven registered and maintains a copyright for “Revere Paul Revere.”
+33.​Through its conduct, EchoCraft Ed has violated Riven’s exclusive rights in his
+copyrighted work, “Revere Paul Revere” and the lyrics contained therein, under 17
+U.S.C. § 106.
+34.​EchoCraft Ed created “Revere Paul Revere?” for a commercial purpose.
+35.​EchoCraft Ed, by producing the song, negatively affected the market for “Revere Paul
+Revere” and derivative works.
+
+PRAYER FOR RELIEF
+Wherefore, Plaintiff demands judgment on his Complaint and requests that this Court grant an
+order:
+For monetary damages including statutory damages, emotional distress, lost income,
+and lost career opportunities in excess of the jurisdictional minimum of this
+court;
+For injunctive relief;
+For post-judgment interest, at legal rate;
+For attorney’s fees and cost of suit;
+For such other and further relief as the Court deems just and proper.
+
+/s/ John Locke
+John Locke, Attorney for Plaintiff
+Locke and Associates, LLP
+82 W. 57th St., New York, NY 10027
+Date: September 5, 2024
+9
+
+FOR THE UNITED STATES DISTRICT COURT
+IN THE SOUTHERN DISTRICT OF NEW YORK
+PHILIP RIVEN,
+
+laintiff
+Civil
+Action No.
+1:23-cv-45678
+-CBA
+
+v.
+ECHOCRAFT
+PRODUCTIONS,
+
+ANSWER TO
+COMPLAINT
+Defendant
+
+ADMISSIONS AND DENIALS
+Defendant by and through counsel, answers the Complaint as follows:
+1.​ Defendant admits to the allegations set forth in paragraphs 1-10, 16-17, 19, 22, 24, and
+32.
+2.​ Defendant has insufficient knowledge or information to form a belief as to the truth of the
+allegations put forth in paragraphs 11-15, 18, 20-21, and 25-26.
+3.​ Defendant denies the allegations put forth in paragraphs 23, 28-30, and 33-35.
+
+AFFIRMATIVE DEFENSES
+FIRST AFFIRMATIVE DEFENSE
+1. Defendant asserts that they have a reasonable belief that their use of “Revere Paul Revere”
+is protected by fair use under U.S.C § 107.
+
+10
+
+/s/ Alexandra Rousseau
+Alexandra Rousseau, Attorney for Defendant
+Rousseau, Graham, & Kilmer LLP
+395 W. 55th St.
+New York, NY 10027
+
+Date: September 19, 2024
+
+11
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff
+v.
+No. 1:23-cv-45678-CBA
+Deposition of Philip Riven
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+APPEARANCES:
+On behalf of the Plaintiff:
+John Locke
+Locke and Associates, LLP
+On behalf of the Defendant:
+Alexandra Rousseau
+Rousseau, Graham, & Kilmer LLP
+Pursuant to notice, the deposition of Philip Riven was taken on
+February 17, commencing at 9:00 am at the offices
+
+of Rousseau,
+
+Graham, & Kilmer LLP, 395 W. 55th St., New York, NY
+
+10027.
+
+It is hereby stipulated and agreed that the reading and signing
+of this deposition are not waived. Philip Riven, duly been sworn
+to tell the truth, the whole truth, and nothing but the truth,
+testifies as follows:
+
+12
+
+Questioning by Alexandra Rousseau, Esq., Attorney for Defendant:
+Q: Good morning, Mr. Riven. My name is Alexandra Rousseau, and I
+represent EchoCraft Productions in this matter. Please state
+your full name for the record.
+A: Philip Riven.
+Q: Please state your full address for the record.
+A: 300 West End Avenue, New York, New York, 10023.
+Q: Are you currently employed?
+A: No.
+Q: Where was your last place of employment?
+A: EchoCraft Productions.
+Q: How long did you work at EchoCraft?
+A: About five years, from September 2018 until I was fired in
+December 2023.
+Q: And in what capacity were you hired?
+A: I was hired as a songwriter in the country music department.
+Q: What responsibilities did that role involve?
+A: Well, it was what it sounds like. I wrote country songs and
+pitched them to artists.
+Q: To whom did you report in that role?
+A: I reported to Daphne Sniff, head of the songwriting
+division. Q:​And did you get along with your superiors?
+
+13
+
+A: Yes. They liked me a lot. We got along well. I was promoted
+after two years to manage the department.
+Q: The country songwriting department?
+A: Yes.
+Q: What were your duties as manager?
+A: I oversaw a team of songwriters – between 12 and 15 over my
+time there. I managed their songwriting and helped them work
+with our clients to make sure the department was producing
+songs that would find commercial and critical success.
+Q: What sort of feedback did you get from your superiors while
+you served as manager?
+A: I did a good job. I got really positive reviews during my
+first two years as manager.
+Q: I’d like to show you a document I’ve marked as Exhibit A. Do
+you recognize this document?
+A: Yes, those are my performance reviews from 2021 through 2023.
+Q: I’d like to submit this document as Exhibit A to the record.
+[Exhibit A was marked for the record]
+Q: Let’s start with the reviews from 2021 and 2022. How would
+you characterize these reviews?
+A: They are very positive. I did a good job.
+Q: The reviews seem to focus on your department’s songwriting
+credits. Could you explain what those are?
+A: Essentially, any time one of our songs get produced, we get a
+credit. EchoCraft keeps track of how many credits each
+department receives.
+14
+
+Q: Would you say the number of credits your department receives
+is a significant metric for evaluating your performance?
+A: Credits definitely matter, but you can see the reviews also
+emphasize my leadership abilities and the work environment I
+created.
+Q: But there are expectations for credits each year, are there
+not?
+A: Yes, there’s an expected quota of about 25 songs per quarter.
+Q: And the reports indicate you exceeded these numbers in 2021
+and 2022. Is that correct?
+A: Yes.
+Q: Let’s turn now to your performance review from 2023.
+A: That’s fine with me.
+Q: The review rates your performance as “failing to meet
+expectations.” What happened?
+A: What happened was that they weren’t okay with the research I
+was doing into the bonuses.
+
+15
+
+Q: We’ll get to the bonuses in a minute if that’s okay. For
+now, I’d like to talk about the review. It says your department
+failed to meet songwriting credit expectations for six
+consecutive months. Is that accurate?
+A: Yes, it’s accurate. It was a slow time for country music.
+Our clients just weren’t interested.
+Q: In 2024, did you ever speak with your team of songwriters
+about their decline in credits?
+A: I had a few individual conversations with writers about how
+things were going, but nothing formal. We all seemed to agree it
+was just a dip in the market. Could have been related to
+generative AI.
+Q: The report also mentions that you displayed a lack of
+interest in your work. Is that true?
+A: I don’t think so.
+Q:​ It says here that you decided to skip the Annual Conference
+for Country Songwriters in 2023.​ What is that conference?
+A: It’s a convention for country songwriters. Lots of artists
+show up, and it’s generally a good opportunity to network.
+Q: Did you attend that conference in 2021?
+A: Yes.
+Q: Did you attend that conference in 2022?
+A: I did.
+Q: Why did you decide not to attend that conference in 2023?
+
+16
+
+A: My daughter had a piano recital that weekend that I didn’t
+want to miss. I made sure to catch up on what I missed at the
+conference by talking to a few friends of mine at other
+companies who attended.
+Q: And were you told that your department was not meeting its
+quotas at any point in 2023?
+A: Yeah, from Daphne. She issued me a formal warning that I was
+on probation for my department’s failure to meet songwriting
+quotas for six consecutive months. I got that in July 2023.
+Q: Do you recognize this document?
+A: That’s a letter recording my formal warning.
+Q: I’d like to introduce Exhibit B to the
+record. [Exhibit B was marked for the record]
+Q: When did you receive this warning?
+A: On July 7th, 2023.
+Q: Based on this warning, you had notice that your department
+was underperforming, correct?
+A: Yes, but there was little I could do to control the lack of
+interest from our clients.
+Q: Can we talk a bit more about the songwriting credits? I’d
+like to show you a document I’ve marked as Exhibit C. Do you
+recognize this document?
+A: Yes. That’s a report of my department’s songwriting credits
+between 2021 and 2023.
+
+17
+
+Q: I’d like to introduce Exhibit C to the record.
+[Exhibit C was marked for the record]
+A: Does this look accurate to you?
+Q: Yes. I think that’s accurate. This is a common report that we
+run internally.
+Q: What does the report show?
+A: It shows my department was putting out more than 25 songs per
+quarter through 2022.
+Q: And what is the number of songs per quarter in 2023?
+A: Under 20 for each quarter.
+Q: So, what happened in 2023?
+A: Well, there was a decrease.
+Q: What caused the decrease in 2023?
+A: Well, that’s a complicated question. It was a bunch of
+factors. One, generative AI became a thing that songwriters
+started to use. Second, EchoCraft transferred three of my
+best songwriters in June of that year, so we had less
+manpower for half the year.
+Q: How many songwriters were in your department until June?
+A: Fifteen.
+Q: So, starting in June, you had twelve?
+A:​ Yes.
+
+18
+
+Q: Why did EchoCraft transfer the writers?
+A: Well, they said it was necessary for staffing reasons. But I
+think it was to begin the process of pushing me out.
+Q: Who told you it was for staffing reasons?
+A: Daphne.
+Q:​ And were those three employees transferred to other
+departments within the company?
+A: Yes.
+Q:​ To your knowledge, were those other departments busier than
+the country department?
+A: I think they were having a good year. But like I said, these
+things come and go.
+Q: Are employee transfers like that typical at EchoCraft?
+A: They happen every now and then, but never with such short
+notice – they transferred my writers within a week - at least
+that I am aware of. Also, the timing seems to indicate they
+had other motives.
+Q: Can you explain what you mean by that – the timing?
+A:​ Yes.​ EchoCraft transferred three of my songwriters on short
+notice a few months after I started researching the bonus
+structure at the company.
+Q: Let’s talk about that research into bonuses. How did you
+decide to begin that project?
+A: Well, I’d say the whole thing began at the holiday party
+in 2022.
+
+19
+
+Q: What happened at the holiday party?
+A: Well, we have this holiday party every year. AndQ: Sorry to interrupt. I just want to confirm the date of the
+event.
+A: It was December 21, 2022. I remember because it was the day
+before my daughter’s birthday.
+Q: Ok. Please continue.
+A: Well, that year, the holiday party happened to be on the
+same day as people got their bonuses for the year. And a bunch
+of my employees were talking with a bunch of Jackie’s employees
+about their bonuses.​ Eventually, they sort of figured out that
+it seemed like Jackie’s folks were getting lower bonuses that
+mine.
+Q: Who is Jackie?
+A: Jackie Moses, she has the same job as me but in the
+educational music department.
+Q: And those employees brought their concerns about bonuses to
+your attention?
+A: Yeah. The group of them came over to me and Jackie to talk
+about it at the party.
+Q: How many employees spoke with you?
+A: It was three male employees from my department and four women
+from Jackie’s. All songwriters, all great employees.
+Q: They all held positions at the same level?
+A: Yes.
+
+20
+
+Q: And what did they tell you?
+A:​ They told us that they had been talking, and it sounded like
+my writers were getting higher bonuses than Jackie’s writers.
+Q: Did their concerns surprise you?
+A: A little. I mean, I run my department really well, so at
+first, I just assumed that my employees outperformed Jackie’s I was glad they were getting good bonuses, you know?
+Q: During that conversation, did you ask the employees about the
+basis for their belief?
+A:​ I mean, they said they had been talking to each other.
+Q:​ Did you ask them for details about their productivity over
+the past year?
+A:​ Well, no, we were in the middle of a holiday party.
+Q: Taking a step back here for a second, what’s the process for
+bonus assignments?
+A: Well, the managers like me and Jackie submit our performance
+reviews to an inter-division board that assigns bonuses.
+Q: Who sits on this board?
+A: The heads of the divisions. So Daphne Sniff, my boss, she’s
+on it. Along with the heads of marketing, legal, talent
+acquisition, etc.
+Q: In calculating bonuses, what does the board consider other
+than the performance reviews?
+
+21
+
+A: For songwriters, they look to how the department is doing in
+terms of credits. But I have no clue what they consider outside
+that.
+Q: So after the group raised its concern with you and Jackie,
+how did the conversation continue?
+A: Well, you know, Jackie was there, and she said she had given
+her employees glowing reviews, too. And then one of the
+employees, I don’t remember which one specifically, but one of
+them said maybe their department was getting lower bonuses
+because the department was made up of mostly women.
+Q: Did that employee provide a reason for that theory?
+A: I think it was just numbers. Jackie’s group had like 12
+women and 3 or 4 men compared to my department, which had 10
+men and 5 women at the time.
+Q: What did you say when the employee suggested that gender
+might have something to do with bonus assignments?
+A: I told them all I would look into it.
+Q: Anything else?
+A: No, that was the end of the conversation.
+Q: What were your thoughts on this theory at the time?
+A: I was skeptical, but I thought it was worth looking into.
+Q: What did you do next?
+A: Well, a few weeks later, so at some point in January of
+2023, I went to Daphne Sniff, who runs the songwriting
+division. I had been thinking about the conversation at the
+holiday party, and I couldn’t really come up with a good
+explanation for the
+
+22
+
+different bonuses the songwriters had received. So I expressed
+my concern to her that my employees were getting higher bonuses
+than Jackie’s.
+Q: Did you mention anything regarding women at that time?
+A: I wasn’t certain it was gender based, but I did mention
+something to Daphne about Jackie’s department having a solid
+number of women. I certainly felt that might be the cause.
+Q: And what did Ms. Sniff say?
+A: She told me she wasn’t sure why the bonuses would differ.
+She’s on the committee, and she said she didn’t think the
+committee discriminated in any way in assigning bonuses.
+Q: What did you say in response?
+A: I said I wanted to check out if this was a real issue. And
+Daphne said she doubted I’d find anything, but that I was free
+to poke around.
+Q: What did you do after you met with Ms. Sniff?
+A: Well, I asked Jackie if she wanted to look into this with
+me. She said she was a little worried about how it would look
+for her to be investigating bonus assignments, so I just
+started going around on my own to different departments and
+sort of asking around about what sort of bonuses people were
+getting.
+Q: How long did your research last?
+A: I started pretty slowly, but it was about four months – from
+January until like mid-May of 2023.
+Q: How many employees did you interview?
+
+23
+
+A: Around 80 in all, in 12 different departments in the
+songwriting, marketing, and talent acquisition divisions.
+Q: How did you pick the people you interviewed?
+A: I pretty much just knocked on the doors of any
+non-management-level employees and interviewed to whoever was
+willing to speak with me.
+Q: What sort of questions were you asking employees during your
+research?
+A: Well, the interviews were pretty brief. I asked about their
+general feelings about how EchoCraft treats its employees, and
+I asked them about their bonuses.
+Q: Did you ask the employees about the factors that go into
+their bonus assignments?
+A: No. Like I said, I’m not sure how bonus assignments work
+outside songwriting departments. I know for us, they consider
+how departments are doing quota-wise, but I don’t know how that
+works for the Marketing department, for example. And frankly it
+didn’t seem like it mattered, if within departments men were
+receiving higher bonuses than women. How a department is doing
+overall shouldn’t have an effect on that, so I wasn’t really
+interested in asking about it.
+Q: And what did you discover during these interviews?
+A: I asked about people’s bonuses from the previous year and
+discovered that in almost all departments, the men were getting
+higher bonuses on average than the women. Eventually, I sent
+that information in a report to Daphne.
+Q: Can you describe this report?
+
+24
+
+A: It’s the email exchange containing the report I sent to
+Daphne in August about my investigation.
+Q: I’d like to show you a document I’ve marked as Exhibit D. Do
+you recognize this?
+A:​ Yes, this is the email I sent to Daphne. It contains the
+report I just mentioned.
+[Exhibit D was marked for the record]
+Q: What does this exchange say?
+A: Well, here, the email dated August 18th, 2023 it summarizes
+my findings and states my opinion that EchoCraft was giving its
+female employees lower bonuses than male employees.
+Q: Did your email contain any positive findings?
+A: Yes, I said that overall employees were happy with the
+sexual harassment policies at EchoCraft, and the parental leave
+and time off policies as well.
+Q: One last thing: I’d like to show you a document I’ve marked
+as Exhibit E.
+[Exhibit E was marked for the record]
+Q: Do you recognize this document?
+A: Yes, I do.
+Q: What is
+it?
+A: That’s my termination letter.
+Q: When did you receive it?
+A: On December 20, 2023.
+25
+
+Q: What was the context of the letter? Had you been informed of
+the termination beforehand?
+A: Well, the day before, I was called in to meet with Blaire
+Sinenski in HR, and she told me they’d have to let me go.
+Q: What were the reasons provided for your termination during
+that meeting?
+A: Their reason was that my department had been underperforming.
+Q: And what did you say in response?
+A: I said what I’ve told you, which is that it was just a rough
+year for country music, and that they should give me more time. As
+I’m sure you’re aware, there are computer programs now, AI, that
+generate lyrics in mere minutes. We’re adjusting as an industry.
+Q: Were the reasons in the letter here in Exhibit E consistent
+with that meeting?
+A: I guess. EchoCraft said they terminated me because of my
+“unsatisfactory work performance,” but the real reason is because
+I was looking into their discriminatory bonus award practices.
+They didn’t want to deal with the bad PR or any sort
+of suit, so
+they figured they’d just get rid of me.
+Q:​ Did you raise this concern – this theory of yours – with Ms.
+Sniff when she informed you of the company’s decision to terminate
+your employment?
+A: No. I was too busy trying to keep my job.
+Q: Okay, shifting gears a little bit, I’d like to discuss your
+song about Paul Revere. I’d like to show you a document I’ve
+marked as Exhibit G.
+[Exhibit G was marked for the record]
+
+26
+
+Q: Do you recognize this document?
+A: Yes. This document contains the lyrics to my song, “Revere
+Paul Revere.”
+Q: Is this your original work?
+A: Yes. Thank you for asking that. The lyrics and accompanying
+music were all products of my brain.
+Q: When did you write the song?
+A: December 2023, mostly.
+Q: While you were still working for EchoCraft?
+A: Yes, but on my own time. I wrote it over a few weeks at night
+while home.
+Q: Why did you write the song?
+A: I wrote the song to help my daughter study for a U.S. History
+test. She’s in high school. She doesn’t like books and hates
+reading, but she loves music. I want her to do well in school and
+to get into a good college. I figured writing her a song about
+Paul Revere would help her do well on her test about Lexington and
+Concord.
+Q: Are you a history buff?
+A: Sort of. I mean I don’t spend all my free time reading
+biographies. But my family went to Boston this summer and
+
+27
+
+happened to visit Paul Revere’s grave. So I knew a bit about him
+already. I read his Wikipedia page after visiting his grave.
+Q: What was your process for writing the song?
+A: I took facts that my daughter needed to know for her test and
+arranged them in a creative way. I can’t really explain my
+process. I am a songwriter, so I know how to do this kind of
+thing.
+Q: Indeed, Mr. Riven. Would you describe yourself as a fan
+of Paul Revere?
+A: A fan? Yeah, why not? He was a Patriot - an important figure
+in the Revolution. Who’s not a fan?
+Q: Just asking. So your song also puts Revere in a positive
+light?
+A: Yeah I’d say so. I called him a “great man.”
+Q: Did your daughter like the song you wrote for her?
+A: I think so. I mean, she shared it with her friends at school.
+She seemed to be listening to it leading up to her test.
+Q: Did the school principal reach out to you about the song?
+A: Yes. She emailed me about the song.
+Q: Were you surprised by that?
+A:​ Yes. I mean, I’d never even met her before.
+
+28
+
+Q: I’d like to show you a document I’ve marked as Exhibit I.​ Do
+you recognize this?
+A: Yes, it’s my email chain with Elle Toobin, the principal of
+my daughter’s high school, Columbia Grammar.
+[Exhibit I was marked for the record]
+Q: What did you discuss with Ms. Toobin in this email exchange?
+A: Well, as you can see, Ms. Toobin liked my song a lot and
+thought the kids in my daughter’s class had performed well
+because of it. She offered me a $500 advance to negotiate a deal
+for future
+
+educational songwriting exclusively with her school
+
+and for use of “Revere,” in whatever capacity the school desired.
+Q: Did she offer you anything else?
+A: I mean, she wrote, as you can see, that the school would
+want 5-10 songs during the next school year and that I would
+receive a set amount for each song. She also mentioned the
+possibility of a bonus structure if more than 75% of students
+received a 4 or above on the AP exam.
+Q: I’d like to show you a document I’ve marked as Exhibit H. Are
+you familiar with this document?
+[Exhibit H was marked for the record]
+A: Yes. It’s EchoCraft’s version of my song.
+Q: At what point did you first learn of EchoCraft’s song?
+
+29
+
+A: My daughter brought it to me. The school told them to use
+“Revere Paul Revere?” and not my song.
+Q: How did the school “tell her to use” this song?
+A: Her teacher told the class to study with the new version from
+now on. Apparently, the teacher said it was a “better” version
+and “updated” to help the students.
+Q: And did the school expressly forbid students from using your
+Paul Revere song?
+A: I don’t think so.
+Q: Looking at Exhibit H, do you think EchoCraft’s song puts
+Revere in a positive light?
+A: Yeah, overall. Obviously, it adds a few lines. But I think
+it’s clear to everyone that they copied my song almost word for
+word. They stole it.
+Q: Would you please refer to line 5 of EchoCraft’s song, Exhibit
+H. Isn’t that an entirely new line?
+A: Yes, but seven of the lines are identical.
+Q: Looking at your song, Exhibit G, the last line. Why did you
+write that Revere revealed no secrets while captured?
+
+30
+
+A: Our tour guide at his grave site mentioned something like
+that. If I recall correctly, she said Revere was brave even
+while held by British soldiers.
+Q: Are you sure that’s accurate?
+A: I mean, in all honesty, I wouldn’t swear that that’s
+accurate. It’s what our guide said. But I also don’t see how
+that’s relevant or important.
+Q: Well, would you please look at line 11 of EchoCraft’s song,
+Exhibit H. Do you see that EchoCraft’s song says Revere did
+reveal secrets?
+A: Yes, I can see that. Maybe they just needed a way to pretend
+that their song is different. I’m sure they didn’t make the
+change because they were so concerned about accuracy. Can’t you
+see that their song is a rip off of mine?
+Q: Stepping back a bit, did you go on to write any more songs
+for Ms. Toobin?
+A:​ I did not.
+Q: Did you try to talk to the school about EchoCraft’s song?
+A: I did, but they didn’t believe me. I went into the school’s
+office after Ms. Toobin’s final email and spoke to her a bit.
+She reiterated that they chose to work with EchoCraft. So I no
+longer have a deal with the school.
+Q: That’s just one school. What about other schools in New York?
+A: I tried reaching out, I sent a copy of my song, but no school
+was receptive.
+
+31
+
+Q: When did you first find out that Ms. Toobin would not be hiring
+you to write songs?
+A: In February of 2023.​ If you look at that chain of emails
+you just showed me, you can see that eventually, Ms. Toobin
+wrote that the school went with EchoCraft.
+Q: Ms. Toobins’ email refers to an advance. Why did you only
+receive a “preliminary negotiation advance”?
+A: My understanding was that they paid me to make sure I would
+negotiate with them first. I did that. We worked out a rough
+deal.
+Q: I have no further questions. Thank you, Mr. Riven.
+Questioning by John Locke, Esq., Attorney for Plaintiff:
+Q: Good afternoon, Mr. Riven. I’d like to follow up a bit
+about your investigation at EchoCraft and the report that you
+ultimately submitted to Ms. Sniff.
+A: OK.
+Q: Did you present your project as focused on gender disparities
+from its inception?
+A: Yes, gender was certainly on my mind given the makeup of our
+departments.
+Q: Did you present your concerns to Ms. Sniff as such when you
+first reached out to her?
+A: I’m not sure what phraseology I used, but I think Daphne
+definitely understood that those were my concerns.
+Q: And in general terms, what were the results of your
+investigation?
+32
+
+A: I found that in nine out of twelve departments, men were
+awarded higher bonuses in 2022 than women.
+Q: And what did Ms. Sniff reply when you sent her your findings?
+A: She replied that she wasn’t sure my investigation was the
+best use of my time.
+Q: What do you think Ms. Sniff meant by that?
+A: Well, it was clear to me she was either unhappy with the
+investigation, or that she was warning me that other people at
+EchoCraft were unhappy with it. Either way, somebody was
+trying to get me to stop pursuing the bonus award
+investigation.
+Q:​ Did you ever get the sense that your coworkers or
+supervisors disapproved of your research?
+A: Yes. There was a lot of talk around the office about what I
+was doing. I passed Ryan Raine, the CEO, in the hall a few weeks
+before I was terminated, and he completely ignored me. And the
+email from Daphne telling me the investigation wasn’t the best
+use of my time.
+Q: Did you ever prioritize your research over managing your
+songwriters?
+A: Absolutely not. I was pretty dedicated to my investigation
+though, because I think companies like EchoCraft really need to
+be accountable for their practices. That being said, I always
+tried to maximize the output of my department. Whenever
+employees had items for me to review or ideas to run by me, I
+got it done. But that transfer of three of my best songwriters
+definitely spread me a little thin.
+Q: Why do you think the employees were transferred?
+A: To make it harder for me to meet quotas so I’d be easier to
+fire.
+33
+
+Q: When were the employees transferred?
+A: In June of 2023.
+Q: At that point how well-known was your investigation?
+A: I hadn’t yet sent my report to Daphne, but she knew what I
+was doing, and there was lots of talk around the office about
+it.
+Q: Was investigating discriminatory practices part of your
+job description?
+A.​ No. Of course, as a manager, I’m supposed to look out
+for my subordinates, and if someone reports something like
+sexual harassment to me, I have to move that report up the
+chain, but this investigation was not something I had to do
+as part of my job.
+Q: Let’s talk a bit about your performance review from 2023.
+A: It was a pretty negative review. They talked about my
+department’s performance. But, like I said, Jackie’s department
+was doing just as poorly, and I had also lost those songwriters.
+Q: Thank you. Do you mind if we talk a little bit about
+“Revere Paul Revere”?
+A: Of course not.
+Q: You said your daughter shared your song with her friends at
+school?
+A: Yes.
+Q: How many people at school did she share it with?
+
+34
+
+A: I’m not sure. A few of her friends came over one night and
+told me that my daughter had shared it with her class.
+Q: Did your daughter’s friends like the song?
+A: I think they did. They did seem to say it helped them study
+for their test.
+Q: Is it possible that the song was shared beyond your
+daughter’s class?
+A: I think that’s very likely. It’s a big school with a lot of
+U.S. History classes, and they were all being tested on
+Lexington and Concord.
+Q: Is it possible the song was shared beyond your daughter’s
+school?
+A: It’s possible. I think it was shared with a few other
+schools. My daughter mentioned that some of her friends at
+other schools were listening to it.
+Q: You mentioned earlier that you learned about EchoCraft’s
+song – “ Revere Paul Revere?” – from your daughter. Did she
+mention any similarities between the songs to you?
+A: Any similarities? Of course! She came home at some point in
+January and said, “Dad, EchoCraft stole your song!” And she’s
+right.
+
+Any person with half a brain can see they stole my
+
+song. They added two lines to my song. That’s it.
+Q: With reference to the songs, Exhibits G and H, what do you
+see as the main similarities?
+
+35
+
+A: Where do I start? My song has eight lines. They added lines,
+but seven of the fourteen lines in their song are exactly the
+same as my song.
+Q: Why do you think they added more lines?
+A: Well, they knew they couldn’t just sell my song, so they had
+to do something different, but I guess they weren’t creative
+enough to start from scratch and write their own song.
+Q: Shifting gears to your emails with Ms. Toobin, why do you
+think the school never signed a contract with you?
+A: I spoke to Ms. Toobin. No lawyers were involved. It was just
+two people talking about a deal. Also, like I said earlier,
+EchoCraft is a powerful company. Even though their song is
+basically the same as mine, they might have just felt it’s less
+risky to go with EchoCraft.
+Q: Did you understand the email exchange to be a final deal?
+A: Yes. She responded, “Sounds good.” I figured that meant we’re
+good - it’s done.
+Q: Why do you think Toobin offered you an advance?
+A: I’m a professional songwriter - I’m skilled. I’m not an
+amateur. She probably saw how much my daughter’s class was
+helped by my song.
+Q: What classrooms did you envision your song for?
+A: I was targeting AP classes in high schools. Like
+
+my
+
+daughter’s class.
+
+36
+
+Q: At any point did you worry that the school would go with
+someone else?
+A: No.
+Q: Why do you think they went with someone else?
+A: Well, when Toobin told me, I had a lot of ideas. Maybe
+EchoCraft said bad things about me. Maybe Toobin was worried
+that I had been fired. Maybe Toobin thought I stole
+EchoCraft’s song. Maybe they just thought it’s safer to go
+with the big company. Probably a combination of those factors.
+Q: You said before that other schools were not receptive. Why do
+you think that is?
+A: No school gave me any detail really, but I heard from my
+daughter that other schools were using EchoCraft’s song. It
+could be that they preempted me and monopolized the local
+market.
+Q: That’s it for me. Thanks, Mr. Riven.
+
+37
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN
+Plaintiff,
+v.
+No. 1:23-cv-45678-CBA
+Deposition of Daphne Sniff
+ECHOCRAFT PRODUCTIONS,
+Defendant.
+---------------------------------------------------------------------X
+APPEARANCES:
+On behalf of the Plaintiff:
+John Locke
+Locke and Associates, LLP
+On behalf of the Defendant:
+Alexandra Rousseau
+Rousseau, Graham, & Kilmer LLP
+Pursuant to notice, the deposition of Daphne Sniff was
+taken on February 18, 2025, commencing at 9:00 am at the
+offices of Locke & Associates, LLP, 82 W. 57th St., New York,
+NY 10027.
+It is hereby stipulated and agreed that the reading and signing
+of this deposition are not waived. Daphne Sniff, duly been sworn
+to tell the truth, the whole truth, and nothing but the truth,
+testifies as follows:
+
+38
+
+Questioning by John Locke, Esq., Attorney for Plaintiff:
+Q: Good morning, Ms. Sniff. My name is John Locke, and I
+represent the plaintiff, Philip Riven, in this matter. Please
+state your full name for the record.
+A: Daphne Sniff.
+Q: Please state your full address for the record.
+A: 495 West 185th Street, New York, NY 10033.
+Q: Where are you employed, Ms. Sniff?
+A:​ At EchoCraft Productions.
+Q: How long have you worked at EchoCraft?
+A: About 25 years. I was hired in March of 2000.
+Q: In what capacities have you served during your time at
+EchoCraft?
+A: Well, I started as a songwriter and became in charge of the
+Hip Hop department 6 years in. I ran that department until
+2017. About 8 years ago, I was promoted to supervisor of the
+songwriting division, the position I hold today.
+Q: What does it mean to be the supervisor of the songwriting
+division?
+A: As the division head, it is my responsibility to make sure
+that all the different songwriting departments are hitting their
+quotas for the year and creating music that is up to a certain
+standard. EchoCraft is one of the top record labels in the world
+and it is my job to make sure it stays that way.
+Q: What do you mean when you say “hit their quotas”?
+A: Each songwriting department is expected to produce a certain
+amount of songs in a given quarter. The expectations differ
+39
+
+between departments depending on numerous factors, the most
+relevant being how popular their particular genre is.
+Q: How many songwriting departments are there?
+A: Here at EchoCraft, we have eight different departments.
+Q: And you personally oversee all of these departments?
+A: Indirectly. But each department has its own head, who manages
+the day to day; they deal directly with the songwriters. I
+oversee the department heads and meet with them regularly to set
+goals and review their performance.
+Q: As supervisor, did you oversee Philip Riven?
+A: Yes. For a couple of years.
+Q: What was his position at the company?
+A: When I supervised him, he was the head, or manager, of the
+country song writers’ department.
+Q: Did you like Mr. Riven?
+A: What do you mean?
+Q: Did you like him? Did you find him pleasant to be around?
+Respectful?
+A: Sure. Me and Philip got along pretty well.
+Q: Was he a hard worker?
+A: From what I could tell, he seemed to work pretty late hours.
+Q: What was Mr. Riven’s position before he was manager of the
+country division?
+A: He was a songwriter.
+40
+
+Q: Was it your decision to promote him from songwriter to
+manager?
+A: I was partially responsible, sure. Myself and Mr. Raine made
+the final decision.
+Q: Is it correct to say that Mr. Riven was very good at his
+job?
+A: I am not sure I would say that…
+Q: Well, when did he become manager of the country songwriters?
+A: I believe it was February of 2020, right before the
+pandemic.
+Q: And are you aware as to when he started at EchoCraft?
+A: I believe it was September 2018.
+Q: Is it typical to become a manager after such a short time?
+A: I wouldn’t say it’s common, but it might have happened
+before. Anyways, this case is sort of different because we
+needed to find someone pretty quick after the abrupt departure
+of the country manager. The previous manager got a job at Pear
+Inc. and left us hanging in the middle of the year.
+Q: You say it might have happened before, do you know of it
+happening before?
+A: I don’t, no.
+Q: And it took you six years to become manager of the Hip Hop
+department, right?
+A: Yes.
+Q: Would you say that is around the average time it takes to
+become a manager of a department?
+41
+
+A: I am not sure, probably around that.
+Q: So it’s fair to say that Mr. Riven made an impression?
+A: Sure. I mean listen, I am supervisor of the division, he
+wouldn’t have become a manager without my approval. He was a
+rock-solid songwriter. Just not sure I would say he was very
+good at his job as a manager -- certainly not towards the end
+of his time at EchoCraft.
+Q: I would like to discuss a document that has been previously
+introduced as Exhibit A. Do you recognize this document?
+A: Yes, it is Riven’s performance reviews for the years 2021,
+2022 and 2023.
+Q: Who wrote these?
+A: I did.
+Q: Let's start with the 2021 and 2022 reviews. Do these reviews
+indicate that Mr. Riven was performing his job as manager
+satisfactorily?
+A: Sure, at that time.
+Q: They both indicate that he was “exceeding expectations,”
+correct?
+A: Yes.
+Q: In fact, you wrote that he was a “powerhouse” in your 2022
+report, did you not?
+A: I did, but as you can see that changed in 2023, when Philip
+began to fail to meet expectations.
+Q: You mean the year he was investigating EchoCraft for sex
+discrimination?
+
+42
+
+A: Listen he had a job to do, and he wasn’t doing it.
+Q: Well, let's go to 2022. Did Mr. Riven come to meet with you
+about an issue he had around January that year?
+A: Yeah, I believe it was right after the holidays.
+Q: And what was that meeting about?
+A: Philip was concerned that the employees in Jackie Moses’s
+department were receiving reduced bonuses even though they
+received performance reviews comparable to those he gave his
+employees in the country songwriting department.
+Q: Which department did Ms. Moses oversee?
+A: The education department.
+Q: And why did Philip come to you with this?
+A: I assume because I was his supervisor. But perhaps also
+because I actually serve on the cross-division committee
+responsible for assigning end-of-year bonuses.
+Q: How does that committee assign bonuses?
+A: Well, we primarily look at performance reviews. The managers
+of each department are really in the best position to tell us how
+employees are doing. Then we also consider things like how the
+employee’s department is performing and how long the employee has
+been around.
+Q: What do you mean by how the department is performing? What
+metrics do you take into account when assessing departmental
+performance?
+A: The most important factor is that the department hits its
+quotas. If the department isn’t producing music, it isn’t doing
+its job.
+
+43
+
+Q: Was it clear to you when Mr. Riven talked to you that he felt
+EchoCraft might be discriminating against women?
+A: It was not, no. As presented, his concern was a departmental
+issue, not a gender one.
+Q: So he didn’t mention women at all?
+A: The way he framed it really seemed to be about the department
+issue. I think he used the phrase “the women in Jackie’s
+department” when he brought their concerns to me, but to me, it
+just seemed like he was interested in seeing if some departments
+were seeing higher bonuses than others.
+Q: How many women were there in Mr. Riven’s department at the
+time?
+A: Hm, let me see... I think that at that time, 5 of the 15
+songwriters in the country department were women.
+Q: And how many women were in Jackie Moses’s department?
+A: 12 women and 3 men.
+Q: So, wouldn’t you say it's reasonable to assume that
+under-compensation of a mostly female department might indicate
+a gender discrimination issue?
+A: No, honestly, I didn’t think too much about the whole thing.
+Q: And why is that?
+A: Because I found it hard to believe that there was any
+discrepancy. I told Philip at the time that as a member of the
+cross-divisional committee, I had not witnessed the committee use
+any sort of criteria that would unilaterally favor one department
+or one group over another.
+Q: Did you tell Mr. Riven anything else?
+A: Yeah, I think I said something along the lines that he could
+poke around if he wanted to make sure.
+44
+
+Q: But you didn’t seek a formal investigation?
+A: No, again, I really didn’t think there was anything to uncover.
+Q: So why did you let him poke around?
+A: I mean it is always possible, right? Also, as manager, he has
+some amount of autonomy, and I didn’t want to micro-manage.
+Q: Do you know if Mr. Riven ultimately conducted an investigation
+of his own?
+A: He did. Ultimately, he sent me a report about it in August
+2023.
+Q: But did you know that Mr. Riven was conducting an investigation
+before receiving the report?
+A: I did.
+Q: How did you become aware of that investigation?
+A: I first became aware of it when I received an email from our
+CEO, Ryan Raine in May of 2023.
+Q: I would like to show you a document I’ve marked as Exhibit F.
+[Exhibit F was marked for the record]
+Q: Do you recognize this document?
+A:​ Yes, this is the email Raine sent me about Philip’s
+investigation?
+Q: How would you describe Mr. Raine’s tone in the email?
+A: I am not sure you can tell tones from emails.
+Q: Okay, I’ll rephrase. Did you understand from the email that
+Mr. Raine was unhappy with Mr. Riven’s investigation?
+45
+
+A: I suppose so. Certainly, he appeared to be blindsided and
+confused about what was going on.
+Q:​ What makes you say that?
+A: Well, he said in the email that he recently learned that Mr.
+Riven had a “vendetta” against the company. It's understandable
+that he wanted to make sure that the company wasn’t being
+sidetracked by that.
+Q: Did you think Mr. Riven had some sort of vendetta?
+A: No, but based on his email, it was clear that Ryan thought
+that might be the case.
+Q: Did you understand the email to be instructing you to take any
+action against Mr. Riven?
+A: No, I did not.
+Q: He did say, though, to keep Mr. Riven “in line,” didn’t he?
+
+46
+
+A: Yes.
+Q: How did you interpret that?
+A: I understood that to mean to just to my general job as his
+supervisor, but not an order to do anything in specific. He
+wanted me to make sure everything ran smoothly in all of the
+departments I supervise, which is my job.
+Q: Did you respond to Mr. Raine’s email?
+A: I did not. As you can see from the email, he told me not to,
+just to handle it. That is his thing, he doesn’t want to deal
+with things hands on – get into the details – he just wants any
+issues resolved.
+Q: And have you spoken with Mr. Raine about the investigation
+since that email?
+A: Only in June 2023 to inform him that I received a formal
+report from Philip outlining his findings and that I would be
+doing by own evaluation of the report.
+Q: What was his response to that?
+A: He just told me to keep him updated.
+Q: Okay, we will return to your evaluation later, but for now what actions did you take after receiving Mr. Raine’s initial
+email, did you communicate with Mr. Riven regarding the
+investigation?
+A: Not until receiving the report, no. I figured at that point it
+was best to let it play out. I figured the investigation was
+probably nearing its conclusion anyway and that I would deal with
+it then.
+
+47
+
+Q: But you did reprimand Mr. Riven shortly after May 2023, didn’t
+you?
+A: That was in a totally unrelated matter. Philip’s department
+had failed to meet their quotas six months consecutively. We had
+a meeting in July 2023 to discuss how we could improve his
+department’s performance going forward.
+Q: And what was Mr. Riven’s explanation for his department’s
+declining performance?
+A: He said it was just a bump in the road and that he hoped to
+get back on track shortly.
+Q: Did you two discuss ways the group could improve?
+A: Yes. We spoke about keeping focus on the goals at hand and
+about maintaining proper communication and guidance with the
+songwriters.
+Q: And what happened at the end of that meeting?
+A: I issued Mr. Riven a formal warning. I was concerned about the
+trend developing and wanted to nip it in the bud.
+Q: And what does a formal warning entail?
+A: It is an oral warning that serves to alert a manger - in this
+case Philip - that they are underperforming and that there could
+be negative consequences, such as termination, if they fail to
+improve.
+Q: Did you put this formal warning in writing?
+A:​ Yes, just so that we have a record that the warning was
+given.
+
+48
+
+Q: Did you meet with the managers of any other departments around
+that time – July of 2023?
+A: Yes, Jackie Moses, manager of the educational songwriting
+department, was also underperforming her quotas at that time.
+So, I met with her too.
+Q: And did Jackie receive a formal warning?
+A: No, she did not.
+Q: Why is that?
+A: Jackie had been at the company 20 years longer than Philip and
+had served as a manager for 12 years longer. She had a proven
+track record, including points where her department’s performance
+had declined and then rebounded. I had many fewer concerns with
+her than I did with Philip. And evidently, I was right, as she
+ultimately turned it around, while Philip unfortunately did not.
+Which is why Philip was let go.
+Q: Well, let's talk about this termination. Who decided to
+terminate Mr. Riven’s employment?
+A: It was my decision, though it was approved by Mr. Raine.
+Q: Was his investigation one of the causes of his termination?
+A: Of course not. I, along with Ryan, decided to terminate Philip
+solely because he had not hit his quotas for the last year, and I
+had seen little improvement since I issued a formal warning.
+Q: So, it’s your position that Mr. Riven was terminated for poor
+performance?
+A: Yes.
+
+49
+
+Q: When exactly did you decide he should be let go?
+A: I issued the formal warning in July hoping for improvement,
+and it didn’t come. At some point in November I was pretty sure
+Philip was no longer in our future plans and finally in December
+I made the final determination with Mr. Raine.
+Q: Did you ever meet with Riven regarding his impending
+termination?
+A: No, but I did have Ms. Sinenski meet with him.
+Q: Isn’t that unusual? For a supervisor not to meet with a
+manager of a department when they are to be terminated?
+A: Listen, it isn’t what I usually do, but Riven was getting on
+my nerves. I promoted him early, expected big things - but
+instead he failed to meet quotas and cause issues with Mr.
+Raine. It was time for him to go.
+Q: So instead you had the head of HR meet with him? What did
+they discuss?
+A: I told her to inform Mr. Riven that he had been terminated
+because he had continuously underperformed his quotas for the
+last year and had not shown signs of improvement. To my
+understanding, she conveyed this information to Riven and he went
+on his way.
+Q: Do you recognize this document I’ve marked as Exhibit E?
+[Exhibit E was shown to Ms. Sniff]
+A: Yes, this is Philip’s termination letter. This was sent to
+Mr. Riven by email and regular mail the day of his meeting with
+Ms. Sinesnki.
+Q: Did you write this letter?
+
+50
+
+A: No, it was written by our head of HR, Blaire Sinenski.
+Q: Did you consult with Ms. Sinenski about the content of this
+letter?
+A: Just with regards to the reason for his termination - his
+failure to meet his quotas, otherwise it was all HR.
+Q: About those quotas, isn’t it true that three songwriters were
+transferred from Philip’s team around the time of your warning in
+July?
+A: Yes. It was in late July, after our meeting regarding his
+performance.
+Q: Is it possible that that is what contributed to Mr. Riven’s
+inability to hit his quotas after the meeting?
+A: Philip’s job is to get the job done with whatever we give him.
+Twelve songwriters were more than enough to get the job done. We
+don’t make excuses at EchoCraft.
+Q: Why were these songwriters transferred in the first place?
+A: We needed them for another department that recently began
+growing at a much faster pace than we anticipated.
+Q: Which department was that?
+A: The Pop department.
+Q: Are decisions like this generally made on such short notice?
+A: Generally not. We try to make all employment and personnel
+decisions at the start of every year. But as I said, the Pop
+department grew faster than we anticipated.
+
+51
+
+Q: Did any other departments have songwriters transferred out to
+help the Pop department?
+A: No, it was just from the country department.
+Q: And why was that? Couldn’t the burden have been spread amongst
+the departments?
+A: These three songwriters had all started at the company
+recently and were being underutilized in Philip’s department. It
+just made sense to transfer them at that time.
+Q: What do you mean underutilized?
+A: They were the lead songwriter of record for very few songs
+that the country department produced.
+Q: Before we finish, let us backtrack for a second. The report
+from Mr. Riven’s investigation--you mentioned he ultimately sent
+it to you?
+A: Yes, he emailed me his findings in August 2023.
+Q: Well, let me find that quickly. Here, Exhibit D. This is what
+you are referring to? Do you recognize this?
+A: Yes, this is the report that he emailed me.
+Q: Did you read the Mr. Riven’s entire report, including the
+section including the “bottom line?”
+A: Yes, I did.
+Q: So, is it fair to say that by the time you fired Mr. Riven you
+were aware that his investigation focused on discrimination
+against women with regards to EchoCraft’s bonus allotment system?
+
+52
+
+A: No, I wouldn’t say it like that. I was aware that Philip was
+looking into his department as a whole being undercompensated
+through lower bonuses. This is the context in which I read the
+report. Yeah, I saw that line about women, but there was also
+another line in the report how women are treated very nicely by
+EchoCraft as well.
+Q: And how did you respond?
+A: As you see in the email I sent in response to his report, I
+told him that I took any allegations regarding our bonus system
+very seriously, but that perhaps he could be doing better things
+with his time. Philip’s department was slacking and I imagine
+part of that was due to his everlasting investigation. He was
+wasting time.
+Q: Isn’t an investigation into possible discriminatory practices
+at EchoCraft a good use of one’s time?
+A: Again, I did not think much of the line regarding women.
+Honestly, before Riven was fired, I only gave it a quick glance,
+so I am not even sure I saw the line about women until later when
+I did my actual evaluation.
+Q: And when did you actually conduct an evaluation of the report?
+A: Sometime in early 2024, after Riven had already been
+terminated.
+Q: Did anyone else at EchoCraft help you with it?
+A: No.
+Q: Did you inform Human Resources that you were conducting this
+evaluation?
+A:​ No, I did not.
+
+53
+
+Q: Did you ever reach a conclusion about Mr. Riven’s report?
+A: Yes, while I saw departmental discrepancies in bonuses,
+ultimately, I concluded that many of those could be explained by
+numerous other factors and therefore no further action was
+needed.
+Q: What other factors were those?
+A: I don’t feel comfortable revealing how we make those
+decisions, so if it's not really necessary…
+Q: Okay. You said that you took these allegations seriously, yet
+only months later took a close look at the report?
+A: Yes, I had other things going on at the time I received
+Riven’s report -- like his underperformance. Contrary to what you
+might think, I have other responsibilities outside of catering to
+your client’s needs.
+Q: Okay, thank you for your time, Ms. Sniff.
+Questioning by Alexandra Rousseau, Esq., Attorney for Defendant:
+Q: Returning to Riven’s promotion to manager in 2020--is there a
+reason he was promoted in February of that year?
+A: Yes. As I mentioned before, the manager of the country
+songwriters at the time abruptly left the company, so we needed
+to find someone in the middle of the business year to take his
+place. That’s always a challenge in our industry where a cohesive
+unit amongst coworkers is key and might be disrupted by bringing
+in outside talent.
+Q: So is it fair to say that had you had more notice it is
+possible Riven might not have been given the position?
+
+54
+
+A: It is possible, sure. We were scrambling and needed to find
+someone quickly to fill the vacated role. While Mr. Riven had
+only been at the company for a short time, he seemed like he
+could do that job, and we couldn’t really afford to second guess
+ourselves at that time.
+Q: Thank you. And now transitioning to when Mr. Riven first came
+to you regarding his concerns about the bonus discrepancies - did
+he once mention the words gender discrimination or anything like
+that?
+A: No, he did not.
+Q: Did he mention there was a possible Title VII violation?
+A: No, he did not.
+Q: So you had no reason to know Mr. Riven was investigating
+possible discrimination against women?
+A: No. Philip was going on and on about how Moses’s department
+was being underpaid. He did say something about women, but it
+didn’t sound to me that he thought the basis of the problem was
+gender. Trust me, I am a woman that wants other women to succeed
+at EchoCraft. If I thought he was bringing a gender
+discrimination issue to me, I would have spoken to someone in HR
+and asked for a formal investigation.
+Q: And then it still wasn’t clear to you when you received the
+final report, correct?
+A: Yeah, pretty much. There was stuff here and there that
+suggested that the bonus assignment system might have been
+affected by gender differences, but that didn’t appear to be the
+main purpose of the report, nor was there clear evidence that
+alerted me to this fact. This appeared to me to be a departmental
+issue, not much more.
+
+55
+
+Q: Okay, moving on. You said Mr. Riven performed poorly in 2023?
+A: That's correct.
+Q: Do you recognize this exhibit? [Exhibit C was shown to Ms.
+Sniff]
+A: Yes, this chart shows the country department’s songwriting
+credits by quarter, as compared to our company quotas. What
+you’ll see here is that while Riven was making his quotas in 2021
+and 2022, he began to fail to hit them in 2023.
+Q: When did you notice that he wasn’t hitting his quotas?
+A: We update this log after every quarter, so it first came to my
+attention at the end of March 2023.
+Q: And when did the trend begin to concern you?
+A: After the second quarter of 2023. Philip did well his first
+year and a half or so, but after he underperformed for two
+straight quarters, I was very concerned, especially for someone
+without a long track record of strong performance, as he was new
+to the job.
+Q: What did you do at that point?
+A: A met with him and issued a formal warning.
+Q: What did you hope to accomplish with a formal warning?
+A: Philip was fairly new, and I wanted to give him a wakeup call,
+which would hopefully refocus him. I really did it for his
+benefit, I didn’t want to have to let him go, nobody wanted that.
+Q: And did his performance ultimately improve?
+
+56
+
+A: No, he didn’t improve, so we had to make the tough decision to
+let him go in December of 2023.
+Q: And regarding the transferring of the three songwriters. Mr.
+Riven still had 12 under his leadership, correct?
+A: Yes.
+Q: And is 12 more or less average for a department of similar
+amount of work to the country songwriting department?
+A: I am not sure what is average, but 12 is certainly enough to
+get the job done. The Rap department has to hit similar quotas to
+the country department and also just has 12.
+Q: And as for Ms. Moses, you thought she would be able to turn it
+around even without a formal warning?
+A: Yeah, Jackie had been there a long time, I didn’t have much
+concern about her. She has always done good work over the years
+and my meeting with her was just to give her a heads up to get
+back on track, but I’m sure she was already aware she needed to
+do better.
+Q: So, Ms. Moses wasn’t warned because of her strong track record
+that Mr. Riven didn’t have?
+A: Yes. She earned that through her hard work over the years and
+her awesome contacts throughout the music industry. She’s been at
+EchoCraft longer than I have. She isn’t someone we would let go
+of easily.
+Q: Understood. So, in short, what you’re saying is that Mr. Riven
+was fired solely because of his underperformance?
+A: Correct.
+
+57
+
+Q: Mr. Raine never told you or implied indirectly that you should
+fire Mr. Riven?
+A: Well ultimately, of course, he signed off on Philip’s
+termination, but he never indicated I should fire Philip before I
+approached him regarding Philip’s underperformance.
+Q: Mr. Raine did not tell you to take any formal action against
+Mr. Riven or with regards to the investigation?
+A: No, he did not. He was concerned about some rumors he heard,
+but that's about it. It is my job to manage the songwriter
+managers, nobody else's, even Ryan’s.
+Q: I have no further questions. Thank you, Ms. Sniff.
+
+58
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff
+v.
+No. 1:23-cv-45678-CBA
+Deposition of Jacqueline Moses
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+APPEARANCES:
+On behalf of the Plaintiff:
+John Locke
+Locke and Associates, LLP
+On behalf of the Defendant:
+Alexandra Rousseau
+Rousseau, Graham, & Kilmer LLP
+Pursuant to notice, the deposition of Jacqueline Moses was
+taken on February 18, 2025, commencing at 1:00 pm at the offices
+of Locke & Associates, LLP, 82 W. 57th St., New York, NY 10027.
+It is hereby stipulated and agreed that the reading and signing
+of this deposition are not waived. Jacqueline Moses, duly been
+sworn to tell the truth, the whole truth, and nothing but the
+truth, testifies as follows:
+Questioning by John Locke, Esq., Attorney for Plaintiff:
+59
+
+Q: Good afternoon, Ms. Moses. My name is John Locke, and I
+represent the plaintiff, Philip Riven, in this matter. Please
+state your full name for the record
+A: Jacqueline Moses. I go by Jackie.
+Q: Please state your full address for the record.
+A: 734 W. 57th St., New York, NY 10019.
+Q: Are you employed at the moment?
+A: Yes, I work at EchoCraft as head of the Educational
+Songwriting department. I actually formed the department after
+spending ten
+years at EchoCraft in various different roles,
+and I’ve held my current position for 15 years.
+Q: Do you know Philip Riven?
+A: Yes, I’ve known him since he joined EchoCraft in September
+2018.
+Q: Did you work closely with him at EchoCraft?
+A: Not really. We managed different departments. So I’d see him
+at inter-departmental meetings and at corporate functions, but
+no, we didn’t work together closely on a regular basis.
+Q: Are you subject to the same sort of management and oversight
+as Mr. Riven?
+A: Well, we both report to Daphne Sniff, and our jobs are pretty
+much identical on paper.
+Q: I’d like to talk about your department’s work output in 2022.
+How did it compare to previous years?
+A: We didn’t put out as many songs as we had in previous years.
+
+60
+
+Q: Why was that?
+A: I’m not sure. I think it just wasn’t a good time for
+educational music. It could be that schools were experimenting
+with AI too.
+Q: Did anyone at EchoCraft speak to you about this dip in
+performance?
+A: Yeah, in July of 2023, Daphne called me in and mentioned
+that we should do our best to pick things up in the second half
+of the year. But it was nothing serious.
+Q: Did you have this conversation in person?
+A: Yes.
+Q: Had this sort of thing happened before?
+A: Yeah, every few years there tends to be a dip. On the other
+hand, of course, sometimes you have a great year, like 2014,
+when my department outperformed every other one. It’s a
+cyclical business.
+Q: On these other occasions, were you ever concerned about
+repercussions from your supervisor?
+A: No, we always bounce back.
+Q: Were you issued a formal warning in 2023?
+A: What? No, of course not. There was no need, it was just a
+fluke of a year.
+Q: And did your department’s performance pick up in the second
+half of the year?
+A: Yes, it did as a matter of fact. We met our quota for the
+last quarter of 2023. I was never really concerned.
+
+61
+
+Q: And with regards to my client’s investigation, did you ever
+hear anything about it?
+A: Yes, I was at the holiday party when my employees and
+Philip’s were discussing their bonuses. I honestly didn’t think
+much of it at the time. A few weeks later he asked me if I
+wanted to help him look into what was going on. I chose not to,
+but I did hear rumors from a few different employees that a
+pretty large-scale investigation into gender disparity in bonus
+awards was going on.
+Q: Why did you decide not to help him with the investigation?
+A: Oh, please. You don’t last this long as a woman in the music
+business by getting involved in stuff like this.
+Q: What do you mean?
+A: I just mean that I didn’t want to go poking around.
+Q: I had one last question for you regarding the “Revere?”
+song. As department head of the songwriting division, I assume
+you had what to do with the writing of “Revere?”
+A: Funny you mention that, I actually had very little to do
+with that song. Ryan is a very enthusiastic Revere buff, and he
+decided that he wanted to oversee the writing of that song all
+on his own.
+Q: Thank you for your time. No further questions.
+Questioning by David Gordon, Esq., Attorney for Defendant:
+Q: Hi, Ms. Moses. I think I really just have one or two
+questions for you. During 2023 when your department was
+struggling, were you ever concerned for your job?
+
+62
+
+A: Not really. I started this department. I’m an institution.
+Other record labels have tried and failed to replicate what I’ve
+created here. I’ve got all the business ties, and the resources,
+and all the talent. These things ebb and flow, and EchoCraft
+knows that. So no, I was never really concerned about losing my
+job.
+Q:​ Thank you. That is all.
+
+63
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff
+v.
+No. 1:23-cv-45678-CBA
+Deposition of Ryan Raine
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+APPEARANCES:
+On behalf of the Plaintiff:
+John Locke
+Locke and Associates, LLP
+On behalf of the Defendant:
+Alexandra Rousseau
+Rousseau, Graham, & Kilmer LLP
+Pursuant to notice, the deposition of Ryan Raine was taken
+on February 18, 2025, commencing at 3:00 pm at the offices of
+Locke & Associates, LLP, 82 W. 57th St., New York, NY 10027.
+It is hereby stipulated and agreed that the reading and signing
+of this deposition are not waived. Ryan Raine, duly been sworn
+to tell the truth, the whole truth, and nothing but the truth,
+testifies as follows:
+Questioning by John Locke, Esq., Attorney for Plaintiff:
+Q: Please state your full name for the record.
+64
+
+A: Ryan Raine.
+Q: Please state your full address for the record
+.A: 360 Maitland Avenue, Teaneck, NJ 07666.
+Q: How long have you worked at EchoCraft Productions?
+A: For my entire adult life. I started here as just a mailroom
+worker 45 years ago. Worked hard every day until I made it to
+the top.
+Q: And what exactly is “the top” Mr. Raine? A: Well, it means I am
+CEO, is what it means.
+Q: What positions did you hold between mailroom worker and CEO?
+A: I served in the marketing department for some time, before
+eventually becoming Vice President of operations, and from there
+I became CEO.
+Q: Can you please describe your responsibilities as CEO of
+EchoCraft?
+A: I supervise everything at the company and I take that role
+seriously--I try to be as hands-on as I can.
+Q: And as CEO do you oversee the songwriting divisions?
+A: I oversee everything in the company in one way or another,
+but not directly of course. Our very capable Daphne Sniff is in
+charge of our songwriting divisions. As far as I am concerned,
+it
+is her baby. I’m just there to check in now and then and
+to assist in any way I can.
+Q: So, you don’t deal directly with any songwriter managers?
+
+65
+
+A: No, not really. I review their performance reviews and work
+with Ms. Sniff in making personnel decisions, but otherwise my
+direct involvement is minimal.
+Q: But you do directly interview all candidates for manager
+positions, correct?
+A: Correct. Nobody is hired as a manager without getting an
+interview with me first. Any hiring or firing decision Ms. Sniff
+wants to make has to be approved by me.
+Q: Did you interview Mr. Riven before he became manager?
+A: Yes, I did.
+Q: And what was your impression of him?
+A: That he was an upstanding young man who had a bright future
+ahead of him. He had been doing a great job as a songwriter
+within the country group.​ Everyone seemed to like him there,
+and I thought he would make a fine addition to the leadership
+team.
+Q:​ Was it typical to promote someone to manager after only
+being at the company for such a short time?
+A: It was out of the ordinary, but the country manager had left
+on short notice, so we needed to find someone quickly. Riven
+had strong performance reviews and seemed eager to get the job,
+so we gave him a shot.
+Q: So would you say Riven was headed for “the top”?
+A: [laughter] I’m not sure that I would say that. But he had a
+chance to be a part of this company's higher leadership one day.
+I wouldn’t have okayed his hire for the manager’s position
+otherwise. It’s a shame he never got to realize his potential at
+EchoCraft. He had a real chance to blossom at the company.
+
+66
+
+Q: Why was Mr. Riven fired from the company?
+A: He was fired for underperformance. It is my understanding that
+he failed to meet his quotas each and every
+month last year,
+and that cannot go on at EchoCraft.
+Q: And you made the decision to fire Mr. Riven?
+A: I signed off on it, like all other personnel decisions. But
+it was Daphne who brought the issue to my attention in
+December of 2023.
+Q: What issues about Mr. Riven’s performance did Ms. Sniff
+bring
+to your attention in December?
+A: She alerted me to the fact that Riven’s department had failed
+to meet their quotas the last 12 months consecutively.
+Q: Had Ms. Sniff raised any concerns about Mr. Riven’s
+performance with you before December 2023?
+A: No, and I wouldn’t have expected her to. December is when we
+have our year-end meeting regarding personnel and finalize who
+will be hired and fired for the upcoming year. A lot of projects
+begin to wrap up towards the end of the calendar year, so it
+makes sense to make any needed changes come January.
+Q: And from what Ms. Sniff conveyed to you, you thought Mr.
+Riven deserved to be terminated?
+A: Yes. I generally defer to Daphne when deciding whether to
+terminate a manager, as she is the one that works with them on
+the day-to-day. Here, she showed me the performance reviews and
+recommended Riven be terminated. I had no information
+suggesting a contrary course of action might be appropriate,
+so I gave it my go-ahead.
+
+67
+
+Q: Mr. Raine, did you ever ask Ms. Sniff to fire Philip Riven?
+A: What? No. I just told you, Ms. Sniff came to me with the
+recommendation.
+Q:​ I’d like to show you a document.
+[Exhibit F was shown to Mr. Raine.]
+Q: Do you recognize this document?
+A: Yes, this is an email that I sent to Daphne in May 2023.
+Q: And can you explain the context behind this email?
+A: Sure, May 2023 I was making rounds through the office and I
+overheard a conversation between two employees in our
+advertising division. They said something about Riven being on
+some sort of vendetta against the company through some massive
+investigation. This surprised me, so I emailed Daphne to make
+sure that everything was under control.
+Q: Based on what you overheard, what was the investigation
+about?
+A: I wasn’t exactly sure. I heard them say something about
+people getting paid less in bonus than they were due.
+Apparently Riven felt some people were getting shorted in their
+end of year bonuses.
+Q: Did anything in the conversation make mention that it was an
+investigation geared towards gender discrimination?
+A: No, not that I can recall.
+Q: So you’re saying women in particular were not mentioned at
+all in the conversation you overheard?
+
+68
+
+A: No, I am not saying that. There was some mention of Riven
+particularly focusing on departments with a lot of women, but
+that didn’t mean much to me at the time.
+Q: Why didn’t that mean anything to you at the time? Wouldn’t
+that indicate to you there might be a gender issue at play?
+A: No, not at all. I really had very few details, I didn’t
+really know how to make sense of what I was hearing. That is
+why I emailed Daphne to deal with the situation.
+Q: What exactly did you write to her?
+A: Oh, you know, not much. Just a quick email about making sure
+everything was running smoothly.
+Q: Well, take a second to read Exhibit F containing your email
+so we can be on the same page.
+A: Okay [reads over email].
+Q: What did you mean when you told Ms. Sniff to keep “her
+subordinates in line” and make sure nothing affects EchoCraft’s
+“bottom line?”
+A: I didn’t want any baseless investigations distracting our
+employees. I intended for Daphne to speak with Mr. Riven about
+what he was doing and hopefully resolve the matter so as not to
+take away from the company’s productivity. You can’t have an
+employee with a vendetta going around harassing people.
+Q: So you were not concerned that Mr. Riven’s investigation
+would uncover discriminatory bonus assignment practices by
+EchoCraft?
+A: We don’t do that, so there was nothing for him to find.
+Q: You also referred to Riven as a “virus” in the email,
+“infecting” the office culture.​ What did you mean by
+that?
+
+69
+
+A: Listen, I was upset, okay? And rightfully so. Was my language
+a little harsh? Maybe, but I take office culture very seriously
+and the last thing an office needs is an intrusive investigation
+by a disgruntled employee.
+Q: What made you think Mr. Riven was a disgruntled employee?
+A: As I see it, happy employees don’t run their own side-show
+investigations.
+Q: Okay, let’s switch gears for a second. I want to talk to you
+about your Company’s song, “Revere Paul Revere?”. I’d like to
+submit a document I’ve previously marked as Exhibit H for the
+record. Do you recognize this document?
+A: Yes, this is our song, “Revere Paul Revere?”. I’m very proud
+of my composition.
+Q: Oh, so you had something to do with writing this song?
+A: Well, yeah. I’m kind of known around the office as a Paul
+Revere fan, so I gave a lot of input for the song.
+Q: Can you describe the song for me please?
+A: Well, it’s really all there in its title “Revere Paul
+Revere?” The song is a deep rumination on the problematic
+character of one of our country's most celebrated figures.
+Q: Deep rumination? We’ll get to that in a moment, but first
+tell me more about the actual content of the song.
+A: It’s a lyrical song with rhyming couplets. Each line
+conveys information about Revere’s life.
+Q: Where did you get the idea for the song?
+
+70
+
+A: As I said before, I am sort of a Revere buff. But to be
+perfectly honest, I came across the idea completely by
+chance. One of my employees found a copy of a song about
+Revere while cleaning up the desk of Philip Riven.
+Q: I assume you are referring to this document? I’d like
+to submit Exhibit G for the record. Are you familiar with
+this document?
+A: Yes, that is the song we found.
+Q: This document looks
+song.
+
+like it’s almost identical to your
+
+A: Umm, I mean, I didn’t feel like I needed to make up my own
+information about Revere. Facts are facts. You can’t own facts,
+no?
+Q: But you used many of the exact same lines?
+A: Well, the rhymes are really catchy. I thought high schoolers
+would like them. But it’s not like rhyming is so complicated, I
+didn’t think it was a big deal to borrow the rhymes. Also, I
+thought if my version was similar in style to Riven’s it would
+help underscore the significant changes we made.
+Q: So you admit that you copied much of his song?
+A: No. I would never copy his song. It was completely
+historically inaccurate. But in order to underscore the extent
+of the inaccuracies, I only changed the parts that were
+factually incorrect.
+Q: What changes are those?
+
+71
+
+A: Well, Riven’s song portrays Revere much more positively than
+EchoCraft’s. We made a concerted effort to tone down the
+effusive nature of the original song and make it far more
+historically accurate.
+Q: Based on my review of Exhibits G and H, seven lines are
+exactly the same in the two songs, is that correct?
+A: Yeah, that sounds right, but it’s the changes that make all
+the difference. I mean, the original song was all about
+celebrating Paul Revere, but that’s just totally wrongheaded.
+Revere shouldn’t just be celebrated. There were others who were
+heroes in the same way. My song emphasizes that. And Revere was
+complicated
+Q: How does your song emphasize that?
+A: We added lines to the song that mention the role of other
+people. We made it more accurate by acknowledging that he did
+reveal secrets. We also pointed out that the traditional story,
+the one told in Riven’s version, is incomplete.
+Q: Okay, changing topics just a bit, after you took the song and
+made your changes, what did you do with it?
+A: It was actually perfect timing. EchoCraft was getting some
+bad
+press at the time, and I thought we needed to generate
+some good PR. I came across this song, and a light bulb went
+off in my head--EchoCraft has a non-profit educational
+division, which releases songs for educational enlightenment.
+The division hadn’t released a big hit in some time. “Revere
+Paul Revere?” was the perfect song to be the division’s big new
+release.
+Q: So EchoCraft was receiving bad press at the time, why was
+that?
+A: There were rumors among the city newspapers that the company
+was engaging in wasteful recycling practices and hazing of our
+support staff...totally fabricated obviously.
+72
+
+Q: And was this negative publicity affecting your bottom line?
+A: I can’t say for sure, but sales of songs across all our
+divisions were stagnating. People seemed to prefer using our
+competitors, who didn’t have all this baggage.
+Q: And you thought releasing “Revere Paul Revere?” could help
+change that?
+A: Yeah, I asked my PR consultants and the head of the
+educational department, Jackie Moses, about it, and they
+confirmed that giving a boost to our non-profit educational
+division could bolster our image of being supportive of
+education. You know, make us look like we were the good guys.
+Q: Eventually, did your strategy with “Revere Paul Revere?” work?
+A: 100%. Several newspapers wrote about our focus on non-profit
+compositions and how EchoCraft’s corporate culture was turning
+over a
+new leaf.
+Q: Which papers wrote reviews, and when were they written?
+A: The NY Times, The New Yorker, The Wall Street Journal, and
+The Village Voice. The reviews all came out within a couple of
+weeks of each other, towards the end of January 2024. And one
+preeminent Shakespeare scholar, Wilhelmina Lamborn Lee,
+remarked to me at the annual dinner for the Englewood
+Historical Society that the song made her entirely reevaluate
+her perception of Revere. But more importantly, for EchoCraft’s
+purposes, she talked about the power of well-crafted
+educational compositions in imparting important historical
+knowledge; and she applauded EchoCraft for being in the
+vanguard of this movement
+Q: And did all this good press help sales?
+
+73
+
+A: Again, I can’t say for certain, but after all those positive
+op-eds, the press did stop printing the negative stories about
+our company.
+Q: But did the publication of “Revere Paul Revere?” coincide
+with increased revenue?
+A: Maybe not, but around the time after the
+publication
+of the song, our company did start to perform
+better.
+Q: Can you be a bit more specific?
+A: I don’t have the facts and figures before me unfortunately,
+but our annual revenue was down close to 5% before we released
+“Revere Paul Revere?”, afterwards our R&B, Country, and Screamo
+divisions all reported increased commercial interest, and
+EchoCraft’s revenue went from a loss of 5% to a positive gain
+of 2%.
+Q: How exactly did EchoCraft release the song to the public?
+A: Well, I cold emailed a bunch of high schools in Manhattan and
+asked them if they were interested in licensing the song.
+Q: You did this? Why didn't Jackie take care of this?
+A: Revere means a lot to me. I made an executive decision to
+handle this myself.
+Q: And did any of the schools respond?
+A: Yes, Columbia Grammar responded first. They told me they were
+already working on incorporating songs as part of their history
+curriculum. Elle Toobin, the principal, was eager to work out a
+deal.
+Q: What did you charge Columbia Grammar for use of the song?
+
+74
+
+A: $200.
+Q: Is that a normal licensing fee for you?
+A: Of course not. Our educational division’s goal isn’t to make
+money. We usually license songs at or below cost. It generates
+significant good will for us.
+Q: What about the other schools you reached out to?
+A: At first they didn't respond, but Toobin has connections to the
+other area schools and helped me negotiate deals with those
+schools as well.
+Q: Thank you Mr. Raine, I have no further questions.
+Questioning by Alexandra Rousseau, Esq., Attorney for Defendant:
+Q: I just have a few quick questions for you Mr. Raine.
+A: No problem.
+Q: Is it typical to fire a manager for a year of
+performance?
+
+under
+
+A: Yes. EchoCraft has a reputation to uphold, we won’t let it be
+dragged down by one person. Let alone the profits that might be
+lost.
+Q: And this is true even for managers that otherwise performed
+well in the past?
+A: Sure. I mean as you progress through the company you build up
+a reputation and you certainly get more leeway, but nobody is
+immune from being terminated, even myself. And here, Mr. Riven
+didn’t have much of a track record as a manager.
+Q: Of course. And returning to your May 2023 email exchange with
+Ms. Sniff--did you discuss Mr. Riven’s investigation with her or
+anyone else at the company after that exchange?
+75
+
+A: No, I did not, not before this lawsuit anyways. Riven was
+already wasting other people's time and energy; I wasn’t about
+to let him do the same to me. I trusted Daphne to resolve the
+issue promptly.
+Q: So, you never received Riven’s official report, nor the
+contents of it?
+A: Not until this became a whole big lawsuit and we had
+discovery.
+Q: So, when you signed off on Riven’s termination, you still did
+not know Riven engaged in an investigation against gender
+discrimination.
+A: No, I did not. And, honestly, I still know very little about
+what went on.
+Q: Changing topics, I’d like to ask you about your song, “Revere
+Paul Revere?” Why exactly did you make the changes you made?
+A: I had recently come back from this exhibit at the New York
+Historical Society about Paul Revere that I had read about in
+the NY Times, and the exhibit really impressed upon me how
+complicated Revere was and how important other people were as
+well.
+Q: What do you mean by complicated?
+A: Well, for one, do people know that he actually was captured
+by the British and revealed crucial information about Patriot
+military strategy?
+Q: And you felt that the original song didn't accurately portray
+Revere?
+
+76
+
+A: Not in the slightest. “He revealed no secrets, the man was
+not skittish.” I mean that’s just propagating myth. Revere was
+skittish! So, I changed that in the song.
+Q: You added more lines to the song as well, tell me about
+those.
+A: A few other people rode that night, like William Dawes and
+Samuel Prescott. Prescott actually made it to Concord. And then
+there was Sybil Ludington, who was a sixteen-year-old girl! She
+rode twice as far as Revere that night and gathered troops.
+Q: Of course, your passion is inspiring. And did you in any way
+profit off of this song?
+A: No. We distributed it at below cost to schools who
+wanted it. The amount we charged was below the cost to us
+to produce and distribute it, so we did not make a profit.
+Q: You mentioned before that the publication of the song
+coincided with an increase in EchoCraft’s overall performance,
+is it realistic to attribute the turnaround of your company to
+a short historical song?
+A: Certainly not! The music industry as a whole performed much
+better this year than last. Also, I take pride in my work as a
+CEO and would like to think that my leadership has helped steer
+EchoCraft in the right direction.
+Q: You mentioned that Toobin was eager to work out a deal with
+you, why is that?
+A: Well, we’re a big company, and the song is both catchy and
+historically accurate, which I think is what Toobin was
+looking for.
+Q: Thank you, have a great day Mr. Raine.
+
+77
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff,
+v.
+No. 1:23-cv-45678-CBA
+Deposition of Elle Toobin
+ECHOCRAFT PRODUCTIONS,
+Defendant.
+---------------------------------------------------------------------X
+APPEARANCES:
+On behalf of the Plaintiff:
+John Locke
+Locke and Associates, LLP
+On behalf of the Defendant:
+Alexandra Rousseau
+Rousseau, Graham, & Kilmer LLP
+Pursuant to notice, the deposition of Elle Toobin was taken
+on February 19, 2025, commencing at 10:00 am at the offices of
+Locke & Associates, LLP, 82 W. 57th St., New York, NY 10027.
+It is hereby stipulated and agreed that the reading and signing
+of this deposition are not waived. Elle Toobin, duly been sworn
+to tell the truth, the whole truth, and nothing but the truth,
+testifies as follows:
+Questioning by John Locke, Esq., Attorney for Plaintiff:
+Q: Good morning, Ms. Toobin. How are you?
+78
+
+A: I’m well. Thanks for asking. I’m a bit nervous to be around
+lawyers. But I’m good.
+Q: No worries. I understand. Would you please state your name for
+the record.
+A: Elle Toobin.
+Q: Please state your current address for the record. A: 450 West
+185th Street, New York, New York.
+Q: What is your current position?
+A: I’m the school principal at Columbia Grammar.
+Q: Have you heard Philip Riven’s song “Revere Paul Revere”?
+A: Yes.
+Q: When did you first hear about it?
+A: An Advanced Placement U.S. History teacher Columbia Grammar
+approached me in December 2023 and informed me that her students
+were listening to a song about Paul Revere.
+Q: Did she say anything else about the song?
+A: She said her students had performed remarkably well on their
+recent exam that included information about Paul Revere and
+Lexington and Concord. She suspected the song may have played a
+role in exemplary student performance.
+Q: Interesting. How did you find out who wrote the song?
+A: The teacher asked her students about the genesis of the song.
+She reported to me that Mr. Riven, a parent of a student in the
+class, had written it.
+Q: When did you first see the lyrics of the song?
+
+79
+
+A: Also in December 2023. The teacher sent me the song and emailed
+me a copy of the lyrics that she had typed up. I was impressed.
+Q: Were you aware at that point about Mr. Riven’s occupation?
+A: No.
+Q: When did you find out about his occupation?
+A: After seeing the lyrics, I was curious to see if he had
+experience with this sort of writing. I googled him and found his
+LinkedIn. I also saw that he had been credited on a number
+of
+seemingly well-known songs.
+Q: If I could direct your attention to Exhibit I – do recognize
+these documents?
+A: Yes. These are emails between me and Mr. Riven.
+Q: Why did you initiate an email exchange with Mr. Riven?
+A: He’s a professional songwriter. His song was excellent. It
+helped our students. So, I thought we could work together. It
+seemed like an innovative idea that would benefit our students.
+Q: What do you mean by “work together”?
+A: He’s a school parent. I know his daughter is in my school, and
+I knew he wrote the song. I wanted him to write songs for our
+students. I thought he would be amenable to a good price as a
+favor to the school.
+
+80
+
+Q:​ In your January 13th email to Mr. Riven, you mention an advance
+as a “preliminary negotiation fee” – what did you mean by that?
+A: I wanted to compensate him for use of his Revere song. And I
+also wanted to incentivize him to negotiate a deal for future
+songs.
+Q: And why did you offer Mr. Riven this advance?
+A: I was nervous he wouldn’t take our offer seriously. The $500
+showed we were serious. He’s a professional songwriter and a
+school parent. That’s a unique opportunity to capitalize on his
+talent.
+Q: Did you want to prevent him from negotiating with other
+schools?
+A: I guess that was part of my motivation. I wanted our school to
+be the first to be credited with this idea. I wanted our students
+to succeed relative to other schools’ students. Having Mr. Riven
+take us seriously also motivated the advance.
+Q: Your emails also reference Mr. Riven writing 5-10 songs “next
+year.” Did that mean in 2024?
+A: It meant the 2024-25 school year.
+Q: How much money were you willing to offer Mr. Riven per song in
+the 2024-25 school year?
+A: I’m not sure, to be frank. We don’t work out our budget for
+the school year until August before the school year is set to
+begin. I can’t pinpoint any exact number.
+Q: Can you give a ballpark estimate?
+A: $200 per song? I don’t know. I really don’t. If our students
+performed exceptionally well we could have offered more to
+
+81
+
+incentivize Mr. Riven further. But that’s just guessing. I
+can’t say any number for certain, particularly because we never
+moved forward.
+Q: Looking again at Exhibit I, on January 13th, Mr. Riven told
+you your deal “seemed great” to him, and you responded, “Sounds
+good.” What did your response mean?
+A: Well, it means our discussion sounded good up to that point.
+It seemed we were heading in a good direction. We had worked out
+a good arrangement so far.
+Q: What do you mean by a “good arrangement”?
+A: I think we were both happy with the give and take. Obviously
+there were still gaps to be filled in, like the exact fee per
+song, but overall it sounded good so far.
+Q: What gaps?
+A: I mean, like we just talked about, we hadn’t nailed down a
+fee per song for 2024-25.
+Q: So the only thing you still had to work out was the exact
+amount you were to pay Mr. Riven per song?
+A: I suppose. I guess I would have liked to meet with him in
+person and to sign something. But yes.
+Q: So you paid Mr. Riven the $500 advance?
+A: Yes.
+Q: How did you find out about EchoCraft’s song, “Revere
+Paul Revere?”?
+A: EchoCraft’s education division reached out to me in January
+2024
+and sent a copy of “Revere Paul Revere?”
+
+82
+
+Q: Did they send the song to any other schools?
+A: At that point, I’m not sure. But I did later help them
+negotiate licensing agreements with other schools.
+Q: Why do you think they sent it to you?
+A: Um, I can’t say for sure. Columbia Grammar is a prominent
+school.
+Q: What happened after EchoCraft reached out to you?
+A: I worked out a deal with Mr. Raine for a similar price to
+what I had been negotiating with Mr. Riven.
+Q: Did Mr. Raine know that you had been working with Mr.
+Riven?
+A: We never spoke about Mr. Riven.
+Q: Why did you help EchoCraft negotiate with other schools?
+A: Well, I was working with EchoCraft and found them to be a
+good partner. I did want to be at the forefront of
+incorporating songs into our curriculum, but I also feel a
+responsibility to help all area high schools and students. I
+have some connections with other school administrators because
+of my position as a principal.
+Q: Why did you end up going with EchoCraft if you had worked
+out a deal with Mr. Riven?
+A:​ Well, I don’t think I necessarily had a deal with Mr. Riven.
+We hadn’t signed anything if that’s the sort of thing you’re
+referring to.
+Q: But why did you go with EchoCraft?
+
+83
+
+A: EchoCraft is a huge company. They have lots of songwriters.
+Mr. Riven is just one songwriter, and he seemed to be working
+on his own. Having access to more talent seemed like a good
+choice. Also, their education division donates profits to
+charity, which is appealing to me. EchoCraft also charged us
+$200, which I understood to be a good deal for us.
+Q: Did you know at the time you were negotiating with EchoCraft
+that
+Mr. Riven had been fired from EchoCraft?
+A: Yes, I found that out. I heard secondhand, but his daughter’s
+teacher mentioned it to me in the hallway one day. I guess the
+teacher felt I should know seeing as I was negotiating a deal
+with him to write music.
+Q: Did Mr. Riven’s dismissal have anything to do with you
+forgoing your deal with Mr. Riven?
+A: Again, I’m not sure I agree that I “had a deal with Mr.
+Riven.” But I didn’t really consider his termination at all.
+Q: What did EchoCraft tell you, if anything, about their Paul
+Revere song?
+A: EchoCraft told me they had a new song about Paul Revere. They
+said
+their version is historically accurate.
+Q: Did you believe those claims?
+A: I guess I did. I trust their songwriting competency and their
+business acumen. They are a serious company. I’m sure they did
+their research. I’m not a historian. In general, we want to use
+material that is historically accurate.
+Q: Do you know much about Paul Revere?
+
+84
+
+A: I can’t say that I do. I know the classic story of the
+Midnight Ride. I know Longfellow wrote a poem about it. That’s
+about it.
+Q: Are you qualified to speak about specifics of Paul Revere’s
+life?
+A: I don’t think I am.
+Q: To you, someone with limited knowledge of Paul Revere, was
+EchoCraft’s song similar to Mr. Riven’s song?
+A: Well, to me, they seem to be similar.
+Q: What do you mean by “similar”?
+A: Most of the words are common to both. EchoCraft’s version
+has a few lines that I can see provoking discussion about Paul
+Revere and the story about him. But the songs look similar to my
+eyes, at least.
+Q: I have no further questions. Thank you so much, Ms. Toobin.
+Questioning by Alexandra Rousseau, Esq., Attorney for Defendant:
+Q: Hi Ms. Toobin. Were you planning to meet with Mr. Riven to
+sign a contract concerning Revere Paul Revere?
+A: I would have liked to. Yes. Again, legalese is not my forte.
+I’m a trained educator.
+Q: Had anyone drafted that
+contract? A:​No.
+Q: Would the School Board have needed to approve that contract?
+A: No.
+Q: When are your budgets set?
+85
+
+A: Typically, early August before the relevant academic year.
+Q: So it’s safe to say your budget for the 2024-2025 year had
+not been set yet at the time of your email exchanges with Mr.
+Riven in January and February of 2024?
+A: That’s correct.
+Q: Is it possible there would have been no room in the budget to
+pay Mr. Riven?
+A: It’s possible. Money is tight for all schools.
+Q: If you would, please look at your emails, Exhibit I. Why did
+you write “We’ll talk soon”?
+A: I believe in that email I wrote “Sounds good. We’ll talk
+soon.” We had a plan but that plan required more talking on both
+sides to carry out.
+Q: So you were, in fact, planning to talk again with Mr. Riven?
+A: Yes, I think eventually that would have been inevitable. For
+example, he would have to send a song to me.
+Q: EchoCraft added six lines their Revere song. As an
+educator, do you consider those lines to be significant
+additions?
+A: I’m not sure what you mean by “significant.” Asking the
+audience if Paul Revere should be revered does, in my opinion,
+solicit a critical discussion about Revere’s legacy.
+Q: So would you characterize the additions as “significant” in
+light of the fact that they solicit a critical discussion about
+his legacy?
+A: Riven’s song does not do that in the same way. But I’m not
+naive. I can see that the songs use almost the same words. The
+majority of the words are common to both, but the added lines
+86
+
+add a thoughtful gloss and more information. I can’t really say
+if that’s significant or not.
+Q: Do you think provoking critical discussion is an important
+goal for an educator?
+A: Certainly. And I noticed that when choosing the song. I’m
+not a historian, but assuming EchoCraft’s song is accurate, I
+think there
+are educational benefits to asking questions
+about Paul Revere’s legacy.
+Q: So you don’t know whether Paul Revere actually revealed
+secrets while in captivity?
+A: I do not.
+Q: Assuming, if you will, that EchoCraft’s song is historically
+accurate and Mr. Riven’s song is not, would that be reason
+enough
+to select EchoCraft’s song over Mr. Riven’s?
+A: Yes, I think so. To educate students, I think it’s best to
+use historically accurate information.
+Q: Would you use historically inaccurate material in a
+classroom?
+A: It depends how “inaccurate” the material is. Something that
+is totally off base, likely not. Something that massages the
+truth or contains minor mistakes, but is excellent work overall
+- I could see a place for that.
+Q: After listening to Mr. Riven’s song, would you have a
+positive
+impression of Paul Revere?
+A: I think I would, yes.
+Q: After listening to EchoCraft’s would you have a positive
+impression of Paul Revere?
+A: I think I would, yes, but I would also be asking
+questions about whether I knew the whole story.
+87
+
+Q: That’s all I have. Thanks, Ms. Toobin.
+
+88
+
+Exhibit A
+EchoCraft Productions Performance Review Notes, 2021
+Employee Name: Philip Riven
+Position: Department Manager, Country Songwriting Department
+Performance Rating: Exceeding Expectations
+Evaluations: Mr. Riven has really risen to the task of running the country songwriting department
+this year. Under his leadership, the department has received over 30 songwriting credits per
+quarter, exceeding last year’s performance, and clients report satisfaction across the board with
+the product Mr. Riven’s department has been putting out. He is outperforming several of his peers
+in other departments.
+Strengths: Mr. Riven has a pleasant personality and manages to make the office environment
+light-hearted yet productive. He is up-front with his employees about his expectations and
+promotes collegiality and collaboration.
+Weaknesses: None to report.
+Future Potential: Because this was Mr. Riven’s first full year in this position, it is too soon to
+evaluate his potential for further promotion. However, if his performance continues to impress,
+there are no limits to how far he can go at this company.
+EchoCraft Productions Performance Review Notes, 2022
+Employee Name: Philip Riven
+Position: Department Manager, Country Songwriting Department
+Performance Rating: Exceeding Expectations
+Evaluations: Mr. Riven continues to impress as manager of the country songwriters. His team
+is responsible for over 100 credited songs released this year, and his department wrote 3 out of 5
+songs nominated for the Grammy Award for Best Country Song in 2022. His employees seem to
+
+89
+
+enjoy coming to work every day, and Mr. Riven can frequently be seen conversing and
+collaborating with them.
+Strengths: Mr. Riven is a powerhouse, staying at the office late to complete projects, instituting
+new ways for his employees to maximize productivity, and consistently reporting high numbers.
+Weaknesses: Sometimes Mr. Riven works on his own projects during business hours. As long as
+he continues to meet quotas, however, this should not be an issue.
+Future Potential: Mr. Riven certainly has a bright future at EchoCraft if he keeps it up.
+
+EchoCraft Productions Performance Review Notes, 2023
+Employee Name: Philip Riven
+Position: Department Manager, Country Songwriting Department
+Performance Rating: Failing to meet expectations
+Evaluations: Mr. Riven seems to have run out of steam. His department has failed to meet our
+expectations for songwriting credits for six consecutive months, and Mr. Riven does not seem
+optimistic about his ability to bring in more work in the short-term. He seems to be putting a lot
+of time into a private project he is working on, which certainly is not helping his situation.
+Strengths: Mr. Riven continues to be a pleasant presence around the office, and his
+employees continue to respect him. He is a great conversationalist, which helps in meeting
+with clients.
+Weaknesses: Mr. Riven’s decreased productivity seems to stem from a decreased interest in his
+work. This is the first year in which Mr. Riven skipped the Annual Conference of Country
+Songwriters.
+Future Potential: Mr. Riven’s drastic decline in performance is cause for concern. Mr. Riven was
+warned of his failure to meet company quotas in July, and his continued failure to meet
+expectations necessitates a formal evaluation of his position at the company.
+
+90
+
+Exhibit B
+
+Formal warning issued:
+On July 5, 2023, Daphne Sniff, supervisor of the songwriter managers, met with the
+manager of the country songwriter department--Philip Riven--regarding his underperformance.
+At this meeting, Mr. Riven was orally issued a formal warning stating that he was subject to
+discipline, and possibly termination, if he did not improve his department's performance.
+This document, a copy of which was given to Mr. Riven, serves as a record of this warning.
+
+91
+
+Exhibit C
+EchoCraft Productions Country Songwriting Credits 2021-2023
+
+92
+
+Exhibit D
+From: Sniff, Daphne
+To: Riven, Philip
+Date: Saturday, August 19, 2023 at 2:02 PM EST
+Subject: RE: Bonus Awards
+Thanks for sharing. I take these concerns very seriously. However, are you sure this side project is
+the best use of your time right now?
+
+From: Riven, Philip
+To: Sniff, Daphne
+Date: Friday, August 18, 2023 at 10:43 PM EST
+Subject: Bonus Awards
+Dear Daphne,
+I have finally concluded my lengthy investigation into bonus compensation in 2022. I
+interviewed 81 employees in 3 divisions and 12 departments. My findings are attached.
+I’d first like to say that overall, I have found that EchoCraft’s policies and benefits really help our
+employees manage their work and feel valued by the company. Employees were particularly
+impressed with the efficacy of our Sexual Harassment Training, our parental and adoption leave
+policies, and our flexible time off policy. Most employees I talked to said they were satisfied with
+EchoCraft’s resources for reporting workplace harassment.
+However, the bottom line is as follows: I found that in nine out of the twelve departments I
+surveyed, the women I interviewed were, on average, awarded lower bonus compensation
+than men.
+This is not a good look for us, and I think we need to seriously think about how bonus
+compensation is calculated here at EchoCraft. They deserve to receive the same appreciation as
+everyone else.
+Let me know if you want to discuss.
+93
+
+Attachment:
+Bonus Compensation in the Songwriting Division:
+
+Department Males
+
+Females
+
+Male
+Female
+Avg. Bonus Avg. Bonus
+Employees Employees (Male)
+(Female)
+Interviewed Interviewed
+
+Education
+
+3
+
+12
+
+3
+
+8
+
+$2234
+
+$2014
+
+Rap
+
+6
+
+6
+
+4
+
+3
+
+$2431
+
+$2444
+
+Country
+
+10
+
+5
+
+7
+
+3
+
+$2623
+
+$2198
+
+Pop
+
+12
+
+14
+
+2
+
+2
+
+$1989
+
+$1234
+
+Classical
+
+7
+
+4
+
+3
+
+4
+
+$1458
+
+$1202
+
+Rock
+
+9
+
+5
+
+6
+
+5
+
+$3202
+
+$2874
+
+Hip Hop
+
+4
+
+7
+
+1
+
+3
+
+$2100
+
+$2054
+
+Jazz
+
+4
+
+3
+
+2
+
+2
+
+$2568
+
+$2206
+
+Bonus Compensation in the Marketing Division
+
+Departmen t
+
+Males
+
+Females
+
+Male
+Employees
+Interviewe d
+
+Female
+Employees
+Interviewe
+d
+
+Avg.
+Bonus
+(Male)
+
+Avg.
+Bonus
+(Female)
+
+Print
+
+6
+
+5
+
+1
+
+4
+
+$3890
+
+$3509
+
+Digital
+
+8
+
+6
+
+4
+
+3
+
+$3405
+
+$3744
+
+94
+
+Bonus Compensation in the Talent Acquisition Division
+Departmen
+t
+
+Males
+
+Females
+
+Male
+Employees
+Interviewe
+d
+
+Female
+Employees
+Interviewe
+d
+
+Avg.
+Bonus
+(Male)
+
+Avg.
+Bonus
+(Female)
+
+Vocals
+
+8
+
+4
+
+4
+
+2
+
+$3890
+
+$3509
+
+Band
+
+4
+
+6
+
+2
+
+3
+
+$3405
+
+$3744
+
+95
+
+Exhibit E
+
+December 21, 2023
+Philip Riven
+300 West End Avenue
+New York, New York, 10023
+Dear Mr. Riven,
+This letter is to inform you that your employment with EchoCraft Productions is terminated
+effective immediately. You have been terminated due to unsatisfactory performance and a
+consistent failure to meet your department’s quotas for songwriting credits.
+This decision is irreversible. You should expect to receive your final paycheck totaling $8,255 on
+December 30, 2023. Your healthcare benefits will continue to remain in effect until February 1,
+2024. Please return any company equipment and confidential materials before your departure.
+Also, please keep in mind that you have signed a non-solicitation and confidentiality agreement.
+If you have questions about the agreements you have signed, your compensation, benefits, or
+returning company property, please contact me at 212-252-7000 or Bl.sinenski@EchoCraft.com.
+Sincerely,
+Blaire Sinenski
+Director of Human Resources
+
+96
+
+Exhibit F
+From: Raine, Ryan
+To: Sniff, Daphne
+Date: Wednesday, May 24, 2023 at 11:34 AM EST
+Subject: URGENT- investigation
+Daphne,
+I recently became aware that one of your managers, Philip Riven, is on a vendetta against the
+firm. I overheard two lower-level employees discussing the matter. We cannot have any
+distractions affecting our bottom line. From what I can tell, Riven is a virus infecting the
+company culture. Keep your subordinates in line.
+No need to email me back, just get it done.
+Ryan
+
+97
+
+Exhibit G
+
+Revere Paul Revere
+It was the night of April 18, 1775
+A night made famous by Paul’s historic ride
+One if by land Two if By Sea
+Such was Revere’s Signal to Warn of The Enemy
+Through Somerville, Arlington, and Medford he rode
+The British are Coming, the great man bellowed
+Captured at gunpoint by the soldiers of the British
+He revealed no secrets, the man was not skittish.
+
+98
+
+Exhibit H
+
+Revere Paul Revere?
+It was the night of April 18, 1775,​
+a night made famous by Paul’s historic ride.​
+One if by land, two if by sea—​
+such was Revere’s signal to warn of the enemy,​
+though others helped raise that warning’s light.
+Through Somerville, Arlington, and Medford he rode—​
+yet he was not the only rider on that road.​
+The British are coming, the great man bellowed—​
+a line the storytellers favor, polished and mellowed.
+Captured at gunpoint by the soldiers of the British,​
+He revealed some secrets, the man was skittish—​
+The tale often stops with him, though many stood ready.
+So the ride we recall is brave, but incomplete:​
+history’s chorus reduced to a single heartbeat.
+
+99
+
+Exhibit I
+From: Toobin, Elle
+To: Philip, Riven
+Date: Wednesday, February 14, 2024 at 12:45 PM EST
+Subject: Paul Revere
+Hi Phil,
+Unfortunately, our school will be unable to pursue the songwriting deal we spoke about last
+month. We’ve decided to go in a different direction and have signed an alternative deal.
+Regretfully, it included a provision that we could not distribute songs written by anyone else
+to our students. I’m so sorry that it will not work out. I wish you continued success.
+Elle Toobin
+
+From: Toobin, Elle
+To: Philip, Riven
+Date: Sunday, January 14, 2024 at 9:05 AM EST
+Subject: RE: RE: RE: RE: Your Song (Paul Revere)
+Sounds good! We’ll talk more soon.
+Elle Toobin
+
+From: Philip, Riven
+To: Toobin, Elle
+Date: Saturday, January 13, 2024 at 10:20 AM EST
+Subject: RE: RE: RE: Your Song (Paul Revere)
+Elle,
+
+100
+
+Of course I’m interested. Your deal seems great to me. I am really passionate about
+songwriting and helping my daughter succeed. I also only have positive things to say
+about the school. Happy to give back in any way I can.
+Phil
+
+From: Toobin, Elle
+To: Philip, Riven
+Date: Saturday, January 13, 2024 at 9:05 AM EST
+Subject: RE: RE: Your Song (Paul Revere)
+Wow! EchoCraft? That must have been fun.
+About those other songs you might write - I spoke to a few people around here and we’re
+interested in potentially paying you for those songs. We believe the students scored
+exceptionally well on their recent exam in large part due to your song. We feel strongly about
+this. Would you be amenable to a $500 advance as a “preliminary negotiation fee”? Just to lay
+it out for you, what we have in mind is a fee for each song you write next school year (we do
+not have budget capacity this year). We would want 5-10 songs, which, I understand, may be
+asking a lot. Additionally, we could work out a bonus if more than 75% of students receive a 4
+or above on the AP exam. Let me know if this all works for you. We think it will benefit our
+students immensely.
+All the best,
+Elle Toobin
+
+From: Philip, Riven
+To: Toobin, Elle
+Date: Friday, January 12, 2024 at 12:02 PM EST
+Subject: RE: Your Song (Paul Revere)
+
+101
+
+Yes! I did write the song. I was a songwriter at EchoCraft, so I figured why not take my talents
+and help my daughter study? I’m thinking about writing a few more for her. Her classmates
+seem to like the song a lot.
+Phil
+
+From: Toobin, Elle
+To: Philip, Riven
+Date: Friday, January 12, 2024 at 11:34 AM EST
+Subject: Your Song (Paul Revere)
+Hi Philip,
+I’m the principal at your daughter’s school. Her U.S. History teacher emailed me a song her
+students have been listening to. It’s about Paul Revere. Did you write the song? It’s really
+excellent.
+Best,
+Elle Toobin
+
+102
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+v.​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+No. 1:23-cv-45678-CBA
+​
+
+Motion for Summary Judgment
+
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
+Pursuant to rule 56(b) of the Federal Rules of Civil Procedure, defendant requests that the court
+grant Summary Judgement in favor of defendant, EchoCraft Productions (“EchoCraft”), on the
+grounds that:
+1.​ Even viewed in the light most favorable to the plaintiff, the evidence raises no issue of
+material fact and dictates that defendant is entitled to judgment as a matter of law. No
+reasonable factfinder could find that the plaintiff was (1) engaged in a protected activity,
+(2) that defendant had knowledge of such an activity, or (3) that plaintiff’s ultimate
+termination from the firm had anything to do with his involvement in such an activity.
+Because plaintiff cannot demonstrate any of these claims, let alone all three,
+defendant is entitled to judgement as a matter of law.
+2.​ Even viewed in the light most favorable to the plaintiff, the evidence raises no issue of
+material fact and dictates that defendant is entitled to judgment as a matter of law. No
+reasonable factfinder could find that EchoCraft’s song “Revere Paul Revere?” is not a
+fair use of plaintiff’s song “Revere Paul Revere.” Because plaintiff cannot demonstrate,
+using the four-factor analysis set out in Campbell v. Acuff-Rose Music, Inc., 510 U.S.
+569, that EchoCraft’s use is not fair, defendant is entitled to judgment as a matter of law.
+Alexandra Rousseau, Attorney for Defendant
+/s/ Alexandra Rousseau
+103
+
+Rousseau, Graham, & Kilmer LLP,
+395 W. 55th St.
+New York, NY 10027
+Dated: March 17, 2025
+
+104
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+v.​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+No. 1:23-cv-45678-CBA
+​
+
+​
+
+​
+
+Opposition to
+
+Motion for Summary Judgment
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+PLAINTIFF’S AFFIDAVIT IN OPPOSITION
+TO DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
+Plaintiff Philip Riven requests that the court deny defendant's motion for summary
+judgment pursuant to rule 56(b) of the Federal Rules of Civil Procedure on the grounds
+that:
+1.​ There are genuine issues of fact and law as to whether (i) Philip Riven was involved in a
+protected activity when he investigated bonus practices at EchoCraft, (ii) EchoCraft
+knew of this activity, and (ii) EchoCraft then fired Riven because of his investigation.
+The evidence viewed in the light most favorable to the plaintiff could lead a reasonable
+jury to find against the defendant, EchoCraft Productions.
+2.​ There are genuine issues of fact and law as to whether EchoCraft Productions’ song
+“Revere Paul Revere?” was a fair use of Philip Riven’s song “Revere Paul Revere.”
+Riven’s song is original and creative. EchoCraft’s song is not transformative, copies
+almost all Riven’s words, and harms Riven’s market. The evidence viewed in the light
+most favorable to the plaintiff could lead a reasonable jury to find against the defendant,
+EchoCraft Productions
+John Locke, Attorney for Plaintiff
+/s/ John Locke
+105
+
+Locke and Associates LLP
+220 W. 50st St.
+New York, NY 10027
+
+Dated: April 4, 2025
+
+106
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+v.​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+No. 1:23-cv-45678-CBA
+​
+
+Decision and Final Order
+
+ECHOCRAFT PRODUCTIONS,
+Defendant
+---------------------------------------------------------------------X
+DECISION AND ORDER
+Before the court is Defendant EchoCraft Productions’ motion for summary judgment on
+Plaintiff Philip Riven’s claims of (1) retaliation in violation of 42 U.S.C. § 2000e-3(a) and (2)
+copyright infringement. The court hereby grants Defendant’s motion on both claims.
+
+SUMMARY JUDGMENT
+Summary judgment is appropriate when there is no genuine dispute as to material facts
+such that the movant is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a); Anderson v.
+Liberty Lobby, 477 U.S. 242 (1986). For summary judgment motions, the burden of proof is on
+the moving party, id., here, Defendant EchoCraft Productions.
+
+107
+
+ISSUE 1: RETALIATION
+The first issue before the court is whether a reasonable fact finder could find that Riven’s
+termination from EchoCraft was in violation of Title VII of the Civil Rights Act of 1964. To
+prevail on this claim, first, a plaintiff must establish a prima facie case of retaliation. In order to
+demonstrate a prima facie case, a plaintiff must prove: (1) that he participated in a protected
+activity, (2) that the defendant knew of the protected activity, (3) that a materially adverse action
+was taken against him (stipulated here), and (4) that there was a relationship or causal connection
+between the protected activity and the adverse action. Littlejohn v. City of New York,
+
+795 F.3d
+
+297, 315-16 (2015). If the plaintiff can establish a prima facie case, the burden then shifts to the
+defendant to set forth a legitimate, non-retaliatory reason for the actions taken. McDonnell
+Douglas, 411 U.S. at 802-04. If the defendant does so, the plaintiff must then show that the
+defendant’s proffered reason is a pretext for retaliation. Id.
+Here, no reasonable factfinder could find that Plaintiff Riven was engaged in a protected
+activity when he engaged in his investigation. Under 42 U.S.C. § 2000e–3(a) an employee’s
+conduct is characterized as protected if it was done in opposition to conduct prohibited by the
+equal opportunity laws or if it was in participation of a formal EEOC complaint. Since Riven’s
+investigation was not in opposition to conduct protected under the equal opportunity laws and
+does not satisfy the participation clause, it is not a protected activity. Id.
+Second, no reasonable factfinder could find that EchoCraft knew that Riven was engaged
+in an investigation meant to determine if the bonus assignment system discriminated on the basis
+of gender.
+Finally, no reasonable factfinder could find a causal connection between Riven’s alleged
+engagement in a protected activity and his ultimate termination. In order to show a causal
+108
+
+connection a plaintiff may show a close temporal proximity to his conduct and the adverse
+action, disparate treatment in comparison to a similarly situated employee, or retaliatory
+animus on the part of the defendant. Gordon v. N.Y.C. Bd. of Educ., 232 F.3d 111, 117 (2d Cir.
+2000). Here, none of those apply and therefore this prong too must fail.
+In conclusion, because no reasonable factfinder could find plaintiff has made out a prima
+facie case, the Plaintiff's claim fails, and Defendant’s motion for summary judgement is granted.
+
+ISSUE 2: FAIR USE
+The question at issue with respect to Philip Riven’s copyright infringement claim is
+whether EchoCraft’s use of “Revere Paul Revere” is protected under the fair use defense as
+defined in 17 U.S.C. § 107. Because this Court finds that a balancing of the four fair use factors
+favors a finding of fair use, EchoCraft is not liable for copyright infringement.
+17 U.S.C. § 107 clearly outlines that a fair use of a copyrighted work is protected from
+copyright infringement claims. Id. More specifically, “fair use of a copyrighted work, including
+such use by reproduction in copies or phonorecords or by any other means specified by that
+section, for purposes such as criticism, comment, news reporting, teaching (including multiple
+copies for classroom use), scholarship, or research is not an infringement of copyright.” 17
+U.S.C. § 107. To determine whether a use constitutes fair use, the statute provides four factors to
+consider:
+(1)​
+
+The purpose and character of the use, including whether such use is
+
+of a commercial nature or is for nonprofit educational purposes;
+(2)​ The nature of the copyrighted work;
+
+109
+
+(3)​
+
+The amount and substantiality of the portion used in relation to
+
+the copyrighted work as a whole; and
+(4)​
+
+The effect of the use upon the potential market for or value of the
+
+copyrighted work.
+Id.
+In cases such as the one before us, the first factor invites us to determine “whether and to
+what extent the new work is transformative.” Campbell, 510 U.S. at 579. We find that EchoCraft’s
+work was highly transformative because it presented a fresh perspective on Revere’s legacy.
+Moreover, there is not enough evidence to tie the publication of EchoCraft’s song to overall sales
+growth. Therefore, we find that EchoCraft’s use was of a non-profit nature. See Harper & Row
+Publishers, Inc. v. Nation Enters., 471 U.S. 539 (1985).
+Turning now to a consideration of the second factor, we find that Riven’s song is a creative
+work. This cuts against a finding of fair use. See Feist Publications, Inc. v. Rural Telephone
+Service Co., 499 U.S. 340, 348–51 (1991). However, joined with a consideration of the other fair
+use factors, this finding alone is not sufficient to disentitle EchoCraft to the fair use defense.
+Campbell, 510 U.S. at 578.
+The third factor requires this Court to see if the “quantity and value of the materials used
+are reasonable in relation to the purpose of the copying.” Id. at 586. We find that EchoCraft’s
+borrowing from Riven’s work was not so excessive as to outweigh the finding of transformation.
+The extent of qualitative transformation outweighs the quantitative borrowing. Campbell, 510
+U.S. at 577.
+Lastly, Harper & Row Publishers, Inc. tells us that fair use is limited to “copying by
+others which does not materially impair the marketability of the work which is copied.” 471 U.S.
+110
+
+539, 566-67 (1985). The highly transformative use of “Revere Paul Revere” in “Revere Paul
+Revere?” did not harm the market for the former. Because EchoCraft’s version was more
+historically accurate and suitable for classroom use, we find that it was not a “direct substitute”
+for Riven’s song. Authors Guild v. Google, Inc., 804 F.3d 202, 223 (2d Cir. 2015).
+The Court holds that under these factors, taken together, EchoCraft’s use constituted a fair
+use. The defendant is thus entitled to summary judgment.
+
+CONCLUSION
+Defendant’s motion for summary judgment is hereby granted.
+
+IT IS SO ORDERED
+Date: August 14, 2025
+
+William Rogers
+/s/ William Rogers
+Judge, U.S. District Court
+Southern District of New York
+
+111
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------X
+PHILIP RIVEN,
+Plaintiff,​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+v.​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+No. 1:23-cv-45678-CBA
+​
+
+NOTICE OF APPEAL
+
+ECHOCRAFT PRODUCTIONS,
+Defendant.
+---------------------------------------------------------------------X
+Notice is hereby given that Plaintiff Philip Riven appeals the decision handed down by the
+District Court for the Southern District of New York granting EchoCraft Productions’ motion
+for summary judgment to United States Court of Appeals for the Second Circuit
+
+John Locke, Attorney for Plaintiff
+/s/ John Locke
+Locke and Associates LLP
+82 W. 57th St.
+New York, NY 10027
+Dated: September 9, 2025
+
+112
+
+

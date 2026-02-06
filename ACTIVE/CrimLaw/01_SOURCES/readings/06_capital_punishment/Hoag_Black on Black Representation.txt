@@ -1,0 +1,3203 @@
+43660-nyu_96-5 Sheet No. 63 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+63
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 1 9-NOV-21 15:07
+BLACK ON BLACK REPRESENTATION
+ALEXIS HOAG*
+When it comes to combating structural racism, representation matters, and this is
+true for criminal defense as much as it is for mental health services and education.
+This Article calls for the expansion of the Sixth Amendment right to counsel of
+choice to indigent defendants and argues that such an expansion could be of partic-
+ular benefit to indigent Black defendants. Extending choice to all indigent defen-
+dants reinforces the principles underlying the Sixth Amendment right to counsel
+and can help strengthen the attorney-client relationship. Because an expansion
+would grant defendants the autonomy to request counsel who they believe would
+best represent them, Black defendants who prioritize racial congruency and cul-
+tural competency may select Black counsel. Empowering indigent Black people to
+select, should they desire, Black and/or culturally competent public defenders has
+the potential to offer a range of benefits, including mitigating anti-Black racism in
+the criminal legal system.
+Methodologically, this Article takes multiple approaches. First, it connects indigent
+representation to existing literature from other fields—clinical therapy and educa-
+tion—both of which recognize the benefits of racial congruency, to support the
+argument that Black public defenders may benefit Black clients. To explore how
+same-race representation functions in practice, this Article also relies on qualitative
+interviews with Black public defenders regarding communication and trust, factors
+that the American Bar Association identifies as integral to criminal defense.
+Together, these approaches highlight how expanding choice to indigent defendants
+might impact Black defendants, something that past choice of counsel literature
+does not examine. The Article concludes that recruiting more Black public
+defenders and training culturally competent lawyers are critical next steps regard-
+less of whether the Court expands the right to counsel of choice to people who
+qualify for appointed counsel.
+INTRODUCTION................................................. 1494 R
+I. THE SIXTH AMENDMENT RIGHT TO COUNSEL OF
+CHOICE ................................................. 1503 R
+A. The Development of Indigent Defense .............. 1504 R
+B. Curtailing Legal Lynching .......................... 1506 R
+C. Choice of Counsel Is a Central Component of the
+Right to Counsel .................................... 1512 R
+* Copyright © 2021 by Alexis Hoag, Assistant Professor of Law, Brooklyn Law
+School. Thanks to Ifeoma Ajunwa, Amna Akbar, Rabia Belt, Laura Nyantung Beny, Brett
+Dignam, Elizabeth Emens, Katherine Franke, Cynthia Godsoe, Daniel Harawa, Bernard
+Harcourt, Olatunde Johnson, Jamelia Morgan, Shaun Ossei-Owusu, Michael Pinard, Anna
+Roberts, Jenny Roberts, Stephen Schulhofer, Sarah Seo, Jocelyn Simonson, and Kendall
+Thomas for their helpful feedback. I am also grateful for Claudia Kassner and Bridgett
+McCoy’s careful research assistance. A special thanks to Alexandria Howell and the edi-
+tors at the New York University Law Review for their thorough and diligent work to make
+this Article better.
+1493
+
+43660-nyu_96-5 Sheet No. 63 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+63
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 2 9-NOV-21 15:07
+1494 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+D. Beggars Cannot Be Choosers ....................... 1513 R
+1. Limited Time ................................... 1514 R
+2. Adequacy of Substitute Counsel................. 1515 R
+3. Parity for Poor People.......................... 1518 R
+II. REPRESENTATION MATTERS ............................ 1519 R
+A. Someone Who Understands: Black Therapists for
+Black Patients....................................... 1520 R
+B. A Teacher Who Looks Like Me .................... 1522 R
+III. EMBODIED EMPATHY ................................... 1525 R
+A. I See You. I Hear You. I Understand................ 1527 R
+B. Extending the Right ................................. 1530 R
+IV. BLACK ON BLACK REPRESENTATION ................... 1532 R
+A. The Attorney-Client Relationship.................... 1534 R
+1. Quality of Communication...................... 1535 R
+2. Development of Trust........................... 1537 R
+B. Black Defenders Can Mitigate Anti-Black Bias...... 1538 R
+C. Limitations.......................................... 1542 R
+D. Opportunity for Growth ............................ 1546 R
+CONCLUSION ................................................... 1547 R
+INTRODUCTION
+In interpreting the Sixth Amendment’s assistance of counsel pro-
+vision, the United States Supreme Court recognized multiple rights,
+including the right to counsel,1 the right to conflict free counsel,2 the
+right to effective counsel,3 the right to represent oneself,4 and the right
+to counsel of choice.5 However, the Court’s Sixth Amendment juris-
+prudence limits only one of these rights based on an individual’s
+ability to afford representation: the right to counsel of choice.6 The
+Court has repeatedly recognized that the right to counsel of choice
+“does not go beyond ‘the individual’s right to spend [their] own
+1 Gideon v. Wainwright, 372 U.S. 335, 342–45 (1963) (finding that the Sixth
+Amendment guarantees all indigent defendants the right to counsel when facing criminal
+prosecutions).
+2 See Wheat v. United States, 486 U.S. 153, 159–60 (1988) (describing conflict free
+counsel as an unwaivable right).
+3 Strickland v. Washington, 466 U.S. 668, 686–87 (1984) (recognizing that the right to
+counsel includes the right to effective counsel, and establishing the cause and prejudice
+standard to determine effectiveness).
+4 Faretta v. California, 422 U.S. 806, 819 (1975).
+5 Powell v. Alabama, 287 U.S. 45, 53 (1932).
+6 Wheat, 486 U.S. at 159 (“The Sixth Amendment right to choose one’s own counsel is
+circumscribed in . . . [that] a defendant may not insist on representation by an attorney he
+cannot afford . . . .”).
+
+43660-nyu_96-5 Sheet No. 64 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+64
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 3 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1495
+money to obtain the advice and assistance of . . . counsel.’”7
+According to the jurisprudence, an indigent person’s right to counsel
+is satisfied so long as appointed counsel is competent and capable of
+rendering adequate services.8 Thus, if an indigent person is dissatisfied
+with counsel for some reason, unless counsel is incompetent or their
+conduct is constitutionally ineffective, the individual has no other
+options. In short, beggars can’t be choosers.
+The Court’s income-based distinction in counsel of choice cases
+does not comport with the principles underlying the Sixth
+Amendment. Autonomy, which cuts across income levels, is one such
+principle.9 For instance, the Court recognized that “a defendant must
+be allowed to make [their] own choices about the proper way to pro-
+tect [their] own liberty.”10 This should include the selection of counsel,
+as defense counsel is central to protecting a person’s liberty interests
+in the face of criminal charges.11 Similarly, in McCoy v. Louisiana, the
+Court reaffirmed that the defendant has the “right to make the funda-
+mental choices about [their] own defense.”12
+Central to representation is a trusting relationship.13 As Justice
+Brennan explained, “crucial decisions . . . can best be made, and
+counsel’s duties most effectively discharged, if the attorney and the
+defendant have a relationship characterized by trust and confi-
+dence.”14 An attorney-client relationship lacking trust can be corro-
+7 Caplin & Drysdale, Chartered v. United States, 491 U.S. 617, 626 (1989) (citation
+omitted); see also United States v. Gonzalez-Lopez, 548 U.S. 140, 144 (2006) (“[A]n
+element of [the Sixth Amendment] is the right of a defendant who does not require
+appointed counsel to choose who will represent him.”) (citing Wheat, 486 U.S. at 159); Luis
+v. United States, 136 S. Ct. 1083, 1089 (2016) (plurality opinion) (“[A]n indigent defendant,
+while entitled to adequate representation, has no right to have the Government pay for his
+preferred representational choice.”).
+8 See Caplin & Drysdale, 491 U.S. at 624 (finding that indigent defendants “have no
+cognizable complaint so long as they are adequately represented by attorneys appointed by
+the courts”).
+9 See Faretta, 422 U.S. at 819 (explaining that the Sixth Amendment “grants to the
+accused personally the right to make his defense” (emphasis added)); see also Jones v.
+Barnes, 463 U.S. 745, 763 (1983) (Brennan, J., dissenting) (identifying autonomy and
+dignity as central to a criminal defendant’s Sixth Amendment rights).
+10 Weaver v. Massachusetts, 137 S. Ct. 1899, 1908 (2017).
+11 See Powell, 287 U.S. at 69 (“Left without the aid of counsel [the defendant] . . . lacks
+both the skill and knowledge adequately to prepare his defense, even though he have a
+perfect one. He requires the guiding hand of counsel at every step in the proceedings
+against him.”).
+12 138 S. Ct. 1500, 1511 (2018).
+13 See MATTHEW CLAIR, PRIVILEGE AND PUNISHMENT: HOW RACE AND CLASS
+MATTER IN CRIMINAL COURT 16–24 (2020) (describing the central importance of the
+lawyer-client relationship to the client’s decisionmaking regarding their case).
+14 Morris v. Slappy, 461 U.S. 1, 21 (1983) (Brennan, J., concurring) (citing Linton v.
+Perini, 656 F.2d 207, 209 (6th Cir. 1981) (“[B]asic trust between counsel and client . . . is a
+cornerstone of the adversary system.”)).
+
+43660-nyu_96-5 Sheet No. 64 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+64
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 4 9-NOV-21 15:07
+1496 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+sive to representation and amount to the denial of counsel.15 Yet,
+where a relationship of trust between counsel and the defendant is
+paramount to effective representation, an indigent defendant can only
+hope for a trusting, communicative relationship with appointed
+counsel.16 In instances where trust fails to form and a breakdown in
+communication occurs, indigent defendants run the risk of being stuck
+with what they could not pay for.17
+Differences in race, ethnicity, and culture between counsel and an
+indigent defendant can create barriers to relationship building, com-
+munication, and trust formation.18 It is at this junction—the right to
+counsel of choice and race—where this Article resides. This Article
+calls for the Court to expand the Sixth Amendment right to counsel of
+choice to indigent people and argues that the expansion could be of
+particular benefit to Black indigent defendants.
+Black people are overrepresented in the criminal legal system,
+the majority of whom are indigent and qualify for public defenders or
+appointed counsel.19 Given the lack of racial diversity in the legal pro-
+15 See Daniels v. Woodford, 428 F.3d 1181, 1198 (9th Cir. 2005) (finding that
+defendant’s complete loss of trust in his attorney amounted to denial of counsel).
+16 Luis v. United States, 136 S. Ct. 1083, 1089 (2016) (plurality opinion) (recognizing
+that the “close working relationship between lawyer and client” requires “confidence” and
+“trust”); see also Daniels, 428 F.3d at 1198–200 (granting habeas relief where defendant
+was effectively denied counsel due to complete breakdown in communication and trust
+between defendant and appointed counsel).
+17 See McKee v. Harris, 649 F.2d 927, 932 (2d Cir. 1981), cert. denied, 456 U.S. 917
+(1982) (finding that defendant’s loss of trust and lack of confidence in appointed counsel
+did not constitute denial of defendant’s right to counsel); Shaw v. United States, 403 F.2d
+528 (8th Cir. 1968) (finding lack of rapport and breakdown in communication between
+defendant and appointed counsel insufficient to constitute ineffective representation where
+counsel was otherwise skilled and competent); Thomas v. Wainwright, 767 F.2d 738, 742
+(11th Cir. 1985) (holding that “defendant’s general loss of confidence or trust in his
+counsel, standing alone, is not sufficient” to justify substituting defense counsel). But see
+Brown v. Craven, 424 F.2d 1166, 1169 (9th Cir. 1970) (granting habeas relief for denial of
+right to counsel where trial court forced defendant to trial, over defendant’s motions for
+substitute counsel, with appointed counsel with whom there was a complete breakdown in
+the relationship).
+18 See, e.g., Susan Bryant, The Five Habits: Building Cross-Cultural Competence in
+Lawyers, 8 CLINICAL L. REV. 33, 42 (2001) (“Lawyers and clients who do not share the
+same culture face special challenges in developing a trusting relationship in which genuine
+and accurate communication can occur.”); Christopher Campbell, Janet Moore, Wesley
+Maier & Mike Gaffney, Unnoticed, Untapped, and Underappreciated: Clients’ Perceptions
+of Their Public Defenders, 33 BEHAV. SCIS. & L. 751, 764 (2015) (finding that differences in
+class and race between defendants and public defenders contributed to distrust); CLAIR,
+supra note 13, at 74 (noting that cultural mismatch between lawyer and client “tends to be
+grounds for mistrust”).
+19 In 1996, court appointed counsel represented 82% of defendants in felony cases in
+state courts in the nation’s largest counties, and in 1998, they represented 66% of
+defendants in federal court. CAROLINE WOLF HARLOW, BUREAUOF JUST. STAT.,DEFENSE
+COUNSELIN CRIMINAL CASES 1 (2000). In 1997, appointed counsel represented 76.6% of
+
+43660-nyu_96-5 Sheet No. 65 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+65
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 5 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1497
+fession, the system overwhelmingly appoints white lawyers to
+represent indigent Black clients.20 For instance, over 70% of assistant
+federal public defenders are white, with white men making up the
+largest subgroup at 40.5%; among Criminal Justice Act attorneys who
+federal courts appoint to represent indigent defendants, approxi-
+mately 80% are white.21 The existence of anti-Black bias among
+defense counsel is well-documented.22 Anti-Black bias in the attorney-
+client relationship can lead to distrust and misunderstanding, corrode
+representation, and further reinforce anti-Black racism within the
+incarcerated Black people in state court and 64.7% of Black people in federal court, a
+higher percentage relative to white and Hispanic defendants in both state and federal
+courts. Id. at 9. The New York Times noted that “[r]oughly four out of five criminal
+defendants are too poor to hire a lawyer and use public defenders or court-appointed
+lawyers.” Richard A. Oppel Jr. & Jugal K. Patel, One Lawyer, 194 Felony Cases, and No
+Time, N.Y. TIMES (Jan. 31, 2019), https://nytimes.com/interactive/2019/01/31/us/public-
+defender-case-loads.html. In federal court, for fiscal year 2016, the ethnic breakdown of
+defendants was 53.3% Hispanic, 20.4% Black, and 22.3% white. U.S. SENT’G COMM’N,
+UNITED STATES SENTENCING COMMISSION QUARTERLY DATA REPORT: FISCAL YEAR
+2016, at 6 (2016), https://www.ussc.gov/sites/default/files/pdf/research-and-publications/
+federal-sentencing-statistics/quarterly-sentencing-updates/USSC-2016_Quarterly_
+Report_Final.pdf. Notably, Hispanic defendants are overrepresented in federal criminal
+cases because they comprise 96% of immigration cases. See id.
+20 AM. BAR ASS’N, ABA PROFILE OF THE LEGAL PROFESSION 33 (2020) (“In 2020,
+86% of all lawyers were non-Hispanic whites, a decline from 89% a decade ago.”); id.
+(“Nearly all people of color are underrepresented in the legal profession . . . . For example,
+5% of all lawyers are African American . . . but the U.S. population is 13.4% African
+American.”);see alsoCLAIR,supra note 13, at 113 (noting that 75% of public defenders in
+Boston are white); NICOLE GONZALEZ VAN CLEVE, CROOK COUNTY: RACISM AND
+INJUSTICEIN AMERICA’S LARGEST CRIMINAL COURT 17 (2016) (finding that 69% of Cook
+County’s public defenders are white, whereas 80% of the indigent clients were either Black
+or Hispanic).
+21 2017 REPORTOFTHE AD HOC COMMITTEETO REVIEWTHE CRIMINAL JUSTICE ACT
+179–80, 181 (2018), https://cjastudy.fd.org/sites/default/files/public-resources/Ad%20Hoc%
+20Report%20June%202018.pdf (“[R]oughly 80 percent of responding [Criminal Justice
+Act] panel attorneys identified as white and male, and more than 60 percent report being
+50 years of age or older.”).
+22 SeeL. Song Richardson & Phillip Atiba Goff, Implicit Racial Bias in Public Defender
+Triage, 122 YALE L.J. 2626, 2634–41 (2013) (recognizing that implicit bias impacts the way
+public defenders evaluate evidence, interact with clients, and accept punishment on behalf
+of clients); Theodore Eisenberg & Sheri Lynn Johnson, Implicit Racial Attitudes of Death
+Penalty Lawyers,53 DEPAUL L. REV. 1539, 1545–55 (2004) (describing an empirical study
+in which lawyers more readily identified white faces with “good” and Black faces with
+“bad”); Joseph J. Avery, Jordan Stark, Yiqiao Zhong, Jonathan D. Avery & Joel Cooper, Is
+Your Own Team Against You? Implicit Bias and Interpersonal Regard in Criminal Defense,
+J. SOC. PSYCH. 1 (2020) (finding in a study of criminal defense attorneys in forty-three U.S.
+states that criminal defense attorneys harbor significant implicit bias for white defendants
+and against Black defendants in ways that impact interpersonal relationships between the
+client and attorney).
+
+43660-nyu_96-5 Sheet No. 65 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+65
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 6 9-NOV-21 15:07
+1498 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+criminal legal system.23 In one study exploring bias in the legal system,
+the authors mused: “If police, prosecutors, jurors, judges, and defense
+attorneys all harbor anti-[B]lack preferences, then the system would
+appear to have limited safeguards to protect [B]lack defendants from
+bias.”24
+As a solution, this Article calls for the expansion of the Sixth
+Amendment right to counsel of choice for all indigent defendants.
+Extending choice to indigent defendants reinforces the principles
+underlying the Sixth Amendment right to counsel and can help
+strengthen the attorney-client relationship. Given the focus of this
+Article, the expansion would also grant a defendant the autonomy to
+request counsel who shares their race and/or to select culturally com-
+petent counsel25 if they believed that lawyer could best represent
+them. Empowering indigent Black people to select, should they
+desire, Black and/or culturally competent public defenders also has
+the potential to help mitigate anti-Black racism in the criminal legal
+system. Current choice of counsel literature does not explore the
+impact an expansion could have on indigent Black defendants, nor
+does indigent defense literature address the potential benefits of racial
+congruency in representation.
+Black lawyers often have the experiential knowledge of what it is
+like to move through the world with the social meaning attached to
+Blackness and thus, firsthand knowledge of the corresponding treat-
+ment and dangers.26 I call this “embodied empathy.”27 As a result,
+many Black public defenders have a greater ability to understand and
+empathize with the stressors and circumstances that resulted in the
+criminal charges their clients face, and to recognize the humanity in
+their clients. This embodied empathy enables many Black defenders
+to build rapport more readily with their clients and to establish trust,
+both of which can contribute to improved representation. Constitu-
+23 See CLAIR, supra note 13, at 74–75; GONZALEZ VAN CLEVE, supra note 20, at
+169–73 (explaining that appointed counsel often perpetuate and participate in the court’s
+racist framework when determining for which clients to zealously advocate).
+24 Jeffrey J. Rachlinski, Sheri Lynn Johnson, Andrew J. Wistrich & Chris Guthrie, Does
+Unconscious Racial Bias Affect Trial Judges?, 84 NOTRE DAME L. REV. 1195, 1222 (2009).
+25 Defined here as a lawyer’s ability to recognize the impact that race, ethnicity, and
+culture have on the client and the client’s experiences, combined with the self-awareness of
+the significance race, ethnicity, and culture have on the lawyer. See, e.g., Scharlette
+Holdman & Christopher Seeds, Cultural Competency in Capital Mitigation, 36 HOFSTRA L.
+REV. 883, 886–87 (2008).
+26 A central tenet of Critical Race Theory is that people of color have “a presumed
+competence to speak about race and racism” given “their different histories and
+experiences with oppression.” RICHARD DELGADO & JEAN STEFANCIC, CRITICAL RACE
+THEORY: AN INTRODUCTION 11 (3d ed. 2017).
+27 See discussion infra Part III.
+
+43660-nyu_96-5 Sheet No. 66 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+66
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 7 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1499
+tionally effective representation depends upon a trusting attorney-
+client relationship.28 And as this Article demonstrates, Black clients
+tend to form a more trusting relationship with Black counsel given the
+shared social meaning assigned to race in this country.29
+Although indigent defendants from other non-dominant ethnici-
+ties and cultures can benefit from culturally competent representation,
+this Article focuses on the potential impact expanding counsel of
+choice may have on indigent Black people facing criminal charges.
+The overrepresentation of Black people in the criminal legal system
+reflects longstanding structural racism born from slavery and the
+racial hierarchy that resulted.30 It also stems from the strength of anti-
+Black bias that stereotypes Black people as dangerous and criminal.31
+These stereotypes are direct descendants of slavery, which produced a
+racialized caste system. In her book, Caste, journalist Isabel Wilkerson
+explains: “What people look like, or, rather, the race they have been
+assigned or are perceived to belong to, is the visible cue to their
+caste.”32 The public then relies on caste as an “historic flash card” to
+determine “how [people] are to be treated, where they are expected
+to live, . . . [and] whether they may be shot by authorities with impu-
+nity.”33 Historian Khalil Muhammad calls it “racial criminalization:
+the stigmatization of crime as ‘[B]lack’” while simultaneously
+28 See United States ex rel. Wilcox v. Johnson, 555 F.2d 115, 122 (3d Cir. 1977)
+(explaining that “mutual trust” between the attorney and client is “necessary to effective
+representation”);see also supra note 14 and accompanying text.
+29 See discussion infra Part IV.
+30 See, e.g., DOUGLAS A. BLACKMON, SLAVERY BY ANOTHER NAME: THE RE-
+ENSLAVEMENTOF BLACK AMERICANSFROMTHE CIVIL WARTO WORLD WAR II53 (2008)
+(“Beginning in the late 1860s, and accelerating after the return of white political control in
+1877, every southern state enacted an array of interlocking laws essentially intended to
+criminalize [B]lack life.”); SAIDIYA V. HARTMAN, SCENES OF SUBJECTION: TERROR,
+SLAVERY, AND SELF-MAKING IN NINETEENTH-CENTURY AMERICA 126–30 (1997)
+(describing the criminalization of Black idleness as a tool for the nation to transition away
+from slave labor into punitive free labor).
+31 SeeN. Jeremi Duru, The Central Park Five, the Scottsboro Boys, and the Myth of the
+Bestial Black Man, 25 CARDOZO L. REV. 1315, 1320 (2004) (exploring the myth of Black
+men as “animalistic, sexually unrestrained, [and] inherently criminal” that began during
+Reconstruction and persists in the criminal legal system); see also Buck v. Davis, 137 S. Ct.
+759, 776 (2017) (finding ineffective assistance of counsel where defense counsel injected
+the “powerful racial stereotype—that of [B]lack men as ‘violence prone’”—into trial for
+jury’s consideration (quoting Turner v. Murray, 476 U.S. 28, 35 (1986) (plurality opinion))).
+32 See ISABEL WILKERSON, CASTE: THE ORIGINSOF OUR DISCONTENTS 18 (2020); see
+also Charles R. Lawrence III, The Id, the Ego, and Equal Protection: Reckoning with
+Unconscious Racism, 39 STAN. L. REV. 317, 350–51 (1987) (“The social meaning of racial
+segregation in the United States is the designation of a superior and an inferior caste, and
+segregation proceeds ‘on the ground that colored citizens are . . . inferior and degraded.’”
+(citing Plessy v. Ferguson, 163 U.S. 537, 560 (1896) (Harlan, J., dissenting))).
+33 WILKERSON,supra note 32, at 18–19.
+
+43660-nyu_96-5 Sheet No. 66 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+66
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 8 9-NOV-21 15:07
+1500 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+“masking . . . crime among whites as individual failure.”34 Studies
+show that police stop and question Black people at higher rates;35
+prosecutors file more serious charges when the suspect is Black and
+the victim is white;36 defense attorneys are more likely to recommend
+plea bargains for Black clients that impose longer sentences than
+those they would recommend for similarly situated white clients;37 and
+judges and juries impermissibly consider race when determining
+whether to convict and what sentence to impose.38
+Foundationally, to support the argument that Black public
+defenders can offer potential benefits to Black clients, this Article
+relies on existing literature from other fields—clinical therapy and
+education—both of which recognize the benefits of same-race repre-
+sentation. To explore how same-race representation functions in prac-
+tice, this Article relies on interviews with Black public defenders
+34 KHALIL GIBRAN MUHAMMAD, THE CONDEMNATIONOF BLACKNESS: RACE, CRIME,
+ANDTHE MAKINGOF MODERN URBAN AMERICA 3 (2010).
+35 SeeEmma Pierson et al., A Large-Scale Analysis of Racial Disparities in Police Stops
+Across the United States, 4 NATURE HUM. BEHAV. 736, 737 (2020) (reporting, based on a
+study surveying data on approximately 255 million police stops, that “among state patrol
+stops, the annual per-capita stop rate for [B]lack drivers was 0.10 compared to 0.07 for
+white drivers; and among municipal police stops, the annual per-capita stop rate for
+[B]lack drivers was 0.20 compared to 0.14 for white drivers”); Devon W. Carbado,
+(E)racing the Fourth Amendment, 100 MICH. L. REV. 946, 976–77 (2002) (describing why
+Black men are likely to be stopped by police at higher rates, even in a racially integrated
+neighborhood).
+36 SeeRobert J. Smith & Justin D. Levinson, The Impact of Implicit Racial Bias on the
+Exercise of Prosecutorial Discretion, 35 SEATTLE U. L. REV. 795, 796–97, 822 (2012)
+(concluding that implicit racial bias likely impacts prosecutor decisionmaking at multiple
+points, including whether to charge or release someone, determining what crime to charge,
+bail determinations, disclosure of exculpatory evidence, plea bargaining, jury selection, and
+closing argument). For a general discussion on the role race plays in a prosecuting
+attorney’s exercise of discretion, see Angela J. Davis, Prosecution and Race: The Power
+and Privilege of Discretion, 67 FORDHAM L. REV. 13 (1998).
+37 Vanessa A. Edkins, Defense Attorney Plea Recommendations and Client Race: Does
+Zealous Representation Apply Equally to All?, 35 LAW & HUM. BEHAV. 413, 422 (2011).
+Interestingly, the study found that attorneys did not necessarily see their Black clients as
+more guilty when recommending a plea with a longer sentence—they actually perceived
+their white clients as more guilty. Id. When asked about likeliness of the client having
+committed the crime (and after the study made race salient) attorneys may have been
+compensating “to appear unbiased and egalitarian.” Id.
+38 SeeJustin D. Levison, Huajian Cai & Danielle Young, Guilty By Implicit Racial Bias:
+The Guilty/Not Guilty Implicit Association Test, 8 OHIO STATE J. CRIM. L. 187, 204(2010)
+(finding significant association between Black and guilty among participants in implicit
+association test study); Rachlinski et al., supra note 24, at 1221 (administering the implicit
+association test to state court judges and finding that they harbor implicit racial bias, that it
+impacts their decisionmaking, but that when prompted about racial bias, the judges were
+motivated to suppress their bias and appeared to do so).
+
+43660-nyu_96-5 Sheet No. 67 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+67
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 9 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1501
+regarding communication and trust39—factors that the American Bar
+Association identifies as integral to criminal representation.40
+Existing choice of counsel scholarship does not examine how
+expanding choice to indigent defendants might impact Black defen-
+dants. Most of the literature questions the appropriateness and
+legality of an income-based distinction, and, based on different theo-
+ries, argues that the Court should extend choice to indigent people.41
+39 In partnership with the Black Public Defender Association (BPDA), I disseminated
+a brief online survey to BPDA members inquiring about public defender racial
+demographics, cross-cultural representation training, recruitment efforts for ethnically
+diverse attorneys, and whether subjects would be willing to receive follow up contact. I
+followed up with a subset of Black public defenders who answered in the affirmative, and I
+conducted individual web-based video interviews with them. I asked each subject open-
+ended questions about their perception of the relevance of their race in representing Black
+clients, the formation of the attorney-client relationship, communication, and the
+development of trust. I conducted these interviews with the approval of Columbia
+University’s Institutional Review Board and the financial support of Columbia Law
+School. Citations to these recordings will be marked as “Defender No. __,” numbered in
+the order in which the interviews took place.
+40 See CRIM. JUST. STANDARDSFORTHE DEF. FUNCTION, Standard 4-3.1(a) (AM. BAR
+ASS’N 2017) [hereinafter ABA STANDARDS] (“Immediately upon appointment or
+retention, defense counsel should work to establish a relationship of trust and confidence
+with each client.”); Am. Bar Ass’n, ABA Guidelines for the Appointment and Performance
+of Defense Counsel in Death Penalty Cases, 31 HOFSTRA L. REV. 913, 1005 (2003)
+[hereinafter ABA Death Penalty Guidelines] (Guideline 10.5.C: “Counsel at all stages of
+the case should engage in a continuing interactive dialogue with the client concerning all
+matters that might reasonably be expected to have a material impact on the case . . . .”); see
+also Morris v. Slappy, 461 U.S. 1, 21 & n.4 (1983) (Brennan, J., concurring) (“[C]ounsel’s
+duties [are] most effectively discharged, if the attorney and the defendant has a
+relationship characterized by trust and confidence.” (citing ABA STANDARDS FOR
+CRIMINAL JUSTICE 4-3.1(a) (2d ed. 1980) (stating that “[n]othing is more fundamental to
+the lawyer-client relationship than the establishment of trust and confidence”)).
+41 See Peter W. Tague, An Indigent’s Right to the Attorney of His Choice, 27 STAN. L.
+REV. 73, 87–99 (1974) [hereinafter Tague, Right to Attorney of Choice] (advancing an equal
+protection argument for extending right to counsel of choice); Stephen J. Schulhofer &
+David D. Friedman, Rethinking Indigent Defense: Promoting Effective Representation
+Through Consumer Sovereignty and Freedom of Choice for All Criminal Defendants, 31
+AM. CRIM. L. REV. 73, 76 (1993) (recommending “free market for defense services” where
+indigent defendants can choose their lawyers to address inherent conflict of interest of
+state-funded indigent defense); Wayne D. Holly, Rethinking the Sixth Amendment for the
+Indigent Criminal Defendant: Do Reimbursement Statutes Support Recognition of a Right to
+Counsel of Choice for the Indigent?, 64 BROOK. L. REV. 181, 224–29 (1998) (suggesting
+reimbursement system to extend counsel of choice to poor people to advance
+constitutional values); Peter W. Tague, Ensuring Able Representation for Publicly-Funded
+Criminal Defendants: Lessons from England, 69 U. CIN. L. REV. 273, 277 (2001)
+(advocating for adoption of England’s voucher scheme, enabling indigent defendants to
+hire a lawyer of their choice to “better align the lawyer’s incentives with the defendant’s”);
+Stephen J. Schulhofer, Client Choice for Indigent Criminal Defendants: Theory and
+Implementation, 12 OHIO ST. J. CRIM. L. 505 (2015) (explaining theoretical underpinnings
+of indigent client choice and conventional objections, discussing client-choice model in
+practice, and suggesting expansion); Robert E. Toone, The Absence of Agency in Indigent
+Defense, 52 AM. CRIM. L. REV. 25 (2015) (relying on agency theory to help balance control
+
+43660-nyu_96-5 Sheet No. 67 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+67
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 10 9-NOV-21 15:07
+1502 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+For instance, thirty years ago, David Friedman and Stephen
+Schulhofer argued that extending the right would likely improve the
+attorney-client relationship, both because the client would be able to
+exercise agency and the lawyer would have “a self-interested reason to
+value the satisfaction of his client.”42 Although this Article agrees that
+extending choice could improve representation, it takes the analysis a
+step further by elevating the importance of the attorney-client rela-
+tionship when examining the doctrine. It also argues that extending
+choice may be particularly beneficial to indigent Black defendants
+should they choose a Black and/or culturally competent lawyer. In
+those instances, there is potential to mitigate anti-Black racism in the
+system. Conversely, existing scholarship makes brief mention of how
+race may impact the attorney-client relationship and representation.43
+This Article proceeds as follows. Part I examines the history and
+principles underlying the Sixth Amendment right to counsel, which
+are tied to Black people and indigency, arguing that the Court must
+extend the right to counsel of choice to make good on the constitu-
+tional guarantee. Part II asserts that representation matters, exploring
+same-race relationships in clinical therapy and education to provide a
+framework for advancing Black on Black representation in indigent
+defense. Part III defines embodied empathy, the unspoken familiarity
+among Black people given their shared experience with the social
+meanings assigned to race. Through firsthand accounts from Black
+public defenders, Part IV explores how Black on Black representation
+can impact the formation of the attorney-client relationship, including
+the quality of communication and the development of trust. This Part
+also argues that same-race representation may help mitigate anti-
+Black racism in the criminal legal system and identifies some of the
+limitations of same-race representation. The Article concludes with a
+recommendation that recruiting more Black public defenders and
+between indigent client and appointed counsel and to help improve indigent defense
+services); John Rappaport, The Structural Function of the Sixth Amendment Right to
+Counsel of Choice, 2016 SUP. CT. REV. 117, 118 (2016) (arguing that counsel of choice for
+poor people should not be justified as advancing autonomy or fairness, but “as a weak,
+system-level safeguard against socialization of the criminal defense bar”); Janet Moore,
+The Antidemocratic Sixth Amendment, 91 WASH. L. REV. 1705, 1705 (2016) (arguing that
+the Supreme Court’s “no-choice” language is dicta and that the Court should extend the
+right to poor people to promote democracy).
+42 Schulhofer & Friedman, supra note 41, at 104.
+43 See Tague,Right to Attorney of Choice, supra note 41, at 80 n.41 (mentioning that
+indigent defendants likely place greater trust and confidence in attorneys they choose,
+which is “particularly true in cases involving . . . racial issues if the indigent feels the
+attorney identifies in some way with him”); Schulhofer, supra note 41, at 534 (noting that a
+“defendant may feel that he will be most comfortable . . . with an attorney of his own race
+[or] ethnicity”).
+
+43660-nyu_96-5 Sheet No. 68 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+68
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 11 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1503
+training culturally competent lawyers are critical next steps regardless
+of whether the Court expands the right to counsel of choice to people
+who qualify for appointed counsel.
+I
+THE SIXTH AMENDMENT RIGHT TO COUNSEL OF CHOICE
+The Sixth Amendment contains seven procedural protections for
+those accused of committing a crime.44 This Article focuses on the
+right to counsel, derived from these words: “In all criminal prosecu-
+tions, the accused shall enjoy the right . . . to have the Assistance of
+Counsel for his defence.”45 Although today we view the right to
+counsel as a central component of a fair trial and due process,46 the
+legal system did not hold counsel in high regard until the 1920s and
+’30s, when the Court began invalidating state criminal convictions for
+violations of defendants’ constitutional rights.47 Many of these cases
+involved indigent Black defendants in the South,48 including Powell v.
+Alabama, which established the right to counsel and the right to
+counsel of choice in 1932.49 The Court later elucidated that “[t]he
+right to select counsel of one’s choice,” though not explicitly men-
+tioned in the Amendment’s text, is part of “the root meaning” of the
+Sixth Amendment right to counsel.50 Relative to other aspects of the
+Sixth Amendment, the counsel of choice doctrine is “young and
+undertheorized.”51 Thus, it is instructive to examine the social and his-
+torical context of Powell v. Alabama to help identify the Court’s moti-
+44 Including the right to a speedy trial, a public trial, trial before an impartial jury, to
+notice, of confrontation, to compulsory process, and to the assistance of counsel. U.S.
+CONST. amend. VI.
+45 Id.
+46 See, e.g.,United States v. Cronic, 466 U.S. 648, 653 (1984) (“An accused’s right to be
+represented by counsel is a fundamental component of our criminal justice system.”).
+47 See LESTER BERNHARDT ORFIELD, CRIMINAL APPEALS IN AMERICA 243 (1939)
+(discussing the increase in federal cases applying the Due Process Clause of the Fourteenth
+Amendment).
+48 See Michael J. Klarman, The Racial Origins of Modern Criminal Procedure, 99
+MICH. L. REV. 48 (2000) (explaining that the Court’s intervention in Black defendant cases
+involving egregious Jim Crow “justice” in the South helped shape criminal procedure in
+ways that would not have occurred had the cases involved marginal unfairness); see also A.
+Leon Higgenbotham, Jr. & William C. Smith, The William B. Lockhart Lecture: The
+Hughes Court and the Beginning of the End of the “Separate But Equal” Doctrine, 76
+MINN. L. REV. 1099, 1121–22 (1992) (discussing the “Hughes Court’s growing sensitivity to
+the plight of [B]lacks in southern courts”).
+49 287 U.S. 45, 53, 68–71 (1932).
+50 United States v. Gonzalez-Lopez, 548 U.S. 140, 147–48 (2006). In 2016, the Court
+reaffirmed counsel of choice as part of the Sixth Amendment right to counsel. See Luis v.
+United States, 136 S. Ct. 1083, 1088 (2016) (holding that “pretrial restraint of legitimate,
+untainted assets needed to retain counsel of choice violates the Sixth Amendment”).
+51 Rappaport, supra note 41, at 120.
+
+43660-nyu_96-5 Sheet No. 68 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+68
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 12 9-NOV-21 15:07
+1504 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+vation in recognizing the right and to support an expansion of the
+right to counsel of choice to indigent people.
+A. The Development of Indigent Defense
+The prominence of defense counsel in securing and protecting the
+rights of the accused came on the heels of the Progressive Era when
+municipalities started delivering criminal defense services to low-
+income people. Beginning in the 1910s, these efforts included
+government-funded public defender offices52 and privately funded
+volunteer defense services.53 Although each model provided legal ser-
+vices to indigent people charged with crimes, the underlying philoso-
+phies differed. Government-funded defender systems represented
+democracy and a necessary element of due process, a concept just
+beginning to take form.54 The rationale behind providing privately
+funded counsel was to enable lawyers to operate independently of the
+state, with a singular focus and loyalty to the client. The assumption
+was that a government-funded defender system could not operate in
+the best interest of low-income people because the government also
+funded the prosecution.55 What was clear about both models was that
+the delivery of criminal defense services to low-income people was to
+enable “equality before the law,” relative to defendants who could
+afford counsel.56 The insistence on equal footing between indigent
+defendants and those with means cuts against the contemporary class-
+based distinction in the right to counsel of choice.
+52 See Michael McConville & Chester L. Mirsky, Criminal Defense of the Poor in New
+York City, 15 N.Y.U. REV. L. & SOC. CHANGE 581, 602 (1986–87) (describing the
+establishment of institutional public defender offices in Los Angeles in 1914, and in
+Portland, Oregon, Columbus, Ohio, and Omaha, Nebraska in 1915–16); LAW REFORM
+COMM., THE ASS’NOFTHE BAROFTHE CITYOF N.Y., THE NECESSITYAND ADVISABILITY
+OF CREATING THE OFFICE OF THE PUBLIC DEFENDER 4–5 (1915), https://archive.org/
+details/necessityadvisab00asso [hereinafter NECESSITY & ADVISABILITY] (discussing newly
+created public defender agencies in Oklahoma and Los Angeles to determine whether
+New York City should create one).
+53 See SARA MAYEUX, FREE JUSTICE: A HISTORY OF THE PUBLIC DEFENDER IN
+TWENTIETH-CENTURY AMERICA 50 (2020) (noting that elite lawyers in Philadelphia and
+Boston operated privately funded voluntary defender systems); see also NECESSITY &
+ADVISABILITY, supra note 52, at 6 (describing privately funded defense services in
+Portland, Oregon and Houston, Texas).
+54 See MAYEUX,supra note 53, at 7 (arguing that the public defender and the right to
+counsel as part of due process formed in tandem during the twentieth century).
+55 See NECESSITY & ADVISABILITY, supra note 52, at 16–17 (discussing the inherent
+conflict between the prosecution’s goals and the goals of the accused). This same conflict of
+interest concern serves as the contemporary rationale for extending counsel of choice to
+indigent defendants. See supra note 41.
+56 NECESSITY & ADVISABILITY,supra note 52, at 22.
+
+43660-nyu_96-5 Sheet No. 69 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+69
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 13 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1505
+New York City was one example of a municipality engaged in the
+debate over how best to deliver criminal defense services to low-
+income people. Members of the New York City and New York State
+Bar Associations constituted the primary voices in these conversa-
+tions.57 In 1917, Charles Evans Hughes was elected president of both
+the New York State Bar Association and the Legal Aid Society.58 His
+leadership in the development of indigent defense in New York City
+helped shape his views in Powell, which the Court decided during his
+tenure as Chief Justice.59 Hughes firmly believed in providing “expert
+legal advice” to the poor; without it, he argued “it is idle to talk of
+equality before the law.”60 During his tenure leading the New York
+State Bar Association, Hughes helped develop the Voluntary
+Defenders Committee,61 a privately funded indigent defense service,
+which later merged with the Legal Aid Society, creating a permanent
+criminal division to represent indigent people charged with crimes.62
+A decade and a half later, the Hughes Court (1930–1941) was the
+first to focus on the rights of criminal defendants, helping to establish
+and shape modern criminal procedure.63 The Court’s actions in these
+cases also signaled an awareness of the unique experiences of Black
+people in the criminal legal system. Jurist and scholar A. Leon
+Higgenbotham, Jr. observed that these decisions demonstrated an
+awareness that the legal system “treated [B]lack criminal defendants
+far more harshly than their white counterparts, and that this harsh
+treatment was not a figment of [B]lacks’ imaginations.”64 During the
+1930s, the Court overturned multiple criminal convictions in cases
+involving Black defendants and blatant injustices. These included
+cases involving a trial judge refusing to allow defense counsel to ques-
+57 Id.
+58 MERLO J. PUSEY, CHARLES EVANS HUGHES 367–68, 623 (1951) (noting that Hughes
+also served as president of the New York City Bar Association).
+59 Chief Justice Hughes “took the lead in reversing the [Scottsboro Boys’] convictions.”
+Id. at 724 (explaining that Hughes, “[i]n line with his policy of asking conservative judges
+to write liberal opinions,” assigned the decision to Justice George Sutherland).
+60 Id. at 383 (citing Hughes Calls Law Best Americanizer,N.Y. TIMES, Aug. 28, 1920, at
+6).
+61 The Voluntary Defenders Committee was an experimental program that offered
+private lawyers to indigent defendants through the financial support of wealthy donors,
+primarily John D. Rockefeller. See MAYEUX, supra note 53, at 50 (describing program).
+Colloquially, these volunteer lawyers became known as “Rockefeller lawyers.” Id.
+62 Id.
+63 See A. LEON HIGGENBOTHAM, JR., SHADES OF FREEDOM: RACIAL POLITICS AND
+PRESUMPTIONS OF THE AMERICAN LEGAL PROCESS 160 (1996) (“The Supreme Court’s
+new direction in criminal justice matters became apparent shortly after Hughes became
+Chief Justice in 1930.”).
+64 Higgenbotham, Jr. & Smith, supra note 48, at 1112.
+
+43660-nyu_96-5 Sheet No. 69 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+69
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 14 9-NOV-21 15:07
+1506 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+tion jurors about racial bias;65 a coerced confession;66 the exclusion of
+Black people from juries;67 and the denial of the right to counsel.68
+The Court later extended the right to counsel to defendants facing
+federal criminal charges.69
+B. Curtailing Legal Lynching
+The Court’s recognition of the right to counsel for the poor coin-
+cided with its recognition of the right to counsel of choice in Powell v.
+Alabama.70 The case involved nine poor Black youths, falsely accused
+of raping two white women in rural Alabama.71 The trial judge techni-
+cally appointed counsel, but counsel lacked the time and expertise to
+provide adequate representation. After brief proceedings that could
+be described as “trials” in name only, all-white juries sentenced all but
+the youngest to death.72 By the early 1930s, capital punishment had
+largely replaced extrajudicial lynchings of Black people.73 Lynchings,
+which often occurred in public and with local law enforcement’s tacit
+approval or even participation,74 traumatized entire Black communi-
+65 Aldridge v. United States, 283 U.S. 308, 311 (1931). Chief Justice Hughes wrote the
+opinion overturning the defendant’s conviction and death sentence. Id. at 309, 315.
+66 Brown v. Mississippi, 297 U.S. 278 (1936). Chief Justice Hughes wrote the scathing,
+unanimous opinion, holding that “[t]he rack and torture chamber may not be substituted
+for the witness stand.” Id. at 285–86. He further explained that “[i]t would be difficult to
+conceive of methods more revolting to the sense of justice than those taken to procure the
+confessions of these petitioners, and the use of the confessions thus obtained as the basis
+for conviction and sentence was a clear denial of due process.” Id. at 286; Chambers v.
+Florida, 309 U.S. 227, 228, 242 (1940) (overturning the convictions where law enforcement
+officials procured the coerced confessions).
+67 Norris v. Alabama, 294 U.S. 587, 589 (1935) (holding systemic exclusion of Black
+people from grand and petit juries violated the Fourteenth Amendment); Hale v.
+Kentucky, 303 U.S. 613, 616 (1938) (per curiam) (same).
+68 Powell v. Alabama, 287 U.S. 45, 68–71 (1932).
+69 Johnson v. Zerbst, 304 U.S. 458, 463 (1938).
+70 See Powell, 287 U.S. at 53, 68–71 (granting constitutional right to counsel in criminal
+trials and right to counsel of choice).
+71 Id. at 48–52; Klarman, supra note 48, at 51 (noting that the youths ranged in age
+from thirteen to twenty). For a detailed account of the legal proceedings, see generally
+DAN T. CARTER, SCOTTSBORO: A TRAGEDYOFTHE AMERICAN SOUTH (2d ed. 2007).
+72 See Powell, 287 U.S. at 50, 74 (challenging convictions based on the state’s systematic
+exclusion of Black people from the juries).
+73 SeeGLENDA ELIZABETH GILMORE, DEFYING DIXIE: THE RADICAL ROOTSOF CIVIL
+RIGHTS, 1919–1950, at 126 (2008) (describing “[a] trial” as “a lynching in disguise”); James
+W. Clarke, Without Fear or Shame: Lynching, Capital Punishment and the Subculture of
+Violence in the American South, 28 BRITISH J. POL. SCI. 269, 284 (1998) (explaining that
+capital punishment, “a more palatable form of violence[,]” replaced lynching).
+74 SeeSHERRILYN A. IFILL, ONTHE COURTHOUSE LAWN: CONFRONTINGTHE LEGACY
+OF LYNCHING IN THE TWENTY-FIRST CENTURY 77–84 (2007) (describing instances where
+“police officers determined whether a [B]lack man would face a trial or a lynch mob”);
+ERIC FONER, RECONSTRUCTION: AMERICA’S UNFINISHED REVOLUTION 1863–1877, at 434
+(Henry Steele Commager & Richard B. Harris eds., Harper Collins Publishers 2014)
+
+43660-nyu_96-5 Sheet No. 70 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+70
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 15 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1507
+ties and spurred the Great Migration.75 External pressure, including
+from abroad, contributed to the sharp decrease in this so-called “mob-
+justice” by the late 1930s and early 1940s.76
+Lynchings, and the hasty trials that replaced them, frequently
+began with the alleged rape of a white woman by a Black man—or
+groups of Black men, such as in Powell.77 In reality, these allegations
+frequently stemmed from an economic dispute, a perceived social
+transgression, or a consensual interracial relationship.78 The state’s
+criminal legal system treated Black indigent defendants charged with
+(“Much Klan activity took place in those Democratic counties where local officials either
+belonged to the organization or refused to take action against it.”); see also United States
+v. Shipp, 203 U.S. 563, 571–72, 575 (1906) (finding Hamilton County, Tennessee Sheriff
+Shipp, among other officials, in contempt of court for enabling the mob to lynch a Black
+defendant in the sheriff’s custody).
+75 EQUAL JUST. INITIATIVE, LYNCHING IN AMERICA: CONFRONTING THE LEGACY OF
+RACIAL TERROR 3 (3d ed. 2017), [hereinafter LYNCHINGIN AMERICA] (“Terror lynchings
+fueled the mass migration of millions of [B]lack people from the South into urban ghettos
+in the North and West throughout the first half of the twentieth century.”); ISABEL
+WILKERSON, THE WARMTH OF OTHER SUNS 533 (2010) (noting that the number of
+lynchings declined with each decade of the Great Migration as the number of Black people
+leaving the South increased).
+76 See PHILIP DRAY, AT THE HANDS OF PERSONS UNKNOWN: THE LYNCHING OF
+BLACK AMERICA 407–11 (2002) (showing that a combination of factors contributed to the
+decline, including international opinion of America’s hypocrisy of decrying human rights
+abuses abroad while condoning human rights abuses at home); see also Barbara Holden-
+Smith, Lynching, Federalism, and the Intersection of Race and Gender in the Progressive
+Era, 8 YALE J.L. & FEMINISM 31, 39–40 (1996) (explaining that the decrease in lynching
+was not due to any state or federal intervention).
+77 See, e.g., DRAY,supra note 76, at 4–5 (“Stories of sexual assault, insatiable [B]lack
+rapists, tender white virgins, and manhunts led by ‘determined men’ that culminated in
+lynchings [filled] . . . the South’s daily newspapers . . . . The cumulative impression was of a
+world made precarious by Negroes.”); GILMORE,supra note 73, at 125 (describing the rape
+myth perpetuated by “upper-class white men [to] destroy[] the populist coalitions between
+white and [B]lack working-class men by arguing that such interracial alliances put white
+women at the mercy of [B]lack men’s lust”); ESTELLE B. FREEDMAN, REDEFINING RAPE:
+SEXUAL VIOLENCEINTHE ERAOF SUFFRAGEAND SEGREGATION 89–103 (2013) (arguing
+that the racialization of rape—casting Black men as rapists and white women as victims—
+began to solidify in the 1880s, becoming a powerful tool to deny Black civil rights,
+reinforce white supremacy, and justify the brutal execution of Black men for decades).
+78 See GILMORE, supra note 73, at 98–99 (describing that “the first step in a lynching
+was an African American’s argument with a landlord or boss over earnings”; that
+“established members of the [B]lack community” were also lynched for “run[ning] afoul of
+white elites over some commercial transaction”; and that “poor [B]lack transients looking
+for work often found themselves accused of crimes by people they had never met”);
+LYNCHING IN AMERICA, supra note 75, at 29 (“Through lynching, Southern white
+communities asserted their racial dominance over the region’s political and economic
+resources—a dominance first achieved through slavery would not be restored through
+blood and terror.”); DRAY, supra note 76, at 7 (explaining that Ida Wells-Barnett, the
+antilynching crusader and journalist, found that “in the majority of cases the charge of rape
+was untrue, and had either been added to a complaint about a [B]lack suspect in order to
+incense local white or, . . . to obscure [interracial] . . . consensual sex” between a Black man
+and white woman).
+
+43660-nyu_96-5 Sheet No. 70 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+70
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 16 9-NOV-21 15:07
+1508 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+non-capital offenses just as swiftly.79 These quick, seemingly lawless
+adjudications were not exclusively a Southern problem.80 However,
+after slavery, the region relied heavily on the criminal legal system to
+facilitate Black people’s virtual re-enslavement and to repopulate a
+forced labor system through convict leasing and other exploitative
+measures.81
+Given weak federal oversight, local officials needed only to pro-
+vide defendants with the appearance of due process.82 The federal
+judiciary did not insert itself to enforce individuals’ constitutional
+rights in state criminal cases with regularity until the Hughes Court.83
+79 See, e.g., Derrick A. Bell, Jr., Racism in American Courts: Cause for Black
+Disruption or Despair?, 61 CALIF. L. REV. 165, 176 (1973) (noting that Black defendants
+“fared measurably poorer than their white counterparts” in criminal courts and that “cases
+involving [B]lack defendants were generally heard in less time than those involving
+whites”).
+80 See id. (“[A] Detroit study . . . found that a significant number of defendants were
+not advised of their rights. Black defendants were more likely than whites to have received
+no proper indication of their charge, the right to testify, or the right to call and cross-
+examine witnesses.”); id. at 177 (describing a Boston study revealing “shocking practices”
+in criminal trial courts where the majority of defendants were Black and other ethnic
+minorities, including that “defendants were not being adequately advised of their right to
+counsel; . . . bail was set by reference to the charge and the defendant’s prior record”
+instead of relevant factors like “family ties, length of residence in the community and job
+and financial resources”).
+81 See BLACKMON, supra note 30, at 57 (describing how “convict leasing adopted
+practices almost identical to those emerging in slavery in the 1850s”).
+82 See GILMORE,supra note 73, at 126 (describing the threat to “[B]lack safety” in the
+South as the appearance of “lawfulness”). For instance, consider the trial of Jesse
+Washington, a Black teenager accused of murdering and sexually assaulting a white woman
+in Waco, Texas. DRAY, supra note 76, at 216. The judge allowed the angry white mob
+inside the courtroom. Id. at 217. The court-appointed attorney “failed to exploit the most
+glaring weakness in the prosecution’s case,” and the jury swiftly sentenced Washington to
+death. The mob immediately snatched Washington from the courtroom, placed a chain
+around his neck, and strung him up on a tree near city hall. Id. at 217–18. Participants
+lowered his lifeless body, lit him on fire, and later cut off his fingers, toes, and penis as
+souvenirs. Id. at 218. Then, “a man on a horse lassoed the charred remains and dragged
+them through town, followed by a group of young boys. The skull eventually bounced loose
+and was captured by some of the boys, who pried the teeth out and offered them for sale.”
+Id.;see also Taken from the Court Room and Burned, EVENING TIMES-REPUBLICAN, May
+15, 1916, at 1 (describing the lynching of Jesse Washington).
+83 See ORFIELD, supra note 47, at 243 (describing the Court’s “develop[ing]” actions
+“to insure a fair trial in the state courts” as “a vigorous and orthodox application of the
+[D]ue [P]rocess [C]lause of the Fourteenth Amendment”). Notable exceptions included
+Moore v. Dempsey, 261 U.S. 86, 87, 92 (1923) (reversing state court proceedings, which,
+“although a trial in form, were only a form, and that the [five Black] appellants were
+hurried to conviction [for murder] under the pressure of a mob without any regard for
+their rights and without according to them due process of law”) and Strauder v. West
+Virginia, 100 U.S. 303 (1880). In Strauder, the Court reversed a state criminal conviction,
+holding that the state’s exclusion of people from jury service on account of race violated
+the Fourteenth Amendment. Id. at 310. However, the Court’s prohibition of excluding
+Black people from juries was largely symbolic until the mid-twentieth century, when small
+
+43660-nyu_96-5 Sheet No. 71 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+71
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 17 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1509
+Without protection from the federal courts, an indigent person, espe-
+cially an indigent Black person, had little hope of retaining their con-
+stitutional rights against the state’s power. When the state prosecuted
+death eligible offenses, the trials occurred before all-white and all-
+male juries,84 and often resulted in a conviction, death sentence,85 and
+rapidly scheduled execution.86 Unquestionably, the defendant’s access
+to effective representation would have thrown a wrench in these kan-
+garoo court proceedings. In fact, on appeal, indigent defendants often
+raised claims challenging the appointment or effectiveness of counsel,
+but “more shocking legal infractions such as mob-dominated trials and
+coerced confessions” overshadowed them.87
+Yet, the Southern bar, with few exceptions, was unwilling to pro-
+vide quality defense services to poor Black people charged with
+crimes, let alone capital crimes.88 Community sentiment was such that
+any local lawyer attempting to uphold the constitutional rights of
+numbers of Black people began regularly serving on state and federal juries. See Alexis
+Hoag, An Unbroken Thread: African American Exclusion from Jury Service, Past and
+Present, 81 LA. L. REV. 55, 62–65 (2020).
+84 EQUAL JUST. INITIATIVE, ILLEGAL RACIAL DISCRIMINATIONIN JURY SELECTION: A
+CONTINUING LEGACY 12 (2010) (explaining that all-white juries continued to sentence
+Black defendants to death into the 1980s, even after the Supreme Court outlawed systemic
+exclusion of Black people from juries due to the discriminatory use of peremptory strikes);
+see also Hoag,supra note 83, at 62–65.
+85 See, e.g.,Moore, 261 U.S. at 89; Norris v. Alabama, 294 U.S. 587, 588 (1935); Brown
+v. Mississippi, 297 U.S. 278, 279 (1936); Hale v. Kentucky, 303 U.S. 613, 615 (1938).
+86 Between 1930 and 1972, 455 people were executed for rape. Of those, 405 (89.1%)
+were Black. Moreover, 443 of the 455 of those executed were in former Confederate states.
+Brief for ACLU et. al. as Amici Curiae in Support of Petitioner, Kennedy v. Louisiana, 554
+U.S. 407 (2008) (No. 07-343), at 10 (citing U.S. DEP’T OF JUST., BUREAU OF PRISONS,
+NATIONAL PRISONER STATISTICS BULLETIN NO. 45: CAPITAL PUNISHMENT 1930–1968
+(1969)).
+87 See Shaun Ossei-Owusu, The Sixth Amendment Fac¸ade: The Racial Evolution of the
+Right to Counsel, 167 U. PA. L. REV. 1161, 1191–92 (2019). For example, in Moore, 261
+U.S. at 90–92—which stemmed from the 1919 Elaine, Arkansas massacre, in which white
+mobs killed several Black people over a labor dispute—the Black defendants included a
+claim of ineffective assistance of counsel in their writ of habeas corpus. Without giving the
+claim any weight, the Court overturned the murder conviction of the Black defendant
+based on the mob-dominated proceedings instead. Likewise, the Court overturned the
+murder conviction for a Black defendant in Brown v. Mississippi, 297 U.S. 278, 281–87
+(1936), due to a coerced confession even though the defendant also raised ineffective
+assistance of counsel for counsel’s failure to exclude the confession after the state
+introduced it.
+88 See U.S. COMM’N ON CIV. RTS., LAW ENFORCEMENT: A REPORT ON EQUAL
+PROTECTION IN THE SOUTH 184–88 (1965) [hereinafter U.S. COMM’N ON CIV. RTS. 1965
+REPORT] (describing lack of local counsel in the South to represent Black people in
+criminal and civil proceedings); see also David S. Mann, Not for Lucre or Malice: The
+Southern Negro’s Right to Out-of-State Counsel, 64 NW. U. L. REV. 143, 144 (1969) (“The
+southern Negro’s inability to obtain competent and vigorous counseling is primarily
+attributable to a single phenomenon—the abdication by the southern bar of its obligation
+to serve a disfavored minority.”).
+
+43660-nyu_96-5 Sheet No. 71 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+71
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 18 9-NOV-21 15:07
+1510 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+Black defendants would likely have been met with violence or profes-
+sional and social rejection.89 Given the pervasive anti-Black racism in
+the region, the Court’s recognition of the right to counsel of choice in
+Powell considered the defendants’ particular need for counsel who
+could elevate their humanity beyond the salacious criminal charges,
+counsel who could provide meaningful and effective representation,
+counsel who could see them.90 The Court’s decision indicated that for
+a fair trial to occur, the defendant needed to be empowered to select
+their own lawyer, a lawyer who could provide effective representation
+in the face of threats of violence from a “tense, hostile, and excited”
+public.91 The opinion repeatedly mentioned that the boys, all from out
+of state, had neither friends nor relatives nearby to assist them.92 In
+short, there were no Black people around to come to their defense.
+At the time, none of Alabama’s law schools would accept, let
+alone graduate, a Black student.93 By the late 1930s, there were only
+four Black lawyers in the entire state.94 In 1925, the need for lawyers
+willing to represent Black Alabamians was so great that Black people
+formed the Protective National Detective Association.95 For an
+annual membership fee, the Association provided Black Alabamians
+free legal services in criminal and civil court until 1937, when the
+Association ended.96 The first Black lawyer in the Birmingham Bar
+89 See, e.g., Mann, supra note 88, at 145 (explaining that the few southern lawyers
+willing to represent Black people could be subjected to “a wide range of adverse responses
+including social ostracism, loss of clients, loss of employment, trumped-up criminal
+charges, the threat of disbarment, and physical violence” (citation omitted)).
+90 Ava DuVernay named her Netflix series When They See Us, based on the true story
+of five Black and brown teenagers falsely accused of raping a white woman in Central Park
+in 1989, to force viewers to recognize the boys’ individual humanity rather than lumping
+them together, nameless, as “The Central Park Five,” which is how the media, at best,
+referred to them. See Charles R. Lawrence III, Implicit Bias in the Age of Trump, 133
+HARV. L. REV. 2304, 2342–50 (2020) (reviewing JENNIFER L. EBERHARDT, BIASED:
+UNCOVERING THE HIDDEN PREJUDICE THAT SHAPES WHAT WE SEE, THINK, AND DO
+(2019)). Countless comparisons have been made between the Central Park and Scottsboro
+wrongful convictions. See, e.g., Duru, supra note 31.
+91 Powell v. Alabama, 287 U.S. 45, 51 (1932).
+92 See id. at 52–53.
+93 See UA Law School to Commemorate 45th Anniversary of First African-American
+Graduates, UNIV. OF ALA. NEWS CTR. (Mar. 27, 2017), https://www.ua.edu/news/2017/03/
+ua-law-school-to-commemorate-45th-anniversary-of-first-african-american-graduates
+(reporting that in 1972, Michael Figures, Booker Forte, Jr., and Ronald E. Jackson were
+the first Black graduates of University of Alabama Law School); J. CLAY SMITH, JR.,
+EMANCIPATION: THE MAKING OF THE BLACK LAWYER, 1844–1944, at 271–75 (1993)
+(noting that the few Black lawyers practicing in Alabama between 1871 and 1944
+graduated from Howard Law School, University of Michigan Law, Boston University
+School of Law, LaSalle Extension University in Chicago, and Yale Law School).
+94 SMITH, JR.,supra note 93, at 274.
+95 See id.
+96 See id.
+
+43660-nyu_96-5 Sheet No. 72 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+72
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 19 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1511
+Association graduated from Howard Law School a decade and a half
+later in 1947,97 and the first Black lawyer in Selma, also a Howard
+graduate, started practicing in 1958.98 In fact, there was a dearth of
+Black or friendly counsel anywhere in the region.99 Over three
+decades after the first of the Scottsboro trials, the U.S. Commission on
+Civil Rights reported that Southern lawyers and state officials
+“continue[d] to distort the processes of public power so that Negro
+citizens may not enjoy the legal equality promised them or exercise
+the liberties assured them by the Constitution.”100 The report noted
+that the Southern bar’s abdication of upholding and protecting the
+rights of Black people in the justice system was “by no means exclu-
+sively a southern problem.”101
+With respect to the lack of Black representation, the Court
+focused on the critical importance of counsel to a fair trial, referring to
+defense counsel as “vital and imperative” to “due process within the
+meaning of the Fourteenth Amendment.”102 This was a relatively new
+concept at the time. Although the trial judge had appointed counsel in
+the case, the appointment was meaningless without the defendant’s
+“fair opportunity to secure counsel of his own choice” and sufficient
+time for counsel to adequately prepare a defense.103 The Court’s
+insertion of choice in recognizing the right to counsel signaled that
+autonomy was a significant part of actualizing the Sixth Amendment
+right. Without autonomy to select their own lawyers, the defendants in
+Powell were beholden to the trial court’s selection, which in this
+97 See Holcomb B. Noble, Oscar Adams, 72, a Pioneer As Alabama Top Court Justice,
+N.Y. TIMES (Feb. 18, 1997), https://www.nytimes.com/1997/02/18/us/oscar-adams-72-a-
+pioneer-as-alabama-top-court-justice.html (Oscar Adams later served as the first Black
+judge of the Alabama Supreme Court, appointed in 1980 and elected in 1982, becoming the
+first Black person to be elected to a statewide office).
+98 See Bruce Weber, J.L. Chestnut Jr., Early Leader in Civil Rights Movement, Is Dead
+at 77, N.Y. TIMES (Sept. 30, 2008), https://www.nytimes.com/2008/10/01/us/01chestnut.html
+(describing the life of J.L. Chestnut, a Black lawyer who fought for civil rights and
+practiced in Dallas County).
+99 See Richard Hammer, ‘Yankee Lawyer Go Home,’N.Y. TIMES, Mar. 12, 1967, at 8E
+(explaining that “[t]here are too few Negro lawyers to handle the thousands of cases that
+might have required counsel under the Sixth Amendment and Gideon” and that most
+Southern white lawyers refuse to accept civil rights cases for fear of “social ostracism”).
+The dearth of Black lawyers was due to the lack of opportunity to attend graduate school,
+which “meant that Black people were hard-pressed for justice in the courts.” ADAM
+HARRIS, THE STATE MUST PROVIDE: WHY AMERICA’S COLLEGES HAVE ALWAYS BEEN
+UNEQUAL—AND HOWTO SET THEM RIGHT 85 (2021) (noting that there were only 1,230
+Black lawyers compared to 159,375 white lawyers in 1934, meaning one Black lawyer per
+9,667 Black people relative to one white lawyer for every 695 white people).
+100 See U.S. COMM’NON CIV. RTS. 1965 REPORT,supra note 88, at 184.
+101 Id. at 187–88.
+102 Powell v. Alabama, 287 U.S. 45, 65 (1932).
+103 Id. at 53 (emphasis added).
+
+43660-nyu_96-5 Sheet No. 72 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+72
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 20 9-NOV-21 15:07
+1512 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+instance “amount[ed] to a denial of effective and substantial aid.”104
+The decision indicated that in some instances, the trial court could not
+be trusted to appoint counsel to adequately protect defendants’ rights;
+however, the defendant, whose life and liberty were at stake, could.105
+C. Choice of Counsel Is a Central Component of the Right to
+Counsel
+In the decades following the Court’s acknowledgement of the
+right to counsel in Powell, there was no question that the defendant’s
+autonomy in selecting counsel was part of the constitutional guar-
+antee. Even in reserving counsel of choice for those with means, the
+Court reaffirmed that the right was firmly ensconced in the Sixth
+Amendment’s right to counsel. In United States v. Gonzalez-Lopez,
+the defendant sought to reverse his conviction after the trial court
+erroneously denied his counsel of choice.106 Although the government
+conceded that the trial court’s denial was erroneous, it disputed the
+appropriate method of evaluating the violation. The government
+argued that the violation was incomplete unless Gonzalez-Lopez
+could show substitute counsel’s performance was deficient and that he
+was prejudiced by the deficiency under Strickland v. Washington’s
+two-prong ineffective assistance of counsel standard.107 Gonzalez-
+Lopez had not made such a showing, but it did not matter: The Court
+disagreed with the government’s position.
+In reversing Gonzalez-Lopez’s conviction, the Court reasoned
+that “[t]he right to select counsel of one’s choice . . . has been
+regarded as the root meaning of the [Sixth Amendment] constitu-
+tional guarantee.”108 Therefore, the denial of the right to counsel of
+choice constitutes a denial of the right to counsel, which is a structural
+error requiring reversal, so no Strickland prejudice showing was nec-
+essary. The Court further explained that when the right to counsel is
+disregarded, it does not matter that the trial—with substitute
+counsel—was otherwise “fair.” The right to counsel of choice “com-
+104 Id.
+105 See Martinez v. Ct. of Appeal of Cal., Fourth App. Dist., 528 U.S. 152, 165 (2000)
+(Scalia, J., concurring) (“Our system of laws generally presumes that the criminal
+defendant . . . knows his own best interests and does not need them dictated by the
+State.”).
+106 548 U.S. 140, 143–44 (2006).
+107 Id. at 144–45 (citing Strickland v. Washington, 466 U.S. 668, 691–96 (1984) (defining
+effectiveness)).
+108 Id. at 147–48 (2006) (citing Wheat v. United States, 486 U.S. 153, 159 (1988)); see
+also Kaley v. United States, 571 U.S. 320, 336 (2014) (reasserting that the right to counsel
+of choice “separate and apart from the guarantee to effective representation, [is part of]
+‘the root meaning’ of the Sixth Amendment”).
+
+43660-nyu_96-5 Sheet No. 73 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+73
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 21 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1513
+mands, not that a trial be fair, but that a particular guarantee of fair-
+ness be provided—to wit, that the accused be defended by the counsel
+he believes to be best.”109
+In applying the structural error doctrine to counsel of choice, the
+Court placed it firmly in the company of other “certain basic, constitu-
+tional guarantees that . . . define the framework of any criminal
+trial.”110 Therefore, the right to counsel of choice is one that
+“‘affect[s] the framework within which the trial proceeds,’ rather than
+being ‘simply an error in the trial process itself.’”111 In so holding, the
+Court elevated the right to counsel of choice to a foundational compo-
+nent of fairness in criminal adjudications. The Court reaffirmed as
+much in Kaley v. United States a decade later: “[W]e have held that
+the wrongful deprivation of choice of counsel is ‘structural error,’
+immune from review for harmlessness, because it ‘pervades the entire
+trial.’”112
+That the right to counsel of choice is firmly positioned within the
+Sixth Amendment right to counsel invites the question of why indi-
+gent defendants do not enjoy the same right. Upon learning that they
+do not have the same right to choose their own lawyer as defendants
+with means, Chief Justice Roberts asked: “Why not?”113 The Court
+has yet to fully answer that question.
+D. Beggars Cannot Be Choosers
+Since deciding Powell, the Court has expressed limitations and
+qualifications on the right to counsel of choice; principal among them
+is that the defendant must be able to afford counsel.114 Other limita-
+tions, such as judicial efficiency and adequacy of appointed counsel,
+exist concurrently with poverty. Despite the Court’s assertion that the
+right to counsel is a necessity and not a luxury,115 the right to counsel
+of choice is a luxury for those who can afford it. According to the
+Court, beggars cannot be choosers.
+109 Gonzalez-Lopez, 548 U.S. at 146.
+110 Weaver v. Massachusetts, 137 S. Ct. 1899, 1907 (2017). Other examples of structural
+error include using the defendant’s coerced confession against the defendant in a criminal
+trial, depriving the defendant of counsel, trying the defendant before a biased judge, and
+denying the defendant a public trial.
+111 Id. (citing Arizona v. Fulminante, 499 U.S. 279, 310 (1991) (alteration in original)).
+112 Kaley, 571 U.S. at 336–37 (2014) (citing Gonzalez-Lopez, 548 U.S. at 150).
+113 Transcript of Oral Argument at 33–34, United States v. Gonzalez-Lopez, 548 U.S.
+140 (2006) (No. 05-352).
+114 See Gonzalez-Lopez, 548 U.S. 140; Wheat, 486 U.S. at 153; Morris, 461 U.S. 1
+(Brennan, J., concurring).
+115 Gideon v. Wainwright, 372 U.S. 335, 344 (1963).
+
+43660-nyu_96-5 Sheet No. 73 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+73
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 22 9-NOV-21 15:07
+1514 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+1. Limited Time
+Much of the right to counsel of choice jurisprudence is concerned
+with avoiding delay in the criminal adjudication process.116 A line of
+cases caution that the defendant’s right is not absolute, and that a trial
+court must weigh the right to counsel of choice “against the public’s
+interest in the orderly administration of justice.”117 However, effi-
+ciency over due process is in direct conflict with the reasoning in
+Powell: Although the Court commended and encouraged prompt dis-
+positions of criminal cases, it also cautioned that “a defendant . . .
+must not be stripped of his right to have sufficient time” to prepare for
+trial with counsel of choice.118 Shortly after Powell, the Court again
+acknowledged that the trial court must give appointed counsel suffi-
+cient time “to confer, to consult with the accused and to prepare his
+defense”; otherwise, it “could convert the appointment of counsel into
+a sham and nothing more than formal compliance with” the Sixth
+Amendment.119
+Efficiency and autonomy came to a head in Linton v. Perini.120
+There, the trial court forced the defendant to proceed to trial with
+appointed counsel after defendant’s retained counsel requested a con-
+tinuance to adequately prepare for trial. The reviewing court acknowl-
+edged that the two issues—“the right of choice of counsel” and “the
+right to adequate time to prepare for trial”—were related.121 How-
+ever, in reversing the conviction, the Sixth Circuit prioritized choice,
+holding “[i]t is axiomatic that in all criminal prosecutions the accused
+enjoys the right to have assistance of counsel for his defense, and
+116 See, e.g., Lee v. United States, 235 F.2d 219, 221 (D.C. Cir. 1956) (the right to counsel
+of choice “cannot be insisted upon in a manner that will obstruct an orderly procedure in
+courts of justice, and deprive such courts of the exercise of their inherent powers to control
+the same”); Lofton v. Procunier, 487 F.2d 434, 435 (9th Cir. 1973) (holding that a trial court
+may refuse defendant’s counsel of choice when “the attempted exercise of choice is
+deemed dilatory” and may “compel a defendant to proceed with designated counsel”).
+117 Linton v. Perini, 656 F.2d 207, 209 (6th Cir. 1981) superseded on other grounds by
+statute, 28 U.S.C. §2254, as recognized in Burton v. Renico, 391 F.3d 764 (6th Cir. 2004);
+see also United States v. Burton, 584 F.2d 485, 489 (D.C. Cir. 1978) (same); Maynard v.
+Meachum, 545 F.2d 273, 278 (1st Cir. 1976) (“The right to counsel of one’s choice is not
+absolute. A court need not tolerate unwarranted delays, and may at some point require the
+defendant to go to trial even if he is not entirely satisfied with his attorney.”); United States
+v. Saldivar-Trujillo, 380 F.3d 274, 277 (6th Cir. 2004) (finding that the “public interest[] in
+the prompt and efficient administration of justice outweigh[ed defendant’s] right to
+counsel of his choice”).
+118 Powell v. Alabama, 287 U.S. at 45, 59; see also House v. Mayo, 324 U.S. 42, 46 (1945)
+(trial court failed to give defendant “a reasonable opportunity to consult with” defense
+counsel),overruled by Hohn v. United States, 524 U.S. 236 (1998).
+119 Avery v. Alabama, 308 U.S. 444, 446 (1940).
+120 656 F.2d 207.
+121 Id. at 209.
+
+43660-nyu_96-5 Sheet No. 74 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+74
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 23 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1515
+implicit in this guarantee is the right to be represented by counsel of
+one’s own choice.”122 To be clear, Mr. Linton could afford his lawyer
+of choice, underscoring that the right to choose is still only reserved
+for those with means.
+The Sixth Circuit’s reasoning in Linton makes clear that for a
+defendant with means, the right to exercise autonomy outweighs judi-
+cial efficiency. The reviewing court’s assigned weight also speaks to
+the defendant’s differing avenues for relief when a trial court
+encroaches on either of the defendant’s Sixth Amendment interests.
+When the trial court forces substitute counsel on a defendant, the
+defendant can allege that the court violated their right to counsel of
+choice. However, when the trial court forces defense counsel to pro-
+ceed without adequate preparation, the defendant’s only recourse is
+alleging that counsel’s lack of preparation amounted to a violation of
+the defendant’s right to effective counsel. As discussed elsewhere,
+relief under the latter challenge—that counsel’s conduct was ineffec-
+tive—is substantially more burdensome for the defendant to obtain.123
+The pedestal on which reviewing courts place a defendant’s
+autonomy should extend equally to defendants who qualify for
+appointed counsel. Without the right to counsel of choice, an indigent
+defendant is forced to go the second, more difficult route: challenging
+counsel’s conduct as ineffective. Few defendants, regardless of finan-
+cial means, prevail on ineffective assistance of counsel claims.124
+Given this reality, the Court’s refusal to extend counsel of choice
+could have more to do with the Court’s desire to quickly dispose of
+such cases, a sort of doubling down on efficiency. Otherwise,
+reviewing courts would be forced to grant new trials any time a trial
+court denied an indigent defendant’s right to counsel of choice. But if
+the legal system is genuinely concerned with upholding the Sixth
+Amendment’s principle of autonomy,125 we should welcome those
+corrections.
+2. Adequacy of Substitute Counsel
+If a trial court seeks to force substitute counsel upon an indigent
+defendant after the defendant has refused appointed counsel, substi-
+122 Id. at 208 (citing Powell, 287 U.S. 45).
+123 See Buck v. Davis, 137 S. Ct. 759, 775 (2017) (describing the “high bar” that a
+defendant challenging counsel’s performance must meet under Strickland).
+124 SeeOssei-Owusu,supra note 87, at 1228–30 (describing the difficult and high burden
+defendants face in winning claims of ineffective assistance of counsel, which “ha[s] been
+and continue[s] to be particularly acute for [racial] minorities”).
+125 See McCoy v. Louisiana, 138 S. Ct. 1500, 1507 (2018) (recognizing that the Sixth
+Amendment protects defendants’ “right to make . . . fundamental choices about [their]
+own defense”).
+
+43660-nyu_96-5 Sheet No. 74 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+74
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 24 9-NOV-21 15:07
+1516 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+tute counsel’s adequacy eliminates any potential constitutional viola-
+tion, thereby removing it from the sacred realm of structural error.
+Whereas, for defendants with means, it makes no difference that
+replacement counsel is adequate; the trial court’s denial of the right to
+choose is absolute. As discussed in Gonzalez-Lopez, the denial of the
+right constitutes structural error warranting reversal.126 However, for
+indigent defendants, when they seek redress for the violation,
+reviewing courts generally use the harder to satisfy Strickland defi-
+cient performance-prejudice standard.127 And because courts rarely
+find adequate counsel deficient—let alone prejudice resulting from
+any deficiency—an indigent defendant’s alleged violation is dead on
+arrival.128 Meaning that so long as appointed counsel is adequate, indi-
+gent defendants cannot demand another lawyer, even—in most
+cases—when the relationship and representation sour.129 In other
+words, the Court holds the right to counsel of choice for defendants
+with means in higher regard than the right to counsel of choice for
+indigent defendants.
+The Court made the adequacy of counsel limitation on the right
+to counsel of choice plain in Caplin & Drysdale v. United States.130
+There, the Court explained that the Sixth Amendment right to
+counsel of choice “guarantees defendants in criminal cases the right to
+adequate representation, but those who do not have the means to hire
+their own lawyers have no cognizable complaint so long as they are
+adequately represented . . . .”131 And yet, indigent defendants have all
+sorts of valid reasons to complain about otherwise adequate
+126 See United States v. Gonzalez-Lopez, 548 U.S. 140, 147–48.
+127 This depends on the nature of the alleged violation. The court will apply Strickland if
+the defendant raises an ineffective assistance of counsel claim for appointed counsel’s
+conduct, which may have prompted the defendant to unsuccessfully move for substitute
+counsel. However, if the defendant raises a denial of the right to counsel—because the
+court refused to substitute counsel—the reviewing court will determine if defendant had
+“good cause” for substitute counsel and if the trial court abused its discretion in denying
+substitute counsel. See United States v. Marrero, 651 F.3d 453, 464 (6th Cir. 2011).
+128 See Ossei-Owusu,supra note 87, at 1228–30.
+129 See, e.g., Shaw v. United States, 403 F.2d 528, 529 (8th Cir. 1968) (finding vague
+allegation of “lack of ‘rapport’ [and] . . . ‘communication’” between defendant and
+appointed counsel insufficient to constitute ineffective representation where counsel was
+otherwise “competent and skilled in the law”); Perez Goitia v. United States, 409 F.2d 524,
+527 (1st Cir. 1969), cert. denied, 397 U.S. 906 (1970) (“[L]ack of rapport between attorney
+and client does not automatically mean that there has been inadequate representation.”).
+130 491 U.S. 617 (1989).
+131 Id. at 624. At issue was whether the defendant could seek an exemption from the
+forfeiture statute to pay for counsel of his choosing. The Court declined to recognize an
+exemption, meaning that the defendant had no money to pay for counsel. Id. at 631.
+
+43660-nyu_96-5 Sheet No. 75 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+75
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 25 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1517
+appointed counsel, such as a breakdown in communication,132 failure
+to take a desired course of action,133 taking a course of action over
+defendant’s protest,134 and outright hostility toward the defendant.135
+Defendants’ complaints about counsel usually come before a
+reviewing court as ineffective assistance of counsel claims and/or as an
+improper denial of defendant’s request for substitute counsel. When
+an indigent defendant requests substitute counsel, the trial court has a
+duty to inquire about the source of defendant’s dissatisfaction.136 If
+the trial court fails to find good cause for the substitution, the indigent
+defendant is stuck with appointed counsel so long as there is no con-
+flict of interest,137 a complete breakdown in communication,138 or an
+irreconcilable conflict.139 Instances of these exceptions must be
+extreme.
+However, if the defendant had means, they could simply hire a
+new attorney so long as the substitution did not unduly delay the pro-
+ceedings. And if the trial court prevented the defendant with means
+from substituting counsel, a reviewing court would deem the error
+structural, warranting reversal. This is not so for indigent defendants.
+Instead, they must suffer through representation by defense counsel
+with whom they are experiencing discord. And for an indigent defen-
+132 See, e.g., United States v. Porter, 405 F.3d 1136, 1141–42 (10th Cir. 2005) (affirming
+denial of habeas relief where defendant alleged, but did not prove, “a total breakdown of
+communication” with counsel due to counsel’s inattention and lack of time spent on
+sentencing hearing).
+133 See, e.g., United States v. Goldberg, 67 F.3d 1092, 1098 (3d Cir. 1995) (affirming
+denial of defendant’s request for substitute counsel where counsel failed to file “a host of
+motions that Goldberg insisted be filed,” and trial court failed to find good cause for
+substitute counsel).
+134 But see McCoy v. Louisiana, 138 S. Ct. 1500, 1511 (2018) (granting new trial based on
+violation of the Sixth Amendment right to counsel where defense counsel admitted
+defendant’s guilt over defendant’s express and repeated objections).
+135 See, e.g.,Osborne v. Terry, 466 F.3d 1298, 1316 (11th Cir. 2006) (denying ineffective
+assistance of counsel claim as procedurally defaulted where white trial counsel referred to
+Black client as a “little n[***]er [who] deserves the chair,” and failed to disclose the plea
+offer of life to client).
+136 See Benitez v. United States, 521 F.3d 625, 632 (6th Cir. 2008) (holding that a trial
+court has an obligation to inquire into source of dissatisfaction between defendant and
+counsel and may grant motion to withdraw or substitute counsel if there is a showing of
+good cause).
+137 See Cuyler v. Sullivan, 446 U.S. 335, 348 (1980) (establishing that a defendant must
+show “an actual conflict of interest adversely affected his lawyer’s performance” to
+establish Sixth Amendment violation).
+138 See, e.g., United States v. Powell, 847 F.3d 760 (6th Cir. 2017) (finding that trial court
+abused its discretion by not allowing defendant’s counsel to withdraw after total
+breakdown in communication).
+139 See Stenson v. Lambert, 504 F.3d 873, 886 (9th Cir. 2007) (holding the Sixth
+Amendment to protect against “forcing a defendant to go to trial with an attorney with
+whom he has an irreconcilable conflict”).
+
+43660-nyu_96-5 Sheet No. 75 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+75
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 26 9-NOV-21 15:07
+1518 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+dant, there is no justiciable remedy for discord short of Strickland-
+level ineffectiveness. Indigent defendants are stuck between a rock
+and a hard place: The aspirational goals the Court articulated in
+Gideon,140 and the nearly impossible-to-meet standard the Court
+established in Strickland.141
+Extending counsel of choice to indigent defendants could poten-
+tially dislodge them from this untenable position between Gideon’s
+unfulfilled promise and Strickland’s effective roadblock. Had the
+Court adopted Justice Marshall’s dissenting opinion from Strickland,
+the Court would be in a better position to extend counsel of choice to
+low-income people. There, Justice Marshall suggested that if a defen-
+dant could demonstrate that counsel performed deficiently, the
+reviewing court must grant them a new trial, no showing of prejudice
+would be necessary.142 Thus, defendant’s mere showing that counsel
+was incompetent would be enough. Again, we should welcome these
+corrections. Perhaps, if the Court could no longer rely on Strickland’s
+difficult standard to prevent indigent defendants from regularly
+receiving new trials, the Court would be more apt to extend choice to
+indigent defendants. Because a denial of that right would also mean a
+new trial, states would also need to be more aggressive about pro-
+viding high quality counsel for indigent defendants.
+3. Parity for Poor People
+That the Court has placed indigent defendants on par with defen-
+dants with means in other areas of criminal defense casts further
+doubt on why the Court draws the line at counsel of choice. Relying
+on the Fourteenth Amendment, the Court has held that due process
+and fundamental fairness require the state to provide poor defendants
+with a trial transcript if the state gives the defendant an opportunity to
+appeal their case;143 prevents the state from charging an indigent
+defendant a fee to file a notice of appeal;144 requires the state to pay
+for defense counsel;145 and requires the state to provide indigent
+140 See Gideon v. Wainwright, 372 U.S. 335, 339–45 (1963) (requiring states to provide
+defense counsel to low-income people charged with crimes).
+141 The defendant in Strickland, David Leroy Washington, an indigent Black man, did
+not even obtain relief from his lawyer’s failings under the legal standard Mr. Washington’s
+case created. Strickland v. Washington, 466 U.S. 668, 700 (1984). The state of Florida
+executed Mr. Washington in 1984. Jesus Rangel, Confessed Murderer of 3 Executed in
+Florida, N.Y. TIMES, July 14, 1984, at 24.
+142 See Strickland, 466 U.S. at 711–12 (Marshall, J., dissenting).
+143 See Griffin v. Illinois, 351 U.S. 12, 19 (1956) (entitling petitioners to a trial
+transcript).
+144 SeeBurns v. Ohio, 360 U.S. 252, 258 (1959) (stating that financial barriers restricting
+appellate review had “no place in our heritage of [e]qual [j]ustice”).
+145 See Gideon, 372 U.S. at 342–44.
+
+43660-nyu_96-5 Sheet No. 76 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+76
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 27 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1519
+defendants with a fair opportunity to present a defense, including
+funding for expert services.146 In Gideon v. Wainwright, the Court
+made plain that the assistance of defense counsel in the face of crim-
+inal charges is a “necessit[y], not [a] luxur[y].”147 With all that is at
+stake—liberty and, at times, life148—exercising choice in selecting
+counsel should not be a privilege reserved for only those who can
+afford it.
+II
+REPRESENTATION MATTERS
+By relying on literature from other fields—clinical therapy and
+education—this Part lays the foundation for Black on Black represen-
+tation within indigent defense.149 These fields have long recognized
+the unique insights and contributions people from non-dominant
+racial and ethnic groups can offer, and the benefits that same-race
+representation can provide racially marginalized and maligned clients
+and pupils. Scholarship from these fields has examined the benefits of
+racial diversity to better understand the populations they serve. As
+explained more fully below, Black therapists and teachers—much like
+Black public defenders—are more likely to have an awareness and an
+understanding of the social meaning assigned to Black people and can
+use that embodied empathy to the advantage of their same-race cli-
+ents and pupils. Research shows that their very presence can put cli-
+ents and pupils at ease, ultimately improving Black patient utilization
+of counseling services150 and Black student performance.151
+146 See Ake v. Oklahoma, 470 U.S. 68, 76–81 (1985) (requiring that the State provide a
+competent psychiatrist where the defendant’s psychiatric state is a significant factor at
+trial).
+147 Gideon, 372 U.S. at 344.
+148 SeeJohnson v. Zerbst, 304 U.S. 458, 462 (1938) (“Assistance of [c]ounsel . . . is one of
+the safeguards of the Sixth Amendment deemed necessary to insure fundamental human
+rights of life and liberty.”).
+149 CLAIR, supra note 13, at 76 (“[T]he attorney-client relationship is quite similar to
+many other professional-client relationships, such as that between a doctor and patient or a
+teacher and student. These relationships often require trust if they are to function to the
+benefit of clients.”).
+150 See, e.g., Darryl L. Townes, Shannon Chavez-Korell & Nancy J. Cunningham,
+Reexamining the Relationships Between Racial Identity, Cultural Mistrust, Help-Seeking
+Attitudes, and Preference for a Black Counselor, 56 J. COUNSELING PSYCH. 330, 331 (2009)
+(noting that some studies suggest Black patients do not utilize mental health resources in
+part because of distrust towards white counselors).
+151 See, e.g., Anna J. Egalite, Brian Kisida & Marcus A. Winters, Representation in the
+Classroom: The Effect of Own-Race Teachers on Student Achievement, 45 ECON. EDUC.
+REV. 44 (2015); Thomas S. Dee, Teachers, Race, and Student Achievement in a Randomized
+Experiment, 86 REV. ECONS. & STATS. 195 (2004).
+
+43660-nyu_96-5 Sheet No. 76 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+76
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 28 9-NOV-21 15:07
+1520 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+That these conversations are not already occurring in legal schol-
+arship about indigent defense is problematic, particularly given the
+demographics of the client and attorney populations.152 However, this
+Article can begin the conversation and spur additional research recog-
+nizing that Black public defenders may help better serve Black people
+facing criminal charges and more effectively challenge anti-Black bias
+in the criminal legal system.
+A. Someone Who Understands: Black Therapists for Black Patients
+Research on the relationship between Black patients and ther-
+apists offers valuable insight into the dynamics that can exist between
+a Black person charged with a crime and appointed counsel. The
+clinical therapy community has widely accepted that in order to
+improve mental health services for people of color, patients should be
+matched with same-race counselors when possible.153 Research shows
+that Black therapists are able to provide more culturally congruent
+treatment given “their more nuanced understanding of Black commu-
+nities”154 and that Black therapists are more likely to feel personally
+invested in their Black patients.155 Most relevant for our purposes,
+research shows that white counselors, relative to Black counselors,
+have a harder time obtaining their Black patients’ trust.156 In a study
+examining Black therapists who work with Black families, researchers
+found that Black patients experience “positive outcomes when [their]
+152 Sociologists Matthew Clair’s and Nicole Gonzalez Van Cleve’s books on indigent
+defense, racism, and inequality in criminal courts are notable exceptions. Each contains
+extensive qualitative research. See CLAIR, supra note 13 (describing Boston’s criminal
+courts); GONZALEZVAN CLEVE,supra note 20 (examining Chicago’s criminal courts).
+153 See, e.g., Raquel R. Cabral & Timothy B. Smith, Racial/Ethnic Matching of Clients
+and Therapists in Mental Health Services: A Meta-Analytic Review of Preferences,
+Perceptions, and Outcomes, 58 J. COUNSELING PSYCH. 537, 537 (2011) (noting that there
+was a decades-old presumption that clients should be matched with a therapist of the same
+race or ethnicity for better therapeutic care); HANDBOOK OF MULTICULTURAL
+COMPETENCIES IN COUNSELING AND PSYCHOLOGY (Donald B. Pope-Davis, Hardin L.K.
+Coleman, William Ming Liu & Rebecca L. Toporek eds., 2003) (containing chapters
+addressing the practice of multicultural competency in counseling).
+154 David T. Goode-Cross & Karen Ann Grim, “An Unspoken Level of Comfort”: Black
+Therapists’ Experiences Working with Black Clients, 42 J. BLACK PSYCH. 29, 30 (2016)
+(citation omitted).
+155 David T. Goode-Cross & Suzette L. Speight, But Some of the Therapists Are Black
+(describing shared dynamics related to being Black that increase Black therapists’
+identification with and investment in Black patients), in HANDBOOKOF RACE-ETHNICITY
+AND GENDERIN PSYCHOLOGY 329, 331 (M.L. Miville & A.D. Ferguson eds., 2014).
+156 See C. Edward Watkins, Jr., Francis Terrell, Fayneese S. Miller & Sandra L. Terrell,
+Cultural Mistrust and Its Effects on Expectational Variables in Black Client-White
+Counselor Relationships, 36 J. COUNSELING PSYCH. 447, 448–49 (1989).
+
+43660-nyu_96-5 Sheet No. 77 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+77
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 29 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1521
+therapists have an understanding of the history or experiences African
+Americans have had to endure.”157
+There are multiple parallels worth noting between clinical
+therapy and indigent defense. Relative to white patients, Black
+patients’ entry into mental healthcare counseling is more likely to
+exist under emergency circumstances and/or “under coerced or man-
+dated conditions rather than” being voluntary or self-referred.158 This
+parallels Black people’s entry into the criminal legal system in which
+individuals experience a highly stressful event (often an arrest fol-
+lowed by criminal charges) and the court often appoints defense
+counsel, rather than the individual electively retaining counsel. Like
+the overrepresentation of Black people in the criminal legal system,
+Black people are overrepresented in populations with mental health-
+care needs,159 but disproportionately underrepresented in the mental
+healthcare profession. Only 6.4% of social workers are Black, slightly
+less than 4% of counseling professionals are Black, less than 2% of
+doctoral-level psychologists self-identify as Black, and there are even
+fewer Black psychiatrists.160 Akin to the way white public defenders’
+anti-Black racial bias can negatively impact representation of Black
+defendants, research suggests that white counselors’ racial biases and
+stereotypes may account for mental healthcare disparities in Black
+patients, including spending less time with Black patients, giving more
+severe diagnoses to Black patients relative to identically presenting
+white patients, and overmedicating Black patients.161
+The robust research on the experiences of Black patients in
+therapy has helped improve counseling for Black patients. The
+research shows that Black patients with strong ethnic and cultural ties
+to their race derive the greatest therapeutic benefits when they
+receive “culturally congruent mental health services.”162 However, the
+157 LaVerne Bell-Tolliver, Ruby Burgess & Linda J. Brock, African American Therapists
+Working with African American Families: An Exploration of the Strengths Perspective in
+Treatment, 35 J. MARITAL & FAM. THERAPY 293, 304 (2009).
+158 Townes et al., supra note 150, at 331 (citation omitted).
+159 See, e.g., U.S. DEPT. OF HEALTH & HUM. SERVS., MENTAL HEALTH: CULTURE,
+RACE & ETHNICITY—A SUPPLEMENTTO MENTAL HEALTH: A REPORTOFTHE SURGEON
+GENERAL 1, 61, 68 (2001) [hereinafter HHS MENTAL HEALTH], https://www.ncbi.nlm.nih.
+gov/books/NBK44243 (finding that African Americans are overrepresented in high-need
+populations, have less access to mental healthcare services, and are less likely to receive
+treatment for their mental healthcare needs).
+160 Townes et al., supra note 150, at 330 (citation omitted).
+161 See Arthur L. Whaley, Racism in the Provision of Mental Health Services: A Social-
+Cognitive Analysis, 68 AM. J. ORTHOPSYCHIATRY 47, 51 (1998); HHS MENTAL HEALTH,
+supra note 159, at 66–67 (explaining that clinician bias may contribute to inaccurate mental
+health diagnoses for Black patients).
+162 Cabral & Smith, supra note 153, at 546.
+
+43660-nyu_96-5 Sheet No. 77 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+77
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 30 9-NOV-21 15:07
+1522 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+availability of Black therapists cannot meet the demand. As early as
+2001, the Surgeon General recognized that “[t]he supply of African
+American clinicians is important,” in part because Black patients tend
+to underutilize services given “[f]eelings of mistrust and stigma or per-
+ceptions of racism or discrimination.”163 Like in the legal profession,
+there remains a dearth of Black therapists. Unlike the law, clinical
+therapy has responded by embracing the need for all therapists who
+work with patients of color, particularly Black patients, “to apply mul-
+ticultural competencies” to improve patient utilization, retention, and
+outcomes.164 To this end, the clinical therapy community has been
+producing robust scholarship, training, and assessment on multicul-
+tural counseling competency for decades.165
+B. A Teacher Who Looks Like Me
+The unfortunate parallels between the public-school system and
+the criminal legal system abound, particularly given the well-
+documented funneling of Black and brown children from the former
+to the latter.166 This has become increasingly true for Black girls.167
+However, this Article leaves the discussion of the school-to-prison
+pipeline to others. Instead, this Section will explore the impact of
+same-race teachers on student performance and use it as a reference
+point for examining same-race representation in the criminal legal
+system. Policymakers, educators, and researchers have long discussed
+the benefits same-race teachers can have on students, particularly
+Black students.168 In 2010, relying on this association, the U.S.
+163 HHS MENTAL HEALTH, supra note 159, at 63, 68.
+164 Cabral & Smith, supra note 153, at 546(citing Derald Wing Sue, Patricia Arredondo
+& Roderick J. McDavis, Multicultural Counseling Competencies and Standards: A Call to
+the Profession, 70 J. COUNSELING & DEV. 477 (1992)).
+165 See, e.g.,Charles R. Ridley & Amy J. Kleiner, Multicultural Counseling Competence:
+History, Themes, and Issues, in HANDBOOK OF MULTICULTURAL COMPETENCIES IN
+COUNSELING & PSYCHOLOGY 3 (Donald B. Pope-Davis, Hardin L.K. Coleman, William
+Ming Liu & Rebecca L. Toporek eds., 2003).
+166 See, e.g., AJMEL QUERESHI & JASON OKONOFUA, LOCKED OUTOFTHE CLASSROOM:
+HOW IMPLICIT BIAS CONTRIBUTES TO DISPARITIES IN SCHOOL DISCIPLINE (2017); CARA
+MCCLELLAN, OUR GIRLS, OUR FUTURE: INVESTING IN OPPORTUNITY & REDUCING
+RELIANCEONTHE CRIMINAL JUSTICE SYSTEMIN BALTIMORE(2018).
+167 See MCCLELLAN, supra note 166, at 1 (“Black girls are the fastest growing
+demographic affected by school discipline, arrests, and referrals to the juvenile justice
+system.”).
+168 See, e.g., Seth Gershenson, Cassandra M. D. Hart, Constance A. Lindsay & Nicholas
+W. Papageorge, The Long-Run Impacts of Same-Race Teachers (IZA Inst. Lab. Econ.,
+Discussion Paper No. 10630, 2017), https://ftp.iza.org/dp10630.pdf (finding that race
+matching in a Black child’s primary school years “significantly reduces” the chance that
+they will drop out of high school, “particularly among the most economically
+disadvantaged [B]lack males”); Egalite et al., supra note 151, at 50 (finding that lower
+performing Black and white students experience the greatest benefit from being assigned
+
+43660-nyu_96-5 Sheet No. 78 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+78
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 31 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1523
+Department of Education launched a national teacher recruitment
+campaign, calling specifically for more minority males and acknowl-
+edging that “more than 35 percent of public school students are
+[B]lack or Hispanic, but less than 15 percent of teachers are Black or
+Latino. Less than two percent of our nation’s teachers are African-
+American males.”169
+Before parsing this literature, there are a few notable similarities
+between the public education and public defense systems worthy of
+discussion. Like in the criminal legal system, there is an overrepresen-
+tation and concentration of Black people in many public schools rela-
+tive to the population in the community. These demographic trends
+are especially true in cities that experienced white flight to suburban
+communities and private schools after court-ordered school desegre-
+gation.170 Like with indigent defense counsel, there is an under-
+representation of teachers of color, particularly Black teachers,
+relative to the populations served in public schools.171 Again, like the
+negative impact public defenders’ anti-Black bias has on their Black
+clients, teachers’ anti-Black bias contributes to Black children being
+suspended and expelled at higher rates than their non-Black class-
+mates;172 research shows these disparities begin as early as pre-
+same-race teachers); Dee, supranote 151, at 195 (noting that it was “conventional wisdom
+among educators” that minority students performed better academically when taught by
+minority teachers).
+169 Press Release, U.S. Dep’t of Educ., US Dep’t of Educ. Launches Nat’l Teacher
+Recruitment Campaign (Sept. 27, 2010), https://www.legistorm.com/stormfeed/view_rss/
+68444/organization/69539/title/us-department-of-education-launches-national-teacher-
+recruitment-campaign.html.
+170 See, e.g., Brad Bennett, Weekend Read: 66 Years After Brown v. Board, Schools
+Across the South Still Separate and Unequal, S. POVERTY L. CTR., (May 16, 2020), https://
+www.splcenter.org/news/2020/05/16/weekend-read-66-years-after-brown-v-board-schools-
+across-south-still-separate-and-unequal (“After the Brown decision, many Southern states
+established publicly funded private school voucher schemes to get around court-ordered
+integration. Today, voucher programs persist . . . .”); EDBUILD, $23 BILLION, at 2 (2019)
+(noting that the “place-based racial divide . . . in America” results in “students attending
+racially concentrated school districts” where half are enrolled in districts that are more
+than “75% nonwhite” and the other half are enrolled in “75% white” districts).
+171 See Egalite et al., supra note 151, at 44; see also Madeline Will, 65 Years After
+‘Brown v. Board,’ Where Are All the Black Educators?, EDUC. WEEK (May 14, 2019),
+https://www.edweek.org/ew/articles/2019/05/14/65-years-after-brown-v-board-where.html
+(“Today, many scholars say the persistent lack of [B]lack teachers in the profession can be
+traced to the aftermath of the Brown decision. ‘We decimated the [B]lack principal and
+teacher pipeline, and we’ve never rectified that.’” (quoting Leslie Fenwick, a professor at
+Howard University School of Education)).
+172 See, e.g., U.S. GOV’T ACCOUNTABILITY OFF., GAO-18-258, K-12 EDUCATION
+DISCIPLINE DISPARITIESFOR BLACK STUDENTS, BOYS,AND STUDENTSWITH DISABILITIES
+1, 4 (2018), https://www.gao.gov/assets/700/690828.pdf.
+
+43660-nyu_96-5 Sheet No. 78 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+78
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 32 9-NOV-21 15:07
+1524 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+school.173 This can result in distrust of the very individuals whom the
+student should be able to rely upon for guidance and support.
+Given these troubling observations, it is no surprise that students
+of color, particularly Black students, can benefit from receiving
+instruction from teachers who share their race.174 These benefits
+include improved attendance, academic achievement, less frequent
+suspension and expulsion (likely reflecting Black teachers’ different
+treatment and different interpretation of behavior), and increased
+chance of obtaining higher education.175 Most researchers explain the
+positive impact that same-race teachers can have on Black students in
+one of two ways: passive or active.176 Passive teacher effect means that
+the student derives a benefit from the teacher’s mere same-race pres-
+ence, potentially viewing the teacher as a model for success.177
+Researchers also note that passive teacher effect can help mitigate
+stereotype threat—the situational predicament where an individual
+fears confirming a negative stereotype about their social group.178 In
+educational settings, stereotype threat can result in a Black student’s
+lower academic performance in the face of a teacher’s lowered expec-
+tations.179 Conversely, active teacher effect refers to proactive conduct
+on the teacher’s part, such as spending more time interacting with stu-
+dents of their same race, or in designing more culturally relevant (and
+thus, potentially more engaging and relevant) course materials.180
+These descriptive observations of same-race teachers’ impact on
+Black students provide helpful insight into the dynamics between a
+Black defender and indigent defendant. Borrowing the active/passive
+effect framework allows us to form opinions on why and how the rela-
+tionship can be beneficial. With regard to the active effect, a same-
+173 Walter S. Gilliam, Angela N. Maupin, Chin R. Reyes, Maria Accavitti & Frederick
+Shic, Do Early Educators’ Implicit Biases Regarding Sex and Race Relate to Behavior
+Expectations and Recommendations of Preschool Expulsion and Suspensions? A Research
+Study Brief, YALE CHILD STUDY CTR. 1, 2 (2016).
+174 See, e.g., U.S. DEP’T OF EDUC., THE STATE OF RACIAL DIVERSITY IN THE
+EDUCATOR WORKFORCE 1, 2 (2016).
+175 Gershenson et al., supra note 168, at 19 (“Exposure to at least one [B]lack teacher in
+grades 3–5 also increases the likelihood that persistently low-income students of both sexes
+aspire to attend a four-year college.”).
+176 See, e.g., Egalite et al., supra note 151, at 45, 51; Dee, supra note 151, at 196–97;
+Thomas S. Dee, A Teacher Like Me: Does Race, Ethnicity, or Gender Matter?, 95 AM.
+ECON. REV. 158, 159 (2005).
+177 Dee,supra note 176, at 159.
+178 See id. at 159, 164; see also Claude M. Steele, A Threat in the Air: How Stereotypes
+Shape Intellectual Identity and Performance, 52 AM. PSYCH. 613 (1997); Claude M. Steele
+& Joshua Aronson, Stereotype Threat and the Intellectual Test Performance of African
+Americans, 69 J. PERSONALITY & SOC. PSYCH. 797, 797 (1995).
+179 See Dee, supra note 176, at 159 (citation omitted).
+180 See id. at 197.
+
+43660-nyu_96-5 Sheet No. 79 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+79
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 33 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1525
+race defender may be more likely to feel personally invested in a
+Black client’s case, and as a result, spend more time with the client
+and on the case, or be more aware of challenging race-based issues
+that occur in the client’s case than a different-race defender. The find-
+ings in Parts III and IV support these hypothetical scenarios, as does
+existing research examining the opposite trend: Public defenders who
+harbor anti-Black bias can have a detrimental impact on their clients’
+cases because they tend to spend less time on these cases and fail to
+raise potentially meritorious issues.181 With regard to the passive
+effect, as discussed in Section IV.B, a Black lawyer’s mere physical
+presence in court proceedings may mitigate stereotypes of criminality
+and culpability that judges, jurors, and prosecutors subconsciously
+apply to Black defendants who come before them.182 As described in
+Part IV, Black lawyers may also more readily engender trust in their
+clients, enabling their clients to disclose facts and information in sup-
+port of the defense that the clients may otherwise avoid or be more
+hesitant to disclose to non-racially congruent counsel. Thus, the
+active/passive framework provides a helpful lens through which to
+measure and test the impact of racially congruent representation.
+III
+EMBODIED EMPATHY
+In this Part, I define “embodied empathy”—the unspoken famili-
+arity between Black people given their shared experience with the
+social meaning assigned to Black people in this country. While I iden-
+tify a shared experience among Black people in this country, I also
+recognize that same-race representation has limitations given the mul-
+titude of differences among Black people and that some Black defen-
+dants may not want a Black lawyer.183
+Differences in class, gender, country of origin, and other coex-
+istent identities can have varying degrees of impact on the way Black
+people experience their race and ethnicity in this country.184
+American-born Black people who can trace their ancestry to slavery
+181 Richardson & Goff, supra note 22, at 2641 (explaining that anti-Black implicit bias
+may result in defenders spending less “time, effort, and scarce resources” on cases with
+“stereotypically ‘[B]lack’ feature[d]” clients).
+182 See, e.g., Jasmine B. Gonzales Rose, Toward a Critical Race Theory of Evidence, 101
+MINN. L. REV. 2243, 2261–68 (2017) (explaining that jurors often consider and rely upon
+racial character evidence—essentially the race of the parties and witnesses—when deciding
+civil or criminal liability and witness credibility, even though the parties rarely introduce
+such evidence and the court does not subject it to evidentiary scrutiny).
+183 See infra Section IV.C.
+184 See DELGADO & STEFANCIC, supra note 26, at 63–66 (discussing essentialism and
+antiessentialism).
+
+43660-nyu_96-5 Sheet No. 79 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+79
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 34 9-NOV-21 15:07
+1526 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+in America185 may experience their race differently than Black people
+who recently immigrated from one of over fifty countries in Africa,
+Latin America, the Caribbean, or elsewhere in the world.186 In turn,
+first-generation Black people may have different experiences than
+both American-born descendants of enslaved people and recent immi-
+grants.187 Black people who are racially mixed may have an altogether
+different experience than any of the previously identified
+subgroups.188
+Each of these differences can impact the experience and identity
+formation of a Black person, which in turn, can factor into how they
+relate to another Black person within the attorney-client relationship
+context. These differences make clear that Black people and expe-
+riences are not monolithic; nevertheless, there is a unifying Black
+experience in this country given the institution of slavery and the
+racial hierarchy that resulted—a hierarchy that is woven into the
+nation’s social fabric and impacts all who reside here.189 This shared
+185 See Farah Stockman, ‘We’re Self-Interested’: The Growing Identity Debate in Black
+America, N.Y. TIMES (Nov. 8, 2019), https://www.nytimes.com/2019/11/08/us/slavery-black-
+immigrants-ados.html (describing differences between Black American descendants of
+slavery, Black immigrants from Africa and the Caribbean, and that a small emerging
+group, American Descendants of Slavery (ADOS) “who embrace its philosophy point to
+disparities between [B]lack people who immigrated to the United States voluntarily, and
+others whose ancestors were brought in chains”).
+186 SeeMonica Anderson, A Rising Share of the U.S. Black Population Is Foreign Born,
+PEW RSCH. CTR. (Apr. 9, 2015), https://www.pewsocialtrends.org/2015/04/09/a-rising-share-
+of-the-u-s-black-population-is-foreign-born (explaining that the Black immigrant
+population in the U.S. has quadrupled since 1980 and that foreign-born Black people are
+more likely to have a college degree, less likely to live in poverty, on average, have higher
+average incomes, and are more likely to be married than American-born Black people).
+187 See Being Black in America and Being African Aren’t Mutually Exclusive, NPR: ALL
+THINGS CONSIDERED (Feb. 11, 2017), https://www.npr.org/2017/02/11/514732232/being-
+black-in-america-and-being-african-arent-mutually-exclusive (describing potential
+challenges in identity formation American children born to African immigrants experience
+as they navigate African and Black American identities).
+188 SeeArnold K. Ho, Nour Kteily & J.M. Chen, How Are Black-White Biracial People
+Perceived in Terms of Race?, KELLOGG INSIGHT (Dec. 6, 2017), https://
+insight.kellogg.northwestern.edu/article/how-are-black-white-biracial-people-are-
+perceived-in-terms-of-race (examining how Black and white people view Black-white
+biracial people, finding that both groups viewed them as slightly more Black); Jasmine
+Norman,The Racial Identities Multiracial People Adopt May Depend on How Others Treat
+Them, SOC’YFOR PERSONALITY & SOC. PSYCH. (Jan. 22, 2020), https://www.spsp.org/news-
+center/blog/norman-multiracial-people-identities (finding “that other peoples’ comments
+and questions about appearance, as well as perceived discrimination from certain racial
+groups, relate to how strongly mixed-race people identify as multiracial”).
+189 See WILKERSON,supra note 32, at 33 (explaining that after “African captives [were]
+transported to build the New World and to serve the victors, . . . . [t]here developed a caste
+system, based upon what people looked like, an internalized ranking, unspoken, unnamed,
+unacknowledged by everyday citizens even as they go about their lives adhering to it and
+acting upon it subconsciously to this day”).
+
+43660-nyu_96-5 Sheet No. 80 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+80
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 35 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1527
+understanding—or embodied empathy—in the legal context may help
+establish trust and improve communication between Black indigent
+defendants and their lawyers, and may give Black public defenders
+opportunities to mitigate anti-Black bias their clients face within the
+criminal legal system.
+A. I See You. I Hear You. I Understand.
+Eye contact and the subtle lift or dip of the chin, exchanged from
+across a crowded room, or while walking past one another. It is the
+universal gesture among Black people, signaling recognition, commu-
+nicating:I see you; I hear you; I understand. I too experience the social
+meaning assigned to Black people. Without uttering a word, this
+simple gesture can offer greeting, reassurance, validation, and affirma-
+tion. It communicates empathy. Among and between Black people, I
+call this exchange “embodied empathy.” Although the term embodied
+empathy exists in psychotherapy,190 I use it here to mean the shared
+knowledge of experiencing this country as a Black person.
+This nation, built upon the backs of enslaved Black people, is still
+stained with slavery’s legacy. Many of this nation’s institutions are
+direct descendants of slavery: our system of capitalism,191 the organi-
+zation of our communities,192 our education system,193 and our crim-
+inal legal system.194 As Nikole Hannah-Jones explained in her
+190 See Ilaria Minio-Paluello, Simon Baron-Cohen, Alessio Avenanti, Vincent Walsh &
+Salvatore M. Aglioti, Absence of Embodied Empathy During Pain Observation in Asperger
+Syndrome, BIOLOGICAL PSYCHIATRY 55, 55, 59–60 (2009) (finding that people with
+Asperger Syndrome (AS), often defined by “reduced empathic abilities,” have difficulty
+registering pain that they observe in others, and thus concluding that people with AS
+lacked “embodied empathic reactivity to the sensations experienced by another person”).
+191 See JOSHUA D. ROTHMAN, FLUSH TIMES AND FEVER DREAMS: A STORY OF
+CAPITALISMAND SLAVERYINTHE AGEOF JACKSON (2012) (detailing America’s culture of
+speculation that drove up cotton production, resulting in the Panic of 1837 and eventually
+the Civil War, and which would eventually become a defining characteristic of American
+capitalism).
+192 See RICHARD ROTHSTEIN, THE COLOR OF LAW: A FORGOTTEN HISTORY OF HOW
+OUR GOVERNMENT SEGREGATED AMERICA (2017) (describing local, state, and federal
+laws that established and promoted racially segregated housing, beginning in the 1920s, as
+millions of Black people fled racial terrorism in the South and encountered racial
+subordination in the North, a direct holdover from slavery).
+193 See, e.g., Robert L. Reece & Heather A. O’Connell, How the Legacy of Slavery and
+Racial Composition Shape Public School Enrollment in the American South, 2 SOCIO.
+RACE & ETHNICITY42, 42 (2016) (arguing that the legacy of slavery shaped Southern local
+social structures in ways that resulted in white disinvestment from public schools, white
+attendance at private schools, and racially resegregated public schools); Stephen Smith &
+Kate Ellis, Shackled Legacy: History Shows Slavery Helped Build Many U.S. Colleges and
+Universities, AM. PUB. MEDIA REPS. (Sept. 4, 2017), https://www.apmreports.org/episode/
+2017/09/04/shackled-legacy.
+194 See supra note 30.
+
+43660-nyu_96-5 Sheet No. 80 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+80
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 36 9-NOV-21 15:07
+1528 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+opening essay of The 1619 Project, “Anti-[B]lack racism [derived from
+slavery] runs in the very DNA of this country.”195 In Policing the
+Black Man, Bryan Stevenson describes “a narrative of racial differ-
+ence that contaminates the thinking of most Americans. We are bur-
+dened by our history of racial injustice in ways that shape [how] we
+think, act, and enforce the law.”196 Thus, to exist as a Black person in
+this nation can be a uniquely unifying experience. To better under-
+stand this shared experience among Black people that can convey
+empathy based on this shared understanding, I turn to two contempo-
+rary authors who write about navigating America while Black.
+In Heavy: An American Memoir, Kiese Laymon charts the pain,
+joy, and danger of growing up in Jackson, Mississippi as a Black
+person, and later, as a professor in upstate New York.197 His
+Blackness is never not relevant, and the precariousness of his safety is
+most acute relative to white people. Fresh from high school basketball
+practice, Laymon and his teammates, also Black, congregate at the
+local Red Lobster to watch a game.198 The news interrupts with
+footage of a group of white police officers watching another group of
+white police officers beat a Black man.
+We watched the news replay the video four times. We all had cops
+rough us up, chase us, pull guns on us, call us out of our names. We
+all watched cops shame our mamas, aunties, and grandmamas. We
+all floated down I-55 creating lyrical force fields from the police and
+everything the police protected and served, rapping, “A young
+n[***]a got it bad ’cause I’m brown.” But here we were, in one of
+our safe spaces, watching white folk watch white police watch other
+white police destroy our body.199
+In that moment, Laymon and his friends are reminded that their
+Blackness renders them vulnerable. Laymon’s white girlfriend then
+arrives to pick him up, ignorant to the local news.200 He is tense and
+different, failing to give her the greeting to which she is accus-
+tomed.201 She senses something is off, but Laymon refuses to elabo-
+rate and she drops him at home, angry about what she does not know,
+195 Nikole Hannah-Jones, Our Democracy’s Founding Ideals Were False when They
+Were Written. Black Americans Have Fought to Make Them True.,N.Y. TIMES MAG. (Aug.
+14, 2019), https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-
+american-democracy.html.
+196 Bryan Stevenson, A Presumption of Guilt: The Legacy of America’s History of Racial
+Injustice,in POLICINGTHE BLACK MAN 3, 5 (Angela J. Davis ed., 2017).
+197 KIESE LAYMON, HEAVY: AN AMERICAN MEMOIR (2018).
+198 Id. at 95.
+199 Id.
+200 Id.
+201 See id. at 95–96.
+
+43660-nyu_96-5 Sheet No. 81 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+81
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 37 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1529
+what he cannot explain, and what she cannot understand.202 Although
+Laymon could tell the girl with whom he is intimate, the girl he says
+he loves, what transpired and where his head is at, something stops
+him.203 To do so, he would have to explain too much, expend too
+much effort, and expose himself. Worse, her response might come
+from a place of pity instead of understanding. Laymon’s girlfriend
+lacks an experiential awareness of being Black.
+Ta-Nehisi Coates writes about the uniqueness of existing in the
+world—specifically America—as a Black man in Between the World
+and Me. In the book, a longform letter to his fifteen-year-old son,
+Coates considers American-made racism and the violence and con-
+straints it renders upon Black people. He muses: “[H]ow do I live free
+in this [B]lack body?”204 After identifying a string of unarmed Black
+men and boys killed by police officers, Coates warns his son:
+The destroyers will rarely be held accountable. Mostly they will
+receive pensions. And destruction is merely the superlative form of
+a dominion whose prerogatives include friskings, detainings, beat-
+ings, and humiliations. All of this is common to [B]lack people. And
+all of this is old for [B]lack people. No one is held responsible.205
+Although “the destroyers” are law enforcement, the law routinely
+fails to hold them legally accountable for their misconduct toward
+Black people, even when lethal.206 In the book’s opening pages,
+Coates observes his son quietly retreat to his bedroom, crying at the
+news report that Michael Brown’s killers will not be held accountable
+for their actions.207 To dull any future pain his son will experience
+when another unarmed Black person is killed at the hands of police,
+Coates explains that such occurrences are ordinary, expected even. To
+be Black is to know that such things predictably reoccur. This is the
+lesson Coates must teach his son in America.208 As Bryan Stevenson
+explains: “People of color in the United States, particularly young
+[B]lack men, are burdened with a presumption of guilt and
+dangerousness.”209
+202 Id. at 96.
+203 Id.
+204 TA-NEHISI COATES, BETWEENTHE WORLDAND ME 12 (2015).
+205 Id. at 9.
+206 Id. at 11; see Monica Davey & Julie Bosman, Protests Flare After Ferguson Police
+Officer Is Not Indicted, N.Y. TIMES (Nov. 24, 2014), https://www.nytimes.com/2014/11/25/
+us/ferguson-darren-wilson-shooting-michael-brown-grand-jury.html; Matt Apuzzo &
+Michael S. Schmidt, U.S. Not Expected to Fault Officer in Ferguson Case, N.Y. TIMES (Jan.
+21, 2015), https://www.nytimes.com/2015/01/22/us/justice-department-ferguson-civil-rights-
+darren-wilson.html.
+207 COATES,supra note 204, at 11.
+208 See also IMANI PERRY, BREATHE: A LETTERTO MY SONS (2019).
+209 Stevenson,supra note 196, at 4.
+
+43660-nyu_96-5 Sheet No. 81 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+81
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 38 9-NOV-21 15:07
+1530 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+Embodied empathy is born from the shared experience of navi-
+gating the social meanings attached to Black people in America. The
+joys, the indignities, the celebrations, and the violence. It is intimate,
+lived familiarity with experiencing America’s racial hierarchy that
+formed during slavery, the impact of which is felt by Black people
+regardless of whether one’s ancestors were held in bondage or immi-
+grated voluntarily. Within the context of clinical therapy, Black “ther-
+apists often see themselves as being culturally connected to their
+[Black] clients, and having a shared cultural heritage and history can
+lead to a unique therapeutic alliance between [Black] therapists and
+[Black] clients.”210
+This understanding and lived experience can add a greater and
+necessary depth to the attorney-client relationship. One Black
+defender described her exposure to certain life experiences as ena-
+bling her to form deeper connections with Black clients: “Being a
+child of parents who were incarcerated; . . . [I’ll share] whatever I have
+to pull from my background.”211 Doing so communicates to her clients
+that she understands, or at least has the ability to understand, what
+they are experiencing. And like in clinical therapy, this knowledge and
+experience can benefit Black defendants by engendering greater
+embodied empathy on the part of same-race defenders.
+B. Extending the Right
+What if the law empowered indigent defendants to choose
+counsel who they believed could best represent them? Some federal
+appellate courts have concluded that the right to counsel “would be
+without substance if it did not include the right to a meaningful
+attorney-client relationship.”212
+For many defendants, quality representation includes how well
+counsel hears, believes, and understands them; and how well counsel
+tells their story.213 Whether counsel is competent and has the capacity
+to provide adequate representation—factors trial courts consider
+when defendants request to substitute counsel—misses the mark. Fur-
+ther, the Court frames these factors as a negative—the floor that
+counsel should not fall below. Instead, a defendant may prioritize pos-
+itive factors, such as a lawyer with the ability to overcome the pre-
+210 Goode-Cross & Speight, supra note 155, at 331 (citation omitted).
+211 Defender No. 9.
+212 Slappy v. Morris, 649 F.2d 718, 720 (9th Cir. 1981), rev’d, 461 U.S. 1, 13 (1983).
+213 See Chelsea Davis, Ayesha Delany-Brumsey & Jim Parsons, ‘A Little
+Communication Would Have Been Nice, Since This Is My Life’: Defendant Views on the
+Attorney-Client Relationship, 40 CHAMPION 28, 29–31 (2016) (describing a study of client
+interviews which reveals how important communication is to attorney-client relationships).
+
+43660-nyu_96-5 Sheet No. 82 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+82
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 39 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1531
+sumption of dangerousness and criminality that society and the legal
+system assign Black defendants. In fact, “[o]ur system of laws gener-
+ally presumes that the criminal defendant . . . knows his own best
+interests and does not need them dictated by the State.”214
+These ideas are not unprecedented. In a 2008 article, Shani King
+advocated for Black lawyers to represent Black clients in civil legal
+service cases.215 King recommended that “[g]iven the fundamental
+importance of the attorney-client relationship in securing favorable
+outcomes for clients, legal services organizations . . . that serve large
+populations of African American clients should employ staff attorneys
+who are most likely to engender trust and facilitate communication
+with their clients. . . . [That is,] African American staff attorneys.”216
+Two decades after Stephen Schulhofer and David Friedman recog-
+nized that extending the right would likely improve the attorney-client
+relationship,217 their arguments led a small community in Texas to
+enable indigent defendants to select counsel of their choosing among
+a list of court approved lawyers.218 The one-year pilot program, the
+first of its kind in the nation, appeared to work.219 Relative to non-
+choice defendants, client choice defendants were more likely to per-
+ceive that their lawyer treated them with respect.220 With regard to
+outcomes, although most cases involved the defendant pleading guilty,
+significantly more choice defendants pled to lesser charges, more
+choice defendants went to trial than non-choice, and choice defen-
+214 Martinez v. Ct. of Appeals of California, Fourth App. Dist., 528 U.S. 152, 165 (2000)
+(Scalia, J., concurring).
+215 Shani M. King, Race, Identity, and Professional Responsibility: Why Legal Services
+Organizations Need African American Staff Attorneys, 18 CORNELL J.L. & PUB. POL’Y 1
+(2008).
+216 Id. at 3–4.
+217 Schulhofer & Friedman, supra note 41, at 104.
+218 Schulhofer, supra note 41, at 544–57 (describing Comal County, Texas’s pilot
+program implementing counsel of choice for indigent defendants); see also Catherine
+Burnett, Choosing Choice: Empowering Indigent Criminal Defendants to Select Their
+Counsel, 60 S. TEX. L. REV. 277, 310–24 (2019) (same).
+219 The program’s small sample size limits meaningful extrapolation. Burnett, supra note
+218, at 321.
+220 M. ELAINE NUGENT-BORAKOVE, FRANKLIN CRUZ & NORMAN LEFSTEIN, JUST.
+MGMT. INST.,THE POWEROF CHOICE: THE IMPLICATIONSOFA SYSTEM WHERE INDIGENT
+DEFENDANTS CHOOSE THEIR OWN COUNSEL 34 (2017), https://www.jmijustice.org/wp-
+content/uploads/2017/04/The-Power-of-Choice_29-MAR-2017.pdf. The program’s
+evaluation did not consider race when analyzing the attorney-client relationship. Comal
+County, Texas is approximately 67% white (alone, not Hispanic), 28% Hispanic, and less
+than 3% Black. QuickFacts: Comal County, Texas, U.S. CENSUS BUREAU (2019), https://
+www.census.gov/quickfacts/comalcountytexas.
+
+43660-nyu_96-5 Sheet No. 82 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+82
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 40 9-NOV-21 15:07
+1532 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+dants were more likely to receive a sentence of community service
+rather than incarceration.221
+These benefits to the outcomes of choice defendants’ cases
+demonstrate that there may be something more at stake than merely
+exercising agency, which by itself is still a worthy priority. These bene-
+fits suggest that when a defendant is able to exercise choice, it fosters
+trust; and with trust comes an improved attorney-client relationship,
+which can offer multiple benefits, including better case outcomes. As
+discussed below, enabling choice-driven racial congruency between
+the defendant and counsel can also facilitate trust. And given the
+racialized criminal legal system, trust within same-race representation
+may provide significant improvements to the outcomes of Black indi-
+gent defendants’ cases.
+IV
+BLACK ON BLACK REPRESENTATION
+Should the law extend counsel of choice to indigent defendants, it
+would enable low-income people charged with a crime the autonomy
+to select the lawyer that they believe would best represent them.222
+This Part explores why a Black indigent defendant might prioritize
+racial congruency and cultural competency when selecting representa-
+tion. The desire to match Black defendants with Black advocates for
+improved representation is not a new concept. In the 1960s, the senti-
+ment in under-resourced communities of color was that “there was
+something unseemly about large numbers of [B]lack defendants being
+appointed [white] lawyers who seemed to have little understanding of
+their lives.”223 In 1978, Judge John D. Fauntleroy, one of Washington,
+D.C.’s first Black judges, chastised the esteemed Public Defender
+Service for its failure to hire Black lawyers: “When you’re dealing
+with these community problems (in Superior Court) you need people
+who understand the community.”224
+As discussed in Part III, Black public defenders may be better
+situated to represent their client’s humanity before the court given
+their shared understanding of the social meanings attached to Black
+people in this country. Research demonstrates that Black public
+221 Burnett, supra note 218, at 317–18 (citing NUGENT-BORAKOVE ET AL., supra note
+220, at 32–33).
+222 See United States v. Gonzalez-Lopez, 548 U.S. 140, 146 (2006) (finding that the right
+to counsel of choice “commands . . . that a particular guarantee of fairness be provided—to
+wit, that the accused be defended by the counsel he believes to be best”).
+223 MAYEUX,supra note 53, at 160.
+224 Laura A. Kiernan, Public Defender Unit Accused of Bias, WASH.POST, Oct. 13, 1978,
+at C3.
+
+43660-nyu_96-5 Sheet No. 83 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+83
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 41 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1533
+defenders harbor less anti-Black bias than do their non-Black col-
+leagues.225 Black public defenders, more often than their white col-
+leagues, have direct or indirect exposure to communities similar to
+those their clients are from and exposure to similar life experiences.226
+In a criminal justice policy recommendation to the Biden
+Administration, the Black Public Defender Association explained that
+Black public defenders who “come from communities most dispropor-
+tionately impacted by the criminal legal system” are “necessary to
+fight against racism and end mass incarceration.”227 Sameness,
+whether stemming from race, sexuality, or some other shared identity,
+can inspire connection, often helping people “establish rapport, trust,
+and engagement.”228
+This Part presents firsthand accounts from Black public defenders
+about how they perceived their shared race with their clients—given
+the social meanings assigned to race—impacted the formation of the
+attorney-client relationship, improved representation, and mitigated
+anti-Black bias. As demonstrated below, same-race representation
+may lead to more thorough investigation, more robust case theory
+development, and better development and presentation of mitigating
+225 SeeEisenberg & Johnson, supra note 22, at 1553 (finding that, among capital defense
+attorneys who underwent implicit association testing, “[B]lack subjects ha[d] an automatic
+preference for [B]lack [faces], but [the effect was] significantly smaller than the preference
+white and Asian subjects have for white [faces]”); Jerry Kang & Mahzarin R. Banaji, Fair
+Measures: A Behavioral Realist Revision of “Affirmative Action,” 94 CALIF. L. REV. 1063,
+1072 (2006) (noting that anti-Black bias is significantly higher for white people than for
+Black people).
+226 See Defender No. 5 (“Unfortunately, for a lot of our [non-Black] lawyers, the only
+experience they have with Black people is as clients.”); id. (“I’m from the same
+neighborhood as my clients. When they mention a place, I know exactly what they’re
+talking about. When they slip into some slang from the Southside, I know what they
+mean.”); Defender No. 10 (“I know . . . what that experience is like. I’ve . . . had cousins
+who [were] arrested and their moms is calling me to help, or family members of my own.
+And I know . . . what’s going through . . . [my clients’] heads and particularly when I reach
+out to [their] family members. I’m aware.”); Defender No. 9 (“When your client knows
+that you understand what it’s like to visit a loved one, a parent, a sibling in custody, in lock
+up. To be patted down, searched. To write letters. To put money on someone’s books. To
+accept a collect phone call. When [your client] knows that you’ve been there, that you have
+a shared experience with them, you can’t put a value on that.”); see alsoCLAIR,supra note
+13, at 74 (“[R]acially marginalized defendants have the . . . disadvantage of being less likely
+to share everyday cultural experiences with their defense attorneys, who are mostly white
+and middle class. Sharing cultural experiences, tastes, or worldviews . . . tends to facilitate
+trust, whereas not sharing these qualities . . . tends to be grounds for mistrust.” (footnotes
+omitted)).
+227 BLACK PUB. DEF. ASS’N, DISRUPTING CARCERAL SYSTEMS: BPDA’S
+RECOMMENDATIONS TO THE BIDEN-HARRIS ADMINISTRATION 3 (2021), http://
+blackdefender.org/wp-content/uploads/2021/04/bpda-biden-harris-report.pdf.
+228 Alexis Anderson, Lynn Barenberg & Carwina Weng, Challenges of “Sameness”:
+Pitfalls and Benefits to Assumed Connections in Lawyering, 18 CLINICAL L. REV. 339,
+340–41 (2012).
+
+43660-nyu_96-5 Sheet No. 83 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+83
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 42 9-NOV-21 15:07
+1534 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+evidence at sentencing. These factors are critical to effective represen-
+tation under the Sixth Amendment.
+A. The Attorney-Client Relationship
+The initial meeting is a critical moment in the formation of the
+attorney-client relationship that can set the stage for the remainder of
+representation. This meeting is often brief, stressful, and transactional
+given counsel’s immediate need to obtain information about the case
+against the client. However, it is critical for defense counsel to lay the
+foundation for an effective attorney-client relationship during this first
+interaction.229 When a Black defendant is paired with a non-Black
+defense lawyer, it is necessary to first break through a cross-racial bar-
+rier to develop the relationship.230 By contrast, a same-race defender
+can immediately begin to establish a deeper professional connec-
+tion.231 The head of one public defender office explained that when
+she establishes an initial bond with a same-race client, they can jump
+right into discussing the substance of the case.232
+For some Black defendants, simply laying eyes on a Black
+defender can put them at ease. One defender described the district
+courthouse she practices in as “overwhelmingly white. [It] has a nega-
+tive reputation with [defendants] of color, especially Black people . . .
+[T]he judges are all white, the prosecutors are all white, the sheriffs
+are all white, the courtroom personnel is all white . . . my personnel in
+the public defender office is mostly white.”233 Thus, “when they see
+me . . . I’m the only voice that [they] have that can identify with
+[them].”234 A federal defender from a major metropolitan jurisdiction
+explained the impact her appearance and slight Caribbean accent
+have on her clients, many of whom are Black Caribbean. “[T]hey feel
+more comfortable.”235 She notices her clients observe that she wears
+229 See ABA STANDARDS, supra note 40, at Standard 4-3.3(a) (“In the initial meeting
+with a client, defense counsel should begin the process of establishing an effective
+attorney-client relationship. This includes assuring the client of confidentiality [and]
+establishing trust . . . .”).
+230 See Bryant, supra note 18, at 42 (“Lawyers and clients who do not share the same
+culture face special challenges in developing a trusting relationship in which genuine and
+accurate communication can occur.”).
+231 But see Defender No. 10 (“My Blackness, my womanness, my relative appearance of
+youth, gets them more concerned in some ways. [They think]: ‘She’s young, she’s Black,
+she’s a she. She doesn’t know what she’s doing. She’s going to let the judge run all over
+her.’ And so I’m aware that’s probably what they’re coming to the table with [and that I
+have to address these concerns in my advocacy.]”).
+232 Defender No. 12 (“[I]t makes me more efficient.”).
+233 Defender No. 5.
+234 Id.
+235 Defender No. 3.
+
+43660-nyu_96-5 Sheet No. 84 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+84
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 43 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1535
+her hair naturally, in locs.236 “[Their thinking is:] If you have some
+understanding of where I come from, then this is going to be some-
+thing that you care about and pay attention to, and are invested in. As
+opposed to you thinking that I am someone so different from you, and
+forgettable in some way.”237 Research shows that the inverse is true,
+anti-Black bias can result in a defender being less invested and
+spending less time on a Black defendant’s case, which can then impact
+a defendant’s willingness to share information that could help advance
+the defense.238
+In these examples, the lawyers’ mere presence engendered trust
+with their same-race clients. Race in these instances acted as a lifeboat
+amid potentially hostile, biased waters. This lifeline—the initial con-
+nection—can then translate into meaningful differences in representa-
+tion. As discussed below, the bond can help open the lines of
+substantive communication that may otherwise remain closed to or
+misunderstood by non-Black or less culturally aware counsel.
+1. Quality of Communication
+Communication is a key aspect of the attorney-client relationship
+and a central feature of the Sixth Amendment right to effective
+counsel. One of defense counsel’s core duties is “to communicate and
+keep the client informed and advised of significant developments and
+potential options and outcomes.”239 Yet, problems with communica-
+tion are the most frequent basis of bar complaints against lawyers.240
+Within criminal defense, a breakdown in communication can result in
+the deprivation of the right to counsel.241 It can also serve as good
+cause for the court to grant a defendant’s motion to substitute
+236 SeeAngela Onwuachi-Willig, Another Hair Piece: Exploring New Strands of Analysis
+Under Title VII, 98 GEO L.J. 1079, 1080 n.2 (2010) (describing locs or locks as “sections of
+hair that are ‘permanently locked together and cannot be unlocked without cutting’”
+(citation omitted)).
+237 Defender No. 3.
+238 See Richardson & Goff, supra note 22, at 2636–38 (explaining that anti-Black bias
+causes white defenders to “unconsciously exhibit hostility” that “adversely affect[s] the
+attorney’s triage decisions,” which, in turn, makes clients less likely to be forthcoming with
+information helpful to the case).
+239 ABA STANDARDS,supra note 40, at Standard 4-1.3(d).
+240 Stephen E. Schemenauer, What We’ve Got Here . . . Is A Failure . . . To
+Communicate: A Statistical Analysis of the Nation’s Most Common Ethical Complaint, 30
+HAMLINE L. REV. 629, 645–46 (2007) (surveying the fifty states and D.C. and finding that
+“[t]he most common nationwide complaint is a ‘failure to communicate’”).
+241 Brown v. Craven, 424 F.2d 1166, 1169–70 (9th Cir. 1970) (granting habeas relief for
+denial of right to counsel where trial court forced defendant to trial over defendant’s
+motions to substitute appointed counsel with whom there was a complete breakdown in
+the relationship).
+
+43660-nyu_96-5 Sheet No. 84 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+84
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 44 9-NOV-21 15:07
+1536 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+counsel.242 This Subsection demonstrates how same-race representa-
+tion can ease communication between the attorney and client and sub-
+stantively benefit the client’s case.
+The few studies that measure indigent defendant satisfaction
+reveal that communication problems abound.243 Research shows that
+differences in race, gender, class, and other cultural identities can
+create barriers to communication.244 To compensate for race-based
+barriers in communication with their clients, some lawyers rely on
+non-white colleagues, often non-lawyers, to act as cultural translators.
+One public defender was the only Black lawyer in her office when
+hired, despite practicing in a jurisdiction where approximately ninety
+percent of her clients are Black.245 “I’ve had situations, right before a
+trial, [where] my white colleague [asked]: There’s no way we should
+be going to trial. All the evidence is against us. I can’t get through to
+my client. Can you talk to them?”246 Although she often agreed to
+speak with her colleagues’ clients in these instances, she lamented that
+those situations can be difficult because she does not know the facts of
+the case, the investigation, nor the viability of the case for trial.247 A
+supervising defender with whom I spoke shared an example from her
+practice:
+There was someone in lockup and one of my [supervisee] attorneys,
+who was white, was having a difficult time communicating [to the
+Black client] what the judge had just said during conference. He
+asked me . . . to help him explain it to the client because the client
+thought that my attorney was “selling him out” . . . . All he was
+doing was relaying what the judge told him to inform his client. By
+me coming back there, I was like, “look, no one is trying to sell you
+out. We’re not working with the system. We’re not working with the
+judge. We are here to help you.” . . . [M]e being there; the tension
+just went down. [I was able to bring a sense of] familiarity.248
+However, there is something lost between the lawyer and the
+client when the lawyer is unable to serve as the primary source of
+242 Benitez v. United States, 521 F.3d 625, 632 (6th Cir. 2008) (noting trial court has an
+obligation to inquire into source of dissatisfaction between defendant and counsel, and
+may grant motion to withdraw or substitute counsel if there is a showing of good cause).
+243 See, e.g., Campbell et al., supra note 18, at 761–63 (finding common themes among
+defendants’ complaints, including perception that their public defenders did not listen to
+them, spent little and low-quality time with them, did not inform them about what would
+happen during upcoming court proceedings, and did not inform them about certain rights).
+244 See supra note 18 and accompanying text.
+245 Defender No. 1.
+246 Id.
+247 Id.
+248 Defender No. 5.
+
+43660-nyu_96-5 Sheet No. 85 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+85
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 45 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1537
+information about the case. This barrier can corrode trust and disrupt
+the relationship.
+Same-race representation can negate the need for a cultural
+translator and allow the attorney and client to establish trust more
+readily. The head of a state office, who is Black, discussed a case she
+worked on with co-counsel who were white. She shared an anecdote
+from the client’s perspective who described a shift in representation
+when she joined the team: “He was often told ‘that doesn’t make
+sense’ or ‘you shouldn’t say that,’ when it was things I picked up on
+automatically and said: ‘well no, that makes perfect sense. I get it.’”249
+Her presence on the team and the information she gathered from the
+client helped shape the theory of defense.250
+2. Development of Trust
+Another foundational component of the attorney-client relation-
+ship is trust. The ABA Standards instruct criminal defense attorneys,
+“[i]mmediately upon appointment . . . to establish a relationship of
+trust and confidence” with the client.251 The Court has recognized that
+crucial “decisions can best be made, and counsel’s duties most effec-
+tively discharged, if the attorney and the defendant have a relation-
+ship characterized by trust and confidence.”252 Just as cross-racial
+representation can create a barrier to communication, it can also serve
+as an obstacle to establishing trust.253 Conversely, same-race represen-
+tation provides the potential for lawyers and clients to develop a
+trusting relationship based on a perception of shared experiences and
+understanding.
+Many of the Black public defenders with whom I spoke explained
+that their same-race clients perceived them to be less a “part of the
+system” and thus more trustworthy than their white colleagues.254
+249 Defender No. 4.
+250 Id.
+251 ABA STANDARDS, supra note 40, at Standard 4-3.1(a); see also Janet Moore &
+Andrew L.B. Davies, Knowing Defense, 14 OHIO ST. J. CRIM. L. 345, 362 (2017) (“Meeting
+new clients, and winning their trust and respect, is a crucial part of defenders’ daily
+activity.”).
+252 Morris v. Slappy, 461 U.S. 1, 21 & n.4 (1983) (Brennan, J., concurring) (citing ABA
+STANDARDSFOR CRIMINAL JUSTICE 4-3.1(a) (2d ed. 1980)).
+253 Campbell et al., supra note 18, at 764 (finding distrust between public defenders and
+clients due to the influence of racial and class differences); Bryant, supra note 18, at 42
+(explaining that differences in culture between the lawyer and client can create challenges
+in developing trust).
+254 Former public defender and current law professor, Kenneth Troccoli wrote about the
+common pairing of Black indigent defendants with white public defenders in his 2002
+article, “I Want a Black Lawyer to Represent Me”: Addressing a Black Defendant’s
+Concerns with Being Assigned a White Court-Appointed Lawyer, 20 LAW & INEQ. 1 (2002).
+
+43660-nyu_96-5 Sheet No. 85 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+85
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 46 9-NOV-21 15:07
+1538 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+This reflects the fact that many Black indigent defendants racialize the
+system as white. Thus, when Black defenders and their Black clients
+appear together amidst the overwhelmingly white demographics of
+the courtroom—where the judges, prosecutors, and court officers are
+often all white—it creates a sense of solidarity between them.255
+“There is a different relationship that’s built [between my Black cli-
+ents and me] . . . . They trust me [because] they see nothing but white
+. . . in the courtroom.”256 This perceived distance between Black
+public defenders and the “system” enables Black indigent defendants
+to more readily develop trust with their same-race defenders. One
+defender described the currency her race plays when interacting with
+her clients over the phone. Given the nature of her practice—in court
+daily—she often “meets” her clients for the first time over the phone.
+“Over the phone, they think I’m a white girl [so] I have to let them
+know, I have to identify myself [as a Black woman], because it defi-
+nitely changes the tone and tenor [of the conversation].”257 After
+revealing her race and referencing a shared experience, she immedi-
+ately hears a shift in her clients’ voices and notices that they tend to be
+more open and forthcoming with information after the disclosure.258
+B. Black Defenders Can Mitigate Anti-Black Bias
+As set forth below, Black public defenders may be able to more
+readily see, hear, and understand their Black clients and, as impor-
+tantly, Black clients tend to more readily see, hear, and understand
+their Black lawyers.259 At each turn in the system, a Black indigent
+defendant faces potentially hostile decisionmakers whose anti-Black
+bias may cloud judgment and detrimentally impact the defendant’s
+case.260 Public defenders, like all of us, harbor anti-Black bias.261 Such
+In it, he described the common sentiment of Black clients that the system is racist and
+rigged against them, which includes white public defenders “‘whether racist or not, [who]
+are part of that system.’” Id. at 17; see also Johnathan D. Casper, Did You Have a Lawyer
+When You Went to Court? No, I Had a Public Defender, 1 YALE REV. L. & SOC. ACTION 4,
+6 (1971) (revealing that many indigent defendants viewed their appointed lawyers as
+affiliated with the prosecution or as “an agent of the prosecution”).
+255 See Defender No. 5; Defender No. 9.
+256 Defender No. 1.
+257 Defender No. 9. An appellate defender explained that she also regularly “meets” her
+Black clients over the phone and that when they later meet in person, she could tell that
+“[t]hey were so happy that I wasn’t white. ‘She’s one of us!’ [The client’s mood shift] was
+remarkable.” Defender No. 8.
+258 Defender No. 8.
+259 Cf. DELGADO & STEFANCIC, supra note 26, at 11 (discussing the concept of a
+“unique voice of color,” which holds that minorities have a presumed competence to speak
+about race and racism that their white counterparts do not have).
+260 GONZALEZVAN CLEVE,supra note 20, at 17–39 (describing the racialized culture of
+Cook County, Illinois criminal courts, including that defense counsel, who are
+
+43660-nyu_96-5 Sheet No. 86 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+86
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 47 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1539
+bias can manifest in small or large ways, such as defense counsel mis-
+taking another Black person in a courtroom for their client,262 or in
+negotiating a less favorable plea agreement on behalf of a Black client
+relative to an otherwise similarly situated white client.263 However,
+research shows that Black defenders harbor less anti-Black bias than
+do their non-Black counterparts.264 Moreover, Black defenders may
+be more likely to recognize racism and raise race-based challenges by
+virtue of their experience as Black people. In this way, Black defense
+counsel are particularly well-situated to challenge anti-Black racial
+bias whenever it arises in the client’s case.265 This Section argues that
+Black public defenders can serve as a safeguard against anti-Black
+racial bias in the criminal legal system.
+Given their intimate understanding of the social meaning
+assigned to Black people in this country, Black defenders may have
+both the legal and experiential awareness to challenge anti-Black
+racism in their client’s case. Conversely, “a white attorney who repre-
+sents a client of color may not be prepared to fully relate to the client
+if she approaches the client with a set of assumptions that do not apply
+beyond her dominant culture.”266 Black public defenders with whom I
+spoke shared examples where they believe their shared race helped
+their advocacy on behalf of Black clients. For instance, a defender
+now serving as the executive director of an office recalled a case
+involving a young Black client facing serious felony charges. The
+defender joined two white lawyers who the court had already
+appointed. There was a “difference in how [the client] felt when he
+had lawyers who were not his same race, and then . . . that changed
+overwhelming white, often perpetuate the court system’s racial abuses when interacting
+with their indigent clients, who are overwhelmingly Black).
+261 Richardson & Goff, supra note 22.
+262 CLAIR, supra note 13, at 75 (observing instances of mistaken identity where white
+lawyers approached groups of Black people “looking questioningly” for their client or
+“assuming” that some other Black person was their client).
+263 See Edkins, supra note 37 (finding that defense attorneys are more likely to
+recommend plea bargains for Black clients that impose harsher sentences than plea
+bargains they would recommend for similarly situated white clients).
+264 Eisenberg & Johnson, supra note 22, at 1553.
+265 See Gonzales Rose, supra note 182, at 2258 (explaining that people of color have the
+competency to recognize and speak about race and racism).
+266 Roland Acevedo, Edward Hosp & Rachel Pomerantz, Race and Representation: A
+Study of Legal Aid Attorneys and Their Perceptions of the Significance of Race, 18 BUFF.
+PUB. INT. L.J. 1, 18–19 (2000); see also Lindsey Webb, Slave Narratives and the Sentencing
+Court, 42 N.Y.U. REV. L. & SOC. CHANGE 125, 149 (2018) (proposing abolitionist
+approaches to individual client representation but acknowledging that “[b]ecause the
+majority of defense lawyers have not been incarcerated and are not people of color, . . .
+they may be ill-equipped to effectively identify and address systemic racial inequities in our
+systems of imprisonment”).
+
+43660-nyu_96-5 Sheet No. 86 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+86
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 48 9-NOV-21 15:07
+1540 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+when I came into the picture. . . . Some of that was me feeding [new]
+information [back to the team] to build our theory [of defense].”267
+She recalled that her representation “allowed [the client] to open up
+more. It allowed him to feel heard and understood.”268 As a result, the
+defense team had a more robust picture of the client, the defense, and
+mitigation. Just as significant, the client felt better represented.
+Black defenders’ mere presence in the courtroom may also miti-
+gate the impact of or dissuade the prosecution and/or trial judge from
+engaging in anti-Black racism. As discussed above regarding the bene-
+fits of same-race representation in education, this is known as passive
+effect, where the mere presence of a teacher—or public defender—of
+the same race can render a benefit.269 A Black lawyer’s presence may
+provide a powerful antidote to the presumption of criminality and
+dangerousness that society, including jurors, judges, and prosecutors
+assign to Black people. Professor and legal historian Kenneth Mack
+observes that Black civil rights lawyers had the power through their
+“brilliant” performances in Southern courts to transform the thinking
+of white observers.270 Research on race in the legal profession and its
+impact on criminal cases shows that “more persons of color making
+decisions in the justice system” can “mitigate disparities in justice out-
+comes.”271 A study on sentencing indicated that when “consciousness
+and awareness of racial discrimination [are] elevated” among “deci-
+sion makers [who are] members of underrepresented groups,” it can
+have a positive outcome on defendants of color.272
+When facing a Black defense attorney, prosecutors may also be
+less likely to rely on race when exercising peremptory strikes to
+remove prospective jurors. In response to a Black defender’s Batson
+v. Kentucky challenge,273 trial judges may think more critically about a
+prosecutor’s purported race-neutral reasoning for removing a non-
+white juror. Black defenders may also be more likely to object to a
+267 Defender No. 4.
+268 Id.
+269 See Egalite et al., supra note 151, at 45; Dee, supra note 151, at 196–97; Dee, supra
+note 176, at 159.
+270 KENNETH W. MACK, REPRESENTING THE RACE: THE CREATION OF THE CIVIL
+RIGHTS LAWYER 83, 105–08 (2012) (providing detailed account of Charles Houston’s
+defense of George Crawford, a Black man charged with murdering a wealthy socialite and
+her maid in Virginia, where “[o]ne upper-class local woman reportedly confessed that
+‘[a]fter hearing that brilliant man, I can no longer hold the views I previously held of the
+Negro’” (alteration in original)).
+271 Ryan D. King, Kecia R. Johnson & Kelly McGeever, Demography of the Legal
+Profession and Racial Disparities in Sentencing, 44 LAW & SOC’Y REV. 1, 26 (2010).
+272 Id.
+273 See 476 U.S. 79, 96 (1986) (establishing three-part test to determine whether counsel
+unlawfully relied on race when exercising a peremptory strike on a prospective juror).
+
+43660-nyu_96-5 Sheet No. 87 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+87
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 49 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1541
+prosecutor’s use of racially coded and dehumanizing language,
+whereas a non-Black defender may remain silent because such lan-
+guage may not register as offensive or unlawful.274 The impact defense
+counsel’s race may have on the prosecutor’s and judge’s actions
+regarding racial discrimination in jury selection is an area ripe for
+additional research.
+Black defenders may also be more attuned than white defenders
+to recognizing their client’s humanity beyond the criminal charges.275
+This can impact counsel’s temporal investment and performance
+throughout the case.276 One appellate defender whose client popula-
+tion is exclusively Black men explained that she observes a difference
+between the way her Black clients interact with her and with her white
+colleagues.277 For example, one client “is very open with me and tells
+me the truth, and when he is speaking with [my white colleague] he is
+stern, reserved, and professional . . . [and] he’s [no longer] forth-
+coming.”278 She recognizes that the client’s openness is beneficial to
+her as an advocate, and more importantly, to the case because the
+information from her client informs the issues in the appeal and the
+way she presents the client’s narrative before the court.279
+Investigation and presentation of mitigating evidence during a
+client’s sentencing hearing—in both capital and non-capital cases—is
+part of constitutionally effective representation.280 The goal of such
+evidence is to humanize the client beyond the criminal conviction and
+secure a favorable outcome on behalf of the client. In a capital case,
+when the defendant is Black, the necessity to humanize the client is
+274 See Acevedo et al., supra note 266, at 15 (“The subjective experiences of people of
+specific backgrounds shape their worldviews in different ways. . . . [Accordingly], a set of
+circumstances can appear different to members of different identity groups.”).
+275 Id. (explaining that “whites may be unaware and unfamiliar with the lives of their
+clients of color to such an extent that failure to take racial differences into account may
+mean missing a large part of the client’s story and problem”).
+276 See Richardson & Goff, supra note 22, at 2634–41 (explaining that racial bias can
+impact the amount of time defense counsel spends on a case).
+277 Defender No. 8.
+278 Id.
+279 Id.
+280 See Williams v. Taylor, 529 U.S. 362, 396 (2000) (finding that defense counsel in a
+capital case has an “obligation to conduct a thorough investigation of the defendant’s
+background” to mitigate the offense during sentencing); Miriam S. Gohara, Grace Notes: A
+Case for Making Mitigation the Heart of Noncapital Sentencing, 41 AM. J. CRIM. L. 41
+(2013) (describing the utility of employing capital mitigation evidence development and
+presentation to non-capital cases); Hugh M. Mundy, It’s Not Just for Death Cases
+Anymore: How Capital Mitigation Investigation Can Enhance Experiential Learning and
+Improve Advocacy in Law School Non-Capital Criminal Defense Clinics, 50 CAL. W. L.
+REV. 31 (2013) (explaining the importance and effectiveness of applying principles from
+capital mitigation development to non-capital cases after United States v. Booker, 543 U.S.
+220 (2005), which allowed federal judges to depart from the sentencing guidelines).
+
+43660-nyu_96-5 Sheet No. 87 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+87
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 50 9-NOV-21 15:07
+1542 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+heightened given the tendency for jurors—who are overwhelmingly
+white281—to rely on race to render harsher punishment to Black
+defendants.282 In non-capital cases, such evidence is vital to help Black
+defendants combat presumptions of future dangerousness and to
+address the propensity for rehabilitation.283 For Black clients, this
+means counsel must be able to investigate and understand the impact
+that race, ethnicity, and culture have had on the client’s life.284 To per-
+form these tasks effectively, counsel must have cultural compe-
+tency.285 Given their experiential awareness of the central role that
+race plays in a person’s life, Black defenders often have the baseline
+competency to perform this work well and effectively on behalf of
+their same-race clients.
+C. Limitations
+The argument that Black defenders could help improve represen-
+tation for Black defendants raises concerns and questions. What
+would this mean for white indigent defendants who may want to
+choose a white defender? In short, the system is already well-situated
+281 See EQUAL JUST. INITIATIVE, RECONSTRUCTION IN AMERICA: RACIAL VIOLENCE
+AFTERTHE CIVIL WAR, 1865-1876, at 14 (2020), https://eji.org/wp-content/uploads/2020/07/
+reconstruction-in-america-report.pdf (noting that “people of color are dramatically
+underrepresented on juries as a result of racially biased use of peremptory strikes” and that
+“[t]his phenomenon is especially prevalent in capital cases”); ELISABETH SEMEL, DAGEN
+DOWNARD, EMMA TOLMAN, ANNE WEIS, DANIELLE CRAIG & CHELSEA HANLOCK,
+BERKELEY L. SCH. DEATH PENALTY CLINIC, WHITEWASHING THE JURY BOX: HOW
+CALIFORNIA PERPETUATES THE DISCRIMINATORY EXCLUSION OF BLACK AND LATINX
+JURORS, at v (2020) (“California prosecutors’ use of peremptory challenges to exclude
+African Americans and Latinx citizens from juries is still pervasive.”).
+282 See Jennifer L. Eberhardt, Paul G. Davies, Valerie J. Purdie-Vaughns & Sheri Lynn
+Johnson, Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts
+Capital-Sentencing Outcomes, 17 PSYCH. SCI. 383, 384 (2006) (finding that the more
+phenotypically Black the defendant looked in white victim cases, the more likely jurors
+would vote for death); Jelani Jefferson Exum, Should Death Be So Different?: Sentencing
+Purposes and Capital Jury Decisions in an Era of Smart on Crime Sentencing Reform, 70
+ARK. L. REV. 227, 243–44 (2017) (explaining that implicit racial biases may cause
+predominately white juries not to give effect to mitigating evidence when the defendant is
+Black and to inappropriately add weight to aggravating factors when the victim is white).
+283 See Mundy,supra note 280, at 46 n.104.
+284 See ABA Death Penalty Guidelines, supra note 40, at 1021–22 (“Counsel’s duty to
+investigate and present mitigating evidence is now well established. . . . ‘[P]enalty phase
+preparation requires extensive and generally unparalleled investigation into personal and
+family history[,]’ . . . [including the client’s] experiences of racism or other social or ethnic
+bias; [and] cultural or religious influences . . . .” (footnote omitted)); Craig Haney,
+Condemning the Other in Death Penalty Trials: Biographical Racism, Structural Mitigation,
+and the Empathetic Divide, 53 DEPAUL L. REV. 1557, 1580–81, 1587, 1589 (2004)
+(describing the need for capital defense attorneys to center Black clients’ social histories
+and their race-based experiences, including structural racism and racial discrimination).
+285 See Holdman & Seeds, supra note 25, at 883 (“[C]ultural competency is essential to
+the ability of capital defense teams to discover and reveal the humanity of the accused.”).
+
+43660-nyu_96-5 Sheet No. 88 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+88
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 51 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1543
+to accommodate their requests for same-race representation given the
+demographics of the legal profession and public defenders. And what
+of women defendants, defendants who identify as lesbian, gay,
+bisexual, transgender, or queer, or defendants from any other non-
+dominant group who may want an attorney who shares their identity,
+or a heightened understanding of their identity, to represent them?
+They too should have the option to choose counsel with cultural com-
+petency, a lawyer who they can trust and who understands them.
+These are skills the Supreme Court should deem part of general com-
+petency and the ability to provide adequate defense representation.
+However, no other group of marginalized people has the same pre-
+sumption of criminality, dangerousness, and irredeemability assigned
+to them as do Black people.286 This is why this Article focuses on the
+experiences of Black indigent defendants and why same-race repre-
+sentation is critical.
+That said, this Article does not assume that all Black indigent
+defendants would select Black lawyers if given the autonomy to
+choose counsel, nor does it assume that a Black defense lawyer would
+automatically better serve a Black client. Instead, pragmatically, a
+Black defendant may want a white lawyer because Black lawyers may
+face the very same anti-Black bias in the courtroom as Black indigent
+defendants.287 One Black public defender in the South recalled a pre-
+arraignment meeting with a new client, who was Black. The client was
+older and had several contacts with the criminal legal system over the
+decades. Upon laying eyes on appointed counsel, the client yelled: “I
+want a Jew!”288 A head of office conveyed the sentiments she wit-
+nesses coming from some of the Black indigent defendants in the
+Midwest jurisdiction where she practices.
+286 See MUHAMMAD, supra note 34, at 35–87 (“When Hoffman announced that
+Chicago’s ‘Italians, Polanders and Russians’ lived under conditions ‘without question more
+severe’ than [B]lacks, and [B]lacks still showed the ‘most decided tendency towards crime
+in the large cities,’ he unequivocally marked the [B]lack urban migrant as a criminal of
+exceptional measure.” (quoting FREDERICK L.HOFFMAN, RACE TRAITSAND TENDENCIES
+OFTHE AMERICAN NEGRO (1896))).
+287 See, e.g., Meagan Flynn, ‘Lawyering While Black’: Maryland Deputy Accused
+Attorney of Being a Suspect, Complaint Says, WASH. POST (Mar. 28, 2019), https://
+www.washingtonpost.com/nation/2019/03/28/lawyering-while-black-maryland-deputy-
+accused-attorney-being-suspect-complaint-says (reporting that a deputy sheriff detained a
+Black lawyer and required him to show proof that he was an attorney, after the lawyer
+appeared in court on behalf of his client who had failed to appear);Bell, supra note 79, at
+196 (noting that Black lawyers have to “contend with courthouse racism”); BRYAN
+STEVENSON, JUST MERCY 165 (Spiegel & Grau 2014) (explaining that he, a bearded Black
+man, dresses “as conservatively as possible for court,” so that he would “meet the court’s
+expectation of what a lawyer looked like”).
+288 Defender No. 13.
+
+43660-nyu_96-5 Sheet No. 88 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+88
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 52 9-NOV-21 15:07
+1544 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+Black clients are highly aware of the way white attorneys are
+treated by judges, court officers, [and] prosecutors. They get it. They
+get what white privilege is . . . they see it. And sometimes they want
+that kind of representation. Because they’re making a calcul[ated
+decision] about [it] . . . “This is a court appointed lawyer, I’m
+already . . . screwed, but . . . is there a way that . . . this [white]
+person is gonna do [right] for me?” And even if they have doubts
+about whether or not . . . [a white] attorney . . . is really for them,
+they recognize that . . . whiteness lets that attorney do more than
+maybe a Black attorney [c]ould.289
+Black defendants may also want a white lawyer because they
+view Black lawyers as less competent than white lawyers given their
+own internalized racism.290 However, giving indigent defendants the
+autonomy to choose counsel addresses these concerns. The expansion
+of the Sixth Amendment right to counsel of choice would enable all
+indigent defendants to select the lawyer who they believe would best
+represent them. For a Black defendant, this may mean a non-Black
+defense lawyer.
+Conversely, Black defendants may overwhelmingly want Black
+lawyers to represent them. The system is not equipped to handle such
+a demand due to the underrepresentation of Black people in the legal
+profession, and specifically in the indigent defense community. The
+high demand for Black representation could create a Black “tax,”
+resulting in burdening Black public defenders with even higher
+caseloads beyond the systemic burdens of indigent defense work. A
+similar phenomenon occurs in academia where faculty of color are
+underrepresented. When hired, faculty of color “are often expected to
+occupy a certain set of [additional] roles: to serve as mentors, inspira-
+tions, and guides” and to serve as “the racial conscience of their insti-
+tutions.”291 Those in higher education refer to these duties as
+“invisible labor,”292 which can detract from faculty of color’s ability to
+perform the primary duties for which the institution hired them. Like-
+wise, even higher caseloads requiring more emotional investment
+could prove detrimental to the quality of work Black defenders are
+able to perform.
+289 Defender No. 10.
+290 One Defender, describing initial meetings with indigent Black clients, remarked:
+“When I was a younger attorney, there was some skepticism. Everyone has a vision of what
+a lawyer looks like, and unfortunately, because we’re already in the minority in the legal
+field and in the public defender field, people expect an older, white haired man to walk
+into the room.” See Defender No. 3.
+291 Patricia A. Matthew, What Is Faculty Diversity Worth to a University?, ATLANTIC
+(Nov. 23, 2016), https://www.theatlantic.com/education/archive/2016/11/what-is-faculty-
+diversity-worth-to-a-university/508334.
+292 Id.
+
+43660-nyu_96-5 Sheet No. 89 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+89
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 53 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1545
+There may also be differences in class and education level
+between Black lawyers and their indigent clients.293 Despite the uni-
+fying social meaning attached to Black people in this country, class-
+and education-level divisions can result in different experiential
+awareness. Professor Mack discusses the tension that Black civil rights
+lawyers experienced when thrust into a representative role for their
+clients.294 However, one defender, acknowledging the obvious differ-
+ences between herself and her Black clients, explained how their
+sameness trumped those relatively minor divisions.
+[T]hey know our backgrounds are different, they know that we
+didn’t necessarily grow up in the same neighborhood, or they under-
+stand that I’m educated and maybe they’re not, or we’re from dif-
+ferent regional places, but they also have the comfort that they
+don’t have to explain their humanity to me. That part I get. Right? I
+have Black sons, so they don’t have to explain to me that they are a
+man. We can just talk about the case.295
+Instead of expending energy overcoming the presumption of
+criminality and dangerousness that society assigns to Black people,296
+the defender and her client can dive directly into the case. This is less
+likely to occur as seamlessly for non-Black defenders.
+Black people’s diverse experiences and the potential for a Black
+tax do not negate the utility of research and analysis on how counsel’s
+race may impact indigent representation. Nor do these concerns
+eclipse the benefit that many Black defendants can derive from same-
+race representation. This research is more developed in other con-
+texts, such as political science. In Behind the Mule: Race and Class in
+African-American Politics, Michael Dawson developed the concept of
+“linked fate” to describe Black people’s political cohesion motivated
+by the perception that the individual’s fate is linked to the shared
+identity group’s interests when making political decisions, like
+voting.297 Despite the myriad differences among Black people—
+293 See CLAIR,supra note 13, at 74–76.
+294 MACK,supra note 270, at 4–5 (“[A] representative [B]lack person often had to be as
+unlike most members of the minority group as possible. Black Americans themselves often
+took great pride in the achievements of atypical members of their race.”). Meanwhile,
+“both [B]lacks and whites often demanded that the representative be an ‘authentic’ [B]lack
+person—someone as much like the masses of [B]lack people as possible.” Id. at 5.
+295 Defender No. 12.
+296 See Stevenson, supra note 196, at 4 (describing his own experience of being
+threatened at gunpoint by a police officer while parked outside his own apartment and
+reflecting that “young [B]lack men[] are burdened with a presumption of guilt and
+dangerousness”).
+297 MICHAEL C. DAWSON, BEHIND THE MULE: RACE AND CLASS IN AFRICAN-
+AMERICAN POLITICS 76–77 (1994) (describing “linked fate” as the “link[] between
+perceptions of self-interest [and] perceptions of racial group interests,” as measured by the
+
+43660-nyu_96-5 Sheet No. 89 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+89
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 54 9-NOV-21 15:07
+1546 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+Dawson closely studied economic difference—Black people “have
+displayed extraordinary political unity in their voting decisions” since
+the 1960s.298
+Although Dawson recognized the diversity among Black people in
+America, he argued that “the strength of individuals’ sense of responsi-
+bility to each other and to the community as a whole” trumped the
+differences.299 Subsequent empirical analysis on identity group cohe-
+sion shows that Black people, relative to Hispanic people, non-
+Hispanic white people, and Asian people, demonstrate the greatest
+group cohesion.300 Taken to a broader context, it is the phenomenon
+that one’s prospects are linked to the success of the race. Dawson’s
+theory is instructive here, where Black public defenders may be moti-
+vated to zealously represent their Black clients out of a shared sense of
+linked fate. As one Black public defender described it: “[I]t’s me and
+you up here [in court]. We’re standing together as a team. We are a
+united front against everything that’s coming at us . . . .”301
+D. Opportunity for Growth
+Although the ideas in this Article may appear provocative and
+radical to some, they are not unattainable nor unreasonable. Exam-
+ining the potential benefits that expanding choice could bring to Black
+indigent defendants helps advance discourse on undertheorized areas
+of the criminal law and practice.
+The ideas in this Article make clear that more research is needed
+on racially congruent representation and on exercising choice of
+counsel from the client’s perspective. As a general matter, there is a
+dearth of qualitative research on indigent defendants’ experiences and
+perceptions.302 Much of the existing research on indigent defense
+survey question, “Do you think that what happens generally to the [B]lack people in this
+country will have something to do with what happens in your life?”). I thank Kendall
+Thomas for introducing me to Dawson’s work.
+298 Id. at 130.
+299 Id. at 98–99.
+300 Gabriel R. Sanchez & Edward D. Vargas, Taking a Closer Look at Group Identity:
+The Link Between Theory and Measurement of Group Consciousness and Linked Fate, 69
+POL. RSCH. Q. 160 (2016) (measuring three types of group consciousness—commonality,
+perceived discrimination, and collective action—and finding that Black people had the
+greatest overall level of group consciousness across the three dimensions).
+301 Defender No. 9.
+302 See Marla Sandys & Heather Pruss, Correlates of Satisfaction Among Clients of a
+Public Defender Agency, 14 OHIO ST. J. CRIM. L. 431, 431 (2017) (describing the gap in
+indigent defense research from the client’s perspective and presenting findings from a
+client satisfaction study from a rural public defender agency); Janet Moore, Ellen
+Yaroshefsky & Andrew L.B. Davies, Privileging Public Defense Research, 69 MERCER L.
+REV. 771 (2018) (noting lack of research on indigent defendant communication with
+counsel).
+
+43660-nyu_96-5 Sheet No. 90 Side A 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+90
+Side
+A
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 55 9-NOV-21 15:07
+November2021] BLACK ON BLACK REPRESENTATION 1547
+focuses on quantitative data regarding charging and sentencing. How-
+ever, there is limited information and analysis on client perceptions of
+representation and on attorney-client relationships.303 Such research
+could help advance the argument for expanding counsel of choice to
+indigent defendants and for increasing racial diversity among indigent
+defense providers.
+The ideas in this Article also encourage greater attention to how
+jurisdictions might implement choice of counsel for indigent defen-
+dants. Even without a constitutional mandate, local jurisdictions can
+begin to explore this possibility.
+Although the Comal County pilot program was small in scope,
+the results seemed to indicate defendants who chose their own lawyer
+experienced better case outcomes relative to their non-choice coun-
+terparts, including shorter sentences.304 Enabling choice may be eas-
+iest in small and rural jurisdictions, where the court appoints counsel
+to indigent defendants from a list of private attorneys. As Schulhofer
+and Friedman theorized, appointed counsel would have incentives to
+offer higher quality services so that defendants select them.305
+However, in larger jurisdictions where the local government and/
+or non-profit organizations provide indigent defense representation,
+extending choice would be more of an undertaking. In those settings,
+defendants might select counsel from a list of employees from a cer-
+tain agency; such a list might include details about each lawyer’s back-
+ground, experience, and specialized training. With clients driving the
+selection process, indigent defense providers would need to conform
+their hiring, training, and services to better meet client demands. This
+would necessarily include cultural competency training and hiring
+public defenders from populations that are more reflective of the cli-
+ents served.
+CONCLUSION
+Regardless of whether the Court extends the right to counsel of
+choice to indigent defendants, perhaps benefiting Black defendants,
+there is still a dearth of Black public defenders. The arguments in this
+Article require indigent defense providers to prioritize recruiting
+more Black lawyers and instituting cultural competency training to
+ensure that all lawyers can provide effective cross-cultural representa-
+tion. Such training is largely absent from many public defender
+303 Campbell et al., supra note 18, at 751–52 (describing the lack of qualitative data on
+indigent client experience and satisfaction and endeavoring to bridge the gap).
+304 Burnett,supra note 218, at 317–18.
+305 Schulhofer & Friedman, supra note 41, at 104.
+
+43660-nyu_96-5 Sheet No. 90 Side B 11/18/2021 14:12:20
+43660-nyu_96-5
+Sheet
+No.
+90
+Side
+B
+11/18/2021
+14:12:20
+\\jciprod01\productn\N\NYU\96-5\NYU503.txt unknown Seq: 56 9-NOV-21 15:07
+1548 NEW YORK UNIVERSITY LAW REVIEW [Vol.96:1493
+offices. However, these priorities cannot start in practice. Law schools
+have an obligation to prioritize diversity in the profession and to pre-
+pare students for practice. Although cross-cultural lawyering has long
+been promoted in clinical legal education,306 many law students grad-
+uate without ever having enrolled in a clinic.307 Moreover, the rele-
+vant doctrinal courses—criminal law, criminal procedure, and
+evidence—fail to adequately prepare students for client-facing
+work.308 In these ways, improving the representation options for
+Black indigent defendants will ultimately improve representation for
+all indigent defendants.
+306 See, e.g., Bryant, supra note 18, at 40 (“By teaching students cross-cultural lawyering
+skills and perspectives, we make the invisible more visible and thus help students
+understand the reactions that they and the legal system may have towards clients and that
+clients may have towards them.”).
+307 DEBORAH L. RHODE, THE TROUBLEWITH LAWYERS 130 (2015) (noting that fewer
+than five percent of schools require students to undertake clinical training and a majority
+of students graduate without taking a clinic).
+308 Shaun Ossei-Owusu, The New Penal Bureaucrats (U. Pa. Carey L. Sch., Working
+Paper, Nov. 4, 2020), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691671 (arguing
+that doctrinal criminal legal education is inattentive to racial and gender inequality, as well
+as to poverty, leaving graduates ill-prepared to combat these issues in practice).

@@ -1,0 +1,1033 @@
+2150.BRIGHTSANNEH.2174_UPDATED.DOCX7/1/2013 12:27:56 PM
+Stephen B. Bright & Sia M. Sanneh
+Fifty Years of Defiance and Resistance After
+Gideon v. Wainwright
+abstract. In its 1963 ruling Gideon v. Wainwright, the Supreme Court declared the right to
+a lawyer “fundamental and essential” to fairness in the criminal courts and held that lawyers
+must be provided for people who could not afford them so that every person “stands equal
+before the law.” In later decisions, the Court ruled that a poor person facing any loss of liberty
+must have a lawyer “so that the accused may know precisely what he is doing, so that he is fully
+aware of the prospect of going to jail or prison, and so that he is treated fairly by the
+prosecution.” This Essay argues that fifty years later, this right has not been realized. The U.S.
+criminal system is not truly adversarial because prosecutors possess broad, unchecked power and
+therefore determine results in criminal cases with little or no input from the defense.
+Governments have failed to adequately fund defense systems, many judges tolerate or welcome
+inadequate representation, and the Supreme Court has refused to require competent
+representation, instead adopting a standard of “effective counsel” that hides and perpetuates
+deficient representation. In this system, poverty, not justice, dictates outcomes.
+authors. Stephen B. Bright is Harvey Karp Visiting Lecturer at Law, Yale Law School, and
+President and Senior Counsel, Southern Center for Human Rights, Atlanta, Georgia. This Essay
+draws upon his first-hand observations of representation of indigents since 1976. Sia M. Sanneh
+is Senior Liman Fellow in Residence, Yale Law School. Since 2008, she has represented indigent
+defendants as an attorney with the Equal Justice Initiative, Montgomery, Alabama. This Essay
+draws upon her first-hand observations. The authors would like to thank Kathleen E. Mollison
+for outstanding research assistance.
+2150
+
+fifty years of defiance and resistance
+essay contents
+introduction 2152(cid:3)
+i. prosecutors determine outcomes in many cases with
+little or no input from the defense 2155(cid:3)
+ii. governments have disregarded their constitutional
+obligation to provide counsel 2160(cid:3)
+conclusion 2172(cid:3)
+2151
+
+the yale law journal 122:2150 2013
+introduction
+Every day in thousands of courtrooms across the nation, from top-tier trial
+courts that handle felony cases to municipal courts that serve as cash cows for
+their communities, the right to counsel is violated. Judges conduct hearings in
+which poor people accused of crimes and poor children charged with acts of
+delinquency appear without lawyers. Many plead guilty without lawyers.
+Others plead guilty and are sentenced after learning about plea offers from
+lawyers they met moments before and will never see again. Innocent people
+plead guilty to get out of jail. Virtually all cases are resolved in this manner in
+many courts, particularly municipal and misdemeanor courts, which handle an
+enormous volume of cases. But it is also how many felony cases are resolved.
+Even when representation lasts for more than a few minutes, it is often
+provided by lawyers struggling with enormous caseloads. These lawyers
+practice triage as they attempt to represent more people than is humanly—and
+ethically—possible without the resources to investigate their many clients’
+cases, retain expert witnesses, and pay other necessary expenses. As a result,
+they are unable to give their clients informed, professional advice during plea
+negotiations, which resolve almost all cases in “a system of pleas, not a system
+of trials.”1 In the rare case that goes to trial, defense counsel often cannot
+seriously contest the prosecution’s arguments, raise and preserve legal issues
+for appeal, or provide information about the defendant that is essential for
+individualized sentencing. For the poor person accused of a crime, there may
+be no adversarial system. Prosecutors may determine outcomes in cases with
+little or no input from defense counsel.
+There are exceptions. Some jurisdictions have provided the resources,
+independence, structure, training, and supervision that enable capable, caring,
+and dedicated lawyers to zealously represent their clients. Some public
+defenders and assigned counsel do heroic work despite overwhelming
+caseloads and lack of resources. But in many jurisdictions, perfunctory
+representation and “meet ’em and plead ’em” processing of human beings
+through the courts remain the dominant culture. Many courts are plea mills:
+courts of profit that impose fines without any inquiry into the ability of
+defendants to pay, thus setting them up for failure and return to jail.
+The representation received by most poor people accused of crimes—if they
+receive any at all—is a far cry from the constitutional requirement of the “the
+guiding hand of counsel at every step in the proceedings,” which was
+1. Lafler v. Cooper, 132 S. Ct. 1376, 1388 (2012). Ninety-four percent of convictions in state
+courts are the result of guilty pleas. Id. In the federal courts, ninety-seven percent of
+convictions are the result of guilty pleas. Id.
+2152
+
+fifty years of defiance and resistance
+established by Gideon v. Wainwright2 and its progeny.3 Gideon held that “fair
+trials before impartial tribunals in which every defendant stands equal before
+the law” “cannot be realized if the poor man charged with crime has to face his
+accusers without a lawyer to assist him.”4 The Court also discussed equality
+before the law in another case decided on the same day as Gideon, reiterating its
+previous statement that “there can be no equal justice” where the kind of
+justice a person gets “depends on the amount of money he has.”5
+Nevertheless, most states, counties, and municipalities—responsible for
+over ninety-five percent of all criminal prosecutions6—have refused to provide
+funding necessary for counsel and equal justice, despite repeated reports of
+deficient representation and gross miscarriages of justice. There is no public
+support for such funding, and governments have no incentive to provide
+competent representation, which could frustrate their efforts to convict, fine,
+imprison, and execute poor defendants. Many state governments have a long
+history of disregarding or resisting unpopular United States Supreme Court
+2. 372 U.S. 335, 345 (1963) (quoting Powell v. Alabama, 287 U.S. 45, 69 (1932)).
+3. Gideon applied to felony cases. The Court later held that children facing commitment to an
+institution were entitled to counsel as a matter of due process in delinquency proceedings, In
+re Gault, 387 U.S. 1, 34-42 (1967), and that “no imprisonment may be imposed, even though
+local law permits it, unless the accused is represented by counsel,” Argersinger v. Hamlin,
+407 U.S. 25, 40 (1972). An accused is entitled to counsel “within a reasonable time” after
+“the initiation of adversary judicial proceedings,” Rothgery v. Gillespie Cnty., 554 U.S. 191,
+212 (2008), and at any “critical stage” of a criminal proceeding, such as a preliminary
+hearing, Coleman v. Alabama, 399 U.S. 1, 7-10 (1970), or arraignment, White v. Maryland,
+373 U.S. 59, 60 (1963). The Court also held that an indigent defendant is entitled to expert
+assistance when necessary to a fair trial in Ake v. Oklahoma, 470 U.S. 68, 77-83 (1985),
+although its decision was based on due process and not the Sixth Amendment. The
+American Bar Association, among other organizations, has developed standards
+for effective representation, see, e.g., ABA STANDARDS FOR CRIMINAL JUSTICE:
+PROVIDING DEFENSE SERVICES (3d ed. 1992), http://www.americanbar.org/content/dam/aba
+/publications/criminal_justice_standards/providing_defense_services.authcheckdam.pdf, and
+the effective delivery of public defense services, see Standing Comm. on Legal Aid &
+Indigent Defendants, Ten Principles of a Public Defense Delivery System, A.B.A. (Feb. 2002),
+http://www.americanbar.org/content/dam/aba/administrative/legal_aid_indigent_defendants/ls
+_sclaid_def_tenprinciplesbooklet.authcheckdam.pdf [hereinafter Ten Principles] (summarizing
+and citing principles from previous reports, studies and guidelines).
+4. Gideon, 372 U.S. at 344.
+5. Douglas v. California, 372 U.S. 353, 355 (1963) (quoting Griffin v. Illinois, 351 U.S. 12, 19
+(1956)) (holding that a poor person had a right to counsel on appeal).
+6. See NAT’L CTR. FOR STATE COURTS, EXAMINING THE WORK OF STATE COURTS, 2002: A
+NATIONAL PERSPECTIVE FROM THE COURT STATISTICS PROJECT 13 (Brian J. Ostrom, Neal
+B. Kauder & Robert C. LaFountain eds., 2003), http://bjs.ojp.usdoj.gov/content/pub/pdf
+/ewsc02-npcsp.pdf.
+2153
+
+the yale law journal 122:2150 2013
+decisions—whether they require desegregation of the schools or the right to
+counsel—unless these decisions are enforced. The right to counsel is not
+enforced. Many judges tolerate or welcome inadequate representation because
+it allows them to process cases quickly. The Supreme Court has refused to
+require competent representation, instead adopting a standard of “effective
+counsel” that hides and perpetuates deficient representation.
+The cost of this one-sided system is enormous. Innocent people are
+convicted and sent to prison while the perpetrators remain at large. Important
+issues, such as the system’s pervasive racism—from stops by law enforcement
+officers to disparate sentencing—are ignored. People are sentenced without
+consideration of their individual characteristics, allowing race, politics, and
+other improper factors to influence sentences. Over 2.2 million people—a
+grossly disproportionate number of them African Americans and Latinos7—are
+in prisons and jails8 at a cost of $75 billion a year.9 Nearly an additional five
+million people are on probation, parole, or supervised release.10 Over seventy
+thousand children are held in juvenile facilities.11 Even those who have
+completed their sentences may be deported, denied the right to vote,
+dishonorably discharged from the armed forces, denied public benefits, and
+7. One in 15 African-American men over eighteen and 1 in 36 Latino men over eighteen are
+imprisoned, while only 1 in 106 white men over eighteen is behind bars. One in 100: Behind
+Bars in America 2008, PEW CENTER ON THE STATES 6 (2008), http://www.pewstates.org
+/uploadedFiles/PCS_Assets/2008/one%20in%20100.pdf. One in 9 African-American men
+between the ages of twenty and thirty-four is behind bars. Id.
+8. Lauren E. Glaze, Correctional Populations in the United States, 2010, BUREAU OF JUST. STAT. 7
+(2011), http://bjs.ojp.usdoj.gov/content/pub/pdf/cpus10.pdf.
+9. John Schmitt, Kris Warner & Sarika Gupta, The High Budgetary Cost of Incarceration,
+CENTER FOR ECON. & POL’Y RES. 2 (2010), http://www.cepr.net/documents/publications
+/incarceration-2010-06.pdf.
+10. Glaze, supra note 8, at 2-3. When those under supervision in the community are combined
+with those in prison and jail, one in every thirty-three adults, or 3.1% of the population, is
+under some form of correctional control. Id. at 2. The rates are drastically elevated for
+African Americans. One in every eleven African Americans was under correctional control at
+the end of 2007. One in 31: The Long Reach of American Corrections, PEW CENTER FOR THE
+STATES 5 (2009), http://www.pewstates.org/uploadedFiles/PCS_Assets/2009/PSPP_1in31
+_report_FINAL_WEB_3-26-09.pdf; see also MICHELLE ALEXANDER, THE NEW JIM CROW:
+MASS INCARCERATION IN THE AGE OF COLORBLINDNESS 179-80 (2010) (discussing the effects
+of mass incarceration on the African-American community).
+11. CHILDREN’S DEF. FUND, THE STATE OF AMERICA’S CHILDREN: HANDBOOK 2012, at 48 (2012).
+Since 1997, African-American children have been at least three-and-a-half times as likely
+and Latino children at least one-and-a-half times as likely as white children to be in
+residential placement. Id.
+2154
+
+fifty years of defiance and resistance
+denied business or professional licenses.12 Reentry into society is extremely
+difficult,13 extending the costs to the families and communities of those who
+have been imprisoned.14
+There are expressive costs as well. A system in which all of the key actors
+routinely ignore one of its most fundamental constitutional requirements is not
+a system based on the rule of law, no matter what it claims to be. When those
+actors shirk their constitutional obligations and bring the immense power of
+the state down most heavily on African Americans and Latinos, people cease to
+have confidence in the courts. The system lacks legitimacy and credibility and
+is undeserving of respect. For this to change, courts, legislatures, executives,
+and members of the legal profession will need to respond with a sense of
+urgency and commitment to justice that has been missing in most places
+during the last fifty years.
+i. prosecutors determine outcomes in many cases with
+little or no input from the defense
+The United States supposedly has an adversary system of justice, as
+opposed to the inquisitorial system employed in much of the rest of the
+world.15 In the latter, a judge or magistrate is primarily responsible for
+directing the investigation and sifting through the evidence and establishing
+12. Padilla v. Kentucky, 130 S. Ct. 1473, 1488 (2010) (Alito, J., concurring) (citing Gabriel J.
+Chin & Richard W. Holmes, Jr., Effective Assistance of Counsel and the Consequences of Guilty
+Pleas, 87 CORNELL L. REV. 697, 705-06 (2002)).
+13. Collateral Costs: Incarceration’s Effect on Economic Mobility, PEW CENTER ON THE STATES
+9-18 (2010), http://www.pewstates.org/uploadedFiles/PCS_Assets/2010/Collateral_Costs%281
+%29.pdf (reporting that incarceration reduces former inmates’ earnings by forty percent and
+limits their future economic mobility).
+14. See id. at 4-5, 18-21 (reporting that 2.7 million children have a parent behind bars—1 in 9
+African-American children, 1 in 28 Latino children, and 1 in 57 white children—and that a
+parent’s incarceration hurts children educationally and financially); see also ALEXANDER,
+supra note 10, at 171-75; TODD CLEAR, IMPRISONING COMMUNITIES: HOW MASS
+INCARCERATION MAKES DISADVANTAGED NEIGHBORHOODS WORSE (2007).
+15. The “lawyer-conducted” Anglo-American adversary system is practiced in the United States,
+England, and other countries founded on English common law, as opposed to the judge-
+driven “European and European-derived” system found elsewhere. JOHN H. LANGBEIN, THE
+ORIGINS OF ADVERSARY CRIMINAL TRIAL 1 (2005); see also Ellen E. Sward, Values, Ideology,
+and the Evolution of the Adversary System, 64 IND. L.J. 301, 301 (1989) (explaining that the
+majority of the world uses some version of the inquisitorial system that evolved primarily in
+continental Europe).
+2155
+
+the yale law journal 122:2150 2013
+the true facts.16 America’s adversary system relies on the prosecution and
+defense each to conduct investigations, analyze evidence, select witnesses,
+argue law, and present “partisan advocacy”17 to a neutral factfinder. The system
+is premised on “the principle that truth—as well as fairness—is best discovered
+by powerful statements on both sides of the question.”18 For this system to
+work, there cannot be significant disparities between the skills and resources of
+the prosecution and defense. Both must be able to investigate the case and
+present their evidence and arguments fully and forcefully.
+However, for the most part, only very wealthy individuals and corporations
+can afford to pay for hundreds—often thousands—of hours of representation
+by experienced trial lawyers and for the cost of investigation, expert witnesses,
+and other expenses of defending a criminal case within the adversary system.
+On the other hand, the lawyer assigned to defend a poor person usually has
+little or no time and few resources to investigate the charges and mount a
+defense. For those who cannot afford costly representation by experienced
+attorneys, the system is inquisitorial, but the prosecutor, not a neutral judicial
+officer, serves as inquisitor.
+Prosecutors have vast resources and immense power in conducting their
+inquests and dictating outcomes in the plea bargaining that resolves the
+overwhelming majority of cases. Governments maintain well-staffed offices
+specializing in the prosecution of cases. Prosecutors regularly appear in court,
+and many judges rely on their recommendations on issues ranging from
+pretrial release to sentencing. Some judges even rely on prosecutors to write
+their orders.19 Prosecutors have access to law enforcement agencies to
+investigate cases and laboratories to conduct scientific tests and present expert
+testimony.20 They can subpoena witnesses to testify before grand juries and
+16. LANGBEIN, supra note 15, at 1 (“The striking peculiarity of the Anglo-American trial is that
+we remit to the lawyer-partisans the responsibility for gathering, selecting, presenting, and
+probing the evidence. . . . In the European systems, by contrast, evidence is gathered by
+judges or judge-like investigators, public officers who operate under a duty to seek the
+truth.”).
+17. Herring v. New York, 422 U.S. 853, 862 (1975).
+18. Penson v. Ohio, 488 U.S. 75, 84 (1988) (quoting Irving R. Kaufman, Does the Judge Have a
+Right to Qualified Counsel?, 61 A.B.A. J. 569, 569 (1975)) (internal quotation marks omitted).
+19. See, e.g., CLIVE STAFFORD SMITH, THE INJUSTICE SYSTEM 206-09 (2012) (describing a Florida
+judge allowing prosecutors to prepare sentencing orders in capital cases); Stephen B. Bright
+& Patrick Keenan, Judges and the Politics of Death: Deciding Between the Bill of Rights and the
+Next Election in Capital Cases, 75 B.U. L. REV. 759, 803-11 (1995) (describing numerous
+instances in which state attorneys wrote orders signed by judges without any changes).
+20. See David Luban, Are Criminal Defenders Different?, 91 MICH. L. REV. 1729, 1731-36 (1993)
+(describing the resources available to the prosecution).
+2156
+
+fifty years of defiance and resistance
+produce all documents and records relevant to a case.21 They have a power that
+no other litigant has: the ability to reward witnesses for providing information
+or testimony by granting immunity from prosecution, dismissing or reducing
+criminal charges, or informing sentencing judges of cooperation.22 They can
+place informants in the cells of defendants.23 On the other hand, in the
+overwhelming majority of criminal cases against poor defendants, the defense
+conducts no investigation whatsoever.
+In most jurisdictions, prosecutors are not required to reveal much of what
+they know about the case to defense counsel. “[T]he prosecutor’s institutional
+role in controlling access to information relevant to a defendant’s guilt, and the
+prosecutor’s ability to withhold evidence that might prove a defendant’s
+innocence . . . dramatically distort[] the ability of the adversary system to
+function fairly and properly.”24 Most jurisdictions allow prosecutors to
+withhold almost everything about their case and conduct “trial by ambush.”25
+Some prosecutors make plea offers conditioned upon the defendant’s not filing
+any motions or seeking discovery.26 The Supreme Court has held that
+prosecutors are not required to disclose exculpatory evidence to a grand jury
+before it decides whether to issue formal charges27 or to defense counsel before
+21. Bennett L. Gershman, The New Prosecutors, 53 U. PITT. L. REV. 393, 400-01 (1992).
+22. Id. at 416-17.
+23. See, e.g., Kuhlmann v. Wilson, 477 U.S. 436 (1986) (holding that an accused’s statements to
+a jailhouse informant placed in his cell by police are admissible so long as the informant
+does not ask questions or take coercive steps to elicit information).
+24. Gershman, supra note 21, at 449; see also id. at 449-54 (describing the prosecutor’s control of
+information); Luban, supra note 20, at 1737 (“[C]riminal defendants have virtually no
+discovery rights against the prosecution in most jurisdictions.”).
+25. Norman L. Reimer, Discovery Reform: The Time for Action Is at Hand, CHAMPION, Mar. 2012,
+at 7 (providing illustrative examples and arguing that “[t]rial by ambush practices that leave
+the defense clueless as to the identity, background and reliability of key witnesses until the
+eve of trial, or later, must end,” for “[t]hese practices not only ambush individual
+defendants, they ambush justice”); see also Paul C. Giannellia & Kevin C. McMunigal,
+Prosecutors, Ethics, and Expert Witnesses, 76 FORDHAM L. REV. 1493 (2007) (discussing “trial
+by ambush” in the use of expert witnesses).
+26. See, e.g., R. Michael Cassidy, Plea Bargaining, Discovery, and the Intractable Problem of
+Impeachment Disclosures, 64 VAND. L. REV. 1429, 1431 & n.8 (2011) (describing plea
+agreements with explicit discovery-waiver provisions).
+27. United States v. Williams, 504 U.S. 36, 45-55 (1992) (holding that a district court may not
+dismiss an otherwise valid indictment on the ground that the government failed to disclose
+“substantial exculpatory evidence” to the grand jury).
+2157
+
+the yale law journal 122:2150 2013
+the entry of a guilty plea.28 Prosecutors may even demand that a defendant
+release officials from civil liability in exchange for dismissal of charges.29
+The exclusive access to information and unbridled discretion in charging
+and plea bargaining enables prosecutors to dictate the resolution of many cases
+and often to determine sentences. Prosecutors decide whether to charge, what
+to charge, whether to charge in state or federal court or both,30 whether to
+allow defendants to enter diversion programs, whether to agree to pretrial
+release as part of a plea bargain, and whether to grant immunity.31 They can
+overcharge defendants in order to increase their bargaining power. They may
+seek the death penalty or other enhanced penalties and mandatory minimum
+sentences. In jurisdictions with sentencing guidelines, prosecutors influence
+and often control the length of sentences by what they charge and, in the
+federal courts, whether they agree to notify the sentencing judge that the
+defendant has rendered “substantial assistance.”32 In all types of cases,
+prosecutors may agree to reduce the charges, withdraw their notice to seek
+enhanced sentences, agree to a specific sentence, or make some other
+concession in exchange for the defendant’s entry of a guilty plea and waiver of
+a trial by jury and any appeals.33 Judges are often left with little or no
+28. United States v. Ruiz, 536 U.S. 622, 632-33 (2002) (holding that the Constitution does not
+require the government to disclose material impeachment information prior to entering a
+plea agreement with a criminal defendant).
+29. Town of Newton v. Rumery, 480 U.S. 386 (1987).
+30. The decision to bring charges in state or federal court may be based upon which jurisdiction
+has the more severe punishment. See, e.g., United States v. Armstrong, 517 U.S. 456, 479
+(1996) (Stevens, J., dissenting) (noting that sentences for drug offenses tend to be
+substantially more severe in the federal system than in the state systems and that, in the case
+before the Court, the federal sentence might be as long as a mandatory life term, but in state
+court it could have been as short as twelve years, less work-time credits of half that amount).
+31. See Gershman, supra note 21, at 405-08 (describing discretionary decisions of prosecutors
+with regard to charging and resolving cases); see generally ANGELA J. DAVIS, ARBITRARY
+JUSTICE: THE POWER OF THE AMERICAN PROSECUTOR (2007) (arguing that unchecked
+prosecutorial discretion leads to unjust results in the criminal system).
+32. See 18 U.S.C. § 3553(e) (2006); 28 U.S.C. § 994(n) (2006); U.S. SENTENCING GUIDELINES
+MANUAL § 5K1.1 (2011). As one scholar has noted, “Congress created a sentencing system
+that provides prosecutors tremendous leverage in the plea bargaining process, forced
+criminal defense attorneys to adopt the role of transactional attorneys rather than zealous
+advocates, and virtually eliminated the criminal jury as a viable check on government
+overreaching.” Jackie Gardina, Compromising Liberty: A Structural Critique of the Sentencing
+Guidelines, 38 U. MICH. J.L. REFORM 345, 373 (2005) (footnotes omitted).
+33. See McCleskey v. Kemp, 481 U.S. 279, 312 (1987) (“A prosecutor can decline to charge, offer
+a plea bargain, or decline to seek a death sentence in any particular case.”).
+2158
+
+fifty years of defiance and resistance
+sentencing discretion,34 and defense counsel may be relegated to the role of
+messenger.
+These vast prosecutorial powers and the ruthless use of them in plea
+bargaining and determining sentences were upheld by the Supreme Court in
+Bordenkircher v. Hayes.35 There, a prosecutor offered Paul Hayes a sentence of
+five years in prison for forging a check for $88.30 and warned Hayes that if he
+rejected the offer the prosecutor would file repeat offender papers requiring a
+mandatory sentence of life imprisonment. Hayes declined the offer, and the
+prosecutor carried out his threat, obtaining the mandatory life sentence. The
+Supreme Court upheld the prosecutor’s actions, calling them part of the “‘give-
+and-take’ of plea bargaining.”36
+Prosecutors exercise this power with virtually no oversight or
+accountability. They have absolute immunity for their work in prosecuting
+cases37 and may not be held liable even when their failure to train their
+assistants results in the suppression of exculpatory evidence and conviction of
+innocent people.38 The Supreme Court has made it impossible for a defendant
+to prevail on a claim of selective prosecution,39 and has refused to require
+prosecutors to reveal the basis for their charging decisions, even when these
+decisions produce racial disparities.40 Although prosecutors are, in theory,
+bound by the ethics rules promulgated by each state, the reality is that
+disciplinary measures are almost never imposed on prosecutors.41 As is often
+34. See, e.g., Richard A. Oppel, Jr., Sentencing Shift Gives New Leverage to Prosecutors,
+N.Y. TIMES, Sept. 25, 2011, http://www.nytimes.com/2011/09/26/us/tough-sentences-help
+-prosecutors-push-for-plea-bargains.html (describing how sentencing laws give prosecutors
+power to determine sentences).
+35. 434 U.S. 357 (1978).
+36. Id. at 363. The Court relied on the “relatively equal bargaining power” between the
+prosecution and the defense. Id. at 362 (quoting Parker v. North Carolina, 397 U.S. 790, 809
+(1970) (Brennan, J., dissenting)). However, Hayes had no power—only a choice between
+accepting the plea offer for a sentence of five years and rejecting it and spending the rest of
+his life in prison.
+37. Burns v. Reed, 500 U.S. 478 (1991); Imbler v. Pachtman, 424 U.S. 409 (1976).
+38. Connick v. Thompson, 131 S. Ct. 1350 (2011).
+39. See McCleskey v. Kemp, 481 U.S. 279, 292-97 (1987); Wayte v. United States, 470 U.S. 598,
+607 (1985).
+40. See United States v. Bass, 536 U.S. 862 (2002) (per curiam); McCleskey, 481 U.S. at 296-97
+& n.18; see also In re United States, 397 F.3d 274 (5th Cir. 2005) (per curiam).
+41. See David Keenan et al., The Myth of Prosecutorial Accountability After Connick v. Thompson:
+Why Existing Professional Responsibility Measures Cannot Protect Against Prosecutorial
+Misconduct, 121 YALE L.J. ONLINE 203 (2011), http://yalelawjournal.org/2011/10/25/keenan
+.html; Kathleen M. Ridolfi & Maurice Possley, Preventable Error: A Report on Prosecutorial
+2159
+
+the yale law journal 122:2150 2013
+the case in various contexts, unchecked power sometimes leads to abuse.42
+An inquisitorial system masquerading as an adversary system with all
+power concentrated in the prosecution is not fair or just. Prosecutors evaluate
+cases not as objective inquisitors, but as adversaries and politicians.43 Many are
+elected on tough-on-crime platforms, promising convictions and severe
+sentences. Moreover, even the most conscientious prosecutor committed to a
+just outcome lacks critical information about the accused—his or her version of
+events as well as personal characteristics relevant to culpability and
+punishment—necessary to make fully informed decisions. Justice in America
+supposedly requires a working adversary system, as the attorneys general of
+twenty-three states and territories recognized in 1963 by filing an amicus curiae
+brief in the Supreme Court in support of Clarence Earl Gideon’s argument that
+the Sixth Amendment required counsel for defendants in the state courts.44
+Today, however, denying the poor adequate representation is a strategy for
+winning cases, used by some prosecutors.45
+ii. governments have disregarded their constitutional
+obligation to provide counsel
+Fifty years after Gideon, the right to counsel and equal justice are as much a
+fiction as the adversary system. The kind of justice people receive depends very
+much on the amount of money they have. It determines whether they have
+counsel, when they obtain counsel, whether they have access to investigators
+Misconduct in California 1997–2009, VERITAS INITIATIVE, http://www.veritasinitiative.org
+/downloads/ProsecutorialMisconduct_Exec_Sum.pdf (showing that prosecutors are not
+penalized for misconduct).
+42. See Gershman, supra note 21, at 408 (decrying the regular overcharging, discrimination,
+vindictiveness, plea bargaining abuses, and other misconduct that occurs “without
+meaningful judicial review or correction”).
+43. All but four states (Connecticut, Delaware, New Jersey, and Rhode Island) elect their chief
+prosecutors. Michael J. Ellis, Note, The Origins of the Elected Prosecutor, 121 YALE L.J. 1528,
+1530 n.3 (2012). The United States is the only country in the world where citizens elect
+prosecutors. Id.
+44. See Brief for the State Government Amici Curiae, Gideon v. Wainwright, 372 U.S. 335 (1963)
+(No. 155), 1962 WL 75209; ANTHONY LEWIS, GIDEON’S TRUMPET 147-52 (1964).
+45. For example, after a trial judge permitted a public defender in Miami to decline
+representation in one complex case carrying a sentence of life imprisonment because the
+public defender could not competently and ethically handle it due to obligations to 164
+clients in pending felony cases, the prosecutor appealed and obtained a reversal of the order.
+Bowens v. State, 39 So. 3d 479, 480-82 (Fla. App. 2010). It is hard to imagine the prosecutor
+having any interest in seeking reversal of a judge’s decision allowing a public defender to
+decline a single complex case except to take advantage of the public defender’s excessive
+workload.
+2160
+
+fifty years of defiance and resistance
+and expert witnesses, and whether the representation provided is zealous or
+perfunctory. This is apparent from the moment someone is arrested and jailed.
+A person who can afford a lawyer usually retains one at once. The lawyer will
+attempt to secure the person’s immediate release from jail, often successfully,
+so that the client can maintain employment, take care of family, and prepare for
+trial. A team of lawyers, investigators, paralegals, and support staff will begin
+an investigation while the evidence is available and the memories of witnesses
+are fresh. If it appears that the charges lack merit, the lawyers will attempt to
+secure dismissal of the case and, if unsuccessful, prepare for and represent the
+client at trial, asserting and protecting all of the client’s rights. If the client
+appears to be guilty of the crime charged or a lesser offense, the lawyer will
+engage in plea bargaining based upon a detailed knowledge of the facts of the
+crime and the background of the client. If the client is convicted at trial or by
+entering a guilty plea, the lawyer will provide individualized advocacy with
+regard to sentencing.
+In contrast, poor people accused of crimes, although entitled to counsel
+“within a reasonable time” after “‘the initiation of adversary judicial
+proceedings,’”46 may languish in jail for days, weeks, or months after arrest
+without a lawyer.47 They do not receive the “consultation, thoroughgoing
+investigation and preparation” that are “vitally important” from the outset in a
+case.48 As a result, they may lose their jobs, homes, and means of
+transportation, even though the charges may later be dismissed. Jacqueline
+Winbrone even lost her husband. She was detained after arrest in New York
+because she could not make $10,000 bail. With no lawyer to seek a reduction,
+she remained in jail and was unable to take her husband to dialysis, and, as a
+result, he died.49 She was later released on her personal promise to return to
+court, and ultimately the charge was dismissed.50 Diego Moran, facing the
+46. Rothgery v. Gillespie Cnty., 554 U.S. 191, 212 (2008) (quoting Michigan v. Jackson, 475 U.S.
+625, 630 n.3 (1986)). Defendants are entitled to counsel at preliminary hearings, Coleman v.
+Alabama, 399 U.S. 1 (1970), which are scheduled in most jurisdictions within ten to twenty
+days of arrest and provide an opportunity for dismissal of the charges or a reduction of
+bond, but defendants without counsel may not receive preliminary hearings because there is
+no counsel to ask for them.
+47. See NAT’L RIGHT TO COUNSEL COMM., CONSTITUTION PROJECT, JUSTICE DENIED: AMERICA’S
+CONTINUING NEGLECT OF OUR CONSTITUTIONAL RIGHT TO COUNSEL 85-87 (2009),
+http://www.constitutionproject.org/manage/file/139.pdf [hereinafter JUSTICE DENIED].
+48. Powell v. Alabama, 287 U.S. 45, 57 (1932).
+49. Hurrell-Harring v. State, 883 N.Y.S.2d 349, 360 n.3 (N.Y. App. Div. 2009) (Peters, J.,
+dissenting), aff’d as modified, 930 N.E.2d 217 (N.Y. 2010).
+50. Id.
+2161
+
+the yale law journal 122:2150 2013
+death penalty in Del Rio, Texas, asked for a lawyer the day after his arrest, but
+did not receive one for over eight months.51 A woman in Mississippi charged
+with shoplifting spent eleven months in jail before a lawyer was appointed to
+her case, and three additional months before entering a guilty plea.52 Many
+poor people spend more time in jail waiting for the appointment of a lawyer
+and a hearing than they would spend if found guilty and sentenced.53 Some
+jurisdictions have “jail clearing days,” when people who have spent more time
+in jail than any sentence they might receive can plead guilty for time served.
+Innocent people plead guilty to get out of jail.54
+An ABA report in 2004 reached “the disturbing conclusion that thousands
+of persons are processed through America’s courts every year either with no
+lawyer at all or with a lawyer who does not have the time, resources, or in some
+cases the inclination to provide effective representation.”55 A national study in
+2009 found that in misdemeanor cases—which far outnumber felonies and
+which affect millions of people56—judges were encouraging defendants to
+plead guilty without counsel, prosecutors were talking directly with defendants
+and convincing them to plead guilty without counsel, defendants were
+discouraged from asking for counsel because of application fees for a public
+defender as high as $200, and defense lawyers usually had too many cases to
+51. Brian Chasnoff, Indigent Often Are Left in a Legal Limbo, SAN ANTONIO EXPRESS-NEWS, Oct.
+10, 2010, at A1.
+52. Assembly Line Justice: Mississippi’s Indigent Defense Crisis, NAACP LEGAL DEF. & EDUC. FUND,
+INC. 3 (Feb. 2003), http://www.americanbar.org/content/dam/aba/migrated/legalservices
+/downloads/sclaid/indigentdefense/ms_assemblylinejustice.authcheckdam.pdf.
+53. JUSTICE DENIED, supra note 47, at 86-87; Robert C. Boruchowitz, Malia N. Brink & Maureen
+Dimino, Minor Crimes, Massive Waste: The Terrible Toll of America’s Broken Misdemeanor
+Courts, NAT’L ASS’N OF CRIM. DEF. LAW. 18-19 (2009), http://www.nacdl.org/WorkArea
+/DownloadAsset.aspx?id=20808.
+54. John H. Blume & Rebecca K. Helm, The Unexonerated: Factually Innocent Defendants Who
+Plead Guilty 16-17 (Cornell Legal Studies Research Paper 2012), http://ssrn.com/abstract
+=2103787 (“[I]nnocent persons charged with relatively minor offenses often plead guilty in
+order to get out of jail, to avoid the hassle of having criminal charges hanging over their
+heads, or to avoid being punished for exercising their right to trial.”); see also When the
+Innocent Plead Guilty, INNOCENCE PROJECT (last visited Apr. 1, 2013), http://www
+.innocenceproject.org/Content/When_the_Innocent_Plead_Guilty.php.
+55. ABA STANDING COMM. ON LEGAL AID & INDIGENT DEFENDANTS, GIDEON’S BROKEN PROMISE:
+AMERICA’S CONTINUING QUEST FOR EQUAL JUSTICE, at iv (2004), http://www
+.americanbar.org/content/dam/aba/administrative/legal_aid_indigent_defendants/ls_sclaid
+_def_bp_right_to_counsel_in_criminal_proceedings.authcheckdam.pdf.
+56. See Jenny Roberts, Why Misdemeanors Matter: Defining Effective Advocacy in the Lower
+Criminal Courts, 45 U.C. DAVIS L. REV. 277, 280-82, 297-303 (2011) (discussing the number
+of misdemeanor cases and the significant consequences of convictions in those cases);
+Boruchowitz et al., supra note 53, at 11 (estimating that at least ten million misdemeanor
+cases are filed each year).
+2162
+
+fifty years of defiance and resistance
+provide competent representation.57
+Other studies confirm that judges and prosecutors are routinely ignoring
+the right to counsel established by Gideon and its progeny. For example, one
+report found that seventy percent of defendants in misdemeanor cases in
+twenty-one Florida counties entered pleas of guilty or no contest at
+arraignments that lasted an average of 2.93 minutes in 2011.58 One-third were
+not represented by counsel.59 Some defendants were not advised of their right
+to counsel and others were handed forms encouraging them to waive counsel.60
+Poor defendants in Florida must pay a minimum fifty-dollar fee for
+representation, which cannot be waived or reduced by trial judges no matter
+how destitute the defendant.61 Unrepresented defendants were more likely to
+plead guilty or no contest than defendants represented by counsel.62 In
+Kentucky, even fewer people accused of misdemeanor offenses—about thirty
+percent—were represented by counsel.63 Less than ten percent of the accused
+were provided counsel in two populous counties near Cincinnati, Campbell
+and Kenton.64 Many courts in Michigan “simply do not offer counsel in
+misdemeanor cases” while others “avoid their constitutional obligation to
+provide counsel” by accepting “uninformed waivers,” sentences of time served
+without counsel, and “the threat of personal financial strains” because of
+“unfair cost recovery measures,”65 and mass guilty pleas in misdemeanor cases
+57. Boruchowitz et al., supra note 53, at 14-22.
+58. Alisa Smith & Sean Maddan, Three-Minute Justice: Haste and Waste in Florida’s Misdemeanor
+Courts, NAT’L ASS’N OF CRIM. DEF. LAW. 23 tbl.9 (July 2011), http://www.nacdl.org/reports
+/threeminutejustice.
+59. Id.
+60. Id. at 15, 23.
+61. Id. at 18.
+62. Id. at 15.
+63. David Carroll, Underrepresentation in Kentucky Misdemeanor Courts, NAT’L LEGAL AID &
+DEFENDER ASS’N (Nov. 16, 2011, 3:34 pm), http://nlada.net/jseri/blog/underrepresentation
+-kentucky-misdemeanor-courts; see also Dave Malaska, Trampling over the Sixth Amendment:
+NKY Courts Play Fast and Loose with Rules, CITYBEAT (Cincinnati), Nov. 9, 2011,
+http://www.citybeat.com/cincinnati/article-24355-trampling_over_the_sixth_amendment.html;
+Average DPA Appointment Rate to “M” Cases in District Court Over Three Fiscal Years, By
+County, KY. DEP’T OF PUB. ADVOCACY, http://dpa.ky.gov/NR/rdonlyres/82134EDC-6545
+-4238-9923-9F3202C27005/0/StatewideMisdemeanorAppointmentsFY09FY10FY11.xlsx (last
+visited Apr. 1, 2013).
+64. Malaska, supra note 63.
+65. NAT’L LEGAL AID & DEFENDER ASS’N, A RACE TO THE BOTTOM: SPEED AND SAVINGS
+OVER DUE PROCESS: A CONSTITUTIONAL CRISIS, at ii-iii (2008), http://www
+.mynlada.org/michigan/michigan_report.pdf; see id. at 29, 34, 36, 46.
+2163
+
+the yale law journal 122:2150 2013
+on “McJustice Days.”66 A Colorado statute requires defendants in
+misdemeanor cases to be informed of plea offers by a prosecutor before
+applying for a public defender.67
+Fees for counsel may be waived in most states that have them, but
+defendants are often not told that the fee can be waived or that they have a
+right to a lawyer if they cannot afford one. A typical example is the case of Hills
+McGee, who was told only that he had to pay $50 to apply for a public
+defender when he appeared in court in Augusta, Georgia, on charges of public
+drunkenness and obstruction of the law enforcement officer who arrested him.
+Mr. McGee, a fifty-three-year-old man whose sole source of income was a
+Veterans Administration disability payment of $243 per month, was unable to
+pay the $50 fee and pleaded guilty without a lawyer. Without any inquiry into
+his income or ability to pay, a judge fined him $200 plus $70 in fees and
+surcharges. Because Mr. McGee did not have $270 that day, the judge told him
+he could pay the fine in installments to a private probation company. The
+probation company charged an “enrollment fee” of $15 and $39 a month for
+accepting Mr. McGee’s monthly payments. After struggling to make monthly
+payments for over a year, Mr. McGee had paid $552 on his $270 fine. He was
+jailed because he still owed but was unable to pay the last $186.68
+Many poor people do not see a lawyer until moments before the court
+proceeding in which their cases are resolved. They have a few minutes of
+conversation with harried lawyers with little knowledge of their clients and
+cases and few resources to hire investigators and experts. Some do not even
+talk to a lawyer. Reontay Miller, a seventeen-year-old African-American high
+school freshman charged in adult court with stealing a go-cart (a felony) with
+his brother, asked for a lawyer the first time he appeared before the superior
+court in Cordele, Georgia, in March 2012. An investigator from the public
+defender office had a brief conversation with him. He did not speak to an
+attorney. Later that morning he was in one of seven groups of defendants who
+pleaded guilty. While accepting the pleas, the judge asked the defendants if
+they were satisfied with their attorney’s services. The teen looked around,
+confused, and said, “I don’t have one.” A public defender standing near the
+group of defendants entering pleas volunteered that he represented him, but
+said nothing on behalf of Reontay. The court sentenced Reontay to five years’
+66. See id. at 15, 20, 22, 32.
+67. COLO. REV. STAT. § 16-7-301(4) (West 2006). The statute has been challenged in Colorado
+Criminal Defense Bar v. Suthers, No.10-CV-02930 (D. Colo. filed Jan. 20, 2012),
+http://www.nacdl.org/WorkArea/DownloadAsset.aspx?id=23584&I:6ID:23554.
+68. Petition for Writ of Habeas Corpus, McGee v. Companaro, No. 2018-RCHM-1 (S.D. Ga.
+filed Jan. 22, 2010).
+2164
+
+fifty years of defiance and resistance
+probation, a $300 fine, and $500 restitution, and imposed the $50 public
+defender fee.69
+One of the three public defenders in the office for that same circuit in
+Georgia wrote a client in jail: “[E]xplain to me why you are requesting a
+preliminary hearing. I would like to know why you feel like a preliminary
+hearing is needed in your case.”70 The public defender also advised the client
+that she would not file a motion to reduce bond for ninety days.71
+Those in custody may have their only conversation with a lawyer while
+handcuffed to other defendants on either side of them.72 Despite the complete
+inability of the lawyers to meet even the most minimal professional
+responsibilities—such as having confidential communications and being
+sufficiently informed about the charges and their clients to give advice—these
+discussions are very often followed a few minutes later by the entry of a guilty
+plea and sentencing. A California lawyer explained that he was able to handle a
+high volume of cases because seventy percent of his clients entered guilty pleas
+at the first court appearance after he spent thirty seconds explaining the
+prosecutor’s plea offer to them.73 The lawyer processed cases in one of the
+twenty-four California counties that contract with lawyers to handle the cases
+of people unable to afford lawyers.74 Contracts are often awarded to the lowest
+69. Memorandum from Abigail Leinsdorf & Atteeyah Hollie Regarding Proceedings in Cordele
+Superior Court (Mar. 13, 2012) (on file with authors).
+70. Letter from Rashawn Clark, Assistant Pub. Defender, to Client (Dec. 28, 2011) (on file with
+authors).
+71. Id.; Letter from Rashawn Clark, Assistant Pub. Defender, to Client (Jan. 19, 2012) (on file
+with authors).
+72. Both authors have observed this in various courtrooms in the South.
+73. Laurence A. Benner, The Presumption of Guilt: Systemic Factors That Contribute to Ineffective
+Assistance of Counsel in California, 45 CAL. W. L. REV. 263, 305 (2009).
+74. See id. at 300. In California, twenty-four of fifty-eight counties use contract defenders. One
+county relies primarily on an assigned counsel program, and the rest have public defender
+offices as the primary provider of representation. Id. at 284, 307. California and Pennsylvania
+are the only states that require counties to provide all funding for indigent defense. Several
+states, including Colorado, Connecticut, Delaware, Florida, Hawaii, Maine, Maryland,
+Massachusetts, Minnesota, Missouri, Montana, New Hampshire, New Mexico, North
+Carolina, North Dakota, Oregon, Rhode Island, Vermont, Virginia, West Virginia, and
+Wisconsin, provide all funding for representation of indigent defendants. Alabama, Alaska,
+Iowa, Kentucky, and Wyoming provide primary funding (fifty-one percent or more),
+supplemented by their counties. Counties provide primary funding in Arizona, Arkansas,
+Georgia, Idaho, Illinois, Indiana, Louisiana, Michigan, Mississippi, Nebraska, Nevada,
+Ohio, South Carolina, Texas, Utah, and Washington, with supplemental funding by the
+state. See Kathleen E. Mollison, 50-State Survey of Indigent Defense Systems (2012)
+(unpublished manuscript) (on file with authors).
+2165
+
+the yale law journal 122:2150 2013
+bidder, creating an incentive for lawyers to handle a high volume of cases and
+spend as little time as possible on each case in order to make a profit. One
+contract defender repeatedly fought off low bidders by reducing his budget,
+which had been forty-one percent of the prosecutor’s budget in 2000, to only
+twenty-seven percent of the prosecutor’s budget in 2005. Yet in 2006, he was
+undercut by a bid that was almost fifty percent less than his by a firm
+employing even fewer lawyers spending even less time on each case.75
+Such unconscionable low-bid contracts are the most egregious example of
+how inadequate funding “continues to be the single greatest obstacle to
+delivering ‘competent’ and ‘diligent’ defense representation.”76 Whether the
+poor are represented by public defenders, assigned counsel or contract lawyers,
+“the most visible sign of inadequate funding is attorneys attempting to provide
+defense services while carrying astonishingly large caseloads.”77 Seven public
+defenders in one office in Georgia each completed representation or “closed”
+over 250 felony cases in the twelve months ending June 30, 2012, according to
+records of the state public defense agency.78 Other jurisdictions have struggled
+with similar caseloads.79 As a result of such caseloads, “defense lawyers are
+constantly forced to violate their oaths as attorneys because their caseloads
+make it impossible for them to practice law as they are required to do according
+to the profession’s rules.”80 It is doubtful that a lawyer can competently handle
+150 felonies in a year, a maximum established in 1973.81
+The workload of Missouri’s statewide public defender program increased
+by more than twelve thousand cases in a six-year period ending in 2005, but
+the program received no additional staff during that time.82 At the end of 2012,
+it was seventy-one lawyers and sixty investigators short of what it needed to
+75. Report and Recommendations on Funding of Defense Services in California, CAL. COMMISSION ON
+THE FAIR ADMIN. OF JUST. 10-12 (Apr. 14, 2008), http://www.ccfaj.org/documents/reports
+/prosecutorial/official/OFFICIAL%20REPORT%20ON%20DEFENSE%20SERVICES.pdf.
+76. JUSTICE DENIED, supra note 47, at 7.
+77. Id.
+78. Ga. Pub. Defender Standards Council, Attorney Caseload Comparison: July 1, 2011, to June
+30, 2012, at 6-8 (Dec. 14, 2012) (unpublished data) (on file with authors).
+79. See JUSTICE DENIED, supra note 47, at 65-70.
+80. Id. at 7.
+81. Id. at 66. Some public defender offices have conducted weighted caseload studies to
+determine how much time different kinds of cases require. NORMAN LEFSTEIN, SECURING
+REASONABLE CASELOADS: ETHICS AND LAW IN PUBLIC DEFENSE 140-60 (2011),
+http://www.americanbar.org/content/dam/aba/publications/books/ls_sclaid_def_securing
+_reasonable_caseloads.authcheckdam.pdf. For example, the public defender office in
+Lincoln, Nebraska, established a caseload standard of 127 felonies per year. Id. at 157.
+82. State ex rel. Mo. Pub. Defender Comm’n v. Pratte, 298 S.W.3d 870, 877 (Mo. 2009).
+2166
+
+fifty years of defiance and resistance
+handle its workload.83 The program had one investigator for every 1,461 cases.84
+The director of the state public defender commission informed the governor
+and the state’s justices, judges, and legislators in 2011 that “[t]riage has
+replaced justice in Missouri’s courts,” people languish in jail “for weeks or even
+months with no access to counsel,” and attorneys are forced to take “shortcuts
+that lead to wrongful convictions.”85 The number of public defenders in
+Minnesota fell from 423 in 2008 to 350 in 2010, prompting a judge there to
+comment that the courts were “fast becoming the courts of McJustice” because
+“[q]uality is sacrificed for efficiency.”86
+Lawyers for the poor are often under financial and political pressures to
+ignore ethical standards regarding conflicts, zeal, competence, and loyalty.87
+Some public defenders are appointed by governors,88 commissions whose
+members are all appointed by governors,89 county commissions,90 judges,91 or
+political entities that may be more interested in processing a high volume of
+83. Fiscal Year 2012 Annual Report, MO. PUB. DEFENDER COMMISSION 10-11 (2012),
+http://www.publicdefender.mo.gov/about/FY2012AnnualReport2.pdf.
+84. Id. at 11.
+85. Memorandum from Cathryn R. Kelly, Dir., State Pub. Defender Comm’n, to Governor
+Nixon, Members of the Supreme Court, Members of the Gen. Assembly, and Presiding
+Judges 2 (Oct. 1, 2011) (on file with authors).
+86. Jeff Severns Guntzel, Minnesota’s Public Defender Shortage: “We Are Fast Becoming the Courts
+of McJustice”, MINNEAPOLIS POST: INTELLIGENCER (Oct. 13, 2010), http://www.minnpost
+.com/intelligencer/2010/10/minnesotas-public-defender-shortage-we-are-fast-becoming
+-courts-mcjustice.
+87. MODEL RULES OF PROF’L CONDUCT pmbl. ¶ 2 (explaining the duty of zealous
+representation); id. R. 1.1 (requiring competent representation); id. R. 1.6 (requiring
+confidentiality); id. R. 1.7 (prohibiting representation of clients with conflicting interests).
+88. See, e.g., ALASKA STAT. § 18.85.030 (2012); DEL. CODE ANN. tit. 29, § 4601 (2003); GA. CODE
+ANN. § 17-12-5(a) (2008); IOWA CODE ANN. §§ 13B.1-BB.11 (West 2012); NEV. REV. STAT.
+ANN. § 180.010 (LexisNexis 2011); N.J. STAT. ANN. § 2A:158A-4 (West 2011); R.I.
+GEN. LAWS § 12-15-2 (2002); VT. STAT. ANN. tit. 13, § 5252(a) (2009); WYO. STAT. ANN.
+§ 7-6-103(b) (2011).
+89. See, e.g., ARK. CODE. ANN. §§ 16-87-202 to -204 (2005); HAW. REV. STAT. ANN. §§ 802-9, -11
+(LexisNexis 2007); MO. ANN. STAT. § 600.015 (West 2011); MONT. CODE ANN. § 2-15-1028
+(2011); WIS. STAT. ANN. § 15.78 (West 2012); WIS. STAT. ANN. §§ 977.01-04 (West 2007).
+90. See, e.g., ARIZ. REV. STAT. ANN. § 11-581 (2012); CAL. GOV’T CODE §§ 27700-27704 (West
+2008); IDAHO CODE ANN. § 19-859 (2004); 16 PA. CONS. STAT. ANN. § 9960.4 (West 2012).
+91. See, e.g., 725 ILL. COMP. STAT. ANN. 5/113-3.1 (West 2011); MICH. COMP. LAWS. ANN. § 775.16
+(West 2010). Colorado’s supreme court appoints a commission, which then appoints the
+state public defender. COLO. REV. STAT. § 21-1-101 (2012).
+2167
+
+the yale law journal 122:2150 2013
+cases at low cost than complying with ethical rules.92 Some lawyers in private
+practice are dependent upon appointments by judges for their livelihoods.
+Resistance to higher caseloads, motions for experts—or any motions for that
+matter—and zealous representation may cost them future appointments. It is
+no secret that some judges determine the outcome of cases by the attorney
+appointed to defend the accused. In Georgia, as a result of financial pressures,
+the state public defense agency and some local public defenders joined the
+Attorney General’s office in arguing that public defenders should be exempt
+from the rules of professional conduct that prevent lawyers from representing
+clients with conflicting interests.93
+This underfunded, overloaded system of pleas with divided loyalties is
+often not up to the task of providing lawyers for trials. Shanna Shackelford, a
+twenty-three-year-old African-American woman charged with arson in
+Georgia, wrote a desperate plea for help in 2012, explaining that an arson
+charge against her had left her jobless and homeless. Despite her protestations
+of innocence, her public defenders urged her to take a plea offer that would
+result in her spending fifteen years in prison. She lost her two jobs and could
+not get another because of the charges. She was sleeping in her car but was
+about to lose it because she could not make the next loan payment. Finally, she
+“asked to just be placed in jail while they decide how much longer they want to
+92. Several states—including Connecticut, CONN. GEN. STAT. ANN. § 51-289 (West 2013),
+Kentucky, KY. REV. STAT. ANN. §§ 31.010-.250 (West 2012), Maryland, MD. CODE. ANN.,
+CRIM. PROC. §§ 16-101 to -403 (West 2012), Minnesota, MINN. STAT. ANN. § 611.215 (West
+2013), New Hampshire, N.H. REV. STAT. ANN. §§ 494:1, 604-B:4 (West 2013), North
+Dakota, N.D. CENT. CODE ANN. §§ 54-61-01 to -03 (West 2011), South Carolina, S.C. CODE
+ANN. § 17-3-310 (West 2012), Virginia, VA. CODE ANN. §§ 19.2-163.01 to .04 (West 2012),
+and the District of Columbia, D.C. CODE §§ 2-1603 to -1605 (West 2012)—have created
+public defense commissions appointed by different officials, which gives them greater
+independence than ones where a single official, such as the governor or a judge, appoints all
+the members. New Mexico’s chief public defender was until recently appointed by the
+governor. N.M. STAT. ANN. § 31-15-4(A) (West 2012). In November 2012, the New Mexico
+electorate passed a constitutional amendment to make the public defender office separate
+from the state government, and the New Mexico legislature is currently drafting enabling
+legislation to create an independent public defender commission. See Minutes of the Fifth
+Meeting of the Courts, Corrections and Justice Committee, N.M. LEGISLATURE 6-7 (Nov. 29-30,
+2012) (describing an initial hearing debating the duties and composition of an independent
+public defender commission), http://www.nmlegis.gov/lcs/minutes/CCJminNOV30.12.pdf.
+For a comprehensive survey of which states have created public defense commissions, see
+JUSTICE DENIED, supra note 47, at 151; and Mollison, supra note 74.
+93. See Brief of Appellant, In re Formal Advisory Opinion 10-1, No. S10U1679 (Ga. filed Feb. 28,
+2011) (on file with authors). The brief was filed by the Georgia Attorney General and a local
+public defender who was a member of the Public Defender Standards Council. The
+Georgia Supreme Court unanimously rejected the argument. In re Formal Advisory Opinion
+10-1, No. S10U1679, 2013 WL 1499445 (Ga. Apr. 15, 2013).
+2168
+
+fifty years of defiance and resistance
+play with my life . . . because I fear I may take my own life or die from
+conditions [of] being homeless.” Even that plea was rejected, and she went
+days without eating. Ultimately, she was represented by pro bono counsel who
+provided zealous representation. Her case was dismissed.94
+James Fisher, Jr., spent twenty-six-and-a-half years in the custody of
+Oklahoma—most of it on death row—without ever having a fair and reliable
+determination of his guilt. The lawyer assigned to represent Mr. Fisher tried
+his case and twenty-four others during September 1983, including another
+capital murder case.95 The lawyer made no opening statement or closing
+argument at either the guilt or sentencing phase and uttered only nine words
+during the entire sentencing phase.96 Nineteen years later, the Tenth Circuit
+set aside the conviction, finding that Mr. Fisher’s lawyer was “grossly inept,”
+had “sabotaged” Mr. Fisher’s defense by repeatedly reiterating the state’s
+version of events, and was disloyal by “exhibiting actual doubt and hostility
+toward his client’s case.”97 At the retrial in 2005, Oklahoma gave Mr. Fisher a
+lawyer who was drinking heavily, abusing cocaine, and neglecting his cases.98
+The lawyer physically threatened Mr. Fisher at a pre-trial hearing and, as a
+result, Mr. Fisher refused to attend his own trial.99 He was again convicted and
+sentenced to death, but again the conviction was set aside for ineffective
+assistance of counsel.100 Prosecutors agreed to Mr. Fisher’s release in July 2010,
+provided that he be banished from Oklahoma forever.101
+Lawyers have been asleep,102 intoxicated,103 under the influence of drugs,
+and mentally ill while supposedly defending clients. They have been unaware
+in death penalty cases of their client’s intellectual disabilities, brain damage,
+mental illnesses, childhood abuse, and other mitigating factors, and, in one
+94. Letter from Shanna Shackelford to Stephen B. Bright (May 2, 2012) (on file with authors).
+95. Fisher v. Gibson, 282 F.3d 1283, 1293 (10th Cir. 2002).
+96. Id. at 1289.
+97. Id. at 1289, 1300, 1308.
+98. Fisher v. State, 206 P.3d 607, 610-11 (Okla. Crim. App. 2009).
+99. Id. at 610.
+100. Id. at 612-13.
+101. See Dan Barry, In the Rearview Mirror, Oklahoma and Death Row, N.Y. TIMES, Aug. 10, 2010,
+http://www.nytimes.com/2010/08/11/us/11land.html.
+102. See Burdine v. Johnson, 262 F.3d 336 (5th Cir. 2001) (en banc) (vacating, by a vote of nine to
+six, a conviction in a capital case because defense counsel slept during trial).
+103. See, e.g., Haney v. State, 603 So. 2d 368, 377-78 (Ala. Crim. App. 1991) (stating that an
+intoxicated lawyer had been held in contempt and jailed during a capital trial).
+2169
+
+the yale law journal 122:2150 2013
+case, of their client’s real name.104 Convictions and death sentences have been
+upheld despite such incompetence because twenty-one years after Gideon, the
+Supreme Court eroded the reach of Gideon by applying presumptions—even in
+the face of facts to the contrary—that lawyers are competent and make strategic
+decisions.105 No matter how incompetent the lawyer, the Court has decreed
+that “counsel is strongly presumed to have rendered adequate assistance,” and,
+no matter how clueless, counsel is presumed to have “made all significant
+decisions in the exercise of reasonable professional judgment.”106 The Court
+has also abandoned its previous position that “[t]he right to the assistance of
+counsel is too fundamental and absolute to allow courts to indulge in nice
+calculations as to the amount of prejudice arising from its denial”107 and has
+allowed judges to make crude guesses as to whether “there is a reasonable
+probability that, but for counsel’s unprofessional errors, the result of the
+proceeding would have been different.”108 Of course, appellate judges cannot
+possibly know whether the outcome might have been different because they do
+not see the witnesses who testified at trial and have no idea how the jury
+assessed the case. Nevertheless, courts shrug off one travesty after another
+based on a guess that no matter how bad the representation was, it did not
+matter.
+Justice Marshall, the sole dissenter in Strickland,109 correctly predicted that
+the majority’s standard was “so malleable that, in practice, it will either have no
+grip at all or will yield excessive variation in the manner in which the Sixth
+Amendment is interpreted and applied by different courts.”110 He also objected
+104. See, e.g., Wilson v. Rees, 624 F.3d 737, 739-40 (6th Cir. 2010) (Martin, J., dissenting from
+denial of rehearing en banc) (stating that the “defense was clearly a charade” because “two
+wholly unqualified attorneys did a deplorable job” in a case in which the death penalty was
+upheld); Slaughter v. Parker, 467 F.3d 511, 512 (6th Cir. 2006) (Cole, J., dissenting from
+denial of rehearing en banc) (noting that counsel was not aware of his client’s name or brain
+damage in a case in which the death penalty was upheld); see also Jeffrey L. Kirchmeier,
+Drink, Drugs, and Drowsiness: The Constitutional Right to Effective Assistance of Counsel and the
+Strickland Prejudice Requirement, 75 NEB. L. REV. 425, 455-62 (1996). For more cases, see
+Counsel, SECOND CLASS JUST., http://www.secondclassjustice.com/?page_id=42 (last visited
+Apr. 1, 2013).
+105. Strickland v. Washington, 466 U.S. 668, 689 (1984).
+106. Id. at 690 (emphasis added).
+107. Glasser v. United States, 315 U.S. 60, 76 (1942).
+108. Strickland, 466 U.S. at 694.
+109. Justice Brennan joined the Court’s opinion but dissented from its judgment based on his
+view that the death penalty is in all circumstances cruel and unusual punishment forbidden
+by the Eighth and Fourteenth Amendments. 466 U.S. at 701-07 (Brennan, J., concurring in
+part and dissenting in part).
+110. Id. at 707 (Marshall, J., dissenting).
+2170
+
+fifty years of defiance and resistance
+to the presumptions adopted by the Court because they imposed “upon
+defendants an unusually weighty burden of persuasion,”111 and he argued that a
+defendant who establishes deficient performance should not be required to
+show prejudice.112
+The Court and Congress have added yet another layer of deference,
+requiring federal judges in habeas corpus proceedings to be exceptionally
+deferential to the decisions of elected state-court judges.113 Thus, the Court of
+Appeals for the Eleventh Circuit upheld a death sentence by doubly deferring
+under Strickland and the habeas corpus statute to a state court’s conclusion that
+the outcome of the case at issue would not have been different114 even though
+the lead defense lawyer drank a quart of vodka every night of trial. The lawyer
+was also preparing to be sued, criminally prosecuted, and disbarred for stealing
+client funds, and he failed to present evidence that his intellectually limited
+client had been “subjected to abuse so severe, so frequent, and so notorious
+that his neighbors called his childhood home ‘the Torture Chamber.’”115
+In this system, poverty, not justice, dictates outcomes. Inexcusable
+injustices occur every day in the criminal courts. As former federal judge and
+FBI Director William S. Sessions has observed, the widespread resistance to
+Gideon and its progeny “should be a source of great embarrassment” to the
+judiciary, the bar and public officials because it has “created one of our legal
+system’s most shameful deficiencies, greatly exacerbated by the Court’s
+unrealistic and damaging 1984 decision in Strickland v. Washington.”116
+111. Id. at 713.
+112. Id. at 712.
+113. See 28 U.S.C. § 2254(d)(1) (2006) (providing that habeas relief may not be granted unless
+the state court’s decision “was contrary to, or involved an unreasonable application of,
+clearly established Federal law, as determined by the Supreme Court of the United States”);
+Harrington v. Richter, 131 S. Ct. 770, 786 (2011) (“A state court’s determination that a claim
+lacks merit precludes federal habeas relief so long as ‘fairminded jurists could disagree’ on
+the correctness of the state court’s decision.” (quoting Yarborough v. Alvarado, 541 U.S. 652,
+664 (2004)). The Richter Court added: “If this standard is difficult to meet, that is because it
+was meant to be.” Id.
+114. Holsey v. Warden, 694 F.3d 1230, 1273 (2012) (holding that the state court’s decision was
+not “beyond any possibility for fairminded disagreement” (quoting Harrington, 131 S. Ct. at
+786-87)).
+115. Id. at 1275 (Barkett, J., dissenting).
+116. William S. Sessions, Foreword to LEFSTEIN, supra note 81, at ix, ix.
+2171
+
+the yale law journal 122:2150 2013
+conclusion
+In the absence of a capable lawyer, a person accused of a crime is virtually
+defenseless against a prosecutor acting as both inquisitor and adversary,
+exercising unchecked power over everything from the crime charged to the
+disclosure of information to the sentence imposed. That so many are left
+defenseless so often is shameful. That the courts give so little attention to
+defendants as individuals that they are compared to fast-food restaurants is a
+disgrace to the courts and the legal system. However, the criminal courts are
+not a concern of most people because they deal primarily with racial minorities
+and the poor. As Attorney General Robert F. Kennedy observed at the time of
+Gideon, “the poor person accused of a crime has no lobby.”117 States, counties,
+and municipalities have no incentive to provide those they are prosecuting with
+capable lawyers. Quite to the contrary, a bad or mediocre system of providing
+lawyers facilitates pleas, move dockets, and lessens the risk that anyone accused
+of a crime will not be convicted.
+But these failings matter not only because they permanently damage lives,
+families, and communities, but also because they leave the criminal courts
+without credibility or legitimacy. The media, public officials, the judiciary, the
+legal profession, law schools, and everyone in society should be concerned with
+a major public institution that is supposed to be about justice and is failing so
+badly. They must examine what is happening in the criminal courts and hold it
+up to public examination. The Georgia legislature created a public defender
+system in 2003 only after repeated criticism of deficient representation by three
+consecutive chief justices of the state in addresses to the legislature and the bar,
+lawsuits, reports, and extensive coverage by the Atlanta Journal-Constitution
+and other media.118 After creating the system, the state has failed to fund it
+adequately,119 but there have been significant improvements in representation
+117. LEWIS, supra note 44, at 211.
+118. See Bill Rankin, Busy Barristers: Caseloads Swamp Public Defenders Throughout State, ATLANTA
+J.-CONST., Aug. 13, 2001, at B1 (reporting that “many indigent defendants languish in jails
+for months before seeing their lawyer,” that many cases are “never investigated,” and that
+guilty pleas “are often entered by poor defendants after meeting their lawyer for the first
+time in court and only a brief conversation about the case”); Bill Rankin, ‘I Felt Like I Was
+Just Nothing’: Suspected Months After Charges Dropped, ATLANTA J.-CONST., Dec. 20, 2003, at
+A1 (describing the case of a man arrested on loitering charges who was “found” in jail
+thirteen months after arrest, having never seen a lawyer or judge, and four months after the
+charges had been dismissed); Bill Rankin, Indigent Defense Bill Beats the Odds, ATLANTA J.-
+CONST., Apr. 27, 2003, at C9 (describing the passage of the bill).
+119. Bill Rankin, Indigent Defense Budget in Flux: Georgia’s Strapped Public Defender System May
+Have To Divert Funds To Cover Costs of the Next Few Months, ATLANTA J.-CONST., Nov. 21,
+2007, at B1.
+2172
+
+fifty years of defiance and resistance
+provided in many parts of the state.
+While there is little chance that the U.S. Supreme Court can be shamed
+into modifying its decision in Strickland v. Washington, some state courts have
+been responsive to challenges to systemic deficiencies such as the failure to
+provide counsel and excessive caseloads.120
+Members of the legal profession have a responsibility to lobby for poor
+people accused of crimes. With their government-granted oligopoly on legal
+services, lawyers have a responsibility to ensure that the criminal justice system
+has integrity and works for the poorest and most powerless, just as for the
+most prosperous and powerful. Lawyers should visit courts and observe how
+poor people are processed through the system and bring suits to obtain
+systemic reforms. Lawyers—no matter what their area of practice, from
+corporate lawyers to small firm lawyers, to prosecutors and other government
+lawyers—should educate legislators, civil groups, and people concerned about
+public policy about the importance of an effective public defense system if there
+is to be justice in the courts. Bar associations and lawyers should be the
+primary advocates in state legislatures for full funding for the public defense.
+Some bar associations and lawyers have provided exemplary leadership in this
+regard, but others have avoided indigent defense as too controversial.
+Professors, students, and their associations also have an important role to
+play. Professors should teach the reality of criminal law by requiring students
+to visit different courts, write down what they see, and then discuss what they
+have seen and how it compares to what is required. Many law schools have
+criminal defense clinics.121 More are needed so that students see the desperate
+needs of poor people accused of crimes and learn to provide competent and
+ethical representation.
+All of these efforts must be used to persuade governments to establish and
+120. See State v. Peart, 621 So. 2d 780 (La. 1993) (adopting a presumption of ineffectiveness
+where counsel had an excessive caseload and lacked resources for investigation and other
+expenses); DeWolfe v. Richmond, No. 34, 2012 WL 10853 (Md. Jan. 4, 2012) (holding that
+people accused of crimes have a right to counsel at first appearance hearings); State ex rel.
+Mo. Pub. Defender Comm’n v. Waters, 370 S.W.3d 592 (Mo. 2012) (holding that a trial
+court must consider whether appointing counsel to a case will cause counsel to violate the
+Sixth Amendment and ethical rules); Hurrell-Harring v. State, 930 N.E.2d 217 (N.Y. 2010)
+(holding that people accused of crimes could maintain a class action suit seeking counsel at
+arraignment and subsequent critical stages); Heckman v. Williamson Cnty., 369 S.W.3d 137
+(Tex. 2012) (holding that people accused of crimes could maintain a class action suit seeking
+counsel in misdemeanor cases); LEFSTEIN, supra note 81, at 162-89; Stephen F. Hanlon, State
+Constitutional Challenges to Indigent Defense Systems, 75 MO. L. REV. 751 (2010).
+121. The E. Barrett Prettyman Program at the Georgetown University Law Center has provided
+graduate and undergraduate clinical experience in criminal defense for over fifty years.
+2173
+
+the yale law journal 122:2150 2013
+fully fund public defense programs that are independent of judges and politics
+and provide representation through public defender programs and assigned
+attorneys. This has already occurred in several jurisdictions,122 and the
+requirements for competent and ethical representation have been set out in
+detail in standards and guidelines.123 The programs must be led by experienced,
+client-oriented defense lawyers and must provide training and supervision to
+both public defenders and private lawyers who are assigned to represent poor
+defendants. Lawyers must have reasonable caseloads and resources for
+investigation, interpreters, and experts, and, of course, they should not
+represent clients with conflicting interests. Programs with these features can
+ensure that every person arrested has “the guiding hand of counsel”124 from the
+initial bail hearing through every subsequent proceeding.
+Fifty years ago, the Supreme Court began to chart a course toward the
+realization of the constitutional guarantees of counsel and equal justice in
+Gideon v. Wainwright and other decisions. However, most state governments
+have treated the Supreme Court’s decision in Gideon not as a bright star
+pointing the way to justice, but as an unfunded mandate to be resisted. A sober
+assessment of the defiance of and resistance after Gideon makes clear that to go
+from the pretense of representation to the reality of it, there must be a new
+commitment to counsel and equal justice with a sense of urgency to make up
+for so much time lost. This will occur only when courts begin enforcing the
+right to counsel, instead of being complicit in its denial; when the legal
+profession meets its responsibility to make the legal system work for everyone;
+and when the media, law professors and law students, and others hold the
+system up to public examination until governments are shamed into providing
+the lawyers that are “fundamental and essential”125 for fairness and justice.
+122. See, e.g., LEFSTEIN, supra note 81, at 191-228 (describing some programs that provide high-
+quality representation).
+123. See JUSTICE DENIED, supra note 47, at 181-213 (setting out extensive recommendations with
+commentary); LEFSTEIN, supra note 81, at 230-68 (making recommendations to improve
+representation and suggesting strategies for achieving them); Ten Principles, supra note 3, at
+1-3 (setting out basic principles based on numerous studies, reports, and guidelines).
+124. Gideon v. Wainwright, 372 U.S. 335, 345 (1963).
+125. Id. at 344.
+2174

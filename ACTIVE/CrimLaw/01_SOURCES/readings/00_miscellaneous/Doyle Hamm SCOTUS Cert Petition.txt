@@ -1,0 +1,996 @@
+No. 15- __________
+IN THE SUPREME COURT OF THE UNITED STATES
+DOYLE LEE HAMM,
+Petitioner,
+V.
+COMMISSIONER, ALABAMA DEPARTMENT OF CORRECTIONS,
+Respondent.
+On Petition for Writ of Certiorari
+to the United States Court of
+Appeals for the Eleventh Circuit
+PETITION FOR WRIT OF CERTIORARI
+BERNARD E. HARCOURT
+Counsel of Record
+COLUMBIA LAW SCHOOL
+435 West 116th Street
+New York, New York 10027
+Phone: (212) 854-1997
+E-mail: beh2139@columbia.edu
+March 24, 2016
+
+CAPITAL CASE
+QUESTIONS PRESENTED
+In this death penalty case, the postconviction court signed the
+Alabama Attorney General’s 89-page “PROPOSED MEMORANDUM
+OPINION” without making a single modification and without even
+striking the word “PROPOSED” from the caption of its judicial opinion,
+one business day after receiving it. The first question presented is:
+1. Does federal court deference to a judicial opinion adopted
+under circumstances where there is grave reason to doubt the
+postconviction court even read it violate AEDPA or the Due
+Process clause?
+Also presented are the following questions:
+2. Does Martinez v. Ryan apply to claims of ineffective
+assistance of trial counsel where the key evidence supporting
+the claim was precluded from consideration in state court due
+to the incompetence of state post-conviction counsel?
+3. In the limited circumstance where a capital defendant has
+meticulously followed the Lackawanna v. Coss procedures to
+challenge an invalid prior conviction used as an aggravating
+circumstance, but at every step of the way was procedurally
+barred, should this Court allow the capital defendant to
+challenge the prior conviction in his capital post-conviction
+proceedings under Johnson v. Mississippi?
+4. Should this Court grant, vacate and remand this death
+penalty case in light of its recent decision in Hurst v. Florida,
+where the judge made factual findings unsupported by the
+jury, who was impermissibly told that Mr. Hamm had been
+previously charged with “armed robbery” when he was in fact
+only convicted of simple robbery?
+i
+
+TABLE OF CONTENTS
+QUESTION PRESENTED ............................................................................................... i
+TABLE OF CONTENTS .................................................................................................. ii
+TABLE OF AUTHORITIES ........................................................................................... iv
+PETITION FOR WRIT OF CERTIORARI ..................................................................... 1
+OPINIONS BELOW ......................................................................................................... 1
+JURISDICTION ............................................................................................................... 1
+RELEVANT CONSTITUTIONAL PROVISIONS .......................................................... 2
+STATEMENT OF THE CASE ......................................................................................... 3
+REASONS FOR GRANTING THE WRIT .................................................................... 10
+I. AEDPA Does Not Require, and the Constitution Does Not Permit, Federal
+Courts to Defer to the Factual Findings and Legal Conclusions of a State
+Attorney General’s Office ................................................................................ 10
+A. Any Reasonable Jurist Would Conclude that the State Court did not
+Review the Proposed Findings ................................................................ 11
+B. Ghostwritten Judicial Opinions are a Recurring Problem in Alabama
+Death Penalty Cases ............................................................................... 14
+C. This Court Must Not Allow AEDPA Deference to Ghostwritten Judicial
+Opinions, Particularly When Those Opinions Are Adopted Under
+Circumstances Where a Reviewing Court Cannot Have Any Confidence
+That the Findings Were Fairly Adopted or Even Read by the Court ... 16
+II. Martinez v. Ryan Should Apply to Ineffective Assistance of Counsel Claims
+Where Incompetent Presentation of the Evidence in Collateral Proceedings
+Hinders the Ability of the Federal Courts to Review the True Merits of the
+Claim ................................................................................................................ 20
+A. Mr. Hamm’s Post-conviction Counsel Incompetently Handled the
+Presentation of Key Evidence ................................................................. 20
+B. The Decision Below Squarely Held That This Ineffective Performance
+ii
+
+Does Not Matter for a Martinez Claim .................................................. 21
+C. The Eleventh Circuit’s Holding is Contrary to the Considered Holdings
+of Other Circuit Courts of Appeals and the views of Two Justices of this
+Court, in a Confused Area of Law .......................................................... 22
+III. Johnson v. Mississippi Requires that a Capital Defendant Be Allowed to Test
+a Prior Conviction in Federal Habeas Corpus in the Limited Situation Where
+the Lackawanna v. Coss Procedures Are Not Available ............................... 27
+IV. The Eleventh Circuit Undermined the Critical Fact-finding Function of the
+Sentencing Jury in Alabama in Violation of Ring v. Arizona and Hurst v.
+Florida ............................................................................................................. 29
+CONCLUSION .............................................................................................................. 33
+CERTIFICATE OF SERVICE ...................................................................................... 34
+APPENDIX A: United States District Court for the Northern District of Alabama
+opinion, Hamm v. Allen, No. 5:06-cv-00945-KOB, 2013 WL
+1282129 (N.D. Ala. Mar. 27, 2013) ................................................ 2a
+APPENDIX B: United States District Court for the Northern District of Alabama
+opinion, Hamm v. Allen, No. 5:06-cv-00945-KOB, 2013 WL
+4433781 (N.D. Ala. Aug. 15, 2013) ............................................ 112a
+APPENDIX C: United States Court of Appeals for the Eleventh Circuit opinion,
+Hamm v. Commissioner, Alabama Department of Corrections, 620
+F. App’x 752 (11th Cir. 2015) .................................................... 118a
+APPENDIX D: United States Court of Appeals for the Eleventh Circuit order
+denying rehearing and rehearing en banc, Hamm v. Commissioner,
+Alabama Department of Corrections, No. 13-14376 (11th Cir. Oct.
+26, 2015) ..................................................................................... 150a
+iii
+
+TABLE OF AUTHORITIES
+Cases
+Aiken v. Spalding, 841 F.2d 881 (9th Cir. 1988) ...................................................... 25, 26
+Alabama v. Billups, No. CC-2005-001195.00
+(Jefferson Cty. Cir. Ct. Mar. 3, 2016) ................................................................... 32
+Anderson v. City of Bessemer, 470 U.S. 564 (1985) ........................................................ 18
+Beck v. Alabama, 447 U.S. 625 (1980) ...................................................................... 30, 31
+Broadnax v. State, 130 So.3d 1232 (Ala. Crim. App. 2013) ........................................... 15
+Brooks v. Alabama, 136 S.Ct. 708 (2016) ........................................................................ 31
+Brumfield v. Cain, 135 S.Ct. 2269 (2015) ................................................................. 17, 20
+Cullen v. Pinholster, 563 U.S. 170 (2011) ....................................................................... 21
+Dickens v. Ryan, 740 F.3d 1302 (9th Cir. 2014) ....................................................... 25, 26
+Ex parte Ingram, 51 So.3d 1119 (Ala. 2010) ................................................................... 14
+Ex parte Jenkins, 105 So.3d 1250 (Ala. 2012) .......................................................... 14, 15
+Ex parte Scott, No. 1091275, 2011 WL 925761 (Ala. Mar. 18, 2011) ............................ 14
+Ex parte Stephens, 982 So.2d 1148 (Ala. 2006) .............................................................. 31
+Gallow v. Cooper, 133 S.Ct. 2730 (2013) ................................................................... 23, 24
+Gallow v. Cooper, 505 F. App’x 285 (5th Cir. 2012) .................................................... 2 25
+Gray v. Zook, 806 F.3d 783 (4th Cir. 2015) ............................................................... 25, 26
+Hamm v. Allen, No. 5:06-cv-00945-KOB, 2013 WL 1282129
+(N.D. Ala. Mar. 27, 2013) .............................................................................. passim
+Hamm v. Commissioner, Alabama Department of Corrections,
+620 F. App'x 752 (11th Cir. Aug. 3, 2015) .................................................... passim
+Hamm v. State, 564 So.2d 453 (Ala. Crim. App. 1989) .................................................... 6
+Hamm v. Tennessee, 1997 WL 59435 (Tenn. Crim. App. Feb. 12, 1997) ...................... 28
+Harmelin v. Michigan, 501 U.S. 957 (1991) ................................................................... 16
+Hurst v. Florida, 136 S.Ct. 616 (2016) ................................................................ 30, 31, 32
+iv
+
+Jefferson v. Upton, 560 U.S. 284 (2010) .......................................................................... 19
+Johnson v. Mississippi, 486 U.S. 578 (1988) .................................................................. 29
+Marshall v. State, 182 So.3d 573 (Ala. Crim. App. 2014) .............................................. 15
+Martinez v. Ryan, 132 S.Ct. 1309 (2012) ................................................................ passim
+Mashburn v. State, 148 So.3d 1094 (Ala. Crim. App. 2013) .......................................... 15
+Panetti v. Quarterman, 551 U.S. 930 (2007) .................................................................. 17
+Rompilla v. Beard, 545 U.S. 374 (2005) .......................................................................... 24
+Spencer v. State, CR-12-1837, 2015 WL 505353 (Ala. Crim. App. Feb. 6, 2015) .......... 15
+Strickland v. Washington, 466 U.S. 668 (1984) ........................................................ 26, 27
+Trevino v. Thaler, 133 S.Ct. 1911 (2013) ........................................................................ 17
+United States v. Resendiz-Ponce, 549 U.S. 102 (2007) ................................................... 32
+Van Pelt v. State, CR-12-0703, 2015 WL 4876548
+(Ala. Crim. App. Aug. 14, 2015) ............................................................................ 15
+Vasquez v. Hillery, 474 U.S. 254 (1986) .................................................................... 24, 26
+Statutes
+28 U.S.C. § 1254(1) ............................................................................................................. 2
+28 U.S.C. § 2254(d) ................................................................................................... passim
+Ala. Code § 13A-5-59 .................................................................................................. 32, 33
+Other Authorities
+Brief for the National Association of Criminal Defense Lawyers as Amicus Curiae in
+Support of Petitioner, Wood v. Allen, 558 U.S. 290 (2009) (No. 08-9156), 2009
+WL 2445749 ..................................................................................................... 14, 16
+Oral Argument, Hamm v. Commissioner, Alabama Department of Corrections,
+620 F. App’x 752 (No. 13-14376-P) ............................................................... passim
+Samuel R. Wiseman, Habeas After Pinholster,
+53 B.C. L. Rev. 953, 984-86 (2012) ....................................................................... 18
+v
+
+PETITION FOR WRIT OF CERTIORARI
+Petitioner Doyle Lee Hamm respectfully petitions for a writ of certiorari to
+review the judgment of the United States Court of Appeals for the Eleventh Circuit
+affirming the denial of his petition for a writ of habeas corpus in this death penalty
+case.
+OPINIONS BELOW
+The federal district court’s original decision denying Mr. Hamm federal
+habeas relief is unreported, but is available at Hamm v. Allen, No. 5:06-cv-00945-
+KOB, 2013 WL 1282129 (N.D. Ala. Mar. 27, 2013). On reconsideration, the district
+court issued an opinion amending the prior decision in part, and declining the
+issuance of a certificate of appealability on any issues. That opinion is unreported,
+but available at 2013 WL 4433781 (Aug. 15, 2013). A copy of the original opinion
+is attached as Appendix A, and a copy of the district court’s opinion on
+reconsideration is attached as Appendix B. The Eleventh Circuit’s decision
+affirming the district court’s judgment is reported at Hamm v. Commissioner,
+Alabama Department of Corrections, 620 F. App’x 752 (11th Cir. 2015) [hereinafter
+Hamm v. Commissioner] (per curiam). A copy of that opinion is attached as
+Appendix C.
+JURISDICTION
+The Eleventh Circuit rendered its decision in this case on August 3, 2015,
+and denied rehearing on October 26, 2015. A copy of the Eleventh Circuit’s order
+denying rehearing is attached as Appendix D. On January 19, 2016, Justice Thomas
+1
+
+extended the time for filing this petition to and including March 24, 2016. This
+Court has jurisdiction pursuant to 28 U.S.C. § 1254(1).
+RELEVANT CONSTITUTIONAL AND STATUTORY PROVISIONS
+The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), codified
+in relevant part at 28 U.S.C. § 2254(d), provides:
+(d) An application for a writ of habeas corpus on behalf of a person in
+custody pursuant to the judgment of a State court shall not be granted
+with respect to any claim that was adjudicated on the merits in State
+court proceedings unless the adjudication of the claim –
+(1) resulted in a decision that was contrary to, or involved an
+unreasonable application of, clearly established Federal law, as
+determined by the Supreme Court of the United States; or
+(2) resulted in a decision that was based on an unreasonable
+determination of the facts in light of the evidence presented in the
+State court proceeding.
+The Sixth Amendment to the United States Constitution provides in part:
+In all criminal prosecutions, the accused shall enjoy the right … to have
+the assistance of counsel for his defense.
+The Fourteenth Amendment to the United States Constitution provides in
+pertinent part:
+No State shall make or enforce any law which shall abridge the
+privileges or immunities of citizens of the United States; nor shall any
+State deprive any person of life, liberty, or property, without due process
+of law; nor deny to any person within its jurisdiction the equal protection
+of the laws.
+2
+
+STATEMENT OF THE CASE
+This Alabama death penalty case has been plagued by due process failures
+since its inception. At his capital sentencing trial in Alabama in 1987, Mr. Hamm’s
+appointed attorney put on a total of 19 minutes of mitigation evidence and no
+mental health expert to testify about his serious brain damage. The sentencing jury
+was told that he had previously been convicted of “armed robbery” in Tennessee,
+when in fact he had only been convicted of simple “robbery,” due to the neglect of
+his attorney. In addition, the prior conviction, which formed the entirety of the
+state’s new evidence on aggravation, was facially improper because Mr. Hamm’s
+guilty plea was transparently invalid—not to mention, he was factually innocent.
+Mr. Hamm’s trial attorney did nothing to investigate either issue.
+In state post-conviction proceedings, the court-appointed attorney failed to
+actually call the mental health expert that previous post-conviction counsel had
+lined up to testify at the evidentiary hearing, and instead only attempted to
+introduce the expert’s affidavit, resulting in the exclusion of Mr. Hamm’s expert
+mental health evidence. And worst of all, after that evidentiary hearing, the state
+judge abdicated his judicial office by adopting verbatim the Alabama Attorney
+General’s 89-page “PROPOSED MEMORANDUM OPINION” one business day
+after receiving it, without making a single alteration (not even striking the word
+“PROPOSED” from the opinion). To this day, the factual findings in this death
+penalty case are based on the “PROPOSED MEMORANDUM OPINION” that one
+of the members of the Eleventh Circuit panel, Judge Adalberto Jordan, said he does
+3
+
+not even “believe for a second” was reviewed by the state post-conviction judge. Oral
+Argument at 24:50-25:28, Hamm v. Commissioner, 620 F. App’x 752 (No. 13-14376-
+P) [hereinafter Oral Argument]. This case epitomizes the worst aspects of the death
+penalty as actually practiced in Alabama.
+There are several reasons to grant certiorari, but the most important reason
+is because the Eleventh Circuit violated due process and separation of powers, and
+misapplied AEDPA, by deferring to the Alabama Attorney General on findings of
+fact and conclusions of law. As Judge Jordan stated at oral argument in this case,
+there is simply no way that the state judge reviewed the “PROPOSED
+MEMORANDUM OPINION” submitted by the Attorney General. “I don’t believe it
+for a second,” Judge Jordan declared. “I know what AEDPA deference requires me
+to do, and I don’t speak for my colleagues, but I’m telling you: I don’t believe for a
+second that that judge went through 89 pages in a day and then filed that as his
+own. As if he had gone through everything, went through his notes, the transcript,
+the exhibits, and the like. It just can’t be done! It just can’t be done.” Oral
+Argument at 24:50-25:28.
+Despite that, the Eleventh Circuit opinion defers to the factual findings of
+the Alabama Attorney General’s “PROPOSED MEMORANDUM OPINION.” This
+death penalty case presents this Court with the opportunity to rectify the problem
+of sham judicial opinions in capital cases. This Court should decide whether AEDPA
+requires, or due process allows, federal court deference to a state court’s
+ghostwritten opinion.
+4
+
+Statement of the Facts
+This case grows out of the tragic death of Patrick Cunningham in Cullman
+County, Alabama. On the night of January 24, 1987, Mr. Cunningham was working
+as the night clerk at the Anderson Motel and was fatally shot during the course of a
+robbery. Vol.2-TR-259.1 Two individuals were initially found in the car used to
+commit the crime: Regina Roden and Douglas Roden. Vol.3-TR-489-504. The
+Rodens claimed that they had been kidnapped by Mr. Hamm and held in captivity
+at gunpoint. Vol.3-TR-489; Vol.5-TR-907; Vol.5-TR-838. After time in detention in
+the county jail (Vol.5-TR-855-56), Regina and Douglas Roden changed their story
+and told the police that they were the unwitting accomplices to Doyle Hamm, whom
+they identified as the trigger-man. Vol.5-TR-832; Vol.5-TR-916.
+At the guilt-phase, the state presented the accomplice testimony of Regina
+and Douglas Roden, who both testified in exchange for lenience (Vol.5-TR-902;
+Vol.5-TR-843), and additionally a statement obtained from Doyle Hamm after
+lengthy interrogation (Vol.6-TR-1080). As the federal district court noted, “both of
+the Rodens entered into an agreement with the state whereby they would testify
+against appellant at trial, which they did, in exchange for being allowed to plead
+guilty to lesser offenses.” Hamm v. Allen, App. at 5a (quoting Hamm v. State, 564
+1 Citations in this form refer to the volumes of the state court record in this case, which was filed in
+full in the District Court. See Notice of Manual Filing, Hamm v. Allen, No. 5:06-cv-00945 (N.D. Ala
+Mar. 27, 2013), ECF No. 13. Citations to the “TR” portions of the state court record refer to the trial
+court transcript; citations to the “PCR” portions refer to the post-conviction record; citations to the
+“PCH” portions refer to the post-conviction hearing transcript.
+5
+
+So.2d 453, 455-57). Apart from that, there was no direct, independent evidence, nor
+any physical evidence, as to who actually pulled the trigger. Mr. Hamm was
+nevertheless convicted of intentional capital murder during a robbery.
+The jury penalty phase trial began on September 28, 1987 at 11:15 a.m.
+Vol.7-TR-1201. Mr. Hamm’s attorney made a two-transcript-page opening
+statement. Vol.7-TR-1210. The state incorporated the evidence from the guilt phase
+and moved to admit only two exhibits, State’s Exhibits No. 1-A and 1-B,
+corresponding to prior Tennessee convictions from 1978. Vol.7-TR-1213. Mr.
+Hamm’s trial counsel argued against their admission solely on the ground that “he
+just received them this morning”—he did not challenge their validity.
+Defense counsel called only two witnesses, Doyle Hamm’s sister and a bailiff,
+see Vol.7-TR-1214 to 1240, for a total of 19 minutes of trite testimony. Trial counsel
+did not call a mental health expert or introduce the thousands of pages of
+documents that proved mitigation. That same day, after a lengthy lunch break, the
+jury returned a death verdict, at 4:30 P.M., by a vote of 11 to 1. Vol.7-TR-1307.
+The circuit court sentenced Mr. Hamm to death on the basis of two
+aggravating circumstances: (1) the prior convictions in Tennessee; and (2) the fact
+that the murder occurred during the course of a robbery, which was already
+included in the jury’s guilt-phase verdict. Hamm v. State, 564 So.2d 453, 466 (Ala.
+Crim. App. 1989).
+In state post-conviction, original post-conviction counsel discovered a wealth
+of never before presented mitigating evidence, including the fact that Mr. Hamm
+6
+
+suffers from brain damage. The evidence was admitted into evidence at the state
+post-conviction hearing, see Vol.21-PCH-5-7, with the exception of the expert
+evidence of Dr. Dale Watson. The evidence that original post-conviction counsel
+discovered, none of which was presented at the penalty phase, included:
+(1) Lengthy criminal records of his family members (Vol.11-PCR-128 through
+Vol.12-PCR-212; Vol.15-PCR-978 through Vol.17-PCR-1399); and
+Supplemental PCR (Exhibits)).
+(2) School, medical and mental health records. (PCR-978-1399; Supplemental
+PCR (Exhibits)). These included a history of seizures, head injuries, and of
+drug and alcohol abuse that was never investigated. (Vol.17-PCR-1311 to
+1399; Vol.16-PCR-1195 to Vol.17-PCR-1275; Supplemental PCR). The
+records even show that Mr. Hamm has a history of “chronic seizure
+disorder”. (Vol.17-PCR-1368). All of these things can cause brain damage.
+(3) Testimony from a social worker, Gaye Nease, who prepared a chronology
+noting a long history of head injuries and extraordinarily poor
+background. (Vol.11-PCR-185 to 211; Supplemental PCR).
+But what tied all of this mitigation together was the affidavit and report of
+the mental health expert, Dr. Dale Watson. The other mitigating evidence showed
+that Mr. Hamm had a terrible upbringing and recurring head trauma. What was
+never presented, and could not be proven without the testimony of an expert
+psychologist, was linking his upbringing, poor performance in school, seizure, and
+head injury history, with actual proof of brain damage, and then showing how his
+7
+
+brain damage diminished his criminal responsibility. Dr. Watson’s proposed
+testimony did just that: he concluded that Mr. Hamm has “neuropsychological
+impairment and presumptively brain damage,” and that there are “indications of
+impaired ‘executive functions,’” among other deficits, which “are sufficient to have a
+significant impact upon his daily functioning.” (Vol-11-PCR-168). This evidence was
+key to linking a terrible childhood, a poor upbringing, and impaired judgment.
+After previous post-conviction counsel was removed by the post-conviction
+court, the court, over Mr. Hamm’s objection, appointed new counsel for Mr. Hamm
+for the hearing. Mr. Hamm pro se introduced the documentary evidence. Newly
+appointed counsel then only called Mr. Hamm’s trial counsel to testify. Inexplicably,
+post-conviction counsel never called Dr. Watson, despite the fact that in his
+affidavit he stated he was ready to testify; nor did she ever call the mitigation
+expert, Gaye Nease, who had done all the mitigation investigation. Instead, post-
+conviction counsel merely attempted to introduce Dr. Watson’s affidavit, and when
+the post-conviction court excluded that affidavit as not an acceptable replacement
+for actual testimony, she made no attempt to then call Dr. Watson, no request to
+continue the hearing, nor did she take any other measures whatsoever to introduce
+this critical evidence.
+Postconviction counsel also discovered through investigation that not only
+were Mr. Hamm’s Tennessee convictions transparently invalid, for want of a valid
+plea colloquy, but that he was also factually innocent of these convictions. Both the
+transcript of plea colloquy (Vol.13-PCR-522 to 537) and the showing his innocence
+8
+
+(Vol.12-PCR-213 through Vol.15-PCR-852) were submitted to the Rule 32 Court and
+remains undisputed. The postconviction court, however, ruled that these claims
+were procedurally barred because Mr. Hamm could have challenged these
+convictions earlier.
+Subsequent to the hearing, on Friday, December 3, 1999, the Alabama
+Attorney General filed a “PROPOSED MEMORANDUM OPINION” with the circuit
+court. Vol.11-PCR-29 (stamped “FILED IN OFFICE DEC 3, 1999”). The very next
+business day, on Monday, December 6, 1999, the circuit court signed the
+“PROPOSED MEMORANDUM OPINION” without so much as removing the word
+“proposed” or making a single alteration to the document. Vol. 11-PCR-117
+(stamped “FILED IN OFFICE DEC 6, 1999”).
+9
+
+This is what the court’s order looks like still today, as signed, in this death
+penalty case: “PROPOSED MEMORANDUM OPINION.”
+The Alabama Court of Criminal Appeals affirmed, Hamm v. State, 913 So.2d
+460 (2002), holding that there was no ineffective assistance, and agreeing with the
+procedural default finding on appeal related to the prior convictions. It also found
+no issue with the court’s adoption of the “PROPOSED MEMORANDUM OPINION.”
+The Alabama Supreme Court denied certiorari, No. 1011483 (2005).
+Mr. Hamm filed for federal habeas corpus. Almost 7 years after filing, the
+district court denied the petition in full, Hamm v. Allen, App. at 2a, and refused to
+grant a certificate of appealability on any issues, App. at 118a. The Eleventh Circuit
+granted a certificate of appealability on the ineffective assistance of counsel claim,
+the validity of the Tennessee convictions, and issues related to Martinez v. Ryan,
+132 S.Ct. 1309 (2012). Eight months after argument, the Eleventh Circuit affirmed.
+Hamm v. Commissioner, App. at 118a.
+REASONS FOR GRANTING THE WRIT
+I. AEDPA Does Not Require, and the Constitution Does Not
+Permit, Federal Courts to Defer to the Factual Findings and
+Legal Conclusions of a State Attorney General’s Office.
+The Alabama Attorney General wrote the state court’s “PROPOSED
+MEMORANDUM OPINION.” As the Eleventh Circuit noted in a footnote, “The
+Rule 32 Court did not even strike the word ‘Proposed’ from the order.” Hamm v.
+Commissioner, App. at 122a. Because the factual findings in this case are not based
+10
+
+on a judicial opinion that reasonable jurists can have any confidence was even
+reviewed by the postconviction court, the federal courts cannot defer to the findings
+on habeas corpus.
+A. Any Reasonable Jurist Would Conclude that the State Court
+Did Not Review the Proposed Findings
+As Judge Adalberto Jordan stated during oral argument in this case, there is
+no way that the state judge reviewed the proposed factual findings and conclusions
+of law in Mr. Hamm’s case. Judge Jordan’s exchange with counsel for the State of
+Alabama is clear on this, and extremely revealing:
+Judge Jordan: […] it’s a bit odd, is it not, that the Alabama Rule 32
+judge takes the State’s proposed findings and conclusions, 89 pages
+worth, and files them as the judge’s own within a day of receiving them,
+without even taking the time to take out the word “proposed”? That
+doesn’t engender much confidence in the Alabama State Court system,
+right? (Oral Argument at 22:50-23:25.)
+Beth Jackson Hughes: If there was anything in there that was clearly
+erroneous, then I would … (Oral Argument at 23:25-23:29.)
+Judge Jordan: But you don’t know of any – but the point is – if you’ve
+sat through a hearing, and all of us have been trial judges, and someone
+gives you 89 pages worth of proposed findings and conclusions,
+assuming you have no other work to do that day, it’ll take you every
+single minute of that day to go through those 89 pages, assuming you
+did. That can’t make anybody feel good about the system. Right? (Oral
+Argument at 23:29-23:58.)
+Beth Jackson Hughes: Well, if I…
+Judge Jordan: You’d be up in arms if he, if that judge had taken Mr.
+Hamm’s proposed findings and conclusions with the word “proposed”
+and had filed them in court the next day as his own. You’d be up in
+11
+
+arms, right? (Oral Argument at 23:59-24:11.) […]
+Judge Jordan: […] But I’m telling you that it bothers the heck out of me.
+(Oral Argument at 24:23-24:27.)
+Beth Jackson Hughes: I understand that, but … (Oral Argument at
+24:27-24:28.)
+Judge Jordan: This is not a two or three page order where the judge
+dictates findings from the bench, and says, “get me a proposed order,”
+and you already know what the judge was going to do, or was going to
+rule. This is almost 90 pages worth of stuff. And it’s detailed! As it
+should have been! (Oral Argument at 24:29-24:44.)
+Beth Jackson Hughes: And there’s not anything before this court to say
+that it wasn’t his findings, he was at the hearing, he … (Oral Argument
+at 24:44-24:50.)
+Judge Jordan: I know, and I’m telling you … (Oral Argument at 24:49.)
+Beth Jackson Hughes: He heard it. (Oral Argument at 24:50.)
+Judge Jordan: And I’m telling you that I know what AEDPA deference
+is, and I know what we’re supposed to do with regards to state court
+findings, and I’m telling you, that it sticks in my craw. And I don’t
+believe it for a second. I know what AEDPA deference requires me to
+do, and I don’t speak for my colleagues, but I’m telling you: I don’t
+believe for a second that that judge went through 89 pages in a day and
+then filed that as his own. As if he had gone through everything, went
+through his notes, the transcript, the exhibit, and the like. It just can’t
+be done! It just can’t be done. That’s just a comment. (Oral Argument
+24:50-25:28.)
+Beth Jackson Hughes: Okay. Okay. And, as you said, it doesn’t have
+anything to do with any of the issues that are before here, he didn’t
+make any findings of the fact that, that—(Oral Argument at 25:29-
+25:35.) […]
+12
+
+Judge Tjoflat: I think we all agree that it’s bad practice, and the
+Alabama Supreme Court and the Court of Criminal Appeals have said
+so. (Oral Argument at 25:41-25:45.)
+Beth Jackson Hughes: And that’s correct, and I realize, and I actually
+challenged that in the …(Oral Argument at 25:45-25:48.)
+Judge Tjoflat: All the kinds of court have said so. (Oral Argument at
+25:48-25;50.)
+Beth Jackson Hughes: But, but—That’s right. (Oral Argument at 25:49-
+25:50)
+Judge Tjoflat: So, what the state should have done is told the judge to
+take it back and do it over again. (Oral Argument at 25:51-58.)
+Beth Jackson Hughes: Well, I … (Oral Argument at 25:59.)
+Judge Tjoflat: Otherwise, you’re just inviting a problem. (Oral
+Argument at 25:59-26:01.)
+Beth Jackson Hughes: Yes, sir. (Oral Argument at 26:02.)
+In its decision below, however, the Eleventh Circuit simply brushed this
+problem aside, in a short footnote, calling it a mere “procedural shortcut” that “has
+no bearing on our disposition of Hamm’s federal habeas appeal,” and then cited to
+one of that court’s previous decisions that requires deference to such opinions.
+Hamm v. Commissioner, App. at 122a. In so holding, and in then deferring to the
+Attorney General’s factual and legal findings, the Eleventh Circuit erred.
+13
+
+B. Ghostwritten Judicial Opinions Are a Recurring Problem in
+Alabama Death Penalty Cases
+Ghostwritten judicial opinions are a recurring embarrassment for the
+collateral review process in many states. Alabama is, however, an egregious abuser
+of them. As a brief filed in this Court in 2009 noted, wholesale judicial adoption of
+proposed orders and opinions is “virtually the norm in Alabama capital post-
+conviction cases.” Brief for the National Association of Criminal Defense Lawyers as
+Amicus Curiae in Support of Petitioner at 5, Wood v. Allen, 558 U.S. 290 (2009) (No.
+08-9156), 2009 WL 2445749. According to a study by the Equal Justice Initiative, 17
+of the 20 recent capital cases at the time the study was written (2003) involved a
+ghostwritten opinion, see id. at 8, and that practice had continued unabated since
+the study, id. (noting 8 additional cases of wholesale adoption of findings in capital
+cases since 2003). Since that brief was filed, and after three opinions from the
+Alabama Supreme Court addressing the subject,2 the practice continues. See, e.g.,
+2 The Alabama Supreme Court has taken halfhearted measures to reverse two ghostwritten
+opinions in capital cases, while failing to ensure that any meaningful review of this practice will
+take place as long as the prosecution does not make too many outright blunders in drafting their
+opinion. In the first of these cases, Ex parte Ingram, 51 So.3d 1119 (Ala. 2010), the court threw out
+a proposed opinion where the state attorney general wrote an opinion that had the judge making
+findings based on his personal knowledge of hearings he was not actually present for – those
+hearings were in front of the previous judge in the case. In Ex parte Scott, No. 1091275, 2011 WL
+925761 (Ala. Mar. 18, 2011), the Alabama Supreme Court threw out a judge verbatim adopting not
+even a proposed “opinion”, but the state’s answer to the habeas petition.
+Outside of these two exceptional cases, however, the Alabama Supreme Court remains content to
+affirm almost any proposed opinion. In Ex parte Jenkins, 105 So.3d 1250 (Ala. 2012), the petitioner
+made a compelling showing that the judge could not possibly have read the proposed opinion,
+clearly showing that the judge was sitting in another city and could not possibly have received the
+prosecution’s proposal until hours before signing it. Id. at 1259. Like this case, the opinion was
+fairly detailed – 24 pages long and with over 30 transcript references. Id. The Alabama Supreme
+14
+
+Van Pelt v. State, CR-12-0703, 2015 WL 4876548 (Ala. Crim. App. Aug. 14, 2015)
+(affirming wholesale adoption of prosecution’s proposed opinion in capital case);
+Spencer v. State, CR-12-1837, 2015 WL 505353 (Ala. Crim. App. Feb. 6, 2015)
+(same); Marshall v. State, 182 So.3d 573 (Ala. Crim. App. 2014) (same); Mashburn
+v. State, 148 So.3d 1094 (Ala. Crim. App. 2013) (same); see also Broadnax v. State,
+130 So.3d 1232, 1241 (Ala. Crim. App. 2013) (affirming wholesale adoption of
+prosecution’s proposed opinion in capital case because petitioner failed to challenge
+the adoption in post-judgment motion). As the NACDL Brief in Wood notes, these
+“opinions” are frequently adopted under circumstances that raise serious concerns
+about whether the findings are truly those of the court, or whether the court has
+instead abdicated its role to the State. Brief of National Association of Criminal
+Defense Lawyers at 9-11.
+Court, however, affirmed, holding that even if petitioner’s factual contentions were true, that only
+the record could be examined to determine whether the findings were not actually those of the
+court, and the record did not reflect the location of the judge or the date he received it—therefore
+his argument (based on essentially irrefutable facts regarding the location of the judge and the date
+of mailing) was mere “speculation and conjecture”. Id. at 1259-60. The court’s rule after Jenkins is
+that it will only throw out a proposed opinion where “the record… clearly establishes that the order
+signed by the trial court denying post-conviction relief is not the product of the trial court's
+independent judgment,” id. at 1260 (emphasis added), and “the record” and “clearly established”
+will be read in the narrowest manner possible.
+The Alabama Supreme Court has therefore sanctioned abdication of the judicial function in capital
+cases so long as the Attorney General’s Office makes sure not to make a blatant mistake in their
+phony opinion.
+15
+
+C. This Court Must Not Allow AEDPA Deference to Ghostwritten
+Judicial Opinions, Particularly When Those Opinions Are
+Adopted Under Circumstances Where a Reviewing Court Cannot
+Have Any Confidence That the Findings Were Fairly Adopted or
+Even Read by the Court
+While the facts underlying this adoption of the proposed opinion in this case
+are particularly egregious, the underlying problem of state courts abdicating their
+duty to carefully review each and every capital conviction is unfortunately common.
+The Alabama state courts have proven themselves unwilling or unable to address
+this problem, and the Eleventh Circuit is apparently of the view that wholesale
+adoption of opinions in capital cases simply does not present issues either under
+AEDPA or this Court’s precedent. While this Court may not be capable of forcing
+the Alabama state courts to perform meaningful collateral review of capital
+convictions, it is capable of withholding AEDPA deference either on statutory or
+constitutional grounds when the state courts fail to meaningfully determine the
+facts and the law, and instead conduct these critical inquires de novo. This is
+particularly required in capital cases because “death is different”; this Court has
+long emphasized that the constitution in capital cases contains “protections that the
+Constitution nowhere else provides.” Harmelin v. Michigan, 501 U.S. 957, 993
+(1991). When the State of Alabama has largely adopted a procedure that ensures
+capital prisoners will not have meaningful review of the many serious constitutional
+claims that can only be effectively raised in collateral proceedings, see Trevino v.
+Thaler, 133 S.Ct. 1911, 1921 (2013), the statutory text of AEDPA cannot be read to
+foreclose federal courts from their duty to provide independent review of these
+16
+
+claims if the state courts will not.
+This Court’s recent decision in Brumfield v. Cain recognizes that the
+ultimate correctness of state court judicial findings is not the sole issue in the
+analysis under 28 U.S.C. § 2254(d)(2) for determining whether state court decisions
+are entitled to deference. 135 S. Ct. 2269 (2015). § 2254(d)(2) states that if the state
+court decision is “based on an unreasonable determination of the facts in light of the
+evidence presented in the State court proceeding” (emphasis added), the federal
+court is no longer bound to defer and instead reviews the claim under § 2254(a)
+alone (de novo review).3 In Brumfield, the unreasonableness that this Court found
+was that the state court failed to afford an evidentiary hearing to a petitioner for
+whom the record disclosed at least a significant possibility that he was
+intellectually disabled. Id. at 2281-82. Critically, this Court did not require that the
+habeas petitioner actually demonstrate that the ultimate conclusion (that he was
+not intellectually disabled) was unreasonable—instead, the procedure that the state
+court used to make that determination led to it being deemed an unreasonable
+factual determination for purposes of § 2254(d)(2). Id.; accord Samuel R. Wiseman,
+Habeas After Pinholster, 53 B.C. L. Rev. 953, 984-86 (2012) (noting that flawed
+factual finding processes should result in failure to accord deference under
+3 See, e.g., Panetti v. Quarterman, 551 U.S. 930, 953 (2007) (“When a state court's adjudication of a
+claim is dependent on an antecedent unreasonable application of federal law, the requirement set
+forth in § 2254(d)(1) is satisfied. A federal court must then resolve the claim without the deference
+AEDPA otherwise requires.”). The same rule applies for § 2254(d)(2)—the remedy is identical in the
+statutory structure.
+17
+
+§ 2254(d)(2)). While failure to accord an evidentiary hearing in cases with genuine
+issues of material fact leads to an unreliable and unreasonable factual
+determination, so too does actually holding an evidentiary hearing but then letting
+the state attorney general’s office make all the factual findings resulting from it
+without judicial review. Even if the findings in this case may be deemed ultimately
+to be correct—although to be clear, Mr. Hamm seriously disputes many of the
+factual findings—his claims must be scrutinized without the deference the lower
+courts have applied under AEDPA due to the broken and unreasonable state court
+fact-finding process. As the Eleventh Circuit noted that at least some of Mr.
+Hamm’s claims were “close,” see Hamm v. Commissioner, App. at 138a (describing
+one ineffective assistance of counsel claim as presenting a close question but
+deferring under AEDPA), the change in the standard of review would make a
+substantial difference in Mr. Hamm’s case.
+This interpretation of AEDPA is particularly required here in light of the
+principles of constitutional avoidance and the heightened standards of reliability
+underlying this Court’s death penalty jurisprudence. This Court, as the Eleventh
+Circuit noted below, has long recognized that wholesale adoption of one side’s
+factual findings and legal conclusions, even in ordinary civil litigation, raises due
+process concerns. See, e.g., Anderson v. City of Bessemer, 470 U.S. 564 (1985). And
+in the context of wholesale adoption of opinions in capital cases (albeit under the
+pre-AEDPA standards), this Court already identified three factors that when
+present raised due process and fairness concerns—specifically when “(1) a judge
+18
+
+solicits proposed findings ex parte, (2) does not provide the opposing party an
+opportunity to criticize the findings or to submit his own, or (3) adopts findings that
+contain internal evidence suggesting the judge may not have read them.” Jefferson
+v. Upton, 560 U.S. 284, 294 (2010) (per curiam); see also id. at 291 (emphasizing
+that the sections of the pre-AEDPA version of 28 U.S.C. § 2254(d) that were
+involved included “that the applicant was otherwise denied due process of law in
+the State court proceeding” and “that the applicant did not receive a full, fair, and
+adequate hearing in the State court proceeding”). In this case, Mr. Hamm had no
+opportunity to contest the findings, and the findings themselves contain evidence
+suggesting the judge did not read them: specifically, the judge neither crossed off
+the word “proposed” nor made any other edits whatsoever. This Court has therefore
+already recognized that where the Jefferson factors are present, there are grave due
+process concerns; concerns that should motivate a reading of AEDPA to allow
+challenges to procedures which are fundamentally unfair and contrary to basic
+notions of due process, particularly in capital cases.
+This Court can also reach the same conclusion under the constitution
+directly. Where a state court violates the due process clause in its resolution of
+claims, federal courts cannot be required to nonetheless recognize and defer to the
+defective process.
+This Court should address the exceptionally important question of whether
+federal courts in life and death cases should defer to opinions that they have no
+confidence were even read by the state court judge that signed off on them. See Sup.
+19
+
+Ct. R. 10(a), 10(c). At the very least, given that Brumfield was decided well after
+oral argument and only shortly before the release of the decision below, this Court
+should grant, vacate, and remand to allow the Eleventh Circuit to reconsider its
+precedent on this issue in light of Brumfield.
+II. Martinez v. Ryan Should Apply to Ineffective Assistance of
+Counsel Claims Where Incompetent Presentation of the
+Evidence in Collateral Proceedings Hinders the Ability of the
+Federal Courts to Review the True Merits of the Claim.
+This Court issued an important, equitable ruling in Martinez v. Ryan in
+recognition of the fact that post-conviction proceedings are most often the only
+realistic way to litigate claims of ineffective assistance of counsel. 132 S.Ct. 1309
+(2012). The court below, however, drew an artificial distinction between claims that
+were not presented in post-conviction proceedings at all and claims that were so
+hindered by inadequate post-conviction counsel as to deprive them of a meaningful
+opportunity to be heard. The promise of Martinez is not so limited, and this Court
+should so hold.
+A. Mr. Hamm’s Post-conviction Counsel Incompetently Handled the
+Presentation of Key Evidence
+Trial counsel in Mr. Hamm’s case did not conduct an adequate mental health
+investigation and did not discover evidence that Mr. Hamm suffered from brain
+damage. In state post-conviction, a full psychological evaluation of Mr. Hamm was
+conducted and revealed that he suffers from brain damage. The evidence of brain
+damage was documented in an affidavit by Dr. Dale Watson, who indicated that he
+was willing and prepared to testify at the Rule 32 hearing. See Vol.11-PCR-182.
+20
+
+However, appointed state post-conviction counsel, Pamela Nail, failed to call
+Dr. Watson to testify at the Rule 32 hearing, instead merely attempting to
+introduce his affidavit. Because Dr. Watson was not present, the court excluded his
+evidence, without any effort by Ms. Nail to ask for a postponement of the hearing to
+call Dr. Watson in person, or make any arrangement for an alternative means for
+him to testify. As a result, the crucial evidence of neuropsychological damage—
+namely Dr. Watson’s diagnosis based on several days of testing—was never
+considered by the state court reviewing the state habeas petition. Ms. Nail’s failure
+to call Dr. Watson and her sole reliance on Dr. Watson’s affidavit (which was
+ultimately excluded by the state Rule 32 court) amounted to ineffective assistance
+of counsel.
+B. The Decision Below Squarely Held That This Ineffective
+Performance Does Not Matter for a Martinez Claim
+Mr. Hamm argued to the Eleventh Circuit that state post-conviction
+counsel’s ineffectiveness in failing to call Dr. Watson at the Rule 32 hearing should
+serve as justification, under Martinez, to allow the federal courts to consider the
+evidence of brain damage that Dr. Watson diagnosed. The Eleventh Circuit’s
+opinion rejected the argument, declaring that “the review of this claim on federal
+habeas is ‘limited to the record that was before the state court that adjudicated the
+claim on the merits.’” Hamm v. Commissioner, App. at 142a (quoting Cullen v.
+Pinholster, 563 U.S. 170, 181 (2011)). In footnote 20 of the panel’s unpublished
+opinion, this Court held that Martinez is limited to defaulted IAC claims and simply
+does not apply in the situation where a post-conviction counsel has pleaded the IAC
+21
+
+claim:
+Martinez applies only in the context of overcoming defaulted ineffective-
+assistance-of-trial-counsel claims. Hamm’s mitigation-related trial-
+counsel claim was not defaulted and was considered on the merits in
+state court; accordingly, collateral counsel’s ineffective assistance is
+irrelevant to that claim. Moreover, an unfavorable evidentiary ruling,
+while in some sense “procedural,” is not a “procedurally defaulted”
+constitutional claim that can be overcome by cause and prejudice. And
+finally, to the extent that Hamm is raising an independent claim for
+ineffective assistance of his collateral counsel as a basis for habeas
+relief, such a claim is not cognizable. See Martinez, 132 S. Ct. at 1320.
+Hamm v. Commissioner, App. at 143a.
+The Eleventh Circuit’s opinion creates an illogical situation that runs
+contrary to Martinez: a capital defendant is now better off having a worse post-
+conviction attorney. If he has an attorney who entirely fails to raise an IAC claim,
+he is entitled to federal review on the merits; but if he has a marginally less bad
+attorney who raises the claim but then does little to prove it, he is entitled to no
+federal review. This is a legal anomaly.
+C. The Eleventh Circuit’s Holding is Contrary to the Considered
+Holdings of Other Circuit Courts of Appeals and the views of
+Two Justices of this Court, in a Confused Area of Law
+The whole basis of Martinez is the exercise of equitable discretion by the
+federal courts as to how much their independent review will be truncated by flawed
+state court proceedings. The equities in this death penalty case are exceptionally
+strong: the effect of the error was to leave a claim that had strong support with
+essentially none, thereby distorting the federal court’s consideration of the issue.
+Justices Breyer and Sotomayor have already indicated their belief that this
+22
+
+issue calls for full consideration. As Justice Breyer wrote, in a statement joined by
+Justice Sotomayor to the denial of cert in Gallow v. Cooper, 133 S.Ct. 2730, 2731
+(2013), “A claim without any evidence to support it might as well be no claim at all.”
+Justice Breyer continued:
+In such circumstances, where state habeas counsel deficiently neglects
+to bring forward “any admissible evidence” to support a substantial
+claim of ineffective assistance of trial counsel, there seems to me to be a
+strong argument that the state habeas counsel's ineffective assistance
+results in a procedural default of that claim. The ineffective assistance
+of state habeas counsel might provide cause to excuse the default of the
+claim, thereby allowing the federal habeas court to consider the full
+contours of Gallow's ineffective-assistance claim. For that reason, the
+Fifth Circuit should not necessarily have found that it could not
+consider the affidavit and testimony supporting Gallow's claim because
+of Cullen v. Pinholster, 563 U.S. 170 (2011).”
+Id.
+Gallow involved a failure to present evidence on the ineffectiveness claim.
+The failure to present Dr. Watson’s testimony here similarly undermined the
+nature of the claim. Dr. Watson’s affidavit and testimony were the key to
+understanding the mountain of other mitigating evidence that Mr. Hamm
+presented. Without Dr. Watson’s evidence, the other evidence shows an extremely
+difficult upbringing and poor performance in school; however, with the mental
+health evidence, these voluminous records show a serious and severe biological
+impairment that connects the dots between the difficult upbringing, the school
+records and the mitigation of criminal responsibility in this case. Had Pamela Nail
+called Dr. Watson and examined his evidence, she would have shown that effective
+counsel would have presented a mitigation case that bore “no relation to the few
+23
+
+naked pleas for mercy actually put before the jury.” Rompilla v. Beard, 545 U.S.
+374, 393 (2005).
+Gallow expresses serious concern that incompetent post-conviction counsel
+can prevent courts from considering the “full contours” of a claim: the failure here
+falls into that category. Gallow, 133 S.Ct. at 2731. Because the full scope of Mr.
+Hamm’s claim has been precluded due solely to the incompetence of post-conviction
+counsel, Martinez should apply as a way to cure the default.
+This Court already has a line of jurisprudence available to address this
+problem that it should draw on to clarify the application of Martinez v. Ryan in this
+context. In Vasquez v. Hillery, 474 U.S. 254 (1986), this Court established that the
+test for whether new evidence creates a “new claim” for exhaustion purposes, and
+thus makes the “new claim” procedurally defaulted, was whether the new evidence
+“fundamentally alter[ed]” the claim presented to the state courts so as to justify
+requiring the habeas petitioner to return to state court. 474 U.S. at 260. Dr.
+Watson’s evidence meets the Vasquez standard, and the Eleventh Circuit should
+have so held.
+Every other Circuit to consider the application of Martinez in a published
+opinion has noted that the principles of Vasquez apply to Martinez. While the
+Eleventh Circuit below simply held the claim defaulted without expressly
+considering whether Dr. Watson’s evidence fundamentally altered the claim, the
+Ninth Circuit, in almost identical factual circumstances, found that introducing
+new evidence from a psychologist for an ineffective assistance claim that previously
+24
+
+had no such support fundamentally altered the claim. Dickens v. Ryan, 740 F.3d
+1302, 1317-18 (9th Cir. 2014). Specifically, it held that the standard for
+“‘fundamental alteration” was merely whether the new evidence placed the claim in
+a “significantly different and stronger evidentiary posture than it was when the
+state courts considered it.’” 740 F.3d at 1318 (quoting Aiken v. Spalding, 841 F.2d
+881, 883 (9th Cir. 1988)). Other circuits appear to apply a much more stringent
+definition of fundamental alteration. See Gray v. Zook, 806 F.3d 783 (4th Cir. 2015).
+In the unpublished opinion below in Gallow, the Fifth Circuit failed to consider the
+fundamental alteration question, similarly to the Eleventh Circuit here. Gallow v.
+Cooper, 505 F. App’x 285, 291 (5th Cir. 2012). Regardless, although Mr. Hamm
+argued below that Martinez should establish cause for the partial preclusion of his
+claim below, the Eleventh Circuit either failed to consider whether the
+“fundamental alteration” standard was met, or sub silentio held that it did not.
+This Court should also take this case to clarify the relationship between the
+prejudice standard for ineffective assistance of counsel required to have a Martinez
+claim at all and the “fundamental alteration” standard in Vasquez. There is
+apparently a circuit split between this case, Dickens, and Gray regarding exactly
+how much evidence is required to fundamentally alter a claim. But in order for a
+habeas petitioner to be entitled to Martinez relief at all, he must show that his
+collateral review counsel commmitted errors that lead to a reasonable probability
+that the outcome would be different. See Martinez v. Ryan, 132 S.Ct. at 1318
+(adopting standard from Strickland v. Washington, 466 U.S. 668 (1984)). Because of
+25
+
+the divergent views on the fundamental alteration standard throughout the
+circuits, substantial confusion exists on the application of Martinez to cases where
+the ineffective assistance of trial counsel claim had incomplete evidentiary support.
+The net result of that split is that there may be cases where inadequate collateral
+counsel failing to introduce evidence turns a winning claim into a losing one, but
+the claim is nonetheless precluded for lack of fundamental alteration even in
+circuits that apply Vasquez.
+The best course this Court could take would be simply to eliminate the
+disparity between claims that were not pleaded at all and claims that were pled but
+evidentarily hindered by inadequate post-conviction counsel, for the purposes of
+Martinez. Under the Ninth Circuit’s test, in order for there to be a reasonable
+probability that the outcome would have been different (Strickland), it would seem
+to be a necessary condition that the new evidence offered on federal habeas puts the
+claim in a substantially stronger evidentiary posture than it was when the state
+courts considered the claim (Dickens/Aiken). By contrast, other circuits appear to
+place a far higher bar for fundamental alteration, one that continues to place
+petitioners who had marginally better counsel in a far worse position for Martinez
+purposes, even where the precluded evidence would have been reasonably likely to
+have changed the outcome. The Martinez inquiry would be made substantially
+easier by simply applying Strickland’s prejudice inquiry in a straightforward
+manner—if incompetent performance of collateral counsel hindered the
+consideration of a substantial claim of ineffective assistance of trial counsel through
+26
+
+failing to introduce important evidence, and there is a reasonable probability that
+the result would have been different with effective performance, then the federal
+court can consider the claim under Martinez.
+Regardless, this Court should clear up exactly what “fundamental alteration”
+means in the Martinez context, and whether that standard materially differs in
+some way from Strickland’s prejudice inquiry. Moreover, the Eleventh Circuit’s
+reasoning should not be allowed to stand in this death penalty case. The claims of
+ineffectiveness with respect to both trial and collateral counsel are substantial, and
+the key piece of evidence supporting his ineffective assistance of trial counsel claim
+was precluded. To let a man go to his death without any court even considering the
+key piece of evidence tying together the mitigation case that trial counsel should
+have put on, or without even considering whether the evidence substantially altered
+the claim put in front of the state courts, is unacceptable.
+III. Johnson v. Mississippi Requires that a Capital Defendant Be
+Allowed to Test a Prior Conviction in Federal Habeas Corpus
+in the Limited Situation Where the Lackawanna v. Coss
+Procedures Are Not Available
+In separate habeas corpus litigation in Tennessee and the Sixth Circuit, Mr.
+Hamm followed, to the word, the Lackawanna County District Attorney v. Coss
+procedures applicable to non-capital cases in order to challenge the invalid prior
+Tennessee convictions from 1978. 532 U.S. 394 (2001). Mr. Hamm (1) filed a habeas
+petition in the state of Tennessee on multiple grounds (actual innocence, ineffective
+27
+
+assistance of counsel, involuntariness, among others), (2) appealed the denial of the
+petition to the Tennessee Court of Criminal Appeals, and (3) petitioned and was
+denied permission to appeal to the Tennessee Supreme Court, see Hamm v.
+Tennessee, 1997 WL 59435 (Tenn. Crim. App. Feb. 12, 1997). Mr. Hamm then (4)
+filed a federal habeas corpus petition under 28 U.S.C. § 2254 in the U.S. District
+Court for the Middle District of Tennessee (No. 98-00075); (5) upon denial, sought a
+Certificate of Appealability at the U.S. Court of Appeals for the Sixth Circuit (No.
+98-6444); and (6) filed a petition for writ of certiorari with this Court (No. 98-9859).
+At every step of the way, Mr. Hamm was held procedurally barred from challenging
+his prior Tennessee convictions because of the new, two-year statute of limitations
+4
+in the Tennessee habeas procedures.
+In the limited situation of this death penalty case, in which the federal
+habeas corpus petitioner has meticulously followed the procedural mechanism set
+forth in Lackawanna v. Coss but has been procedurally barred at every step from
+obtaining ancillary collateral review of a prior conviction from another state,
+Johnson v. Mississippi and the Eight Amendment requirement of heightened care
+in death penalty cases require that the petitioner be allowed to challenge his prior
+conviction in the death penalty habeas corpus proceedings.
+Johnson v. Mississippi is the only Supreme Court capital case to address
+these matters and it squarely held that reliance on an invalid conviction used as a
+4 Had trial counsel pursued these challenges in 1987, there would have been no timeliness bar because
+the statute of limitations had not yet run.
+28
+
+capital aggravator was unconstitutional, rejecting the claim of Mississippi courts
+that they need not take this fact into account. As the Supreme Court declared in
+Johnson, 486 U.S. at 586-87, a rule that would allow such limited review where
+other avenues are not open “is not even arguably arbitrary or capricious […]. To the
+contrary, especially in the context of capital sentencing, it reduces the risk that
+such a sentence will be imposed arbitrarily.”
+In this case, the jury heard more aggravation than it should have, in the form
+of Tennessee convictions that were both legally and factually invalid, and also
+heard far less mitigation than it should have as a result of a lack of proper
+investigation. Because trial counsel did not investigate the prior convictions or
+challenge them directly, Mr. Hamm was effectively hindered from doing so until
+post-conviction. At that point, Mr. Hamm had no recourse to challenge the prior
+convictions except in his death penalty post-conviction proceedings. This Court
+should therefore distinguish Coss in the limited context of capital cases where there
+are no other avenues open to challenge a prior conviction.
+The failure to allow a death row inmate any avenue to challenge a prior
+criminal conviction that is used as an aggravating circumstance would run counter
+to Johnson and extend the non-capital Coss case too broadly into the special,
+limited circumstances of this type of capital case.
+IV. The Eleventh Circuit Undermined the Critical Fact-finding
+Function of the Sentencing Jury in Alabama in Violation of
+Ring v. Arizona and Hurst v. Florida.
+This Court should grant, vacate, and remand this case in light of Hurst v.
+29
+
+Florida, 136 S.Ct. 616 (2016). The Eleventh Circuit recognized that the sentencing
+jury was improperly presented with documents showing that Mr. Hamm was
+charged with “armed robbery” when in fact he was only convicted of simple robbery;
+however, the claim of ineffectiveness has been denied because the trial court’s
+sentencing order did not rely “upon the ‘armed robbery’ language in any way.”
+Hamm v. Commissioner, App. at 123a. The Eleventh Circuit recognized the holding
+that “Hamm was not prejudiced because the sentencing court considered the simple
+robbery convictions only in its sentencing order.” Id.
+In effect, the Eleventh Circuit’s opinion suggests that the jury’s consideration
+of evidence at capital sentencing and findings of aggravation do not matter. This is
+precisely the type of undermining of the fact-finding function of the jury that
+violates Hurst and Ring v. Arizona, 536 U.S. 584, 597 (2002). In the State of
+Alabama, the jury plays a critical fact-finding function in capital sentencing. In
+Beck v. Alabama, 447 U.S. 625, 646 (1980), the Supreme Court specifically referred
+to the jury’s determination as “the jury’s fact-finding function.” The Supreme Court
+added:
+[I]t is manifest that the jury’s verdict must have a tendency to motivate
+the judge to impose the same sentence that the jury did. Indeed,
+according to statistics submitted by the State’s Attorney General, it is
+fair to infer that the jury verdict will ordinarily be followed by the judge
+even though he must hold a separate hearing in aggravation and
+mitigation before he imposes sentence. Under these circumstances, we
+are unwilling to presume that a post-trial hearing will always correct
+whatever mistakes have occurred in the performance of the jury’s
+factfinding function.
+Id. at 645-46.
+30
+
+The Alabama Supreme Court has been equally emphatic: “Under Alabama
+law, the jury plays an essential role in the capital-sentencing process.” Ex parte
+Stephens, 982 So.2d 1148, 1151 (Ala. 2006). In its various opinions, the Alabama
+Supreme Court has, in its own words, “stressed the importance of the statutory
+right to a fair advisory verdict by the jury,” id. at 1152, to the point that the
+Alabama Supreme Court applies the harmless error doctrine in relation to penalty-
+phase jury issues “with extreme caution.” Id. at 1153 (quoting Ex parte Whisenhant,
+482 So.2d 1247, 1249 (Ala. 1984)).
+This Court recently decided a similar question in Hurst, stating clearly that
+courts cannot disregard the jury’s fact-finding function under the constitutional
+strictures of the Sixth, Eighth and Fourteenth Amendments. In a similar manner,
+in Mr. Hamm’s case, the sentencing jury was so misled as to Mr. Hamm’s
+culpability that the jury’s role was essentially abrogated. As three justices of this
+Court indicated in Brooks v. Alabama, 136 S.Ct. 708 (2016), the issue of how Hurst
+applies to Alabama is open. This Court should grant an order vacating and
+remanding to the Eleventh Circuit in light of this Court’s decision in Hurst.
+This Court may also wish to hold this case in light of the fact that the
+Alabama Death Penalty has recently been held to be unconstitutional under Hurst
+and on other grounds. In Alabama v. Billups, No. CC-2005-001195.00 (Jefferson
+Cty. Cir. Ct. Mar. 3, 2016) available at http://www.eji.org/files/Judge%20
+Todd's%20order%20striking%20down%20death%20penalty%203-3-16_0.pdf, the
+state court held that the Alabama Death Penalty is unconstitutional, on Hurst and
+31
+
+other grounds. While the state has appealed, the fact remains that the death
+penalty has been declared unconstitutional. Nor is this holding unexpected—the
+Alabama death penalty provisions are largely based on Florida’s system. And under
+Alabama law, the judge can make findings of aggravating circumstances even if the
+jury has not so found, a classic Hurst violation.
+Under Ala. Code § 13A-5-59, if the provisions of the Alabama Death Penalty
+are declared unconstitutional and cannot be reinterpreted to be constitutional, “the
+defendants who have been sentenced to death under this article shall be re-
+sentenced to life imprisonment without parole.” There is at least a strong likelihood
+that the death penalty will be so declared—a state court recently did. Because this
+Court has generally attempted to avoid deciding difficult constitutional questions in
+the absence of a necessity to do so, see, e.g., United States v. Resendiz-Ponce, 549
+U.S. 102, 104 (2007), and Mr. Hamm will have a strong claim for resentencing
+under § 13A-5-59 that would need to be presented in state court if the Alabama
+Courts or this Court declares the Alabama Death Penalty unconstitutional under
+Hurst, a claim which was previously unavailable, this Court may wish to hold this
+case on its docket until the state courts or this Court finally determine whether
+Alabama’s death penalty is constitutional under Hurst, and if not, whether Mr.
+Hamm has a claim under § 13A-5-59.
+32
+
+CONCLUSION
+For the foregoing reasons, Mr. Doyle Hamm prays that this Court grant a
+writ of certiorari to the United States Court of Appeals for the Eleventh Circuit.
+Respectfully submitted,
+BERNARD E. HARCOURT
+Counsel of Record
+COLUMBIA LAW SCHOOL
+435 West 116th St.
+New York, New York 10027
+Phone: (212) 854-1997
+E-mail: beh2139@columbia.edu
+33
+
+CERTIFICATE OF SERVICE
+I, Bernard E. Harcourt, hereby declare that on March 24, 2016, I served this
+Petition for Writ of Certiorari, including the appendix, on the Respondent by U.S.
+Priority Mail with postage prepaid, addressed as follows:
+Beth Jackson Hughes
+Assistant Attorney General
+501 Washington Ave.
+Montgomery, AL 36104
+Respectfully submitted,
+BERNARD E. HARCOURT
+Counsel of Record
+COLUMBIA LAW SCHOOL
+435 West 116th St.
+New York, New York 10027
+Phone: (212) 854-1997
+E-mail: beh2139@columbia.edu
+34

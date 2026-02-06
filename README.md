@@ -6,38 +6,65 @@
 
 ---
 
+## 🤖 AI Agent Quick Start
+
+**This workspace is pre-configured for AI agents.** When you start a new conversation in VS Code with GitHub Copilot, Claude Code, or Kilo Code, the agent automatically knows how to work with this codebase.
+
+### Supported Commands
+
+Just say any of these:
+- `"prep for CrimLaw class 3"` — Creates text + audio prep docs
+- `"create review for Property class 2"` — Creates post-class review
+- `"update CrimLaw outline"` — Integrates review into outline
+- `"prewrite self-defense doctrine"` — Creates exam-ready prewrite
+
+### How It Works
+
+Each AI agent auto-loads its instruction file:
+
+| Agent | Auto-loaded File |
+|-------|------------------|
+| GitHub Copilot | [.github/copilot-instructions.md](.github/copilot-instructions.md) |
+| Claude Code | [CLAUDE.md](CLAUDE.md) |
+| Kilo Code | [.kilocode/rules/law-school-agent-rules.md](.kilocode/rules/law-school-agent-rules.md) |
+| Generic | [AGENTS.md](AGENTS.md) |
+
+### For AI Agents Reading This
+
+**Start here:** Read [law-school-common/00_SYSTEM/COMMAND_INTERFACE.md](law-school-common/00_SYSTEM/COMMAND_INTERFACE.md) for all commands and procedures.
+
+---
+
 ## 📁 Repository Structure
 
 ```
 law-school/
-├── .git/                    ← Git repository root
-├── .gitignore              ← Excludes PDFs, binaries, system files
+├── .github/                ← GitHub Copilot instructions
+├── .kilocode/              ← Kilo Code instructions  
+├── AGENTS.md               ← Universal agent instructions
+├── CLAUDE.md               ← Claude Code instructions
 │
 ├── law-school-common/      ← Shared templates, scripts, and guides
-│   ├── .git/               ← Separate GitHub repo (git submodule candidate)
-│   ├── TEMPLATES/          ← Reusable document templates
-│   ├── scripts/            ← Automation scripts
-│   ├── OPTIMIZATION_QUEUE.md
-│   └── _MASTER_STRUCTURE.md
+│   ├── 00_SYSTEM/          ← AI rules, commands, folder spec
+│   ├── 01_WORKFLOWS/       ← Step-by-step workflows
+│   ├── 02_STYLE_GUIDES/    ← Writing standards
+│   └── 03_TEMPLATES/       ← All templates
 │
 ├── ACTIVE/                 ← Current semester courses (2026 Spring)
-│   ├── CrimLaw/           ← Move here: law-school-CrimLaw/
-│   ├── Property/          ← Move here: law-school-Property/
-│   ├── Torts/             ← Move here: law-school-Torts/
-│   ├── Deals/             ← Move here: law-school-Deals/
-│   └── LPW-II/            ← Move here: law-school-LPW-II/
+│   ├── CrimLaw/
+│   ├── Property/
+│   ├── Torts/
+│   ├── Deals/
+│   └── LPW-II/
 │
-├── ARCHIVE/                ← Completed courses (still searchable!)
-│   ├── 2025-fall/
-│   │   ├── Contracts/
-│   │   ├── CivPro/
-│   │   └── ConLaw/
-│   └── 2025-spring/
-│       └── LPW-I/
+├── Archive/                ← Completed courses (still searchable!)
+│   ├── law-school-civpro/
+│   ├── law-school-conlaw/
+│   ├── law-school-contracts/
+│   └── law-school-lpw-1/
 │
 ├── SHARED/                 ← Cross-course resources
-│   ├── LEGAL_RULES_LIBRARY/  ← Atomic legal doctrines
-│   └── README.md
+│   └── LEGAL_RULES_LIBRARY/  ← Atomic legal doctrines
 │
 ├── Career misc/            ← Career development
 ├── Private Sector Application/

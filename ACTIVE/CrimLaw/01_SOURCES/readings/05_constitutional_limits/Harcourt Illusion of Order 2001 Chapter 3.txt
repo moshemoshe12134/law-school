@@ -1,0 +1,1020 @@
+BERNARD E. HARCOURT
+
+Illusion of Order
+
+The False Promise of
+Broken Windows Policing
+
+HARVARD UNIVERSITY PRESS
+Cambridge, Massachusetts, and London, England
+
+2001
+
+
+58 + EMPIRICAL CRITIQUE
+
+theoretical discussion of order maintenance on its proper empirical
+footing. The fact is that the order-maintenance approach does gener-
+ate a number of significant empirical questions. Is it true that order.
+maintenance policing reduces the level of serious criminal activity ina
+neighborhood? If it does reduce serious crime, is it really the s0tial
+meaning of order, and not some other feature of order-maintenance
+policing, that causes the decline in crime? Is there any evidence that
+anti-gang loitering ordinances or juvenile snitching policies reduce
+criminal gang activity or juvenile gun possession? These are important
+issues that raise both em pirical and methodological questions. It is fair
+and appropriate to ask at this point exactly how much evidence sup-
+ports the order maintenance approach. I turn first, in Chapter 3
+to an empirical assessment of the social-scientific evidence cuppatt:
+ing the broken windows theory. I then review, in Chapter 4, the evi-
+dence concerning specific police initiatives, including New York City’s
+quality-of-life initiative, Chicago's anti-gang loitering ordinance, and
+Charleston’s juvenile snitching program. I also assess there the empiri-
+cal evidence from a larger methodological perspective.
+
+i
+f
+;
+
+CHAPTER 3
+
+The Broken Windows Theory
+
+Order maintenance advocates generally refer to two social science
+studies to support the broken windows theory. The first is Wesley
+Skogan’s 1990 Disorder and Decline: Crime and the Spiral of Decay in Amert-
+can Neighborhoods. The second is a 1988 study by Robert Sampson and
+Jacqueline Cohen titled “Deterrent Effect of the Police on Crime: A
+Replication and Theoretical Extension.” In this chapter I review and
+assess these two studies and then turn to a more recent study on the
+disorder-crime nexus, Robert Sampson and Stephen Raudenbush’s
+
+“Systematic Social Observation of Public Spaces: A New Look at Disor-
+
+der in Urban Neighborhoods” (1999).
+
+Replicating Skogan’s 1990 Study
+
+Working with Wesley Skogan’s data, which are available through the
+Inter-University Consortium for Political and Social Research at the
+University of Michigan (Skogan 1988), I was able to assess his data
+and replicate his analysis. The discussion of the replication is some-
+what technical, and in order to facilitate the transition to statistics,
+I will begin by summarizing in lay terms the thrust of my assessment
+of Skogan’s study, before turning in more detail to the regression anal-
+ysis.
+
+The portion of Wesley Skogan’s study that is of particular interest to
+the broken windows debate is his discussion of the relationship be-
+
+tween neighborhood disorder and crime victimization. To get at that
+
+59
+
+
+60 + EMPIRICAL CRITIQUE
+
+relationship, Skogan explored whether neighborhoods that were per-
+ceived as disorderly by residents also suffered from high levels of crimi-
+nal activity. The idea was to see if there was a statistical connection be-
+tween the level of disorder in a neighborhood and the amount of
+crime in that same neighborhood. To measure disorder, Skogan relied
+on surveys that asked neighborhood residents whether they thought
+that certain physical and social disorders—such as litter or vandal-
+ism—were a problem in their neighborhoods. To measure crime,
+Skogan relied on surveys that asked neighborhood residents whether
+they had been the victim of different types of crime—burglary, rob-
+bery, rape, assault, and purse-snatching. Overall, Skogan found that
+there was a strong connection between residents’ perceptions of
+neighborhood disorder and their robbery victimization, even when he
+took account of the level of poverty and stability in the neighborhood
+and the race of the residents. He concluded from this finding that dis-
+order played an important role in neighborhood crime and urban de-
+cline.
+
+Ihave a number of reservations about the data and about the design
+of Skogan’s study. As a preliminary matter, Skogan’s data are weak.
+Skogan patched together his data from five separate studies that were
+not entirely consistent, and as a result the study is missing a large
+amount of information. Robbery victimization is available in only
+thirty neighborhoods, and the disorder information is missing on aver-
+age 30 to 40 percent of the time. The first point, then, is that the data
+are not reliable.
+
+But even more troubling is the fact that Skogan failed to disclose
+that there is no real connection between disorder and crime with re-
+gard to the other four crime variables in his study. Skogan focused on
+robbery victimization—where he found a connection with disorder—
+but failed to reveal that there is no similar connection between disor-
+der and burglary, rape, physical assault, or purse-snatching victimiza-
+tion. In other words, in four out of five tests, there is no real connec-
+tion between disorder and crime. Moreover, on close analysis, it turns
+out that the one place where there is a connection—the disorder-rob-
+bery nexus—is itself questionable. First, the survey question that was
+posed to neighborhood residents about robbery victimization was not
+neighborhood specific. In other words, the question did not specify
+that the robbery victimization had to occur in the neighborhood in
+
+question, so as a result, it may have occurred in another neighbor-
+
+The Broken Windows Theory + 61
+
+hood. Second, and more important, there is a set of five neighbor-
+hoods in Newark that exert excessive influence on Skogan’s findings.
+When we take away those Newark neighborhoods, the tenuous con-
+nection to robbery disappears.
+
+As a result, Skogan’s study does not support the broken windows hy-
+pothesis. In four out of five tests, there is no real connection between
+disorder and various crimes. In the only test where there is a connec-
+tion, the nexus is itself highly questionable. It is fair to conclude that
+Skogan’s study does not prove a connection between disorder and
+crime in general. As I suggested earlier, the details of this analysis are
+somewhat technical in nature. I summarize this discussion at the end
+of this chapter, as well as at the beginning of Part II, for those readers
+who may wish to move ahead to the discussion of New York City’s qual-
+
+ity-of-life initiative in Chapter 4 or to social theory in Chapter 5.
+
+Skogan’s Method and Findings
+
+On the basis of data collected in five separate studies between 1977
+and 1983, Skogan found, inter alia, that neighborhood disorder had a
+statistically significant relationship with the level of robbery victimiza-
+tion. This finding is only one piece of a much larger work on disorder
+and urban decline. With regard to crime, Skogan discusses and verifies
+several other hypotheses, for instance, that there is a link between dis-
+order and fear of crime victimization,' as well as a link between disor-
+der and perception of crime problems.? But I will treat exclusively the
+disorder-crime nexus, since this is the finding that relates most directly
+to and, according to proponents, empirically establishes the broken
+windows theory. ;
+
+Skogan’s data come from five previously existing studies, which he
+aggregates and merges to produce neighborhood-level data of disor-
+der, crime rates, and socioeconomic factors (Skogan 1987:8). The five
+existing data sets consist of thirteen thousand personal and telephone
+interviews conducted between 1977 and 1983 (1987:6, 97). The re-
+spondents were residents of forty different neighborhoods in six cities:
+Chicago, Newark, Houston, Philadelphia, San Francisco, and Atlanta.
+Random-digit dialing was used to select respondents for the telephone
+interviews, and random selection from address lists for the personal in-
+terviews (1987:99 fig. 25: 1990:190). ;
+
+Skogan performs two analyses to assess the disorder-crime nexus.
+
+
+62 + EMPIRICAL CRITIQUE
+
+First, he regresses the rate of robbery victimization on the level of dis-
+order. Second, he regresses the rate of robbery victimization on the
+level of disorder taking into account the level of poverty, residential
+stability, and the racial composition of the neighborhoods.
+
+The Disorder-Robbery Regression A nalysis
+
+With regard to the simple regression of robbery victimization on the
+level of disorder, Skogan finds that “levels of crime victimization were
+strongly related (+.80) to levels of disorder in the 30 areas for which
+robbery victimization was measured” (1987:53; 1990:73). He does not
+report his coefficients, but does include a graph showing the regres-
+sion line running through the observations on a scatter plot: xaxis
+level of disorder, y-axis percent victims of robbery (1990:74 fig. 4-2).
+The scatter plot indicates a positive relationship between disorder and
+robbery victimization.
+
+The Other-Explanatory-Variables A nalysis
+
+Skogan then conducts further analysis to take into account the effect
+of neighborhood poverty, stability, and race. The measures of poverty
+and stability are indices composed of weighted factors such as average
+length of residence, percentage of rental dwellings, and percentage
+of incomes over $20,000 (1987:22 fig. 4; 1990:192 table A-3-1). Race
+is measured by the variable corresponding to respondents’ answers
+about their race, and reflects the percentage of minorities in the com-
+munity (1987:25-19; 1988:14). Skogan finds that the correlation be-
+tween robbery victimization and disorder remains high (+.54) even
+when these three other explanatory variables are taken into account
+(1987:53; 1990:73-74).
+
+Skogan’s Conclusion
+
+Skogan prefaces his findings with a significant caveat. In effect, he be-
+gins by saying that the data do little to illuminate the causal relation-
+ship:
+
+Ironically, the data from the 40 neighborhoods cannot shed a great
+deal of light on the details of the relationship between disorder and
+crime, for the measures all go together very strongly. With only 40 cases
+to untangle this web, the high correlation between measures of victim-
+
+ization, ratings of crime problems, and disorder make it difficult to tell
+
+meet tenn ntti
+
+The Broken Windows Theory + 63
+
+whether they have either separate “causes” or separate “effects” at the
+
+area level. (1990:73; see also Skogan 1987:49)
+
+Nevertheless, in response to the broad question “Does disorder cause
+crime?” Skogan ultimately concludes: “These data support the propo-
+sition that disorder needs to be taken seriously in research on neigh-
+borhood crime, and that both directly and through crime it plays an
+important role in neighborhood decline. ‘Broken windows’ do need
+to be repaired quickly” (1990:75; see also Skogan 1987:53).
+
+Despite his initial caveat, then, Skogan asserts that there is a causal
+relationship between levels of neighborhood disorder and rates of
+
+crime, and so concludes:
+
+The evidence suggests that poverty, instability, and the racial composi-
+tion of neighborhoods are strongly linked to area crime, but a substan-
+ual portion of that linkage is through disorder: their link to area crime
+virtually disappears when disorder is brought into the picture. This too
+is consistent with Wilson and Kelling’s original proposition, and fur-
+ther evidence that direct action against disorder could have substantial
+payoffs. (1990:75)
+
+Not surprisingly, Skogan’s study has been consistently interpreted by
+broken windows proponents as establishing the disorder-crime nexus.
+
+Skogan’s Findings: A Replication
+
+Before turning to a critique of Skogan’s study, I will first set forth his
+findings in greater detail. In order to do this, it is necessary to repli-
+cate the study because Skogan does not provide most of the quantities
+of interest in either the more technical Final Report or in his book Dis-
+order and Decline (1987:52-53; 1990:73-75).
+
+The Disorder-Robbery Regression
+
+Although Skogan does not share his regression coefficients or stan-
+dard errors, it is possible to estimate them by replication and verify
+them by comparing the scatter plot that he published in Disorder and
+Decline (1990:74 fig. 4-2) with the one that I obtain using his data.
+The scatter plot that I obtain is, in all pertinent respects, identical to
+Skogan’s.* The replicated graph is shown in Figure 3.1.
+
+Given that the scatter plots are identical, | am comfortable using
+
+
+
+64 + EMPIRICAL CRITIQUE
+
+0.085
+NN
+0.065
+0.0444
+0.024
+0.005 A
+T _ T OT ——T T 7
+1.00 1.20 1.40 1.60 1.80 2.00 2.20
+
+Level of disorder
+
+Figure 3.1 Replication of Skogan’s figure 4-2
+
+my replication to estimate the coefficients and standard errors of
+Skogan’s analysis. What the regression reveals is that, for every one-
+unit increase in the level of disorder (where, as I discuss later, a unit is
+one of three unit measures of the level of disorder felt by the respon-
+dents), the proportion of victims of robbery in the neighborhood can
+be expected to increase by 0.05 (5 percent) on average, with a stan-
+dard error of plus or minus 0.007. The 95 percent confidence interval
+has, as a result, a small range, with a lower bound of 0.036 and an up-
+per bound of 0.066. The p-value (which is the probability of observing
+a tstatistic of 6.953, assuming that the null hypothesis is ue) is ex-
+tremely small in this case—less than 0.001—which means that it is ex-
+tremely unlikely that there is no statistical relationship. As a result, we
+can conclude that there is a near-zero probability that an estimate of
+0.05 could have arisen by chance alone if there truly were no linear re-
+lationship between Skogan’s variables for disorder and crime.*
+
+The Other-Explanatory- Variables Analysis
+Skogan’s second analysis takes account of the level of poverty, stability,
+and racial composition of the neighborhoods. In this case, Skogan did
+
+publish his coefficients and levels of significance, and I have been able
+
+The Broken Windows Theory + 65
+
+to reproduce them substantially (1990:193 table A-4-1). A compai 1
+son of Skogan’s and my results is given in Table 3.1.
+
+Skogan interprets his results as follows: “The correlation between re-
+sidual values for robbery victimization and disorder, once the effects of
+poverty, stability, and racial composition had been removed statistically
+from each, was still high (+.54)” (1990:73). He concludes that “ignor-
+ing these demographic factors, there still was quite a strong tendency
+for crime and disorder to ‘go together’” (1990:74; see also 1987:53).
+
+The replication confirms that Skogan’s disorder index remains sta-
+tistically significant when multiple regression is conducted with his in-
+dices for poverty, stability, and race. The replicated regression indi-
+cates that, if we hold those three other variables constant, for every
+one-unit increase in the level of disorder, the proportion of victims of
+robbery in the neighborhood can be expected to increase by 0.038 on
+average (3.8 percent), with a standard error of plus or minus 0.012.
+The 95 percent confidence interval has, as a result, a small range, with
+a lower bound of 0.014 and an upper bound of 0.062.
+
+Problems with the Data and Certain Design Decisions
+
+Certain problems with the data and some design decisions undermine
+my confidence in Skogan’s findings and conclusions. I begin with the
+
+issue of missing values.
+
+Missing Values
+A number of the underlying surveys are missing values for most of the
+important variables relating to the disorder-crime nexus. For instance,
+
+Table 3.1: Replication of Skogan’s table A-4-1
+
+Robbery victimization
+
+Skogan Replication
+Standardized Standardized
+Measure coefficient Significance Coefficient coefficient Significance
+Poverty score 05 .78 .00 04 .78
+Stability score —.04 82 00 —.04 AQ
+Percent minority 23 .20 01 128 AQ
+Disorder 58 008 OF .60 004
+
+
+
+66 + EMPIRICAL CRITIQUE
+
+the 1981 study by Skogan and Michael Maxfield—which is the only
+study that covers neighborhoods in Philadelphia and San Francisco—
+does not have any values for noise, litter, wash, gangs, public drinking,
+
+and insults, which are among the main variables in Skogan’s index of
+
+physical and social disorder (Skogan 1987:18). With a few rare excep-
+tions, missing values actually plague all of the studies and all of the rel-
+evant variables to different degrees, as evidenced in Table 3.2. As this
+table reflects, the data are missing values, on average, for between 30
+and 40 percent of the variables, which is a high percentage given the
+small sample size (forty neighborhoods in all).
+
+The more traditional way of dealing with this problem of missing
+values would be to disregard completely the neighborhoods for which
+values are missing But that is not possible with this data set. In the
+case of Skogan’s indices of physical and social disorder, it is impossible
+because there is not one single neighborhood that has all the values
+for the relevant variables. As a result, Skogan does not disregard any
+neighborhood, but rather constructs his indices “by summing the
+
+Table 3.2 Missing values in Skogan’s data set
+
+Physical disorder
+
+Abandoned buildings
+
+Noise or vehicles Litter Trash Total
+No. missing 20 0 24 16 60
+% missing 50 0 60 40 37.5
+Social disorder
+Public
+Loitering Drugs Vandalism Gangs drinking Insults Total
+No. missing 8 6 24 24 24 10 96
+% missing 20 15 60 60 60 25 40
+Crime victimization
+Purse-
+snatching Assault Burglary Robbery Rape Total
+No. missing 24 10 0 10 16 60
+% missing 60 25 0 25 40 30
+
+The Broken Windows Theory + 67
+
+component items which were available for each area and then dividing
+
+that sum by the number of available items” (1988:8: see also Skogan
+1987:108). In other words, Skogan simply averages the values that are
+available—which raises another problem discussed later. Aggregation,
+however, does not resolve the problem of missing values.
+
+It is equally difficult to disregard the observations where crime vic-
+timization data are missing because to do so would leave us with only
+sixteen neighborhoods—just 40 percent of our original smal] sample.
+This, however, is essentially what Skogan does with regard to victimiza-
+tion, using only the robbery victimization variable and therefore nar-
+rowing his study to only thirty available observations (Skogan 1990:73—
+75: see also Skogan 1987:50-53). The result is that, at least with regard
+to the disorder-crime nexus, Skogan’s is a study of a small sample of
+neighborhoods with many missing values of disorder.
+
+Selecting the Independent Variable
+
+The independent variable that Skogan employs is also problematic
+and may include, in my opinion, elements of the dependent variable.
+Skogan’s independent variable is called “disorder,” and he constructs
+it by averaging two multiitem scales, “social disorder” and “physical
+disorder” (Skogan 1988:7-8). These are both constructed by averag-
+ing the values of a number of variables, each of which corresponds to
+respondents’ answers (on a scale of 1 to 3) to a question assessing the
+extent to which a certain type of disorder is perceived by them as a
+problem in their neighborhood (Skogan 1988:6-8). The variables in-
+cluded in the two multi-item scales? are the following:
+
+Social disorder Physical disorder
+
+Loitering Noise
+
+Drug use and sale Abandoned buildings or vehicles
+Vandalism Litter
+
+Gang activity Trash in vacant lots
+
+Public drinking
+
+Insulting language
+
+So, for instance, in the case of the litter variable. respondents would
+have been asked to assess the extent to which “garbage or litter on the
+streets and sidewalks” is a problem in the neighborhood (Skogan
+1988:7). For all of these variables, the possible values range from |
+
+
+68 + EMPIRICAL CRITIQUE
+
+(“no problem”) to 2 (“some problem”) to 3 (“a big problem”)
+(1988:6). The two multi-item scales were constructed “by summing the
+component items which were available for each area and then dividing
+that sum by the number of available items” (1988:8).
+
+Using respondents’ assessment of drug trafficking or gang activity,
+however, presents a significant problem given that the dependent vari-
+able is supposed to be the level of seriows criminal activity. In this re-
+spect the analysis would be tautological, because some of these disor-
+derly activities—such as drug trafficking or certain gang activities—
+would be considered by
+
+respondents to be major crimes in themselves
+and are thus likely to trigger responses that assess the level of crime in
+the neighborhood.
+
+To be precise, the broken windows theory suggests that minor dis-
+order, both physical (in the sense of litter and broken windows) and
+social (in the sense of minor misdemeanor offenses) is causally re-
+lated to serious crime. Therefore, the independent variable (disorder)
+should not include—or should exclude as much as possible—serious
+criminal activity. Some degree of overlap is inevitable, given that the
+respondents may be thinking about criminal activity when they assess,
+for instance, the problem of abandoned buildings, which have be-
+come a symbol of the crack house. It is crucial, however, to reduce the
+overlap as thoroughly as possible. Accordingly, it would probably be
+best to eliminate drug trafficking and gang activity from the indepen-
+dent variable.
+
+A second problem with Skogan’s independent variable results from
+missing values. Creating the index by simply averaging the existing val-
+ues for the set of variables may produce bias. For instance, the mean
+for the noise variable is 1.3, while the mean for the public drinking
+variable is 1.8. As a result, neighborhoods for which there is no value
+for noise may end up having higher values for the disorder index than
+they would otherwise, whereas neighborhoods for which there is no
+value for public drinking may end up having lower values for the disor-
+der index than they would otherwise. This potential for bias could be
+resolved by standardizing the variables on their means.
+
+Third, Skogan excluded from his indices four measures of disorder
+that were available from the data. These were the variables “smut”
+
+(adult movies and bookstores); “prostitution”: “dogs” (“barking loudly
+
+or relieving themselves near your home”); and “garbage” (“[p]eople
+
+The Broken Windows Theory + 69
+
+not disposing of garbage properly or leaving litter around the area”)
+(Skogan 1988:6-7). He compiled these four variables under the head-
+ing “Measures of Disorder,” but did not include them in his index fox
+two reasons. With regard to the commercial sex variables, Skogan dis-
+covered that they were independent measures of disorder. He writes:
+
+At the individual level. reactions to these problems [prostitution and
+smut] formed a separate factor in every area in which they were in-
+cluded. A separate index of the extent of commercial sex problems was
+formed, but—as the status of the items as a separate factor hints—it was
+correlated only +.18 with the summary disorder measure and was not
+related to other neighborhood factors in the same fashion as either so-
+cial or physical disorder. ... As a result, this cluster of (very interesting)
+problems will not be considered in any detail in this report. (1987:19)
+
+In addition, Skogan suggests that the questions were asked in too few
+cases.
+Yet neither of these reasons for excluding the commercial sex vari-
+ables from the index of disorder is compelling. The fact that the com-
+mercial sex variables are independent of the other indices of disorder
+is not a reason to ignore those variables. The broken windows theory
+includes prostitution in its conception of disorder. In fact, the “Broken
+Windows” essay repeatedly refers to prostitutes and street prostitution.
+As we saw in Chapter 2, they are an integral part of the disorderly and
+of disorder. The fact that these “very interesting”—I would say fascinat-
+ing—findings about commercial sex are at odds with the broken win-
+dows theory is not a reason to discard the variables, particularly when
+one is testing the theory’s validity.© Moreover, the smut and prostitu-
+tion variables contain sixteen observations each, the same number as,
+for instance, litter, public drinking, or vandalism. The dogs and gar
+bage variables are missing only two more observations. I therefore
+
+would not exclude those variables.
+
+Selecting the Dependent Variable
+The biggest problem with Skogan’s design, however, concerns thE sé
+lection of the dependent variable. Skogan is interested in measuring
+the impact of disorder on crime, and throughout his book he claims
+to be studying the relationship between disorder and crime. The pas-
+sage in his book is. after all, titled “Disorder, Crime, and Fear,” and
+
+
+
+70 + EMPIRICAL CRITIQUE
+
+the principal paragraph is captioned “Disorder and Common Crime”
+(1990:73). The repeated reference to the statistical findings are to
+the “crime-disorder connection” or the “relationship between disor-
+der and crime” (199(
+Cause Crime?” (1990:75). It would appear from all this that Skogan’s
+study relates to general crime levels.
+
+73-74). Another caption reads “Does Disorder
+
+Skogan, however, selects as the dependent variable only one crime,
+namely robbery, even though the data include a number of other
+crimes, such as purse-snatching, physical assault, burglary, and sexual
+assault. This is especially troubling because robbery victimization, it
+turns out, is one of the crime victimization variables with the highest re-
+lationship to neighborhood disorder, and, even more important, is the
+only crime victimization variable that remains statistically significantly
+related to disorder when neighborhood poverty, stability, and race are
+held constant.
+
+With regard to the crime-disorder regression, robbery, burglary, and
+physical assault have extremely low p-values, which suggests that they
+are statistically significantly related to disorder. Sexual assault has a
+very high p-value (0.66), which signifies that in all likelihood it is
+not related to disorder; purse-snatching/pocket-picking appears to be
+only marginally related to disorder, but in an inverse relationship,
+which suggests that, if anything, it might be inversely related to disor-
+der. This is demonstrated in Table 3.3.
+
+What is even more troubling, however, is that the statistical relation-
+ships regarding physical assault and burglary vanish if neighborhood
+poverty, stability, and race are held constant. Robbery victimization is
+the only variable that remains related to disorder if we take socioeco-
+
+Table 3.3 Coefficients for Skogan’s index of disorder and individual crimes
+
+Skogan’s index of disorder
+
+Crime Coefficient Standard error P-value 95% Conf. interval
+Purse snatching 0.017 0.160 —0.061 0.011
+Physical assault 0.014 0.000 0.027 0.083
+Burglary 0.02 0.004 0.026 0.126
+Robbery 0.007 0.000 0.036 0.066
+Sexual assault 0.001 0.003 0.659 —0.005 0.008
+
+The Broken Windows Theory + 71
+
+nomic factors into account. The coefficients are reproduced in Table
+3.4. As this table demonstrates, it would be improper to conclude from
+the data that, as a statistical matter. general levels of crime—or com-
+mon crime—and disorder are related. Even if we put aside all the prob-
+Jems with the data set, the data suggest that only one particular crime,
+namely robbery, may be statistically related to disorder.
+
+Skogan justifies using robbery victimization exclusively as an index
+of local levels of crime for the following reasons: “Methodological
+research suggests it is reliably measured; it tends to correspond better
+than many other victimization measures with comparable official
+crime statistic aggregate city-level studies indicate it is linked to fear
+of crime; and comparable measures of robbery victimization were in-
+cluded in 30 of the areas surveyed” (1990:195 n.1, chap. 4). On close
+scrutiny, however, these arguments are not entirely persuasive.
+
+First, robbery victimization is not the only measure that corresponds
+well with comparable official crime statistics. Burglary does, too. This
+is generally explained by the fact that the most powerful predictor of
+whether a crime is reported to the police appears to be the seriousness
+of the offense (Gove, Hughes, and Geerken 1985:479, 468). Second,
+with regard to rape and physical assault, victimization surveys substan-
+tially underreport incidences among acquaintances, friends, and rela-
+tives, and they therefore measure very different things than do the
+Uniform Crime Reports (Gove, Hughes, and Geerken 1985:464-465).
+But this fact does not address the crossjurisdictional reliability of victim-
+ization surveys for rape or physical assault. The same biases might
+affect crossjurisdictional comparisons of victimization surveys and of
+
+Table 3.4 Coefficients for Skogan’s index of disorder and individual crimes holding
+constant neighborhood poveryy, stability and race
+
+Skogan’s index of disorder
+
+Crime Coefficient Standard error P-value 95% Conf. interval
+Purse snatching —0.013 0.027 0.639 —0.072 0.036
+Physical assault 0.014 0.019 0.459 —0.025 0.054
+Burglary —0.006 0.035 0.875 —0.078 0.066
+Robbery 0.038 0.012 0.004 0.014 0.062
+Sexual assault 0.006 0.006 0.341 —0.007 0.019
+
+
+
+72 + EMPIRICAL CRITIQUE
+
+66). The is-
+sue presented here is not the comparability of victimization surveys
+
+official crime statistics (Gove, Hughes, and Geerken 1985:
+
+and official crime statistics, which is what Skogan discusses. The issue
+
+is the comparabili
+
+y of victimization surveys across neighborhoods. It is
+
+the crossjurisdictional reliability of victimization surveys.’ Third, as a
+technical matter, there are no missing values for burglary victimization
+in the data, whereas there are ten missing values for robbery—and as
+
+many for physical assault. This fact would militate in favor of using bur-
+glary as the dependent variable.
+
+Fourth, and most important, it appears from the Finaé Report and
+the Codebook (Skogan 1987 and 1988) that the measure of robbery vic-
+umization is not neighborhood specific. Whereas the typical purse-
+snatching questions and assault question" explicitly referred the inter-
+viewee to acts committed “in the neighborhood where you live now,”
+and whereas the typical burglary question was by definition neighbor
+hood specific, the robbery question!’ and the rape question" appar-
+ently did not specify the location of the attack. In other words, it is pos-
+sible that the robbery and rape questions could have been interpreted
+by the interviewee as referring to incidents that happened outside their
+neighborhood. This militates even more in favor of using the burglary
+variable.
+
+Skogan’s arguments do not fully address these concerns. In my
+opinion, if we are going to draw conclusions about the effect of disor-
+der on common crime or general levels of crime, it may be more conserva-
+uve to look at each substantive crime for which we have data and make
+a more nuanced assessment of the disorder-crime relationship.
+
+The Newark Effect
+As noted ez
+
+ier, all of Skogan’s statistically significant relationships
+between disorder and the individual substantive crimes vanish when
+neighborhood poverty, stability, and race are held constant, except for
+
+robbery. The only reason robbery remains statistically significant, it
+
+turns out, is Newark. If you look at Skogan’s figure 4-2, or my replica-
+tion in Figure 3.1, you will notice that the five Newark neighborhoods.
+in contrast to the other city neighborhoods, are clustered together
+(Skogan 1990:74 fig. 4-2). If vou disregard those five Newark observa-
+uons and look at the other twenty-five neighborhoods, the relationship
+between disorder and robbery victimization seems much less obvious.
+
+The Broken Windows Theory + 73
+
+And, in fact, it is. If the same three explanatory variables (poverty, sta-
+bility, and race) are held constant, there is no significant relationship
+between disorder and robbery victimization when the five Newark
+neighborhoods are excluded. | call this the Newark Effect. and it is
+summarized in Table 3.5. In fact, without the Newark neighborhoods.
+the relationship between robbery victimization and disorder vanishes
+if race alone is held constant: see Table 3.6.
+
+As Tables 3.5 and 3.6 demonstrate, the statistically
+tionship between disorder and robbery in the data is principally due to
+
+gnificant rela-
+
+the five Newark neighborhoods that are clustered together. In con-
+trast, the other neighborhoods from the three other cities for which
+data are available (Adanta, Chicago, and Houston) are pretty well dis-
+tributed in the remaining group of observations. What this means is
+that, when the five Newark neighborhoods are included in a data set
+that contains only twenty-five other neighborhoods, Newark has a sig-
+nificant impact on the equation, In fact, if we take account of the city
+effects on the neighborhood data, the statistical relationship between
+
+Table 3.5 The Newark Effect: coefficients for Skogan’s index of disorder and robbery
+victimization excluding Newark neighborhoods and holding constant pov-
+
+y, stability and race
+
+Robbery
+Explanatory variables Coefficient Standard error P-value 95% Conf. Interval
+Disorder O11 025 670 —.042 -063
+Poverty 001 003 741 —.006 .008
+Stability =.002 003 BIT =.008 004
+Race — O14 008 109 =.008 031
+
+Table 3.6 The Newark Effect: coefficients for Skogan’s index of disorder and robbery
+
+Explanatory variables Coefficient’ Standard error Pvalue 95% Conf. interval
+Disorder 021 O18 5 —.016 058
+Race O15 007 056 000 030
+
+ictimizati cludi Jewark nei SZ ing only race
+victimization excluding Newark neighborhoods and holding
+
+constant
+
+Robbery
+
+
+
+74 + EMPIRICAL CRITIQUE
+
+disorder and robbery disappears (again, holding constant poverty. sta-
+bility, and race). If we hold constant the effects of the different cities
+on the neighborhood data by using dummy variables for the cities, the
+relationship simply vanishes: if we assign a dummy variable to each city,
+the p-value rises to 0.195, and if we assign a dummy variable to Newark
+alone, the p-value reaches 0.436. Clearly, there is something about the
+city of Newark that is unduly influencing the relationship between dis-
+order and robbery victimization at the neighborhood level.
+
+Is it fair, then, to exclude the Newark neighborhoods, given that
+there are only thirty observations in all? I think so. Given the small
+number of observations, it is especially important to eliminate cases
+that exert too much influence on the findings.!2 The Newark data
+seem to do just that. The point here is that it is not an individual
+neighborhood per se but the Newark cluster that excessively influ-
+ences the results. What does it mean to have the relationship between
+disorder and robbery depend entirely on whether the Newark neigh-
+borhoods are in or out of the data set? It suggests that certain charac-
+teristics about Newark are skewing the results.!3 It means that there is a
+city effect, rather than a neighborhood effect. But that stretches the bro-
+ken windows theory too far. In the end, it is more conservative to ex-
+clude the Newark neighborhoods than it is to conclude from these
+data that disorder and crime are causally related."
+
+Making the Best of the Data
+
+I attempt here to redress some of the design decisions that | disagree
+with—at least those that can be corrected—in order to test the broken
+windows hypothesis. With regard first to the independent variable dis-
+order, I propose to create a new multi-item index of neighborhood dis-
+order that incorporates only those variables that are not themselves
+serious criminal activities (in other words, that are not part of the de-
+pendent variable). | therefore exclude the variables related to drug
+trafficking and gang activity. I follow Skogan’s lead and create a cor-
+
+rected index for social disorder and one for physical disorder and
+
+then average the two.! I refer to the new multi-item index as “cor-
+rected disorder.” In addition, | include the four other measures of dis-
+order that were available from the data but that Skogan omitted from
+
+his indices—the first two (smut and prostitution) in the social disorder
+
+The Broken Windows Theory + 75
+
+index and the second two (dogs and garbage) in the physical disorder
+index. The variables included in the two corrected multi-item scales
+
+thus consist of:
+
+Social disorder Physical disorder
+
+Loitering Noise
+
+Vandalism Abandoned buildings or vehicles
+Public drinking Litter
+
+Insulting language Trash in vacant lots
+
+Smut Dogs
+
+Prostitution Garbage
+
+With regard to the problem of missing values, I propose to standard-
+ize these twelve variables on their respective means.!° This avoids the
+problem of bias resulting from missing values (discussed earlier). It is,
+of course, impossible to determine what the missing values would ac-
+tually have been. In this case I am not entirely comfortable imputing
+valties by means of multiple imputation because of the large number
+of missing values. I hesitate possibly to inject additional biases into this
+already weak data set. I assume that Skogan may have felt the same way.
+which may explain why he did not impute values for the missing data.
+In any event, standardizing the variables on their means is amore con-
+seryative approach
+
+In effect, what standardizing the variables does is turn them into
+comparable measures of relative disorder. Let’s take, for instance, two
+variables in the social disorder index: public drinking and insults. At
+present, the values for each observation correspond to the respon-
+dents’ perception of these as problems in the neighborhood on a scale
+of 1 to 3. The mean for the public drinking variable is 1.8. The mean
+for the insults variable is 1.3. A neighborhood for which there are no
+data on public drinking but there are data on insults is likely to have a
+lower value for social disorder because of the missing data. By stan-
+dardizing the two variables on their means, however, we create, instead
+of an absolute value for the variable, a relative weight of disorder. So a
+neighborhood for which there are no data on public drinking will
+have a value for social disorder equal to the relative orderliness or dis-
+orderliness of the neighborhood in terms of insults. Each variable will
+e relative indicator of the level of disorder. By av-
+
+become a comparab
+eraging the available values, we will obtain a good indicator of the rela-
+ging
+
+
+76 + EMPIRICAL CRITIQUE
+
+uve level of disorder in each neighborhood. In addition, the use of
+standardized values essentially substitutes for multiple imputation, in-
+sofar as it does similar work as the algorithms commonly used for im-
+putauon.
+
+The Corrected Results Using Skogan’s Data
+
+The Corrected Disorder-Crime Regression Analysis
+
+If we look only at “corrected disorder” and the various crimes, it ap-
+pears that the corrected disorder variable continues to be statistically
+significantly related to three of the five crimes: physical assault. bur-
+glary, and robbery. At this preliminary stage, however, we can already
+conclude that purse-snatching / pocket-picking and rape are not sig-
+nificantly related to disorder. This is reflected in Table 3.7.
+
+The Other-Explanatory-Variables A nalysis
+
+With the single exception of robbery, however, these statistically sig-
+nificant relationships between individual crimes and disorder simply
+disappear when the socioeconomic factors are taken into account. In
+fact, with regard to purse-snatching, if stability alone is held constant,
+the p-value is 0.978.
+
+PHYSICAL ASSAULT. If we use Skogan’s indices for poverty, stability,
+and race. and hold these variables constant, neighborhood disorder is
+
+The Broken Windows Theory + 77
+
+der tends to increase physical assault by 0.007 on average. with a stan-
+dard deviation of 0.04. The 95 percent confidence interval therefore
+has a lower bound of —0.08 and an upper bound of 0.09, which sug-
+gests that a good portion of estimated values will be inversely related to
+increases in disorder. The p-value is very high, standing at 0.873. This
+is reflected in Table 3.8.
+
+BURGLARY. The relationship between burglary victimization and
+corrected disorder also disappears when neighborhood poverty, stabil-
+ity, and race are taken into account. With these variables held con-
+: significantly related to the
+
+stant, neighborhood disorder is no longer s
+number of residents victimized by burglary in their neighborhood.
+This is reflected in Table 3.9.
+
+Asa result, it is only robbery that remains
+order, with Skogan’s other explanatory variables held constant. When
+we exclude the five Newark neighborhoods and hold constant the ex-
+planatory variables, even the robbery relationship vanishes. This is re-
+
+flected in Table 3.10.
+
+ignificantly related to dis-
+
+Table 3.8 Regression coefficients for physical assault and the explanatory variables
+
+Physical assault
+
+Explanatory variables — Coefficient Standard error _ P-value 95% Conf. interval
+
+no longer statistically significantly related to the number of residents Corrected disorder 007 042 873 —.081 094
+victimized by physical assault in their neighborhood. When we hold Poverty 013 O14 003 022
+these three variables constant, a one-unit increase in corrected disor- Stability —.014 009 —.024 —.004
+
+Race | —.002 856 —.028 024
+
+Table 3.7 Regression coefficients for corrected disorder and various crimes
+
+Table 3.9 Regression coefficients for burglary and the explanatory variables
+
+Corrected disorder
+
+Burglary
+
+Crime Coefficient Standard error P-value 95% Conf. interval 95% Conf, interval
+
+Explanatory variables Coefficient Standard error P-value
+
+Purse-snatching =.05 033 126 017 =
+
+Dis si a mat ee 029 ‘ 0 Corrected disorder 059 069 401 ~ Te oe
+Burglary 137 051 Ou 241 Poverty ee OF a —
+Robbers 107 015 000 137 Stability 2029 e007 ou asa 031
+Sexual assault 001 007 901 015 Race ALO 020 ee —
+
+
+
+78 + EMPIRICAL CRITIQUE
+
+Table 3.10 The Newark Effect: Coefficients for robbery and the
+excluding Newark neighborhoods
+
+explanatory variables
+
+Robbery
+
+Explanz . yariz e: oe: cle. S are § 5
+planatory variables Coefficient Standard error P-value 95% Conf. interval
+
+Corrected disorder 060 -039 141 — .022 141
+
+Poverty 000 003 988 = .006 006
+
+Stability 001 003 794 — .006 008
+
+Race O14 .008 089 — .002 -030
+Conclusion
+
+My findings using the corrected disorder index essentially track my
+earlier replication using Skogan’s index for disorder. They suggest
+that, in the final analysis, there are no statistically significant celation:
+ships between disorder and purse-snatching, physical assault, burglary,
+or rape when other explanatory variables are held constant. and that
+the relationship between robbery and disorder also disappears when
+the five Newark neighborhoods are set aside. In the end, the data do
+not support the broken windows hypothesis.
+
+The Sampson and Cohen Study
+
+Advocates of order maintenance cite one other quantitative study,
+Robert Sampson and Jacqueline Cohen’s 1988 “Deterrent Effects of
+the Police on Crime,” as further evidence of the broken windows ef-
+fect. This study, however, is by no means conclusive. To the contrary,
+the study takes a far more nuanced approach and, in the end, supports
+the argument that the social-scientific evidence for the broken win-
+dows theory is lacking. As Sampson and Cohen acknowledge, research
+on the relationship between disorder and crime is “sparse,” as is re-
+search on the relationship between proactive policing and crime, and
+the results thus far have been “mixed” (1988:167, 166).
+
+Sampson and Cohen's study makes a useful contribution to the con-
+troversy
+
+over the benefits of aggressive policing strategies on crime
+prevention. The debate was triggered, in part, by James Q. Wilson's
+1968 work, Varieties of Police Behavior and by his study with Barbara
+
+|
+
+The Broken Windows Theory + 79
+
+Boland on the effects of aggressive police arrest practices on crime
+(Wilson 1968: Wilson and Boland 1978 and 1981: see also Boydstun
+1975). Wilson and Boland hypothesized that aggressive police patrols,
+involving increased stops and arrests, have a deterrent effect on crime
+(1978:373-374). A number of contributions ensued, both supporting
+(see, e.g.. Whittaker et al. 1985) and critcizing these findings (see.
+e.g.. Jacob and Rich 1981; Decker and Kohfeld 19)
+was slighuy different in focus from the Skogan study and the debate
+
+. The controversy
+
+over the broken windows theory, since it centered more on aggressive
+police behavior and heightened stops and arrests. Nevertheless, since
+the control of disorder feeds into policies of aggressive arrest and or-
+der-maintenance crackdowns, as I have argued, the study is relevant to
+our debate.
+
+In their study, Sampson and Cohen focus on two possible mecha-
+nisms—only one of which reflects the broken windows hypothesis—
+by which aggressive, proactive policing strategies might be related to
+lower crime rates. The first mechanism, which they refer to as “indi-
+rect,” operates by increasing the arrest/offense ratio (1988:164). Ag-
+gressive, proactive policing results in an increased number of police-
+civilian exchanges, which in turn increases the likelihood of solving
+crimes: “By stopping, questioning, and otherwise closely observing
+citizens, especially suspicious ones, the police are more likely to find
+fugitives, detect contraband (such as stolen property or concealed
+weapons). and apprehend persons fleeing from the scene of a crime”
+(1988:164). Under the first hypothesis, aggressive policing affects
+crime “by changing the actual probability that an arrest is made (e.g.,
+by increasing the arrest/offense ratio)” (1988:164). The second mech-
+anism, which they refer to as “direct,” operates by influencing commu-
+nity perceptions regarding the certainty of punishment (1988:165).
+The heightened police presence and interventions that accompany
+proactive policing communicate to potential criminals that they are
+
+more likely to be caught if they commit a crime. This second mecha-
+
+nism—increasing certainty of arrest—is the one that is explicitly
+inked to the broken windows theory. The authors make this link by us-
+ing as the measure of aggressive policing “the number of arrests per
+police officer for disorderly conduct and driving under the influence
+(DUT)” (1988:169).
+
+With regard to the indirect effect, Sampson and Cohen report that
+

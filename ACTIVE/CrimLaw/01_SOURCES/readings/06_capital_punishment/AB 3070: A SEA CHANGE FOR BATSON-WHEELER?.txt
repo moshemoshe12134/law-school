@@ -1,0 +1,101 @@
+AB 3070: A Sea Change for Batson-Wheeler?
+calawyers.org/criminal-law/ab-3070-a-sea-change-for-batson-wheeler
+January 25, 2022
+By Paul Myslin, Criminal Law Content Attorney, CEB
+In a criminal case, each side gets a certain number of peremptory challenges. A peremptory
+challenge is an objection to a juror that the court must follow, and for which no reason need
+be given. However, peremptory challenges may not be used to systematically exclude jurors
+based on their membership in a cognizable group distinguished by racial, religious, ethnic, or
+similar characteristics. This is colloquially known as the Batson-Wheeler rule. See Batson v.
+Kentucky (1986) 476 U.S. 79 (applying Fourteenth Amendment equal protection to jury
+service) and People v. Wheeler (1978) 22 Cal.3d 258 (California case requiring juries to be
+drawn from a representative cross-section of the community). See also Code of Civil
+Procedure section 231.5 (prohibiting use of race, color, religion, sex, national origin, sexual
+orientation, or similar grounds in jury selection).
+There are three parts to litigating a classic Batson-Wheeler challenge. First, the side asserting
+the improper use of peremptory challenges must state a prima facie case of systematic
+exclusion. Next, the burden shifts to the other party to show that there were neutral reasons
+for exercising the challenges (i.e., reasons other than the systematic exclusion of members of
+a cognizable group). (Purkett v. Elem (1995) 514 U.S. 765, 768; People v. Clair (1992) 2
+Cal.4th 629, 652.) Finally, the trial court must decide whether purposeful discrimination has
+been shown. (Snyder v. Louisiana (2008) 552 U.S. 472.)
+As it currently stands, the burden of the party alleging systematic exclusion is to establish
+purposeful discrimination by a preponderance of the evidence. (People v. Hutchins (2007)
+147 Cal.App.4th 992, 998.) Making that burden especially tough is the fact that courts have
+allowed justifications to be subjective. The opposing party’s burden at this stage is met by an
+explanation that is facially valid; it need not be persuasive or even plausible. (People v.
+Gutierrez (2017) 2 Cal.5th 1150, 1168). Hunches, a prospective juror’s “body language,” a
+particular mode of answering questions, and lack of life experience have all been deemed
+acceptable reasons for excusing jurors and used to rebut the inference of systematic
+exclusion. (See People v. Hall (1983) 35 Cal.3d 161, 170; People v. Gray (2001) 87
+Cal.App.4th 781, 788; People v. Perez (1994) 29 Cal.App.4th 1313, 1328.)
+Over the years, a key criticism of the Batson-Wheeler procedure has been that many
+commonly proffered race-neutral reasons in Step 2 were in fact reasons disproportionately
+associated with those protected groups, with the same result as if race had been the stated
+reason. In addition, the high bar of establishing purposeful discrimination has made it
+extraordiarily difficult to prevail on a Batson-Wheeler challenge. As California Supreme
+1/3
+
+Court Justice Goodwin Liu pointed out in a recent 21-page dissenting opinion, “it has been
+more than 30 years since this court has found racial discrimination in the peremptory strike
+of a Black juror.” (See People v. Triplett (Aug. 31, 2020, S262052) 2020 Cal.Lexis 5546, Liu,
+dissenting to denial of review.)
+Enter AB 3070, authored by Assemblymember Shirley Weber (D-San Diego) and signed by
+Gov. Gavin Newsom in 2020.
+Effective for all criminal trials where jury selection begins on or after Jan. 1, 2022, AB 3070
+declares that requiring proof of intentional bias renders the procedure ineffective and that
+many of the reasons routinely advanced to justify the exclusion of jurors from protected
+groups are in fact associated with stereotypes about those groups or otherwise based on
+unlawful discrimination. AB 3070 amends California Code of Civil Procedure, section 231.7
+subd.(d)(1) to lower the burden from purposeful discrimination to a “substantial likelihood”
+determination that an “objectively reasonable person would view [the protected group] as a
+factor in the use of the peremptory challenge”. The objectively reasonable person standard
+includes an awareness of unconscious bias, both implicit and institutional. (Code Civ. Proc.,
+§§ 231.7(d)(2)(A)-(C).)
+In addition to lowering the burden to sustain a challenge, AB 3070 also raises the bar for
+certain Step 2 justifications, making them presumptively invalid. An attorney relying on
+these justifications will have to show by clear and convincing evidence that an objectively
+reasonable person would view the rationale as unrelated to a protected category, and that the
+reasons articulated bear on the prospective juror’s ability to be fair and impartial in the case.
+(Code Civ. Proc., § 231.7(e).)
+These new presumptively invalid reasons include such things as a distrust of or having a
+negative experience with law enforcement or the criminal legal system, a belief that law
+enforcement officers engage in racial profiling, a belief that criminal laws have been enforced
+in a discriminatory manner, or a close relationship with people who have been stopped,
+arrested, or convicted of a crime. Other presumptively invalid reasons trend toward socio-
+economic and geographic factors: the prospective juror’s neighborhood, having a child
+outside of marriage, receiving state benefits, or lack of employment or underemployment of
+the juror or a family member. Common group identifiers such as dress, attire, or personal
+appearance are included, as are language issues such as not being a native English speaker,
+or having the ability to speak another language.
+Finally, broad categories include employment in a field that is disproportionately occupied by
+members listed in a protected group, or that serves a population disproportionately
+comprised of group members. Even a prospective juror’s apparent friendliness with another
+prospective juror of a protected group will be presumptively invalid as a reason for
+peremptory challenge.
+2/3
+
+AB 3070 also reaches into the tricky area of courtroom demeanor. Certain behaviors are now
+listed as presumptively invalid reasons to exclude a prospective juror, including
+inattentiveness, staring, failing to make eye contact, exhibiting a lack of rapport or a
+problematic attitude, body language or demeanor, or providing unintelligent or confused
+answers. (Code Civ. Proc., § 231.7(g)(1).) For these, however, the court and opposing
+counsel’s own observations can rebut the presumption, so long as it can be shown that the
+behavior matters to the case.
+AB 3070 has the potential to turn a number of past California cases on their heads. Consider
+the following examples, and the peremptory challenges that were upheld as valid: People v.
+Winbush (2017) 2 Cal.5th 402 (prior arrest); People v. Adanandus (2007) 157 Cal.App.4th
+496 (same); People v. Cummings (1993) 4 Cal.4th 1233 (relative with a conviction); People v.
+Clark (2011) 52 Cal.4th 856 (experience in counseling or social services); People v.
+Trevino (1997) 55 Cal.App.4th 396, 411 (same); People v. Chism (2014) 58 Cal.4th 1266 (lack
+of supervisory work experience); People v. Johnson (1989) 47 Cal.3d 1194 (bad feelings about
+police); People v. Calvin (2008) 159 Cal.App.4th 1377 (skepticism about the fairness of the
+criminal justice system); and People v. Barber (1988) 200 Cal.App.3d 378 (manner of dress,
+poor grasp of the English language).
+For further discussion of Batson-Wheeler and juror challenges, see California Criminal Law
+Procedure and Practice (Cal. CEB) chapter 29.
+© Reprinted from Daily News, copyright 2022 by the Regents of the University of
+California. Reproduced with permission of Continuing Education of the Bar – California
+(CEB). No other republication or external use is allowed without permission of CEB. All
+rights reserved.
+3/3

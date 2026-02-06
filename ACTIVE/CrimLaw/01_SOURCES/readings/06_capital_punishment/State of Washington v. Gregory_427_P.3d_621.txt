@@ -1,0 +1,1900 @@
+STATE v. GREGORY Wash. 621
+Cite as 427 P.3d 621 (Wash. 2018)
+102 Wash.2d at 427, 686 P.2d 483. In con- cordance with the totality of the circum-
+trast, this case asks the court to apply RCW stances and fundamental fairness.
+50.20.190(2)’s equity and good conscience
+standard to determine whether the Depart- ,
+ment must consider a partial waiver to ac-
+count for attorney fees that benefit both the
+claimant and the Department. Majority at
+615. Because the statute is not silent but
+instead expressly incorporates ‘‘equity and
+good conscience’’ as the governing standard,
+this court naturally looks to recognized equi- STATE of Washington, Respondent,
+table principles. As the Court of Appeals
+v.
+correctly stated in Delagrave, ‘‘It is clear
+Allen Eugene GREGORY, Appellant.
+that equity and good conscience means, quite
+simply, fairness.’’ 127 Wash. App. at 612, 111 No. 88086-7
+P.3d 879.
+Supreme Court of Washington.
+¶ 34 As a direct result of Belling’s efforts,
+the Department was able to demand reim- Filed October 11, 2018
+bursement of unemployment benefits paid to Oral Argument Date: February 25, 2016
+Belling. Were it not for Belling’s workers’
+Background: Defendant was convicted by
+compensation appeal, no such reimbursement
+a jury in the Superior Court, Pierce Coun-
+would have been available. In these circum-
+ty, No. 98-1-04967-9, Rosanne Buckner, J.,
+stances, notions of fundamental fairness man-
+2001 WL 36139241, of aggravated first-
+date that the commissioner take into account
+degree murder and sentenced to death.
+Belling’s legal expenses resulting from the
+litigation and consider whether fairness de- Defendant appealed, and the Supreme
+mands that these expenses be shared by the Court, Bridge, J., 158 Wash.2d 759, af-
+Department. firmed conviction but reversed sentence
+and remanded for resentencing to the Su-
+¶ 35 For the reasons detailed above, I
+perior Court, which impaneled new jury
+would hold that the ‘‘equity and good con-
+and resentenced defendant to death. De-
+science’’ standard of RCW 50.20.190(2) obli-
+fendant filed appeal, which the Supreme
+gates the commissioner to consider a claim-
+Court consolidated with its statutorily-re-
+ant’s legal expenses incurred in reimbursing
+quired review of all death sentences.
+the Department when determining whether
+to grant a waiver of overpayment, regardless Holdings: The Supreme Court, Fairhurst,
+of whether the claimant otherwise faces fi- C.J., held that:
+nancial hardship or is left with no recovery.
+(1) defendant could establish that state’s
+death penalty violated both federal and
+CONCLUSION state constitutions, and thus the Court
+would resolve defendant’s challenge to
+¶ 36 ‘‘Equity and good conscience’’ means death penalty under state constitution;
+fairness. While the factors listed in the ad-
+(2) state’s death penalty was imposed in
+ministrative guidelines are useful, they are
+arbitrary and racially biased manner,
+not dispositive. The commissioner failed to
+and was thus unconstitutional as ap-
+take into account relevant circumstances in
+plied under state constitution; abrogat-
+Belling’s case, including the legal expenses
+he incurred in reimbursing the Department. ing State v. Cross, 156 Wash. 2d 580,
+I would reverse the Court of Appeals and 132 P.3d 80 (2006); State v. Yates, 161
+remand for the Department to review its Wash. 2d 714, 168 P.3d 359 (2007);
+waiver decision under RCW 50.20.190 in ac- State v. Davis, 175 Wash. 2d 287, 290
+
+622 Wash. 427 PACIFIC REPORTER, 3d SERIES
+P.3d 43 (2012); In re Cross, 180 Wash. data, is a reoccurring, vexing problem in
+2d 664, 327 P.3d 660 (2014); capital case jurisprudence.
+(3) state’s death penalty, as administered, 5. Constitutional Law O976
+failed to serve legitimate penological Where an issue may be resolved on stat-
+goals, and was thus unconstitutional as utory grounds, the court will avoid deciding
+applied under state constitution; and the issue on constitutional grounds.
+(4) decisions regarding propriety of search 6. Criminal Law O1139
+warrant and orders to obtain physical
+The Supreme Court reviews constitu-
+evidence used in prosecution of defen- tional claims de novo.
+dant were law of the case, barring
+7. Sentencing and Punishment O1788(5)
+review by the Court.
+Conducting a constitutional analysis in
+Death sentences converted.
+death penalty cases is different from tradi-
+Gonz´alez, J., concurred in result only.
+tional de novo constitutionality review by the
+Johnson, J., filed concurring opinion, in Supreme Court, given that the death penalty
+which Owens, Madsen, and Stephens, JJ., differs qualitatively from all other punish-
+joined. ments, and therefore requires a correspond-
+ingly high level of reliability.
+1. Sentencing and Punishment O1617 8. Constitutional Law O984
+To be constitutionally valid, where dis- If the Supreme Court neglects its duty
+cretion is afforded a sentencing body on a to resolve, where feasible, constitutional
+matter so grave as the determination of questions first under the provisions of the
+whether a human life should be taken or state constitution before turning to federal
+spared, that discretion must be suitably di- law, the Supreme Court deprives the people
+rected and limited so as to minimize the risk of their double security.
+of wholly arbitrary and capricious action.
+9. Constitutional Law O617
+2. Sentencing and Punishment O1788(6) It is well established that state courts
+The Supreme Court’s statutorily man- have the power to interpret their state con-
+dated review of whether a death sentence is stitutional provisions as more protective of
+disproportionate to the penalty imposed in individual rights than the parallel provisions
+similar cases, considering the crime and the of the federal constitution.
+defendant, serves as an additional safeguard
+10. Courts O97(5)
+against arbitrary or capricious sentencing.
+The Washington Supreme Court’s inter-
+Wash. Rev. Code Ann. § 10.95.130(2)(b).
+pretation of the state constitution section
+3. Sentencing and Punishment O1788(6) prohibiting excessive bail, excessive fines,
+The goal, in the Supreme Court’s statu- and cruel punishment is not constrained by
+torily mandated review of whether a death the United States Supreme Court’s interpre-
+sentence is disproportionate to the penalty tation of the Eighth Amendment of the fed-
+imposed in similar cases, considering the eral constitution, which prohibits excessive
+crime and the defendant, is to ensure that bail, excessive fines, and cruel and unusual
+the death penalty’s imposition is not freakish, punishment. U.S. Const. Amend. 8; Wash.
+wanton, or random, and is not based on race Const. art. 1, § 14.
+or other suspect classifications. Wash. Rev.
+11. Sentencing and Punishment O1435
+Code Ann. § 10.95.130(2)(b).
+The historical evidence reveals that the
+4. Sentencing and Punishment O1788(6) framers of the state constitution’s section
+How to properly review whether a death prohibiting cruel punishment were of the
+sentence is disproportionate to the penalty view that the word ‘‘cruel’’ sufficiently ex-
+imposed in similar cases, considering the pressed their intent, and refused to adopt an
+crime and the defendant, and upon what amendment inserting the word ‘‘unusual,’’ as
+
+STATE v. GREGORY Wash. 623
+Cite as 427 P.3d 621 (Wash. 2018)
+in the federal constitution’s Eighth Amend- 17. Sentencing and Punishment O1620,
+ment prohibition against cruel and unusual 1624
+punishment. U.S. Const. Amend. 8; Wash. State’s death penalty was imposed in an
+Const. art. 1, § 14. arbitrary and racially biased manner, and
+was thus unconstitutional as administered
+12. Sentencing and Punishment O1435
+under state constitution section prohibiting
+The state constitution’s section prohibit-
+cruel punishment, as asserted by black de-
+ing cruel punishment is not per se broader
+fendant in appealing death sentence for ag-
+than the federal constitution’s Eighth
+gravated first-degree murder; study on effect
+Amendment prohibition against cruel and un-
+of race on imposition of death penalty com-
+usual punishment. U.S. Const. Amend. 8;
+missioned by defendant, which took into ac-
+Wash. Const. art. 1, § 14.
+count all trial reports for defendants that
+13. Sentencing and Punishment O1612, underwent state’s death penalty sentencing
+procedure over 33 year period, and which
+1788(5)
+had been challenged by state, evaluated by
+Defendant, on appeal of death sentence
+Supreme Court Commissioner, and updated,
+for aggravated first-degree murder, could es-
+corrected, and reiterated, found that black
+tablish that state’s death penalty statute vio-
+defendants were 3.5 to 4.6 times as likely to
+lated both the federal constitution’s Eighth
+receive a death sentence than non-black de-
+Amendment prohibition against cruel and
+fendants, after impact of other variables had
+unusual punishment and the state constitu-
+been taken into account; abrogating State v.
+tion’s section prohibiting cruel punishment,
+Cross, 156 Wash. 2d 580, 132 P.3d 80 (2006);
+and thus the Supreme Court would resolve
+State v. Yates, 161 Wash. 2d 714, 168 P.3d
+defendant’s challenge to state’s death penal-
+359 (2007); State v. Davis, 175 Wash. 2d 287,
+ty statute on adequate and independent state
+290 P.3d 43 (2012); In re Cross, 180 Wash. 2d
+constitutional principles; state constitutional
+664, 327 P.3d 660 (2014). Wash. Const. art.
+protection could not provide for less protec-
+1, § 14; Wash. Rev. Code Ann. § 10.95.
+tion than the Eighth Amendment, making it
+appropriate to interpret state constitution in- 18. Sentencing and Punishment O1614
+dependently from its parallel federal provi-
+Where the trial which results in imposi-
+sion. U.S. Const. Amend. 8; Wash. Const.
+tion of the death penalty lacks fundamental
+art. 1, § 14; Wash. Rev. Code Ann. § 10.95.
+fairness, the punishment violates the state
+14. Courts O90(1) constitution’s section prohibiting cruel pun-
+ishment. Wash. Const. art. 1, § 14; Wash.
+Although every decision of the Supreme
+Rev. Code Ann. § 10.95.
+Court creates precedent that it does not
+lightly set aside, stability should not be con- 19. Criminal Law O1881
+fused with perpetuity.
+Under the Sixth Amendment to federal
+15. Bail O52 constitution, ineffective assistance of counsel
+claimants must show, under the Strickland
+Fines O1.3
+test, deficient performance and prejudice,
+Sentencing and Punishment O1435 where prejudice entails a reasonable proba-
+The scope of the state constitution’s pro- bility that, but for counsel’s unprofessional
+hibition against excessive bail, excessive errors, the result of the proceeding would
+fines, and cruel punishment, no less than the have been different. U.S. Const. Amend. 6.
+parallel Eighth Amendment of the federal
+20. Criminal Law O1883
+constitution, is not static. U.S. Const.
+Amend. 8; Wash. Const. art. 1, § 14. A ‘‘reasonable probability’’ is a probabili-
+ty sufficient to undermine confidence in the
+16. Courts O90(1) outcome, for purposes of Strickland test’s
+Where new, objective information is pre- requirement that an ineffective assistance of
+sented for the Supreme Court’s consider- counsel claimant show with reasonable prob-
+ation, it must account for it. ability that, but for counsel’s unprofessional
+
+624 Wash. 427 PACIFIC REPORTER, 3d SERIES
+errors, result of proceeding would have been 26. Sentencing and Punishment O1611
+different. U.S. Const. Amend. 6.
+The state death penalty is not per se
+See publication Words and Phrases for
+unconstitutional. Wash. Rev. Code Ann.
+other judicial constructions and defini-
+tions. § 10.95.
+21. Sentencing and Punishment O1435 27. Sentencing and Punishment O1788(6)
+When considering a challenge under the
+Review of whether a death sentence is
+state constitution section prohibiting cruel
+disproportionate to the penalty imposed in
+punishment, the Supreme Court looks to con-
+similar cases, considering the crime and the
+temporary standards and experience in other
+defendant, as is statutorily required of the
+states. Wash. Const. art. 1, § 14.
+Supreme Court, serves as a safeguard
+22. Sentencing and Punishment O1616, against arbitrary sentencing, but is conduct-
+1624 ed on an individual basis for each death
+State death penalty, as administered, sentence. Wash. Rev. Code Ann.
+failed to serve legitimate penological goals, § 10.95.130(2)(b).
+namely retribution or deterrence of capital
+28. Sentencing and Punishment O1788(6)
+crimes by prospective offenders, and was
+thus unconstitutional under state constitu- At its heart, review of whether a death
+tion’s prohibition against cruel punishment, sentence is disproportionate to the penalty
+for purposes of defendant’s appeal of his imposed in similar cases, considering the
+death sentence for aggravated first-degree crime and the defendant, which is statutorily
+murder; although the state’s death penalty required of the Supreme Court, will always
+was not per se unconstitutional, the Supreme be a subjective judgment as to whether a
+Court had found death penalty to be imposed particular death sentence fairly represents
+in arbitrary and racially biased manner, indi- the values inherent in the state’s sentencing
+cating that there was no meaningful basis for scheme. Wash. Rev. Code Ann.
+distinguishing the cases in which the death § 10.95.130(2)(b).
+penalty was imposed from the cases in which
+it was not. Wash. Const. art. 1, § 14; Wash. 29. Sentencing and Punishment O1788(6)
+Rev. Code Ann. § 10.95.
+Review of whether a death sentence is
+23. Sentencing and Punishment O1650, disproportionate to the penalty imposed in
+1651 similar cases, considering the crime and the
+The principal purposes of capital punish- defendant, which is statutorily required of
+ment are retribution and deterrence of capi- the Supreme Court, does not address the
+tal crimes by prospective offenders. state’s capital punishment law as a whole.
+Wash. Rev. Code Ann. § 10.95.130(2)(b).
+24. Sentencing and Punishment O1612,
+1650, 1651 30. Sentencing and Punishment O1788(6)
+Unless the death penalty measurably
+Review of whether a death sentence is
+contributes to either retribution or deter-
+disproportionate to the penalty imposed in
+rence of capital crimes by prospective offend-
+similar cases, considering the crime and the
+ers, it is nothing more than the purposeless
+defendant, which is statutorily required of
+and needless imposition of pain and suffer-
+the Supreme Court, cannot be severed from
+ing, and hence an unconstitutional punish-
+the Court’s review of whether the state’s
+ment.
+capital punishment scheme is constitutional
+25. Sentencing and Punishment O1616, as a whole. Wash. Rev. Code Ann.
+1651 § 10.95.130(2)(b).
+If the policy of the state is retribution
+31. Statutes O1534
+for capital crimes, then imposition of the
+death penalty must be evenhanded to be Statutory severability clauses are not an
+constitutional. inexorable command.
+
+STATE v. GREGORY Wash. 625
+Cite as 427 P.3d 621 (Wash. 2018)
+32. Statutes O1533 change in the evidence at a second determi-
+nation of the cause.
+The test for statutory severability where
+See publication Words and Phrases for
+a statutory provision is found unconstitution-
+other judicial constructions and defini-
+al is whether the constitutional and unconsti-
+tions.
+tutional provisions are so connected that it
+37. Criminal Law O1180
+could not be believed that the legislature
+would have passed one without the other, or An appellate court will reconsider a sub-
+whether the part eliminated is so intimately sequent appellate argument raising an identi-
+connected with the balance of the law as to cal legal issue only when the holding of the
+make it useless to accomplish the purposes of prior appeal is clearly erroneous and the
+the legislature. application of the law of the case doctrine,
+which generally precludes such reconsidera-
+33. Statutes O1533 tion, will result in a manifest injustice.
+To be severable upon a finding that a 38. Criminal Law O1180
+statutory provision is unconstitutional, the
+The appellate procedural rule restricting
+disputed provision must be grammatically,
+law of the case doctrine where trial court
+functionally, and volitionally severable.
+decision is otherwise properly before the
+34. Criminal Law O1180 court does not revive automatically every
+issue or decision which was not raised in an
+Defendant convicted of aggravated first
+earlier appeal. Wash. R. App. P. 2.5(c)(1).
+degree murder failed to timely raise objec-
+tions to propriety of search warrant and or- 39. Criminal Law O1180
+ders to obtain physical evidence in form of An issue that could have been appealed
+blood draw based on history of individual, in an earlier proceeding is reviewable under
+who was found to have lied in testimony as the appellate procedural rule restricting law
+part of defendant’s trial for rape, as a confi- of the case doctrine where trial court deci-
+dential informant, given that trial court had sion is otherwise properly before the court in
+found that information regarding individual’s a later appeal following remand of the case
+history as informant was known or made only if the trial court, on remand and in
+available to defendant prior to his first mur- exercise of its own independent judgment,
+der trial, after which defendant failed to raise considered and ruled again on that issue.
+issue in trial court either prior to or during Wash. R. App. P. 2.5(c)(1).
+his first appeal of murder conviction, and 40. Criminal Law O1180
+thus decisions regarding propriety of war-
+Appellate procedural rule restricting the
+rant and orders to obtain physical evidence
+law of the case doctrine where justice would
+were law of the case on second appeal of
+best be served by deciding the case on the
+murder conviction, barring review by the Su-
+basis of the appellate court’s opinion of the
+preme Court.
+law at the time of later review allows a prior
+35. Criminal Law O1180 appellate holding in the same case to be
+reconsidered when there has been an inter-
+When an appellate court already deter-
+vening change in the law. Wash. R. App. P.
+mined a legal issue in a prior appeal, the law
+2.5(c)(2).
+of the case doctrine typically precludes it
+from re-deciding the same legal issue on a 41. Criminal Law O1180
+subsequent appeal. If there has been an intervening change
+in the law between a prior appellate holding
+36. Criminal Law O1180
+and subsequent appellate review, the review-
+Under the ‘‘law of the case doctrine,’’ ing court will consider whether correspond-
+questions determined on appeal, or which ing injustice would result to the other party
+might have been determined had they been if the erroneous decision should be set aside,
+presented, are not again to be considered on pursuant to the appellate procedural rule
+a subsequent appeal if there is no substantial restricting the law of the case doctrine where
+
+626 Wash. 427 PACIFIC REPORTER, 3d SERIES
+justice would best be served by deciding the Suite 610. Seattle, WA 98101-3647, for Appel-
+case on the basis of the appellate court’s lant.
+opinion of the law at the time of later review.
+Kathleen Proctor, John Martin Neeb,
+Wash. R. App. P. 2.5(c)(2).
+Pierce County Prosecuting Attorney Office,
+42. Criminal Law O392.39(12), 392.49(10) 930 Tacoma Avenue S, Room 946, Tacoma,
+WA 98402-2171, for Respondent.
+The federal ‘‘inevitable discovery doc-
+Jeffery Patton Robinson, Attorney at Law,
+trine’’ allows admission of illegally obtained
+810 3rd Avenue, Suite 500, Seattle, WA
+evidence if the state can establish by a pre-
+98104-1619, Cassandra Stubbs, 201 W. Main
+ponderance of the evidence that the informa-
+Street, Suite 402, Durham, NC 27701, Attor-
+tion ultimately or inevitably would have been
+ney(s) for Amicus Curiae (American Civil
+discovered by lawful means.
+Liberties Union Foundation).
+See publication Words and Phrases for
+other judicial constructions and defini- John Winn Wolfe, Aravind Swaminathan,
+tions. Marc Shapiro, Orrick, Herrington & Sutcliffe
+43. Courts O90(6) LLP, 701 5th Avenue, Suite 5600, Seattle,
+WA 98104-7097, Nancy Lynn Talner, Attor-
+Before the Supreme Court reconsiders
+ney at Law, 901 5th Avenue, Suite 630, Se-
+an established rule of law that is otherwise
+attle, WA 98164-2008, Attorney(s) for Amicus
+entitled to stare decisis, there must be a
+Curiae (American Civil Liberties Union of
+clear showing that the rule is incorrect and
+Washington).
+harmful.
+Robert S. Chang, Jessica Levin, Seattle
+44. Courts O90(1) University School of Law, 901 12th Avenue,
+Seattle, WA 98122-4411, Attorney(s) for Ami-
+The Supreme Court is not inclined to
+cus Curiae (Fred T. Korematsu Center for
+abandon its own directly binding precedent
+Law and Equality).
+in favor of distinguishable, nonbinding au-
+thority. Paul J. Lawrence, Nicholas W. Brown, Pa-
+cifica Law Group LLP, 1191 2nd Avenue,
+West Codenotes Suite 2000, Seattle, WA 98101-3404, Attor-
+ney(s) for Amicus Curiae (Social Scientists
+Unconstitutional as Applied
+and Researchers).
+Wash. Rev. Code Ann. §§ 10.95.010,
+James Elliot Lobsenz, Carney Badley
+10.95.020, 10.95.030, 10.95.035, 10.95.040,
+Spellman, 701 5th Avenue, Suite 3600, Se-
+10.95.050, 10.95.060, 10.95.070, 10.95.080,
+attle, WA 98104-7010, Attorney(s) for Amicus
+10.95.090, 10.95.100, 10.95.110, 10.95.120,
+Curiae (Washington Coalition to Abolish the
+10.95.130, 10.95.140, 10.95.150, 10.95.160,
+Death Penalty).
+10.95.170, 10.95.180, 10.95.185, 10.95.190,
+10.95.200
+FAIRHURST, C.J.
+¶ 1 Washington’s death penalty laws have
+been declared unconstitutional not once, not
+Appeal from Superior Court, Hon. Ro-
+twice, but three times. State v. Baker, 81
+sanne Buckner, Judge, Pierce County Supe-
+Wash.2d 281, 501 P.2d 284 (1972); State v.
+rior Court (No. 98-1-04967-9)
+Green, 91 Wash.2d 431, 588 P.2d 1370 (1979);
+Neil Martin Fox, Law Office of Neil Fox, State v. Frampton, 95 Wash.2d 469, 627 P.2d
+PLLC, 2125 Western Avenue, Suite 330, Se- 922 (1981).1 And today, we do so again. None
+attle, WA 98121, Lila Jane Silverstein. Wash- of these prior decisions held that the death
+ington Appellate Project. 1511 3rd Avenue, penalty is per se unconstitutional, nor do we.
+1. Arguably, it has occurred four times because a 1994), aff’d sub nom. on other grounds, Harris ex
+federal district court judge found that our statu- rel. Ramseyer v. Wood, 64 F.3d 1432 (9th Cir.
+tory proportionality review of death sentences 1995). But we considered and rejected the claim.
+violated due process. Harris ex rel. Ramseyer v. In Re Pers. Restraint of Benn, 134 Wash.2d 868,
+Blodgett, 853 F.Supp. 1239, 1288-91 (W.D. Wash. 925-26, 952 P.2d 116.
+
+STATE v. GREGORY Wash. 627
+Cite as 427 P.3d 621 (Wash. 2018)
+The death penalty is invalid because it is degree murder. Id. Gregory was also
+imposed in an arbitrary and racially biased charged and convicted of three counts of first
+manner. While this particular case provides degree rape stemming from R.S.’s allega-
+an opportunity to specifically address racial tions.
+disproportionality, the underlying issues that
+underpin our holding are rooted in the arbi- B. Procedural history
+trary manner in which the death penalty is
+¶ 3 In 2001, a jury convicted Gregory of
+generally administered. As noted by appel-
+aggravated first degree murder. Id. at 777,
+lant, the use of the death penalty is unequally
+812, 147 P.3d 1201. The same jury presided
+applied—sometimes by where the crime took
+over the penalty phase of his trial. Id. at 812,
+place, or the county of residence, or the
+147 P.3d 1201. The jury concluded there
+available budgetary resources at any given
+were not sufficient mitigating circumstances
+point in time, or the race of the defendant.
+to merit leniency and sentenced Gregory to
+The death penalty, as administered in our
+death. Id. When Gregory appealed his mur-
+state, fails to serve any legitimate penological
+der conviction and death sentence, we consol-
+goal; thus, it violates article I, section 14 of
+idated our direct review of those issues with
+our state constitution.
+Gregory’s appeal of his separate rape convic-
+tions. Id. at 777, 147 P.3d 1201. We reversed
+I. FACTS AND PROCEDURAL
+the rape convictions, affirmed the aggravated
+HISTORY
+first degree murder conviction, and reversed
+A. Factual background
+the death sentence. Id. at 777-78, 147 P.3d
+¶ 2 In 1996, Allen Eugene Gregory raped, 1201. We based our reversal of Gregory’s
+robbed, and murdered G.H. in her home.2 In death sentence on two grounds: (1) ‘‘the pros-
+1998, Gregory was investigated for a sepa- ecutor engaged in misconduct during closing
+rate rape crime based on allegations by R.S. arguments in the penalty phase of the mur-
+In connection with that investigation, the Ta- der trial’’ and (2) ‘‘the rape convictions,’’
+coma Police Department obtained a search which we reversed, ‘‘were relied upon in the
+warrant for Gregory’s vehicle. In the vehicle, penalty phase of the murder case.’’ Id. at 777,
+police located a knife that was later deter- 147 P.3d 1201. We remanded the case for
+mined to be consistent with the murder resentencing. On remand, the trial court im-
+weapon used to kill G.H. Police also obtained paneled a new jury to preside over a second
+Gregory’s blood sample during the rape in- special sentencing proceeding. Again the jury
+vestigation and used that sample to connect determined there were not sufficient mitigat-
+him to the deoxyribonucleic acid (DNA) ing circumstances to merit leniency and sen-
+found at G.H.’s crime scene. State v. Gregory, tenced Gregory to death. Gregory appealed
+158 Wash.2d 759, 812, 147 P.3d 1201 (2006) his sentence, raising numerous issues. In ad-
+(Gregory I), overruled on other grounds by dition to any appeal, our court is statutorily
+State v. W.R., 181 Wash.2d 757, 336 P.3d required to review all death sentences. RCW
+1134 (2014). After matching Gregory’s DNA 10.95.130(1). Pursuant to statute, we consoli-
+to that found at G.H.’s murder scene, the date the direct appeal and death sentence
+State charged Gregory with aggravated first review. Id.
+2. In Gregory’s first appeal, we summarized the but the cause of death was multiple sharp force
+crime scene as follows: injuries to her back and neck. Semen was
+The evidence suggested that G.H. had been found in G.H.’s anal and vaginal swabs, on her
+attacked in her kitchen. She was probably thigh, and on the bedspread. The evidence
+stabbed once in the neck and then dragged suggested that she was still alive when she was
+into her bedroom. G.H.’s work clothes had raped. Missing from her home were a pair of
+been cut off of her, and her hands were tied diamond earrings, jewelry, and her cash tips
+behind her back with apron strings. She was from that evening.
+then stabbed three times in the back. In addi- State v. Gregory, 158 Wash.2d 759, 811-12, 147
+tion, she had three deep slicing wounds to the
+P.3d 1201 (2006), overruled on other grounds by
+front of her throatTTTT The medical examiner
+State v. W.R., 181 Wash.2d 757, 336 P.3d 1134
+concluded that G.H. suffered blunt force trau-
+(2014).
+ma to the head and she had several bruises,
+
+628 Wash. 427 PACIFIC REPORTER, 3d SERIES
+¶ 4 Following remand, the State also pre- where the death penalty is imposed wantonly
+pared for a new rape trial. The State con- and freakishly, it is unconstitutional.’’ (cita-
+ducted interviews with R.S., but the inter- tion omitted) ). Three years later, by way of a
+views revealed that she had lied at the first ballot initiative, Washington enacted a new
+trial. The State moved to dismiss the rape capital punishment law that required manda-
+charges because R.S.’s inconsistent state- tory imposition of the death penalty for spec-
+ments ‘‘ma[d]e it impossible for the State to ified offenses. Initiative 316, LAWS OF 1975 2d
+proceed forward on [count I and count II]’’ Ex. Sess., ch. 9, repealed by LAWS OF 1981,
+and, given her statements, ‘‘the State d[id] ch. 138, § 24. But this, too, proved proble-
+not believe there [was] any reasonable proba- matic. In 1976, the United States Supreme
+bility of proving the defendant is guilty of Court held that mandatory imposition of
+[count III].’’ Clerk’s Papers at 519. The trial death sentences for specified homicides is
+court dismissed the rape charges with preju- unconstitutional. Woodson v. North Carolina,
+dice. 428 U.S. 280, 96 S.Ct. 2978, 49 L.Ed.2d 944
+(1976) (plurality opinion); Roberts v. Louisi-
+II. ISSUES 3 ana, 428 U.S. 325, 96 S.Ct. 3001, 49 L.Ed.2d
+974 (1976). Consequently, we declared our
+A. Whether Washington’s death penalty
+capital punishment law unconstitutional.
+is imposed in an arbitrary and racially biased
+Green, 91 Wash.2d at 447, 588 P.2d 1370. In
+manner.
+contrast, Georgia’s capital punishment law
+B. Whether statutory proportionality re-
+was upheld. Gregg v. Georgia, 428 U.S. 153,
+view of death sentences alleviates the alleged
+96 S.Ct. 2909, 49 L.Ed.2d 859 (1976) (plurali-
+constitutional defects of the death penalty.
+ty opinion). To be constitutionally valid,
+C. Whether the court should reconsider ‘‘where discretion is afforded a sentencing
+arguments pertaining to the guilt phase of body on a matter so grave as the determina-
+Gregory’s trial. tion of whether a human life should be taken
+or spared, that discretion must be suitably
+III. ANALYSIS directed and limited so as to minimize the
+risk of wholly arbitrary and capricious ac-
+A. Historical background of the death pen-
+tion.’’ Id. at 189, 96 S.Ct. 2909.
+alty in Washington
+[1] ¶ 5 A brief history of the various ¶ 6 Our legislature enacted a new capital
+death penalty schemes in Washington serves punishment law, allowing for the imposition
+to illustrate the complex constitutional re- of the death penalty where the jury, in a
+quirements for capital punishment. See also subsequent sentencing proceeding, found an
+State v. Bartholomew, 98 Wash.2d 173, 180- aggravating circumstance, no mitigating fac-
+92, 654 P.2d 1170 (1982) (Bartholomew I), tors sufficient to merit leniency, guilt with
+vacated, 463 U.S. 1203, 103 S.Ct. 3530, 77 clear certainty, and a probability of future
+L.Ed.2d 1383 (1983) (similar historical discus- criminal acts. LAWS OF 1977, 1st Ex. Sess., ch.
+sion). In 1972, the United States Supreme 206 (codified in chapter 9A.32 RCW and for-
+Court nullified capital punishment laws in 39 mer chapter 10.94 RCW, repealed by LAWS
+states, including Washington, and the Dis- OF 1981, ch. 138, § 24). The statute was found
+trict of Columbia. Furman v. Georgia, 408 unconstitutional because it allowed imposition
+U.S. 238, 305, 92 S.Ct. 2726, 33 L.Ed.2d 346 of the death penalty for those who pleaded
+(1972); Baker, 81 Wash.2d at 282, 501 P.2d not guilty but did not impose the death pen-
+284; State v. Lord, 117 Wash.2d 829, 908, 822 alty when there was a guilty plea. Frampton,
+P.2d 177 (1991) (‘‘Furman prohibits sentenc- 95 Wash.2d at 480, 627 P.2d 922. The legisla-
+ing procedures which create a substantial ture again refined our capital punishment law
+risk that death will be imposed in an arbi- in an attempt to conform to various legal
+trary and capricious manner. In other words, directives. Ch. 10.95 RCW. Our current stat-
+3. Since we hold that the death penalty is uncon- rors that occurred during the penalty phase of
+stitutional, we decline to address Gregory’s other the trial.
+challenges to the penalty imposed or alleged er-
+
+STATE v. GREGORY Wash. 629
+Cite as 427 P.3d 621 (Wash. 2018)
+ute is nearly identical to the Georgia statute. tionality review ‘‘was undertaken in Washing-
+State v. Harris, 106 Wash.2d 784, 798, 725 ton in response to the United States Su-
+P.2d 975 (1986) (‘‘The language in our statute preme Court decision in Furman’’).
+is identical to that used in the Georgia stat-
+ute.’’); cf. Bartholomew I, 98 Wash.2d at 188, B. Gregory ’ s constitutional challenge to
+654 P.2d 1170 (‘‘The statutory aggravating the death penalty is intertwined with our
+circumstances are similar but not identical to statutorily mandated proportionality re-
+those of the approved Georgia statute.’’). view
+¶ 7 Chapter 10.95 RCW provides for a ¶ 9 Gregory challenged the constitutionali-
+bifurcated proceeding—first the defendant is ty of the death penalty, supported with nu-
+found guilty of aggravated first degree mur- merous reasons. He also presented a statu-
+der, and then a special sentencing proceeding tory argument, that his death sentence is
+is held before either a judge or a jury to excessive and disproportionate to the penal-
+determine whether there are sufficient miti- ty imposed in similar cases. RCW
+gating circumstances to merit leniency. RCW 10.95.130(2)(b). Gregory claimed that his
+10.95.050, .060. If there are, the defendant death sentence ‘‘is random and arbitrary,
+shall be sentenced to life without parole. and, to the extent it is not, it is impermissi-
+RCW 10.95.080. If the defendant is sentenced bly based on his race and the county of
+to death, the sentence is automatically re- conviction.’’ Opening Br. of Appellant at 96
+viewed by this court, in addition to any ap- (underlining omitted). These assertions are
+peal the defendant seeks. RCW 10.95.100. precisely what proportionality review is de-
+Our statutorily mandated death sentence re- signed to avoid. See State v. Brown, 132
+view proceeding requires this court to deter- Wash.2d 529, 554-55, 940 P.2d 546 (1997)
+mine (a) whether there was sufficient evi- (‘‘In conducting proportionality review the
+dence to justify the judge’s or jury’s finding court is principally concerned with avoiding
+in the special sentencing proceeding, (b) two systemic problems TTT: random arbi-
+whether the death sentence is excessive or trariness and imposition of the death sen-
+disproportionate to the penalty imposed in tence in a racially discriminatory manner.’’).
+similar cases, considering the crime and the
+[4] ¶ 10 In Davis, our court grappled
+defendant, (c) whether the death sentence
+with proportionality review of the defen-
+was brought about through passion or preju-
+dant’s death sentence. ‘‘How to properly per-
+dice, and (d) whether the defendant had an
+form proportionality review, and upon what
+intellectual disability. RCW 10.95.130(2).
+data, is a reoccurring, vexing problem in
+[2, 3] ¶ 8 Proportionality review ‘‘serves capital case jurisprudence across the nation.’’
+as an additional safeguard against arbitrary Cross, 156 Wash.2d at 636, 132 P.3d 80. The
+or capricious sentencing.’’ State v. Pirtle, 127 majority and dissenting opinions took differ-
+Wash.2d 628, 685, 904 P.2d 245 (1995); Har- ent approaches disputing which factors were
+ris, 106 Wash.2d at 797, 725 P.2d 975. The relevant and to what degree statistical evi-
+goal is ‘‘to ensure that the death penalty’s dence could be relied on. The majority saw
+imposition is not ‘freakish, wanton, or ran- ‘‘no evidence that racial discrimination per-
+dom[ ] and is not based on race or other vades the imposition of capital punishment in
+suspect classifications.’ ’’ State v. Davis, 175 Washington.’’ Davis, 175 Wash.2d at 372, 290
+Wash.2d 287, 348, 290 P.3d 43 (2012) (altera- P.3d 43. But the dissent believed that ‘‘[o]ne
+tion in original) (quoting State v. Cross, 156 could better predict whether the death penal-
+Wash.2d 580, 630, 132 P.3d 80 (2006) ). The ty will be imposed on Washington’s most
+United States Supreme Court held that stat- brutal murderers by flipping a coin than by
+utory proportionality review is not required evaluating the crime and the defendant. Our
+by the federal constitution, Pulley v. Harris, system of imposing the death penalty defies
+465 U.S. 37, 43-44, 104 S.Ct. 871, 79 L.Ed.2d rationality, and our proportionality review
+29 (1984), but the impetus for it nonetheless has become an ‘empty ritual.’ ’’ Id. (Fair-
+derives from constitutional principles. Lord, hurst, J., dissenting) (quoting State v. Benn,
+117 Wash.2d at 908, 822 P.2d 177 (propor- 120 Wash.2d 631, 709, 845 P.2d 289 (1993)
+
+630 Wash. 427 PACIFIC REPORTER, 3d SERIES
+(Utter, J., dissenting) ). ‘‘We can, and must, dered that a hearing be held before then
+evaluate the system as a whole.’’ Id. at 388, Supreme Court Commissioner Narda Pierce.
+290 P.3d 43. Justice Wiggins specifically No actual hearing was held since the parties
+called on competent experts to present evi- agreed on the procedures and Commissioner
+dence on the ‘‘statistical significance of the Pierce was able to solicit additional informa-
+racial patterns that emerge from the aggra- tion through interrogatories. The State filed
+vated-murder trial reports.’’ Id. at 401, 290 the report of its expert, and Gregory filed
+P.3d 43 (Wiggins, J., concurring in dissent). Beckett’s response. NICHOLAS SCURICH, EVAL-
+¶ 11 In light of Davis, Gregory commis- UATION OF ‘‘THE ROLE OF RACE IN WASHINGTON
+sioned a study on the effect of race and
+STATE CAPITAL SENTENCING, 1981-2014’’ (July
+county on the imposition of the death penal-
+7, 2016); KATHERINE BECKETT & HEATHER
+ty. Opening Br. of Appellant, App. A (KATH- EVANS, RESPONSE TO EVALUATION OF ‘‘THE
+ERINE BECKETT & HEATHER EVANS, THE ROLE ROLE OF RACE IN WASHINGTON STATE CAPITAL
+OF RACE IN WASHINGTON STATE CAPITAL SEN- SENTENCING, 1981-2014’’ BY NICHOLAS SCU-
+TENCING, 1981-2012 (Jan. 27, 2014) [https:// RICH (Aug. 25, 2016). Commissioner Pierce
+perma.cc/XPS27YTR] ).4 Subsequently, addi- reviewed these filings and then posed follow-
+tional trial reports were filed. Beckett per- up questions in interrogatory form. After
+formed a new regression analysis and updat- receiving answers, Commissioner Pierce filed
+ed her report. KATHERINE BECKETT & her report. FINDINGS AND REPORT RELATING
+HEATHER EVANS, THE ROLE OF RACE IN WASH- TO PARTIES’ EXPERT REPORTS (Nov. 21, 2017)
+INGTON STATE CAPITAL SENTENCING, 1981-2014 (Commissioner’s Report). The Commission-
+(Oct. 13, 2014) (Updated Beckett Report) er’s Report did not make legal conclusions or
+[https://perma.cc/3THJ-989W]. The Updated recommend how this court should weigh the
+Beckett Report supported three main conclu- evidence before us. Rather, the Commission-
+sions: (1) there is significant county-by-coun- er’s Report provided us with an overview of
+ty variation in decisions to seek or impose the disagreements between the experts and
+the death penalty, and a portion of that the overall strength and weakness of Beck-
+variation is a function of the size of the black ett’s analysis, which may impact the weight
+population but does not stem from differ- that we accord to her conclusions. The par-
+ences in population density, political orienta- ties (and amici) filed supplemental briefing
+tion, or fiscal capacity of the county, (2) case that shed further light on the issues raised in
+characteristics as documented in the trial the Commissioner’s Report and the overall
+reports explain a small portion of variance in assessment of Beckett’s analysis. In turn, the
+decisions to seek or impose the death penal- Updated Beckett Report and the subsequent
+ty, and (3) black defendants were four and a rigorous evidentiary process provided this
+half times more likely to be sentenced to court with far more system-wide information
+death than similarly situated white defen- concerning the death penalty, enabling Greg-
+dants. Id. at 31-33. Gregory filed a motion to ory to use that information to substantiate
+admit the Updated Beckett Report, which we his constitutional challenge as well. In his
+granted. supplemental brief, Gregory incorporates the
+analysis and conclusions from the Updated
+¶ 12 The State raised many concerns about
+Beckett Report to support his constitutional
+the reliance on Beckett’s statistical analysis,
+claim, arguing that the death penalty is im-
+arguing that this was an inappropriate forum
+posed in an arbitrary and racially biased
+for litigating facts and adducing evidence.
+manner.
+The State was also concerned because Beck-
+ett had not been subject to cross-examination [5] ¶ 13 Given the intertwined nature of
+about her involvement with Gregory’s coun- Gregory’s claims, we have discretion to re-
+sel, her statistical methodology, and her solve them on statutory grounds, by solely
+overall reliability. The State requested an determining if his death sentence fails the
+opportunity to challenge the Updated Beck- statutorily mandated death sentence review
+ett Report. We granted the request and or- and must be converted to life without parole,
+4. For readability, we refer to Katherine Beckett and Heather Evans collectively as ‘‘Beckett.’’
+
+STATE v. GREGORY Wash. 631
+Cite as 427 P.3d 621 (Wash. 2018)
+or on constitutional grounds, by assessing Wash. Envtl. Council, 96 Wash.2d 230, 238,
+our state’s death penalty scheme as a whole. 635 P.2d 108 (1981) (quoting THE FEDERALIST
+‘‘Where an issue may be resolved on statuto- NO. 51, at 339 (A. Hamilton or J. Madison)
+ry grounds, the court will avoid deciding the (Modem Library ed. 1937) ). ‘‘It is by now
+issue on constitutional grounds.’’ Tunstall v. well established that state courts have the
+Bergeson, 141 Wash.2d 201, 210, 5 P.3d 691 power to interpret their state constitutional
+(2000). Because Gregory challenges the pro- provisions as more protective of individual
+cess by which the death penalty is imposed, rights than the parallel provisions of the
+the issue cannot be adequately resolved on United States Constitution.’’ State v.
+statutory grounds. Proportionality review is Simpson, 95 Wash.2d 170, 177, 622 P.2d 1199
+a statutory task that this court must perform (1980) (plurality opinion).
+on the specific death sentence before us, but
+[10–12] ¶ 16 Article I, section 14 of our
+it is not a substitute for the protections af-
+state constitution provides, ‘‘Excessive bail
+forded to all persons under our constitution.
+shall not be required, excessive fines im-
+posed, nor cruel punishment inflicted.’’ Our
+C. Washington’s death penalty scheme is
+interpretation of article I, section 14 ‘‘is not
+unconstitutional, as administered
+constrained by the Supreme Court’s inter-
+1. Standard of review
+pretation of the [Eighth Amendment].’’ State
+[6, 7] ¶ 14 We review constitutional v. Bartholomew, 101 Wash.2d 631, 639, 683
+claims de novo. However, conducting a con- P.2d 1079 (1984) (Bartholomew II); U.S.
+stitutional analysis in death penalty cases is CONST. amend. VIII. This court has ‘‘re-
+slightly different from our traditional consti- peatedly] recogni[zed] that the Washington
+tutional review. ‘‘The death penalty differs State Constitution’s cruel punishment clause
+qualitatively from all other punishments, and often provides greater protection than the
+therefore requires a correspondingly high Eighth Amendment.’’ State v. Roberts, 142
+level of reliability.’’ Pirtle, 127 Wash.2d at Wash.2d 471, 506, 14 P.3d 713 (2000); State v.
+663, 904 P.2d 245; see also Lord, 117 Wash.2d Ramos, 187 Wash.2d 420, 453-54, 387 P.3d
+at 888, 822 P.2d 177 (The death penalty is 650 (quoting same passage), cert. denied, –––
+‘‘subjected to a correspondingly higher de- U.S. ––––, 138 S. Ct. 467, 199 L.Ed.2d 355
+gree of scrutiny than sentencing in noncapi- (2017).
+tal cases.’’). Especially where the language of our
+constitution is different from the analogous
+[8, 9] ¶ 15 Gregory brought challenges
+federal provision, we are not bound to
+under both the state and federal constitu-
+assume the framers intended an identical
+tions. We have ‘‘ ‘a duty, where feasible, to
+interpretation. The historical evidence re-
+resolve constitutional questions first under
+veals that the framers of [the Washington
+the provisions of our own state constitution
+Constitution, article I, section 14] were of
+before turning to federal law.’ ’’ Collier v.
+the view that the word ‘‘cruel’’ sufficiently
+City of Tacoma, 121 Wash.2d 737, 745, 854
+expressed their intent, and refused to
+P.2d 1046 (1993) (quoting O’Day v. King
+adopt an amendment inserting the word
+County, 109 Wash.2d 796, 801-02, 749 P.2d
+‘‘unusual.’’
+142 (1988) ); accord State v. Jorgenson, 179
+Wash.2d 145, 152, 312 P.3d 960 (2013) State v. Fain, 94 Wash.2d 387, 393, 617 P.2d
+(‘‘Where feasible, we resolve constitutional 720 (1980). A formal Gunwall 5 analysis is not
+questions first under our own state constitu- necessary when we apply established princi-
+tion before turning to federal law.’’). If we ples of state constitutional jurisprudence.
+neglect this duty, we ‘‘deprive[ ] the people of Roberts, 142 Wash.2d at 506 n.11, 14 P.3d
+their ‘double security.’ ’’ Alderwood Assocs. v. 713.6
+5. State v. Gunwall, 106 Wash.2d 54, 720 P.2d der certain contexts, the court may have good
+808 (1986). reason to interpret the state and federal constitu-
+tions synonymously rather than independently.
+6. We recognize that article I, section 14 is not For example, in State v. Dodd, we found that
+per se broader than the Eighth Amendment. Un- article I, section 14 was not more protective than
+
+632 Wash. 427 PACIFIC REPORTER, 3d SERIES
+[13] ¶ 17 For example, in Bartholomew penalty in Washington is effectively stan-
+II, we adhered to our decision invalidating dardless and that our proportionality review
+portions of our capital punishment law on does not properly police the use of the penal-
+independent state constitutional grounds ty.’’ 156 Wash.2d at 621, 132 P.3d 80; In re
+rather than conforming our analysis to a Pers. Restraint of Cross, 180 Wash.2d 664,
+recent United States Supreme Court case 731, 327 P.3d 660 (2014) (rejecting his consti-
+affirming the death penalty against an tutional claims again). We reaffirmed the
+Eighth Amendment challenge. 101 Wash.2d holding in Yates under the federal and state
+at 634, 683 P.2d 1079 (referring to Zant v. constitutions. 161 Wash.2d at 792, 168 P.3d
+Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 359. Every decision of this court creates
+L.Ed.2d 235 (1983) ). Our decision rested ‘‘on precedent that ‘‘[w]e do not lightly set aside.’’
+an interpretation of both the state and feder- State v. Kier, 164 Wash.2d 798, 804, 194 P.3d
+al constitutions,’’ but the independent state 212 (2008).
+constitutional grounds were ‘‘adequate, in
+and of themselves, to compel the result.’’ Id. [14] ¶ 19 However, ‘‘stability should not
+at 644, 683 P.2d 1079 (relying on Michigan v. be confused with perpetuity,’’ and major
+Long, 463 U.S. 1032, 103 S.Ct. 3469, 77 changes have taken place since our Cross
+L.Ed.2d 1201 (1983), so that any federal con- opinion that support our decision to revisit
+stitutional decision by the Supreme Court the constitutionality of the death penalty. In
+‘‘will have no bearing on our decision’’). How- re Rights to Waters of Stranger Creek, 77
+ever, in State v. Yates, we did not address Wash.2d 649, 653, 466 P.2d 508 (1970). First,
+the defendant’s state constitutional argument we have numerous additional trial reports for
+because he could not ‘‘establish that chapter defendants convicted of aggravated murder
+10.95 RCW violates the Eighth Amendment, that were not previously available to us or
+[so] his claim that the statute violates article the defendants who made constitutional
+I, section 14 of the Washington State Consti- claims. Reply Br. of Appellant at 56 (judges
+tution is unavailing.’’ 161 Wash.2d 714, 792, have filed 120 additional trial reports since
+168 P.3d 359 (2007). In contrast, the evidence Cross was filed; 67 of those were filed after
+here shows that Gregory could establish that the Cross opinion was published and dozens
+Washington’s death penalty violates both the were filed after Gregory’s motion to complete
+federal and state constitutions. At the very process of compiling aggravated murder re-
+least, article I, section 14 cannot provide for ports was filed). Second, Gregory commis-
+less protection than the Eighth Amendment, sioned a statistical study based on the infor-
+and in this case, we interpret it independent- mation in the trial reports to demonstrate
+ly from the federal counterpart. Let there be that the death penalty is imposed in an arbi-
+no doubt—we adhere to our duty to resolve trary and racially biased manner. Additional-
+constitutional questions under our own con- ly, we allowed the State to challenge the
+stitution, and accordingly, we resolve this Updated Beckett Report, subjected it to a
+case on adequate and independent state con- thorough evaluation process facilitated by
+stitutional principles. See Long, 463 U.S. at our court commissioner, and accepted supple-
+1041-42, 103 S.Ct. 3469. mental briefing from the parties and amici
+concerning the analysis and conclusions pre-
+2. Our prior decisions upholding Wash-
+sented.
+ington’s death penalty do not preclude
+Gregory’s claim
+[15, 16] ¶ 20 In Davis, this court saw ‘‘no
+¶ 18 We have previously upheld the consti- evidence that racial discrimination pervades
+tutionality of the death penalty under some- the imposition of capital punishment in
+what similar claims. In Cross, we rejected Washington.’’ 175 Wash.2d at 372, 290 P.3d
+the defendant’s argument that ‘‘the death 43. That is precisely what has now come to
+the Eighth Amendment when a capital defendant the ‘‘ruling in Dodd is limited to the facts of that
+wanted to waive general appellate review in case.’’ State v. Thorne, 129 Wash.2d 736, 772
+hopes of a speedier execution. 120 Wash.2d 1, n.10, 921 P.2d 514 (1996).
+21, 838 P.2d 86 (1992). We later explained that
+
+STATE v. GREGORY Wash. 633
+Cite as 427 P.3d 621 (Wash. 2018)
+light and warrants our consideration. See v. Manussier, 129 Wash.2d 652, 676, 921 P.2d
+Roper v. Simmons, 543 U.S. 551, 564-69, 125 473 (1996) (‘‘the state constitution, like the
+S.Ct. 1183, 161 L.Ed.2d 1 (2005) (reconsider- Eighth Amendment, proscribes dispropor-
+ing precedent upholding the death penalty tionate sentencing in addition to certain
+for juvenile offenders, supported by scientific modes of punishment’’).
+and sociological studies about the differences
+between juveniles and adults, and objective ¶ 22 To reach our conclusion, we afford
+indicia of society’s view of juveniles); Atkins great weight to Beckett’s analysis and con-
+v. Virginia, 536 U.S. 304, 314, 122 S.Ct. 2242, clusions. We refer to Beckett’s analysis and
+153 L.Ed.2d 335 (2002) (reconsidering prece- conclusions rather than a specific report or
+dent upholding the death penalty for intellec- model variation filed with this court because
+tually disabled defendants, because ‘‘[m]uch there have been numerous updates, correc-
+has changed since then,’’ including objective tions, and iterations of her analysis that were
+indicia that society’s views on the execution conducted since the Updated Beckett Report
+of such defendants had changed and newly was first admitted. The State is correct that
+available clinical information about people we cannot explicitly rely on the Updated
+with intellectual disabilities); State v. O’Dell, Beckett Report because of these subsequent
+183 Wash.2d 680, 695, 358 P.3d 359 (2015) (in changes in Beckett’s data file and analysis.
+light of ‘‘advances in the scientific literature’’ As a result of the State’s challenge and Com-
+concerning cognitive and emotional develop- missioner Pierce’s fact-finding process, Beck-
+ment, while not overruling State v. Ha’mim,
+ett’s analysis became only more refined,
+132 Wash.2d 834, 940 P.2d 633 (1997), we
+more accurate, and ultimately, more reliable.
+concluded that youth is far more likely to
+diminish a defendant’s culpability for sen- ¶ 23 After running various models, as re-
+tencing purposes than we had implied in quested by Commissioner Pierce, Beckett
+prior cases). In this case, we need not decide summarized her findings regarding race:
+whether the prior cases were incorrect and
+[F]rom December 1981 through May of
+harmful at the time they were decided. Rath-
+2014, special sentencing proceedings in
+er, the scope of article I, section 14, no less
+Washington State involving Black defen-
+than that of the Eighth Amendment, ‘‘is not
+dants were between 3.5 and 4.6 times as
+static.’’ Trop v. Dulles, 356 U.S. 86, 101, 78
+likely to result in a death sentence as
+S.Ct. 590, 2 L.Ed.2d 630 (1958) (plurality
+proceedings involving non-Black defen-
+opinion). Where new, objective information is
+dants after the impact of the other varia-
+presented for our consideration, we must ac-
+bles included in the model has been taken
+count for it. Therefore, Gregory’s constitu-
+tional claim must be examined in light of the into account.
+newly available evidence presently before us.
+Resp. to Comm’r’s Suppl. Interrogs. at 16
+(Sept. 29, 2017). Though the Updated Beck-
+3. Washington’s death penalty is im- ett Report presented three main conclusions
+posed in an arbitrary and racially concerning the impact of race, county, and
+biased manner case characteristics on the death penalty,
+supra at Section III.B, Gregory’s constitu-
+[17, 18] ¶ 21 It is now apparent that
+Washington’s death penalty is administered tional argument does not refer to the county
+in an arbitrary and racially biased manner. variance, so we do not consider that conclu-
+Given the evidence before us, we strike down sion in our analysis. Suppl. Br. of Appellant
+Washington’s death penalty as unconstitu- at 25 (‘‘This new evidence [referring to the
+tional under article I, section 14. ‘‘Where the Updated Beckett Report] shows the death
+trial which results in imposition of the death penalty is imposed in an arbitrary and racial-
+penalty lacks fundamental fairness, the pun- ly biased manner.’’). With regard to the
+ishment violates article I, section 14 of the methodological issues raised by the State, we
+state constitution.’’ Bartholomew II, 101 find that these concerns have no material
+Wash.2d at 640, 683 P.2d 1079; see also State negative impact on the weight accorded to
+
+634 Wash. 427 PACIFIC REPORTER, 3d SERIES
+Beckett’s analysis and conclusions.7 Furman, Justice Stewart explained that the
+¶ 24 The most important consideration is death sentences before the court were ‘‘cruel
+whether the evidence shows that race has a and unusual in the same way that being
+meaningful impact on imposition of the death struck by lightning is cruel and unusualTTTT
+penalty. We make this determination by way [T]he petitioners are among a capriciously
+of legal analysis, not pure science. Davis, 175 selected random handful upon whom the sen-
+Wash.2d at 372, 401, 290 P.3d 43 (‘‘We ac- tence of death has in fact been imposed.’’ 408
+knowledge that ‘we are not statisticians.’ ’’ U.S. at 309-10, 92 S.Ct. 2726 (Stewart, J.,
+(quoting Wiggins, J., concurring in dissent) ). concurring).9 Justice Stewart did not need to
+At the very most, there is an 11 percent compare the probability of being struck by
+chance that the observed association between lightning to the probability of being sen-
+race and the death penalty in Beckett’s re- tenced to death, nor did he need to rely on
+gression analysis is attributed to random an expert’s regression analysis to ensure that
+chance rather than true association. Commis- the petitioners were in fact randomly select-
+sioner’s Report at 56-68 (the p-values range ed without any relation to other dependent
+from 0.048-0.111, which measures the proba-
+variables. Similarly, Justice White explained
+bility that the observed association is the
+what he believed to be ‘‘a near truism: that
+result of random chance rather than a true
+the death penalty could so seldom be im-
+association).8 Just as we declined to require
+posed that it would cease to be a credible
+‘‘precise uniformity’’ under our proportionali-
+deterrent or measurably to contribute to any
+ty review, we decline to require indisputably
+other end of punishment in the criminal jus-
+true social science to prove that our death
+tice system.’’ Id. at 311, 92 S.Ct. 2726 (White,
+penalty is impermissibly imposed based on
+J., concurring). He did not need to rely on an
+race. Lord, 117 Wash.2d at 910, 822 P.2d 177.
+expert’s calculation as to what point the rate
+[19, 20] ¶ 25 This is consistent with con- at which the death penalty is imposed be-
+stitutional legal analysis. For example, in comes low enough that potential murderers
+7. The State argued that Beckett’s analysis was missioner Pierce to undergo a fact-finding pro-
+based on too small of a data set because she used cess. We are unpersuaded that the existence of
+maximum likelihood estimate procedures, which some errors should lead to the conclusion that
+generally require at least 100 cases to draw from. the rest of the data set is rife with additional
+To the contrary, we agree with Gregory and errors, especially when professors and social sci-
+amici that the concern is inapplicable because entist researchers across the field characterize it
+Beckett conducted an observational study in as a ‘‘rigorous and thorough study.’’ Br. of Soc.
+which her data set includes all trial reports filed Scientists & Researchers, at 1.
+for defendants who underwent a special sentenc-
+ing procedure from 1981-2014. The data set re- 8. The most common p-value used for statistical
+flects the population, not a sample.
+significance is 0.05, but this is not a bright line
+Additionally, concerns regarding Beckett’s rule. Commissioner’s Report at 57-58. The Amer-
+coding protocol and data entry have largely been ican Statistical Association (ASA) explains that
+alleviated by the rigorous review process
+the ‘‘ ‘mechanical ‘‘bright-line’’ rules (such as
+throughout this litigation. Since the coding and ‘‘p¢0.05’’) for justifying scientific claims or con-
+data entry are based on the trial judge’s qualita-
+clusions can lead to erroneous beliefs and poor
+tive trial report, there will always be some degree
+decision making.’ ’’ Id. at 58 (quoting SCURICH,
+of variance or subjectivity when those reports are
+supra, at 2) ‘‘ ‘A conclusion does not immediately
+translated into numerical values. Gregory high-
+become ‘‘true’’ on one side of the divide and
+lights the more crucial point—the initial regres-
+‘‘false’’ on the other.’ ’’ Id. (quoting Ronald L.
+sion analysis in the Updated Beckett Report, the
+Wasserstein & Nicole A. Lazar, The ASA’s State-
+regression analysis conducted in response to
+ment on p-Values: Context, Process, and Purpose,
+Commissioner Pierce’s interrogatories, and the
+final regression analysis conducted pursuant to
+70 AM. STATISTICIAN 129, 131 (2016) ), http://dx.d0i.
+0rg/10.1080/00031305.2016.1154108.
+the updated coding protocol all lead to the same
+conclusion. The subsequent analysis, with correc-
+tions, provides even stronger support for the 9. ‘‘Since five Justices wrote separately in support
+statistical significance of race on the imposition of the judgments in Furman, the holding of the
+of the death penalty. The State argues that the Court may be viewed as that position taken by
+existence of errors ‘‘should give this Court those Members who concurred in the judgments
+pause.’’ Suppl. Br. of Resp’t at 4. Surely we have on the narrowest grounds—Mr. Justice Stewart
+taken a pause by allowing the State to challenge and Mr. Justice White.’’ Gregg, 428 U.S. at 169
+the Updated Beckett Report and directing Com- n.15, 96 S.Ct. 2909.
+
+STATE v. GREGORY Wash. 635
+Cite as 427 P.3d 621 (Wash. 2018)
+are no longer deterred from committing their calle, 178 Wash.2d 34, 45, 309 P.3d 326 (2013)
+intended crimes. Similarly, under the Sixth (plurality opinion) (‘‘ ‘[T]he fact of racial and
+Amendment to the United States Constitu- ethnic disproportionality in [Washington’s]
+tion, ineffective assistance of counsel claim- criminal justice system is indisputable.’ ’’
+ants must show deficient performance and (second alteration in original) (quoting TASK
+prejudice, where prejudice entails a ‘‘reason- FORCE ON RACE & CRIMINAL JUSTICE SYS.,
+able probability that, but for counsel’s unpro- PRELIMINARY REPORT ON RACE AND WASHING-
+fessional errors, the result of the proceeding TON’S CRIMINAL JUSTICE SYSTEM 1 (2011),
+would have been different.’’ Strickland v. https://law.seattleu.edu/Documents/
+Washington, 466 U.S. 668, 694, 104 S.Ct. Korematsu/Defender% 20Initiative/2014De-
+2052, 80 L.Ed.2d 674 (1984). ‘‘A reasonable fenderConference/2pm% 20panel/prelimi-
+probability is a probability sufficient to un- nary report race criminal jus-
+dermine confidence in the outcome.’’ Id. We tice 030111.pdf) [https://perma.cc/6BV4-RBB
+do not expect the defendant to present statis- 8] ); State v. Monday, 171 Wash.2d 667, 676-
+tical evidence of the outcome of hypothetical 79, 257 P.3d 551 (2011) (reversing a case in
+trials with a more effective attorney and which the prosecutor argued to the jury that
+compare it to the original trial, controlling ‘‘ ‘black folk don’t testify against black folk’ ’’
+for all other variables. Lastly, in State v.
+and referred to the police as ‘‘ ‘po-leese’ ’’ in
+Santiago, when deciding that the death pen-
+the examination of black witness); State v.
+alty was unconstitutional, the Connecticut
+Rhone, 168 Wash.2d 645, 648, 229 P.3d 752
+Supreme Court took judicial notice of scienti-
+(2010) (plurality opinion) (peremptory chal-
+fic and sociological studies that were ‘‘ ‘not
+lenge used to strike the ‘‘only African-Ameri-
+necessarily indisputably true’ ’’ but were
+can venire member in a trial of an African-
+‘‘ ‘more likely [true] than not true.’ ’’ 318
+American defendant’’); State v. Dhaliwal, 150
+Conn. 1, 127-29, 122 A.3d 1 (2015) (emphasis
+Wash.2d 559, 582, 79 P.3d 432 (2003) (Cham-
+omitted) (quoting 2 MCCORMICK ON EVIDENCE bers, J., concurring) (the prosecution’s theory
+§ 331, at 612-13 (Kenneth S. Broun ed., 7th
+of the case relied on ‘‘impermissible stereo-
+ed. 2013) ).
+types of the Sikh religious community’’); Tur-
+¶ 26 Given the evidence before this court ner v. Stime, 153 Wash. App. 581, 594, 222
+and our judicial notice of implicit and overt P.3d 1243 (2009) (requiring new trial based
+racial bias against black defendants in this on jurors’ racist remarks regarding Japa-
+state, we are confident that the association nese-American attorney); OFFICE OF ATTY.
+between race and the death penalty is not GEN. OF WASH. STATE, CONSOLIDATING TRAFFIC-
+attributed to random chance. We need not go BASED FINANCIAL OBLIGATIONS IN WASHING-
+on a fishing expedition to find evidence exter- TON STATE 9 (Dec. 1, 2017), https://app.leg.wa.
+nal to Beckett’s study as a means of validat- gov/ReportsToTheLegislature/Home/Get
+ing the results. Our case law and history of PDF?fileName=SB% 206360% 20Report 12-
+racial discrimination provide ample support. 01-7 0c338f90-d3b6-46e2-a87d-387
+See, e.g., City of Seattle v. Erickson, 188 eba9a0b46.pdf [https://perma.cc/TB4K-
+Wash.2d 721, 734, 398 P.3d 1124 (2017) (per- KAEF]; see also Amici Curiae Br. of 56
+emptory challenge used to strike the only Former & Retired Wash. State Judges et al.
+African-American on a jury panel); State v. at 8-13.
+Walker, 182 Wash.2d 463, 488, 341 P.3d 976
+(2015) (Gordon McCloud, J., concurring) (de- [21] ¶ 27 The arbitrary and race based
+scribing prosecutor’s use of inflammatory, imposition of the death penalty cannot with-
+racially charged images ‘‘highlighting the de- stand the ‘‘ ‘evolving standards of decency
+fendant’s race—his blackness—in a case that mark the progress of a maturing soci-
+where that had absolutely no relevance’’); In ety.’ ’’ Fain, 94 Wash.2d at 397, 617 P.2d 720
+re Pers. Restraint of Gentry, 179 Wash.2d (quoting Trop, 356 U.S. at 101, 78 S.Ct. 590).
+614, 632, 316 P.3d 1020 (2014) (prosecutor When considering a challenge under article I,
+heckled black defense attorney in a death- section 14, we look to contemporary stan-
+penalty trial, asking, ‘‘ ‘Where did you learn dards and experience in other states. State v.
+your ethics? In Harlem?’ ’’); State v. Saint- Campbell, 103 Wash.2d 1, 32, 691 P.2d 929
+
+636 Wash. 427 PACIFIC REPORTER, 3d SERIES
+(1984). We recognize local, national, and in- ¶ 29 In Davis, this court was unable to
+ternational trends that disfavor capital pun- address the defendant’s state constitutional
+ishment more broadly.10 When the death claim that the death penalty failed to serve
+penalty is imposed in an arbitrary and racial- the legislative goal of deterrence because of a
+ly biased manner, society’s standards of de- ‘‘severe lack of information on the death pen-
+cency are even more offended. Our capital alty’s implementation.’’ 175 Wash.2d at 345,
+punishment law lacks ‘‘fundamental fairness’’ 290 P.3d 43. Now the information is plainly
+and thus violates article I, section 14. Bartho- before us. Beckett’s analysis and conclusions
+lomew II, 101 Wash.2d at 640, 683 P.2d 1079. demonstrate that there is ‘‘no meaningful
+basis for distinguishing the few cases in
+which [the death penalty] is imposed from
+4. The death penalty, as administered,
+the many cases in which it is not.’’ Furman,
+fails to serve legitimate penological
+408 U.S. at 313, 92 S.Ct. 2726 (White, J.,
+goals
+concurring). To the extent that race distin-
+[22–25] ¶ 28 Given our conclusion that guishes the cases, it is clearly impermissible
+the death penalty is imposed in an arbitrary and unconstitutional.
+and racially biased manner, it logically fol-
+[26] ¶ 30 Our capital punishment law was
+lows that the death penalty fails to serve
+intended to fix the problems identified in
+penological goals. The principal purposes of
+Furman, but after decades of experience, we
+capital punishment are ‘‘retribution and de-
+now see the same fatal flaws emerge, despite
+terrence of capital crimes by prospective of-
+the legislative attempt to avoid such deficien-
+fenders.’’ Gregg, 428 U.S. at 183, 96 S.Ct. cies. Yet, the death penalty is not per se
+2909; State v. Kwan Fai Mak, 105 Wash.2d unconstitutional. Campbell, 103 Wash.2d at
+692, 755 n.124, 718 P.2d 407 (1986) (quoting 31, 691 P.2d 929 (‘‘the death penalty is not
+the same passage). Unless the death penalty per se unconstitutional, since both the federal
+‘‘measurably contributes to one or both of and state constitutions recognized capital
+these goals, it ‘is nothing more than the punishment at the time of their adoption’’).
+purposeless and needless imposition of pain We leave open the possibility that the legisla-
+and suffering,’ and hence an unconstitutional ture may enact a ‘‘carefully drafted statute,’’
+punishment.’’ Enmund v. Florida, 458 U.S. Gregg, 428 U.S. at 195, 96 S.Ct. 2909, to
+782, 798, 102 S.Ct. 3368, 73 L.Ed.2d 1140 impose capital punishment in this state, but
+(1982) (quoting Coker v. Georgia, 433 U.S. it cannot create a system that offends consti-
+584, 592, 97 S.Ct. 2861, 53 L.Ed.2d 982 tutional rights. ‘‘[T]he death penalty is con-
+(1977) ). ‘‘If the policy of this state is retribu- stitutional only if it is properly constrained to
+tion for capital crimes, then it must be even- avoid freakish and wanton application.’’
+handed.’’ Campbell, 103 Wash.2d at 48, 691 Cross, 156 Wash.2d at 622-23, 132 P.3d 80.
+P.2d 929 (Utter, J., concurring in part, dis- The United States Supreme Court was ‘‘un-
+senting in part). willing to say that there is any one right way
+10. Governor Jay Inslee issued a moratorium on PENALTY INFO. CTR., THE DEATH PENALTY IN 2017: YEAR
+capital punishment in 2014. He explained that END REPORT 1 (Jan. 3, 2018), https://deathpenalty
+‘‘[t]he use of the death penalty in this state is info.org/documents/2017YrEnd.pdf [https://
+unequally appliedTTTT There are too many flaws perma.cc/YGV4-XLHV]. Nine states have abol-
+in the system. And when the ultimate decision is ished the death penalty since Gregg, and three
+death there is too much at stake to accept an other governors issued moratoria. Suppl. Br. of
+imperfect systemTTTT When the majority of death
+Appellant at 31 (citing States with and without
+penalty sentences lead to reversal, the entire sys-
+tem itself must be called into question.’’ Gover-
+the Death Penalty as of November 9, 2016, DEATH
+nor Jay Inslee Remarks Announcing a Capital
+PENALTY INFO. CTR., https://www.deathpenaltyinfo.
+org/states-and-without-death-penalty [https://
+Punishment Moratorium (Feb. 11, 2014), https://
+www.governor.wa.gov/sites/default/files/ perma.cc/8DT6-H7DG] ). Internationally, dozens
+documents/20140211 death penalty of countries have abolished capital punishment,
+moratorium.pdf [https://perma.cc/U6VX-9FVH]. including all European Union nations. Id. (citing
+While a majority of states have capital punish- Abolitionist and Retentionist Countries, DEATH
+ment laws, the annual number of new death PENALTY INFO. CTR., https://deathpenaltyinfo.org/
+sentences has steadily decreased over the last 20 abolitionist-and-retentionist-countries [https://
+years, from 315 in 1996 to 39 in 2017. DEATH perma.cc/V3BE-9JQS] ).
+
+STATE v. GREGORY Wash. 637
+Cite as 427 P.3d 621 (Wash. 2018)
+for a State to set up its capital sentencing mately connected with the balance of the
+scheme.’’ Spaziano v. Florida, 468 U.S. 447, act as to make it useless to accomplish the
+464, 104 S.Ct. 3154, 82 L.Ed.2d 340 (1984), purposes of the legislature.’’
+overruled on other grounds Hurst v. Florida, Hall, 97 Wash.2d at 582, 649 P.2d 98 (altera-
+––– U.S. ––––, 136 S.Ct. 616, 193 L.Ed.2d 504 tion in original) (quoting State ex rel. King
+(2016). We agree. ‘‘[T]o hold that the death County v. State Tax Comm’n, 174 Wash. 336,
+penalty is per se unconstitutional would be to 339-40, 24 P.2d 1094 (1933) ). The disputed
+substitute our moral judgment for that of the provision ‘‘must be grammatically, functional-
+people of Washington.’’ State v. Rupe, 101 ly, and volitionally severable.’’ McGowan, 148
+Wash.2d 664, 698, 683 P.2d 571 (1984) (plu- Wash.2d at 295, 60 P.3d 67.
+rality opinion).
+¶ 33 At the time of enactment, the legisla-
+ture likely assumed that a constitutional
+5. Proportionality review fails to allevi-
+death penalty statute required proportionali-
+ate the constitutional defects in our
+ty review (a component of death sentence
+capital punishment law, but it cannot
+review) because the Georgia death penalty
+be severed
+statute upheld in Gregg contained a mandato-
+[27–29] ¶ 31 Imposing the death penalty
+ry proportionality review. 428 U.S. at 206, 96
+in an arbitrary and racially biased manner
+S.Ct. 2909. The United States Supreme
+cannot be alleviated through this court’s stat-
+Court later held that proportionality review
+utory proportionality review. RCW
+is not required under the federal constitu-
+10.95.130(2)(b). Proportionality review serves
+tion, Pulley, 465 U.S. at 43-44, 104 S.Ct. 871,
+as a safeguard against arbitrary sentencing,
+but the provisions remain intimately connect-
+but it is conducted on an individual basis for
+ed. Lord, 117 Wash.2d at 908, 822 P.2d 177.
+each death sentence. ‘‘At its heart, propor-
+This court has not opined on whether propor-
+tionality review will always be a subjective
+tionality review is required under our state
+judgment as to whether a particular death
+constitution. Regardless, proportionality re-
+sentence fairly represents the values inherent
+view cannot be functionally severed because
+in Washington’s sentencing scheme for ag-
+there is no authority to carry out capital
+gravated murder.’’ Pirtle, 127 Wash.2d at
+punishment without proportionality review.
+687, 904 P.2d 245 (emphasis added). It does
+See Dodd, 120 Wash.2d at 14, 838 P.2d 86
+not address our capital punishment law as a
+(‘‘[T]his court must review a sentence of
+whole. Notwithstanding the broad goals of
+death, regardless of a defendant’s wishes.’’).
+proportionality review, case-by-case review of
+The trial court cannot issue a death warrant
+death sentences cannot fix the constitutional
+to order execution until our court affirms the
+deficiencies before us.
+death sentence and remands the case back to
+[30–33] ¶ 32 Despite this shortcoming, the trial court. RCW 10.95.160(1). The execu-
+proportionality review cannot be severed. tion date is then dependent on the date of
+Our capital punishment law contains a sever- remand. Id. Proportionality review does not
+ability clause, LAWS OF 1981, ch. 138, § 22, guarantee the constitutionality of the death
+but such clauses are ‘‘ ‘not an inexorable penalty, but it is so intimately and functional-
+command’.’’ Hall v. Niemer, 97 Wash.2d 574, ly connected to the capital punishment law
+584, 649 P.2d 98 (1982) (quoting Dorchy v. that it cannot be severed.
+Kansas, 264 U.S. 286, 290, 44 S.Ct. 323, 68
+L.Ed. 686 (1924) ); McGowan v. State, 148 D. Review of arguments pertaining to the
+Wash.2d 278, 295, 60 P.3d 67 (2002) (sever- guilt phase of Gregory’s trial is preclud-
+ability clauses are ‘‘not necessarily disposi- ed
+tive’’). The test for severability is ¶ 34 This case is an appeal of Gregory’s
+‘‘whether the constitutional and unconstitu- death sentence, combined with our statutori-
+tional provisions are so connected TTT that ly mandated death sentence review. Grego-
+it could not be believed that the legislature ry’s first degree murder conviction has al-
+would have passed one without the other; ready been appealed, reviewed by this court,
+or where the part eliminated is so inti- and affirmed. Gregory I, 158 Wash.2d at 777-
+
+638 Wash. 427 PACIFIC REPORTER, 3d SERIES
+78, 147 P.3d 1201. Despite this, Gregory con- was not Brady material and was not withheld
+tinues to raise arguments pertaining to his by the prosecution. Regarding the DNA and
+conviction. blood samples, the trial court denied Grego-
+ry’s motions because this court had ‘‘thor-
+1. We decline to review Gregory’s argu- oughly analyzed and decided’’ those issues in
+ments concerning the admissibility of Gregory I. 5 Verbatim Report of Proceedings
+evidence used at trial or the denied (June 24, 2011) (VRP) at 284. Gregory filed a
+motion for a new trial motion to reconsider, but the trial court de-
+¶ 35 Gregory argues that the trial court nied the motion.
+should have suppressed certain key evidence
+¶ 36 Gregory now attempts to reassert
+used at trial (blood samples, DNA, a knife)
+many of the same arguments from his first
+and should have granted his motion for a
+appeal. He claims the State withheld relevant
+new trial. In Gregory’s first appeal before
+information about R.S. when obtaining the
+this court, we upheld the validity of the blood
+orders to procure a sample of his DNA and a
+samples and DNA evidence but reversed his
+warrant to search his vehicle where the knife
+rape conviction on other grounds and re-
+was found. Specifically, he asserts that the
+manded the case for resentencing. Gregory I,
+trial court would not have authorized the
+158 Wash.2d at 828-29, 867, 147 P.3d 1201. In
+warrant or the orders if it was aware that
+June 2011, following remand, Gregory
+R.S. had a history as a paid confidential
+brought a pretrial motion that again chal-
+informant. We decline to address this argu-
+lenged the admissibility of the DNA evi-
+ment because reconsideration is barred by
+dence. Gregory moved to dismiss his death
+law of the case doctrine. Alternatively, re-
+penalty proceeding and to order a new guilt
+view is not warranted under RAP 2.5, nor
+phase trial. Gregory also moved to suppress
+has Gregory shown grounds for overruling
+evidence used to obtain his first degree mur-
+our precedent.13
+der conviction or, in the alternative, to order
+a Franks 11 hearing to determine the State’s
+a. Law of the case doctrine bars review
+knowledge regarding potentially exculpatory
+evidence used as a basis to find probable [34–37] ¶ 37 When we have already de-
+cause for the warrant and orders in question. termined a legal issue in a prior appeal, the
+Gregory argued that despite our holding in law of the case doctrine typically precludes
+Gregory I, law of the case did not bar his us from redeciding the same legal issue on a
+challenge. He also argued that the State had subsequent appeal. State v. Clark, 143
+in its control Brady 12 information concerning Wash.2d 731, 745, 24 P.3d 1006 (2001).
+R.S. that evidenced its lack of probable cause ‘‘ ‘[Q]uestions determined on appeal, or which
+to prosecute Gregory for rape. The trial might have been determined had they been
+court ruled the information regarding R.S. presented, will not again be considered on a
+11. Franks v. Delaware, 438 U.S. 154, 98 S.Ct. for discovery violations, and we will not disturb
+2674, 57 L.Ed.2d 667 (1978). that decision absent a manifest abuse of discre-
+tion. State v. Woods, 143 Wash.2d 561, 582, 23
+12. Brady v. Maryland, 373 U.S. 83, 83 S.Ct.
+P.3d 1046 (2001) (citing State v. Hanna, 123
+1194, 10 L.Ed.2d 215 (1963).
+Wash.2d 704, 715, 871 P.2d 135 (1994) ). Mani-
+13. Normally, the trial court’s rulings would be fest abuse of discretion requires a finding that no
+reviewed under abuse of discretion. A new trial is reasonable judge would have ruled the way the
+necessary only when the defendant ‘‘ ‘has been so trial court did. State v. Mason, 160 Wash.2d 910,
+prejudiced that nothing short of a new trial can 933-34, 162 P.3d 396 (2007). On appeal, the
+insure that the defendant will be treated fairly.’ ’’ defendant bears the burden of demonstrating
+State v. Hager, 171 Wash.2d 151, 156, 248 P.3d that the trial court’s refusal was an abuse of
+512 (2011) (internal quotation marks omitted) discretion. State v. Robinson, 38 Wash. App. 871,
+(quoting State v. Bourgeois, 133 Wash.2d 389, 881, 691 P.2d 213 (1984). Gregory fails to show
+406, 945 P.2d 1120 (1997) ). The decision to that the trial court abused its discretion, let alone
+grant or deny a new trial is primarily within the that it manifestly or clearly abused its discretion.
+discretion of the trial court, and we will not See Hager, 171 Wash.2d at 156, 248 P.3d 512;
+disturb that decision absent a clear abuse of Woods, 143 Wash.2d at 582, 23 P.3d 1046.
+discretion. Id. Similarly, we grant the trial court
+wide discretion in granting or denying dismissals
+
+STATE v. GREGORY Wash. 639
+Cite as 427 P.3d 621 (Wash. 2018)
+subsequent appeal if there is no substantial Law of the Case Doctrine Restricted.
+change in the evidence at a second determi- The following provisions apply if the same
+nation of the cause.’ ’’ Folsom v. County of case is again before the appellate court
+Spokane, 111 Wash.2d 256, 263, 759 P.2d following a remand:
+1196 (1988) (quoting Adamson v. Traylor, 66
+(1) Prior Trial Court Action. If a trial
+Wash.2d 338, 339, 402 P.2d 499 (1965) ). We
+court decision is otherwise properly before
+will reconsider a subsequent appellate argu-
+the appellate court, the appellate court
+ment raising the identical legal issue only
+may at the instance of a party review and
+when the holding of the prior appeal is clear-
+determine the propriety of a decision of
+ly erroneous and the application of the law of
+the trial court even though a similar deci-
+the case doctrine will result in a manifest
+sion was not disputed in an earlier review
+injustice. Clark, 143 Wash.2d at 745, 24 P.3d
+of the same case.
+1006.
+‘‘This rule does not revive automatically ev-
+¶ 38 The primary justification Gregory as-
+ery issue or decision which was not raised in
+serts for revisiting this issue is the informa-
+an earlier appeal.’’ State v. Barberio, 121
+tion surrounding R.S.’s history as a confiden-
+Wash.2d 48, 50, 846 P.2d 519 (1993). An issue
+tial informant. However, the trial court found
+that could have been appealed in an earlier
+that this information was either known or
+proceeding is reviewable under RAP 2.5(c)(1)
+made available to Gregory’s attorney prior to
+in a later appeal following remand of the case
+the first trial. Gregory does not challenge
+only if the trial court, on remand and in the
+this finding on appeal. Thus, Gregory failed
+exercise of its own independent judgment,
+to timely raise the issue in the trial court
+considered and ruled again on that issue. Id.
+either prior to or during his first appeal. See
+State v. Robinson, 171 Wash.2d 292, 304, 253 ¶ 40 When the trial court ruled on the 2011
+P.3d 84 (2011) (explaining that the general motions, the court considered Gregory’s ar-
+rule is that a failure to raise an issue before gument regarding the history of R.S. and
+the trial court constitutes a waiver, unless how that may have impacted the validity of
+the party can show a manifest error affecting the warrant request and blood draw orders.
+a constitutional right); see also RAP 2.5(a). The trial court found that the purported
+The decision regarding the propriety of the ‘‘new’’ evidence was made available to Grego-
+warrant and orders to obtain physical evi- ry before the first trial. VRP at 283. The trial
+dence are therefore law of the case and not court explained that it was constrained by
+subject to review. Law of the case also pre- our analysis surrounding the same evidence
+cludes consideration of the Franks issue and in Gregory I and, thus, it did not exercise its
+the probable cause required to obtain the ‘‘independent judgment’’ by ruling again on
+search warrant and blood draw orders. that issue as RAP 2.5(c)(1) requires. See
+Clark, 143 Wash.2d at 745, 24 P.3d 1006 (law Barberio, 121 Wash.2d at 50, 846 P.2d 519.
+of the case bars new arguments attacking the Gregory fails to make the requisite showing
+factual basis of our holding in the first appeal under RAP 2.5(c)(1) to warrant review.
+when the issue could have been determined
+had it been presented). Moreover, Gregory c. Review is not warranted
+presents no new evidence that would merit under RAP 2.5(c)(2)
+authoritatively overruling Gregory I. See id.
+[40, 41] ¶ 41 Gregory argues that inter-
+vening changes in the law compel our review
+b. Review is not warranted
+of the blood draw orders under RAP
+under RAP 2.5(c)(1)
+2.5(c)(2). RAP 2.5(c) states:
+[38, 39] ¶ 39 In an attempt to overcome
+Law of the Case Doctrine Restricted.
+law of the case doctrine, Gregory argues that
+The following provisions apply if the same
+review is warranted under RAP 2.5(c)(1) be-
+case is again before the appellate court
+cause he raised new grounds in his 2011
+following a remand:
+motion to the trial court, other than those
+considered in Gregory I. RAP 2.5(c) provides: TTTT
+
+640 Wash. 427 PACIFIC REPORTER, 3d SERIES
+(2) Prior Appellate Court Decision. we considered the requirements under CrR
+The appellate court may at the instance of 4.7, this did not render our decision in
+a party review the propriety of an earlier Gregory I erroneous in any way, especially
+decision of the appellate court in the same when we cited to Gregory I for the proposi-
+case and, where justice would best be tion that the blood draw orders were consti-
+served, decide the case on the basis of the tutionally valid. Id. at 186, 240 P.3d 153; see
+appellate court’s opinion of the law at the Folsom, 111 Wash.2d at 264, 759 P.2d 1196.
+time of the later review.
+[42] ¶ 43 Gregory next relies on State v.
+This rule ‘‘allow[s] a prior appellate holding
+Winterstein, 167 Wash.2d 620, 220 P.3d 1226
+in the same case to be reconsidered where
+(2009). In that case, we held that there is no
+there has been an intervening change in the inevitable discovery exception 14 under article
+law.’’ State v. Schwab, 163 Wash.2d 664, 673, I, section 7 because ‘‘it is incompatible with
+185 P.3d 1151 (2008) (citing Roberson v. Per- the nearly categorical exclusionary rule un-
+ez, 156 Wash.2d 33, 42, 123 P.3d 844 (2005) ). der article I, section 7.’’ Id. at 636, 220 P.3d
+If there has been an intervening change in 1226. Gregory argues that we relied on the
+the law, we will consider whether ‘‘ ‘corre- inevitable discovery doctrine to uphold the
+sponding injustice would result to the other constitutionality of his 1998 blood draw.
+party if the erroneous decision should be set While we did cite to an inevitable discovery
+aside.’ ’’ Folsom, 111 Wash.2d at 264, 759 case in Gregory I, we declined to examine the
+P.2d 1196 (quoting Greene v. Rothschild, 68 validity of the 1998 blood draw, so no such
+Wash.2d 1, 10, 402 P.2d 356, 414 P.2d 1013 reliance was placed on the doctrine. 158
+(1965) ). Wash.2d at 825, 147 P.3d 1201. Instead, we
+¶ 42 Gregory relies on four different opin- upheld the validity of the 2000 blood draw
+ions, but none of them establish an inter- without the inevitable discovery citation.
+vening change in the law to warrant recon- Lastly, Gregory relies on Missouri v.
+sideration of Gregory I. In State v. Figeroa McNeely, which held that there is no per se
+Martines, we held that the State’s warrant exigency exception for taking blood samples
+authorized the extraction of the defendant’s following a DUI arrest. 569 U.S. 141, 133
+blood sample, which indicated that probable S.Ct. 1552, 185 L.Ed.2d 696 (2013). He main-
+cause existed to believe the blood contained tains that McNeely recognized an increased
+evidence of driving under the influence privacy in a suspect’s blood, but this is noth-
+(DUI). 184 Wash.2d 83, 93, 355 P.3d 1111 ing new. We have already recognized this
+(2015). Gregory relied on the Court of Ap- proposition much in advance of Gregory I.
+peals’ opinion in that case because he sub- See, e.g., State v. Olivas, 122 Wash.2d 73, 93,
+mitted his reply brief prior to our decision 856 P.2d 1076 (1993). These cases do not
+reversing the Court of Appeals. Gregory evidence changes in the law necessitating our
+also argues that State v. Garcia-Salgado reconsideration of Gregory I. Gregory also
+constitutes an intervening change in the law attempts to use RAP 2.5(a)(3) to seek review;
+because it clarified the standards for biolog- however, he relies on the same cases dis-
+ical samples under CrR 4.7. 170 Wash.2d cussed here, so the argument is subject to
+176, 240 P.3d 153 (2010). In that case, we the same defects.15
+held that a cheek swab for DNA constitutes
+a search and therefore requires a warrant d. Cheatam remains good law
+or a warrant exception in order to be per- ¶ 44 Gregory argues that we should recon-
+missible. Id. at 184, 240 P.3d 153. Though sider our ruling in State v. Cheatam, 150
+14. ‘‘[T]he federal [inevitable discovery] doctrine 15. RAP 2.5(a)(3) provides that ‘‘[t]he appellate
+allows admission of illegally obtained evidence if court may refuse to review any claim of error
+the State can ‘establish by a preponderance of which was not raised in the trial court. However,
+the evidence that the information ultimately or a party may raise the following claimed errors
+inevitably would have been discovered by lawful for the first time in the appellate court: TTT
+means.’ ’’ Winterstein, 167 Wash.2d at 634, 220 manifest error affecting a constitutional right.’’
+P.3d 1226 (quoting Nix v. Williams, 467 U.S.
+431, 444, 104 S.Ct. 2501, 81 L.Ed.2d 377
+(1984) ).
+
+STATE v. GREGORY Wash. 641
+Cite as 427 P.3d 621 (Wash. 2018)
+Wash.2d 626, 81 P.3d 830 (2003), which we mental to his own case. We may consider a
+relied on in Gregory I to uphold the constitu- decision ‘‘harmful’’ for any number of rea-
+tionality of the comparative DNA testing be- sons, but the ‘‘common thread’’ is the ‘‘deci-
+tween the DNA from his rape case and the sion’s detrimental impact on the public inter-
+DNA found on G.H. In Gregory I, we held est.’’ Barber, 170 Wash.2d at 865, 248 P.3d
+‘‘that once a suspect’s property is lawfully in 494.
+the State’s control, the State may perform
+forensic tests and use the resulting informa-
+2. Law of the case doctrine bars review of
+tion to further unrelated criminal investiga-
+challenges already rejected in Gregory
+tions, without violating the owner’s Fourth
+I
+Amendment rights’’ or article I, section 7.
+158 Wash.2d at 826, 147 P.3d 1201 (emphasis ¶ 46 Lastly, Gregory raises several federal
+omitted) (citing Cheatam, 150 Wash.2d at constitutional challenges 16 that were rejected
+638, 81 P.3d 830). in his first appeal. Opening Br. of Appellant
+[43, 44] ¶ 45 Before we reconsider an es- at 278; Gregory I, 158 Wash.2d at 813-18,
+tablished rule of law that is otherwise enti- 838-46, 147 P.3d 1201. Gregory concedes that
+tled to stare decisis, there must be a clear we addressed and rejected these arguments
+showing that the rule is incorrect and harm- in his first appeal but nonetheless argues
+ful. State v. Barber, 170 Wash.2d 854, 863, that we should reconsider these issues under
+248 P.3d 494 (2011) (citing In re Rights to RAP 2.5(c)(2). As explained in Section III.
+Waters of Stranger Creek, 77 Wash.2d at 653, D.1.c, supra, RAP 2.5(c)(2) restricts the law
+466 P.2d 508). Gregory fails to make this of the case doctrine by providing us the
+showing. He relies on authority from other discretion to reconsider issues from a prior
+jurisdictions that is clearly distinguishable. appeal when there has been an intervening
+Opening Br. of Appellant at 181-82 (citing change in the law and ‘‘justice would best be
+State v. Gerace, 210 Ga. App. 874, 437 S.E.2d served’’ by our reconsideration. Schwab, 163
+862 (1993); State v. Binner, 131 Or. App. 677, Wash.2d at 673, 668, 185 P.3d 1151 (citing
+886 P.2d 1056 (1994) ). ‘‘We are not inclined Roberson v. Perez, 156 Wash.2d 33, 42, 123
+to abandon our own directly binding prece- P.3d 844 (2005) ). Gregory failed to assert
+dent in favor of distinguishable, nonbinding any intervening changes in the law or mis-
+authority.’’ Davis, 175 Wash.2d at 337, 290 takes in the record that would render our
+P.3d 43. And he fails to show that Cheatam is rulings in Gregory I erroneous. We decline to
+harmful, aside from the fact that it is detri- exercise our discretion to revisit these issues.
+16. Specifically, Gregory asks us to reconsider the d. The trial court’s exclusion of Mr. Gregory’s
+following: aunt from the courtroom violated the right
+a. The trial court improperly excused pro- of an open and public trial protected by
+spective Juror No. 1 in violation of Wither- the First, Sixth and Fourteenth Amend-
+spoon v. Illinois[, 391 U.S. 510, 88 S.Ct. ments.
+1770, 20 L.Ed.2d 776 (1968) ], Wainwright e. Prosecutorial misconduct in closing argu-
+v. Witt[, 469 U.S. 412, 105 S.Ct. 844, 83 ment—improperly shifting the burden of
+L.Ed.2d 841 (1985) ], Morgan v. Illinois[, proof regarding Mike Barth; denigrating
+504 U.S. 719, 112 S.Ct. 2222, 119 L.Ed.2d defense counsel’s cross-examination of
+492 (1992) ], [and] the Eighth and Four-
+John Brown; commenting on Mr. Grego-
+teenth Amendments.
+ry’s right to remain silent for not returning
+b. There was insufficient evidence of premed-
+Det. DeVault’s calls; and by arguing facts
+itation to support a conviction under the
+not in evidence and misstating the facts
+Fourteenth Amendment and Jackson v. Vir-
+regarding the DNA evidence—deprived Mr.
+ginia[, 443 U.S. 307, 99 S.Ct. 2781, 61
+Gregory of due process protected by the
+L.Ed.2d 560 (1979) ].
+c. The State’s introduction of evidence that Fourteenth Amendment.
+Mr. Gregory declined to be tape recorded f. Cumulative error at the guilt phase violated
+during an interrogation and his failure to Mr. Gregory’s rights under the Eighth and
+contact Det. [David] DeVault after DeVault Fourteenth Amendments.
+left a message for his grandmother violated Opening Br. of Appellant at 278-79 (some cita-
+Mr. Gregory’s right to remain silent and tions omitted).
+due process of law, protected by the Fifth
+and Fourteenth Amendments.
+
+642 Wash. 427 PACIFIC REPORTER, 3d SERIES
+IV. CONCLUSION tions, that this provision may provide greater
+constitutional protections than established
+¶ 47 Under article I, section 14, we hold
+under the Eighth Amendment. It is unneces-
+that Washington’s death penalty is unconsti-
+sary to explore whether greater protections
+tutional, as administered, because it is im-
+exist in this situation because, at the very
+posed in an arbitrary and racially biased
+least, our state constitution cannot provide
+manner. Given the manner in which it is
+for fewer protections than exist under the
+imposed, the death penalty also fails to serve
+Eighth Amendment. What that means is that
+any legitimate penological goals. Pursuant to
+article I, section 14, at a minimum, embraces
+RCW 10.95.090, ‘‘if the death penalty estab-
+the same principles and concerns existing
+lished by this chapter is held to be invalid by
+under the Eighth Amendment and, impor-
+a final judgment of a court which is binding
+tantly, the same standard of review.
+on all courts in the state, the sentence for
+aggravated first degree murder TTT shall be ¶ 51 In State v. Cross, 156 Wash.2d 580,
+132 P.3d 80 (2006), and State v. Davis, 175
+life imprisonment.’’ All death sentences are
+Wash.2d 287, 290 P.3d 43 (2012), constitution-
+hereby converted to life imprisonment.
+al concerns were voiced in the dissenting
+¶ 48 We decline to reconsider Gregory’s
+opinions that centered on the randomness,
+arguments pertaining to the guilt phase of
+unpredictability, and arbitrariness of the
+his trial. His conviction for aggravated first
+statewide administration of the death penalty
+degree murder has already been appealed
+system. Since the time those cases were de-
+and affirmed by this court.
+cided, experience shows that the systemic
+constitutional concerns have deepened and
+WE CONCUR: continued moving toward increased rarity,
+randomness, arbitrariness, and overall state-
+Wiggins, J.
+wide abandonment.
+Gonz´alez, J. (result only)
+¶ 52 Based on a current review of the
+administration and processing of capital
+Gordon McCloud, J.
+cases in this state, what is proved is obvious.
+Yu, J. A death sentence has become more randomly
+and arbitrarily sought and imposed, and
+JOHNSON, J. (concurring)
+fraught with uncertainty and unreliability,
+¶ 49 While I generally concur with the and it fails state constitutional examination.
+majority’s conclusions and its holding invali-
+¶ 53 Before analyzing the experiences evi-
+dating the death penalty, additional state
+dent in the administration of capital sentenc-
+constitutional principles compel this result.
+ing in this state, it is necessary to establish
+While the conclusions contained in the Beck-
+the required constitutional standard of re-
+ett report 1 disclosing racial bias in the over-
+view. Constitutional analysis is determined
+all administration of capital punishment raise
+de novo. Conducting a constitutional inter-
+significant concerns, other additional consti-
+pretation, as is done in death penalty cases,
+tutional factors have become more apparent,
+is slightly different than more traditional
+supporting the conclusion that the death pen-
+constitutional review. As explained more spe-
+alty, as administered, is unconstitutional.
+cifically, constitutional analysis in death pen-
+¶ 50 Article I, section 14 2 of our state alty review requires a broad, comparative
+constitution is the counterpart to the Eighth approach. What this means is that we engage
+Amendment 3 to the United States Constitu- in a systemic view through a broader lens. In
+tion. We have recognized, in limited situa- death penalty cases, while our statutory pro-
+1. KATHERINE BECKETT & HEATHER EVANS, THE ROLE OF excessive fines imposed, nor cruel punishment
+RACE IN WASHINGTON STATE CAPITAL SENTENCING, 1981- inflicted.’’
+2014 (Oct. 13, 2014) [https://perma.cc/XPS2-74
+TR]. 3. ‘‘BAILS, FINES, AND PUNISHMENTS. Ex-
+cessive bail shall not be required, nor excessive
+2. ‘‘EXCESSIVE BAIL, FINES AND PUNISH- fines imposed, nor cruel and unusual punish-
+MENTS. Excessive bail shall not be required, ments inflicted.’’
+
+STATE v. GREGORY Wash. 643
+Cite as 427 P.3d 621 (Wash. 2018)
+portionality review includes a comparability What this means is that in conducting any
+component, the statutory focus is more case constitutional analysis, the inquiry takes into
+specific as it relates to the defendant, his or consideration what is actually and currently
+her crime, and case specific circumstances, taking place in the administration of the en-
+and under the statute it directs us to deter- tire system—a much broader view than just
+mine ‘‘[w]hether the sentence of death is the facts and circumstances of the case on
+excessive or disproportionate to the penalty review. What the Court looks to, in part, can
+imposed in similar cases, considering both be characterized as the ‘‘frequency’’ a death
+the crime and the defendant.’’ 4 sentence or other sentences are sought or
+¶ 54 Importantly, under constitutional com- imposed in specific circumstances. This inqui-
+parative review, the analysis incorporates an ry plays a significant role in determining the
+inspection of the entire system of capital ‘‘evolving standards of decency’’ principle.
+sentencing to ensure constitutional require-
+¶ 57 A brief review of how the United
+ments are satisfied. Cases from the United
+States Supreme Court cases have evolved
+States Supreme Court not only establish the
+best evidences this standard of review and
+required constitutional review but also identi-
+the factors the Court has identified in its
+fy those minimum Eighth Amendment princi-
+decisions.
+ples that must be satisfied. As noted previ-
+ously, article I, section 14 can provide no less ¶ 58 In Gregg v. Georgia, 428 U.S. 153, 96
+protection. S.Ct. 2909, 49 L.Ed.2d 859 (1976) (plurality
+opinion), the Court, in affirming a death sen-
+¶ 55 Reviewing some of the United States
+tence, upheld a reenacted state statute that
+Supreme Court Eighth Amendment cases is
+authorized capital punishment for six catego-
+helpful in emphasizing constitutional require-
+ries of crime: murder, kidnapping for ransom
+ments. To begin, the Eighth Amendment
+where the victim is harmed, armed robbery,
+case most often cited as establishing a ‘‘com-
+rape, treason, and aircraft hijacking. The
+parability analysis,’’ i.e., reviewing a specific
+statute at issue also provided for an appellate
+sentence and comparing that sentence with
+inquiry on ‘‘ ‘[w]hether the sentence of death
+sentences imposed in other cases, is Weems
+is excessive or disproportionate to the penal-
+v. United States, 217 U.S. 349, 30 S.Ct. 544,
+ty imposed in similar cases, considering both
+54 L.Ed. 793 (1910). In that case, the Court
+the crime and the defendant.’ ’’ Gregg, 428
+invalidated a sentence by essentially holding
+U.S. at 167, 96 S.Ct. 2909 (quoting former
+that the sentence so far exceeded what the
+GA. CODE ANN. § 27-2537(c)(3) (1973) ).
+Court found was proportionate for the crime,
+and compared the sentence in that case with While the Court upheld the statute and found
+those imposed in other situations. We have that the penalty of death was not unconstitu-
+embraced similar reasoning under article I, tional in all cases, it cited favorably to the
+section 14. See State v. Fain, 94 Wash.2d 387, principles established in Trop. Gregg, 428
+400, 617 P.2d 720 (1980). This comparability U.S. at 173, 96 S.Ct. 2909. The Court in
+principle continues to guide United States Gregg found the statute sufficiently narrowed
+Supreme Court Eighth Amendment review the type of death penalty eligible crimes,
+in death penalty and other sentencing situa- added objectiveness to guide and narrow the
+tions. fact finder’s decision, and contained sufficient
+other procedural safeguards to survive con-
+¶ 56 An important aspect of Eighth
+stitutional scrutiny.
+Amendment comparative constitutional re-
+view requires this systemic-type analysis. ¶ 59 Since Gregg was decided, the United
+Trop v. Dulles, 356 U.S. 86, 101, 78 S.Ct. 590, States Supreme Court, in a steady progres-
+2 L.Ed.2d 630 (1958) (plurality opinion), is sion of cases, has narrowed its holding and
+often cited as establishing the principle that limited the permissible constitutional authori-
+‘‘[t]he Amendment must draw its meaning ty of states to seek the death penalty for
+from the evolving standards of decency that specific crimes and for specific defendants.
+mark the progress of a maturing society.’’ An extensive review is unnecessary; however,
+4. RCW 10.95.130(2)(b).
+
+644 Wash. 427 PACIFIC REPORTER, 3d SERIES
+several cases highlight the reasoning and Enmund, 458 U.S. at 798, 102 S.Ct. 3368
+constitutional requirements. (second alteration in original).
+¶ 60 In Godfrey v. Georgia, 446 U.S. 420, ¶ 62 The United States Supreme Court’s
+100 S.Ct. 1759, 64 L.Ed.2d 398 (1980), the constitutional concerns continued to evolve
+United States Supreme Court reversed a and incorporate this type of inquiry, looking
+death penalty. In doing so, the Court, quot- not only to ‘‘frequency’’ among the states’
+ing Furman, 5 stated, ‘‘[T]he penalty of death practices but also to identifiable trends.
+may not be imposed under sentencing proce- ¶ 63 In Atkins v. Virginia, 536 U.S. 304,
+dures that create a substantial risk that the 122 S.Ct. 2242, 153 L.Ed.2d 335 (2002), the
+punishment will be inflicted in an arbitrary Court invalidated the death penalty for men-
+and capricious manner. Gregg v. Georgia, tally retarded criminals. Significant to its
+supra, reaffirmed this holding.’’ Godfrey, 446 holding was a statistical-type analysis that
+U.S. at 427, 100 S.Ct. 1759. ‘‘A capital sen- looked at not only the number of states (and
+tencing scheme must, in short, provide a Congress) that prohibited the execution of
+‘ ‘‘meaningful basis for distinguishing the few mentally retarded offenders but also the
+cases in which [the penalty] is imposed from trend among the states. The Court reasoned,
+the many cases in which it is not.’’ ’ ’’ God- ‘‘It is not so much the number of these States
+frey, 446 U.S. at 427, 100 S.Ct. 1759 (altera- that is significant, but the consistency of the
+tion in original) (quoting Gregg, 428 U.S. at direction of change.’’ Atkins, 536 U.S. at 315,
+188, 96 S.Ct. 2909 (quoting Furman, 408 U.S. 122 S.Ct. 2242. The Court also expressed its
+at 313, 92 S.Ct. 2726 (White, J., concur- view that
+ring) ) ).
+[o]ur independent evaluation of the issue
+¶ 61 In Enmund v. Florida, 458 U.S. 782, reveals no reason to disagree with the
+102 S.Ct. 3368, 73 L.Ed.2d 1140 (1982), the judgment of ‘‘the legislatures that have
+United States Supreme Court invalidated recently addressed the matter’’ and con-
+state statutes authorizing the death penalty cluded that death is not a suitable punish-
+for defendants who aided and abetted a felo- ment for a mentally retarded criminal. We
+ny where a murder is committed by others are not persuaded that the execution of
+and where the defendant does not kill or mentally retarded criminals will measur-
+intend that a killing occur. Key to the Court’s ably advance the deterrent or the retribu-
+analysis was the determination that, national- tive purpose of the death penalty.
+ly, few states authorized the death penalty Atkins, 536 U.S. at 321, 122 S.Ct. 2242. This
+under these circumstances, which under its concern surfaces in later cases.
+view, reflected society’s rejection of the death
+¶ 64 In Roper v. Simmons, 543 U.S. 551,
+penalty for accomplice liability in felony mur-
+125 S.Ct. 1183, 161 L.Ed.2d 1 (2005), the
+ders. The Court observed:
+Court invalidated the death penalty for juve-
+In Gregg v. Georgia the [Supreme niles under age 18, overruling its previous
+Court] observed that ‘‘[t]he death penalty ruling in Stanford v. Kentucky, 492 U.S. 361,
+is said to serve two principal social pur- 109 S.Ct. 2969, 106 L.Ed.2d 306 (1989). In
+poses: retribution and deterrence of capital doing so, the Court relied not only on the
+crimes by prospective offenders.’’ 428 U.S. analysis employed in Atkins in determining a
+at 183 [96 S.Ct. 2909] (footnote omitted). national consensus and the consistency of the
+Unless the death penalty [in a specific direction of change but also on a growing
+case] measurably contributes to one or awareness of a lack of maturity for juveniles.
+both of these goals, it ‘‘is nothing more The Court reasoned that this factor resulted
+than the purposeless and needless imposi- in a diminished culpability of juveniles, which
+tion of pain and suffering,’’ and hence an undermined the penological justifications of
+unconstitutional punishment. Coker v. ‘‘ ‘ ‘‘retribution and deterrence of capital
+Georgia, [433 U.S. 584, 592, 97 S.Ct. 2861, crimes by prospective offenders.’’ ’ ’’ Roper,
+53 L.Ed.2d 982 (1977) ]. 543 U.S. at 571, 125 S.Ct. 1183 (quoting
+5. Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972).
+
+STATE v. GREGORY Wash. 645
+Cite as 427 P.3d 621 (Wash. 2018)
+Atkins, 536 U.S. at 319, 122 S.Ct. 2242 (quot- under article I, section 14 focuses on prac-
+ing Gregg, 428 U.S. at 183, 96 S.Ct. 2909) ). tices, trends, and experiences within our
+¶ 65 Similar reasoning had supported the state.
+Supreme Court’s invalidation of the death
+penalty for rape of an adult woman, Coker v. Frequency, Arbitrariness, and Randomness
+Georgia, 433 U.S. 584, 97 S.Ct. 2861, 53
+¶ 69 In order to conduct the article I,
+L.Ed.2d 982, and, later, for aggravated rape
+section 14 analysis under a similar analytical
+of a child, Kennedy v. Louisiana, 554 U.S.
+framework as employed by the United States
+407, 128 S.Ct. 2641, 171 L.Ed.2d 525 (2008).
+Supreme Court, it is necessary to review
+¶ 66 More recently, in analyzing mandato-
+what we know about the administration of
+ry life without possibility of parole sentences
+our state capital sentencing system.
+for juvenile offenders, the United States Su-
+preme Court declared unconstitutional any ¶ 70 As referenced earlier in Cross, the
+such mandatory sentencing scheme for juve- dissent raised the concerns in constitutional
+niles. In Graham v. Florida, 560 U.S. 48, 130 terms over random, arbitrary, or capricious
+S.Ct. 2011, 176 L.Ed.2d 825 (2010), the Court imposition of a death sentence emphasized in
+analyzed the ‘‘evolving standards of decency’’ Furman and Cross. In addition to what was
+factor and found that although many state analyzed in that opinion, it is important to
+statutes authorized a life without parole sen- review what our state’s experiences reflected
+tence for juveniles convicted of nonhomicide at that time.
+crimes, since statistical surveys showed few
+states actually imposed such mandatory sen- ¶ 71 Shortly after Cross was decided, the
+tences, those statutes were unconstitutional. Washington State Bar Association issued a
+In Miller v. Alabama, 567 U.S. 460, 132 S.Ct. final report of the death penalty subcommit-
+2455, 183 L.Ed.2d 407 (2012), the Court, ap- tee. See WASH. STATE BAR ASS’N, FINAL RE-
+plying much of the analysis from Graham, PORT OF THE DEATH PENALTY SUBCOMMITTEE
+invalidated sentencing statutes requiring a OF THE COMMITTEE ON PUBLIC DEFENSE (Dec.
+life without parole sentence for certain juve- 2006) 6 (Final Report). Our current death
+nile homicide convictions. penalty statute was enacted in 1981. As of
+2006, the report discloses that a total of 254
+¶ 67 The lessons these cases teach us is
+death eligible aggravated murder cases were
+that review of the constitutionality of the
+charged arising in 25 counties. The report
+death penalty system must analyze the issue
+observes the ‘‘data shows that most of the
+in contemporary terms and practices, and the
+death penalty cases occur in a small number
+constitutional analysis, at a minimum, must
+of countiesTTTT Thus, death penalty cases
+include a systemic determination of random-
+have been brought in 17 of the 39 counties
+ness, consensus, arbitrariness, frequency, re-
+during the last 25 years and the death sen-
+liability, trends, and penological justifica-
+tence has been imposed in 10 of those coun-
+tions.
+ties.’’ Final Report at 12. A total of 30 death
+¶ 68 As indicated earlier, the United States
+sentences were imposed from the 10 coun-
+Supreme Court cases interpreting the Eighth
+ties.
+Amendment guide our state constitutional
+analysis and cannot be disregarded. Analysis ¶ 72 The report continues, revealing that of
+under article I, section 14 must, at a mini- the 30 death sentence cases, 19 were re-
+mum, proceed and apply those same princi- versed on appellate review and ‘‘nearly all
+ples. A significant difference when analyzing have resulted in a sentence of life without the
+our state constitution is that we are not possibility of parole.’’ Final Report at 8.
+constrained by those principles of federalism Death sentences, including executions, at
+that limit and guide United States Supreme that time had arisen in 8 counties out of the
+Court analysis, where the Court considers 25 counties where death eligible crimes were
+national trends and practices. An analysis charged.
+6. https://www.wsba.org/docs/default-source/legal- death-penalty-report.pdf?sfvrsn=120301f1 14
+community/committees/council-onpublic-defense/ [https://perma.cc/S6C2-MUJK].
+
+646 Wash. 427 PACIFIC REPORTER, 3d SERIES
+¶ 73 In Davis, 175 Wash.2d 287, 290 P.3d ¶ 78 Based on this report and what addi-
+43, then Justice Fairhurst raised a similar tional information we now have, it cannot be
+concern, pointing out that since 2000, the said that trials resulting in death sentences
+only counties where death sentences had are reliable. Where the vast majority of
+been imposed were King and Pierce, account- death sentences are reversed on appeal and
+ing for 5 death sentences in that 12-year ultimately result in life without parole, relia-
+span. Davis, 175 Wash.2d at 388, 290 P.3d 43 bility and confidence in the process evapo-
+(Fairhurst, J, dissenting).7 rates.
+¶ 74 Since 2006, about 131 additional death ¶ 79 What this systemic analysis discloses
+eligible aggravated murder cases have been is clear. Since the opinions in Cross, and
+brought. Executions themselves are extreme- again in Davis, were filed, we know more
+ly rare. Since 1987, five executions have oc- about the administration of capital cases to-
+curred, three of which occurred when the day. Importantly, a much more complete set
+defendants waived their right to challenge of trial court reports exists. We also have
+their convictions and sentences. No execu- death penalty prosecutions where the penalty
+tions will take place in the near or foresee- was not imposed and others where the notice
+able future based on Governor Jay Inslee’s was withdrawn or never filed. We also have
+issuance of a reprieve against executions dur- the governor’s ‘‘reprieve,’’ effectively halting
+ing his tenure. executions for the foreseeable future. In the
+majority of our 39 counties, no death penalty
+¶ 75 No death penalties have been imposed
+has ever been sought. The current death row
+since 2011. Currently, no pending prosecu-
+population arose from just 6 counties.
+tions seeking the death penalty exist. During
+that same time, dozens, if not tens of dozens, ¶ 80 The trend is apparent and the indica-
+of aggravated murder prosecutions have oc- tion clear that fewer county prosecutors elect
+curred. Since 2000, only three county prose- to file a death notice. The death penalty
+cutors have filed death notices, and in two simply does not exist as an option in the
+counties, death was imposed: Snohomish majority of the state’s counties.
+County in State v. Scherf (No. 95-1-02242-2)
+¶ 81 The concerns expressed in the dis-
+and King County in State v. Schierman (No.
+sents in Cross and Davis have grown and
+06-1-06563-4). Apparently, based on many
+expanded. The number of counties where a
+reasons, seeking the death penalty is not an
+death penalty prosecution is an option has
+option in the other 36 counties. Where a
+been narrowed to, at most, three and may
+crime is committed is the deciding factor, and
+have currently been abandoned altogether by
+not the facts or the defendant.
+all counties.
+¶ 76 The phrase often used where such
+¶ 82 The delay inherent in death sentence
+infrequency is concerned is ‘‘the odds are
+cases raises additional concerns, although
+similar to lightning striking an individual.’’
+much of the delay is a result of court review
+This presents constitutional problems.
+procedures. For example, Cal Brown, the
+¶ 77 As is also revealed in the Final Report most recent execution in 2010, committed his
+of 2006, approximately 300 aggravated mur- crime in 1991. Excepting the cases involving
+der convictions have been entered since 1981. Schierman and Scherf, all other death row
+Of this group, about 270 were death eligible. crimes arose in the 1990s. The governor’s
+In about 80 cases, the prosecutor filed the action means no executions will occur in the
+death notice, and in about 30 cases, the jury foreseeable future. Where such delay exists,
+imposed death. Five executions have taken penological purposes in a death sentence are
+place. Of the remaining cases, 19 were re- diminished. We often say, ‘‘Justice delayed is
+versed on appeal and, on remand, the defen- justice denied,’’ especially for the victims’
+dants were sentenced to life without parole surviving family. The unfortunate result of
+(leaving 6 out of approximately 300). delay diminishes whatever sense of justice is
+7. Report of Trial Judge (TR) 194 (Covell Thom- Cross); TR 251 (Robert Yates Jr.); TR 303 (Con-
+as); TR 216 (Allen Gregory); TR 220 (Dayva ner Schierman).
+
+COMMUNITY TREASURES v. SAN JUAN COUNTY Wash. 647
+Cite as 427 P.3d 647 (Wash. 2018)
+provided through an execution. As quoted fees paid county for consideration of land
+earlier, the United States Supreme Court has use and building permits, modifications, or
+recognized that where penological purposes renewals. The Superior Court, San Juan
+cease to be promoted, the constitutional con-
+County, Alan r. Hancock, J., dismissed the
+cerns expand.
+action for failing to comply with the re-
+¶ 83 Based on a review of the administra- quirements of the Land Use Petition Act.
+tion of death penalty cases, constitutional
+Petitioners Appealed. The Court of Ap-
+flaws have now become obvious. Under arti-
+peals, Schindler, J., 198 Wash.App. 1032,
+cle I, section 14 of our state constitution,
+2017 WL 1315502, affirmed. Petitioners
+where a system exists permeated with arbi-
+petitioned for review.
+trary decision-making, random imposition of
+the death penalty, unreliability, geographic Holdings: The Supreme Court, en banc,
+rarity, and excessive delays, such a system Johnson, J., held that:
+cannot constitutionally stand. The combina-
+(1) petitioners’ failure to exercise their ad-
+tion of these flaws in the system support our
+ministrative remedies deprived them of
+conclusion that the death penalty is unconsti-
+standing to challenge the fees, and
+tutional. Although this analysis applies the
+constitutional principles analysis and require- (2) petitioners’ claims did not fall within
+ments established by the United States Su- the express money damages exception
+preme Court, as it must, this analysis and to the Land Use Petition Act (LUPA).
+conclusion rests on adequate and indepen- Affirmed.
+dent state constitutional principles. See
+Madsen, J., filed dissenting opinion, joined by
+Michigan v. Long, 463 U.S. 1032, 103 S.Ct.
+Stephens, Gordon McCloud, and Yu, JJ.
+3469, 77 L.Ed.2d 1201 (1983).
+Owens, J.
+1. Appeal and Error O3173
+Madsen, J.
+Questions of statutory interpretation are
+Stephens, J. reviewed de novo.
+, 2. Zoning and Planning O1571
+In an action challenging a county’s grant
+of a building permit, there are no equitable
+exceptions to the exhaustion requirement in
+the Land Use Petition Act (LUPA). Wash.
+COMMUNITY TREASURES d/b/a/ Con-
+Rev. Code Ann. § 36.70C.060(2)(d).
+signment Treasures, a Washington not
+for profit corporation; John Evans and 3. Zoning and Planning O1571
+Bonita Blaisdell, on behalf of them-
+County’s assessment of fees for consid-
+selves and all others similarly situated,
+eration of building permits, modifications, or
+Petitioners,
+renewals constituted land use decisions un-
+v. der the Land Use Petition Act, and thus,
+SAN JUAN COUNTY, a political petitioners’ failure to exercise their adminis-
+subdivision of the State of trative remedies deprived them of standing
+Washington, Respondent. to challenge the fees; the fees were a manda-
+tory requirement for completion of a project
+No. 94463-6
+permit application, which were inextricably
+Supreme Court of Washington. tied to the permitting process. Wash. Rev.
+Code Ann. § 36.70C.020(2).
+Argued January 25, 2018
+Filed October 11, 2018 4. Zoning and Planning O1576
+Background: Petitioners brought action Petitioners’ claims against county for
+against county, seeking partial refunds of partial refunds of fees paid for consideration

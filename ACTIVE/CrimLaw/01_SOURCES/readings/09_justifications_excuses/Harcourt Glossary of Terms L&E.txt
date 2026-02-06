@@ -1,0 +1,64 @@
+Bernard E. Harcourt
+Methodological Interlude: Law & Economics
+Glossary of Law & Economics Terms
+[These definitions are all from Boyes/Melvin, Economics, 8th ed. (2011) © Boyes/Melvin]
+adverse selection: the situation in which higher-quality goods, consumers, or producers are driven
+out of the market by lower-quality examples because of limited information about the quality.
+asymmetric information: when the parties to a transaction do not have the same information
+about the transaction.
+common good: a good that is rivalrous but nonexcludable
+externality: the costs or benefits of a transaction that are borne by someone who is not directly
+involved in the transaction
+free rider: a consumer or producer who enjoys the benefits of a good or service without paying
+for that good or service
+internalized: when external costs of benefits are borne by the transactors creating them
+lemons market: market in which adverse selection occurs
+logrolling: an inefficiency in the political process in which legislators support one another's
+projects in order to ensure support for their own
+market failure: a situation in which resources are not allocated to their highest-valued use
+moral hazard: the problem that arises when people change their behavior from what was
+expected of them when they engaged in a trade or contract
+principle of mutual exclusivity: the rule that an owner of private property is entitled to enjoy
+the consumption of that property
+private cost: cost that is borne solely by the individuals involved in the transaction that created
+the costs
+public good: a good whose consumption by one person does not diminish the quantity or quality
+available for others and access to which cannot be restricted
+rent seeking: the use of resources simply to transfer wealth from one group to another without
+increasing production or total wealth
+social cost: the total cost of a transaction, the private cost plus the external cost
+transactions costs: the cost of carrying out a transaction
+
+Bernard E. Harcourt
+Methodological Interlude: Law & Economics
+Seven social dilemmas of game theory
+Chicken: You should know this from popular culture. Two adversaries push each other to the
+brink of disaster to see who is stronger; one of them has to back down, and the one that backs down
+loses the game. But it can also lead to disaster if neither back down…
+Battle of the sexes [perhaps we could rename, battle of the partners]: This is a classic coordination
+problem where one partner wants to go to the opera and the other partner wants to go to the soccer
+match, but neither want to go alone… You have to look at the pay offs:
+Opera Football
+Opera 3,2 0,0
+Football 0,0 2,3
+Tragedy of the commons: Another classic problem based on the 18th century common green:
+When individuals acting self-interestedly all deplete a common good and in the process ruin it
+for everyone…. The result is that the individuals work against the interests of the group.
+Volunteer’s dilemma: One person must sacrifice themselves for all the others to benefit.
+Free-rider dilemma: When someone (the free-rider) benefits from something that others do
+without paying any of the costs or doing their fair share.
+Prisoner’s dilemma: Where two people are cornered, say by the police, and they are separated
+and made to confess a crime. If they both stay silent, they are best off, but it is the worst if the
+other rats against you, so you have a big incentive to rat against them. The payoffs are:
+Prisoner B stays Prisoner B betrays
+silent (cooperates) (defects)
+Prisoner A stays Each serves 1 year Prisoner A: 3 years
+silent (cooperates) Prisoner B: goes free
+Prisoner A betrays Prisoner A: goes free Each serves 2 years
+(defects) Prisoner B: 3 years
+Stag hunt: Cooperation game that is also called the trust dilemma: two people can either
+cooperate and hunt a stag together, which gives more to them, or go it alone and hunt for a hare.
+Jean-Jacques Rousseau developed this dilemma a lot in his work. The payoff is:
+Stag Hare
+Stag 2, 2 0, 1
+Hare 1, 0 1, 1

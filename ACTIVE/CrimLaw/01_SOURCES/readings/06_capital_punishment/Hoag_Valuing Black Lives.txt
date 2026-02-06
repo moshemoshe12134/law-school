@@ -1,0 +1,1009 @@
+VALUING BLACK LIVES: A CASE FOR
+ENDING THE DEATH PENALTY
+Alexis Hoag*
+ABSTRACT
+Since Furman v. Georgia, capital punishment jurisprudence
+has equipped decisionmakers with increased structure, guidance, and
+narrowing in death sentencing in an effort to eliminate the arbitrary
+imposition of death. Yet, these efforts have been largely unsuccessful
+given the wide discretion built into capital sentencing which allows for
+prejudice, bias, and racism to persist. Juries continue to sentence a
+disproportionately high number of defendants who have been convicted
+of murdering white victims to death. As a result, death sentencing
+schemes tend to undervalue Black murder victims’ lives. Any effort to
+eliminate the disparity must center on the undervaluation of Black
+lives.
+This Article suggests that the next challenge to the death
+penalty should be on equal protection grounds based on the
+undervaluation of Black lives. It highlights that the Fourteenth
+Amendment was originally intended, in part, to extend the equal
+protection of the laws to Black victims of crime. The Article then
+explores the pitfalls of other race-based challenges to the death
+penalty. And demonstrates that a challenge based on disparities in
+capitally prosecuting white and Black victim cases could end capital
+* Practitioner in Residence, Eric H. Holder Jr. Initiative for Civil and
+Political Rights, Columbia University; Lecturer in Law, Columbia Law School; J.D.,
+New York University School of Law; B.A., Yale University. I am grateful to Daniel
+Harawa, Natasha Merle, Bernard Harcourt, and Jeffrey Fagan for their invaluable
+feedback. I also benefited from engagement and collaboration of the attendees at
+the Columbia Human Rights Law Review’s 2019-2020 Symposium, Furman’s
+Legacy: New Research on the Overbreadth of Capital Punishment. For her stellar
+research assistance, I am thankful for Claudia Kassner. For their community,
+support, and accountability, I thank the brilliant women of Lutie on the Hudson,
+especially Deborah Archer. I’m also grateful for the editorial expertise of the
+Columbia Law School Human Rights Law Review staff, particularly Idun Klakegg,
+Kobina Quaye, and Will Wilder.
+
+984 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+punishment. The Article concludes with a road map for what a
+challenge based on the undervaluation of Black lives would look like.
+
+2020] Valuing Black Lives 985
+TABLE OF CONTENTS
+Introduction ......................................................................................... 986
+I. Existing Scholarship on Racial Disparities .................................... 990
+A. Race of Victim Studies ................................................................ 992
+B. Centering on Black Murder Victims .......................................... 995
+II. Early American Criminal Law and the Fourteenth Amendment as
+Redress to Black Victims of Crime ..................................................... 996
+A. Early American Criminal Law ................................................... 997
+B. Adoption of the Fourteenth Amendment ................................... 999
+III. Challenging Capital Punishment Under the Fourteenth
+Amendment: McCleskey v. Kemp ...................................................... 1001
+IV. Challenging the Death Penalty Based on the Undervaluation of
+Black Lives ......................................................................................... 1003
+A. Standing and Selection of Parties to Raise the Claim ............ 1004
+B. Purposeful Discrimination ........................................................ 1005
+C. Remedy ....................................................................................... 1006
+Conclusion .......................................................................................... 1007
+
+986 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+INTRODUCTION
+On October 15, 1986, Mary Beth Westmoreland appeared
+before the United States Supreme Court on behalf of the State of
+Georgia to defend the State’s racially disparate death sentencing
+scheme.1 One of the Justices asked Ms. Westmoreland to explain why
+Georgia treated “white victim cases . . . [as] consistently more
+serious.”2 She responded,
+[O]ut of the black victim cases . . . you’ll find perhaps
+over a thousand occur in something like a family
+dispute, a lover dispute, a fight involving liquor of some
+sort, where some . . . one party is drunk or the [o]ther
+party is drunk. Those types of disputes occur so
+frequently in black victim cases that they . . . fall out of
+the system much earlier, and—leaving the much
+m[o]re aggravated, the more highly aggravated white
+victim cases, involving armed robberies, and such
+things as property disputes. . . . And for whatever
+reason, frequently more times we’ll see torture cases
+involving white victim cases than you do in black
+victim cases.”3
+Each of Ms. Westmoreland’s examples—drunken disputes,
+family disputes, disputes among lovers—reflected racist stereotypes
+and unfounded value judgments as to the worthiness of Black lives;
+none of these cases were supported by empirical evidence. The case,
+brought by Warren McCleskey, a Black man sentenced to die for
+murdering a white victim, relied on a detailed statistical study to
+propose a different explanation: that Georgia unconstitutionally relied
+on race—the victim’s white race and the defendant’s Black race—when
+determining who to sentence to death. In fact, relying on the study’s
+findings, John Boger, arguing on behalf of Mr. McCleskey, explained
+that Georgia’s death penalty treated “[t]he color of a defendant’s
+skin . . . or that of his victim . . . as grave an aggravating
+circumstance . . . as those expressly designated by Georgia’s
+legislature.”4 Moreover, that such discrimination was based on “a
+1. Transcript of Oral Argument at 30, McCleskey v. Kemp, 481 U.S. 279
+(1986) (No. 84-6811).
+2. Id. at 43.
+3. Id.
+4. Id. at 4; see also Brief for Petitioner at 33, McCleskey v. Kemp, 481 U.S.
+279 (1986) (No. 84-6811) (“[T]he race of the defendant and the race of the victim
+proved to be as powerful determinants of capital sentencing in Georgia as many of
+Georgia’s statutory aggravating circumstances.”).
+
+2020] Valuing Black Lives 987
+century-old pattern in the State of Georgia of animosity” against Black
+defendants, particularly those accused of harming white victims.5
+Since its inception, the disproportionate imposition of the
+death penalty has denied murdered Black victims the equal protection
+of the laws. Capital punishment is supposed to be reserved for those
+who commit the “worst of the worst” crimes.6 Instead, as a result of
+bias, prejudice and racism, it is disproportionality reserved for those
+charged with killing white victims.7 Over the last fifty years, death
+penalty jurisprudence has provided increasing amounts of structure,
+guidance, and narrowing to eliminate the arbitrary imposition of
+death.8 I argue that these efforts have been largely unsuccessful given
+the wide discretion built into capital sentencing which allows for
+racism to operate undetected.9
+In 1972, a plurality of the Supreme Court held in Furman v.
+Georgia that capital punishment, as administered at the time, violated
+the Constitution.10 In so holding, members of the Court acknowledged
+5. Transcript of Oral Argument at 26, McCleskey v. Kemp, 481 U.S. 279
+(1986) (No. 84-6811).
+6. Kansas v. Marsh, 548 U.S. 163, 206 (2006) (Souter, J., dissenting); see also
+Roper v. Simmons, 543 U.S. 551, 568 (2005) (“Capital punishment must be limited
+to those offenders who commit ‘a narrow category of the most serious crimes’ and
+whose extreme culpability makes them ‘the most deserving of execution.’” (quoting
+Atkins v. Virginia, 536 U.S. 304, 319 (2002))); Editorial Board, Louisiana’s Color-
+Coded Death Penalty, N.Y. TIMES (May 9, 2016), https://www.nytimes.
+com/2016/05/09/opinion/louisianas-color-coded-death-penalty.html (on file with the
+Columbia Human Rights Law Review) (arguing that although the death penalty is
+supposedly reserved for the “worst of the worst,” it is instead imposed based on skin
+color).
+7. See Sheri Lynn Johnson et al., The Delaware Death Penalty: An Empirical
+Study, 97 IOWA L. REV. 1925, 1941 (2012) (reporting race-of-victim disparities in
+Delaware and eight other states).
+8. See, e.g., Furman v. Georgia, 408 U.S. 238 (1972) (plurality) (holding death
+sentencing schemes nationwide violated the Eighth Amendment); Gregg v. Georgia,
+428 U.S. 227 (1976) (approving death sentencing schemes requiring bifurcated
+trials and juries to weigh aggravating and mitigating circumstances in sentencing);
+Coker v. Georgia, 433 U.S. 584 (1977) (prohibiting death penalty for non-homicidal
+offenses); Ford v. Wainwright, 477 U.S. 399 (1986) (prohibiting death penalty for
+those adjudicated insane); Atkins v. Virginia, 536 U.S. 304 (2001) (prohibiting
+execution of defendants with intellectual disability); Roper v. Simmons, 543 U.S.
+551 (2006) (prohibiting death penalty for individuals under age 18 at time of
+offense); Madison v. Alabama, 586 U.S. __, 139 S. Ct. 718 (2019) (prohibiting
+execution of defendant whose mental illness prevented memory of the crime).
+9. See Turner v. Murray, 476 U.S. 28, 35 (1986) (“Because of the range of
+discretion . . . in a capital sentencing hearing, there is a unique opportunity for
+racial prejudice to operate but remain undetected.”).
+10. See Furman, 408 U.S. at 238.
+
+988 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+that the death penalty had only been applied in “freakishly or
+spectacularly rare” cases, with little predictability relative to the
+nature of the crime.11 The decision immediately voided all death
+sentences in the nation.12 However, shortly after Furman, the Court
+reinstated capital punishment in Gregg v. Georgia, approving death
+sentencing schemes that provided prosecutors and jurors with guided
+discretion in an attempt to eradicate prejudice and bias in the
+administration of death.13
+As was the case prior to Furman, the death penalty continues
+to be administered to the most disfavored members of society: the poor,
+those with mental illness, and Black people.14 The death penalty is still
+disproportionately sought and imposed against defendants accused of
+murdering white victims.15 For example, in 1990, the U.S. General
+11. Id. at 293 (Brennan, J., concurring); id. at 310 (Stewart, J., concurring).
+12. See Fred P. Graham, Court Spares 600, N.Y. TIMES (June 30, 1972),
+https://www.nytimes.com/1972/06/30/archives/court-spares-600-4-justices-named-
+by-nixon-all-dissent-in-historic.html (on file with the Columbia Human Rights Law
+Review).
+13. Gregg, 428 U.S. at 227.
+14. See Stephen Bright, Counsel for the Poor: The Death Sentence Not for the
+Worst Crime but for the Worst Lawyer, 103 YALE L.J. 1835, 1840 (1994) [hereinafter
+Bright, Counsel for the Poor] (writing that many people on death row are
+“distinguished by neither their records nor the circumstances of their crimes, but
+by their abject poverty, debilitating mental impairments, minimal intelligence, and
+the poor legal representation they received”); see also Stephen Bright, The Role of
+Race, Poverty, Intellectual Disability, and Mental Illness in the Decline of the Death
+Penalty, 49 U. RICH. L. REV. 671, 675 (2015) (“Capital punishment then [at the time
+Furman was decided], as it is now, was very much tied to race—the oppression of
+African Americans, carried out by this country’s criminal courts.”).
+15. See, e.g., David C. Baldus et al., Racial Discrimination and the Death
+Penalty in the Post-Furman Era: An Empirical and Legal Overview, with Recent
+Findings from Philadelphia, 83 CORNELL L. REV. 1638, 1711–15 (1998) (finding
+evidence from Philadelphia of race-of-victim disparities in death penalty
+sentencing); Scott Phillips, Continued Racial Disparities in the Capital of Capital
+Punishment: The Rosenthal Era, 50 HOUSTON L. REV. 131, 135 (2012) (noting that
+in Houston from 2001 to 2008, death sentences were more likely to be imposed when
+the victim was white); Michael L. Radelet & Glenn L. Pierce, Race and Death
+Sentencing in North Carolina: 1980–2007, 89 N.C. L. REV. 2119, 2123 (2011)
+(similarly finding race-of-victim disparities in death sentencing in North Carolina
+from 1980 to 2007) [hereinafter Radelet & Pierce, North Carolina]; Christopher
+Slobogin, The Death Penalty in Florida, 1 ELON L. REV. 17, 54 (2009) (making
+recommendations for Florida death sentencing based on studies finding racial
+disparities); Raymond Paternoster et al., Justice by Geography and Race: The
+Administration of the Death Penalty in Maryland, 1978–1999, 4 U. MD. L.J. RACE
+RELIGION GENDER & CLASS 1, 90 (2004) (finding race-of-victim disparities at
+different decision-making points in death penalty sentencing in Maryland from
+1978–1999); Michael L. Radelet & Glenn L. Pierce, Race and Prosecutorial
+
+2020] Valuing Black Lives 989
+Accounting Office (“GAO”) conducted a comprehensive study of death
+penalty cases decided since Furman. The GAO concluded that “[i]n 82
+percent of the studies . . . those who murdered whites were found to be
+more likely to be sentenced to death than those who murdered
+blacks.”16 In addition, the report found that “[t]he race of victim
+influence . . . was stronger for the earlier stages of the judicial process
+(e.g. prosecutorial decision to charge defendant with a capital
+offense . . .).”17 These trends have remained consistent over time.
+Any death sentencing scheme is unlikely to eradicate racism
+from its operation where the American public and the justice system
+continue to undervalue Black lives.18 Where multiple actors in the
+justice system—law enforcement, prosecuting attorneys, and the
+jury—all contribute to consistent race-of-victim disparities in death
+sentencing, there can be no constitutional administration of capital
+punishment. My argument, therefore, is that a successful challenge to
+the death penalty must be centered on the undervaluation of Black
+lives. If proven, the appropriate remedy is not to extend capital
+punishment to those who murder Black victims,19 because absent
+automatic death sentencing for certain crimes, which the Court
+already invalidated,20 the law cannot force prosecutors to seek death
+and juries to impose death in Black victim cases. Rather, the
+appropriate remedy is to abolish the death penalty altogether.
+To date, the Court has never made an equal protection
+determination regarding the constitutionality of the death penalty vis-
+à-vis the undervaluation of Black lives.21 In order to assert this claim,
+Discretion in Homicide Cases, 19 LAW & SOC. REV. 587, 612 (1985) (finding that
+prosecutors in Florida were more likely to selectively upgrade a case to justify the
+death penalty when the victim is white).
+16. U.S. GEN. ACCOUNTING OFF., GAO GDD-90-57, DEATH PENALTY
+SENTENCING: RESEARCH INDICATES PATTERN OF RACIAL DISPARITIES 5 (1990).
+17. Id.
+18. See Anthony C. Amsterdam, Opening Remarks: Race and the Death
+Penalty Before and After McCleskey, 39 COLUM. HUM. RTS. L. REV. 34, 38–40
+(2007).
+19. See Randall Kennedy, McCleskey v. Kemp: Race, Capital Punishment,
+and the Supreme Court, 101 HARV. L. REV. 1388, 1392 (1988) (“[M]ost killers of
+blacks are other blacks. Thus, if killers of blacks are sentenced to death with the
+same frequency as similarly situated killers of whites, the number of blacks
+sentenced to death may well increase.”).
+20. See Gregg v. Georgia, 428 U.S. 199 n. 50 (1976).
+21. See McCleskey v. Kemp, 481 U.S. 279, 291 (1987) (examining whether
+Georgia’s death penalty violated the Eighth and Fourteenth Amendments because
+“persons who murder whites are more likely to be sentenced to death than persons
+who murder blacks, and black murderers are more likely to be sentenced to death
+
+990 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+a Black defendant sentenced to death for the murder of a white victim
+would therefore be required to show that the state declined to seek
+death against another defendant in a similarly aggravated case
+involving a Black victim, present data supporting that showing, and
+provide proof that the decision makers in the Black victim case acted
+with discriminatory purpose in declining to seek death.
+An examination of early criminal laws and the legislative
+history of the Fourteenth Amendment make a strong case for
+advancing this challenge. Part I surveys existing scholarship on racial
+disparities in death sentencing based on the race of the victim. Part II
+covers antebellum history of racial disparities in criminal laws and how
+the passage of the Fourteenth Amendment was intended, in part, to
+extend the equal protection of the law to Black victims of crime. Part
+III discusses the Court’s decision in McCleskey and the lessons learned.
+Lastly, Part IV proposes what a challenge based on the undervaluing
+of Black life would look like.
+I. EXISTING SCHOLARSHIP ON RACIAL DISPARITIES
+Multiple actors in the criminal justice system contribute to
+death sentencing disparities based on the victim’s race. Recent
+scholarship indicates that the police are one of the first actors to
+contribute to this disparity when they identify potential suspects
+during the investigation of death-eligible cases.22 Further, numerous
+studies show that prosecuting attorneys contribute to the disparity
+when determining whether to seek death in a murder case23 and when
+than white murderers.”). In denying Mr. McCleskey’s challenge, the Court noted
+that he was “not seek[ing] to assert . . . the rights of black murder victims in
+general.” Id. at 8.
+22. See Jeffrey Fagan & Amanda Geller, Police, Race, and the Production of
+Capital Homicides, 23 BERKELEY J. CRIM. L. 261, 266 (2018) (reviewing “every
+homicide reported between 1976 and 2009,” and finding “that homicides with White
+victims are significantly more likely to be ‘cleared’ by the arrest of a suspect than
+are homicides with minority victims.”).
+23. See generally Angela J. Davis, Prosecution and Race: The Power and
+Privilege of Discretion, 67 FORDHAM L. REV. 13 (1998) (discussing the role race plays
+in a prosecuting attorney’s exercise of discretion). For discussions of prosecutorial
+decision making, race, and the death penalty, see David Baldus et al., Comparative
+Review of Death Sentences: An Empirical Study of the Georgia Experience, 74 J.
+CRIM. L. & CRIMINOLOGY 661, 709–10 (1983) (finding that prosecutors sought the
+death penalty in 70% of cases involving a Black defendant and a white victim, while
+in only 15% cases involving a Black defendant and Black victim, and in 19% of cases
+involving a white defendant and Black victim); Raymond Paternoster, Prosecutor
+Discretion in Requesting the Death Penalty: A Case of Victim-Based Racial
+
+2020] Valuing Black Lives 991
+unlawfully removing Black people from juries.24 Studies also show that
+juries are more likely to sentence defendants to death when the victim
+is white.25
+These troubling trends are the result of death sentencing laws
+that give broad discretion to police, prosecutors, and juries. Capital
+punishment post-Gregg enables state actors to rely on prejudice, bias,
+and racism—implicit or otherwise—when determining whether to seek
+death against similarly situated death-eligible defendants, and when
+Discrimination, 18 LAW & SOC. REV. 437, 440 (1984) (noting that “evidence also
+suggest[ed] that killers of whites are more likely to be charged with capital
+homicide in the first instance”); Erwin Chemerinsky, Eliminating Discrimination
+in Administering the Death Penalty: The Need for the Racial Justice Act, 35 SANTA
+CLARA L. REV. 519, 521–23 (1995) (describing prosecutorial discretion and
+mentioning multiple studies showing that prosecutors are more likely to seek death
+when defendants are charged with murdering white victims than when they are
+charged with murdering Black victims); John M. Scheb II et al., Race and the Death
+Penalty: An Empirical Assessment of First Degree Murder Convictions in Tennessee
+After Gregg v. Georgia, 2 TENN. J. RACE GENDER & SOC. JUST. 1, 20–22 (2013)
+(finding that prosecutors are almost twice as likely to seek death when the victim
+is white).
+24. See EQUAL JUSTICE INITIATIVE, ILLEGAL RACIAL DISCRIMINATION IN
+JURY SELECTION: A CONTINUING LEGACY 43 (2010), https://eji.org/sites/default/
+files/illegal-racial-discrimination-in-jury-selection.pdf [https://perma.cc/Y5T9-
+43CK] (“Exclusion of qualified citizens of color from jury service amounts, then, to
+the near-complete absence of minority perspective, influence, and power in the
+criminal justice system.”); see also William J. Bowers et al., Death Sentencing in
+Black and White: An Empirical Analysis of the Role of Jurors’ Race and Jury Racial
+Composition, 3 U. PA. J. CONST. L. 171, 241 (2001) (finding that all-white juries are
+much more likely to sentence Black defendants to death in cases involving white
+victims than when there is the presence of one or more Black males on the jury); id.
+at 242 (“only white jurors are much more likely to vote for death as a result of their
+perception of the defendant's dangerousness” in cases involving Black
+defendants/white victims).
+25. See Mona Lynch & Craig Haney, Looking Across the Empathic Divide:
+Racialized Decision Making on the Capital Jury, 2011 MICH. ST. L. REV. 573, 583
+(2011) (describing a study where participants were significantly more likely to
+sentence Black defendants to death than similarly situated white defendants, and
+likelihood was greater for simulations involving a Black defendant and white
+victim); see also Jennifer L. Eberhardt et al., Looking Deathworthy: Perceived
+Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes, 17
+PSYCHOL. SCI. 383, 385 (2006) (“The salience of race [in cases involving white
+victims] may incline jurors to think about race as a relevant and useful heuristic
+for determining the blameworthiness of the defendant and the perniciousness of
+the crime.”).
+
+992 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+deciding how much weight to assign aggravating and mitigating
+evidence during the sentencing hearing.26
+A. Race of Victim Studies
+In 1998, Professor David Baldus led a thorough examination of
+post-Furman death penalty cases analyzing racial discrimination in
+capital sentencing.27 Baldus and his team surveyed existing studies
+measuring the impact of race-of-defendant and race-of-victim on death
+sentencing, most of which focused on cases involving Black
+defendants/white victims and white defendants/white victims. These
+studies showed that the chance of a case resulting in the death penalty
+were highest in Black defendant/white victim cases.28 Baldus also
+looked specifically at cases from Philadelphia to determine whether
+there was race-of-victim impact. Researchers identified nearly 1000
+death eligible cases from 1983 to 1993 and analyzed the penalty phases
+of capital trials to determine what impact, if any, the defendant and
+victim’s race had on sentencing.29 Baldus concluded that victim race
+was “particularly prominent” during the jury’s determination of
+mitigation, and that the “magnitude and consistency” of the results
+would not be observable “if substantial equality existed in this system’s
+treatment of defendants.”30
+Six years later Baldus led another team to analyze the extent
+of racial discrimination in death sentencing.31 Baldus noted that prior
+to Furman, researchers paid little attention to race of victim data,
+focusing mostly on race of the defendant. Regardless, pre-Furman
+research from Georgia revealed that prosecutors were 4.3 times more
+likely to seek the death penalty against a defendant charged with
+murdering a white victim than a similarly situated defendant charged
+with murdering a Black victim.32 After surveying post-Furman
+26. See, e.g., Pulley v. Harris, 465 U.S. 37, 55 (1984) (Stevens, J., concurring)
+(“[T]he schemes [in Furman] vested essentially unfettered discretion in juries and
+trial judges to impose the death sentence.”); Turner v. Murray, 476 U.S. 28, 35
+(1986) (explaining that the “range of discretion” afforded jurors in “capital
+sentencing hearing[s]” provides a “unique opportunity for racial prejudice to
+operate but remain undetected.”).
+27. Baldus et al., supra note 15, at 1643.
+28. Id. at 1658 n.61 (noting the 1990 GAO study).
+29. Id. at 1665–75.
+30. Id. at 1714–15.
+31. David Baldus & George Woodworth, Race Discrimination and the
+Legitimacy of Capital Punishment, 53 DEPAUL L. REV. 1411 (2004).
+32. Id. at 1423.
+
+2020] Valuing Black Lives 993
+scholarship, the team concluded that “race-of-victim influence was
+found at all stages of the criminal justice system” and was strongest at
+the earliest stages, such as when the prosecutor decided to seek death
+and in whether to proceed with trial rather than a plea offer.33
+One of the starkest race-of-victim disparities comes from a
+2015 study of Louisiana murders.34 Using FBI statistics, Frank
+Baumgartner and Tim Lyman analyzed all homicides that occurred in
+the state between 1976 and 2011, and then continued to analyze death
+sentence and execution data through July 2015.35 Those who murdered
+white women were 12 times more likely to be sentenced to death than
+a defendant who murdered a Black male.36 Although Black men made
+up the majority of homicide victims in the state (61%), only 8% of those
+cases led to the execution of the perpetrator. Conversely, white women
+represented only 7% of all homicide victims, but 47% of those cases led
+to the defendant’s execution.37 Here, the researchers concluded that
+“the families and communities of murdered black males [were] denied”
+equal protection of the laws.38 Indeed, no white person had been
+executed for a crime against a Black person in Louisiana since 1752.39
+Turning to North Carolina, Jack Boger and Isaac Unah
+examined death penalty cases from 1993 to 1997, finding that
+defendants whose victims were white were 3.5 times more likely to be
+sentenced to death than those with non-white victims.40 Unah noted
+that no matter how he and Boger analyzed the data, the whiteness of
+homicide victims “operate[d] as a ‘silent aggravating circumstance’
+that ma[d]e[] death significantly more likely to be imposed.”41 Michael
+33. Id. at 1425.
+34. Frank R. Baumgartner & Tim Lyman, Race-of-Victim Discrepancies in
+Homicides and Executions, Louisiana 1976–2015, 7 LOY. J. PUB. INT. L. 129 (2015).
+35. Id. at 130–31.
+36. Id. at 135 (noting that based on the race and gender of the victim in
+murder cases, death sentences imposed per 1000 homicides ranged from 57 for
+white female victims; 28 for white male; 18 for Black female; and only 5 for Black
+male victims).
+37. Id. at 134.
+38. Id. at 142.
+39. Id. at 130; see also CAROL S. STEIKER & JORDAN M. STEIKER, COURTING
+DEATH: THE SUPREME COURT AND CAPITAL PUNISHMENT, 110 (2016).
+40. Jack Boger & Isaac Unah, Race and the Death Penalty in North
+Carolina—An Empirical Analysis: 1993–1997, DEATH PENALTY INFO. CTR. (2001),
+https://deathpenaltyinfo.org/resources/publications-and-testimony/studies/race-
+and-the-death-penalty-in-north-carolina [https://perma.cc/A9EZ-HRYA].
+41. Id.
+
+994 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+Radelet and Glenn Pierce came to a similar conclusion when reviewing
+data from North Carolina capital cases from 1980 to 2007.42
+The race-of-victim impact also extends to who gets executed.
+This means that defendants who attempt to obtain appellate relief
+from their death sentence are also impacted by the victim’s race. The
+Death Penalty Information Center notes that post-Gregg, “when
+executions have been carried out . . . 75 percent of the cases involve the
+murder of white victims, even though blacks and whites are about
+equally likely to be victims of murder.”43 In Georgia, defendants
+convicted of murdering white victims are 17 times more likely to be
+executed than defendants convicted of murdering Black victims.44
+When rape was still a death-eligible crime, researchers found that of
+the 455 men executed for rape between 1930 and 1967, 89 percent were
+Black.45
+Findings consistently show that the murder victim’s race is a
+driving force at multiple decision points throughout death sentencing.
+The Court’s decision in Furman afforded state actors significant
+discretion at each of these points, enabling them to insert racism, bias,
+and prejudice into their decision making. Thus, even with guided
+discretion, that most decision-makers are white—investigative law
+enforcement, the prosecution,46 judges,47 and juries48—means that
+42. Radelet & Pierce, North Carolina, supra note 15, at 2127 (after reviewing
+different data from partially overlapping time periods, finding “that in recent years
+White victims are present in less than half of all homicides, but nearly in 80% of
+cases resulting in executions.”).
+43. Policy Issues: Race, DEATH PENALTY INFO. CTR., https://death
+penaltyinfo.org/policy-issues/race [https://perma.cc/M643-L8L3].
+44. Scott Phillips & Justin F. Marceau, Whom the State Kills, 55 HARV.
+C.R.-C.L. L. REV. (forthcoming 2020), https://ssrn.com/abstract=3440828
+[https://perma.cc/PRE7-UK63].
+45. Marvin Wolfgang & Marc Riedel, Race, Judicial Discretion, and the
+Death Penalty, 407 ANNALS AMER. ACAD. POL. & SOC. SCI. 119 (1973).
+46. As of 2015, 95% of elected district attorneys nationwide are white. See
+Justice for All?, REFLECTIVE DEMOCRACY CAMPAIGN (2015), https://wholeads.
+us/justice/wp-content/themes/phase2/pdf/key-findings.pdf [https://perma.cc/J6AT-
+VNZR].
+47. A 2015 study showed that 80% of state appellate court judges are white
+and that over 80% of state trial court judges are white. Tracey E. George & Albert
+H. Yoon, The Gavel Gap, AM. CONST. SOC’Y 7 (2016), https://www.acslaw.org/wp-
+content/uploads/2018/02/gavel-gap-report.pdf [https://perma.cc/R9DN-P28X].
+48. Mona Lynch & Craig Haney, Death Qualification in Black and White:
+Racialized Decision-Making and Death-Qualified Juries, 40 LAW & POL’Y 148
+(2018) (finding that the death qualification process disproportionately excludes
+Black prospective jurors from capital jury participation).
+
+2020] Valuing Black Lives 995
+their exercise of discretion is likely guided by their ability to more
+readily empathize with white victims.49
+B. Centering on Black Murder Victims
+Other scholars have acknowledged the devaluation of Black
+victims in arguments about racial discrimination in capital
+punishment.50 For example, in the wake of the Court’s decision in
+McCleskey, Professor Randall Kennedy noted that critics of the opinion
+often “failed to explore the implications of the undervaluation” of Black
+victims of murder.51 However, his critique does not stem from an
+abolitionist framework, but instead speaks to a broader social concern:
+the plight of Black communities that disproportionately experience
+violence.52
+In the same year that Kennedy published his article, Stephen
+Carter explored the American legal system’s response to victims of
+crime, arguing that the law fails to provide equal protection of the laws
+to Black victims.53 Carter criticized the Court’s holding in McCleskey
+for not only failing to address racism’s role in the disproportionate
+execution of Black defendants, but also “for the inadequate protection
+of murder victims who happen to be black.”54 Carter concluded that the
+political and legal climate recognizes two types of people when criminal
+conduct is involved: victims and Black people.55
+In a 1989 article, Michael Radelet analyzed cases where a
+white person was executed for crimes against Black people.56 Radelet
+reviewed records from 15,978 executions beginning in 1608 and
+identified only 30 cases in which a white person was executed for a
+49. See generally RANDALL KENNEDY, RACE, CRIME, AND THE LAW 347–50
+(1997) (discussing the role of race and empathy in the criminal justice system).
+50. Although not in the context of capital punishment, Kimberlé Crenshaw
+notes that antiracist critiques of rape focus on the discrimination Black men
+accused of raping white women face, which “reflects devaluation of Black women”
+victims. Kimberlé Crenshaw, Mapping the Margins: Intersectionality, Identity
+Politics, and Violence Against Women of Color, 43 STAN. L. REV. 1241, 1271–72
+(1991).
+51. Kennedy, supra note 19, at 1391–92.
+52. Id. at 1394.
+53. Stephen L. Carter, When Victims Happen to Be Black, 97 YALE L.J. 420,
+444–46 (1988).
+54. Id. at 443.
+55. Id. at 447.
+56. Michael L. Radelet, Executions of Whites for Crimes Against Blacks:
+Exception to the Rule?, 30 SOC. Q. 529, 532 (1989).
+
+996 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+crime involving a Black victim.57 Given the rarity of such cases, Radelet
+set out to determine what non-racial factors contributed to each
+execution. He concluded that social status was the driving force.58 For
+example, among white people executed, some either had lower
+occupational status relative to their Black victims, others were
+“marginal members of the white community,” and some had prior
+criminal records, including prior offenses against white people.59 Thus,
+the victim’s Black race alone could not explain each perpetrator’s
+execution.
+II. EARLY AMERICAN CRIMINAL LAW AND THE FOURTEENTH
+AMENDMENT AS REDRESS TO BLACK VICTIMS OF CRIME
+The lack of redress for Black victims of crime is not a recent
+phenomenon; its origins lie in slavery and white supremacy. These two
+interdependent forces shaped the early operation of America’s criminal
+legal system and continue to impact its operation today.60
+57. Radelet relied heavily on Watt Espy’s archive of American executions in
+Headland, Alabama, which has been made digitally available. See Executions in the
+United States, 1608–2002: The ESPY File (ICPSR 8451), UNIV. MICH. INST. FOR
+SOC. RES., https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/8451 [https://
+perma.cc/F8RD-G55Q]. Espy believes there may be as many as 7000 additional
+executions for which he is unable to account. Id. at 531–32.
+58. Id. at 535–36.
+59. Id. at 534–35.
+60. See, e.g., MICHELLE ALEXANDER, THE NEW JIM CROW: MASS
+INCARCERATION IN THE AGE OF COLORBLINDNESS 2 (2010) (arguing that the “racial
+caste system” of Jim Crow and slavery have not been eradicated, but rather
+restructured into the modern criminal justice system); DOUGLAS A. BLACKMON,
+SLAVERY BY ANOTHER NAME: THE RE-ENSLAVEMENT OF BLACK AMERICANS FROM
+THE CIVIL WAR TO WORLD WAR II 53 (2008) (“Beginning in the late 1860s, and
+accelerating after the return of white political control in 1877, every southern state
+enacted an array of interlocking laws essentially intended to criminalize black
+life.”); SAIDIYA V. HARTMAN, SCENES OF SUBJECTION: TERROR, SLAVERY, AND SELF-
+MAKING IN NINETEENTH-CENTURY AMERICA 10 (1997) (observing that racial
+slavery transformed, rather than annulled, putative free labor within the criminal
+justice system); DAVID M. OSHINSKY, WORSE THAN SLAVERY: PARCHMAN FARM
+AND THE ORDEAL OF JIM CROW JUSTICE (1996) (detailing Mississippi’s transition
+from slavery to convict leasing to Parchman Farm, the state prison, which opened
+in 1901 and was modeled on a plantation); Bryan Stevenson, Introduction to EQUAL
+JUSTICE INITIATIVE, LYNCHING IN AMERICA: CONFRONTING THE LEGACY OF RACIAL
+TERROR (3d ed. 2016), https://lynchinginamerica.eji.org/report/ [https://perma.cc/
+XQX7-ZZHQ] (“The administration of criminal justice in particular is tangled with
+the history of lynching in profound and important ways that continue to
+contaminate the integrity and fairness of the justice system.”); Allegra M. McLeod,
+Prison Abolition and Grounded Justice, 62 UCLA L. REV. 1156, 1185–86, 1193
+
+2020] Valuing Black Lives 997
+A. Early American Criminal Law
+The seeds of white supremacy were planted in 1619, when
+white settlers first brought enslaved Africans to the shores of colonial
+America.61 “It took only a few decades after the arrival of enslaved
+Africans in Virginia before white settlers demanded a new world
+defined by racial caste.”62 The law of slavery was a uniquely American
+invention because the common law that the colonies inherited from
+England did not provide for master-enslaved person relationships.63
+During the colonial period, the common law was not intended to protect
+enslaved people; instead, slave codes enabled white people to punish
+Black people with impunity to maintain power and dominance. “The
+most salient distinction between the master-slave relationship and
+other human interactions was the unlimited violence and oppression
+that the slave master could legitimately inflict upon his bondsman.”64
+Given the inherent inequality in the relationship, whereby an enslaved
+person was wholly owned by another person by virtue of race, enslaved
+individuals “were powerless in the face of their masters’ unlimited
+power.”65
+Each colony had a set of slave codes. These laws dictated, with
+specificity, the property rights of those who owned enslaved people, the
+(2015) (acknowledging “the history of slavery and Jim Crow's afterlife in criminal
+punishment practices,” specifically uses of “criminal law administration as a
+central means of resisting the abolition of slavery, Reconstruction, and
+desegregation, continue to inform criminal processes and institutions to this day by
+enabling forms of brutality and disregard that would be unimaginable had they
+originated in other, more democratic, egalitarian, and racially integrated
+contexts.”).
+61. See, e.g., Brief for NAACP et al. as Amici Curiae Supporting Petitioners
+in Furman v. Georgia, 408 U.S. 238 (1972) (No. 69-5003), 1971 WL 134376, at *9
+(Aug. 31, 1971) (tracing racism and capital punishment to when enslaved Africans
+were brought to the colonies: “The most brutal and inhumane forms of
+punishment—crucifixion, burning and starvation—were legal under the slave codes
+in the early colonies and were used extensively because imprisonment would have
+been a reward, giving the slave time to rest, and fines could not be collected from
+unpaid laborers.”).
+62. Bryan Stevenson, Why American Prisons Owe Their Cruelty to Slavery,
+N.Y. TIMES MAG. (Aug. 14, 2019), https://www.nytimes.com/interactive/2019/08/
+14/magazine/prison-industrial-complex-slavery-racism.html (on file with the
+Columbia Human Rights Law Review).
+63. Andrew Fede, Legitimized Violent Slave Abuse in the American South,
+1619–1865: A Case Study of Law and Social Change in Six Southern States, 29 AM.
+J. LEGAL HIST. 93, 94 (1985).
+64. Id.
+65. Id.
+
+998 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+rights these owners had to discipline their property, and protections
+against rebellions led by enslaved people.66 Slave owners relied heavily
+on the slave codes to assert and maintain control because the state
+lacked power to stop a collective slave uprising.67 As a result,
+legislators explicitly deprived enslaved people of the equal protection
+of “the common law of crimes” when whites “violently abused” them.68
+Legislators “pass[ed] exculpatory acts that granted both slave masters
+and whites who were strangers to the slave legal rights to beat, whip,
+and kill bondsmen.”69 The only type of redress the slave laws provided
+for such treatment was to the slave owner, who could be reimbursed
+for damages to his property or for replacement if the abuse resulted in
+death.70 No enslaved person could testify in court against a white
+person to determine guilt.71 According to early colonial law, enslaved
+people were not considered worthy of protection. However, these same
+laws “held slaves . . . morally responsible and punishable for
+misdemeanors and felonies.”72 Thus, early colonial law intentionally
+did not provide redress for Black people; it provided only punishment.
+Following the formation of the United States, the law’s
+emphasis on punishing Black bodies continued. Antebellum era
+criminal codes often explicitly mentioned both the race of the victim
+and the defendant, making certain acts felonies only when committed
+by Black people. For example, in Alabama, an enslaved person could
+receive “up to one hundred stripes on the bare back . . . [for] forg[ing] a
+pass or engag[ing] in ‘riots, routs, unlawful, assemblies, trespasses,
+and seditious speeches.’”73 Similarly, “[i]n Louisiana, a slave who
+struck his master, a member of the master’s family, or the overseer, ‘so
+as to cause a contusion, or effusion or shedding of blood,’ was to suffer
+death . . . .”74
+Whereas certain crimes specifically targeted enslaved people,
+equally troubling was the fact that the social, political, and legal norms
+of the South also failed to hold white people accountable where the
+victim of the crime was Black. For example, the criminal codes
+66. See KENNETH M. STAMPP, THE PECULIAR INSTITUTION: SLAVERY IN THE
+ANTE-BELLUM SOUTH 206 (Vintage Books 1989) (1956).
+67. Fede, supra note 63, at 95.
+68. Id.
+69. Id.
+70. Id. at 96.
+71. A. LEON HIGGINBOTHAM, JR., IN THE MATTER OF COLOR: RACE AND
+AMERICAN LEGAL PROCESS—THE COLONIAL PERIOD 58 (1978).
+72. STAMPP, supra note 66, at 206.
+73. Id. at 210.
+74. Id. at 210–11.
+
+2020] Valuing Black Lives 999
+assigned harsher punishments to enslaved and free Black people for
+committing the same offense as a white person.75 In Georgia, “rape
+committed by a white man was never regarded as sufficiently serious
+to warrant a penalty greater than 20 years imprisonment. Rape
+committed by a slave or a free person of color upon a white woman was
+punishable by death.”76 Early American criminal law laid the
+foundation for the racial disparities we continue to observe in
+contemporary capital punishment.
+B. Adoption of the Fourteenth Amendment
+The Civil War transformed the United States politically,
+economically, and legally. During Reconstruction, from approximately
+1863 to 1877, some of these changes briefly touched the lives of
+formerly enslaved and free Black people.77 It was during this period
+that Congress passed the Fourteenth Amendment. The context, key
+political figures, and legislative history leading up to the Amendment’s
+passage shed light on the framers’ intent to extend the equal protection
+of the laws to Black people, specifically those victimized by crime.
+In the aftermath of Emancipation, most Southern whites,
+regardless of whether they had been slaveholders, were not prepared
+to recognize the rights of Black people.78 Accordingly, Southern
+lawmakers, many of whom had owned slaves or were from slaveholding
+families, passed a series of laws to maintain the subjugation of Black
+people.79 These laws became known as black codes.80 For instance,
+“[b]lacks convicted of raping white women were required by law to be
+castrated or killed. White men convicted of raping white women,
+however, could expect much less severe punishments. The rape of black
+women was not even recognized as a crime.”81
+Meanwhile, Congress had to quickly determine how to address
+post-war Southern resistance and reunify the splintered nation. On
+January 12, 1866, a Joint Committee of members of the 39th Congress
+convened “to inquire into the condition of the States which formed the
+75. Id. at 210 (“Every southern state defined a substantial number of felonies
+carrying capital punishment for slaves and lesser punishment for whites.”).
+76. Brief for Petitioner, Coker v. Georgia, 433 U.S. 584 (1977) (No. 75-5444),
+1976 WL 181481, at *54 n.62.
+77. See DERRICK A. BELL, RACE, RACISM, AND AMERICAN LAW 51–52 (6th ed.
+2008).
+78. Id.
+79. Id.
+80. Id.
+81. Id. at 282 n.106 (citing BELL HOOKS, AIN’T I A WOMAN 33–36 (1981)).
+
+1000 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+so-called Confederate States.”82 Republican Representatives Thaddeus
+Stevens (PA) and John Bingham (OH) were key members of the
+committee, powerful political leaders, and fierce opponents of slavery
+and racial discrimination.83
+During the Reconstruction hearing, members of Congress
+questioned lawyers, military officials, and businessmen residing in the
+South about the experiences of Black people in the aftermath of the
+war. Much of the testimony described violence against Black people. In
+Alabama, in the months immediately following the war, a Union Major
+General observed: “I have not known, after six months’ residence at the
+capital of the State, a single instance of a white man being convicted
+and hung or sent to the penitentiary for a crime against a negro, while
+many cases of crime warranting such punishment have been reported
+to me.”84 The Major General explained that some of these crimes
+committed against Black people included the “most atrocious
+murders.”85 Major General Canby described a similar situation in
+Louisiana: “[T]he prevailing sentiment is so adverse to the negro that
+acts of monstrous crime against him are winked at; and this sentiment
+will increase just in proportion as the privileges of the negroes are
+extended.”86
+An attorney practicing in Norfolk, Virginia testified: “I have
+had more than a hundred complaints made to me with reference to the
+abuse of freedmen . . . . They have been beaten, wounded, and in some
+instances killed; and I have not yet known one white man to have been
+brought to justice for an outrage upon a colored man.”87 Similarly,
+when the Joint Committee asked Major General Clinton Fisk whether
+a Black man in South Carolina would turn to the courts if a white man
+violated his wife, Fisk responded: “the negro . . . would not dream of
+such a thing [because of] . . . fear of personal violence to himself, and
+82. STAFF OF THE J. COMM. ON RECONSTRUCTION, 39TH CONG., REP OF THE
+J. COMM. ON RECONSTRUCTION, at iii (1866) [hereinafter RECONSTRUCTION
+REPORT].
+83. See Paul Finkelman, The Historical Context of the Fourteenth
+Amendment, 13 TEMPLE POL. & C.R. L. REV. 389, 392–94 (2004) (describing
+Thaddeus Stevens’ multiple decades of “uncompromising support[] of black rights
+and racial equality”); id. at 395–99 (detailing John Bingham’s efforts to expand
+Black rights in Ohio, including providing schools and protections against
+kidnapping).
+84. See RECONSTRUCTION REPORT, supra note 82, pt. 3, at 141 (Mar. 9, 1866)
+(testimony of Maj. Gen. Wager Swayne).
+85. Id.
+86. Id. pt. 4, at 153 (1866) (testimony of Major General ED. R.S. Canby).
+87. Id. pt. 3, at 50 (Feb. 3, 1866).
+
+2020] Valuing Black Lives 1001
+because he would think it would be utterly futile . . . .”88 Earlier in his
+testimony, Fisk reported that he “found numerous evidences . . . that
+[Black women’s] chastity had been disregarded by the whites . . . .”89
+The Joint Committee’s report was over 800 pages, detailing
+months of testimony, much of it describing violent Southern resistance
+to Black freedom. It was clear that, without federal legislation,
+Southern whites had little intention of recognizing Black people’s
+humanity or dignity: “The only hope the colored people have is in Uncle
+Sam’s bayonets; without them, they would not feel any security . . . .”90
+After bearing witness to this testimony, Representative Bingham
+drafted Section I of the Fourteenth Amendment:
+No state shall make or enforce any law which shall
+abridge the privileges or immunities of citizens of the
+United States; nor shall any state deprive any person
+of life, liberty, or property, without due process of law;
+nor deny to any person within its jurisdiction the equal
+protection of the laws.91
+When Senator Jacob Howard of Michigan introduced the
+Amendment to the Senate, he explained: “It prohibits the hanging of a
+black man for a crime for which the white man is not to be hanged.”92
+Forefront in the framers’ minds was to provide redress to Black victims
+of crimes, and to end the legal discrepancies that had long existed in
+Southern states.
+III. CHALLENGING CAPITAL PUNISHMENT UNDER THE FOURTEENTH
+AMENDMENT: MCCLESKEY V. KEMP
+The death penalty challenge in McCleskey v. Kemp was the
+culmination of years of legal strategy, data collection, and analysis to
+push the Court to squarely consider race in capital punishment.93
+88. Id. at pt. 3, at 37 (Jan. 30, 1866).
+89. Id.
+90. Id. at pt. 2, at 59 (Feb. 3, 1866) (testimony of Thomas Bain).
+91. Gerard N. Magliocca, The Father of the 14th Amendment, N.Y. TIMES:
+OPINIONATOR (Sept. 17, 2013), https://opinionator.blogs.nytimes.com/2013/09/17/
+the-father-of-the-14th-amendment/ (on file with the Columbia Human Rights Law
+Review) (quoting U.S. CONST. amend. XIV) (emphasis added).
+92. CONG. GLOBE, 39th Cong., 1st Sess. 2766 (1866).
+93. See JACK GREENBERG, CRUSADERS IN THE COURTS: LEGAL BATTLES OF
+THE CIVIL RIGHTS MOVEMENT 440 (1st ed. 1994) (describing the development of “a
+full-scale attack on capital punishment, as arbitrary, cruel and unusual, and
+racist”); id. at 444 (concluding that “the single greatest determinant of whether a
+defendant will be sentenced to death is the race of the victim”).
+
+1002 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+Justice Powell foreshadowed the challenge in his dissent in Furman,
+musing: “If a Negro defendant . . . could demonstrate that members of
+his race were being singled out for more severe punishment than others
+charged with the same offense, a constitutional violation might be
+established.”94 Embracing Justice Powell’s invitation, counsel for Mr.
+McCleskey argued that Georgia’s death sentencing scheme racially
+discriminated against Warren McCleskey, a Black man sentenced to
+death for killing a white man, in violation of both the Eighth and
+Fourteenth Amendments.95 In support, they relied on David Baldus’s
+complex statistical study showing that Georgia’s death sentencing
+scheme resulted in “persistent racial disparities in capital
+sentencing—disparities by race of the victim and by race of the
+defendant—that are highly statistically significant and cannot be
+explained by any of the hundreds of [other] sentencing factors . . . .”96
+Baldus’s analysis showed that defendants charged with killing a white
+victim received the death penalty at a rate nearly eleven times higher
+than defendants charged with killing a Black victim.97 Yet despite the
+clear conclusions from the data, the Supreme Court was unconvinced.98
+In evaluating the Fourteenth Amendment claim, the Court
+seemed fearful of the vast implications of Mr. McCleskey’s request.99
+Namely, finding an equal protection violation would have required the
+Court to acknowledge deeply entrenched, systemic racism in the
+administration of the death penalty. It was unwilling to concede that
+racism, bias, and prejudice played a role in police investigations,
+prosecutor charging decisions, and jury and judge decision-making.100
+Nor did the Court accept the statistical evidence as sufficient proof of
+purposeful racism in Mr. McCleskey’s case. Instead, for Mr. McCleskey
+to prevail on an inference of discrimination, the Court “demand[ed]
+94. Furman v. Georgia, 408 U.S. 238, 449 (1972) (Powell, J., dissenting)
+(explaining that the evidence submitted in Maxwell v. Bishop, 398 F.2d 138 (8th
+Cir. 1968), showing that Black men in certain Arkansas counties were
+disproportionately sentenced to death for the rape of white women, was
+insufficient).
+95. Brief for Petitioner at 27–28, McCleskey v. Kemp, 481 U.S. 279 (1987)
+(No. 84-6811), 1985 U.S. S. Ct. Briefs LEXIS 1538; see also id. at 10–27 (detailing
+history of racial disparities in criminal sentencing, particularly capital
+punishment).
+96. Id. at 32.
+97. McCleskey v. Kemp, 481 U.S. 279, 353 (1987) (Blackmun, J., dissenting).
+98. Id. at 291.
+99. The dissent characterized this as “a fear of too much justice.” Id. at 339
+(Brennan, J., dissenting).
+100. Id. at 292.
+
+2020] Valuing Black Lives 1003
+exceptionally clear proof,”101 despite the fact that the Court routinely
+relied on statistical evidence in other areas of the law to infer
+discrimination, particularly where “smoking gun” evidence is
+unlikely.102 The Court also dismissed Mr. McCleskey’s historical
+evidence, claiming that history from the Civil War era had “little
+probative value” and that “actions taken long ago” did not reveal
+“current intent.”103 The Court therefore created a regime where the
+most relevant and probative evidence—i.e., historical discrimination
+and deliberate disproportionate punishment—could not be used to
+establish a Fourteenth Amendment equal protection violation. This
+undermined the intent to extend redressability to Black people
+inherent in the Fourteenth Amendment.104
+Ultimately, in rejecting Mr. McCleskey’s Eighth Amendment
+arguments, the Court invited him to take his case and statistical proof
+to the legislature, a body better suited to address his concerns.105
+IV. CHALLENGING THE DEATH PENALTY BASED ON THE
+UNDERVALUATION OF BLACK LIVES
+The Fourteenth Amendment forbids public officials from
+intentional discrimination based on race absent a compelling
+government interest. This prohibition extends to investigating police
+officers and prosecutors exercising discretion. No compelling state
+interest can justify the government’s failure to seek the death penalty
+in aggravated murders involving Black victims at similar rates as in
+cases involving white victims. The distinguishing factor in the
+government’s failure to seek death is not the aggravation of the crime,
+but rather the race of the victim. As the Court recognized in McCleskey,
+“[i]t would violate the Equal Protection Clause for a State to base
+enforcement of its criminal laws on ‘an unjustifiable standard such as
+race.’”106
+101. Id. at 297.
+102. Courts have long allowed plaintiffs in employment cases to rely on
+statistics because direct evidence of discrimination is rare. See, e.g., Bazemore v.
+Friday, 478 U.S. 385, 387 (1986) (relying on several statistical regressions of pay to
+show Black employees were paid less than white colleagues).
+103. McCleskey, 481 U.S. at 289; id. n.20.
+104. See supra Section II.B.
+105. McCleskey, 481 U.S. at 319.
+106. Id. at 291 n.8 (quoting Oyler v. Boles, 368 U.S. 448, 456 (1962)).
+
+1004 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+A. Standing and Selection of Parties to Raise the Claim
+A threshold determination in mounting a Fourteenth
+Amendment equal protection challenge is determining who should
+raise it: the estate of a Black victim, a defendant who murdered a Black
+victim and against whom the government did not seek death, or a
+defendant who murdered a white victim and against whom the
+government did seek death? No lawyer acting in her client’s best
+interest would challenge the government’s failure to seek death
+against her client. Instead, the question becomes whether a capitally-
+charged defendant who murdered a white victim has third-party
+standing to raise the issue on behalf of a murdered Black victim from
+a non-capital case.
+Third-party standing determinations require the person
+pursuing the claim to have an interest in the outcome of the dispute,
+to be closely related to the third party, and for the third party to be
+unlikely to assert their own right.107 Beginning with Craig v. Boren108
+and continuing with Batson v. Kentucky109, the Court began to relax
+standing principles to address equal protection violations. In Batson,
+the defendant challenged the government’s unlawful removal of a
+prospective juror based on the juror’s race. In allowing a defendant to
+pursue a jury selection discrimination claim, the Court implicitly
+recognized that the unlawfully excluded juror was unlikely to assert
+their own right. Similarly, there is little likelihood that a Black murder
+victim’s estate would assert the victim’s right to equal protection of a
+criminal prosecution. Moreover, there is an additional harm in need of
+redress: the harm to the community where selective capital
+prosecution based on race undermines “public confidence in the
+fairness of our justice system.”110 Like Batson, the prosecutor’s
+discriminatory action “causes a criminal defendant cognizable
+injury . . . because it ‘casts doubt on the integrity of the judicial process’
+and places the fairness of a criminal proceeding in doubt.”111
+The most appropriate actor to bring the challenge is a Black
+defendant whom the state is seeking death against for allegedly
+murdering a white victim. To avoid procedural default, the ideal
+107. See Powers v. Ohio, 499 U.S. 400, 414 (1991).
+108. 429 U.S. 190 (1976) (granting standing to beer vendors challenging
+Oklahoma’s statute prohibiting the sale of certain beer to males (but not females)
+between ages 18–21).
+109. 476 U.S. 79 (1986).
+110. Batson, 476 U.S. at 87.
+111. Id. at 411 (quoting Rose v. Mitchell, 433 U.S. 545, 556 (1979)).
+
+2020] Valuing Black Lives 1005
+procedural mechanism to raise the claim is a pretrial motion after the
+prosecution has filed its death notice. To raise the claim, the lawyers
+must find a factually similar case from the same prosecuting
+jurisdiction involving a white or Black defendant prosecuted for
+murdering a Black victim and where the state declined to seek death.
+The two crimes should share identical possible aggravating
+circumstances and should have occurred during roughly the same
+timeframe. These similarities—aggravating facts, prosecutor’s office,
+and timing—will help isolate the victim’s race as the distinguishing
+characteristic between a death-noticed case and a non-capital
+prosecution.
+B. Purposeful Discrimination
+The central takeaway from McCleskey was that any
+subsequent challenge to the death penalty on equal protection grounds
+must include evidence of purposeful racial discrimination.112 Thus,
+when raising the claim from the perspective of a Black murder victim,
+such evidence must support an inference that the decisionmakers acted
+with discriminatory purpose when they declined to seek death.
+Existing statistics illustrate the stark race-of-victim disparities in law
+enforcement murder investigations, prosecutor charging decisions,
+jury sentencing, and executions. However, McCleskey tells us we need
+more.
+As Anthony Amsterdam explained in his 2007 remarks
+reflecting on McCleskey, we must collect information about racism in
+the community where the cases are being prosecuted, in the
+prosecuting attorney’s office, and in the investigating police
+department.113 We must also gather evidence of racial discrimination
+from the specific prosecutors involved in the charging decisions—their
+record of Batson violations, their personnel files, and any public
+statements they have made.114 The NAACP Legal Defense and
+Educational Fund’s amicus brief in Flowers v. Mississippi is an
+excellent example of how to identify racism in a specific community, in
+a prosecutor’s office, and in the practices of an individual prosecutor.115
+112. McCleskey v. Kemp, 481 U.S. 279, 351 (1987).
+113. See Amsterdam, supra note 18, at 53–54.
+114. Id.
+115. See Brief of Amicus Curiae NAACP Legal Defense & Educational Fund,
+Inc. in Support of Petitioner, Flowers v. Mississippi, 136 S. Ct. 2228 (2019) (No. 17-
+9572), 2018 WL 6921334, at *17–36 (detailing Winona, Mississippi and the Fifth
+Judicial District’s long history of denying African-Americans equal rights and
+
+1006 COLUMBIA HUMAN RIGHTS LAW REVIEW [51.3
+A successful test case in a single jurisdiction could pave the way for
+subsequent challenges in other states that continue to seek the death
+penalty, eventually culminating in a national end to capital
+punishment.
+C. Remedy
+In response to the racially disproportionate data in McCleskey,
+one of the Justices mused: “It’s such a curious case, because what’s the
+remedy? Is it to execute more people?”116 Of course not. At the time,
+Jack Boger demurred, offering that the Court need not make a facial
+holding on the constitutionality of the death penalty akin to the Court’s
+decision in Furman.117 However, today the only appropriate remedy is
+to abolish the death penalty. States still operating a capital
+punishment system are incapable of administering the death penalty
+free from racial discrimination and arbitrariness. Legally irrelevant
+factors continue to drive death sentencing including the quality of
+defense counsel, the location of the crime, and the race of the victim
+(and often the defendant).118 Expanding the death penalty’s reach to
+include defendants in Black victim cases serves only to perpetuate the
+undervaluation of Black lives because the perpetrators of Black victim
+cases are often also Black.119
+To ensure that Black victims receive equal protection of the
+laws, the government must end the discriminatory imposition of
+capital punishment. A natural extension of valuing the lives of Black
+victims is to value the lives of all defendants, particularly Black
+defendants charged with aggravated murders.120
+District Attorney Doug Evans’ record of discriminating against African-American
+jurors).
+116. See Transcript of Oral Argument at 12, McCleskey v. Kemp, 481 U.S.
+279 (1987) (No. 84-6811).
+117. Id at 12–13.
+118. See Glossip v. Gross, 135 S. Ct. 2726, 2760 (2015) (Breyer, J., dissenting)
+(recognizing that factors “that ought not to affect application of the death penalty,
+such as race, gender, or geography, often do.”) (emphasis in original); id. at 2761
+(explaining that “the availability of resources for defense counsel (or lack thereof)”
+also affects death sentencing (citing, inter alia, Bright, Counsel for the Poor, supra
+note 14)).
+119. See Kennedy, supra note 19, at 1392.
+120. See BRYAN STEVENSON, JUST MERCY: A STORY OF JUSTICE AND
+REDEMPTION 17–18 (2014).
+
+2020] Valuing Black Lives 1007
+CONCLUSION
+At its founding, the nation’s criminal legal system
+distinguished between races to determine what behavior was criminal
+and who to punish. The Fourteenth Amendment, in part, was ratified
+to eradicate these distinctions. Placing equal value on Black
+lives—perpetrators and victims—relative to white lives, would compel
+the criminal legal system to address longstanding racial discrimination
+in the operation of the death penalty. Rather than expand or even
+reform capital punishment, the only solution is abolition. Borrowing
+from Allegra McLeod’s prison abolition framework, abolition of the
+death penalty forces the law to confront the dehumanization, violence,
+and racial degradation inherent in death sentencing.121 Empirical
+evidence gathered since Furman illustrates that our nation is
+incapable of administering the death penalty free from racial
+discrimination. It is time for this nation to cease tinkering with the
+machinery of death and to abolish capital punishment.
+121. McLeod, supra note 60, at 1207.

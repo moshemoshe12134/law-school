@@ -1,0 +1,100 @@
+Dear class,
+For next week, here are our readings.
+Please recall that Monday’s readings are the ones intended for today. We will be turning to
+questions about how courts should implement the concept of negligence. This includes the
+questions of “rules or standards?” and “who decides?” as well as how external sources be useful.
+Throughout the course, we will often consider such questions of legal design—“how should tort
+law work?”
+On Wednesday, we will discuss Carroll Towing, the classic case with the “Learned Hand
+Formula.” You can think of this case as a famous example of judicial attempts to structure how
+facts should be analyzed under the negligence standard.
+On Friday, we will turn to a category of situations where tort law has been reluctant to recognize
+the usual duty-not-to-be-negligent—so reluctant that a special phrase, “affirmative duty,” is then
+used to describe the exceptional scenarios (within this category) where negligence liability is
+possible.
+Also, please remember that my weekly office hours will start this coming Tuesday, from 8:30-
+9:30 am in JG 908.
+Best wishes,
+BH
+* * *
+Monday, 2/2
+Panel: Bluebird
+We will begin by considering these fundamental design questions: Should the test for negligence
+work as a set of rigid rules, or as a flexible standard? And should judges or juries decide the
+issue? We will use the Goodman and Pokora cases—a classic pairing—to explore how these
+questions intersect. And we will glance back at Parks & Recreation to see a recent illustration of
+a “rules versus standards” argument.
+Then our second set of readings will show how common-law courts, over time, have tried to find
+ways to add more structure to the mushy negligence standard—here, by looking to external
+sources, such as industry custom, professional standards, or statutes. We will look at the
+Sabatino case as a recent illustration of how “statutory negligence” (or “negligence per se”)
+might work in practice.
+
+Rules or Standards? Judges or Juries?
+Roles of Judge and Jury, pp. 103-108 KA
+Baltimore & Ohio RR v. Goodman
+Pokora v. Wabash Railway
+Core v. N.C. Parks & Recreation, pp. 19-23 only (contrasting the Davies case)
+Optional: current Virginia jury instructions on railroad crossings
+External Sources? Custom, Malpractice, and Statutes
+Custom, pp. 85-89 KA
+The T.J. Hooper opinions (read both, for contrast)
+Malpractice, pp. 89-93, KA (sections A and B only)
+Illinois jury instructions: on malpractice (contrast 105.01 with 105.03.01)
+Violation of statutes (“negligence per se”), pp. 99-103 KA
+White v. Sabatino, pp. 6-11 (for the facts), pp. 42-48 (on negligence per se)
+* * *
+Wednesday, 2/4
+Panel: Goldfinch
+I would strongly recommend reading the Gilles article excerpt before reading the Carroll Towing
+case itself. The excerpt is long but worth reading closely, as it tells you the backstory to the
+case; the factual details on pp. 12-18 and the critical analysis on pp. 25-31 will be especially
+useful for our discussion in class. Please pay detailed attention to the facts about the accident
+itself, which are more complicated than in our prior cases.
+In class, after working through those facts, we will discuss the following: How is the Learned
+Hand Formula supposed to work, if we take it seriously? Where does foreseeability fit in? Does
+
+it serve one or more of the (competing) aims of tort law? Along the way, we will practice
+making arguments based on the formula, and using the facts of Carroll Towing or other cases we
+have seen so far. Then we will discuss several major critiques of using the formula as a test for
+negligence.
+A Formula for Negligence?
+The Negligence Calculus, pp. 78-85 KA
+Gilles article on Carroll Towing, pp. 11-31
+U.S. v. Carroll Towing
+What has become of the Learned Hand formula?
+* * *
+Friday 2/6
+Panel: Bluebird
+We then turn to some contexts where the default in tort law is not to assign any liability unless
+courts have recognized special “affirmative duties.”
+In the Moch case, notice how Judge Cardozo talks about the distinction between failing to help
+versus causing harm. Based on his rhetoric, does the outcome of the case make sense? In the
+Cuyler case, think about Judge Posner’s flowerpot illustration, and ask whether it fits your own
+intuitions.
+Then we will look at where affirmative duties have been recognized, focusing on the concepts of
+a “special relationship” and of “undertaking” to protect someone. In the Cuyler case, as you sort
+out the relationships among the various parties involved, ask yourself, what’s the critical
+difference between this case and the classic Tarasoff case (as described in KA)?
+Next, as an illustration of a court struggling with what counts as a relevant “undertaking,” we
+will look at a specific legal question raised in Sabatino (the drunk-driving case): Can there be
+liability for someone who offers to be a designated driver?
+Finally, we will look at a products liability case where there is a recognized duty to warn, Hood
+v. Ryobi, and discuss how good a warning has to be.
+
+Please note: Some of the injuries and deaths in these materials are more disturbing than we have
+encountered so far.
+“Affirmative Duties”
+Affirmative Duty, Rescue, pp. 261-265 KA
+Undertakings and Policy-Based Limits, 266-268 KA
+Moch v. Rensselaer Water Co.
+Duty to Rescue: Special Relationships
+Special Relationships, pp. 265-266 KA
+Cuyler v. U.S.
+NPR story about implications of the Tarasoff case:
+https://www.npr.org/2012/08/13/158703291/the-line-between-confidentiality-and-public-
+safety (listen to first 10 minutes)
+White v. Sabatino (again), pp. 21-30 (through the Prosser quote only)
+Duty to Warn: How Much Warning?
+Warning Defects, pp. 230-233 KA (start at section C, stop before section 2)
+Hood v. Ryobi

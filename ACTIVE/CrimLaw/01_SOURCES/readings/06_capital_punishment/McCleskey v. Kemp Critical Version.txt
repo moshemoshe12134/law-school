@@ -1,0 +1,1107 @@
+481 279
+U.S.
+Supreme Court of the United States
+Warren McCLESKEY, Petitioner
+v.
+RalphKEMP,Superintendent, GeorgiaDiagnostic andClassification
+Center
+84 6811
+No. –
+ArguedOctober15,1986.
+DecidedApril22,1987.
+RehearingDeniedJune8,1987.
+BARNES,J.deliveredtheopinionoftheCourt.Powell,J.joinedinallbutPartII.
+Rehnquist J. filed a dissenting opinion, in which O’Connor, Scalia, and White
+joined.
+Defendant McCleskey filed a writ of habeas corpus in the Northern District of
+Georgiachallenginga1979murderconvictionanddeathsentenceimposedinFulton
+County, Georgia. The petition, which the District Court and the Eleventh Circuit
+CourtofAppealsdenied,questionswhetherstatisticalevidencefromresearchstudies
+thatstronglysuggestracialconsiderationsfactorintocapitalsentencingjurydeliber-
+ations, provides a basis to determine the petitioner’s sentence was unconstitutional
+under the Eighth Amendment or Fourteenth Amendment. We now reverse those
+decisionsbasedonempiricaldatastronglycorroboratingasignificantriskexiststhat
+McCleskey’s sentence involved unconstitutional race discrimination in violation of
+boththeEighthAmendmentandtheFourteenthAmendment.
+i background
+PetitionerWarrenMcCleskeywasconvictedoftwocountsofrobberyandonecount
+ofmurder,inconnectionwithakillingofapoliceofficerthattookplaceduringan
+armedrobberyofafurniturestoreinGeorgiain1978.McCleskeywasoneoffour
+armed men who committed the robbery. The police officer, who responded to
+a silent alarm, was struck by two bullets after he entered the front of the store.
+Thoughpetitionerhadsecuredthatportionofthestore,heclaimedthathedidnot
+557
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+558 MarioBarnes
+firetheshots.McCleskeywasarrestedonanunrelatedchargeseveralweeksafterthe
+robbery.McCleskeydidnotenteraguiltyplea,andtheprosecutorsoughtthedeath
+penalty.Athistrial,thestateintroducedevidencethatoneofthebulletsthatstruck
+theofficerwasfroma.38caliberRossirevolver,themodelofgunMcCleskeywas
+described as carrying during the robbery. A Georgia jury convicted McCleskey of
+murder and two counts of robbery. The jury recommended punishment of two
+consecutivelifesentencesfortherobberychargesanddeathformurder.Duringthe
+penaltyphaseofthetrial,McCleskeyofferednoevidenceonmitigation.Thejury
+foundtwoaggravatingcircumstancesundertheGeorgiastatutetojustifyimposing
+death:(1)thatthemurderwasofapoliceofficerintheperformanceofhisduties;and
+(2) that the murder took place during the commission of an armed robbery. In
+accordance with the jury’s recommendation, the court sentenced McCleskey to
+death.
+TheGeorgiaSupremeCourtaffirmedtheconvictionandsentence,followedby
+this Court denying a petition for a writ of certiorari. McCleskey then filed unsuc-
+cessful claims for a new trial in the Fulton County Superior Court and a writ of
+habeascorpusintheButtsCountySuperiorCourt.Bothclaimsweredismissed,and
+the Georgia Supreme Court upheld the denial ofthe habeas petition.McCleskey
+next filed a writ of habeas corpus in the Federal District Court in the Northern
+DistrictofGeorgiatochallengehissentence.Heraisedeighteenclaims,including
+allegationsthatGeorgiaadministeredcapitalpunishmentinadiscriminatoryman-
+nerthatviolatedboththeEighthAmendmentandFourteenthAmendmentofthe
+U.S. Constitution. To support this claim, petitioner introduced the results of two
+studiesconductedbyDavidBaldusandhisresearchteam(hereinafterreferredtoas
+1
+the Baldus studies), which employed multiple regressions to reveal how race
+influencedtheimpositionofdeathsentencesinGeorgia.
+Thestudiesexaminedover2,000murdercasesinGeorgiaduringthe1970s.The
+studies noted an effect in sentencing related to the race of the victim, in that
+defendantskillingwhitesreceivedthedeathpenaltyeleventimesmoreoftenthan
+defendantskillingBlacks.Baldusalsofoundstatisticallysignificantdifferencesin
+thepercentagesforpeoplebeingsentencedtodeathbasedonthecombinedraces
+ofthe defendantand victim. The unadjusted rates showed thatblack defendants
+killing white victims were three times more likely to be sentenced to death than
+blackdefendantswhokilledblackvictims.Putanotherway,blackdefendantswho
+killedwhitevictimsreceivedadeathsentence22percentofthetime,whileblack
+defendants who killed black victims were sentenced to death 8 percent of the
+2
+time. Additionally,thestudiesindicatesimilarlydisproportionateeffectsbetween
+the defendant’s and victim’s race in prosecutors’ decisions to seek the death
+1 Foranin-depthpresentationofthestudiesandtheirfindings,seeDavidC.Baldus,etal.,Comparative
+Review of Death Sentences: An Empirical Study of the Georgia Experience, 74 J. OF CRIM. &
+CRIMINOLOGY661(1983).
+2 BriefforPetitionerat32.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 559
+penalty. 3 The studies considered 230 variables that could have explained these
+resultsonotherthanracialgrounds.Evenaftercontrollingforthemostinfluential
+thirty-nine nonracial variables, the study concluded to a statistically significant
+degreethatblackdefendantswhokillwhitevictimshavethegreatestlikelihoodof
+being sentenced to death in Georgia. This was so even without the studies
+attempting to explore more complicated interrelations between gender, race,
+sexualized violence and punishment, which may show even greater disparities
+(e.g. a black man killing a white woman may perhaps prove exponentially more
+4
+likelytoleadtothedeathpenaltythanablackwomankillingablackman).
+ii the fourteenth amendment
+Petitioner McCleskey claims that the results of the Baldus studies support
+a conclusion that Georgia’s administration of the death penalty is discriminatory
+and violates the Equal Protection Clause of the Fourteenth Amendment. He
+believesthisisborneoutinthestudies’findings,whichestablishthatconsiderations
+ofracearelikelyaffectingthedecision-makingofprosecutorsandjurors.Thestudies
+revealthat,asablackmanwhokilledawhiteperson,McCleskeyisinthecategoryof
+individuals most likely to receive the death penalty, irrespective of other factors
+3 Theratesforprosecutorsseekingthedeathpenaltywereasfollows:whitedefendants/whitevictims
+(32percent);whitedefendants/blackvictims(19percent);blackdefendants/blackvictims(15percent);
+andblackdefendants/whitevictim(70percent).Baldus,supranote1,at709.
+4 ThoughtheBaldusstudiesconsideredtheimpactofrapeasoneamonganumberofaggravating
+variablesconnectedtotheimpositionofthedeathpenalty,seeBaldus,supra,thestudiesdidnotmore
+specifically tease out the potential connection between victim/perpetrator races, claims of sexual
+violence,andpunishment.Thisissueisimportantbecausethehistoryofthiscountryevincesthat
+rapeclaimshavebeentreatedverydifferentlybasedonracesoftheaccusedandvictim.Inaprevious
+case,wenotedthattypicallyonlyblackmenweresentencedtodeathforrapeconvictionsinGeorgia.
+SeeCokerv.Georgia,433U.S.584(1977)(citingstatisticsthatofthesixty-twomenwhohadbeen
+sentencedtodeathforrapeinGeorgiasince1930,fifty-eightwereblackandonlyfourwerewhite).This
+resultisconsistentwithvigilanteactionsthathavebeendirectedtowardblackmenbelievedtohave
+insultedorassaultedwhitewomen,especiallyinsouthernstates,sinceReconstruction.See,e.g.,IDA
+B.WELLS-BARNETT,SOUTHERNHORRORS:LYNCHLAWINALLITSPHASES(1892).RenownedAfrican-
+Americanpoet,LangstonHughes,commentedonthisdeplorablehistoryinhispoem“Silhouette,”
+noting how “Dixie protects its white womanhood.” Langston Hughes, Silhouette, THE DREAM
+KEEPER (1932). See also Marvin Wolfgang& Marc Riedel, Rape, Race, and the Death Penalty in
+Georgia,45AM.J.ORTHOPSYCHIATRY658(1975);JenniferWriggins,Rape,RacismandtheLaw,6HARV.
+WOMEN’SL.J.103,104–16(1983)(describingthehistorywithinlawandsocietyofviolenceagainstblack
+womenbeinglegallysanctioned,whileBlackmenhavebeencriminallypunishedorlynchedfor
+claimsofrapeagainstwhitewomen).Thistendencytooverlookpotentiallyoverlappingandreinfor-
+cingaspectsofraceandgenderoppression,hasbeenwell-documentedinHumanitiesliteratures.See
+ALLTHEWOMENAREWHITE,ALLTHEBLACKSAREMEN,BUTSOMEOFUSAREBRAVE(GloriaHull,etal.,
+eds1982).);Excitingandcrucialburgeoningworkisjustbeginningtotakeupthesequestionsinlaw.
+See Kimberle´ W. Crenshaw, Demarginalizing the Intersection of Race and Sex: A Black Feminist
+CritiqueofAntidiscriminationDoctrine,FeministTheoryandAntiracistPolitics,U.OFCHICAGOLEG.
+FORUM(forthcoming)[draftcopyonfilewithCourt].
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+560 MarioBarnes
+involvedinthecases.AssessingMcCleskey’sclaimwillrequiretheCourttoconsider
+whatthestudies’findingsdiscloseabouttheconductofprosecutorsandjurors.
+In Georgia and many other jurisdictions, the choice to seek the death penalty
+belongs to prosecutors. As such, it is possible to use data to analyze the exercise of
+prosecutorialdiscretionasasourceofpotentialbias.Ifaprosecutorchoosestoseek
+the death penalty, the jury is given the option of recommending a death sentence,
+and the judge has the power to adopt that recommendation. We are thus mindful
+that evidence that a prosecutor’s decisions produced racially disproportionate out-
+comesacrossdefendantsofvariousraceswouldnot,withoutshowingdiscriminatory
+intent,establishanequalprotectionviolation.Forjuries,bycontrast,thereisnoeasy
+way to gather information on whether a particular juror’s racial animus affected
+deliberations.Thoughthestudiesincludenodataonthedeliberationsofindividual
+juries,wewouldberemissnottorecognizethatjurydeliberations,likeotherformsof
+decision-making,canbeinfectedbyracialbiases.Beforewesaymoreonthispoint,
+wethinkitimportanttosetforththeprecisedoctrinalstandardweapplyinthiscase.
+Our prior equal protection cases have held that the existence of discriminatory
+intentisnecessarytodemonstrateanequalprotectionviolation.Forsuchaclaim,
+adefendanthastheburden ofprovingboththeexistenceofpurposefuldiscrimin-
+ation,Whitusv.Georgia,385U.S.545,550(1967),andthatsaidpurposefuldiscrim-
+inationresultedinadiscriminatoryeffect.Waytev.UnitedStates,470U.S.598,608
+(1985).ThisCourthasadditionallyheldthatgovernmentalactionscreatingdispro-
+portionate racial impacts do not automatically result in violations of the Equal
+Protection Clause. See, e.g., Personnel Administrator of Massachusetts v. Feeney,
+442U.S.256(1979);Washingtonv.Davis,426U.S.229(1976).Moreover,inFeeney,
+weexpresslystatedthatweshouldattributediscriminatorypurposetogovernmental
+decision-makingonlywhenitisshownthatthegovernmenttooktherelevantaction,
+“at least in part ‘because of,’ not merely ‘in spite of’ its adverse effects upon an
+identifiable group.” Feeney, 442 U.S. at 279. Today, we clarify how courts should
+applytheintentionaldiscriminationstandard,alsoknownastheintentdoctrine.We
+doso becausea narrow interpretation ofdiscriminatory intent is inconsistent with
+whatweknowaboutthecomplexwaysinwhichracismoperates.Therenowexists
+mountains of empirical evidence suggesting that racism operates outside of the
+context of conscious racial intentionality. Our holding is not an abandonment of
+theintentionaldiscriminationstandard;ratherweapplythatstandardinwaysthat
+both take seriously the context in which the standard is being applied and reflect
+contemporaryunderstandingsofdiscrimination.Aswillbecomeclear,theapproach
+wehaveinmindwillrequirecourtstoaccordmoreweighttothekindofempirical
+evidencetheBaldusstudiesproducedandtakeseriouslythefactthatthisisadeath
+penaltycase.Withrespecttothelatterpoint,andaswestatedinFurman,deathis
+“an unusually severe punishment, unusual in its pain, in its finality, and in its
+enormity.” Furman v. Georgia, 408 U.S. 238, 287–89 (1972) (Brennan, J.,
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 561
+concurring). That reality, we think, should figure in how we apply the intent
+standard.OuranalysisbeginswithWashingtonv.Davis.
+A AClearerFrameworkfortheIntentDoctrine
+Inmanyrespects,Washingtonv.Davissupportstheapproachtodiscriminationwe
+take in this case. There, we stated that “an invidious discriminatory purpose may
+oftenbeinferredfromthetotalityoftherelevantfacts,includingthefact,ifitistrue,
+thatthelawbearsmoreheavilyononeracethananother.”426U.S.242.Villageof
+ArlingtonHeightsv.MetropolitanHousingDevelopmentCorp.issimilarlyhelpfulto
+thediscriminatoryintentanalysiswehaveinmind.429U.S.252(1977).InArlington
+Heights,weclaimed,“Determiningwhetherinvidiousdiscriminatorypurposewas
+amotivatingfactordemandsasensitiveinquiryintosuchcircumstantialanddirect
+evidence of intent as may be available.” Id. at 266. Both cases imagine that, in
+ascertainingwhethergovernmentconductrisestothelevelofdiscriminatoryintent,
+courtsshouldtakethecontextofthedecision-makingseriouslyandadoptsomething
+akintoatotalityofthecircumstancesapproach.Thatiswhatwedointhiscase.Our
+totalityofthecircumstancesanalysisfordiscriminatoryintentincludes:(1)interdis-
+ciplinary analysis of the alleged discrimination, including relevant documented
+legal and social history and social science research in the jurisdiction, to evaluate
+whetherracismisoperatingbeyondthenarrowparametersofconsciousintention-
+ality;(2)whethertheevidenceofferedbythepartiestoconductsuchaninterdiscip-
+linaryanalysiscomportswiththeFederalRulesofEvidence;(3)empiricalevidence
+of the outcomes of the application of an allegedly discriminatory practice or law,
+suchasstatisticalanalysesshowingtheextentandnatureofadisparateimpact;and
+(4)considerationofthegravityofthelawbeingapplied,inthiscasealifeanddeath
+matter.
+1 Reasoningfortheproposedtotalityofthecircumstancesframeworkin
+determiningdiscriminatoryintent
+a the value and necessity of an interdisciplinary approach to
+understanding the application and impact of the law. Laws and case
+holdingsareprimarilyshapedandenforcedbylegalprofessionals–allofwhomare
+trainedveryspecificallyinthelaw,andmanyofwhomareaccountableonlytotheir
+client(s)andotherlegalprofessionals.Inmultiplearticlesarespectedlegalscholar,
+DerrickBell,discussestheperhapsunintended,butneverthelessharmfulimpactof
+thisrealityontheattempttodesegregateschoolsafterBrownv.BoardofEducation
+washandeddown.SeeDerrickA.Bell,Jr.,ServingTwoMasters:IntegrationIdeals
+andClientInterestsinSchoolDesegregationLitigation(hereinafterTwoMasters),85
+YALE L.J. 470 (Mar.1976) (discussing the harmful impacts oflegal efforts to reach
+civilrightsideals);DerrickA.Bell,Jr.,Brownv.BoardofEducationandtheInterest
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+562 MarioBarnes
+Convergence Dilemma (hereinafter Interest Convergence), 93 HARV. L. REV. 518
+(discussing Brown v. Board of Education, 347 U.S. 483 (1954)). In Two Masters,
+Belldiscussesthefactthatmuchofcivilrightslitigationwasledbyattorneyswhose
+loyaltiesweresplitbetweenthosepayingtheirpaychecks,andthecommunitiesthat
+wouldbethemostimpactedbytheoutcomeofthelitigation.Bell,TwoMasters,85
+YALEL.J.at490–91.Theconsequenceofthisconflictofinterestwasthatthevoices
+mostneededinthelitigation–thoseofthecommunitiesseekingbettereducation
+for their children – were left out. Id. In Interest Convergence, Bell discusses the
+impact ofthe voices that predominated inthatlitigation, namely the white, male,
+privilegedattorneyswiththeirownviewofwhatitmeanttoimproveeducationand
+integrateschools.Bell,InterestConvergence,93HARV.L.REV.520–21.Theresultwas
+forcedintegrationofblackchildrenintowhiteschools,shuttingdownblackschools,
+allbuteliminatingteachingandschooladministrationjobsforblackeducators,and
+nearlyeliminatingblackrepresentationamongteachersandschooladministration,
+leavingblackstudentstothemercyoftheirnewwhiteteachersandprincipals.Id.at
+530–31.
+The interim years between Bell’s writing and this case have seen additional
+litigationondesegregationofschools,andstatisticallyrelevantevidenceofimprove-
+mentinnumbersofblackstudentsattendingpreviouslyall-whiteschools.However,
+wehavealsoseenmassmovementofwhitefamiliestopredominantlywhite,affluent
+suburbs, too far from the neighborhoods of black families for their children to
+reasonablybeexpectedtoattendthesameschool.Wehaveseenthemassremoval
+ofwhitestudentsfrompublicschoolstoprivateschoolsthatneednotacceptblack
+students.Itisnotyetclearwhetherorhowmuchtheeducationofblackstudentshas
+improved.
+Plans for enforcement of the Brown decision and its progeny, planned and
+implemented by politicians and legal professionals, did not foresee the cultural
+and social challenges that desegregation would raise. No amount of busing black
+studentstowhitepublicschools,onitsown,willalterthepublicperceptionofblack
+and white children learning in the same room together, nor will it necessarily
+equalizethequalityofeducationtheyreceive.
+The mistaken approach and solutions to the problems of segregation raised in
+Brownareunderstandable.TheCourtonlyhadtheinformationbeforeit,broughtby
+attorneys who perhaps could not have consolidated the many unique voices of
+families impacted by segregation, but who were extraordinarily well equipped to
+bring forth legally sound arguments for the unconstitutionality of segregation –
+arguments which both satisfied those paying attorneys’ fees, and which met the
+legalburdensforprovingdiscrimination.Thedesegregationplanwasledbypeople
+withlittlepedagogical,psychological,orsociologicaltraining,butundertheguid-
+anceofthelegalprofessionalswhoidentifiedtheproblemsthatrequiredresolution
+throughalegallens.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 563
+The primary issue raised by Derrick Bell is that of the lack of client voice in
+Civil Rights litigation – but there is more to the story. Brown was notable for its
+use of expert testimony as evidence of the social impact current laws have on
+a community. Nevertheless, the way expert witnesses were used still limited
+justicetothenarrowperspectivesofpredominantlywhite,male,privileged,legal-
+trained minds. The lawyers and judges involved in Brown identified the problem
+and solution, and merely used experts to help them implement it. See, e.g., Bell,
+Two Masters, 85 YALE L.J. at 482 (discussing NAACP’s retention of experts to
+develop proposal for process of school integration). If, however, child psycholo-
+gists, sociologists, education experts, and educators, parents, and students from
+within impacted communities had been more involved from the beginning in
+identifying the root causes of unequal education, then subsequently assisting in
+identifying solutions based on their combined experience and expertise, the law
+could have been a mechanism for implementing effective solutions backed by
+relevant experience and knowledge.
+These critiques and the hard-learned lesson that comes with them are no less
+applicableinthiscase.InBrown,weconsideredtheconstitutionalityofasystemof
+education.Suchasystemisinformedbythecultural,social,andhistoricalcontexts
+in which it was designed, built, and implemented. Here, we are considering the
+constitutionalityofasystemofpunishment.Thissystemislikewiseinformedbythe
+cultural, social, and historical context in which it was designed, built, and imple-
+mented.Legalprofessionals,ontheirown,cannotbeexpectedtointuitivelyunder-
+stand the scope of the impact of these factors on any stage of such a system’s
+construction,letaloneonthepatternsthatmanifestthemselvesthroughprosecutor-
+ial and jury discretion in seeking and determining punishment. To ignore the
+insightsofthesefieldsofexpertise istoignorantlyattempt todivorcethelawfrom
+thesocialcontextinwhichitwascreatedandinwhichitfunctions,initselfanactof
+willfulblindness.
+Courts are already beginning to understand the limitations of using discrimin-
+atoryintentaloneasabasistoidentifyandeliminatediscrimination.TheSeventh
+Circuitrecognizedinmultiplecasesthatriskofdiscriminationcanexistevenwhere
+thedecision-makersarewell-meaningindividualswithunconsciousbiases.See,e.g.,
+Namenwirth v. Bd. of Regents, 769 F.2d 1235, 1243 (7th Cir. 1985) (sex discrimin-
+ation);Syvockv.MilwaukeeBoilerMfg.Co.,665F.2d149,154–55(7thCir.1981)(age
+discrimination).TheFifthCircuitidentifiedtheriskofemployeeevaluationforms
+beingvulnerabletounconsciousbiasinpotentialviolationofemployees’constitu-
+tional rights. Robinson v. Union Carbide Corp., 538 F.2d 652, 662 (5th Cir. 1976).
+Unconsciousbiasisapsychologicalandevensociologicalphenomenon,notalegal
+one. For courts to acknowledge, let alone effectively identify and mitigate uncon-
+scious bias and other subtle influences on discrimination, nonlegal expertise is
+needed.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+564 MarioBarnes
+Whilewearecognizantthatthislogicmaybeappliedwellbeyondthecontextof
+whatevidencemustbeconsideredindeterminingwhethertheimplementationof
+a law is discriminatory in violation of the Fourteenth Amendment, we limit our
+holding to this context, and leave any broader application of these lessons in the
+proper hands ofthe legislature. At this time, we are only emphasizing the import-
+anceofacknowledgingthelimitsoflegalexpertiseingaininganunderstandingof
+psychological, sociological, and other phenomena, and the vital importance of
+serious consideration of expert evidence for a totality of the circumstances evalu-
+ationofclaimsofdiscrimination.
+b the federal rules of evidence as legal support for a broad and
+interdisciplinary approach to the intent doctrine. The fact that an
+interdisciplinary approach is needed to understand the application and impact of
+thelaw,andinthiscasewhetheritisdiscriminatory,raisesthequestionofhowto
+ensureinterdisciplinaryexpertevidenceisofthequalitynecessarytolendthevalue
+itsadmissionseeks.Sincetheirenactmentin1975,expertevidenceisregulatedby
+the Federal Rules of Evidence (FREs). Fed. R. Evid. 702–06. The FREs were
+enactedas safeguardstoensure thatonlyprobative,relevant,trustworthyevidence
+isadmittedintocriminalandciviltrials.ThecarefuldevelopmentofRules702–706,
+which govern the use of expert witnesses, implicitly acknowledges the value of
+expertsforbringingmultidisciplinaryknowledgeintotheapplicationofthelaw,to
+“assistthetrieroffacttounderstandtheevidence.”Rule702,Pub.L.No.93–595,88
+Stat.1929(1975).
+The shortcomings described in the above section regarding the use of experts
+notwithstanding, this Court and lower courts have an extensive record of acknow-
+ledgingthevalueofexpertsintheirabilitytobringextra-legalexpertiseintoabodyof
+evidence. For example, in an Eighth Amendment case questioning the constitu-
+tionalityofspecificprisonconditions,theCourtstated,“thecourtmustbeopento
+evidenceandassistancefrommanysources.”Rhodesv.Chapman,452U.S.337,363
+(1981).Thecourtnotedthataverywiderangeofexpertise,including“publichealth,
+medical,psychiatric,psychological,penological,architectural,structural,andother
+experts,”havebeenusefulinsimilarcases.Id.Theacknowledgedneedforquality
+experts to fill in knowledge gaps for courts and laypersons of the jury is a clear
+motivationforcreatingRules702–706oftheFREs.Inthiscase,expertsarenecessary
+becausecommonsenseandlegalexpertisearenotsufficientforevaluatingwhether
+thefactsevinceaviolationofFourteenthAmendmentprotections.Specifically,we
+needtoclarifytheintentdoctrinewithinthecontextofcertaindiscriminationcases,
+an undertaking that requires that we augment common sense approaches to the
+conceptwithmoreexpertunderstandingsofhumancognitionandbehavior.
+A decade ago, we wrote of the limitations of the Court’s own expertise and our
+abilitytoeffectivelyidentifytherequiredelementsofdiscriminationandrepairits
+impacts.InInternationalBoardofTeamstersv.UnitedStates,theCourtnotedthat
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 565
+proofofdiscriminatoryintentisnecessaryforadisparatetreatmentcase,thoughthe
+proofmaybeinferentialwheredirectproofofmensreawasnotpossible.Int’lBhd.of
+Teamstersv.UnitedStates(hereinafterTeamsters),431U.S.324,335n.15(1977).We
+noted that Supreme Court “cases make it unmistakably clear that ‘[s]tatistical
+analyses have served and will continue to serve an important role’ in cases in
+which the existence of discrimination is a disputed issue.” Id. at 339–40 (citing
+MayorofPhiladelphiav.EducationalEqualityLeague,415U.S.605,620(1973).See
+alsoMcDonnellDouglasCorp.v.Green,411U.S.,at805.Cf.Washingtonv.Davis,
+426 U.S. at 241–42. The Teamsters decision held that plaintiffs could demonstrate
+liabilitythroughstatisticalevidencealonewhencircumstancessuggestedthatthere
+werepatternsandpracticesofdiscriminationacrossalargeindustryoremployer.Id.
+at337–38,342–43.Thiswasbecauseinsystemicdisparatetreatmentcases,thereis
+oftennowaytopointtointent,and,aswereiteratetoday,requiringasmuchwould
+constituteanunreasonableburdenonplaintiffstoproveintentionaldiscrimination.
+Id. Instead, the factfinder could infer the existence of race-based discrimination
+when there were no other reasonable explanations for the employment disadvan-
+tagesofaprotectedgroupinthecase.Id.Laterthatyear,wereaffirmedthelogicin
+TeamstersinHazelwoodSch.Dist.v.UnitedStates,433U.S.299,307(1977),holding
+that statistics demonstrating a gross disparity between the percentage of minority
+employees and minorities in the labor pool could be sufficient for a finding of
+systemicdisparatetreatment.
+Implicit in the reasoning in the Teamsters and Hazelwood decisions is the
+acknowledgment that discriminatory intent is not as simple as an overtly biased
+person or group of people intentionally deciding to treat a protected group differ-
+entlythan others. While these were both employment cases, discrimination is not
+limited to the workplace, as is apparent in the breadth of types of discrimination
+cases. See, e.g., Bazemore, 478 U.S. 385, 400 (1986) (acknowledging the value of
+multiple regression statistical studies in identifying discrimination); Castaneda
+v. Partida, 430 U.S. 482, (1977) (using statistics in grand jury representation case);
+Furman v.Georgia, 408 U.S. 238, 92 S. Ct. 2726 (1972) (using statistics toevaluate
+discriminatoryapplicationofdeathsentence).Asdiscussedinmoredepthbelow,it
+would be absurd tofollow toapply a broaderapproachtointent whenlivelihoods
+and working conditions are at stake, but not when actual lives are hanging in the
+balance. When identifying discrimination in any setting, the nuanced realities of
+“intent” and discrimination must be acknowledged, and the way to incorporate
+anuancedunderstandingoftherelationshipbetweenintentionanddiscrimination
+intocourtproceedingsisbybringinginexpertsfromoutsidethelegalfield.Asstated
+above,anditbearsrepeating,unconsciousbiasisapsychologicalandsociological
+phenomenon, not a legal one. As experts in these fields continue to better under-
+standunconsciousbiasandotherfactorsthatdirectlycontributetodiscrimination,
+theirexpertisewillbeanongoingandlikelymandatoryadditiontocourts’attempts
+tounderstand,letaloneeffectivelyidentifyandmitigatediscrimination.Wehereby
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+566 MarioBarnes
+acknowledge that Rule 702 was written to address these shortcomings, including
+acourt’slimitedabilitytounderstanddiscriminatoryintent.
+ThechallengethencomesinapplyingtheFREswhendeterminingwhichexpert
+evidence should be admitted and considered. Rule 702 states that “[i]f scientific,
+technical,orotherspecializedknowledgewillassistthetrieroffacttounderstandthe
+evidence or to determine a fact in issue, a witness qualified as an expert by
+knowledge, skill, experience, training, or education, may testify thereto in the
+form of an opinion or otherwise.” Rule 702, Pub. L. No. 93–595, 88 Stat. 1929
+(1975).Whiletheremainingrulesregardingexpertwitnessesdiscusstheprocedures
+and limitations of this evidence, nothing in the language of the rules explains the
+correctprocesstodistinguish“scientific,technical,orotherspecializedknowledge”
+from laymen knowledge. Nor does any language of the rules give guidance on
+identifying someone “qualified as anexpert byknowledge, skill,experience, train-
+ing,oreducation,”inanygivenfield.SeeRules702–06,Pub.L.No.93–595,88Stat.
+1929(1975).Itispreciselythisambiguitythatseemstohaveledtoacircuitsplitin
+whetherRule702supersedesormerelysupports the “Frye test,” atestprovided by
+a 1923 case which was used to evaluate scientific expert evidence. Frye v. United
+States,293F.1013(D.C.Cir.1923).WhileRule702requiresanexpertbequalified
+and the evidence reliable and helpful, the Frye test requires that the theory from
+which anexpert’sevaluationsaremade “besufficientlyestablishedtohave gained
+generalacceptanceintheparticularfieldinwhichitbelongs.”Id.at1014.
+Since the enactment of the FREs in 1975, challenges to evidence sourced from
+experts have still been primarily resolved without mention of the FREs. Indeed,
+neitherpartyinthiscasehasusedtheFREstosupporttheirargumentfororagainst
+theuseoftheBaldusstudy.ManycourtsstillsimplyapplytheFryetesttoevaluate
+scientificevidence,thoughourcolleagueJusticeWhitehasnotedthattheissueof
+whetherFryehadbeensupersededbyRule702needsresolution.Mustafav.United
+States,479U.S.953,107S.Ct.444,444–45(1986)(White,J.,dissenting).Asnoted
+above, the circuits are split on this question. See, e.g., United States v. Shorter,
+257U.S.App.D.C.358,809F.2d54,60(1987)(“FryeisstillthelawinthisCircuit.”
+(internal citation omitted)); United States v. Tranowski, 659 F.2d 750, 755–56 (7th
+Cir. 1981); United States v. Hendershot, 614 F.2d 648, 654 (9th Cir. 1980); United
+States v. Brady, 595 F.2d 359, 362 (6th Cir.); but see United States v. Downing,
+753 F.2d 1224, 1232 (3d Cir. 1985) (rejecting Frye test in favor of a test that better
+comportswithRule702);UnitedStatesv.Williams,583F.2d1194,1197–1200(2dCir.
+1978); United States v. Baller, 519 F.2d 463, 465–66 (4th Cir. 1975); United States
+v. Luschen, 614 F.2d 1164, 1169 & n. 3 (8th Cir. 1980) (refusing to reaffirm Frye).
+Resolvingthesplitisoutsidethepurviewofthismatter,butwecanstatethatincases
+assessing empirical data of this kind and its connection to intent, courts should
+ensurethatdatareviewedhasbeenproperlyevaluatedunderRule702.
+The role of the courts to ensure a wholistic and accurate understanding of
+evidencebeforeupholdingadeathsentencecreatesaparadoxicalchallengetothe
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 567
+admission and consideration of expert evidence. We have acknowledged that
+a complete understanding of how to apply abstract legal concepts like the intent
+doctrinetomaterialfactsoftenrequiresexpertisewhichtheofficersofthecourtand
+factfindersdonotpossess.Intermsofadmittingexpertwitnessesandtheirevidence,
+somejudges,aslegalexperts,arealsonotnecessarilyqualifiedtoevaluatechallenges
+to the qualifications of experts and reliability of information from fields outside
+thelaw.
+Wehave recently acknowledgedthisdifficulty in another discrimination case.
+Lastyear,wereversedacircuitcourt’sexclusionofstatisticalregressionanalysisin
+aTitleVIIdiscriminationcase.Bazemorev.Friday,478U.S.385,400(1986).We
+noted that, “in light of all the evidence in the record,” the multiple regression
+analyses persuasively demonstrated a significant disparity in the wages of black
+versuswhiteemployees.Id.at401.JusticeBrennan,inhispercuriamconcurrence,
+ostensibly demonstrated a better understanding of the work of a statistician than
+the courts below. He stated that the Court of Appeals’ “view of the evidentiary
+value of the regression analyses was plainly incorrect.” Id. at 400. He went on to
+explain why the interpretation of the statistical study by the court below was
+flawed, and why the evidentiary value of such a study, properly executed and
+understood, is particularly probative in demonstrating discrimination. Id. While
+JusticeBrennancertainlyhelpedexplainthevalueofstatisticalregressionanalysis
+inidentifyingdiscrimination,suchasthedataatissueinthiscase,Bazemorealso
+demonstratesthatwecannottakeforgrantedthatalljudgesandjusticeswillfully
+understandorcorrectlyinterprettechnicalinformationoutsidethefieldoflawin
+ordertodeterminewhethersuchevidencemeetsthestandardslaidoutinFryeor
+Rule702.Inthiscase,despitethesubstantialdatasuggestingjurors’decisionshave
+beenaffectedbyracebias,thelowercourtsdeterminedthattheycouldnotreach
+theconclusionthatsuchbiaswasunconstitutional.Wearguethattheydidsoby
+endorsingapproachestobiasandcausationthatareinconsistentwiththeevidence
+in this case. Given the strength of the Baldus studies, our knowledge of social
+context,andourdutytofaithfullyapplytheFREs,wecannotignoretheimpactof
+bias or accept that it is only actionable where it is explicit and the sole “but-for”
+causeofchallengedharm.
+Insum,theFREswereestablishedtoaddressarecognizedneedforinterdiscip-
+linary perspectives in understanding factual evidence and whether it satisfies the
+requirementsofabstractlegalconcepts,likediscriminatoryintent.Anarrowviewof
+the intent doctrine – requiring individualized proof of conscious discriminatory
+intent – would require stubbornly insisting that the human psychology and even
+sociology behind human intention can be plainly understood by the layperson or
+legalexpert.Onthecontrary,expertsinthesenonlegaltopicsaretheauthorityon
+how human intent is formed, how it is influenced, and how it manifests itself in
+humanbehavior.Thus,abroadapproachtotheintentdoctrine,withtheircontinu-
+ouslyadvancingexpertisetoguideus,mustbeadopted.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+568 MarioBarnes
+c the nature of disparate impact, justifying a broad approach to the
+intentdoctrine,specifically. Anotherreasontoapplyalessstrictformofthe
+intent requirement is because, at times, disparate impact evidence, alone, is suffi-
+cienttorevealthescopeofaproblem.AstheBaldusstudiesbearout,sufficientproof
+ofunlawfuldiscriminationcanbededucedfromempiricalevidenceaddressingthe
+operation of race during critical stages of the criminal justice system. The dissent
+suggeststhatitisunwisetouseempiricaldatainthisfashionbecauseresearchsuch
+astheBaldusstudies,atbest,showsmerelyacorrelationbetweenraceandpunish-
+ment. The data do not establish an absolute causal link. As such, it would be
+imprudent to use the data as proof of discriminatory purpose among members of
+the jury. That position, however, misunderstands the nature of social science
+research, which typically reveals a causal inference between two conditions, such
+as race considerations and the imposition of the death penalty. Empirical data,
+however, rarely establishes to an absolute certainty a “but for” relationship or
+“counterfactual dependence” between two conditions. The dissent also ignores
+that the Court has found the type of multiple regression analysis used in the
+Baldus studies to be compelling within other contexts. See Bazemore v. Friday,
+478 U.S. 385, 400–01 (1986) (Brennan, J., concurring in part, assessing such data
+in the employment context). The dissent argues that employment cases and even
+caseswhereperemptorystrikesarechallengedbasedonracialimpacts,however,are
+verydifferent.Thesecasesinvolvescenarioswhereaspecificdecision-makercanbe
+queriedforanexplanationregardingaseeminglyrace-baseddecision.Withjuries,
+outsideoflimitedquestionsposedtovenires,thereisnosuchopportunitytoquery
+individualbias.Indeed,acasewedecidedthisveryterm,aswellasearlierprecedent
+and the Rules of Evidence, in effect discourage querying jurors after a verdict has
+beenreachedbybarringjurortestimonytochallengeaverdict.SeeTannerv.United
+States, 483 U.S. 107 (1987); Mattox v. United States, 146 U.S. 140 (1892); Fed.
+R.Evidence.606(b).Evensettingasidetheextrascrutinywegivetodeathpenalty
+cases, the dissent’s reliance on differences in how racial considerations can be
+interrogated in capital punishment, employment discrimination, and jury strikes,
+ismisplaced.Ineachofthesesituations,wefacethesamecrucialandoverarching
+question: Is there evidence – related either to a decision-maker’s perceived motiv-
+ationortheeffectoftheirdecision(s)–thatsuggestsraceisbeingusedinamanner
+thatcountermandstheendsofjusticeandthegoalofequalitybeforethelaw?
+A number of the dissenting justices are unwilling to acknowledge that impact
+evidence should be used in death penalty cases, even though it is considered in
+employment and jury strike cases, because those situations are different. Those
+situations are different, but in ways that make the argument for allowing impact
+5
+evidence in death penalty cases stronger, not weaker. Put simply, the decision to
+5 Forexample,inarecentemploymentcase,wenotedthat“CongressdidnotintendbyTitleVII...to
+guaranteeajobtoeverypersonregardlessofqualifications.Inshort,theActdoesnotcommandthat
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 569
+sentence someone to death is so important that the impact of race within jury
+deliberationsshouldbeconsideredirrespectiveofhowsuchevidenceisconsidered
+in other contexts. In most cases where courts impose the death penalty, the sen-
+tence–whetherimposedbyanindividualorthestate–isirrevocable,andtherefore,
+wemustbemorevigilantinensuringthatracedoesnotplayafactor,notless.Still,
+wemaintainthatcircumstancesacrossthevarioustypesofimpactcasesare,infact,
+alikeenoughtojustifyasimilarjudicialintervention.First,totheextenttheBaldus
+studiesrevealraciallydisparateimpactsinprosecutors’decisionstoseekthedeath
+penalty for a particular defendant, there is no meaningful difference between the
+potentialfortheinfluenceofraceinthesedecisionsanddecisionscounselmaketo
+removejurorsofcolor.Second,withregardtojuries,thedissentoverlooksthatthe
+criticalinformationfortheCourtinsuchcasesisnotpeggedtolocatingtheoneor
+more jurors perceived to be discriminating. Rather, the focus should be on the
+operationofthepanelsandwhether,asapractice,jurydeliberationsaresusceptible
+toandlikelycapturedbyracialbias.Ifthereisdatathatbiasexistsforprosecutorsor
+juries,then,theburdenmustshifttothestatetoprovenosuchbiaswasineffector
+producedmeaningfulconsequences.
+Considerationofimpactevidenceinthisdeathpenaltycaseisnotonlysimilarto
+howweaddressracialimpactclaimsinemploymentandjurystrikecases,itisalso
+similartoourapproachinVillageofArlingtonHeights.Therewestatedthat“[p]roof
+that the decision by the Village was motivated in part by a racially discriminatory
+purpose...would,however,haveshiftedtotheVillagetheburdenofestablishing
+thatthesamedecisionwouldhaveresultedevenhadtheimpermissiblepurposenot
+been considered.” 429 U.S. at 270 n. 21. Given that in this case we advocate the
+burdenshiftevenwherethereisnotexplicitevidenceofdiscriminatoryintent,the
+approach,however,ismuchclosertotheoneJusticeMarshallpreviouslyproposed
+forovercomingtheproblemofprovingdiscriminatorypurposewithinthecontextof
+gender discrimination cases. In his opinion in Feeney, Justice Marshall stated,
+“Where the foreseeable impact of a facially neutral policy is so disproportionate,
+theburdenshouldrestontheStatetoestablishthatsex-basedconsiderationsplayed
+no part in the choice of the particular legislative scheme.” Feeney, 442 U.S. 284
+anypersonbehiredsimplybecausehewasformerlythesubjectofdiscrimination,orbecauseheis
+a member of a minoritygroup.Discriminatorypreference for any group,minority ormajority, is
+preciselyandonlywhatCongresshasproscribed.WhatisrequiredbyCongressistheremovalof
+artificial,arbitrary,andunnecessarybarrierstoemploymentwhenthebarriersoperateinvidiouslyto
+discriminateonthebasisofracialorotherimpermissibleclassification....TheActproscribesnotonly
+overtdiscriminationbutalsopracticesthatarefairinform,butdiscriminatoryinoperation.”Griggs
+v.DukePowerCo.,401U.S.424,430–31(1971).Similarly,thedraftersoftheFourteenthAmendment
+didnotintendtoprotecteverypersonfrompunishmentregardlessoftheirconduct.However,the
+FourteenthAmendmentwaswrittentoproscribediscriminatoryapplicationofthelawtoanygroup,
+andtoguaranteeequalprotectionunderthelaw.Itisnolessimportanttopreventbothovertand
+faciallyfairbutdiscriminatoryinrealitypracticesinemploymentthaninquestionsliterallyoflifeand
+death.ThedrafterswouldnottroublethemselvestoamendtheUnitedStatesConstitutiontoprevent
+onlythemostovertexpressionsofourcountry’sraciallydiscriminatoryhistory.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+570 MarioBarnes
+(Marshall,J.,dissenting).Thisapproachisalsoconsistentwithamajorityopinionin
+amuchearliercriminalcase,YickWov.Hopkins,118U.S.356(1886).Inthatcase,
+a facially neutral licensing ordinance created disproportionate criminal conse-
+quences in its application for Chinese business owners. There, a unanimous U.S.
+SupremeCourtheldregardingthatordinance:“[I]fitisappliedandadministeredby
+public authority with an evil eye and an unequal hand, so as practically to make
+unjustandillegaldiscriminationsbetweenpersonsinsimilarcircumstances,mater-
+ial to their rights, the denial of equal justice is still within the prohibition of the
+Constitution.” Yick Wo, 118 U.S. at 373–74. We hereby adopt an approach to
+evaluatingimpactevidenceand,asappropriate,shiftingtheburdentothedefendant
+torebutit,inassessingclaimssuchasthepetitioner’s.
+Basedontheforegoing,thefactthatdeathpenaltyveniresoperateinamannerthat
+precludes the Court from querying the thought processes of the individual decision-
+makersdoesnotfrustrateourabilitytodiscernwhetherbiasisatwork.Whilehaving
+suchdatawoulddefinitely supportanequalprotectionclaim,nothavingitdoesnot
+forecloseone.Torequireapartytoproveadiscriminatorymindsetofthoseinvolvedin
+determininghissentencewouldbetoimposeaburdensoheavyitwouldbeimpossible
+tobringadiscriminationclaimofthesorthere,inGregg,andinFurman.Giventhe
+stakesinvolved,assessmentsofindividualanimuscannotbetheendofouranalysis,and
+certainlynottheendofanindividual’sabilitytobringaclaimofdiscriminationintheir
+death sentence case. Importantly, and in a seeming departure from dicta in some
+previouscases,itcannotbesaidthatavalidclaimofdiscriminationonlyexistswhen
+onecanpointto“thevery”person(juror)thathasallowedracetoconsciouslycloud
+their judgment.The Courthasasmuch acknowledged this in theArlington Heights
+case where it stated, “Determining whether invidious discriminatory purpose was
+a motivating factor demands a sensitive inquiry into such circumstantial and direct
+evidenceofintentasmaybeavailable....Impactoftheofficialaction...mayprovide
+animportantstartingpoint.”ArlingtonHeightsv.MetropolitanHousingDevelopment
+Corp.,429U.S.256(1979).Tothatstartingpoint,theCourtinArlingtonHeightsadded
+considerationspertainingtothehistoricalbackgroundofeventsleadinguptothestate’s
+decision,thelegislativeoradministrativehistoryoftheenactment,anda“clearpattern,
+unexplainable on grounds other than race.” 429 U.S. at 266. Applying this standard
+withinthecontextofcriminaljusticecases,itislogicalthatintentcouldbediscerned
+throughevaluatingthestate’srelianceuponpracticesthathavehistoricallyandsystem-
+atically produced disparate racial outcomes. Where, then, the Court can identify
+practices and decisions within the criminal justice system of a particular state that
+havetraditionallyandcontinuallycreateddisproportionateracialimpacts,itbecomes
+lessnecessarytoidentifypreciselyhowunequaltreatmentresultsfromtheanimusof
+6
+oneormorepersons. Adoptingthismoreholisticandsystemicapproach,itisperfectly
+6
+Thisapproachissimilartopatternorpracticecaseswithincivilrightscontexts.Typicallyusedinclass
+actions,thetheoryofpatternorpracticediscriminationallegesthat,ratherthanbeingexceptional,
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 571
+allowable to assess the racial contours of the system by exploring empirical data. As
+7
+discussedbelow,whenonecouplesGeorgia’shistoryofracialviolence withtheBaldus
+researchthatinfersthereisasignificantriskthatracesofthevictimanddefendantare
+determinativeinwhoissentencedtodeath,thesystemiceffectcannotbeignored.To
+do so would be more than indifference, it would be akin to the concept of willful
+8
+blindness –subjectivelyunderstandingthereisahighprobabilitythatsomefactexists,
+butengagingindeliberateactionstoavoidlearningtherealityofthatfact.Evaluating
+the data within this broader context, it becomes the undeniably tainted nature of
+a deliberative process that requires correction, irrespective of an ability to locate the
+discriminator(s).
+d how and why the approach to the intent doctrine by a totality of
+the circumstances analysis is particularly well-suited to the goals
+ofthecriminaljusticesystem. Inthiscase,theBaldusfindingsmustbeapart
+ofourinquiry,and,basedonatotalityoftherelevantfactsincludingthosefindings,
+equalitycannotbepreservedbyrequiringboththeexistenceofdisparateimpactand
+evidence of individualized discriminatory purpose. In other words, within the
+criminal justice system, we cannot hold that the intent requirement can only be
+satisfiedwhenthereisproofofindividualexpressionsofmaliceorbigotry,especially
+since our system of relying on prosecutorial discretion, and jury discretion and
+secrecy, makes uncovering explicit evidence of invidious intent in specific cases
+allbutimpossible.Rather,intentisbroadenoughaconceptthatitcanbesatisfied,at
+times, when a state has a history of racial discrimination coupled with current
+evidenceofsystemicbutuncorrectedracialdisparity.Inthatthisapproachrequires
+more than merely a failure to acknowledge a discriminatory impact in order to
+discernintent,itisnotatdirectoddswithourpreviouspronouncementinFeeney
+thatpurpose“impliesmorethanintentasvolitionorintentasawarenessofconse-
+quences.” 429 U.S. at 258. We merely interpret the intent analysis in Feeney as
+discriminationisanormalizedpart,forexample,ofdoingbusinessforanemployer.SeeInt’lBhd.of
+Teamstersv.UnitedStates,431U.S.324(1977).SeealsoMonroev.Pape,365U.S.167(1961),overruled
+onothergroundsbyMonellv.Dep’tofSoc.Servs.,436U.S.658(1978)(votingcontext);Trafficante
+v.Metro.LifeIns.Co.,409U.S.205,210(1972)(housingcontext).
+7 See,e.g.,JusticeBrennan’sconcurringopinioninthiscase,whichdetailsthehistoryofracebiaswithin
+theGeorgiacriminaljusticesystemandledhimtoassert:“ThishistoricalreviewofGeorgiacriminal
+lawisnotintendedasabillofindictmentcallingtheStatetoaccountforpasttransgressions.Citation
+of past practices does not justify the automatic condemnation of current ones. But it would be
+unrealistictoignoretheinfluenceofhistoryinassessingtheplausibleimplicationsofMcCleskey’s
+evidence.”481U.S.at332.SeealsoCharlesPhillips,SocialStructureandSocialControl:Modelingthe
+DiscriminatoryExecutionofBlacksinGeorgiaandNorthCarolina,1925–35,65SOCIALFORCES458
+(1986);CharlesCrowe,RacialViolenceandSocialReform-OriginsoftheAtlantaRiotof1906,53J.OF
+NEGROHIST.234–56(1968).
+8 Willfulblindnessordeliberateignorance,whichattachinsituationswherepersonsavoidlearningthe
+truth of some criminal circumstance, exists within both the traditions of the Common Law and
+moderncriminalstatutes.SeeUnitedStatesv.Jewell,522F.2d697(9thCirc.1976);ModelPenalCode
+§2.02(7).
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+572 MarioBarnes
+a starting place that is subject to broader applications of the intent doctrine used
+elsewherewithincriminallaw.Forexample,itiscommonforfactfinders,whohave
+nospecificstatementswithregardtoaperson’sintent,tolooktoconductanddecide
+9
+thatanindividualintendstheforeseeableornaturalconsequencesoftheiractions.
+Incasessuchasthis,wherelifeanddeathhanginthebalance,thestateshouldbe
+heldtonolesserstandard.
+Failingtoactwhenonehashistoricalevidenceofracialanimusandcontempor-
+aryproofofasystemicracialdisparityisbutonecircumstancetobeconsideredin
+rejectingarequirementthatthereexistsexplicitandindividualevidenceofdiscrim-
+inatory intent. Given the important liberty interests involved and the grave conse-
+quences that often attach to decisions within capital sentencing, it is additionally
+appropriate for the Court to consider evidence that race has previously been
+explicitly considered and is currently being taken account of in a systemic or
+structural manner. Analysis of systemic evidence questions whether beliefs and
+motivations connected to race are likely key to explaining the existing disparate
+conditions. This query is valid irrespective of the Court’s inability to locate and
+assign blame for racial bias to a particular individual. Given the prevalence of
+historic race discrimination in criminal justice systems throughout
+U.S. jurisdictions, if the Baldus studies or other research strongly support
+a contention that race is having a significant, measurable effect on punishment
+outcomes, suspect classification analysis must attach. While some would suggest
+thatinordertoaddressthissystemiceffectoftheGeorgiadeathpenaltyprocess,one
+wouldneedtoprovethattheGeorgialegislaturemaintainsitscurrentdeathpenalty
+statute because of the anticipated racially discriminatory effect, this very case
+conclusivelydemonstratesthemisguidedandconstrictivenatureofsuchananalysis.
+The more practical application of the law adopted here requires only a previous
+historyofanimuscoupledwithapresentdemonstrationthatthedatabearoutthe
+existence of a statistically significant racialized effect which a state has taken no
+actionstoinvestigateoraddress.Onedifferencebetweenourreasoninginthiscase
+andtheanalysisinFeeneyisourapproachherepresumesthatlegislatureswhoare
+confronted with such data and do nothing are de facto choosing a biased system
+becauseitworksinthismanner,ratherthaninspiteofthatfact.
+Based ontheforegoing,somewillargue thattheanalysisofdisparate impact in
+civilcases–atleastformatterswherethereisalsohistoricevidenceofdiscrimination
+andcurrentproofofsystemicracialdisparity–shouldalsonowberevisited.Given
+thewayinwhichourdecisionherehasturnedonthecriminaljusticecontextofthis
+case,reconsideringthestandardforcivilcasesisamatterforanothertime.
+9 See,e.g.,Statev.Fugate,303N.E.2d313(1973)(respondingtoadefendantwhoclaimednoevidence
+ofintentwaspresentwhereavictimwaskilledafterdefendantescortedhimintoabasementwith
+ashotgun,thecourtheldthatintenttokillcanbededucedbyevaluatingthecircumstancesofacrime,
+forwhichnaturalandprobableconsequencesoftheunderlyingactionsisdeath).
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 573
+2 ApplicationoftheframeworktoMcCleskey’sFourteenthAmendmentclaim
+a review of georgia’s legal and social history as well as social
+science research regarding unconscious bias demonstrate an
+unacceptable risk that the factor of race contributed to
+mccleskey’s death sentence, though perhaps outside the narrow
+parameters of conscious intentionality. Aswearticulateabove,itcannot
+be denied that Georgia, like most U.S. states, has an extensive history of racially
+10
+discriminatoryconductwithinitscriminaljusticesystem. Infact,oneexplanation
+for the growth in criminal justice enterprise within the U.S. is that it expanded to
+11
+exercisegreatersocialcontroloverfreedslaves. Giventhatthehistoricalinstances
+ofexplicitbiasattachtoatotalityofthecircumstancesapproach,thequestionturns
+towhatthedataindicateregardingexistingsystemicracialdisparitiesanddiscerning
+discriminatorypurpose.TheBaldusstudies,thoughparticularlyrevelatory,arenot
+theonlywork toexplorewhetherthereis acausallinkbetweenraceandcriminal
+12
+justiceoutcomes. Moreover,considerationsofraceandcausationarenottheonly
+questions that are germane to our inquiry. The operation of the death penalty in
+Georgiaimplicatesstudiesofracialgroupstigmaandhowstereotypesprominently
+13
+shape socialbehavior thathave existed for sometime. Also, recently, researchers
+SamuelL.Gaertner&JohnF.Dovidiohavebeguntoexploreaconceptreferredto
+14
+as“aversiveracism.” Asopposedtoovertracism,whichturnsonpeopleexplicitly
+disfavoring and discriminating against others based on race, aversive racism is
+15
+characterized by “more complex, ambivalent expressions and attitudes.” People
+manifesting aversive racism may profess nondiscriminatory beliefs and deny their
+16
+behaviorisraciallymotivated. Thisprotestationofracialinnocenceisimportant,
+10 Seesupranote9.
+11
+SeeTerryJones,BlacksintheAmericanCriminalJusticeSystem:AStudyofSanctionedDeviance
+SanctionedDeviance,5THEJOURNALOFSOCIOLOGY&SOCIALWELFARE356(1978).
+12 See,e.g.,THOMASUHLMAN,RACIALJUSTICE:BLACKJUDGESANDDEFENDANTSINANURBANTRIALCOURT
+(1979)(AssessingwhethercausationorcorrelationexplainsracialdisproportionintheU.S.criminal
+justicesystem,anddeterminingcausallinkbetweenraceandsentencingwhencontrollingforother
+factors); Jim Sidanius, Race and Sentence Severity: The Case of American Justice, 18 J. OF BLACK
+STUDIES278(forthcoming)(reevaluatingtheUhlmandata,whichfailedtoconsidertheimpactofplea
+bargainingonsentencingresultsandfinding,“ReanalysisofdatapresentedbyUhlman(1979)seems
+to confirm the notion that pure racism accounts for a major portion of the observed correlation
+betweenraceandpunishmentseverityintheAmericancriminaljusticesystem.”
+13 ERVINGGOFFMAN,NOTESONTHEMANAGEMENTOFSPOILEDIDENTITY(1963)(onetypeofstigmarelates
+to group identity, where the stigma derives from being of a particular race, nation, or religion);
+JohnDovidioetal.,RacialStereotypes:TheContentsoftheirCognitiveRepresentations,J.OFEXPER.&
+SOC.PSYCH.22,23(1986)(“Severalinvestigatorshavebeguntomovetowardaninformation-processing
+model, considering stereotypes to be cognitive structures ... that importantly affect perception,
+attention,andmemory.Thatis,stereotypesareseenascognitivestructuresthatmediatetheinforma-
+tionprocessinginvolvedinpersonperception.”).
+14 SamuelL.Gaertner&JohnF.Dovidio,TheAversiveFormofRacism,inPREJUDICE,DISCRIMINATION
+ANDRACISM(J.F.Dovidio&S.LGaertnereds.,1986).
+15
+Id.
+16 Id.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+574 MarioBarnes
+as our courts have recently been described as tending to overly focus on racial
+discrimination through the lens of a perpetrator’s actions rather than as “those
+conditions of actual social existence” that affect “member[s] of a perpetual
+17
+underclass.” Additionally,inarecentissueoftheStanfordLawReview,Professor
+Charles Lawrence published The Ego, the Id and Reckoning with Unconscious
+18
+Racism. Inthatarticle,heanalyzestheoriesofcognitivepsychologypertainingto
+culturalexperiencesandhowinmanycontexts,peoplearenotconsciouslyawareof
+theirbiases.Specifically,heavers
+to the extent that this cultural belief system has influenced all of us, we are all
+racists.atthesametime,mostofusareunawareofourracism.wedonotrecognize
+thewaysinwhichourculturalexperiencehasinfluencedourbeliefsaboutraceor
+theoccasionsonwhichthosebeliefsaffectouractions.inotherwords,alargepartof
+the behavior that produces racial discrimination is influenced by unconscious
+19
+racialmotivation.
+...
+Inshort,requiringproofofconsciousorintentionalmotivationasaprerequisiteto
+constitutionalrecognitionthatadecisionisrace-dependentignoresmuchofwhat
+we understand about how the human mind works. It also disregards both the
+irrationality of racism and the profound effect that the history of American race
+20
+relationshashadontheindividualandcollectiveunconscious.
+Ratherthansostronglyfocusingonintent,ProfessorLawrencesuggeststhatcourts
+shouldinsteadfocuson“culturalmeaning.”Underthisapproach,insteadoflooking
+forwhethertherearesignsofovertracismingovernmentaldecisions,courts“would
+evaluategovernmentalconducttoseeifitconveysasymbolicmessagetowhichthe
+21
+cultureattachesracialsignificance.” Suchanapproachisusefulbecauseithigh-
+lightstheimportanceofhistoryandsocialcontextsindiviningracialmeaning.
+The key takeaway from this burgeoning research is that people do not often
+acknowledge or even realize that racial bias may be informing their choices and
+decisions. Asa result of thisgap between claimed beliefs and behavior,two of my
+colleagues have previously opined on this topic, “[S]ince reliable evidence of
+subjective intentions is seldom obtainable, resort to inference based on objective
+factors is generally unavoidable.” Feeney, 442 U.S. at 283 (J. Marshall and
+J. Brennan, dissenting). It is for this reason that even without an ability to query
+17 AlanD.Freeman,LegitimizingRacialDiscriminationThroughAntidiscriminationLaw,62MINN.
+L.REV.1049(1978)(discussingBrownv.BoardofEducation(BrownI),347US483(1954),andBrown
+v.BoardofEducation(BrownII),349US294(1955)).
+18 CharlesLawrence,III,TheId,theEgoandReckoningwithUnconsciousRacism,39STAN.L.REV.317
+(1987).
+19 Id.at322.
+20 Id.at323.
+21 Id.at356.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 575
+individual jurors, assessing data detailing the race of the perpetrator and victim
+servesasareliablepointofanalysis.Intheory,evenifwedevelopedatooltoquery
+jurors and prosecutors about racial animus, it is unlikely many would believe or
+understand how race factored into their decisions. This is so because they would
+largely be speaking about their conscious understanding rather than unconscious
+motivations.Untilwecanfindaneffectivetooltocontemporaneouslymeasureand
+limit unconscious bias where a statistically significant disparate racial impact is
+present,itwouldbereprehensibletosimplyassumethatblackdefendantshavebeen
+sentencedbasedsolelyonappropriatefactors.
+b thefederalrulesofevidencesupporttheuseofthebaldusstudy
+and other social science evidence provided by mccleskey. Applying
+the Federal rules of Evidence to McCleskey requires the admission and serious
+considerationoftheBaldus studies and otherexpert-generatedevidence.While at
+this stage of the appeal, we can simply assume the validity of the studies as we
+evaluatetheargumentsbeforeus,asexplainedabovewefinditvaluabletoraisethe
+issueofRule702inthiscasewhichappearstohaveignoredthegravamenofexpert
+evidence. In similar cases where courts below are unsure of the reliability or
+usefulnessofexpertevidence,weencouragetheacquisitionofindependentexperts
+whocanassistthecourtinensuringadmitted“scientific,technical,orotherspecial-
+izedknowledgewillassistthetrieroffacttounderstandtheevidenceortodetermine
+a fact in issue,” pursuant to Rule 702, and that it is accurately interpreted and
+understood.Rule702alsorequirestheroleofthecourtexperttoincludeevaluation
+of experts brought forward by the parties to ensure that they are “qualified as an
+expertbyknowledge,skill,experience,training,oreducation.”
+In this case, the level of peer review that has already been conducted on the
+22
+Baldus studies would make remand for a court-appointed expert(s) to reevaluate
+the studies redundant and unproductive. Many experts throughout the fields of
+socialscienceandstatisticshaveevaluatedthesestudies,findingthattheexpertswho
+23
+designed,implemented,andreportedonthestudywerequalified, andtheresults
+24 25
+reliable and useful to determining discrimination in the capital punishment
+context. Cumulatively, these evaluations of the Baldus studies by independent
+experts justifies the inference that the methods employed by the Baldus Studies
+aregenerallyacceptedwithintheserespectivefields.ThisinferencesatisfiestheFrye
+22 See,e.g.,FredricJ.Bendremer,McCleskeyv.Kemp:ConstitutionalToleranceforRaciallyDisparate
+CapitalSentencing,41U.MIAMIL.REV.295,353(1986);EricSchnapper,TheCapitalPunishment
+Conundrum,84MICH.L.REV.715,725(1986);RobertNelson,ToInferorNottoInferADiscriminatory
+Purpose: Rethinking Equal Protection Doctrine, 61 N.Y.U. L. REV. 334, 362 n. 29 (1986); Samuel
+R.Gross,PatternsofDeath:AnAnalysisofRacialDisparitiesinCapitalSentencingandHomicide
+Victimization,37STAN.L.REV.27,103(1984).
+23 See,e.g.,Bendremer,supranote22,at345n.355.
+24 See,e.g.,id.at353;Gross,supranote22,at103.
+25 See,e.g.,Gross,supranote22,at103.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+576 MarioBarnes
+standardthesamewayacourt-appointedexpertorpanelofexpertsfromthetopof
+theirfieldwoulddo,asdescribedabove.
+Consequently,theBaldusStudiessatisfyRule702andtherealquestionbecomes
+howtheCourtusesthisdataininformingitsconclusions.Thatisnextconsidered.
+c empirical evidence in this case suggests the current capital
+punishment law has a disparate impact resulting in the
+unacceptable risk that the factor of race contributed to
+mccleskey’s death sentence. WithregardtoMcCleskey’sclaim,wecanstate
+thatthisisacasewhereadisparateracialoutcomeisveryunlikelytoexistwithoutthe
+presenceofpurposefuldiscrimination,albeitpotentiallyoperatingatanunconscious
+level.Inthepast,wehaveonlyappliedrationalbasisreviewtoevaluatethedecisionsof
+stateactorswithin a systemworking inthisfashion.Movingforward, inlight ofthe
+systemiceffectsdetailedinthesocialscienceresearch,wherethereisastatehistoryof
+explicitdiscriminationandstatisticallysignificantevidenceofacontemporaryracial
+disparitywithinthecriminaljusticesystem,thestatemustintervenetoensurethatno
+unlawful animus is present. Under these circumstances, then, until the state can
+provideareasonforthedisparateoutcomeotherthanracialbias,wewillsubjectthe
+accounting of race to great “skepticism” and our “most rigorous” review. See
+Korematsu v. U.S., 323 U.S. 214 (1944). Having been provided no tenable nonracial
+explanation for the statistically significant racial impacts located in the Georgia
+system,wefindthatthestateadministersthedeathpenaltyinamannerthatconsiders
+a racial classification. As we previously stated in the Feeney decision, “A racial
+classification, regardless of purported motivation, is presumptively invalid, and can
+beupheldonlyuponanextraordinaryjustification.”Feeney,442U.S.256,272(1979)
+(citingBrown,347U.S.483).Assuch,thestatemustprovideacompellinginterestto
+justifycontinuingitscurrentrace-conscioussystem,andwhythismannerofconsider-
+ingraceistheleastrestrictivemeansofachievingthestate’sgoals.Ifthestatemeetsthis
+standard,thedeathpenaltyinGeorgiacanbereinstated.Untilthattime,however,we
+find that Georgia is administering its death penalty in violation of the Fourteenth
+Amendment.WhilethisholdingappliesonlytoGeorgia,thisframeworkandanalysis
+applies to other states that operate under similarly statistically significant racial
+disparities.Assuch,thisdecisionshouldgovernthereviewsoflowercourtspresented
+withsubstantiallysimilarquestionsanddataindifferentstates.
+iii the eighth amendment
+A TheSentencingBody’sUseofDiscretionHasBeenShowntobe
+SystematicallyArbitraryinitsApplication
+EventhoughthepetitionerhasprovenhisclaimundertheFourteenthAmendment,
+hehasalsoassertedanEighthAmendmentclaimwhichmustlikewisebeevaluated.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 577
+The text of the Eighth Amendment forbids the awarding of “cruel and unusual
+punishments.” In the past, this Court has examined the standard against capital
+punishmentbymeasuringproportionalityandparticularmethodsofexecution.See
+Gregg v. Georgia, 428 U.S. 153, 170 (1976). The death penalty, however, has been
+upheldasapunishmentthatdoesnotperseviolatetheEighthAmendment.Id.at
+168–99,176.Still,onthesentencingbody’sdiscretioninthismatter,wehavenoted,
+“thatdiscretionmustbesuitablydirectedandlimitedsoastominimizetheriskof
+wholly arbitrary and capricious action.” Id. at 189. In fact, the Court previously
+invalidatedthedeathpenaltyasanexcessivepunishment,wherethatdiscretionhas
+beenappliedinanirrationalmanner.Furmanv.Georgia,408U.S.238(1972).The
+practice, however, was reinstated where states substantially addressed the issues
+raised in Furman regarding arbitrary and capricious decision-making processes.
+Gregg, 428 U.S. at 195–96. In particular, revamped death penalty processes were
+heldtobeconstitutionalbecausearbitrarinesswasminimized,orsowethought,by
+practices that systematically required the consideration of certain aggravating and
+mitigatingfactors.Id.at197–98.
+ItisnoteworthythatincasessuchasGreggandFurman,theCourtevaluatedthe
+administration of the death penalty as a system, not merely based on the facts of
+agivencase.ThedissentpointsoutthatstateeffortstopreventEighthAmendment
+violationswerealsosystemic.Forexample,inGeorgia,thetrialcourtevaluatesthe
+jury’s determination that an aggravating circumstance is present, and completes
+aquestionnaire,whichincludesaquestionastowhetherraceplayedaroleinthe
+trial.Additionally,thestateprovidesforautomaticappealsofdeathsentencestothe
+GeorgiaSupremeCourt.SeeGregg,428U.S.at198.Moreover,theappellatereview
+ostensiblyincludesanassessmentofwhetherthe sentence wasimposedunder the
+influenceofpassionorprejudice.Thestate’spractices,however,donoteffectively
+addressthepetitioner’sclaims.Indeed,theBaldusstudiesrevealhowineffectualthe
+state’spracticesare,howeverwell-intentioned.
+McCleskey is asserting that the Georgia death penalty statute is both racially
+discriminatoryon itsface and as applied. Based onthe Baldus studies, hedemon-
+strates that in Georgia capital cases, Blacks were more likely to receive a death
+sentence than any other defendants, and that Blacks who killed white victims
+incurred the greatest likelihood of being sentenced to death. While this evidence
+doesnotnecessarilysupportafacialclaim,foranumberofreasons,itdoessupport
+considerationoftheas-appliedclaim.First,tobeclear,McCleskeyisnotclaiming
+thathehasproofofexplicitracialconsiderationstakingplacewithinhissentencing
+proceedings.Indeed,givenoursystemofjurysecrecy,suchexplicitproofwouldbe
+nearly impossible to obtain. Second, he is not alleging that his sentence is dispro-
+portionateintheabstract.So,totheextentthedissentquestionswhethersomeother
+defendantswithcaseswhichhavesimilaraggravatingandmitigatingcircumstances
+also have received the death penalty, they are raising the wrong question. Rather,
+McCleskeyisassertingthatitisimpossibletoknowwhetherthedecisiontoaward
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+578 MarioBarnes
+deathinhiscasewaspremisedsolelyorevenprimarilyupontheprofferedaggravat-
+ingcircumstances.ThisissobecausetheBaldusdatadoessuggestthattheracesof
+thedefendantandvictimareplayinganoutsizedroleinthesentencedetermination
+forcasessuchasthisone.InthelanguageofthestandardsarticulatedinFurmanand
+Gregg,heisassertingthatrace-influenceddecisionsinthecapital-sentencingcon-
+text,wheremadeconsciouslyorunconsciously,areperseproblematic.InFurman,
+we invalidated the death penalty because whether a defendant faced the ultimate
+punishmentwasarbitrary.Here,theEighthAmendmentviolationisworse.Rather
+than death decisions being merely insufficiently tied to important criteria evenly
+appliedacrosscases,wehavedecisionsthataretiedtoafactorthatshouldhaveno
+bearing–race.Arbitrarinessarisesthroughracialconsiderationworkingtodeprive
+defendantsofconfidencethatonlyrelevantfactorsrelatedtocircumstancesofthe
+crimewere considered by jurors assigning punishment. One need look no further
+thantheBaldusfindingthatablackmanwhokillsawhitepersonis4.3timesmore
+likelytofacedeaththaniftheracesweredifferent,toseethetruthofthisclaim.
+B ProportionalityIsIrrelevantWhereThereIsNoIndicationSentence
+WasBasedSolelyonLegitimateFactors
+Theremightbesometendencytosuggest,intheabstract,thatMcCleskey’ssentence
+isproportionatetothecrimecommittedandrevealsnospecialconcernswithjury
+deliberations. On the proportionality point, he was convicted of killing a police
+officer, which is a legitimate aggravating circumstance. Many persons who kill
+officers receive the death penalty, irrespective of race. The problem for
+McCleskey’s case is that we cannot be certain that the aggravating factor explains
+hisdeathsentence.Jurydiscretionpresentsaconfoundingprobleminthiscase.We
+need and value the discretion accorded jurors and understand that the Baldus
+studies broadly demonstrate systemic correlations between race and punishment,
+not a particular problem with the workings of any given jury in Georgia. It is,
+however,theconnectionbetweenbroadjurordiscretionandcorrelationsbetween
+race and sentencing – correlations that in the least expose a persistently operative
+racialbias–thatpresentaproblemforGeorgia’sdeathpenaltyadministration.
+Aracialimpactthatoccursattheendofaprocessthatisconfidentialandinvolves
+broaddiscretion,byitisverynatureshouldbecarefullyassessed.Thisassessmentis
+merited here because under the circumstances, our ability to trust in the basis for
+jurors’ decisions or just how they exercised their discretion is undermined by the
+empirical data. Previously, we have acknowledged the uniquely opaque and indi-
+vidualizednatureofjurydeliberations.SeePetersv.Kiff,407U.S.493(1972).These
+deliberationsareintentionallydesignedtoobscureindividualcontributionsofpanel
+members.Assuch,itisnotpossibletodiscernwhetherintentionalbiases“caused”
+racial effects, even with empirical data such as that in the Baldus studies. This
+difficultydoesnotmeanthatwecanorshouldignorethepotencyoftheevidence
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 579
+thatracialbias,whetherexplicitorunconscious,hasinfecteddeliberations.Again,
+CharlesLawrence’sresearchonunconsciousracisminformsouranalysishere.Ifthe
+datastronglysupportthatracehasaffecteddeliberations,itisnolessadisturbanceto
+the system than relying upon other unacceptable or arbitrary considerations. As
+such, finding the system cruel or unusual because it is captured by a real but
+unspecified race bias is completely consistent with our decision in Furman. That
+decision set a minimum baseline below which the death penalty should not be
+imposed. A system with unaddressed racial bias falls below that baseline. For this
+reason,thepetitioneralsoprevailsonhisEighthAmendmentclaim,whichequally
+servestoinvalidatethedeathsentenceinthiscase.
+C AnyInfluenceofRacialConsiderationsonSentencingisUnacceptablein
+theCriminalJusticeContext.
+By holding that Georgia’s administration of the death penalty violates the Eighth
+Amendment, today, the Court is acknowledging and rejecting the arbitrary influ-
+ence of race on capital sentencing. We do understand that given that the Eighth
+Amendment’s cruel and unusual prohibitory language applies to punishment
+broadly, our decision today will potentially have a significant impact on the oper-
+ationofthecriminaljusticesystem.Tocarveoutthisapproachforthedeathpenalty
+alone,however,wouldbetosuggestthatarbitrarydecisionspremiseduponraceare
+fine for less consequential decisions within the criminal justice system. If we are
+trulyconcernedwitheradicatingracism,themoreadvisableapproachistoconclude
+that to the extent evidence can be presented signaling that race is operating in
+a statistically significant fashion at other junctures within the criminal justice
+system,thosecasesshouldbegiventhesamesearchingEighthAmendmentreview.
+With regard to the death penalty, in particular, the risk that race is playing
+a determinative role in juror decision-making is more than supported by the
+Baldus study findings that a black person who kills a white person received the
+death penalty 22 percent of the time, while black-on-black homicides received
+the death penalty only 8 percent of the time. To ignore that these outcomes are
+linkedtopersonalbiasesinamannerthatimplicatestheEighthAmendmentwould
+amount to our accepting that racial bias is unavoidable in the administration of
+justice.Suchaclaimisclearlyuntenable.
+This is not to say that every racial impact within the criminal justice system
+createsaccesstoalikeremedy.Rather,ourdeterminationholdsonlythatdefend-
+ants are allowedtopresentstatistical evidenceofsystemicracial biasoccurringat
+any stage in the criminal justice process, then the burden shifts to the state to
+demonstratetheabsenceofracialbias,andaCourtmustdeterminewhetherthat
+evidenceresultsinafindingofarbitrariness.Inthenearterm,itismostlikelythat
+this decision will lead to an explosion in data collection with regard to race and
+the criminal justice system. During the period which that data is being gathered,
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+580 MarioBarnes
+it would be advisable for Congress and state legislatures to acknowledge the
+significant scope of this issue and begin to address the problem in a more
+systematic fashion.
+Powell, J., concurring, in the judgment and Parts I and III of the opinion, and
+dissentinginpart.
+Iwriteseparatelytoconcurinthejudgmentandjointhedecisionwithregardto
+theclaimthattheGeorgiadeathpenaltyviolatedtheEighthAmendment.Icannot
+join the Fourteenth Amendment rationale due to the unique way in which juries
+work.Notonlyisdiscretionparamounttojuries,theconfidentialityoftheprocessis
+also a necessary feature of the deliberation. This confidentiality makes it nearly
+impossible to discern whether jurors have actually engaged in racial bias. That is,
+however,theveryevidencethatisrequired.AsIhavestatedpreviouslyinmyopinion
+inVillageofArlingtonHeights,andreiteratehere,proofofdiscriminatorypurposeis
+anecessitytoasserttheFourteenthAmendmentclaim.429U.S.252.Withoutthis
+proof,theCourt’sprescriptionthatthestateinvestigateandofferanonracialexplan-
+ation for disparate racial outcomes alone is flawed. For example, one might also
+imaginethatsocioeconomicclasscorrelateswithwhoissentencedtodeathandthat
+there issubstantialoverlapbetweenpersons whoare racial minoritiesand poor.If
+Georgiaandotherstatesweretoofferthatclass–aclassificationwhichreceivesno
+heightenedscrutiny(seeSanAntonioSchoolDist.v.Rodriguez,411U.S.1(1973))–
+explained the disparate racial impacts, would the plurality find this justification
+acceptable? It is doubtful. Expanding the intent doctrine in this unprecedented
+manner also ensures that measures of intent will be diminished for state actions
+involvingmembersofsuspectclassificationsinnumerouscontextsmovingforward.
+Thisexpansionisbothunwarrantedandunworkable.
+Unlike the Fourteenth Amendment, the Eighth Amendment analysis does not
+turnontheneedtolocateadiscriminatoryintent.Nordoesitturnonclassifications
+thatreceiveagreaterorlowerlevelofscrutiny.JustlikeintheFurmancase,here,
+there is a systemic problem with how death penalty decisions are made, which is
+likelytoaffectmultiplestates.ChiefJusticeWarren,writingforthepluralityinTrop
+v.Dulles,356U.S.86,100(1958),reasonedthatthe“basicconceptunderlyingthe
+Eighth Amendment” with regard to capital punishment is that the penalty must
+accord with “the dignity of man.” In applying this mandate, the Court has been
+guided by his statement that “the Amendment must draw its meaning from the
+evolvingstandardsofdecencythatmarktheprogressofamaturingsociety.”Id.,at
+101.Thus,ourconstitutionaldecisionshavebeeninformedby“contemporaryvalues
+concerningtheinflictionofachallengedsanction,”Greggv.Georgia,428U.S.,at
+173.Withoutdepartingfromthislogic,Iwouldadd,inagreementwiththeplurality,
+that it is judicious to also consider the knowledge gained by evolving scientific
+advances, which also mark the progress ofa maturing society, about how contem-
+poraryvaluesareinformedbyhistoryandsocialstructures,suchasasocialhierarchy
+builtuponandentrenchedinaracializedhistory.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press
+
+McCleskeyv.Kemp 581
+On these grounds, I join the plurality decision in the holding that significant
+racial differences in rates of awarding the death penalty likely involve decision-
+making processes that are arbitrary and result inpunishments that are notpropor-
+tionate. While I do believe that this Eighth Amendment analysis portends the
+availability of challenges to disproportionate racial outcomes in other areas of the
+criminal justice system, potentially challenging our criminal justice system at its
+foundations, I hesitantly remain open to those potential cases as a requirement of
+administering a just system. With regard to curing the multiple disparate racial
+effects that are prevalent within the criminal justice system, I would much rather
+Congress address these matters through comprehensive reform legislation. In the
+absenceofsuchlegislation,however,theCourtmaynotavoiditsdutytoevaluatethe
+constitutionality of the system as it is currently configured. In the instant case,
+the Court certainly cannot sit on its hands and pretend that no constitutional
+violationsarisefromthearbitraryanddetrimentalconsiderationsofraceincapital
+sentencing. While I am cognizant of the significant disruptive effect this holding
+portends,todootherwisewouldforceonetoswallowtoomuchinjustice.Icanonly
+imagine that if I failed to follow the moral imperative involved in invalidating
+a system improperly considering race, I would deeply regret that decision for the
+remainderofmytimeontheCourtandlongthereafter.
+https://doi.org/10.1017/9781316691090.032 Published online by Cambridge University Press

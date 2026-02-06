@@ -1,0 +1,1423 @@
+Yale Law School
+Yale Law School Legal Scholarship Repository
+Faculty Scholarship Series Yale Law School Faculty Scholarship
+1-1-1986
+Violence and the Word
+Robert M. Cover
+Yale Law School
+Follow this and additional works at:http://digitalcommons.law.yale.edu/fss_papers
+Part of theLaw Commons
+Recommended Citation
+Cover, Robert M., "Violence and the Word" (1986).Faculty Scholarship Series.Paper 2708.
+http://digitalcommons.law.yale.edu/fss_papers/2708
+This Article is brought to you for free and open access by the Yale Law School Faculty Scholarship at Yale Law School Legal Scholarship Repository. It
+has been accepted for inclusion in Faculty Scholarship Series by an authorized administrator of Yale Law School Legal Scholarship Repository. For
+more information, please contactjulian.aiken@yale.edu.
+
+Essays
+Violence and the Word
+Robert M. Coverf
+I. INTRODUCTION: THE VIOLENCE OF LEGAL ACTS
+Legal interpretation' takes place in a field of pain and death. This is
+true in several senses. Legal interpretive acts signal and occasion the im-
+position of violence upon others: A judge articulates her understanding of
+a text, and as a result, somebody loses his freedom, his property, his chil-
+dren, even his life. Interpretations in law also constitute justifications for
+violence which has already occurred or which is about to occur. When
+interpreters have finished their work, they frequently leave behind victims
+whose lives have been torn apart by these organized, social practices of
+violence. Neither legal interpretation nor the violence it occasions may be
+properly understood apart from one another. This much is obvious,
+though the growing literature that argues for the centrality of interpretive
+practices in law blithely ignores it.2
+t Chancellor Kent Professor of Law and Legal History, Yale University.
+There are always legends of those who came first, who called things by their right names and thus
+founded the culture of meaning into which we latecomers are born. Charles Black has been such a
+legend, striding across the landscape of law naming things, speaking "with authority." And we who
+come after him are eternally grateful.
+I wish to thank Harlon Dalton, Susan Koniak and Harry Wellington for having read and com-
+mented upon drafts of this essay. Some of the ideas in this essay were developed earlier, in the Brown
+Lecture which I delivered at the Georgia School of Law Conference on Interpretation in March,
+1986. I am grateful to Milner Ball, Avi Soifer, Richard Weisberg and James Boyd White for com-
+ments made in response to that lecture which have helped me in reworking the ideas here.
+I am particularly grateful to my summer research assistant, Tracy Fessenden, for research, editorial
+and substantive assistance of the highest order.
+I. I have used the term "legal interpretation" throughout this essay, though my argument is di-
+rected principally to the interpretive acts of judges. To this specifically judicial interpretation my
+analysis of institutional action applies with special force. Nonetheless, I believe the more general term
+"legal interpretation" is warranted, for it is my position that the violence which judges deploy as
+instruments of a modern nation-state necessarily engages anyone who interprets the law in a course of
+conduct that entails either the perpetration or the suffering of this violence.
+2. There has been a recent explosion of legal scholarship placing interpretation at the crux of the
+1601
+HeinOnline -- 95 Yale L.J. 1601 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+Taken by itself, the word "interpretation" may be misleading. "Inter-
+pretation" suggests a social construction of an interpersonal reality
+through language. But pain and death have quite other implications. In-
+deed, pain and death destroy the world that "interpretation" calls up.
+That one's ability to construct interpersonal realities is destroyed by death
+is obvious, but in this case, what is true of death is true of pain also, for
+pain destroys, among other things, language itself. Elaine Scarry's bril-
+liant analysis of pain makes this point:
+[F]or the person, in pain, so incontestably and unnegotiably present
+is it that "having pain" may come to be thought of as the most vi-
+brant example of what it is to "have certainty," while for the other
+person it is so elusive that hearing about pain may exist as the pri-
+mary model of what it is "to have doubt." Thus pain comes un-
+shareably into our midst as at once that which cannot be denied and
+that which cannot be confirmed. Whatever pain achieves, it achieves
+in part through its unshareability, and it ensures this unshareability
+enterprise of law. A fair sampling of that work may be seen in the various articles that have appeared
+in two symposia. Symposium: Law and Literature, 60 TEx. L. REv. 373 (1982); Interpretation
+Symposium, 58 S. CALIF. L. REv. 1 (1985) (published in two issues). The intense interest in "inter-
+pretation" or "hermeneutics" in recent legal scholarship is quite a different phenomenon from the
+traditional set of questions about how a particular word, phrase, or instrument should be given effect
+in some particular context. It is, rather, the study of what I have called "a normative universe...
+held together by . . . interpretive commitments .. . ." Cover, The Supreme Court, 1982
+Term-Foreword: Nomos and Narrative, 97 HARv. L. REv. 4, 7 (1983). Or, in Ronald Dworkin's
+words, it is the study of the effort "to impose meaning on the institution. . .and then to restructure
+it in the light of that meaning." R. DWORKIN, LAW'S EMPIRE 47 (1986) (emphasis in original).
+Dworkin, in Law's Empire, has written the most elaborate and sophisticated jurisprudence which
+places the meaning-giving, constructive dimension of interpretation at the heart of law. James Boyd
+White has been another eloquent voice claiming primacy for what he has called the "culture of argu-
+ment." White has raised rhetoric to the pinnacle of jurisprudence. See J.B. WHITE, WHEN WORDS
+LOSE THEIR MEANING (1984); J.B. WHITE, HERACLES' Bow (1985).
+The violent side of law and its connection to interpretation and rhetoric is systematically ignored or
+underplayed in the work of both Dworkin and White. White, in chapter nine of Heracles' Bow,
+comes closest to the concerns of this essay. He launches a critique of the practice of criminal law in
+terms of its unintelligibility as a "system of meaning" in the absence of significant reforms. White
+does not see violence as central to the breakdown of the system of meaning. But he does contrast what
+the judge says with what he does in the saying of it. Still, White reiterates in this book his central
+claim that "law . . .is best regarded not as a machine for social'control, but as what I call a system
+of constitutive rhetoric: a set of resources for claiming, resisting, and declaring significance." Id. at
+205. I do not deny that law is all those things that White claims, but I insist that it is those things in
+the context of the organized social practice of violence. And the "significance" or meaning that is
+achieved must be experienced or understood in vastly different ways depending upon whether one
+suffers that violence or not. In Nomos and Narrative,I also emphasized the world-building character
+of interpretive commitments in law. However, the thrust of Nomos was that the creation of legal
+meaning is an essentially cultural activity which takes place (or best takes place) among smallish
+groups. Such meaning-creating activity is not naturally coextensive with the range of effective violence
+used to achieve social control. Thus, because law is the attempt to build future worlds, the essential
+tension in law is between the elaboration of legal meaning and the exercise of or resistance to the
+violence of social control. Cover, supra, at 18: "[T]here is a radical dichotomy between the social
+organization of law as power and the organization of law as meaning." This essay elaborates the
+senses in which the traditional forms of legal decision cannot be easily captured by the idea of inter-
+pretation understood as interpretation normally is in literature, the arts, or the humanities.
+1602
+HeinOnline -- 95 Yale L.J. 1602 1985-1986
+
+Violence and the Word
+in part through its resistance to language .. . .Prolonged pain does
+not simply resist language but actively destroys it, bringing about an
+immediate reversion to a state anterior to language, to the sounds
+and cries a human being makes before language is learned.3
+The deliberate infliction of pain in order to destroy the victim's norma-
+tive world and capacity to create shared realities we call torture. The in-
+terrogation that is part of torture, Scarry points out, is rarely designed to
+elicit information. More commonly, the torturer's interrogation is designed
+to demonstrate the end of the normative world of the victim-the end of
+what the victim values, the end of the bonds that constitute the community
+in which the values are grounded. Scarry thus concludes that "in compel-
+ling confession, the torturers compel the prisoner to record and objectify
+the fact that intense pain is world-destroying."'4 That is why torturers
+almost always require betrayal-a demonstration that the victim's intangi-
+ble normative world has been crushed by the material reality of pain and
+its extension, fear.5 The torturer and victim do end up creating their own
+terrible "world," but this world derives its meaning from being imposed
+upon the ashes of another.' The logic of that world is complete domina-
+tion, though the objective may never be realized.
+Whenever the normative world of a community survives fear, pain, and
+death in their more extreme forms, that very survival is understood to be
+literally miraculous both by those who have experienced and by those who
+vividly imagine or recreate the suffering. Thus, of the suffering of sainted
+Catholic martyrs it was written:
+We must include also ...the deeds of the saints in which their
+3. E. S(ARRY, THE. BODY IN PAIN 4 (1985).
+4. Id. at 29.
+5. Id.
+Pain and interrogation inevitably occur together in part because the torturer and the prisoner
+each experience them as opposites. The very question that, within the political pretense, mat-
+ters so much to the torturer that it occasions his grotesque brutality will matter so little to the
+prisoner experiencing the brutality that he will give the answer. For the torturers, the sheer
+and simple fact of human agony is made invisible, and the moral fact of inflicting that agony is
+made neutral by the feigned urgency and significance of the question. For the prisoner, the
+sheer, simple, overwhelming fact of his agony will make neutral and invisible the significance
+of any question as well as the significance of the world to which the question refers .. . .It is
+for this reason that while the content of the prisoner's answer is only sometimes important to
+the regime, the form of the answer, the fact of his answering, is always crucial. ... [In
+confession, one betrays oneself and all those aspects of the world-friend, family, country,
+cause-that the self is made up of.
+Id. While pain is the extreme form of world destruction, fear may be as potent, even if not connected
+to physical pain and torture. The fact of answering and the necessity for "world destruction" through
+betrayal were also central to the reign of fear of McCarthyism. See, e.g., V. NAVASKY, NAMING
+NAMES 346 (1980) (informer destroys "the very possibility of a community ...for the informer
+operates on the principle of betrayal and a community survives on the principle of trust").
+6. On the "fiction of power" that torture creates, see E. SCARRY, supra note 3, at 56-58.
+1603
+HeinOnline -- 95 Yale L.J. 1603 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+triumph blazed forth through the many forms of torture that they
+underwent and their marvelous confession of the faith. For what
+Catholic can doubt that they suffered more than is possible for
+human beings to bear, and did not endure this by their own strength,
+but by the grace and help of God?'
+And Jews, each year on Yom Kippur, remember-
+Rabbi Akiba. . .chose to continue teaching in spite of the decree
+[of the Romans forbidding it]. When they led him to the executioner,
+it was time for reciting the Sh'ma. With iron combs they scraped
+away his skin as he recited Sh'ma Yisrael, freely accepting the yoke
+of God's Kingship. "Even now?" his disciples asked. He replied:
+"All my life I have been troubled by a verse: 'Love the Lord your
+God with all your heart and with all your soul,' which means even if
+He take your life. I often wondered if I would ever fulfill that obli-
+gation. And now I can." He left the world while uttering, "The
+Lord is One.""
+Martyrdom, for all its strangeness to the secular world of contemporary
+American Law, is a proper starting place for understanding the nature of
+legal interpretation. Precisely because it is so extreme a phenomenon,
+martyrdom helps us see what is present in lesser degree whenever inter-
+pretation is joined with the practice of violent domination. Martyrs insist
+in the face of overwhelming force that if there is to be continuing life, it
+will not be on the terms of the tyrant's law. Law is the projection of an
+imagined future upon reality. Martyrs require that any future they pos-
+sess will be on the terms of the law to which they are committed (God's
+law). And the miracle of the suffering of the martyrs is their insistence on
+the law to which they are committed, even in the face of world-destroying
+pain.9 Their triumph-which may well be partly imaginary-is the
+imagined triumph of the normative universe-of Torah, Nomos,-over
+7. P. BROWN, THE CULT OF THE SAINTS 79 (1981) (emphasis added) (quoting from the
+DECRE'UM GEI.ASIANUM, PATROLOGIA LATINA 59.171).
+8. The quotation is from the traditional Eilch Ezkerah or martyrology service of Yom Kippur. I
+have quoted from the translation used in MAHZOR FOR ROSH HASHANAH AND YoM KIPPUR, A
+PRAYER BOOK FOR THE DAYS OF AWE 555-57 (J. Harlow ed. 1972).
+9. The word "martyr" stems from the Greek root martys, "witness," and from the Aryan root
+smer, "to remember." Martyrdom functions as a re-membering when the martyr, in the act of wit-
+nessing, sacrifices herself on behalf of the normative universe which is thereby reconstituted, regener-
+ated, or recreated. One of the earliest sources dealing with martyrdom as a religious phenomenon, 2
+MACCABEES, stresses the characteristic of the phenomenon as an insistence on the integrity of the Law
+of the martyr and of obligation to it in the face of overpowering violence. At one point the book
+describes the horrible torture and killing of seven sons before their mother's eyes, each death more
+horrible than the one before. The last and youngest child, encouraged by his mother, answers the
+King's demand to eat pork with the words: "I will not submit to the King's command; I obey the
+command of the law given by Moses to our ancestors." 2 MACCABEES 7.30.
+1604
+HeinOnline -- 95 Yale L.J. 1604 1985-1986
+
+Violence and the Word
+the material world of death and pain.10 Martyrdom is an extreme form of
+resistance to domination. As such it reminds us that the normative world-
+building which constitutes "Law" is never just a mental or spiritual act. A
+legal world is built only to the extent that there are commitments that
+place bodies on the line. The torture of the martyr is an extreme and
+repulsive form of the organized violence of institutions. It reminds us that
+the interpretive commitments of officials are realized, indeed, in the flesh.
+As long as that is so, the interpretive commitments of a community which
+resists official law must also be realized in the flesh, even if it be the flesh
+of its own adherents.
+Martyrdom is not the only possible response of a group that has failed
+to adjust to or accept domination while sharing a physical space. Rebel-
+lion and revolution are alternative responses when conditions make such
+acts feasible and when there is a willingness not only to die but also to kill
+for an understanding of the normative future that differs from that of the
+dominating power.11
+Our own constitutional history begins with such an act of rebellion.
+The act was, in form, an essay in constitutional interpretation affirming
+the right of political independence from Great Britain:
+We therefore the representatives of the United States of America in
+General Congress assembled, appealing to the supreme judge of the
+world for the rectitude of our intentions, do in the name, and by the
+authority of the good people of these colonies, solemnly publish and
+declare that these United Colonies are and of right ought to be free
+and independent states; that they are absolved from all allegiance to
+the British crown, and that all political connection between them and
+the State of Great Britain is, and ought to be, totally dissolved.12
+10. In extreme cases martyrdom may be affirmatively sought out, for it is the final proof of the
+capacity of the spirit to triumph over the body. That triumph may be seen as a triumph of love or of
+law or of both, depending upon the dominant motifs of the normative and religious world of the
+martyr and her community. The great jurist and mystic, Joseph Karo (1488-1578), had ecstatic
+dreams of martyrdom and was promised the privilege of dying a martyr by a "maggid"-a celestial
+messenger who spoke through his mouth and appeared to him in visions. (The promise was not
+fulfilled. He died of very old age.) See Z. WERBLOWSKI, JOSEPH KARO: LAWYER AND MYSTIC
+151-54 (2d ed. 1977). Note also the phenomenon of communities slaughtering themselves in the face
+of an enemy. Compare the complex mythos of the Jewish martyrs before the crusaders, elaborated in
+S. SI'w;Ei., THE LAST TRIAL: ON THE LEGENDS AND LORE OF THE COMMAND TO ABRAHAM TO
+OFFER ISSAC: AS A SACRIFICE: THE AKEDAH (J. Goldin trans. 1969) with the myth of the White
+Night enacted by Jonestown in our own day, recounted in J. SMIn, IMAGINING RELIGION: FROM
+BABY.ON TO JONESTOWN 102-20, 126-34 (1982).
+11. The archetype for the transition from martyrdom to resistance is found in I MACCABEES,
+with the dramatic killing carried out by the Priest Matathias in Modi'in. 1 MACCABEES 2, 19-28.
+His act assumes dramatic significance in the work in part because it stands in marked contrast to the
+acts of heroic martyrdom described in 2 MACCABEES. See supra note 9.
+12. The Declaration of Independence (1776). For the senses in which the Declaration should be
+seen as interpretive of the constitutional position of America in the Empire, see Black, The Constitu-
+tion of Empire: The Case for the Colonists, 124 U. PA. L. REV. 1157 (1976).
+1605
+HeinOnline -- 95 Yale L.J. 1605 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+But this interpretive act also incorporated an awareness of the risk of pain
+and death that attends so momentous an interpretive occasion:
+We mutually pledge to each other our lives, our fortunes and our
+13
+sacred honour.
+Life, fortune, and sacred honour were, of course, precisely the price that
+would have been exacted from the conspirators were their act unsuccess-
+ful. We too often forget that the leaders of the rebellion had certainly
+committed treason from the English constitutional perspective. And con-
+viction of treason carried with it a horrible and degrading death, forfeiture
+of estate, and corruption of the blood."' Great issues of constitutional in-
+terpretation that reflect fundamental questions of political allegiance-the
+American Revolution, the secession of the States of the Confederacy, or
+the uprising of the Plains Indians-clearly carry the seeds of violence
+(pain and death) at least from the moment that the understanding of the
+political texts becomes embedded in the institutional capacity to take col-
+lective action. But it is precisely this embedding of an understanding of
+political text in institutional modes of action that distinguishes legal inter-
+pretation from the interpretation of literature, from political philosophy,
+and from constitutional criticism.15 Legal interpretation is either played
+13. The Declaration of Independence (1776).
+14. See IV BLACKSTONE'S COMMENTARIES *92-93:
+The punishment of high treason in general is very solemn and terrible. 1. That the offender
+be drawn to the gallows, and not be carried or walk; though usually (by connivance, at length
+ripened by humanity into law) a sledge or hurdle is allowed, to preserve the offender from the
+extreme torment of being dragged on the ground or pavement. 2. That he be hanged by the
+neck, and then cut down alive. 3. That his entrails be taken out, and burned, while yet he is
+alive. 4. That his head be cut off. 5. That his body be divided into four parts. 6. That his head
+and quarters be at the king's disposal.
+On forfeiture and corruption of the blood, see id. at *388-96. It is, therefore, not unexpected that
+among the few specific protections incorporated into the body of the original Constitution were those
+which closely defined treason, set procedural safeguards for conviction of treason, and forbade the
+extension of attaint and corruption of the blood as vicarious punishment upon the family or descend-
+ants of those convicted of treason.
+15. Every interpretive practice takes place in some context. Among recent critics, Stanley Fish has
+been as insistent as any concerning the dominance of institutional contexts even in understanding
+literary texts. See generally S. FISH, Is THERE A TEXT IN THIS CLASS? (1980); Fish, Fish v. Fiss, 36
+STAN. L. REv. 1325, 1332 (1984) ("To be. . .'deeply inside' a context is to be already and always
+thinking (and perceiving) with and within the norms, standards, definitions, routines, and understood
+goals that both define and are defined by that context."). I do not wish to dispute Fish's central point
+about literature. I do think, however, that the institutions that are designed to realize normative fu-
+tures in part through the practice of collective violence stand on a somewhat different footing than do
+those which bear only a remote or incidental relation to the violence of society. I am prepared to
+entertain views such as those of Fredric Jameson, who argues for "the priority of the political inter-
+pretation of literary texts." F. JAMESON, THE POLITICAL UNCONSCIOUS: NARRATIVE AS A SOCIALLY
+SYMBOI.I Acr 17 (1981). But while asserting the special place of a political understanding of our
+social reality, such views do not in any way claim for literary interpretations what I am claiming
+about legal interpretation-that it is part of the practice of political violence.
+1606
+HeinOnline -- 95 Yale L.J. 1606 1985-1986
+
+Violence and the Word
+out on the field of pain and death or it is something less (or more) than
+law.
+Revolutionary constitutional understandings are commonly staked in
+blood. Int hem, the violence of the law takes its most blatant form. But the
+relationship between legal interpretation and the infliction of pain re-
+mains operative even in the most routine of legal acts. The act of sentenc-
+ing a convicted defendant is among these most routine of acts performed
+by judges.18 Yet it is immensely revealing of the way in which interpreta-
+tion is distinctively shaped by violence. First, examine the event from the
+perspective of the defendant. The defendant's world is threatened. But he
+sits, usually quietly, as if engaged in a civil discourse. If convicted, the
+defendant customarily walks-escorted-to prolonged confinement, usu-
+ally without significant disturbance to the civil appearance of the event. It
+is, of course, grotesque to assume that the civil facade is "voluntary" ex-
+cept in the sense that it represents the defendant's autonomous recognition
+of the overwhelming array of violence ranged against him, and of the
+hopelessness of resistance or outcry.17
+There are societies in which contrition or shame control defendants'
+behavior to a greater extent than does violence. Such societies require and
+have received their own distinctive form of analysis."' But I think it is
+unquestionably the case in the United States that most prisoners walk into
+prison because they know they will be dragged or beaten into prison if
+they do not walk. They do not organize force against being dragged be-
+16. I have used the criminal law for examples throughout this essay for a simple reason. The
+violence of the criminal law is relatively direct. If my argument is not persuasive in this context, it
+will be less persuasive in most other contexts. I would be prepared to argue that all law which
+concerns property, its use and its protection, has a similarly violent base. But in many, perhaps most,
+highly visible legal transactions concerning property rights, that violent foundation is not immediately
+at issue. My argument does not, I believe, require that every interpretive event in law have the kind of
+direct violent impact on participants that a criminal trial has. It is enough that it is the case that
+where people care passionately about outcomes and are prepared to act on their concern, the law
+officials of the nation state are usually willing and able to use either criminal or violent civil sanctions
+to control behavior.
+17. A few defendants who have reached their own understandings of the legal order have overtly
+attempted to deny the fiction that the trial is a joint or communal civil event where interpretations of
+facts and legal concepts are tested and refined. The playing out of such an overt course of action ends
+with the defendant physically bound and gagged. Bobby Seale taught those of us who lived through
+the 1960's that the court's physical control over the defendant's body lies at the heart of the criminal
+process. The defendant's "civil conduct," therefore, can never signify a shared understanding of the
+event; it may signify his fear that any public display of his interpretation of the event as "bullshit"
+will end in violence perpetrated against him, pain inflicted upon him. Our constitutional law, quite
+naturally enough, provides for the calibrated use of ascending degrees of overt violence to maintain the
+"order" of the criminal trial. See, e.g., Illinois v. Allen, 397 U.S. 337 (1970); Tigar, The Supreme
+Court, 1969 Term-Foreword: Waiver of ConstitutionalR ights: Disquiet in the Citadel, 84 HARV.
+L. REv. 1, 1-3, 10-11 (1970) (commenting in part upon Allen).
+18. On the distinction between "shame cultures" and "guilt cultures," see generally E. DoDDs,
+THE GREEKS AND THE IRRATIONAL (1951), and J. REDFIELD, NATURE AND CULTURE IN THE
+I.IAD (1975). For an analysis of a modern "shame culture," see R. BENEDICT, THE CHRYSANTHE-
+MUM AND THE SWORD: PATTERNS OF JAPANESE CULTURE (1946).
+1607
+HeinOnline -- 95 Yale L.J. 1607 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+cause they know that if they wage this kind of battle they will lose-very
+possibly lose their lives.
+If I have exhibited some sense of sympathy for the victims of this vio-
+lence it is misleading. Very often the balance of terror in this regard is
+just as I would want it. But I do not wish us to pretend that we talk our
+prisoners into jail. The "interpretations" or "conversations" that are the
+preconditions for violent incarceration are themselves implements of vio-
+lence. To obscure this fact is precisely analogous to ignoring the back-
+ground screams or visible instruments of torture in an inquisitor's interro-
+gation. The experience of the prisoner is, from the outset, an experience of
+being violently dominated, and it is colored from the beginning by the fear
+of being violently treated.19
+The violence of the act of sentencing is most obvious when observed
+from the defendant's perspective. Therefore, any account which seeks to
+downplay the violence or elevate the interpretive character or meaning of
+the event within a community of shared values will tend to ignore the
+prisoner or defendant and focus upon the judge and the judicial interpre-
+tive act. Beginning with broad interpretive categories such as "blame" or
+"punishment," meaning is created for the event which justifies the judge
+to herself and to others with respect to her role in the acts of violence. I do
+not wish to downplay the significance of such ideological functions of law.
+But the function of ideology is much more significant in justifying an or-
+der to those who principally benefit from it and who must defend it than
+it is in hiding the nature of the order from those who are its victims.
+The ideology of punishment is not, of course, the exclusive property of
+judges. The concept operates in the general culture and is intelligible to
+and shared by prisoners, criminals and revolutionaries as well as judges.
+Why, then, should we not conclude that interpretation is the master con-
+cept of law, that the interpretive work of understanding "punishment"
+may be seen as mediating or making sense of the opposing acts and exper-
+iences of judge and defendant in the criminal trial? Naturally, one who is
+to be punished may have to be coerced. And punishment, if it is "just,"
+supposedly legitimates the coercion or violence applied. The ideology of
+punishment may, then, operate successfully to justify our practices of
+criminal law to ourselves and, possibly, even to those who are or may
+come to be "punished" by the law.
+There is, however, a fundamental difference between the way in which
+"punishment" operates as an ideology in popular or professional litera-
+ture, in political debate, or in general discourse, and the way in which it
+19. This point and others very similar to it are made routinely in the literature that comes out of
+prisons. See, e.g., E. CLEAVER, SOUL ON ICE 128-30 (1968); J. WASHINGTON, A BRIGHT SPOT IN
+THE YARD: NOTES & STORIES FROM A PRISON JOURNAL 5 (1981).
+1608.
+HeinOnline -- 95 Yale L.J. 1608 1985-1986
+
+Violence and the Word
+operates in the context of the legal acts of trial, imposition of sentence,
+and execution. For as the judge interprets, using the concept of punish-
+ment, she also acts-through others-to restrain, hurt, render helpless,
+even kill the prisoner. Thus, any commonality of interpretation that may
+or may not be achieved is one that has its common meaning destroyed by
+the divergent experiences that constitute it. Just as the torturer and victim
+achieve a "shared" world only by virtue of their diametrically opposed
+experiences, so the judge and prisoner understand "punishment" through
+their diametrically opposed experiences of the punishing act. It is ulti-
+mately irrelevant whether the torturer and his victim share a common
+theoretical view on the justifications for torture-outside the torture room.
+They still have come to the confession through destroying in the one case
+and through having been destroyed in the other. Similarly, whether or not
+the judge and prisoner share the same philosophy of punishment, they
+arrive at the particular act of punishment having dominated and having
+been dominated with violence, respectively.
+II. THE ACTS OF JUDGES: INTERPRETATIONS, DEEDS AND ROLES
+We begin, then, not with what the judges say, but with what they do.
+The judges deal pain and death.
+That is not all that they do. Perhaps that is not what they usually do.
+But they do deal death, and pain. From John Winthrop through Warren
+Burger they have sat atop a pyramid of violence, dealing ....
+In this they are different from poets, from critics, from artists. It will
+not do to insist on the violence of strong poetry, and strong poets. Even the
+violence of weak judges is utterly real-a naive but immediate reality, in
+need of no interpretation, no critic to reveal it.20 Every prisoner displays
+20. On the violence that strong poets do to their literary ancestors, see H. BLOOM, THE ANXIETY
+OF INFI.UENCE (1973), H. BLOOM, THE BREAKING OF THE VESSELS (1982), and much of Bloom's
+other work since Anxiety. Judges, like all readers and writers of texts, do violence to their liter-
+ary-i.e., judicial-forebearers. For an interesting application of Bloom's central thesis to law, see D.
+Cole, Agon and Agora: Creative Misreadings in the First Amendment Tradition, 95 YALE L.J. 857
+(1986). Cole acknowledges that the connection of law to violence distinguishes legal from literary
+interpretation, though he does not, unfortunately, develop the point. Id. at 904.
+The anxiety of juridical influence was rather aptly and nicely stated somewhat earlier by Learned
+Hand in his tribute to Cardozo, Mr. Justice Cardozo, 39 COLUM. L. REV. 9 (1939). My point here is
+not that judges do not do the kind of figurative violence to literary parents that poets do, but that they
+carry out-in addition-a far more literal form of violence through their interpretations that poets do
+not share. It is significant, and has been much noted, that the immediacy of the connection between
+judge and violence of punishment has changed over the centuries. See, e.g., M. FOUCAULT, DISCI-
+PLINE AND PuNIsH: THE BIRTH OF THE PRISON (A. Sheridan trans. 1977). Certainly in the United
+States today, the judge's obvious responsibility for the violence of punishment requires an apprecia-
+tion-which all who live in this society acquire-of the organizational form of action. In that sense
+"naive" reality should not be taken to signify too much. One need not be sophisticated to understand
+the violence of judging, but neither is it as naive a form of violence as it would be if judges carried out
+their own sentencing. On the implications of this point, see infra pp. 1626-27.
+1609
+HeinOnline -- 95 Yale L.J. 1609 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+its mark. Whether or not the violence of judges is justified is not now the
+point-only that it exists in fact and differs from the violence that exists
+in literature or in the metaphoric characterizations of literary critics and
+philosophers. I have written elsewhere that judges of the state are juris-
+pathic-that they kill the diverse legal traditions that compete with the
+State.2' Here, however, I am not writing of the jurispathic quality of the
+22
+office, but of its homicidal potential.
+The dual emphasis on the acts of judges and on the violence of these
+acts leads to consideration of three characteristics of the interpretive di-
+mension of judicial behavior. Legal interpretation is (1) a practical activ-
+ity, (2) designed to generate credible threats and actual deeds of violence,
+(3) in an effective way. In order to explore the unseverable connection
+between legal interpretation and violence, each of these three elements
+must be examined in turn.
+A. Legal Interpretation as a PracticalA ctivity
+Legal interpretation is a form of practical wisdom.23 At its best it seeks
+to "impose meaning on the institution . . . and then to restructure it in
+the light of that meaning."" There is,ho wever, a persistent chasm be-
+21. Cover, supra note 2, at 40-44.
+22. The violence of judges and officials of a posited constitutional order is generally understood to
+be implicit in the practice of law and government. Violence is so intrinsic to this activity, so taken for
+granted, that it need not be mentioned. For instance, read the Constitution. Nowhere does it state, as a
+general principle, the obvious-that the government thereby ordained and established has the power
+to practice violence over its people. That, as a general proposition, need not be stated, for it is under-
+stood in the very idea of government. It is, of course, also directly implicit in many of the specific
+powers granted to the general government or to some specified branch or official of it. E.g., U.S.
+CONsr. art. I, § 8, cl.I ("Power To lay and collect Taxes ...and provide for the common De-
+fence"); id., cl.6 ("To provide for the Punishment of counterfeiting"); id., cl.1 0 ("To define and
+punish Piracies"); id., cl.11 ("To declare War"); id.c,l .15 ("To provide for calling forth the Militia
+to execute the Laws of the Union, suppress Insurrections and repel Invasions;"); id., art. IV, § 2, cis.
+2-3 (providing for rendition of fugitives from justice and service).
+23. On practical wisdom, see ARISTOTLE, THE NICOMACHEAN ETHIcs 1140a(24) to 1140b(30).
+24. R. DWORKIN, supra note 2, at 47. Dworkin's opus, celebrating what he calls the "integrity"
+of coherent and consistent interpretation, stands within a long tradition of work elaborating on Aris-
+totle's fundamental insight into the nature of deliberation. Aristotle assigned the broad area of norma-
+tive deliberation, of which legal interpretation consists, to practical wisdom or phronesis, which he
+distinguished from speculative knowledge. ARISTOTLE, supra note 23, at 1139b(14) to 1140b(30). On
+phronesis, see also H. ARENDT, WILLING 59-62 (1977). Practical wisdom, according to Aristotle, is a
+form of applied understanding: it does not consist, like knowledge, of pre-existing truths. It entails
+deliberation-an activity which is senseless with respect to logical truth. Deliberation engages the
+relevance of past to present understandings through a reflexive "discovery" of what is implicit in past
+understanding. Technical knowledge also has applied character, but practical wisdom, being in the
+normative sphere, cannot be measured by an external standard such as usefulness, because it consists
+of the application of understanding to the shaping of self.
+Hans Georg Gadamer elevated these characteristics of practical wisdom to the central place in what
+he called "the human sciences." H. GADAMER, TRUTH AND METHOD 5-10 and passim (G. Barden
+& J. Cumming eds. 2d ed. 1975). Gadamer found these interpersonal, constructive acts of understand-
+ing-hermeneutics or interpretations-most clearly exemplified in what he called "legal dogmatics."
+Gadamer's project may be understood in some measure as an attempt to comprehend all human
+1610
+HeinOnline -- 95 Yale L.J. 1610 1985-1986
+
+Violence and the Word
+tween thought and action. It is one thing to understand what ought to be
+done, quite another thing to do it. Doing entails an act of will and may
+require courage and perseverance. In the case of an individual's actions,
+we commonly think such qualities are functions of motivation, character,
+or psychology.
+Legal interpretation is practical activity in quite another sense, how-
+ever. The judicial word is a mandate for the deeds of others. Were that
+not the case, the practical objectives of the deliberative process could be
+achieved, if at all, only through more indirect and risky means. The con-
+text of a judicial utterance is institutional behavior in which others, occu-
+pying preexisting roles, can be expected to act, to implement, or otherwise
+to respond in a specified way to the judge's interpretation. Thus, the insti-
+tutional context ties the language act of practical understanding to the
+physical acts of others in a predictable, though not logically necessary,
+way.25 These interpretations, then, are not only "practical," they are,
+themselves, practices.
+understanding in terms of phronesis; that is, to take the category of applied thought that defines our
+situation as moral actors and generalize that situation to include all of life. "Understanding is, then, a
+particular case of the application of something universal to a particular situation." Id. at 278.
+For Gadamer, Aristotle is the source-the one who places action and striving at the center of moral
+philosophy. "Aristotle's description of the ethical phenomenon and especially of the virtue of moral
+knowledge .. . is in fact a kind of model of the problems of hermeneutics .. . . Application is
+neither a subsequent nor a merely occasional part of the phenomenon of understanding, but
+codetermines it as a whole from the beginning." Id. at 289. Gadamer proceeds from Aristotle by
+incorporating Heidegger's fundamental insight that we are always situated in the world, building the
+future worlds we shall inhabit. We do this through interpretation which is simultaneously a discovery
+of what we know and a new understanding of this "known" that enables us to discover more about
+what we know. Building on Heidegger, Gadamer posits the unity of all hermeneutics, all interpretive
+activity. Because all understanding is a building of both self and the world, it is in some measure
+practical and social, and therefore never divorced from ethics.
+The practice of legal interpretation by the judge is no different from any other hermeneutic exer-
+cise. It exemplifies the mutually and reflexively constructive effects of text, of prior understanding of
+text (tradition), of present application and understanding-as-applied, and of future commitment. And
+legal dogmatics are for Gadamer the "model for the unity of dogmatic and historical interest and so
+also for the unity of hermeneutics as a whole." J. WEINSHEIMER, GADAMER'S HERMENEUTICS, A
+READING OF Truth and Method 194 (1985).
+Gadamer's placement of legal dogmatics at the center of the general enterprise of understanding the
+human sciences represents an invitation-or perhaps a temptation-to those legal academics who con-
+ceive law as the building of a system of normative meaning. If one can begin to understand the entire
+world of the humanities, i.e., the many forms of interpretive activity, in terms of law, it should be
+possible to put this common element of interpretation at the heart of law itself. That, indeed, seems to
+have been the effect of the slow trickle down of ideas about interpretation to the legal academy in
+America.
+Ronald Dworkin synthesizes these interpretativist ideas in his new work, Law's Empire. R. DWOR-
+KIN, supra note 2. Law's Empire is a major elaboration of the reflexive, deliberative form of practical
+wisdom rooted in Aristotle's phronesis. It also builds upon Dworkin's own earlier critique of legal
+positivism to render "interpretation" the central activity in the judicial act while keeping the judicial
+act central to law. I fully agree that the dominant form of legal thought ought to be interpretive in the
+extended sense of the term. However, the emergence of interpretation as a central motif does not, by
+itself, reflect upon the way in which the interpretive acts of judges are simultaneously performative
+utterances in an institutional setting for violent behavior.
+25. One might say that institutions create the context for changing the contingent to the necessary.
+1611
+HeinOnline -- 95 Yale L.J. 1611 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+Formally, on both a normative and descriptive level, there are or may
+be rules and principles which describe the relationship between the inter-
+pretive acts of judges and the deeds which may be expected to follow from
+them. These rules and principles are what H.L.A. Hart called "secondary
+rules."'26 At least some secondary rules and principles identify the terms of
+cooperation between interpretation specialists and other actors in a social
+organization. Prescriptive secondary materials purport to set the norms for
+what those relations ought to be; descriptive secondary rules and princi-
+ples would generate an accurate prediction of what the terms of coopera-
+tion actually will be. Of course, in any given system there need be no
+particular degree of correspondence between these two sets of rules.
+Secondary rules and principles provide the template for transforming
+language into action, word into deed. As such they occupy a critical place
+in the analysis of legal interpretation proposed here. The legal philoso-
+pher may hold up to us a model of a hypothetical judge who is able to
+achieve a Herculean understanding of the full body of legal and social
+texts relevant to a particular case, and from this understanding to arrive
+at the single legally correct decision. But that mental interpretive act
+cannot give itself effect. The practice of interpretation requires an under-
+standing of what others will do with such a judicial utterance and, in
+many instances, an adjustment to that understanding, regardless of how
+misguided one may think the likely institutional response will be. Failing
+this, the interpreter sacrifices the connection between understanding what
+ought to be done and the deed, itself. But bridging the chasm between
+thought and action in the legal system is never simply a matter of will.
+The gap between understanding and action roughly corresponds to differ-
+ences in institutional roles and to the division of labor and of responsibil-
+ity that these roles represent. Thus, what may be described as a problem
+of will with respect to the individual becomes, in an institutional context,
+primarily a problem in social organization. Elsewhere I have labeled the
+specialized understanding of this relation, between the interpretation of
+the judge and the social organization required to transform it into a real-
+See H. ARENDT, supra note 24, at 14; see also J. SEARLE, SPEECH Acrs (1969).
+26. H.L.A. HART, THE CONCEPT OF LAW 77-106 (1961). Dworkin has ably challenged the
+supposedly central role of secondary rules in a theory of law. R. DWORKIN, TAKING RIGHTS SERI-
+ousi.y (1977). Dworkin's critique is most telling in undermining the idea that rules of recognition
+adequately account for certain principles which have the effect of law. See also Cover, supra note 2.
+However, some secondary rules of recognition are designed not to generate recognition of content of
+rules or principles but to recognize outcomes that are to be effectuated. That is, some secondary rules
+organize social cooperation in the violent deeds of the law. By and large the secondary rules that
+organize the law's violence are clearer and more hierarchical than those that organize the ideational
+content of the law. For an excellent review of the significance of Dworkin's position for the viability
+of legal positivism as a system, see Coleman, Negative and Positive Positivism, 11 J. LEG. STUD. 139
+(1982).
+27. See R. DWORKIN, supra note 26, at 105-30; see also infra note 61.
+1612
+HeinOnline -- 95 Yale L.J. 1612 1985-1986
+
+Violence and the Word
+ity, the hermeneutic of the texts of jurisdiction."' This specialized under-
+standing must lie at the heart of official judging.
+B. Interpretationw ithin a System Designed to Generate Violence
+The gulf between thought and action widens wherever serious violence
+is at issue, because for most of us, evolutionary, psychological, cultural
+and moral considerations inhibit the infliction of pain on other people. Of
+course, these constraints are neither absolute nor universal. There are
+some deviant individuals whose behavior is inconsistent with such inhibi-
+tions.2" Furthermore, almost all people are fascinated and attracted by vi-
+olence, even though they are at the same time repelled by it.30 Finally,
+and most important for our purposes, in almost all people social cues may
+overcome or suppress the revulsion to violence under certain circum-
+stances.31 These limitations do not deny the force of inhibitions against
+violence. Indeed, both together create the conditions without which law
+would either be unnecessary or impossible. Were the inhibition against
+violence perfect, law would be unnecessary; were it not capable of being
+overcome through social signals, law would not be possible.
+Because legal interpretation is as a practice incomplete without vio-
+lence-because it depends upon the social practice of violence for its effi-
+cacy-it must be related in a strong way to the cues that operate to by-
+pass or suppress the psycho-social mechanisms that usually inhibit peo-
+ple's actions causing pain and death. Interpretations which occasion vio-
+lence are distinct from the violent acts they occasion. When judges inter-
+pret the law in an official context, we expect a close relationship to be
+revealed or established between their words and the acts that they man-
+date. That is, we expect the judges' words to serve as virtual triggers for
+action. We would not, for example, expect contemplations or deliberations
+28. Cover, supra note 2, at 53-60.
+29. There are persons whose behavior is both violent toward others and apparently reckless in
+disregard of violent consequences to themselves. Moreover, this behavior is frequently accompanied by
+a strange lack of affect. The classification of such persons as suffering from mental illness is a matter
+of great dispute. Nonetheless, at the present time there are a variety of labels that may be appropri-
+ately applied on the basis of one authority or another. See, e.g., AM. PSYCHIATRIC Assoc., DIAGNOS-
+TIC: AND STArSTICAL MANUAL OF MENTAL DISORDERs 317-21 (3d ed. 1980) (diagnosing persons
+similar to those described above as suffering from "antisocial personality disorder"). For some earlier
+classifications, see W. M(:CORD & J. MCCORD, THE PSYCHOPATH 39-55 (1964).
+30. See, e.g., C. FORD & F. BEACH, PATTERNS OF SEXUAL BEHAVIOR 64-65 (1951) (varying
+cultural responses to linking pain and sexuality). Whether there is a deeper sado-masochistic attrac-
+tion to pain or violence involving more serious forms of imposition or suffering of pain that is simi-
+larly universal is a matter of dispute. The attraction to violence may also be accounted for in terms of
+an impulse of "aggression." See generally K. LORENZ, ON AGGRESSION (M. Wilson trans. 1966).
+31. See, e.g., S. MILGRAM, OBEDIENCE TO AUTHORITY (1974). The Milgram experiments are
+discussed and placed in the context of a much larger body of experimental work and anecdotal mate-
+rial on decisionmaking in I. JANIS & L. MANN, DECISION MAKING: A PSYCHOLOGICAL ANALYSIS
+OF CONFI.IC"rS, CHOICE, AND COMMITMENT 268-71 (1977).
+1613
+HeinOnline -- 95 Yale L.J. 1613 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+on the part of jailers and wardens to interfere with the action authorized
+by judicial words. But such a routinization of violent behavior requires a
+form of organization that operates simultaneously in the domains of action
+and interpretation. In order to understand the violence of a judge's inter-
+pretive act, we must also understand the way in which it is transformed
+into a violent deed despite general resistance to such deeds; in order to
+comprehend the meaning of this violent deed, we must also understand in
+what way the judge's interpretive act authorizes and legitimates it.
+While it is hardly possible to suggest a comprehensive review of the
+possible ways in which the organization of the legal system operates to
+facilitate overcoming inhibitions against intraspecific violence, I do wish to
+point to some of the social codes which limit these inhibitions. Here the
+literature of social psychology is helpful. The best known study and the-
+ory of social codes and their role in overcoming normal inhibitions against
+inflicting pain through violence is Milgram's Obedience to Authority.32 In
+the Milgram experiments, subjects administered what they thought were
+actually painful electric shocks to persons who they thought were the ex-
+perimental subjects. This was done under the direction or orders of sup-
+posed experimenters. The true experimental subjects-those who adminis-
+tered the shocks-showed a disturbingly high level of compliance with
+authority figures despite the apparent pain evinced by the false experi-
+mental subjects. From the results of his experiment, Milgram has formu-
+lated a theory that is in some respects incomplete. The most developed
+part of the theory relies heavily on the distinction he draws between act-
+ing in an "autonomous" state and acting in an "agentic" state. Milgram
+posits the evolution of a human disposition to act "agentically" within
+hierarchies, since the members of organized hierarchies were traditionally
+more likely to survive than were members of less organized social groups.
+Concurrently, the "conscience" or "superego" evolved in response to the
+need for autonomous behavior or judgment given the evolution of social
+structures. It is this autonomous behavior which inhibits the infliction of
+pain on others. But the regulators for individual autonomous behavior had
+to be capable of being suppressed or subordinated to the characteristics of
+agentic behavior when individuals acted within an hierarchical struc-
+ture.33 In addition to his theories of species-specific evolutionary mecha-
+nisms, Milgram also points to the individual-specific and culture-specific
+forms of learning and conditioning for agentic behavior within hierarchi-
+cal structures. Thus, in Milgram's explanation of the "agentic state," "in-
+stitutional systems of authority" play a key role in providing the requisite
+32. S. MILGRAM, supra note 31.
+33. Id. at 135-38. Milgram even suggests that there may be chemoneurological regulators of that
+subordination.
+1614
+HeinOnline -- 95 Yale L.J. 1614 1985-1986
+
+Violence and the Word
+cues for causing the shift from autonomous behavior to the agentic behav-
+ior cybernetically required to make hierarchies work."' According to Mil-
+gram, the cues for overcoming autonomous behavior or "conscience" con-
+sist of the institutionally sanctioned commands, orders, or signals of
+institutionally legitimated authorities characteristic of human hierarchical
+organization.35
+There are, of course, a variety of alternative ways to conceptualize the
+facilitation of violence through institutional roles. One could point, for ex-
+ample, to the theory that human beings have a natural tendency, an in-
+stinctual drive, to aggression, and that a variety of learned behaviors keep
+aggression within bounds. The institutionally specified occasions for vio-
+lence may then be seen as outlets for the aggression that we ordinarily
+would seek to exercise but for the restraints. Some scholars have, from a
+psychoanalytic perspective, hypothesized that formal structures for the
+perpetration of violence permit many individuals to deny themselves the
+fulfillment of aggressive wishes by "delegating" the violent activity to
+others.36
+There is an enormous difference between Milgram's theory of institu-
+tionalized violence and Anna Freud's or Konrad Lorenz's, and between
+the assumptions about human nature which inform them. But common to
+all of these theories is a behavioral observation in need of explanation.
+Persons who act within social organizations that exercise authority act vi-
+olently without experiencing the normal inhibitions or the normal degree
+of inhibition which regulates the behavior of those who act autonomously.
+When judges interpret, they trigger agentic behavior within just such an
+institution or social organization. On one level judges may appear to be,
+and may in fact be, offering their understanding of the normative world to
+their intended audience. But on another level they are engaging a violent
+mechanism through which a substantial part of their audience loses its
+capacity to think and act autonomously.
+34. Id. at 123-64.
+35. Id. at 125-30, 143-48. Milgram also quite properly subjects his theory to the question of
+whether the behavior elicited in his experiments might be better explained by postulating a general
+impulse or tendency to aggression which is built into the human being and which is normally sup-
+pressed by social factors. The experiments might then be understood as opportunities created by the
+removal of the social constraints upon violence for the pre-existing aggression to emerge. Id. at
+165-68. It is not clear that the two theories are mutually exclusive.
+36. Anna Freud follows Stone in calling the phenomenon "delegation." "The individual denies
+himself the fulfillment of aggressive wishes but concedes permission for it to some higher agency such
+as the state, the police, the military or legal authorities." A. Freud, Comments on Aggression, in
+PSYCHOANALYTIC PSYCHOLOGY OF NORMAL DEVELOPMENT 161 (1981) (Vol. VIII of THE WRrr-
+INGS OF ANNA FREUD). I am indebted to Diane Cover for this reference.
+1615
+HeinOnline -- 95 Yale L.J. 1615 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+C. Interpretation and the Effective Organization of Violence
+A third factor separates the authorization of violence as a deliberative,
+interpretive exercise from the deed. Deeds of violence are rarely suffered
+by the victim apart from a setting of domination.37 That setting may be
+manifestly coercive and violent or it may be the product of a history of
+violence which conditions the expectations of the actors. The imposition of
+violence depends upon the satisfaction of the social preconditions for its
+effectiveness. Few of us are courageous or foolhardy enough to act vio-
+lently in an uncompromisingly principled fashion without attention to the
+likely responses from those upon whom we would impose our wills.38
+If legal interpretation entails action in a field of pain and death, we
+must expect, therefore, to find in the act of interpretation attention to the
+conditions of effective domination. To the extent that effective domination
+is not present, either our understanding of the law will be adjusted so that
+it will require only that which can reasonably be expected from people in
+conditions of reprisal, resistance and revenge,39 or there will be a crisis of
+37. My colleague, Harlon Dalton, reports a view among some people who have clerked for judges
+on the Second Circuit Court of Appeals that the judges seem reluctant to affirm convictions from the
+bench when they believe the defendant to be in the courtroom. Dalton suggests two reasons for the
+tendency to reserve decision in such cases. First, the judges desire to give the appearance of delibera-
+tion in order to minimize, to the extent possible, the loser's dissatisfaction with the outcome; second,
+and more important, the judges desire to avoid having a disgruntled defendant (whose inhibitions
+against perpetrating violence are not what they might be) decide to "approach the bench," as it were.
+Dalton relates the scene he witnessed when clerking for a then-quite-new district judge who made the
+mistake of pronouncing sentence in the small robing room behind the courtroom. (The courtroom was
+temporarily unavailable for one reason or another.) The defendant's request that his family be present
+during sentencing was of course granted. As a result, the judge had to confront a weeping wife,
+dejected children, a lawyer who was now able to emote on an intimate stage, and a defendant who
+was able to give his allocution eye-to-eye with the judge from a distance of, at most, ten feet. It was
+impossible, therefore, for the judge to hide or insulate himself from the violence that would flow from
+the words he was about to utter, and he was visibly shaken as he pronounced sentence. Even so,
+neither he nor Dalton was prepared for what followed. The defendant began alternately shouting and
+begging the judge to change his mind; his wife began sobbing loudly; the defendant lurched forward
+with no apparent purpose in mind except, literally, to get to the judge who was doing this awful thing
+to him. Because the seating in the robing room was not designed with security in mind, it took the
+marshall a moment or two-a long moment or two-to restrain the defendant. Then, because the
+room's only exit was behind where the defendant and his family had been seated, the judge had to
+wait until they were, respectively, forced and importuned to leave before he could make his exit, thus
+witnessing first hand how his words were translated into deeds. I am grateful to Harlon Dalton for
+these accounts.
+38. It is the fantasy of so acting which accounts for the attraction of so many violent heroes.
+Where systems of deterrence and justice do in fact depend, or have depended, upon high risk acts of
+violence, there have been great temptations to avoid too high principles. In many feuding societies the
+principle social problem appears not to have been how to stop feuds, but how to get reluctant protago-
+nists to act in such a manner as to protect vulnerable members or avenge them. Miller, Choosing the
+Avenger: Some Aspects of the Bloodfeud in Medieval Iceland and England, 1 LAW AND HsT. REv.
+159, 160-62, 175 (1983).
+39. See the corpus of Miller's work on the Icelandic feuds. Id. at 175-94. See also W. Miller,
+Gift, Sale, Payment, Raid: Case Studies in the Negotiation and Classification of Exchange in Medie-
+val Iceland, 61 SPECUILUM 18-50 (1986); cf. E. AYERS, VENGEANCE AND JUSTICE: CRIME AND
+PUNISHMENT IN THE 19TH CENTURY AMERICAN SOUTH 18 (1984) ("Honor and legalism. . . are
+1616
+HeinOnline -- 95 Yale L.J. 1616 1985-1986
+
+Violence and the Word
+credibility. The law may come over time to bear only an uncertain rela-
+tion to the institutionally implemented deeds it authorizes. Some systems,
+especially religious ones, can perpetuate and even profit from a dichotomy
+between an ideal law and a realizable one.40 But such a dichotomy has
+immense implications ifb uilt into the law. In our own secular legal sys-
+tem, one must assume this to be an undesirable development.
+D. Legal Interpretation as Bonded Interpretation
+Legal interpretation, therefore, can never be "free;" it can never be the
+function of an understanding of the text or word alone. Nor can it be a
+simple function of what the interpreter conceives to be merely a reading of
+the "social text," a reading of all relevant social data. Legal interpretation
+must be capable of transforming itself into action; it must be capable of
+overcoming inhibitions against violence in order to generate its requisite
+deeds; it must be capable of massing a sufficient degree of violence to deter
+reprisal and revenge.
+In order to maintain these critical links to effective violent behavior,
+legal interpretation must reflexively consider its own social organization.
+In so reflecting, the interpreter thereby surrenders something of his inde-
+pendence of mind and autonomy of judgment, since the legal meaning that
+some hypothetical Hercules (Hyporcules) might construct out of the sea of
+our legal and social texts is only one element in the institutional practice
+we call law. Coherent legal meaning is an element in legal interpretation.
+But it is an element potentially in tension with the need to generate effec-
+tive action in a violent context. And neither effective action nor coherent
+meaning can be maintained, separately or together, without an entire
+structure of social cooperation. Thus, legal interpretation is a form of
+bonded interpretation, bound at once to practical application (to the deeds
+it implies) and to the ecology of jurisdictional roles (the conditions of ef-
+fective domination). The bonds are reciprocal. For the deeds of social vio-
+lence as we know them also require that they be rendered intelligi-
+ble-that they be both subject to interpretation and to the specialized and
+constrained forms of behavior that are "roles." And the behavior within
+roles that we expect can neither exist without the interpretations which
+explain the otherwise meaningless patterns of strong action and inaction,
+incompatible ....").
+40. For example, the account of the dispute within Shi'ite legal theory as to whether it was per-
+missible to set up an avowedly Shiah government before the advent of the Twelfth Imam reflects this
+dichotomy in a religious context. See R. MOTTAHEDEH, THE MANTLE OF THE PROPHET: RELIGION
+AND POLITU-s IN IRAN 172-73 (1985). According to Shi'ite belief, only the advent of this "Imam of
+the age" would bring the possibility of a perfect Islamic political community. Id. at 92-93.
+1617
+HeinOnline -- 95 Yale L.J. 1617 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+nor be intelligible without understanding the deeds they are designed to
+effectuate.
+Legal interpretation may be the act of judges or citizens, legislators or
+presidents, draft resisters or right-to-life protesters. Each kind of inter-
+preter speaks from a distinct institutional location. Each has a differing
+perspective on factual and moral implications of any given understanding
+of the Constitution. The understanding of each will vary as roles and
+moral commitments vary. But considerations of word, deed, and role will
+always be present in some degree. The relationships among these three
+considerations are created by the practical, violent context of the practice
+of legal interpretation, and therefore constitute the most significant aspect
+of the legal interpretive process.
+III. INTERPRETATION AND EFFECTIVE ACTION: THE CASE OF
+CRIMINAL SENTENCING
+The bonded character of legal interpretation can be better appreciated
+by further unpacking a standard judicial act-the imposition of a sentence
+in a criminal case-this time from the judge's perspective. Such an act has
+few of the problematic remedial and role complications that have occupied
+commentators on the judicial role with regard to affirmative relief in insti-
+tutional reform litigation or complex "political questions" cases."' In im-
+posing sentences in criminal cases, judges are doing something clearly
+within their province. I do not mean to suggest that there are not dis-
+agreements about how the act should be carried out-whether with much
+or little discretion, whether attending more to objective and quantifiable
+criteria or to subjective and qualitative ones. But the act is and long has
+been a judicial one, and one which requires no strange or new modes of
+interaction with other officials or citizens.
+Taken for granted in this judicial act is the structure of cooperation that
+ensures, we hope, the effective domination of the present and prospective
+victim of state violence-the convicted defendant. The role of judge be-
+comes dangerous, indeed, whenever the conditions for domination of the
+prisoner and his allies are absent. Throughout history we have seen the
+products of ineffective domination in occasional trials in our country and
+in many instances in other nations.42 The imposition of a sentence thus
+41. My argument is not simply that there are prudential considerations in some sub-class of cases
+that render it wise or politic or necessary for the judge to defer to supposed wishes or policies of other
+political actors. Rather, my point here is that in every act-even one thought to "belong" to
+judges-there is a necessary element of deference to the requirements of transforming judicial thought
+into violent action.
+42. Ineffective domination has resulted, for example, in the extraordinary security precautions
+that take place in the more significant mafia trials in Italy. It is reflected in the failures of Weimar
+justice. See P. GAY, WEIMAR CULTURE: THE OUTSIDER AS INSIDER 20-21 (1968). We ought not to
+1618
+HeinOnline -- 95 Yale L.J. 1618 1985-1986
+
+Violence and the Word
+involves the roles of police, jailers or other enforcers who will restrain the
+prisoner (or set him free subject to effective conditions for future restraint)
+upon the order of the judge, and guards who will secure the prisoner from
+rescue and who will protect the judge, prosecutors, witnesses and jailers
+from revenge.
+The judge in imposing a sentence normally takes for granted the role
+structure which might be analogized to the "transmission" of the engine of
+justice. The judge's interpretive authorization of the "proper" sentence
+can be carried out as a deed only because of these others; a bond between
+word and deed obtains only because a system of social cooperation exists.
+That system guarantees the judge massive amounts of force-the condi-
+tions of effective domination-if necessary. It guarantees-or is supposed
+to-a relatively faithful adherence to the word of the judge in the deeds
+carried out against the prisoner.
+A. Revealing Latent Role Factors
+If the institutional structure-the system of roles-gives the judge's un-
+derstanding its effect, thereby transforming understanding into "law," so
+it confers meaning on the deeds which effect this transformation, thereby
+legitimating them as "lawful." A central task of the legal interpreter is to
+attend to the problematic aspects of the integration of role, deed, and
+word, not only where the violence (i.e., enforcement) is lacking for mean-
+ing, but also where meaning is lacking for violence.
+In a nation like ours, in which the conditions of state domination are
+rarely absent, it is too easy to assume that there will be faithful officials to
+carry out what the judges decree, and judges available to render their acts
+lawful. Just how crucial this taken-for-granted structure is may be appre-
+ciated by examining a case in which it is lacking. The decisions by Judge
+Herbert Stern in United States v. Tiede4 display an unusually lucid ap-
+preciation of the significance of the institutional connections between the
+judicial word and the violent deeds it authorizes.
+Judge Stern was (and is) a federal district judge in New Jersey. In 1979
+he was appointed an Article II judge for the United States Court for Ber-
+lin. This unique event, the only convening of the Court for Berlin, was a
+response to the reluctance of West Germany to prosecute two skyjackers
+assume that our own legal system is entirely free from such problems. While judges, on the whole,
+have fared remarkably well given the number of people whom they injure, there are occasional in-
+slances of violence directed at judges. And the problem of protecting witnesses is a persistent and
+serious one for the criminal justice system.
+43. 86 F.R.D. 227 (U.S. Ct. for Berlin 1979). The reported opinion encompasses only certain
+procedural questions that arose in the trial, primarily the question of whether the defendants were
+entitled to a jury trial. A comprehensive account of the trial and the various rulings made during its
+course can be found in H. STE.RN, JUDGMENT IN BERLIN (1984).
+1619
+HeinOnline -- 95 Yale L.J. 1619 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+who had used a toy gun to threaten the crew of a Polish airliner en route
+from Gdansk to East Berlin and had forced it to land in West Berlin. The
+formal status of Berlin as an "occupied" city enabled the Germans to
+place the responsibility for prosecution of the skyjacker-refugees upon the
+Americans."
+Stern wrote a moving account of the unusual trial which ensued, in-
+cluding his long struggle with the United States government over the gen-
+eral question of whether the Constitution of the United States would gov-
+ern the proceedings. After a jury trial, opposed by the prosecution, and a
+verdict of guilty on one of the charges, Stern was required to perform the
+"simple" interpretive act of imposing the appropriate sentence. As a mat-
+ter of interpreting the governing materials on sentencing it might indeed
+have been a "simple" act-one in which relatively unambiguous German
+law was relatively unambiguously to be applied by virtue of American
+45
+law governing a court of occupation.
+Stern brilliantly illuminated the defects in such a chain of reasoning.
+The judicial interpretive act in sentencing issues in a deed-the actual
+performance of the violence of punishment upon a defendant. But these
+two-judicial word and punitive deed-are connected only by the social
+cooperation of many others, who in their roles as lawyers, police, jailers,
+wardens, and magistrates perform the deeds which judicial words author-
+ize. Cooperation among these officials is usually simply assumed to be
+present, but, of course, the conditions which normally ensure the success
+of this cooperation may fail in a variety of ways.
+This is Judge Stern's account of his sentencing of the defendant, Hans
+Detlef Alexander Tiede:
+Gentlemen [addressing the State Department and Justice Depart-
+ment lawyers], I will not give you this defendant. . . . I have kept
+him in your custody now for nine months, nearly. . . . You have
+persuaded me. I believe, now, that you recognize no limitations of
+due process ...
+I don't have to be a great prophet to understand that there is
+probably not a great future for the United States Court for Berlin
+here. [Stern had just been officially "ordered" not to proceed with a
+civil case brought against the United States in Stern's Court. The
+case was a last ditch attempt in a complicated proceeding in which
+44. H. STERN, supra note 43, at 3-61.
+45. There were several significant interpretive issues involved in the sentencing other than the one
+treated below: for example, whether an offer of a deal by the prosecution to the defendant in return
+for not persisting with the demand for a jury trial should operate to limit any sentence imposed to one
+no more severe than the proffered deal, id. at 344-45, and whether the judge was obligated to apply
+German law which carried a mandatory minimum sentence of three years for the offense of which
+Tiede was convicted, id. at 350-55.
+1620
+HeinOnline -- 95 Yale L.J. 1620 1985-1986
+
+Violence and the Word
+the West Berlin government had acquired park land-allegedly in
+violation of German law-for construction of a housing complex for
+the United States Army Command in Berlin. The American occupa-
+tion officials had refused to permit the German courts to decide the
+case as it affected the interests of the occupation authority. American
+Ambassador Walter Stoessel had officially written Stern on the day
+before the sentencing that "your appointment as a Judge of the
+United States Court for Berlin does not extend to this matter.'"'4 l
+Under those circumstances, who will be here to protect Tiede if I
+give him to you for four years? Viewing the Constitution as non-
+existent, considering yourselves not restrained in any way, who will
+stand between you and him? What judge? What independent magis-
+trate do you have here? What independent magistrate will you per-
+mit here?
+When a judge sentences, he commits a defendant to the cus-
+tody-in the United States he says, 'I commit to the custody of the
+Attorney General of the United States'-et cetera. Here I suppose he
+says, I commit to the custody of the Commandant, or the Secretary
+of State, or whatever .. . . I will not do it. Not under these
+circumstances ...
+I sentence this defendant to time served. You . . .are a free man
+right now.4
+Herbert Stern's remarkable sentence is not simply an effective, moving
+plea for judicial independence, a plea against the subservience which
+Stern's government tried to impose. It is a dissection of the anatomy of
+criminal punishment in a constitutional system. As such, it reveals the
+interior role of the judicial word in sentencing. It reveals the necessity of a
+latent role structure to render the judicial utterance morally intelligible.
+And it proclaims the moral unintelligibility of routine judicial utterance
+when the structure is no longer there. Almost all judicial utterance be-
+comes deed through the acts of others-acts embedded in roles. The judge
+must see, as Stern did, that the meaning of her words may change when
+the roles of these others change. We tend overwhelmingly to assume that
+constitutional violence is always performed within institutionally sanc-
+tioned limits and subject to the institutionally circumscribed, role-bound
+action of others. Stern uncovered the unreliability of that assumption in
+the Berlin context and "reinterpreted" his sentence accordingly.48
+46. Id. at 353.
+47. Id. at 370.
+48. Judge Stern confronted an unusual situation-no independent system of courts, and no ex-
+plicit denial by those in control of official violence that their power was constitutionally limited. In a
+sense the situation was one of de jure lawlessness. But Stem's reasoning reaches beyond the case at
+hand; it may be extended to include, for example, the defacto state of lawlessness that attends life in
+many United States prisons. Institutional reform litigation-whether applied to prisons, schools, or
+1621
+HeinOnline -- 95 Yale L.J. 1621 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+B. The Death Sentence as an Interpretive Act of Violence
+The questions of whether the death sentence is constitutionally permis-
+sible and, if it is, whether to impose it, are among the most difficult
+problems a judge encounters. While the grammar of the capital sentence
+may appear to be similar to that of any other criminal sentence, the capi-
+tal sentence as interpretive act is unique in at least three ways. The judge
+must interpret those constitutional and other legal texts which speak to
+the question of the proper or permissible occasions for imposition of a
+capital sentence. She must understand the texts in the context of an appli-
+cation that prescribes the killing of another person. And she must act to
+set in motion the acts of others which will in the normal course of events
+end with someone else killing the convicted defendant. Our judges do not
+ever kill the defendants themselves. They do not witness the execution.
+Yet, they are intensely aware of the deed their words authorize.49
+The confused and emotional situation which now prevails with respect
+to capital punishment in the United States is in several ways a product of
+what I have described as the bonded character of legal interpretation-the
+complex structure of relationships between word and deed. To any person
+endowed with the normal inhibitions against the imposition of pain and
+death, the deed of capital punishment entails a special measure of the
+reluctance and abhorrence which constitute the gulf that must be bridged
+between interpretation and action. Because in capital punishment the ac-
+tion or deed is extreme and irrevocable, there is pressure placed on the
+word-the interpretation that establishes the legal justification for the
+act.50 At the same time, the fact that capital punishment constitutes the
+most plain, the most deliberate, and the most thoughtful manifestation of
+legal interpretation as violence makes the imposition of the sentence an
+especially powerful test of the faith and commitment of the interpreters.51
+hospitals-entails complex questions of judicial remedial power. Very often these questions are
+framed around problems of discretion in the administration of remedies. When deciding whether to
+issue an injunction, judges often "interpret" the law in light of the difficulties involved in effectuating
+their judgments. But Stem's decision in Tiede pursues a different path. A judge may or may not be
+able to change the deeds of official violence, but she may always withhold the justification for this
+violence. She may or may not be able to bring a good prison into being, but she can refrain from
+sentencing anyone to a constitutionally inadequate one. Some judges have in fact followed this course.
+See, e.g., Barnes v. Government of the Virgin Islands, 415 F. Supp. 1218 (D.V.I. 1976).
+49. Contrast the discreet distance judges now keep from capital sentences with the pageant of
+capital punishment in Hay, Property, Authority and the Criminal Law, in ALBION'S FATAL TREE:
+CRIME AND SOCIETY IN EIGHTEENTH-CENTURY ENGLAND 28-29 (1975).
+50. This pressure for more certain justification of the death sentence lies behind the development
+of the "super due process" position with regard to death penalty cases. See, e.g., Radin, Cruel Punish-
+ment and Respect for Persons: Super Due Process for Death, 53 S. CAL. L. REV. 1143 (1980)
+(describing Supreme Court's Eighth Amendment procedural safeguards). No more powerful statement
+of the ultimate implications of this position is to be found than in C. BLACK, CAPITAL PUNISHMENT:
+THE INEVITABILITY OF CAPRICE AND MISTAKE (2d ed. 1981).
+51. The decade-long moratorium on death sentences may quite intelligibly be understood as a
+1622
+HeinOnline -- 95 Yale L.J. 1622 1985-1986
+
+Violence and the Word
+Not even the facade of civility, where it exists, can obscure the violence of
+a death sentence.
+Capital cases, thus, disclose far more of the structure of judicial inter-
+pretation than do other cases. Aiding this disclosure is the agonistic char-
+acter of law: The defendant and his counsel search for and exploit any
+part of the structure that may work to their advantage. And they do so to
+an extreme degree in a matter of life and death.52
+Thus, in the typical capital case in the United States, the judge is con-
+stantly reminded of that which the defense constantly seeks to exploit: The
+structure of interdependent roles that Judge Stern found to be potentially
+lacking in Berlin in the Tiede case. Consider. Not only do the actors in
+these roles carry out the judicial decision-they await it! All of them know
+that the judges will be called upon, time and again, to consider exhaus-
+tively all interpretive avenues that the defense counsel might take to avoid
+the sentence. And they expect that no capital sentence will in fact be car-
+ried out without several substantial delays during which judges consider
+some defense not yet fully decided by that or other courts.53 The almost
+stylized action of the drama requires that the jailers stand visibly ready to
+receive intelligence of the judicial act-even if it be only the act of decid-
+ing to take future action. The stay of execution, though it be noth-
+ing-literally nothing-as an act of textual exegesis, nonetheless consti-
+tutes an important form of constitutional interpretation. For it shows the
+violence of the warden and executioner to be linked to the judge's deliber-
+ative act of understanding. The stay of execution, the special line open,
+permits, or more accurately, requires the inference to be drawn from the
+failure of the stay of execution. That too is the visible tie between word
+and deed. 4 These wardens, these guards, these doctors, jump to the
+failure of will on the part of a majority of the Court which had, at some point in that period, decided
+both that there was to be no general constitutional impediment to the imposition of the death sentence,
+and that they were not yet prepared to see the states begin a series of executions. Of course, through-
+out the period, new procedural issues were arising. But it does not seem far-fetched to suppose that
+there was also a certain squeamishness about facing the implications of the majority position on the
+constitutional issue. See Note, Summary Processes and the Rule of Law- Expediting Death Penalty
+Cases in the Federal Courts, 95 YAI.E L.J. 349, 354 (1985) (citing Court's "often uncertain and
+tortuous" death penalty jurisprudence during this period).
+52. See, e.g., Sullivan v. Wainwright, 464 U.S. 109, 112 (1983) (Burger, C.J., concurring in
+denial of stay) (Chief Justice Burger accused death penalty lawyers of turning "the administration of
+justice into a sporting contest").
+53. The current Court (or a majority of it) is very hostile to such delays. Barefoot v. Estelle, 463
+U.S. 880 (1983), Zant v. Stephens, 462 U.S. 862 (1983), California v. Ramos, 463 U.S. 992 (1983),
+and Barclay v. Florida, 463 U.S. 939 (1983), mark a reversal of the trend to permit or encourage a
+full hearing of all plausible claims or defenses. Nonetheless, even with this new impatience to be on
+with the execution, there are usually substantial delays at some point before execution.
+54. Consider the opinions of the various Justices in Rosenberg v. United States, 346 U.S. 273
+(1953), vacating, in special term, the stay of the sentence of death that had been granted by Justice
+Douglas. For an analysis of the deliberations, see Parrish, Cold WarJ ustice: The Supreme Court and
+the Rosenbergs, 82 AM. HIST. REv. 805-42 (1977).
+1623
+HeinOnline -- 95 Yale L.J. 1623 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+judge's tune. If the deed is done, it is a constitutional deed-one integrated
+to and justifiable under the proper understanding of the word. In short, it
+is the stay, the drama of the possibility of the stay, that renders the execu-
+tion constitutional violence, that makes the deed an act of interpretation.
+For, after all, executions I can find almost anywhere. If people disap-
+pear, if they die suddenly and without ceremony in prison, quite apart
+from any articulated justification and authorization for their demise, then
+we do not have constitutional interpretation at the heart of this deed, nor
+do we have the deed, the death, at the heart of the Constitution. The
+problem of incapacity or unwillingness to ensure a strong, virtually cer-
+tain link between judicial utterance and violent deed in this respect char-
+acterizes certain legal systems at certain times.55 It characterized much of
+the American legal system well into the twentieth century; lynching, for
+example, was long thought to be a peculiarly American scandal.58 It was a
+scandal which took many forms. Often it entailed taking the punishment
+of alleged offenders out of the hands of courts entirely. But sometimes it
+entailed the carrying out of death sentences without abiding by the or-
+dered processes of appeals and post-conviction remedies. Such was the
+outcome, for example, of the notorious "Leo Frank" case.5
+The plain fact is that we have come a good way since 1914 with respect
+to our expectations that persons accused of capital crimes will be given a
+trial, will be sentenced properly, and will live to see the appointed time of
+the execution of their sentence. In fact, we have come to expect near per-
+fect coordination of those whose role it is to inflict violence subject to the
+interpretive decisions of the judges. We have even come to expect coordi-
+nated cooperation in securing all plausible judicial interpretations on the
+subject."'
+Such a well-coordinated form of violence is an achievement. The care-
+55. See, e.g., R. BROWN, STRAIN OF VIOLENCE, HISTORICAL STUDIES OF AMERICAN VIOLENCE
+AND VIGILANTISM 144-79 (1975) (discussing legal attitudes toward American vigilantism).
+56. See R. ZANGRANDO, THE NAACP CRUSADE AGAINST LYNCHING, 1909-1950, at 9-11
+(1980).
+57. Leo Frank was a Jewish New Yorker managing a pencil factory in Georgia. He was accused
+of having raped and murdered a 14-year-old employee of the factory. The trial (and conviction) took
+place amidst a mob atmosphere in which the Court was required to warn the defendant and his
+counsel not to be present in the courtroom at the rendering of the verdict lest they be violently
+harmed. After Frank's conviction he was forcibly removed from a prison labor gang and lynched. The
+case was instrumental in the formation of the B'nai Brith Anti-Defamation League. Collateral relief
+was denied by the Supreme Court in Frank v. Mangum, 237 U.S. 309 (1915), over the strong dissent
+of Justice Holmes and Justice Hughes.
+58. I am not, of course, suggesting that unauthorized violence on the part of police, jailers, etc., no
+longer exists. But the quasi-public position that the "justice" of the mob should supplant the ordered
+process of the courts is no longer prevalent. See the extraordinary article by Charles Bonaparte, Lynch
+Law and its Remedy, 8 YALE L.J. 335, 336 (1899) (arguing that underlying purpose of lynching is
+"not to violate, but to vindicate, the law; or, to speak more accurately, . • • its 'adjective' part . . .is
+disregarded that its 'substantiative' [sic] part may be preserved").
+1624
+HeinOnline -- 95 Yale L.J. 1624 1985-1986
+
+Violence and the Word
+ful social understandings designed to accomplish the violence that is capi-
+tal punishment, or to refrain from that act, are not fortuitous or casual
+products of circumstance. Rather, they are the products of design, tied
+closely to the secondary rules and principles which provide clear criteria
+for the recognition of these and other interpretive acts as, first and fore-
+most, judicial acts. Their "meaning" is always secondary to their prov-
+enance. No wardens, guards or executioners wait for a telephone call from
+the latest constitutional law scholar, jurisprude or critic before executing
+prisoners, no matter how compelling the interpretations of these others
+may be. And, indeed, they await the word of judges only insofar as that
+word carries with it the formal indicia of having been spoken in the judi-
+cial capacity. The social cooperation critical to the constitutional form of
+cooperation in violence is, therefore, also predicated upon the recognition
+of the judicial role and the recognition of the one whose utterance per-
+forms it.
+There are, of course, some situations in which the judicial role is not
+well-defined but is contested. Nonetheless, social cooperation in constitu-
+tional violence as we know it requires at least that it be very clear who
+speaks as a judge and when. The hierarchical ordering among judicial
+voices must also be clear or subject to clarification. We have established,
+then, the necessity for rules and principles that locate authoritative inter-
+preters and prescribe action on the basis of what they say. The rules and
+principles that locate authoritative voices for the purposes of action point
+to the defect in a model of judicial interpretation that centers around a
+single coherent and consistent mind at work. For here in the United States
+there is no set of secondary rules and principles more fundamental than
+those which make it impossible for any single judge, however Herculean
+her understanding of the law, ever to have the last word on legal meaning
+as it affects real cases. In the United States-with only trivial excep-
+tions-no judge sitting alone on a significant legal issue is immune from
+appellate review. Conversely, whenever any judge sits on the court of last
+resort on a significant legal issue, that judge does not sit alone. A complex
+of secondary rules determines this situation. These rules range from the
+statutes which generally give a right to at least one appeal from final
+judgments of trial courts, to special statutes which require that there be
+appellate review of death sentences, to the constitutional guarantee that
+the writ of habeas corpus not be suspended.59 Final appellate courts in the
+United States have always had at least three judges. Some state constitu-
+59. See, e.g., 28 U.S.C. § 1291 (1982) (providing for appeals as of right from final decisions of
+district courts); id. §§ 46(b), 46(c) (providing for hearing of cases by U.S. Courts of Appeals in panels
+of three judges unless rehearing en banc is ordered); U.S. CONsr. art. I, § 9, ci. 2 (protecting writ of
+habeus corpus).
+1625
+HeinOnline -- 95 Yale L.J. 1625 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+tions specify the number. No explicit provision in the United States Con-
+stitution defines the Supreme Court in such a way that requires that it be
+made up of more than a single judge. But both invariant practice and
+basic understandings since 1789 have made the idea of a single-Justice
+Supreme Court a practical absurdity. Given the clarity of the expectation
+that Supreme judicial bodies be plural, it seems doubtful to me whether
+such an imaginary Court should be held to satisfy the constitutional re-
+quirement that there be a Supreme Court."0
+If some hypothetical Herculean judge should achieve an understanding
+of constitutional and social texts-an interpretation-such that she felt the
+death penalty to be a permissible and appropriate punishment in a partic-
+ular case, she would be confronted at once with the problem of translating
+that conviction into a deed. Her very understanding of the constitutional-
+ity of the death penalty and the appropriateness of its imposition would
+carry with it-as part of the understanding-the knowledge that she could
+not carry out the sentence herself. The most elementary understanding of
+our social practice of violence ensures that a judge know that she herself
+cannot actually pull the switch. This is not a trivial convention. For it
+means that someone else will have the duty and opportunity to pass upon
+what the judge has done. Were the judge a trial judge, and should she
+hand down an order to execute, there would be another judge to whom
+application could be made to stay or reverse her decision. The fact that
+someone else has to carry out the execution means that this someone else
+may be confronted with two pieces of paper: let us say a warrant for
+execution of the sentence of death at a specified time and place and a stay
+of execution from an appellate tribunal. The someone else-the warden,
+for simplicity's sake-is expected to determine which of these two pieces
+of paper to act upon according to some highly arbitrary, hierarchical prin-
+ciples which have nothing to do with the relative merits or demerits of the
+arguments which justify the respective substantive positions.
+It is crucial to note here that if the warden should cease paying rela-
+tively automatic heed to the pieces of paper which flow in from the judges
+according to these arbitrary and sometimes rigid hierarchical rules and
+principles, the judges would lose their capacity to do violence. They would
+be left with only the opportunity to persuade the warden and his men to
+do violence. Conversely, the warden and his men would lose their capacity
+to shift to the judge primary moral responsibility for the violence which
+60. 28 U.S.C. § 1 (1982) (providing for Supreme Court of nine Justices, of whom six constitute a
+quorum). The one rather significant historical exception to the generalization in the text gives me
+some pause with respect to the conclusion about the constitutionality of a single-Justice Supreme
+Court. It is true, of course, that the Chancellor was, in form, a single-justice high court. And, while it
+has not been the rule, some American court systems have preserved a chancery, though often with
+multi-judge appellate courts in equity.
+1626
+HeinOnline -- 95 Yale L.J. 1626 1985-1986
+
+Violence and the Word
+they themselves carry out. They would have to pass upon the justifications
+for violence in every case themselves, thereby turning the trial into a sort
+of preliminary hearing. There are, indeed, many prisons in this world
+that bear some resemblance to this hypothetical situation. There are sys-
+tems in which the most significant punishment decisions are made by
+those who either perform or have direct supervisory authority over the
+performance of the violence itself.
+We have done something strange in our system. We have rigidly sepa-
+rated the act of interpretation-of understanding what ought to be
+done-from the carrying out of this "ought to be done" through violence.
+At the same time we have, at least in the criminal law, rigidly linked the
+carrying out of judicial orders to the act of judicial interpretation by rela-
+tively inflexible hierarchies of judicial utterances and firm obligations on
+the part of penal officials to heed them. Judges are both separated from,
+and inextricably linked to, the acts they authorize.
+This strange yet familiar attribute of judging in America has the effect
+of ensuring that no judge acts alone. Ronald Dworkin's "Judge as Hercu-
+les"' may appear to be a useful construct for understanding how a
+judge's mind ought to work. But it is misleading precisely because it sug-
+gests, if it does not require, a context which, in America, is never present.
+There may or may not be any sense in thinking about a judicial under-
+standing of the law apart from its application. But one thing is near cer-
+tain. The application of legal understanding in our domain of pain and
+death will always require the active or passive acquiescence of other judi-
+cial minds. It is possible to wear this point down to the most trite observa-
+tion of professional practice. A judge who wishes to transform her under-
+standing into deed must, if located on a trial court, attend to ensuring that
+her decision not be reversed. If on an appellate court, she must attend to
+getting at least one other judge to go along. It is a commonplace that
+many "majority" opinions bear the scars or marks of having been written
+primarily to keep the majority. Many a trial court opinion bears the scars
+of having been written primarily to avoid reversal.
+Now the question arises, which is the true act of legal interpretation?
+The hypothetical understanding of a single mind placed in the admittedly
+hypothetical position of being able to render final judgments sitting alone?
+Or the actual products of judges acting under the constraint of potential
+group oversight of all decisions that are to be made real through collective
+61. Dworkin's Hercules appears first in the article "Hard Cases." Dworkin, Hard Cases, 89
+HARV. L. REv. 1057 (1975). Hercules lives on in LAW's EMPIRE, supra note 2, at 239-75, wherein
+he assumes the mantle of a model judge of "integrity," which seems not to be primarily a personal
+quality for Dworkin but an interpretive posture which values intellectual consistency and coherence.
+Id. at 164-67.
+1627
+HeinOnline -- 95 Yale L.J. 1627 1985-1986
+
+The Yale Law Journal Vol. 95: 1601, 1986
+violence? The single decision of a hypothetical Hercules is likely to be
+more articulate and coherent than the collective decision of many judges
+who may make compromises to arrive at that decision. But Hyporcules
+does not and cannot carry the force of collective violence. This defect is
+intrinsic to the definition of legal interpretation as a mental activity of a
+person rather than as the violent activity of an organization of people.
+So let us be explicit. If it seems a nasty thought that death and pain are
+at the center of legal interpretation, so be it. It would not be better were
+there only a community of argument, of readers and writers of texts, of
+interpreters. As long as death and pain are part of our political world, it
+is essential that they be at the center of the law. The alternative is truly
+unacceptable-that they be within our polity but outside the discipline of
+the collective decision rules and the individual efforts to achieve outcomes
+through those rules. The fact that we require many voices is not, then, an
+accident or peculiarity of our jurisdictional rules. It is intrinsic to
+whatever achievement is possible in the domesticating of violence.
+CONCLUSION
+There is a worthy tradition that would have us hear the judge as a
+voice of reason; see her as the embodiment of principle. The current aca-
+demic interest in interpretation, the attention to community of meaning
+and commitment, is apologetic neither in its intent or effect. The trend is,
+by and large, an attempt to hold a worthy ideal before what all would
+agree is an unredeemed reality. I would not quarrel with the impulse that
+leads us to this form of criticism.
+There is, however, danger in forgetting the limits which are intrinsic to
+this activity of legal interpretation; in exaggerating the extent to which
+any interpretation rendered as part of the act of state violence can ever
+constitute a common and coherent meaning. I have emphasized two rather
+different kinds of limits to the commonality and coherence of meaning that
+can be achieved. One kind of limit is a practical one which follows from
+the social organization of legal violence. We have seen that in order to do
+that violence safely and effectively, responsibility for the violence must be
+shared; law must operate as a system of cues and signals to many actors
+who would otherwise be unwilling, incapable or irresponsible in their vio-
+lent acts. This social organization of violence manifests itself in the sec-
+ondary rules and principles which generally ensure that no single mind
+and no single will can generate the violent outcomes that follow from in-
+terpretive commitments. No single individual can render any interpreta-
+tion operative as law-as authority for the violent act. While a conver-
+gence of understandings on the part of all relevant legal actors is not
+necessarily impossible, it is, in fact, very unlikely. And, of course, we can-
+1628
+HeinOnline -- 95 Yale L.J. 1628 1985-1986
+
+Violence and the Word
+not flee from the multiplicity of minds and voices that the social organiza-
+tion of law-as-violence requires to some hypothetical decision process that
+would aggregate the many voices into one. We know that-aside from
+dictatorship-there is no aggregation rule that will necessarily meet ele-
+mentary conditions for rationality in the relationships among the social
+62
+choices made.
+While our social decision rules cannot guarantee coherence and ration-
+ality of meaning, they can and do generate violent action which may well
+have a distinct coherent meaning for at least one of the relevant actors.
+We are left, then, in this actual world of the organization of law-as-
+violence with decisions whose meaning is not likely to be coherent if it is
+common, and not likely to be common if it is coherent.
+This practical, contingent limit upon. legal interpretation is, however,
+the less important and less profound of the two kinds of limits I have
+presented. For if we truly attend to legal interpretation as it is practiced
+on the field of fear, pain, and death, we find that the principal impedi-
+ment to the achievement of common and coherent meaning is a necessary
+limit, intrinsic to the activity. Judges, officials, resisters, martyrs, wardens,
+convicts, may or may not share common texts; they may or may not share
+a common vocabulary, a common cultural store of gestures and rituals;
+they may or may not share a common philosophical framework. There
+will be in the immense human panorama a continuum of degrees of com-
+monality in all of the above. But as long as legal interpretation is constitu-
+tive of violent behavior as well as meaning, as long as people are commit-
+ted to using or resisting the social organizations of violence in making
+their interpretations real, there will always be a tragic limit to the com-
+mon meaning that can be achieved.
+The perpetrator and victim of organized violence will undergo achingly
+disparate significant experiences. For the perpetrator, the pain and fear
+are remote, unreal, and largely unshared. They are, therefore, almost
+never made a part of the interpretive artifact, such as the judicial opinion.
+On the other hand, for those who impose the violence the justification is
+important, real and carefully cultivated. Conversely, for the victim, the
+justification for the violence recedes in reality and significance in propor-
+tion to the overwhelming reality of the pain and fear that is suffered.
+Between the idea and the reality of common meaning falls the shadow
+of the violence of law, itself.
+62. K. ARROW, SOCIAL CHOICE AND INDIVIDUAL VALUES (1951).
+1629
+HeinOnline -- 95 Yale L.J. 1629 1985-1986

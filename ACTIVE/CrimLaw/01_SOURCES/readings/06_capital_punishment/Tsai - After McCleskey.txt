@@ -1,0 +1,2629 @@
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+After McCleskey
+ROBERT L. TSAI †
+Abstract
+In the 1987 decision, McCleskey v. Kemp, the Supreme Court rejected a
+black death row inmate’s argument that significant racial disparities in the
+administration of Georgia’s capital punishment laws violated the Fourteenth
+Amendment’s Equal Protection Clause. In brushing aside the most sophisticated
+empirical study of a state’s capital practices to date, that ruling seemingly slammed
+the door on structural inequality claims against the criminal justice system. Most
+accounts of the case end after noting the ruling’s incompatibility with more robust
+theories of equality and meditating on the deep sense of demoralization felt by
+social justice advocates. One might be forgiven for assuming that defense lawyers
+abandoned structural inequality claims and the use of quantitative evidence in
+capital cases altogether.
+† Professor of Law and Law Alumni Scholar, Boston University School of Law. I am grateful for the help
+of Mary Sidney Kelly in locating old case files at the Southern Center for Human Rights, and to Nathan
+Jordan, Archives Specialist for the National Archives. Earlier versions of this article were presented at
+workshops at Boston University’s School of Law, University of Colorado School of Law, University of
+Connecticut Law School, Fordham Law School, New York Law School, and the University of Utah Law
+School, which brought me out to Salt Lake City as the 2022 Howard Rolapp Distinguished Visitor.
+Generous support from Dean Angela Onwuachi-Willig and Boston University School of Law allowed me
+to complete this project. I deeply appreciate the feedback on previous drafts from Bethany Berger, Steve
+Bright, Debby Denno, Jonathan Feingold, Brandon Garrett, Aya Gruber, Aziz Huq, Gary Lawson,
+Benjamin Levin, Justin Murray, Sachin Pandya, David Seipp, Matt Tokson, and Mark Tushnet. Invaluable
+research assistant was provided by Victoria Gallerani, Greg Margida, Colin Wagner, Allie Wainwright, and
+Catherine MacCarthy.
+Robert L. Tsai, After McCleskey ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate
+without permission. 2/9/23 9:01 AM
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+But that would be wrong and incomplete. For the first time, this Article
+recounts an unusual chapter of the fallout from the McCleskey litigation, focusing
+on the litigation and social activism in the wake of that decision. It draws on
+interviews with anti-death penalty lawyers working for or allied with the Southern
+Center for Human Rights in Georgia, including Stephen Bright, Ruth Friedman,
+Bryan Stevenson, and Clive Stafford Smith. It is also based on archival research
+into their case files. Drawing from these resources, this Article shows how a subset
+of cause lawyers in the late 1980’s and early 90’s had a remarkable reaction to that
+demoralizing ruling: they engaged in a distinctive form of “rebellious localism.”
+Instead of forsaking structural equality claims, they doubled down on them. Rather
+than make peace with what they believed to be an unjust ruling, they sought to
+subvert it. They also scrambled to formulate reliable quantitative evidence of
+intentional discrimination. Instead of accepting existing racial disparities in the
+criminal justice system, they went after prosecutors and state court judges to expose
+how racial minorities and poor people wound up on death row more often than their
+white, wealthier counterparts.
+Understanding this untold episode of legal history teaches us about the
+limits of judicial control over constitutional lawmaking, the unanticipated
+consequences of trying to insulate the legal order from accountability, and the
+possibilities for keeping clients alive and earning pro-equality victories when
+political conditions are inhospitable. For those who pay attention, there are lessons
+that might humble the most ideologically committed judges and inspire reformers
+who confront challenging legal circumstances.
+Table of Contents
+INTRODUCTION……………………………………………………………………….
+I. IN THE SHADOW OF AN INFAMOUS RULING………………………………
+A. A Difference of Opinion at the Grassroots…………………………..
+B. Rebellious Localism………………………………………………….
+C. Post-McCleskey Surprises…………………………………………..
+II. SHAMING THE SYSTEM…………………………………………………..
+A. Expanding the Scope and Targets of Equality Claims………………
+B. Unrigging Juries……………………………………………………..
+C. Documenting Race-Based Peremptory Challenges………………….
+D. Holding Prosecutors Accountable…………………………………...
+E. Bouncing Judges………………………………………………………
+III. MCCLESKEY AS A SWORD…………………………………………………
+A. Horton v. Zant………………………………………………………
+1. A Mini-McCleskey Hearing………………………………………
+2. The Eleventh Circuit Validates Rebellious Localism…………….
+B. State v. Brooks ……………………….................................................
+1. Recusing All the Judges and Prosecutors of a Circuit……………………
+2. Structural Racism Claims………………………………………………..
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+2
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+3. Race-Based Jury Strikes Over Time……………………………………
+CONCLUSION…………………………………………………………………………
+INTRODUCTION
+“These people lost McCleskey because they didn’t understand racial discrimination.
+They’re trying to see something from too high an altitude. You’ve got to get closer to the
+ground.”
+—Bryan Stevenson
+Stephen B. Bright1 and his staff at the Southern Prisoners’ Defense Committee,2
+later renamed the Southern Center for Human Rights (SCHR), let out a collective sigh upon
+learning about the U.S. Supreme Court’s ruling in McCleskey v. Kemp.3 For months, a team
+of experts led by the NAACP Legal Defense and Educational Fund had gathered and
+analyzed data on death penalty proceedings throughout the State of Georgia. David Baldus,
+a University of Iowa law professor, had run sophisticated regression analyses on over 2,000
+murders since the reinstatement of capital punishment in 1976. After taking account of 230
+nonracial variables, racial disparities remained. The Baldus study revealed, among other
+things, that defendants accused of killing white victims were 4.3 times more likely to
+receive a death sentence than defendants charged with killing black victims.4
+McCleskey’s attorneys offered two theories of what was happening during the
+administration of capital punishment in the state, either of which would violate the Equal
+Protection Clause. First, they claimed that state officials were valuing white lives at the
+expense of black lives. Second, they argued that black defendants were being consistently
+1 For nearly 40 years, Bright served as President of SCHR. He began teaching at Yale Law School in 1993
+as the second Skelly J. Wright Fellow, and continues to teach there as the Harvey L. Karp Visiting Lecturer
+in Law. Over the years, he has also taught at Harvard Law School, University of Chicago, Georgetown
+University Law Center, and a number of other law schools.
+2 Founded in 1976 by ministers active in the civil rights movement, SCHR was created to aid incarcerated
+persons in the early decades of mass incarceration. Over the years, staff lawyer brought lawsuits to improve
+prison conditions and represented individuals under a death sentence in the Deep South.
+3 McCleskey v. Kemp, 481 U.S. 279 (1987).
+4 Id. at 287. As Bhagwat and Lee note, “if the death penalty in fact has any deterrent value, then the
+disinclination to impose the penalty in black-victim cases would tend to increase the murder rate against
+blacks, and thus systematically provide blacks less protection.” Ashutosh Bhagwat & Evan Tsen Lee, The
+McCleskey Puzzle: Remedying Prosecutorial Discrimination Against Black Victims in Capital Sentencing,
+1998 SUP. CT. REV. 145, 149 (1998). Additionally, this form of unequal protection “imposes intangible but
+important harms on black victims’ families. Id.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+3
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+disfavored.5 The NAACP saw McCleskey’s case as a vessel for shutting down the death
+penalty for good, a reprise of its successful cause lawyering in Furman v. Georgia6
+demonstrating that capital punishment was being inflicted in arbitrary fashion.
+Writing for a 5-4 Court, Justice Lewis Powell’s opinion dashed those hopes. The
+Court rejected McCleskey’s equality claims across the board, finding no violation of the
+Fourteenth Amendment. Without identifying any flaws in the study, the majority
+nevertheless seized the opportunity to make constitutional policies that tried to insulate the
+criminal justice system from future racial discrimination claims based on statistical
+evidence. “At most,” Justice Powell wrote, “the Baldus study indicates a discrepancy that
+appears to correlate with race.”7
+Most accounts of McCleskey disparage the ruling for turning a blind eye to racism
+in the criminal justice system, giving plenty of attention to Justice Brennan’s dissenting
+view that the majority opinion exhibited “a fear of too much justice.”8 Anthony Lewis,
+writing in the pages of the New York Times, called the Court’s decision “cynical,” creating
+a legal standard that “would be almost impossible” to meet.9 Others said that the decision
+brought to a close the big-case phase of legal liberalism when advocates looked to the
+Supreme Court as the vehicle for social change.10 For instance, Hugo Bedau said that the
+ruling “effectively ends the strategy in anti-death-penalty litigation that has dominated the
+thinking of civil-rights and civil-liberties activist for the past generation.”11 It may be “that
+5 Since Baldus’s study, some studies have found even greater disparities in treatment based on the race of
+the murder victim, particularly when execution rates are factored into the equation. See, e.g., Scott Phillips
+& Justin Maceau, Whom the State Kills, 55 HARV. C.R.-C.L. 1 (2020) (finding that defendants who killed
+white victims were executed at a rate 17 times greater than those convicted of killing black victims); Lee
+Kovarsky, The American Execution Queue, 71 STAN. L. REV. 1163 (2019); Adam Liptak, A Vast Racial
+Gap in Death Penalty Cases, New Study Finds, N.Y. TIMES, Aug. 3, 2020.
+6 Furman v. Georgia, 408 U.S. 238 (1972). In Furman, a divided Court struck down death penalty statutes
+around the country on the ground that they constituted cruel and unusual punishment in violation of the
+Eighth Amendment, though the justices could not rally behind a single opinion beyond a curt per curiam
+statement. As Justice Douglas put it in his concurring opinion, that provision requires “legislatures to write
+penal laws that are evenhanded, nonselective, and nonarbitrary, and to require judges to see to it that
+general laws are not applied sparsely, selectively, and spottily to unpopular groups.” Id. at 256 (Douglas, J.,
+concurring). See generally Michael Meltnser, Litigating Against the Death Penalty, 82 YALE L.J. 1111
+(1973).
+7 McCleskey, 481 U.S. at 312.
+8 McCleskey, 481 U.S. at 339 (Brennan, J., dissenting); See David G. Savage, Justices’ Use of Statistics
+Baffles Experts, L.A. TIMES, Apr. 24, 1987, 19; Excerpts from Court Opinions on Death Penalty, N.Y.
+TIMES, Apr. 23, 1987, B12.
+9 Anthony Lewis, Bowing to Racism, N.Y. TIMES, Apr. 28, 1987.
+10 See LAURA KALMAN, THE STRANGE CAREER OF LEGAL LIBERALISM (1996); Abram Chayes, The Role of
+the Judge in Public Law Litigation, 89 HARV. L. REV. 1281 (1976).
+11 Hugo Adam Bedau, “Someday McCleskey Will Be Death Penalty’s Dred Scott, L.A. TIMES, May 1,
+1987. Randall Kennedy has leveled a different critique of McCleskey, which is “community-oriented”: he
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+4
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+in the present climate of opinion no abolitionist strategy can make much headway,” he
+lamented.
+The Supreme Court’s backing away from Furman left room for incremental judicial
+solutions to problems with death penalty administration. Centrists and conservatives joined
+forces to permit executions so long as state law guided a jury’s discretion as to whether to
+impose a death sentence and a defendant was allowed the opportunity to introduce all
+relevant evidence bearing on the sentencing decision.12 And in the wake of McCleskey,
+defendants were left with the possibility of mounting extraordinarily difficult equality-
+based challenges based on evidence of malfeasance by specific bad actors in a defendant’s
+case. That hardly seemed worth it to try from the perspective of the average person charged
+with a serious crime represented by an overworked lawyer and no access to the black box
+of decision making by prosecutors or jurors. “Smoking gun” evidence was the stuff of
+movies, not the daily reality in criminal courts across the nation. For these and other
+reasons, the McCleskey decision exacerbated the crisis of legal liberalism, which for
+decades had depended on courts to correct structural problems in society. But those
+prospects dimmed as the necessary conditions for legal liberalism collapsed. The
+appointment of conservative jurists, a major shift within the Democratic Party to
+accommodate resistance to the legacy of legal liberalism, and mounting doctrine hostile to
+a progressive vision of legal change emerged as structural obstacles to abolitionists.13
+Drawing on interviews with key players as well as archival research, this Article
+shows how a group of abolitionists based in the Deep South tried to exploit the McCleskey
+decision. They did so by subverting the Court’s intentions and assumptions, challenging a
+host of local practices and allegedly racist state actors. These advocates created favorable
+outcomes in subsequent capital cases, and then portrayed their discoveries in ways that
+says that the Baldus study shows the devaluation of black lives, but notes that the state’s failure to protect
+black victims of violent crimes might be handled by more death sentences imposed for black on black
+crimes and white on black crimes. Randall L. Kennedy, McCleskey v. Kemp: Race, Capital Punishment,
+and the Supreme Court, 101 HARV. L. REV. 1338 (1988).
+12 See, e.g., Eddings v. Oklahoma, 455 U.S. 104 (1982); Lockett v. Ohio, 438 U.S. 586 (1978).
+13 For some accounts of cause lawyering and its role in legal liberal theories, see MICHAEL MCCANN, LAW
+AND SOCIAL MOVEMENTS (2017); BRUCE ACKERMAN, 3 WE THE PEOPLE: THE CIVIL RIGHTS REVOLUTION
+(2014); KENNETH MACK, REPRESENTING THE RACE (2012); TOMIKO BROWN-NAGIN, COURAGE TO DISSENT
+(2011); MICHAEL KLARMAN, FROM JIM CROW TO CIVIL RIGHTS (2004); MARK TUSHNET, THE NAACP’S
+LEGAL STRATEGY AGAINST SEGREGATED EDUCATION, 1925-1950 (1987); William Eskridge, Backlash
+Politics: How Constitutional Litigation Has Advanced Marriage Equality in the United States, 93 B.U.L.
+REV. 275 (2013); Reva Siegel, She the People: The Nineteenth Amendment, Sex Equality, Federalism, and
+the Family, 115 HARV. L. REV. 947, 1046 (2002). For more mixed or negative views that stress backlash,
+see GERALD N. ROSENBERG, THE HOLLOW HOPE (1991).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+5
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+shook the McCleskey Court’s tidy presentation of the legal system as well-functioning,
+rational, structurally sound, and non-racist.14
+Part I revisits the McCleskey decision, emphasizing what the Justices tried to
+accomplish as well as the law of unintended consequences that often characterizes
+constitutional politics. Judges write opinions to decide constitutional questions, believing
+they will be able to persuade people beyond the specific litigants before them, but in reality,
+judges have little control over how others will receive their rulings or what they will do
+with them. In this instance, a subset of abolitionists responded by engaging in rebellious
+localism, a strategy of marshaling available resources and deploying them at county and
+city officials in the service of transformative ends.15 They made these adjustments to public
+law advocacy so they could continue raising racial bias claims without giving up on their
+structural critiques. Besides trying to save their clients’ lives, their goal was to undermine
+the presumption of fairness and neutrality contained in the Supreme Court’s rulings.
+Chipping away at the parsimonious vision of racial equality might then lay a foundation
+for the eventual repudiation of McCleskey.
+Typically, advocates who want to erode a Supreme Court precedent denounce it
+across the board to try to deny social acceptance of its vision of the law. In this instance,
+however, death penalty abolitionists denounced the ruling outside of the legal system but
+tried to exploit assumptions contained in the ruling for a broader vision of equality in their
+own cases. This adaptation was necessitated by not only the perception of hostility toward
+the ideal of equal justice, but also the asymmetrical obstacles encountered by defendants
+who raise fact-intensive constitutional issues. This newfound approach contained three key
+facets: intensifying issues, subverting doctrine, and scaling downward.
+Part II focuses on specific cases in the wake of McCleskey where SCHR lawyers or
+their allies escalated their tactics in capital cases. These cause lawyers aggressively asked
+for hearings (often getting them), put prosecutors and judges under oath, and moved to
+recuse prosecutors who engaged in misconduct or judges who tolerated racist trial
+practices. They pioneered creative strategies for gaining access to state records and
+quantitative evidence to challenge everything from jury venire practices to peremptory
+14 The methodological approach employed in this study is explicitly socio-legal in nature, one that focuses
+on the law as a set of institutions and ideas perpetually in contest, where litigants (strong and weak) strive
+to highlight contradictions between ideals and material reality, but elites and social groups have their own
+agendas. See, e.g., Susan S. Silbey, Ideology, Power, and Justice, in BRYANT G. GARTH & AUSTIN SARAT,
+JUSTICE AND POWER IN SOCIOLEGAL STUDIES 289 (1989) (describing an approach to the study of law that
+“push[es] the justice critique beyond the condemnation of inequality to an examination of the possibilities
+for resistance and transformation.”).
+15 Their approach was “rebellious” in the sense that advocates resisted key Supreme Court interpretations of
+the Fourteenth Amendment. It was “localist” in the sense that they accepted systems of criminal justice
+were organized on largely localist terms and reoriented their strategies accordingly. These adjustments did
+not entail a commitment to the local as an ideal form of social organization; rather, the localist dimension
+of their advocacy was purely strategic in nature, primarily in selecting the targets of obloquy and reform.
+They were committed to constitutional ideals expressed at the state and national level.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+6
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+strikes by prosecutors. Rebellious localism in this context not only kept their clients alive
+and raised the costs of litigation for the state, but it also yielded valuable precedent for
+future cases.
+Using two case studies, Part III shows how the strategy of rebellious localism paid
+off by closely examining how abolitionists’ use of these strategies unfolded in Horton v.
+Zant and State v. Brooks. Special attention is paid to the synergies between litigation and
+out-of-court advocacy, as well as the management of tensions between the primary goals
+of harm reduction and secondary goals of legal reform.
+For those who engage the politics of repudiation, the ultimate objective is to
+eventually persuade an apex court to overrule a despised precedent, or water it down with
+exceptions, or to stop using that case to justify policies.16 Abolitionists and racial justice
+advocates have not yet achieved that, but other kinds of progress are worth noting, such as
+the rejection of McCleskey by state legislators and state courts. The conclusion considers
+how to evaluate success in ongoing efforts to resist a hated decision and render it infamous
+in the public mind. It also considers what this episode teaches us about judicially driven
+efforts to insulate the criminal justice system, as well as prospects for rebellious localism
+in the future.
+I. IN THE SHADOW OF AN INFAMOUS RULING
+A. A Difference of Opinion at the Grassroots
+Although discretion lies in the hands of several actors within the criminal justice
+system, a great deal of responsibility for the disparities probably could be laid at the feet
+of prosecutors. Formally, in exercising executive power, they act as gate keepers: capital
+punishment can never be imposed unless prosecutor files notice to seek it.17 In practice,
+most prosecutors never seek the death penalty, while a handful opt for it every chance they
+get. When they do pursue death as a punishment, they also sometimes change their minds.
+Some district attorneys operate under strict policies, while others don’t even consult
+an office policy beyond what state law says.18 For instance, in Fulton County, where
+Warren McCleskey was tried for shooting a white police officer in 1978, the District
+Attorney at the time “had no written or oral policies or guidelines to determine whether a
+16 On the processes of infamy, see Robert L. Tsai, Supreme Court Precedent and the Politics of
+Repudiation, in LAW’S INFAMY: UNDERSTANDING THE CANON OF BAD LAW (Austin Sarat et al. eds., 2021);
+Robert L. Tsai, Reconsidering Gobitis, 86 WASH. U. L. REV. 363 (2008).
+17 PAUL GOWDER, THE RULE OF LAW IN THE UNITED STATES: AN UNFINISHED PROJECT OF BLACK
+LIBERATION 110 (2021); ANGELA J. DAVIS, ARBITRARY JUSTICE: THE POWER OF THE AMERICAN
+PROSECUTOR (2007).
+18 On the need for reform of prosecutorial decision making, see RACHEL ELISE BARKOW, PRISONERS OF
+POLITICS 144-64 (2019).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+7
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+capital case would be plea bargained or brought to trial.”19 The absence of consistent
+policies raised the specter of unbridled discretion, exacerbating any racially biased
+decisions by individual actors.
+At the time, the McCleskey litigation split the abolitionist community along
+generational lines, but no steps were taken to interfere with an effort driven by advocates
+who had been in the trenches the longest. While the older guard represented by the brilliant
+Anthony Amsterdam retained their faith that the Justices would once again use their Article
+III authority to enact broad changes to criminal policy like structural reform cases in the
+mold of Brown v. Board, the younger advocates were wary of what the increasingly
+conservative Supreme Court might do with the case.20 Some of them turned out possess
+the unique skillset for the next phase of grinding, case-by-case form of grassroots advocacy
+necessitated by the high court’s rightward tilt, as exemplified by the McCleskey ruling.
+Steve Bright had taken over the reins of SCHR after running D.C. Law Students in
+Court. From the start, Bright had his doubts about whether the McCleskey litigation would
+pay off in getting judges to declare the death penalty unconstitutional. “I don’t think it’s
+going to work like that,” he told Bryan Stevenson, then just two years out of law school
+and a staff attorney at SCHR.21 Bright did not believe that the Court would allow capital
+punishment to resume nationwide in Gregg v. Georgia, only to shut it back down so soon
+based on a broad equality rationale. He knew that Justice Lewis Powell, a centrist, had
+already objected to abolition “by judicial fiat” and expressed hostility to systemic
+inequality claims in Furman, saying that the penalty’s disproportionate impact on the poor
+and racial minorities was “tragic,” but ultimately irremediable, and that past intentional
+discrimination “is no justification for holding that capital punishment penalty is invalid in
+all cases.”22 In fact, Justice Powell optimistically believed that the “discriminatory
+imposition of capital punishment is far less likely today than in the past.”23
+Neither Bright nor Stevenson played an active role in the McCleskey litigation.
+They feared a bad outcome, even though they agreed that discrimination remained a serious
+problem. In fact, Bright had even told Baldus at the time, “I see even more racism than
+what you show!”24
+19 ROBERT L. TSAI, PRACTICAL EQUALITY 86-91 (2019); Brief for Petitioner at 58-59, McCleskey v. Kemp,
+No. 84-6811, 1986 WL 727359 (Sept. 3, 1986).
+20 See RISA L. GOLUBOFF, THE LOST PROMISE OF CIVIL RIGHTS 253 (2007) (“When lawyers sought
+guidance about the best strategies for the continued development of civil rights law … they drew on Brown
+as both a doctrinal and a cultural resource.”).
+21 Stevenson would later move to Montgomery, Alabama, to start a death penalty resource center, relying
+on freshly available federal funds. Those funds would dry up, and he would turn that organization into the
+Equal Justice Initiative, which he leads to this day. Since 1998, Stevenson has also taught at NYU School
+of Law. Interview with Bryan Stevenson, Exec. Dir., Equal Justice Initiative (Sept. 14, 2020).
+22 Furman, 408 at 421, 450 (Powell, J., dissenting).
+23 Id.
+24 Interview with Steve Bright, Pres. of S. Ct. for Hum. Rts. (Feb. 29, 2020).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+8
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+On April 22, 1987, by a 5-4 vote, a bitterly divided Court refused to enforce the
+principle of equality in an opinion by Justice Powell, who had been on the losing side in
+Furman. In doing so, the Justices made it harder for defendants nationwide to prove racial
+discrimination within the criminal justice system, especially using statistical evidence
+alone. Setting the constitutional bar high, the Justices weren’t satisfied by a showing of
+alarming racial disparities; they simply would not act unless someone could show exactly
+who was responsible for the inequities in a complex system with many moving parts.
+To justify this position, Justice Powell stated that “disparities in sentencing are an
+inevitable part of our criminal justice system” due to the discretionary roles afforded to
+prosecutors, judges, and jurors.25 In fact, his interpretation of the Equal Protection Clause
+treated discrimination as the price of mercy. A jury can decline to impose the death penalty,
+Justice Powell wrote, but “whereas decisions against a defendant’s interest may be reversed
+by the trial judge or on appeal, these discretionary exercises of leniency are final and
+unreviewable.”26 From this point on, in order to protect a prosecutor’s “traditionally ‘wide
+discretion’” in making charging decisions, “we would demand exceptionally clear proof
+before we infer that the discretion has been abused.”27
+This amounted to a major retreat from precedents like Furman, where the Justices
+had worried about irrationality and racial discrimination infecting the administration of
+criminal laws, and even Gregg, where they had allowed the death penalty to be resumed
+but warned that “the penalty of death is different in kind from any other punishment” and
+could not be inflicted when there existed “a substantial risk” of depriving someone’s
+rights.28 The McCleskey Court worried that the defendant’s equality argument would open
+the door to consideration of other disparities in the legal system—perhaps even leading to
+a kind of affirmative action for death sentences.
+Justice Powell in particular had become convinced that a win for McCleskey would
+“throw[] into serious question the principles that underlie our entire criminal justice
+system.”29 He heartily endorsed the view of prosecutors, who insisted that the defendant’s
+racial equality claim strikes at the heart of the judicial system.” Absurdly, Powell feared a
+kind affirmative action that flowed naturally from accepting statistics as evidence of
+intentional discrimination: “What if one accepts the study as reflecting sound statistical
+analysis? … Would this require that no black be sentenced to death where victim was
+white?”30 He also wished to deter further attacks on the criminal justice system through the
+use of statistics, troubled that accepting the form of proof represented in the Baldus Study
+would “invite a system of ‘statistical jurisprudence’—unprecedented in civilized
+25 McCleskey, 481 U.S. at 312.
+26 Id.
+27 Id. at 297.
+28 STUART BANNER, THE DEATH PENALTY: AN AMERICAN HISTORY 267-75 (2003).
+29 McCleskey, 481 U.S. at 315.
+30 Scott E. Sundby, The Loss of Constitutional Faith: McCleskey v. Kemp and the Dark Side of Procedure,
+10 OHIO ST. J. CRIM. L. 10 (2012).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+9
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+history.”31 There seemed to him “no limiting principle to judgments in criminal cases based
+solely on statistics.”32 Years later, Powell would express regret for his role in pushing his
+colleagues to this outcome. But far too late—the damage had been done.33
+B. Rebellious Localism
+Constitutional actors must calibrate their strategies to deal with shifting political
+and cultural conditions. Arguments and approaches that work in one historical moment
+may not work in a different moment. How would social actors in the field of action react
+at a moment of crisis for legal liberalism? For decades, liberals had turned to the courts as
+a vehicle for reforming society’s key institutions. The fact that the criminal justice system
+was among the least affected by the Civil Rights movement did not dampen legal liberals’
+ardor for court-centered projects. To the contrary, that fact simply reminded them of how
+much farther judges needed to go. And yet the conservative revolution made most visible
+through Nixon’s war-on-crime politics, though propelled by elites of both major parties,
+put legal liberals on their heels.34 Public officials elected after complaining of the Warren
+Court’s excesses secured the appointment of judges hostile to the further expansion of
+many rights—especially that of criminal defendants.
+On a Court reshaped by Republican presidents, Justices Powell, Rehnquist, Scalia,
+and O’Connor were most skeptical of the Warren Court legacy and legal liberalism. They
+would work hardest to protect the state’s crime-fighting prerogative by making it harder to
+bring constitutional challenges and insulating the decisions of police officers, prosecutors,
+and judges from civil lawsuits. In response to changing institutional conditions, would
+activists abandon legal liberalism or find some way to rekindle their commitment to the
+enterprise?
+Among racial justice advocates, the immediate reaction to McCleskey was
+disenchantment. Anthony Amsterdam, who argued Furman in the Supreme Court, called
+McCleskey “the Dred Scott decision of our time,” one that declares that “African-American
+life has no value which white men are bound to respect.”35 Bryan Stevenson felt shattered
+and never fully escaped the feeling of demoralization. “Most of us were just devastated,
+31 Id. at 32. But as Aya Gruber points out, Powell was not consistently opposed to the use of statistics to
+prove racist intentions, and he was not inalterably opposed to equal protection claims in the capital context,
+for he was the author of Batson v. Kentucky, 476 U.S. 79 (1986). See Aya Gruber, Race-of-Victim
+Disparities and the ‘Level Up’ Problem, 55 HARV. C.R.-C.L. 657 (2020).
+32 BANNER, supra note 28, at 290.
+33 Gregg v. Georgia, 428 U.S. 153, 188 (1976); JOHN C. JEFFRIES, JR., JUSTICE LEWIS F. POWELL, JR. 451
+(1994).
+34 AYA GRUBER, THE FEMINIST WAR ON CRIME (2020); JAMES FORMAN, LOCKING UP OUR OWN (2017).
+35 Anthony G. Amsterdam, Race and the Death Penalty Before and After McCleskey, 39 COLUM. HUM.
+RTS. L. REV. 34, 47 (2007); Kennedy, supra note 11, at 1389.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+10
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+most of us were just unbelievably heartbroken,” he said years later.36 “I thought about
+Brown the day McCleskey was decided. I couldn’t make sense of how the United States
+Supreme Court … could be talking about the inevitability of racial bias in the
+administration of the death penalty.”37
+He denounced McCleskey for enabling unequal application of capital punishment,
+but in truth, the extinguishment of large-scale equality claims was part of a broader pattern
+of judicial entrenchment of War-on-Crime policies that fanned out in different directions.
+These policies included rulings that preserved police discretion on the streets and created
+doctrines restricting the availability of habeas corpus.38 Eventually, McCleskey would form
+a part of a losing pattern as litigation aimed at making the U.S. Supreme Court’s death
+penalty jurisprudence more equitable or humane went sideways, reflected in such cases as
+Stanford v. Kentucky, which refused to stop the execution of juvenile offenders and Penry
+v. Lynaugh, a case that permitted the execution of a man with the mental age of a 6-year-
+old child. “By the end of the 80’s, all of that stuff had failed,” Stevenson summed up.
+Bright similarly believed McCleskey to be “an everlasting blight on the Supreme
+Court and a badge of shame for the state of Georgia.”39 He put McCleskey in the company
+of not only Dred Scott, but also Plessy v. Ferguson, the notorious ruling that upheld a
+Louisiana law requiring “separate but equal” passenger coaches and emboldened
+segregationists for generations.40 Thus, for many, disaffection was as predictable as an
+overall reduction of system-wide legal challenges. That’s where most analyses have
+stopped.41
+But for some of the most committed abolitionists in the Deep South,
+disenchantment about the rule of law did not lead to the wholesale abandonment of equality
+claims, much less structural ones. As their work necessarily became grittier and more
+pragmatic—a form of legal trench warfare—these cause lawyers not only continued to
+emphasize racial inequality claims, they also broadened their critiques to encompass
+poverty, a related ground that did some of the work of centering race but also had the
+benefit of moving to different terrain that might pick up new segments of the community.
+36 EJI’s Bryan Stevenson Pays Tribute to SCHR’s Steve Bright, YouTube (July 25, 2013),
+https://www.youtube.com/watch?v=3HmU0t68vE0>.
+37 Id.
+38 See, e.g., Stanford v. Kentucky, 492 U.S. 361 (1989); Penry v. Lynaugh, 492 U.S. 302 (1989); Whren v.
+United States, 517 U.S. 806 (1996); Teague v. Lane, 489 U.S. 288 (1989); Wainwright v. Sykes, 433 U.S.
+72 (1977); Larry Yackle, The New Habeas Corpus in Death Penalty Cases, 63 AM. U. L. REV. 1791
+(2014); James Liebman, More than ‘Slightly Retro:’ The Rehnquist Court’s Rout of Habeas Corpus in
+Teague v. Lane, 18 N.Y.U. REV. L. & SOC. CHANGE 537 (1990). See generally LARRY YACKLE,
+RECLAIMING THE FEDERAL COURTS (1994).
+39 David G. Stout, The Lawyer of Death Row, N.Y. TIMES MAGAZINE, Feb. 14, 1988, 52.
+40 Id.
+41 Note, for instance, that Paul Butler for one has stated the strategy of “using social science to win equal
+protection claims” is “doomed if the premise is that the problem is that there is not enough evidence of
+discrimination or not the right kind of evidence.” Paul Butler, Equal Protection and White Supremacy, 112
+NW. U.L. REV. 1457, 1461 (2018).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+11
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+In this sense, the Supreme Court’s ruling produced the first of many ironic effects:
+deepening the resolve of activists to redouble their efforts to prove systemic racism.
+Opponents of McCleskey would have to outmaneuver their counterparts, ratchet up their
+tactics against carefully curated targets, delay the worst harms arising from unjust policies,
+and persuade lower court judges to reshape doctrine to their preferred contours.42 Outside
+the courthouses, they would shame local public servants and citizens into seeing their
+clients as victims of unequal justice and do something about it.
+Of course, rebellious localism in the capital context was not the same as the strategy
+might appear in other contexts. It remained court-focused because the short-term goals of
+harm reduction in this high-stakes context—namely, keeping a client alive for as long as
+possible—remained paramount. But as practiced by SCHR lawyers, the method retained a
+structural critique as well as a commitment to long-term transformation, with an eye
+towards grassroots mobilization and construction of a counter-vision of equal justice. All
+of this was directed at contesting the perception that the Constitution no longer served the
+interest of the poor or racial minorities.
+I call this aspect of their reaction to unfavorable law issue intensification. Instead
+of giving up on equality claims in this domain, which would have been a perfectly natural
+response to an increasingly hostile political and cultural climate, some social actors instead
+doubled down on equality. In certain situations where anti-death penalty lawyers might
+have bypassed an equality claim, they lodged one anyway to preserve the issue and in the
+hope that more evidence to support it might materialize years later. Harsh procedural
+changes already pushed advocates toward such an adaptation in strategy as they tried to
+prolong litigation to save lives, but McCleskey reinforced their darkening expectation that
+problems of proof and procedure would be held against an individual on appeal and during
+collateral review.
+Besides manipulating doctrine on substance and procedure in ways that disfavored
+progressive liberal legal projects, high-profile judges also advocated legislative reform to
+close the courthouse doors further. A year after the McCleskey decision, Justice Powell
+agreed to serve on an ad hoc committee established by Chief Justice Rehnquist to propose
+restrictions on habeas corpus petitions by death-row inmates. Justice Powell’s leading role
+in McCleskey, followed by his subsequent call for additional restrictions on the Great Writ,
+deepened abolitionist suspicions that the Supreme Court was biased against racial
+minorities and wanted to speed executions regardless of the costs. The growing judicial-
+legislative initiative, which would attract the support of War-on-Crime state attorneys
+general, heightened their awareness that every possible trick would be used to prevent
+structural injustice from being seen or addressed.43 As a result, advocates would at times
+42 Of course, death penalty abolitionists were not the first to embrace strategies of delay as part of resisting
+inequality. See Daniel S. Farbman, Resistance Lawyering, 107 CAL. L. REV. 1877, 1880 (describing a
+“resistance lawyer” as someone who “seeks both to mitigate the worst injustices of that system and to
+resist, obstruct, and dismantle the system itself”).
+43 See ROBERT L. TSAI, DEMANDING THE IMPOSSIBLE, draft on file with author.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+12
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+raise more allegations of discrimination than they likely would have before McCleskey.
+Although they rejected nearly every word of the McCleskey ruling in their hearts, they
+managed any sense of dissonance by citing the case in court and treat it as good law, while
+denouncing it in other domains.
+Bright was a realist, as well as a close and creative reader of judicial decisions.
+After “pulling the decision apart,” he urged fellow abolitionists to take the Justices at their
+word. The key was Justice Powell’s insistence that a defendant had to prove that
+decisionmakers in his own case acted with a discriminatory purpose. Bright told Stevenson
+and other allies: “There’s language in here we can do something with.”44 The best response,
+he said, was to identify every single situation where a judge or prosecutor might have acted
+out of bias and “to litigate the hell out of it.”
+Bright’s move to turn a shield fashioned for prosecutors into a sword to be wielded
+by defendants should be considered a form of doctrinal subversion. Instead of acceding to
+the Court’s plan to insulate the criminal justice system, SCHR and their allies redeployed
+the precedent to go after some of the system’s most prominent guardians: prosecutors and
+judges. This amounted to ignoring the system-insulating motives in McCleskey itself, and
+to see just how far they could take the Court’s insistence that a defendant could still advance
+a claim if he offered evidence “that would support an inference that racial considerations
+played a part in his sentence.”45
+These abolitionists even called their filings “McCleskey motions” to reclaim that
+precedent on behalf of a more robust vision of equality. The Supreme Court’s ruling in
+McCleskey was well on its way to becoming an infamous decision in the legal academy
+and among the public interest lawyers at large, but in these Southern courtrooms, Bright
+and others treated the decision as if it represented good law in demanding discovery and
+hearings.
+One of the things McCleskey questioned was “whether any consistent policy can be
+derived by studying the decisions of prosecutors” across several different counties since so
+many variables were involved in charging decisions. In other words, Justice Powell thought
+the inference of intentional discrimination was greatly weakened—he said the disparities
+were not “stark” enough—because of the sheer spatial expanse from which the data was
+derived as well as the large number of human actors making decisions based on
+“innumerable factors.”
+Bright proposed a solution to this problem: identifying situations where a particular
+prosecutor, judge, or local jurisdiction had a reputation for engaging in discriminatory
+behavior. I call this aspect of SCHR’s effort to make equality claims more palatable to
+skeptical judges the scaling down of relevant constitutional theories and the targets of
+enforcement. By focusing on specific bad actors and simplifying the causal stories of
+discrimination, advocates hoped they would not trigger the slippery slope problem Justice
+44 Stevenson interview, supra note 21.
+45 McCleskey, 481 U.S. at 292-93.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+13
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Powell found so daunting.46 The goal was to go hard after unethical prosecutors and
+“hanging judges” (judges elected based on their record as tough-on-crime prosecutors) who
+appeared to treat black defendants, black jurors, or black victims more harshly. So long as
+the evidence was compelling, offering a judicial remedy could be isolated to particular
+actors or local jurisdictions and therefore would not bring the entire justice system to its
+knees, as Justice Powell feared.
+All three adjustments—intensifying their emphasis on issues of equality, subverting
+doctrine, and scaling down—comprised a response to negative developments in
+constitutional law. Together, these tactical choices helped resuscitate belief in legal
+liberalism at a time that Mike Seidman has incisively described as “an environment marked
+by liberal collapse and conservative hibernation,”47 before even more muscular forms of
+judicial conservatism appeared.
+These shifts in strategy entailed making tradeoffs: how to continue engaging in
+advocacy that might produce measurable gains through harm reduction as well as doctrinal
+improvement, while managing scarce resources in a time of cultural fatigue over racial
+equality claims. By making these adjustments, Bright and his allies developed a distinctive
+form of rebellious localism. This major shift in strategy can be understood as an example
+of what Mark Tushnet has termed “defensive crouch liberalism”48—adaptations by
+progressives to the fact that federal courts became dominated by conservatives. But these
+adjustments lacked the “nervous” form of advocacy Tushnet suggests is emblematic of
+liberalism seen in so many quarters for fear of retaliation by conservatives. Rather,
+presuming a national conservative backlash was already underway, the trick became
+finding moments, spaces, and places far away from national elites where conceptions of
+rights could be pushed openly and fearlessly. In doing so, SCHR and its allies began to
+construct a counter-narrative that post-racial American had not yet arrived, and that the
+criminal justice system had never been successfully reconstructed.
+C. Post-McCleskey Surprises
+A fruitful point of entry into the historical record is to consider these strategic
+adaptations in the wake of seemingly unjust Supreme Court precedent as a species of
+unintended consequences. Sociologist Robert Merton has called the unanticipated
+consequences of purposive action “those elements which would not have occurred had the
+action not taken place.” Such effects “result from the interplay of the action and the
+46 Justice Powell was sold on the prosecutors’ argument that McCleskey’s equality claim “strikes at the
+heart of the judicial system.” TSAI, supra note 1919, at 82. As Justice Powell wrote in his memo to
+colleagues, “petitioner’s challenge is no less than to our entire criminal justice system.” He wondered
+aloud: “What if one accepts the study as reflecting sound statistical analysis? Would this require that no
+black be sentenced to death where victim was white?” Id. at 82-83. See also Sundby, supra note 30.
+47 Louis Michael Seidman, Critical Constitutionalism Now, 75 FORDHAM L. REV. 575, 582 (2006).
+48 Mark Tushnet, Abandoning Defensive Crouch Liberal Constitutionalism, BALKINIZATION, May 6, 2016.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+14
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+objective situation.”49 Most of the time we act “not on the basis of scientific knowledge,
+but opinion and estimate,” Merton writes. This is especially true when it comes to law as a
+species of social activity: judges create doctrine hoping that certain consequences will
+happen. They tinker with doctrine, often overestimating their own ability to shape the
+behavior of others. Even so, this is unavoidable: judges make doctrine predicting that
+relevant social actors will internalize their pronouncements and behave in certain ways, but
+in truth judges have wholly inadequate information about other social actors’ motivations,
+commitments, and resources.
+Merton identifies the situation where “public predictions of future social
+developments” can themselves “become a new element in the concrete situation” and
+thereby “change the initial developments.” Just as Marx’s prediction of progressive
+concentration of wealth and increased misery of the masses helped lead to the rise of
+organized labor, thereby slowing developments predicted by Marx, so too it might be said
+that popular awareness of the Supreme Court’s desire to insulate the criminal justice system
+from fundamental challenge and thereby wish a post-racist society into being itself became
+a factor in confounding those original expectations. As Merton points out, “this
+contingency may often account for social movements developing in utterly unanticipated
+directions.” A case like McCleskey can become imbued with social meaning that it
+becomes part of a broader struggle over legal principles, thereby facilitating surprising
+shifts in organizational behavior and to the law itself.
+Consider several unintended consequences. First, Justice Powell did not expect that
+his decision would be used as Exhibit A in teaching a generation of lawyers and activists
+about poor constitutional reasoning and the problem of judicial callousness. Within the
+criminal defense bar, and among the smaller, tight-knit community of cause lawyers,
+McCleskey became a rallying cry to reject the Court’s seeming command to abandon trying
+to prove systemic racism. The ruling itself began to play a role in identity formation: more
+criminal defense lawyers began to see themselves as cause lawyers—at least part of the
+time.
+In fact, the ruling spawned political efforts to repudiate the ruling’s tolerance of
+racial inequities in the criminal justice system. Legislation was introduced in Congress to
+permit defendants to introduce statistical evidence to demonstrate that the death penalty is
+enforced in a discriminatory manner. Efforts to undermine McCleskey’s logic also emerged
+at the state level. Although the Racial Justice Act has never been enacted by the Senate (it
+has passed in the House), grassroots activism led to the enactment of state analogues in
+North Carolina, Kentucky, and—in the most far-reaching form—California.
+Second, the Court underestimated the possibility of a differentiated response to the
+ruling due to the variety of criminal defense lawyers. It’s one thing to expect court-
+appointed lawyers heavily dependent on judicial favor or already overburdened public
+defenders to shy away from making equality claims after a doctrinal test is made harder to
+49 Robert K. Merton, The Unanticipated Consequences of Purposive Social Action, 1 AM. SOC. REV. 894
+(Dec. 1936).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+15
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+satisfy. It’s quite another to expect abolitionist organizations to renounce equality claims
+without a fight. Groups with the capacity to draw upon out-of-jurisdiction manpower and
+donations could still choose to invest in the heavy lifting necessary to pursue allegations
+disfavored by the Supreme Court and do so in venues beyond that institution’s capacity to
+control.
+Nor did the Justices foresee that success in a single case could be leveraged
+successfully to throw other death sentences, and even some convictions, into serious
+doubt—and even spawn more structural equality claims. When a judge found a prosecutor
+or judge engaged in unconstitutional actions, especially a violation of the principle of
+equality, SCHR lawyers exploited that decision for all it was worth, arguing in other cases
+involving that person or the entire office was hopelessly tainted by racism.
+To these advocates, McCleskey had ripped the mask off an unjust system. If they
+continued to behave like business as usual and gave such figures the benefit of the doubt,
+they would be complicit in perpetuating cruelty and inequality. Instead of propping up that
+illusion of neutrality, they vowed to break norms of civility and insist that judges and
+prosecutors step aside—another unanticipated byproduct of the ruling.
+Third, in constructing McCleskey, Powell believed he was protecting faith in the
+rule of law by shutting down all but the rarest system-wide constitutional challenges.
+Instead, the ruling would end up inspiring a fresh round of even more intensive equality-
+based challenges at the local level. Worried about the need to document all the ways that
+race and poverty shaped capital outcomes and educate fellow citizens as well as jurists,
+some advocates filed more pre-trial motions than they ever did before, challenging
+everything from jury selection processes to prosecutorial charging decisions. During post-
+collateral proceedings and retrials, SCHR lawyers also demanded transparency, seeking
+access to a prosecutor’s notes to bolster their claim that charging decisions were racially
+discriminatory or that prosecutors had tried to manufacture all-white juries.
+A subset of cause lawyers thus engaged in more high-risk, high-reward moves to
+target bad actors involved in administering the justice system. Individual judges and
+prosecutors were swept up in these efforts to expose the inner machinery of the death
+penalty system, which blackened not only their reputations, but also that of state attorney
+generals who chose to defend local practices. That unintended development arguably
+undermined faith in the rule of law far more than endorsing McCleskey’s challenge would
+have done—especially if the Court could have envisioned a path to a narrow remedy in
+that dispute.50
+Fourth, with the exception of Justice Scalia, who objected privately to any
+suggestion that the Baldus Study was inherently unsound (he was simply more forthright
+in tolerating persistent inequities),51 the Justices were uneasy with quantitative analysis.
+50 I have suggested narrower constitutional violations and remedies, particularly if the Court had perceived
+the primary problem in terms of fairness rather than equality. See TSAI, supra note 19.
+51 John Charles Boger, McCleskey v. Kemp: Field Notes from 1977-1991, 112 NW. U. L. REV. 1637
+(2018).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+16
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+The majority hoped to dissuade structural advocacy that relied upon these kinds of
+statistics. Justice Powell warned his colleagues that if the Baldus study were accepted as
+sufficient proof of an equality violation, it would “invite a system of ‘statistical
+jurisprudence’—unprecedented in civilized history.”52 The irony, of course, is that by
+expressing such a distaste for numbers and a strong preference for direct evidence of racial
+hostility, the McCleskey decision may have encouraged advocates to become more
+aggressive and comprehensive in introducing evidence of actions, sentiments, and
+associations that at times could actually be less reliable in demonstrating racial bias.
+Simpler evidence is not always better evidence. In retrospect, it may have been suboptimal
+to funnel such complicated evidence of structural bias into state courts, which might have
+less expertise with such evidence.
+Acquiring direct as well as quantitative evidence of bias, and then arguing about its
+merits openly in court, would also inevitably prolong trial proceedings and threaten to turn
+them into communal spectacles. Such consequences, too, would not have been optimal
+from the standpoint of the Supreme Court. Together, they comprise another factor Merton
+calls ‘the imperious immediacy of interest … where the actor’s paramount concern with
+the foreseen immediate consequences excludes the consideration of further or other
+consequences of the same act.”
+In short, Justice Powell wanted fewer structural equality claims, not more; reduced
+conflicts over race rather than more intense ones. He hoped to dissuade use of statistical
+proof to undermine criminal judgments and promote belief in the rule of law. As we shall
+also see, the McCleskey decision certainly didn’t put an end to a battle of experts. It didn’t
+even stem allegations of racism in death penalty cases. It just shifted the theater of conflict.
+II. SHAMING THE SYSTEM
+Litigating in the shadow of McCleskey “was a time of transition,” recalled
+Stevenson.53 “Thinking more creatively about how to expose these problems became a
+higher priority.” It’s important to see that rebellious localism wasn’t just about adjusting
+litigation strategy; it also became about grounding these new courtroom tactics in
+grassroots mobilization. The McCleskey decision felt like a historical break to these
+activists. They saw it as the moment they realized “a new model would be needed.”
+Others observed a decisive rhetorical shift in Bright, who from that moment on “talked
+more about race, and class, and power.”54
+Instead of giving up on equality claims, Bright encouraged his staff to double down
+on proving inequality. McCleskey required a person to prove that specific individuals “in
+his case acted with discriminatory purpose,” and that’s exactly what they would do. With
+Bright leading the charge, they vowed to go county by county, prosecutor by prosecutor,
+52 Sundby, supra note 30, at 32.
+53 Stevenson interview, supra note 21.
+54 Id.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+17
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+and judge by judge if necessary to ensure their clients got a fair trial. But they would not
+let go of their sense that the problem of inequality was not that of a few individuals, but
+entire offices and even jurisdictions.
+“No one was prepared before McCleskey to go into some place like Swainsboro,
+Georgia, and use the language of intentional discrimination in a proactive way for an
+individual client,” said Stevenson. “But that’s what we did after McCleskey.”55
+A. Expanding the Scope and Targets of Equality Claims
+McCleskey had emboldened death penalty enthusiasts. For instance, Georgia
+Attorney General Michael Bowers confidently stated, “I do not see any racial
+discrimination in motive or effect in the imposition of the death penalty.”56 Bright believed
+that most members of the Supreme Court simply had no idea who was involved in keeping
+the machinery of death humming.57 As a result, his staff had to build a persuasive record
+of bias in each case they handled. This meant two things: (1) intensifying challenges to
+suspected bad actors and getting more deeply into the background of prosecutors and
+judges to discern their racial attitudes; and (2) continuing to make structural inequality
+claims by experimenting with creative and aggressive ways to bring such claims in capital
+cases. Publicly-expressed sentiments and actions, office practices, family histories, and
+even personal associations all became fair game.
+In the view of SCHR lawyers, citizens and jurors became cogs in a killing machine
+that policymakers tried to make more efficient; the accused, dehumanized through the legal
+process. Through rebellious localism, Bright and his staff vowed to not only show the
+inherent brutality of this form of punishment, but also record and dramatize its racial effects
+in each case in which they played a role. They believed that citizens would be more hesitant
+to impose it in specific cases, and that the community as a whole would eventually turn
+away from the practice once stories of unfair and unequal administration spread.
+Scaling down thus also meant bringing novel legal challenges to older forms of
+racial power that many people had just accepted long ago as part of the fabric of social life
+in the Deep South: Confederate battle flags in official state flags,58 a judge’s membership
+in an exclusive club or voting record as a former legislator, a relative’s membership in the
+Klan or participation in a lynching. Their goal was to show just how much death penalty
+trials were permeated by racial bias in ways that went well beyond what the McCleskey
+Court had assumed.
+55 Stevenson interview, supra note 21.
+56 Kathryn Kahler, Racism Charged in Death Penalty Cases, TIMES-PICAYUNE, Dec. 23, 1990, A-8.
+57 Bright interview, supra note 24.
+58 In a pretrial hearing during Carzell Moore’s capital trial, Bright called to the stand historian William
+McFeely in a bid to demonstrate that the Confederate battle flag, incorporated into Georgia’s state flag in
+1956 during widespread resistance to racial integration and Brown v. Board of Education, sent a message in
+courtrooms that black citizens are still not equal before the law. WILLIAM S. MCFEELY, PROXIMITY TO
+DEATH 25, 31 (2000).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+18
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Moving to recuse judges and prosecutors with a reputation for racial discrimination
+became part of the arsenal. SCHR lawyers also began filing motion after motion
+demanding that judges disclose how often they used the “N” word, whether they had ever
+hired African Americans as clerks and staff, and whether they sent their kids to segregated
+schools.
+When a judge or prosecutor would resist making such disclosures, as expected,
+insisting that “you can’t put me on trial here,” Bright converted the McCleskey decision
+from a shield into a sword.59 “Yes, I can,” he told skeptical trial judges.60 “McCleskey v.
+Kemp says I have to show whether you are prepared to give fair and just treatment to my
+minority client.” This was “the kind of litigation most people ran from,” Stevenson
+explained. “But Steve embraced it.”61
+More so than in its early years, SCHR treated this new era of “hand-to-hand
+combat” as a chance to get local communities involved. Before McCleskey, they worked
+mostly with the criminal defense bar and a smattering of cause lawyers. But afterward, “the
+connections with the traditional civil rights community started to take shape.” When SCHR
+lawyers went into a community to defend a person against the death penalty, they would
+bring a famous civil rights leader such as C.T. Vivian, who had been close to Martin Luther
+King, Jr., or Dr. Joseph Lowery, president of the Southern Christian Leadership
+Conference.
+By spending time in these local communities, they met families who had
+experienced first-hand neglect and mistreatment by police and later, prosecutors and
+judges. “It became apparent that civil rights were going to have to be at the heart of what
+we do,” Stevenson explained. For instance, in one pre-trial hearing, SCHR lawyers put on
+black witnesses who had been victims of violent crime, but had not heard much from the
+district attorney’s office. In doing so, they drew sharp contrasts between how a District
+Attorney’s office would maintain close relationships with white victims of murder—even
+sometimes giving families a voice before major decisions in a case were made—with the
+frosty relationships with black victims. This amounted to not only evidence of official bias,
+but also what Monica Bell has called “legal estrangement” on the part of black residents.62
+Because black citizens weren’t responding to jury summonses at the same rate as
+white citizens, SCHR began holding events at black churches where a prominent civil
+rights leader would give a rousing speech “creating a consciousness that there was an
+obligation to serve.” Stevenson or Bright would warm up the crowd by talking about a case
+they had in that county. Then a famous civil rights figure like C.T. Vivian would take the
+59 Stevenson interview, supra note 37.
+60 Id.
+61 Id.
+62 Monica C. Bell, Police Reform and the Dismantling of Legal Estrangement, 126 YALE L.J. 2054 (2017).
+As Bell warns, though, procedural justice—here in the form of testifying at a capital hearing about being
+mistreated by the police and prosecutors on the basis of race—can only serve as an incomplete response to
+that sense of disenchantment and powerlessness. Id. at 2104.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+19
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+stage and tell stories of how he was beaten when he marched, but had gotten back up for
+their right to vote and to serve on a jury. “Now when you get summoned for jury service,
+I want you to walk to the courthouse like we walked to the courthouse in 1963, like we
+walked across the bridge. Don’t wait until it’s your son sitting in a courtroom filled with
+white people and an all-white jury.”63
+Community organizing went hand-in-glove with litigation strategy. In the retrial of
+William Brooks, for instance, Bright filed a creative motion to deal with the fact that the
+poor response rate by black citizens to jury summonses had made it easier for prosecutors
+to manufacture an all-white jury during his first trial. In trying to deal with the pervasive
+problem of legal estrangement in their own case, they pointed out that “only eight of 160
+summoned jurors were black” and that “a representative venire would have contained 50
+black citizens.” They told the judge that “to protect the constitutional rights of the accused,”
+he could not be passive but instead “should direct the service of summons to jurors be
+accomplished in a way that ensures a fair cross-section of the community actually appears
+for jury service.”64
+They asked the judge presiding over the retrial to provide specific relief: (1) that a
+“special venire of at least three hundred person be drawn with the initial selection process
+taking place in open court”; (2) that the Clerk issue summonses to those jurors selected and
+commanding them to appear “without making mention of the name of the case to be tried”;
+(3) that personal service be made upon any jurors who fail to respond; (4) that the clerk,
+sheriff, and other court personnel be directed not to disclose the case or name of the
+defendant prior to the jurors appearing in the courtroom; and (5) that any and all other steps
+be taken to ensure the venire represent a fair cross-section of the community. These
+motions sent a powerful message to the prosecutor, the judge, and local citizens that trials
+of black defendants by an all-white jury would be perceived as illegitimate.65
+To ensure that poorer citizens would be able to participate, Bright also filed pre-
+trial motions asking that jurors be paid “their current wage and to compensate primary
+caregivers for day care costs.” They argued that “daily wage earners and primary caregivers
+for young children are cognizable groups for Sixth Amendment purposes” and that their
+underrepresentation in Brooks’ trial and others would violate the Constitution.66
+Black citizens began appearing for hearings in SCHR’s cases, especially when they
+sought to recuse judges or prosecutors or get the state flag, which contained the
+Confederate flag, removed from the courtroom for the trial. Instead of an empty courtroom,
+63 Stevenson interview, supra note 21.
+64 Motion for a Special Venire That Represents a Cross-Section of the Community, for Personal Service on
+Those Who Do Not Respond to Summons, and for Court to Determine All Excusals, State v. Brooks, No.
+38888, 54606 (Super. Ct. of Muscogee Cnty.), 1-2.
+65 Id. at 3.
+66 See, e.g., Motion for Compensation of Jurors at Current Wages and Reimbursement to Primary
+Caregivers for Day Care Costs, State v. Moore, Indictment No. 8676, Super. Ct. of Monroe County, GA, at
+2, 6.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+20
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+the place would be packed with black people concerned about the quality of justice, who
+transformed a mundane legal proceeding into a communal event.
+That happened for the retrial of Brooks. In a letter dated September 5, 1990, Bright
+and George Kendall discussed several themes that Dr. Joseph Lowery might work into an
+upcoming community presentation in Columbus. The first theme was to explain that
+“discrimination is worse in the criminal justice system than anywhere else, that everyone
+has looked the other way for too long, and that it is urgent that something be done about
+it.”67 Second, citizens could “learn more about discrimination in the justice system by going
+to our hearing in the William Anthony Brooks case on discrimination.” Third, concerned
+citizens could sign postcards SCHR prepared to urge members of Congress to enact the
+Racial Justice Act. They could also organize to deny the current D.A. a judgeship “if he
+continues his practice of discrimination in seeking the death penalty.” As Bright explained
+to Dr. Lowery: “The last two District Attorneys both are judges now and both used the
+death penalty to get there.”68 In fact, they wrote, “Both Whisnant and Smith are famous for
+lynch-mob type closing arguments at the sentencing phase where they would ask for the
+death penalty.”69
+Most critically, Bright and his staff came up with imaginative ways of developing
+their own evidence against the worst prosecutors and complicit trial judges. They did so,
+for example, by taking advantage of a state’s “sunshine laws” to inspect state records. In
+Georgia, those records extended to a prosecutor’s files once an appeal had been decided.
+SCHR lawyers also began putting historians, statisticians, and other experts on the stand
+during pre-trial hearings to document the state of local justice. They would litigate pre-trial
+motions—including any McCleskey motions—vigorously.
+“We really focused hard on this,” Stevenson recalled. It was a concerted “reaction
+to McCleskey and the new world we were in. We had to more carefully articulate the nature
+of racial bias.”
+And so they did—by cataloging and exposing inequality and unfairness wherever
+they could, in every setting in which an issue about the quality of justice could be credibly
+raised. To Stevenson, this major shift in strategy was “really exciting because we all knew
+the truth about how these people thought. We had experienced it.” He could see that it was
+also “empowering” for Bright because “you observe bias time and time again, and the
+conventions of the law require you to stay silent. To now be able to use the law in service
+of saying something was very, very energizing.”
+Paradoxically, SCHR was well placed to engage in rebellious localism precisely
+because they were not part of the local power structure. They were based in the region, but
+not insiders. The organization’s funding did not come only from court-appointed cases.
+The overall strategy thus played to SCHR’s strengths. Staff could do the things that court-
+appointed lawyers, whose livelihood depended on good relations with local judges and
+67 Letter from George Kendall and Steve Bright to Dr. Joseph Lowery, Sept. 5, 1990.
+68 Id.
+69 Id.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+21
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+prosecutors, simply couldn’t do and for self-interested reasons, wouldn’t do. Bright also
+believed that requirements that attorneys had to take criminal cases for free meant that
+lawyers often did not care about their non-paying clients. How many times had a court-
+appointed lawyer not bothered to make a constitutional claim, investigate something a
+client said or contact a possible witness, or lodge an objection simply because doing so
+would drag out the case or annoy members of the local power structure?
+This point wasn’t about comparative or absolute resources as much as it was about
+relative independence. For this strategy was deployed in the early decades of the era of
+mass incarceration, when SCHR had only a shoestring budget and relied heavily on small
+donations, a few grants, and fee awards from prisoner’s rights lawsuits. Yet freed from the
+financial and political conditions that structured how everyday criminal cases were
+handled, the organization found itself in a position to demand more of the legal system.
+Bright and his staff would still insist upon being paid by the state for criminal defense work
+just like local lawyers who had to eke out a living by taking court-appointed cases, even if
+they ended up working longer hours that would go unreimbursed, because the principle of
+equality for indigent representation mattered. At times, they would even file separate
+lawsuits to lift existing restrictions on how much court-appointed defense lawyers could
+earn, believing that fee caps led to less thorough investigations and less competent
+representation of the poor.70
+During these years, Bright began developing his critique that people were sentenced
+to death not so much for the crimes they commit but rather for having an inadequate
+lawyer.71 He realized that the absence of a public defender system in many places made
+unfairness a built-in feature of the justice system. The already asymmetrical criminal
+process left the quality of counsel for the poor completely controlled by local judges. This
+often led to shoddy representation by court-appointed lawyers who often wanted to close
+cases as quickly as possible and get back to paid work. Funds for experts were hard to come
+by; many lawyers representing the poor never bothered to ask.
+Rebellious localism yielded other benefits beyond spotlighting racial inequities. A
+certain synergy arose between legal challenges to the practices of certain prosecutors and
+judges on behalf of clients facing the death penalty and SCHR’s civil challenges brought
+against local indigent defense systems, plea bargaining practices, and bail rules. More than
+70 See, e.g., Bailey v. State, 424 S.E.2d 503, 507-08 (S.C. 1993) (holding that attorneys appointed to capital
+cases must be reasonably compensated rather than limited by $ 1,000 statutory cap). As Bright himself
+testified under oath once: “The basic thing that we do at our office … is represent people who can’t afford
+lawyers in cases involving Eighth Amendment issues involve the cruel and unusual punishment of the
+Constitution. And that is really all we do.” Pre-trial Hearing, State v. Brooks, 91.
+71 On the history of the public defender movement, see SARA MAYEUX, FREE JUSTICE (2020); Stephen B.
+Bright & Sia M. Sanneh, Fifty Years of Defiance and Resistance After Gideon v. Wainwright, 122 YALE
+L.J. 2150 (2013); Stephen B. Bright, Neither Equal Nor Just: the Rational and Denial of Legal Services to
+the Poor When life and Liberty are at Stake, 1997 NYU ANN. SURVEY OF AM. L. 783 (1997); Stephen B.
+Bright, Counsel for the Poor: The Death Sentence Not for the Worst Crime but for the Worst Lawyer, 103
+YALE L.J. 1835 (1994).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+22
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+once, focusing on a particular judge’s practices alerted the organization and others to
+pervasive problems that could then be challenged separately. Eventually, rebellious
+localism acquired a civil dimension to supplement its criminal law focus, as the Center
+added a variety of civil litigation strategies to try to halt death penalty proceedings or gain
+access to evidence that might bear on their claims. In showcasing the various deficiencies
+of the justice system, rebellious localism also helped revive the public defender movement
+within the state.72 Overall, the approach proved highly effective in attracting media
+coverage of the nested problems within the criminal justice system.
+B. Unrigging Juries
+Because “that’s where we had the best law,” i.e., precedent vindicating the
+importance of the right to a jury of one’s peers stretching back to the post-Reconstruction
+Supreme Court case, Strauder v. West Virginia,73 one area of intensive focus became
+challenging a jury’s composition. That case had struck down a state law that barred black
+men from serving on juries. Over a hundred years later, it was still the case in many death
+penalty jurisdictions that “there were no black prosecutors, no black decision makers, and
+the only opportunity for a black person to play a role was on the jury,” Stevenson observed.
+A good illustration was Columbus, Georgia, whose 10-person prosecutor’s office were all
+white men. But, of course, in case after case Bright and others noticed “elaborate efforts
+being made to exclude black people.” Through their cases, they decided to “elevate how
+exclusionary the juries had been.”74
+In Amadeo v. Zant,75 Bright’s first case before the U.S. Supreme Court, Justice
+Thurgood Marshall invalidated Amadeo’s death sentence because of Putnam County’s
+scheme to systematically underrepresent black people and women in its jury pools. The
+Court singled out District Attorney Joe Briley’s memo to jury commissioners instructing
+them how to permit just enough women and blacks into the pool without making it look
+too suspicious. A lawyer bringing an unrelated civil rights lawsuit against the county had
+discovered the “smoking gun” evidence. Based on this new evidence, a federal district
+judge had granted a writ of habeas corpus, but the Eleventh Circuit reversed, saying the
+claim was time-barred. Justice Marshall’s decision disagreed with the Eleventh Circuit’s
+handing of the procedural default issue and restored the federal judge’s order granting
+relief.
+When the case was returned to Putnam County, Briley promptly had Amadeo
+reindicted for murder. A secondary legal battle then ensued as the trial judge refused to
+72 For an historical account of the creation of the first statewide public defender system in Georgia, see
+Robert L. Tsai, The Public Defender Movement in the Age of Mass Incarceration: Georgia’s Experience, 1
+J. AM. CONST. HISTORY __ (2023).
+73 Strauder v. West Virginia, 100 U.S. 303 (1880).
+74 Id.
+75 Amadeo v. Zant, 486 U.S. 214 (1988).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+23
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+appoint Bright and his staff as attorneys of record until the Georgia Supreme Court ordered
+him to do so. Instead, the judge had tried to stick Amadeo with a different set of lawyers
+who knew nothing about the case.
+SCHR had to battle the trial judge, the D.A., and the state attorney general’s office
+to vindicate Amadeo’s right to the counsel of his choosing. Ultimately, the Georgia
+Supreme Court issued a landmark decision reversing the trial judge for interfering with
+Amadeo’s “relationship of trust and confidence with prior counsel.”76
+Back on the case, Bright and William Warner filed a slew of pre-trial motions. One
+motion sought to quash the indictment on the ground that the grand and traverse jury master
+lists “do not reflect a fair cross-section of the community.” Referring to Amadeo’s earlier
+win in the U.S. Supreme Court, they insisted that he could not be tried unless additional
+“precautions be taken to assure that this time,” his rights were protected.77 Besides pointing
+out that the county’s past jury selection methods excluded women and black people, they
+added a new Equal Protection claim based on class. “The selection system utilized in this
+county is not class-neutral,” they argued, “and does not assure the inclusion of persons who
+are not registered to vote, persons who have recently moved to the county, and low income
+persons.” Because Amadeo was not a resident of Putnam County but an indigent “outsider”
+charged with serious crimes against “a highly respected member of the community,” they
+objected to a system that generated juries that lacked important “experiences, opinions, and
+perspectives.”
+In addition, Amadeo’s team filed an ex parte motion seeking funds for an expert to
+help them determine whether the county’s jury pools were, in fact, underrepresenting
+“recent migrants, unemployed persons, daily wage earners, persons who are not registered
+to vote.”78
+In an even more daring effort, Amadeo’s attorneys moved to disqualify all judges
+from the Ocmulgee Judicial District, made up of eight counties, including Putnam, based
+on a violation of the Voting Rights Act. They argued that the judges of the Ocmulgee
+Judicial District were elected as a result of unconstitutional procedures. The use of at-large
+election procedures for superior court judges has never produced a single black judge in
+the circuit, they noted, even though the population of the counties were between 37.42%
+and 78.24% black.
+This last motion revealed SCHR’s resolve in thinking structurally. Amadeo’s team
+demanded an evidentiary hearing so they could show “total or seriously disproportionate
+exclusion of black citizens from the Georgia judicial system, disproportionate impact of
+76 Amadeo v. State, 384 S.E.2d 181 (Ga. 1989) (holding that trial judge abused his discretion by refusing to
+appoint Bright and SCHR as capital counsel for the retrial because “the considerations favoring the
+appointment of Amadeo’s previous counsel clearly out-weighed any opposing consideration, including the
+desirability of involving local lawyers”).
+77 Motion to Quash Grand and Traverse Juries Due to Underrepresentation of Cognizable Groups, State v.
+Amadeo, No. 88-CR-257-11 (Putnam Cnty. Super. Ct.).
+78 Ex Parte Motion for Funds for Expert Assistance to Investigate Grand and Petit Jury Venires, State v.
+Amadeo, No. 88-CR-257-11 (Putnam Cnty. Super. Ct.).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+24
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+the decision made in the election and judicial systems of Georgia, the opportunity for
+discrimination, as well as other circumstantial and direct evidence of intent to discriminate
+as may be available.”79
+On a couple of occasions, Bright put Stevenson on the stand as an expert witness
+to testify as to the difference between comparative disparities and absolute disparities.
+Stevenson had gotten a degree in public policy at the Kennedy School to go along with his
+law degree from Harvard. That made him conversant in quantitative analysis when the
+Center brought legal challenges to the underrepresentation of black jurors.
+“The way the law is, we’d have to show an absolute disparity of over 10% before a
+court will see that as significant,” Stevenson said.80 “We’d routinely go to these counties
+where the county was 30% black, the jury pool would be 20%, if the county was 20%
+black, the jury pool would be 10%”81 The disparity wouldn’t be big enough for a defendant
+to mount a successful challenge, and yet it kept the absolute number of black citizens in
+the jury pool low enough that it wasn’t hard for a prosecutor to eliminate the few black
+jurors using peremptory strikes.
+Preserving the legal issue would also make the verdict of an all-white jury more
+vulnerable to reversal on appeal. Indeed, this frenzy of pre-trial activity created a general
+awareness among trial judges and prosecutors that legal errors might unsettle a conviction.
+This sensitivity improved advocates’ ability to “increase the numbers a little bit.”82 And
+that’s what they always wanted: a fighting chance in front of a mixed-race jury.
+They also litigated jury demographic issues hard in Michael Berryhill’s case in
+Bartow County. Stevenson recalled that the jury commissioner had testified “they couldn’t
+get enough women on the jury because they had to be ‘upright and intelligent citizens,’ and
+we don’t have any of those or any black people.”83 However, the Georgia Supreme Court
+ruled on appeal that an 11% disparity between women in the county and in the jury pool
+was not “significant” enough absent evidence of “purposeful discrimination or systematic
+exclusion.”84
+They didn’t give up, and introduced the same evidence as part of Berryhill’s federal
+habeas proceedings. This time, the Eleventh Circuit found that including only “intelligent
+and upright” women to the master jury lists was “highly subjective,” leading to severe
+underrepresentation. A new trial was ordered because Berryhill had been denied a jury
+drawn from a fair cross section of the community.85
+79 Memorandum in Support of Motion to Disqualify Unconstitutionally Elected Judge at 11, State v.
+Amadeo, No. 88CR-25711 (Putnam Cnty. Super. Ct.).
+80 Stevenson interview, supra note 21.
+81 Id.
+82 Id.
+83 Id.
+84 Berryhill v. State, 249 Ga. 442, 446 (1982).
+85 Berryhill v. Zant, 858 F.2d 633 (11th Cir. 1988).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+25
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+C. Documenting Race-Based Peremptory Challenges
+SCHR invested more and more resources into uncovering a related problem:
+proving that some Georgia prosecutors systematically used peremptory challenges to
+exclude black citizens from jury pools. Bright and his staff noticed that overzealous
+prosecutors would try to eliminate all, or nearly all black citizens from juries, even well
+into the 1980s and 1990s—especially when they wanted a death sentence against a black
+defendant. The way juries were composed, and the way prosecutors were using their largely
+unregulated strikes against black citizens in capital cases, seemed to be pillars holding up
+a system of unequal justice.
+SCHR would eventually pile up victories on this front, not only in federal but state
+courts. Two of Bright’s later wins in the U.S. Supreme Court—Snyder v. Louisiana86 and
+Foster v. Chatman87—would involve reversals of death penalty convictions tainted by a
+prosecutor’s race-based peremptory strikes.
+For now, though, they still had to deal with shifting legal standards. Until the
+Supreme Court made it easier to prove racial bias in peremptory challenges in Batson v.
+Kentucky,88 the governing case was Swain v. Alabama,89 which had established a standard
+that almost no defendant could overcome. There, the justices rejected an Equal Protection
+claim even though no black citizen had served on a jury in a criminal trial for at least the
+prior 15 years. The only way for a defendant to prevail was to present proof that “the
+prosecutor in a county, case after case, whatever the circumstances, whatever the crime,
+and whoever the defendant or the victim may be, is responsible for the removal of Negroes
+who have been selected as qualified jurors by the jury commissioners.”90
+The battle over peremptory strikes also played out in Georgia’s courts. Bright and
+Stevenson had gotten involved in another Georgia case that raised the jury composition
+issues—that of James Ford.91 Ford, a black man, was sentenced to die by a jury that
+contained only one black citizen. The prosecution used nine out of ten peremptory strikes
+to remove black jurors. At trial, the prosecutor had asked the trial judge whether he needed
+to explain his troubling pattern of strikes, but the judge said no, Swain didn’t require that,
+and simply overruled Ford’s objection. Swain itself had confirmed that “the essential nature
+of the peremptory challenge is that it is one exercised without a reason state, without
+inquiry, and without being subject to the court’s control.”92
+86 Snyder v. Louisiana, 552 U.S. 472 (2008).
+87 Foster v. Chatman, 578 U.S. 488 (2016).
+88 Batson v. Kentucky, 476 U.S. 79 (1986). Batson, decided in 1986, established that removing a single
+juror based on race violated the principle of equality and created a three-step process for ferreting out such
+violations.
+89 Swain v. Alabama, 380 U.S. 202 (1965).
+90 Id. at 223.
+91 Ford v. Georgia, 498 U.S. 411 (1991).
+92 Id. at 220. Katie Wood, Bowers Called Hypocrite on Jury-Strike Issue, FULTON COUNTY DAILY REPORT,
+Mar. 4, 1992.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+26
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+The wrinkle presented in Ford’s case was a highly technical one: whether a
+defendant had lodged an objection in a timely fashion so that he could later raise the issue
+on appeal. In general, a failure to object barred a person from complaining about a trial-
+related error later. What made this case complicated was when the law itself was in flux.
+What should be expected of lawyers during such a period of transition?
+In Ford’s case, his lawyers had preemptively raised the equality issue by filing a
+pretrial motion “to restrict racial use of peremptory challenges.” They alleged that the
+county prosecutor had “over a long period of time” removed black jurors when a case
+involved a white victim. After losing the motion, and receiving a death sentence, Ford
+again raised the issue, insisting that his Sixth Amendment rights had been violated.
+While Ford’s cert. petition was pending, the Supreme Court handed down Batson.
+If a defendant objected contemporaneously and could make out a strong enough showing
+of discriminatory conduct, a prosecutor would now have to give race-neutral reasons for
+exercising each peremptory challenge, and the judge had a duty to make a finding on the
+record as to whether to accept the explanations. The new constitutional rule was far from
+perfect, for it was still hard to prove a nefarious motive on the fly, but it represented an
+improvement upon the earlier protocol.
+The U.S. Supreme Court vacated Ford’s conviction and instructed the Georgia
+Supreme Court to review what happened under the new Batson test. But that court again
+upheld Ford’s death sentence, without conducting an evidentiary hearing or otherwise
+demanding that the prosecutor give explanations for his strikes as Batson required. In a
+Kafkaesque ruling, the Georgia Supreme Court simply ruled that Ford properly raised the
+Swain issue, which he had lost, but not Batson, which he was barred from raising now on
+appeal, deeming it too late.
+Bright convinced Charles Ogletree of Harvard Law School to plead Ford’s cause
+before the U.S. Supreme Court on the return engagement. At oral argument, Ogletree
+hammered the inherent unfairness of the Georgia Supreme Court splitting hairs: “It is only
+after this Court’s remand, and without hearing from the parties, that the Georgia Supreme
+Court for the first time says that counsel has failed to make a record of this to survive a
+Batson claim.” There were “no clear rules in existence” in the state courts governing when
+such an objection should be raised and “to the extent that they were, counsel complied with
+them.”93
+Ford’s ordeal illustrated another facet of the legal system that could undermine the
+Constitution’s assurance of equality: the role of appellate judges. Whether out of
+indifference to rights or in defiance of a Supreme Court ruling, a state supreme court could
+exploit federalism to frustrate enforcement of constitutional guarantees. It could do so by
+applying state law broadly or by giving federal law a cramped reading. When that
+happened, a state court was basically daring a federal court to do something about it.
+93 Transcript Oral Argument, Ford v. Georgia, 498 U.S. 411 (1991) (No. 87-6796).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+27
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Indeed, one of the most egregious acts of state court defiance took place in 1955.
+That controversy also involved the Georgia Supreme Court asserting its prerogative to
+execute a black man despite an order by the U.S. Supreme Court to reconsider his
+constitutional rights. Like Ford, the case also raised the problem of jury manipulation.
+Aubry Williams, condemned for killing a white liquor store clerk, appealed his case to the
+U.S. Supreme Court. Williams was tried by a Fulton County jury at a time when a judge
+monitored the races of jurors by marking citizens’ names on different colored pieces of
+paper. In another case out of Fulton County called Avery v. Georgia,94 decided just two
+months after Williams’ trial, the U.S. Supreme Court held that the county’s practice
+violated the Fourteenth Amendment. The problem for Williams was that his lawyers didn’t
+object at the time. His lawyers raised the issue for the first time in an extraordinary motion
+for new trial, but the state supreme court deemed the issue waived. Under the “adequate
+and independent state ground” doctrine, a state’s ruling that an issue had been procedurally
+forfeited meant that a federal court had no jurisdiction to review it.95
+When Williams sought certiorari, the Justices struggled with the possibility of
+letting a man die because of the racist jury selection procedure. On the other hand, rules
+were rules and federalism mattered. In an opinion by Justice Frankfurter, the Court vacated
+Williams’ conviction and invited the members of the Georgia Supreme Court to reconsider,
+appealing to their consciences that surely they would not “allow this man to go to his death
+as a result of a conviction secured from a jury which the state admits was unconstitutionally
+impaneled.”
+Williams’s fate, as Ford’s would be a generation later, was trapped between
+evolving law and warring courts. In an angry opinion, the Chief Justice of the Georgia
+Supreme Court refused to give Williams a new trial and said that the U.S. Supreme Court
+lacked jurisdiction. When Williams filed an emergency appeal, the Supreme Court backed
+down and refused to hear the matter a second time. That cleared the way for his execution.96
+Political scientist Del Dickson, who has studied that episode closely, believes that
+William’s rights were sacrificed on the altar of the Warren Court’s project to desegregate
+schools.97 The Court was busy battling resistance to Brown across the country and didn’t
+want to open another front on race matters. Forty years later, when the same court applied
+state rules to frustrate consideration of a constitutional right in Ford’s case, the Supreme
+Court did not look the other way.
+On February 19, 1991, Justice Souter wrote a unanimous opinion that repelled the
+Georgia court’s seeming defiance of Supreme Court precedent. Ford’s attorneys had
+94 Avery v. Georgia, 345 U.S. 559 (1953).
+95 See ERWIN CHEMERINSKY, FEDERAL JURISDICTION (1989); Kermit Roosevelt III, Light from Dead Stars:
+The Procedural Adequate and Independent State Ground Reconsidered, 103 COLUM. L. REV. 1888 (2003).
+96 Williams v. Georgia, 349 U.S. 375 (1955); Williams v. State, 88 S.E.2d 376 (Ga. 1955), cert. denied, 350
+U.S. 950 (1956).
+97 Del Dickson, State Court Defiance and the Limits of Supreme Court Authority: Williams v. Georgia
+Revisited, 103 YALE L.J. 1423-81 (1994).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+28
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+clearly raised a Swain claim. But in trying to draw a difference between these two cases,
+“the State assumes a distinction between the holdings in those two cases that does not exist.
+Both Swain and Batson recognized that a purposeful exclusion of members of the
+defendant’s race from the jury selected to try him would work a denial of equal protection.”
+Georgia’s refusal to entertain Ford’s claim under the new standard amounted to a
+perverse form of logic, Justice Souter explained, because “Batson did not change the nature
+of the violation recognized in Swain, but merely the quantum of proof necessary to
+substantiate a particular claim.” As a result, raising the peremptory strike issue was
+sufficient to preserve it, and the state court’s application of a new procedural rule
+announced two years later was not an “adequate independent state ground” to prevent
+federal review.
+To Bright, the lesson from handling Ford’s appeal was that they’d have to battle
+appellate judges as much as prosecutors to ensure that basic rights would be enforced. Even
+so, their intensification of trial tactics proved to be worth it. Ford’s lawyers had earned him
+the right to a hearing. Once a hearing was finally held in state court, the original prosecutor
+was forced to testify as to his reasons for striking so many of the eligible black jurors. The
+trial judge summarily accepted those reasons, but on appeal, the Georgia Supreme Court
+reversed, building on Gamble v. State, another SCHR case and the very first time a Batson
+violation had been found by the state supreme court.98
+Chief Justice Norman Fletcher ruled that the D.A.’s explanations offered after the
+fact were not sufficiently “concrete” and “race-neutral” so as to overcome the “strong”
+pattern of discrimination in Ford’s case. As he pointed out, “of the 42 persons on the panel
+from which the trial jury was chosen, 10 or 24 percent, were black.” In other words, the
+prosecutor “exercised 90 percent of his strikes to strike 90 percent of the blacks from the
+venire, while exercising 10 percent of his strikes to exclude a mere 3 percent of the whites
+on the venire.” Quoting Ford’s brief, Justice Fletcher said that “’it does not require a
+statistician … to recognize’ the very high probability that this racial disparity did not occur
+strictly as a matter of chance.”99 Against the weight of this pattern, the prosecutor’s
+explanations “fall short of proving that this disparity was the incidental result of neutral
+selection procedures.”100
+After losing in the U.S. Supreme Court and seeing the Georgia Supreme Court’s
+about-face, prosecutors folded and offered Ford a life sentence. Indeed, perhaps more than
+any other constitutional issue, a prosecutor’s use of peremptory strikes to prevent black
+citizens from participating in criminal trials had the potential to bring together judicial
+98 Gamble v. State, 357 S.E.2d 792 (Ga. 1987). In Gamble, the Georgia Supreme Court applied Batson and
+overturned a death sentence against a black defendant where the prosecutor used all ten of his peremptory
+strikes against ten black jurors to rig an all-white jury.
+99 Ford v. State, 423 S.E.2d 245, 246 (Ga. 1992).
+100 Id.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+29
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+liberals and conservatives.101 Not only did the rationale appeal to those who wished to
+preserve the democratic legitimacy of criminal judgements, it also appealed to those who
+might be open to upsetting a single criminal conviction without necessarily embracing
+structural critiques. For conservatives, deciding a case on this ground meant protecting the
+integrity of the legal system and dealing with “bad apples.”102 Of course, judges couldn’t
+completely control how advocates would characterize the violations that were discovered,
+and abolitionists tended to declare such misconduct evidence of structural flaws.
+D. Holding Prosecutors Accountable
+After prevailing in the Georgia Supreme Court and being reinstated as counsel for
+Amadeo’s retrial, Bright and his co-counsel filed a giant pile of motions. The most
+important one sought to recuse Briley from leading the state’s case a second time. This,
+too, became a part of SCHR’s arsenal whenever there was reason that a prosecutor had
+been involved in an equality violation.
+Amadeo’s team also arranged for legal ethics experts to file a brief in support of
+the recusal motion. The signatories came from each of the state’s accredited law schools,
+including Mercer Law School, where Briley had gotten his J.D. In their brief, these experts
+argued that Briley’s “misconduct is shocking to the conscience” and violated his duty to
+ensure that “all citizens” in the community “stand on equal footing before the law.”103
+Friends of the court cited Blackstone for the proposition that “special vigilance is required
+to keep our system of trial by jury ‘sacred and inviolate, not only from all open attacks, …
+but also from all secret machinations, which may sap and undermine it.”104 Invoking ethical
+standards created by the National District Attorneys Association as well as ABA Standards
+on the Prosecution Function, they observed that “the duty of the prosecutor is to seek
+justice, not merely to convict.”105
+Amici thus supported SCHR’s position that qualification of Briley was “required
+to protect the integrity of the adversary system, to assure public confidence in the
+administration of justice, to assure that the past misconduct does not interfere” with
+Amadeo’s retrial. The prosecutor’s misconduct presented “that most rare case,” they
+argued, “where there is a factual determination upheld unanimously by the United States
+Supreme Court that a prosecuting attorney intentionally tampered with the jury pools in an
+101 For a selection of cases where even conservative jurists were willing to overturn death sentences on this
+ground, see Batson v. Kentucky, 476 U.S. 79 (1986); Miller-El v. Dretke, 545 U.S. 23 (2005); Snyder v.
+Louisiana, 552 U.S. 427 (2007); Foster v. Chatman, 578 U.S. 488 (2016).
+102 Paul Butler critiques jurists’ rhetoric that makes overly broad claims about Batson for ending racial
+discrimination, calling it “racial justice rhetoric without racial justice.” Paul Butler, Mississippi Goddamn:
+Flowers v. Mississippi’s Cheap Racial Justice, SUP. CT. REV. 73, 83 (2019).
+103 Brief of Amicus Curiae Ad Hoc Committee of Lawyers in Support of Motion to Disqualify Prosecuting
+Attorney, State v. Amadeo, Ind. No. 88CR-25-11 (Putnam Cty. Super. Ct.).
+104 Id. at 4.
+105 STANDARDS ON THE PROSECUTION FUNCTION 3-1.1(A) (AM. BAR. ASS’N 2017).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+30
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+effort to subvert the constitutional rights of the black jurors, and of Tony Amadeo, the
+litigant.” Additionally, the manipulation of jury demographics required legal expertise as
+part of the “intent to deceive” so that “a prima facie case of discrimination could not be
+established.” Such misconduct also violated bar standards that prohibit “illegal
+professional conduct involving moral turpitude,” “dishonesty, fraud, deceit, or
+misrepresentation,” or behavior “prejudicial to the administration of justice.”106
+On the day of the hearing, witnesses were prepared to testify that Briley’s continued
+participation in Amadeo’s case would taint the outcome.107 Bright had assembled Tom
+Johnson, county attorney for Hennipen County, MN, Stephen H. Sachs, the former
+Attorney General of Maryland, and Professor Bennett L Gershman, a leading expert on
+prosecutorial ethics. In the glare of such tactics, the state blinked. Rather than go through
+with a full evidentiary hearing, Briley offered a plea deal. He would withdraw the death
+penalty if Amadeo pleaded guilty to murder and promised not to seek parole for at least 25
+years.108
+SCHR would continue to try to recuse prosecutors whenever they had proof
+someone was involved in a Fourteenth Amendment violation, particularly on the basis of
+race or poverty. And in the retrial of Brooks, they stepped up this tactic by enlarging their
+recusal motion against an entire District Attorney’s office, attacking its death penalty
+charging decisions and use of peremptory strikes over time as racially discriminatory.
+E. Bouncing Judges
+The first time Bright and his staff went hard after a trial judge believed to be “a
+hanging judge” was in the case of George Dungee, who had an IQ of 65-69. Dungee was
+one of three men who escaped from a Maryland prison and went on a crime spree. A
+Seminole County jury sentenced Carl Isaacs, Wayne Coleman, and Dungee to death for the
+slaying of a family.109
+Hanging judges were those known as tough-on-crime figures who often looked the
+other way as prosecutors cut corners, including by manufacturing all-white juries in capital
+cases. Typically, they were former prosecutors themselves, elected or appointed after
+securing death sentences for notorious crimes. Having rode to glory for their pursuit of Old
+Testament-style justice, they often looked with favor upon other prosecutors wanted a
+similar career arc.110 Walter C. McMillan, who presided over the murder trial of Isaacs,
+Coleman, and Dungee, had a reputation as a hanging judge.
+106 Id. at 10 (quoting ABA Code of Professional Responsibility).
+107 Interview with Clive Stafford Smith (May 5, 2020); TSAI, supra note 43, at Part I.
+108 MCFEELY, supra note 58, at 141; Interview with Steve Bright (Feb. 29, 2020).
+109 Elliott Minor, Man Pleads Guilty in Slayings of Farm Family, ASSOC. PRESS, July 14, 1988.
+110 See Stephen B. Bright and Patrick Keenan, Judges and the Politics of Death: Deciding Between the Bill
+of Rights and the Next Election in Capital Cases, 75 B.U. L. REV. 759 (1995).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+31
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Yet the defendants’ first convictions were overturned due to the trial judge’s failure
+to deal with prejudicial pre-trial publicity. In 1987, when Dungee’s case returned to
+Seminole County for a retrial, Bright and his team moved to prevent Judge McMillan from
+overseeing the trial a second time, alleging “invidious discrimination against poor people
+and black people.”111 Although the issues were “somewhat painful” and “delicate,” it was
+necessary to probe the judge’s beliefs and past actions. Because this was “a racially
+sensitive” death penalty trial, they argued that it was “inappropriate for him to sit on this
+case.”112 Bright alleged that “George Dungee was called a ‘n*gger’ in Open Court in his
+last trial” overseen by McMillan and that he had done nothing about it.113
+They also pointed to Judge McMillan’s membership in an all-white country club,
+which they insisted violated the canons of judicial conduct, as well as his past political
+support for Ernest Vandiver, who ran for governor in 1959 on a platform of “No, Not
+One”—meaning not one black child in white schools, which they believed showed the
+judge was prejudiced. As Bright also noted during the recusal hearing, McMillan had never
+appointed a non-white jury commissioner for the counties he oversaw, “not a single time,”
+in over twenty years on the bench. These commissioners exploited discretionary state law
+to underrepresent black people on juries, despite the fact that two counties within his
+jurisdiction were majority-black.114 As a result, Bright argued, Judge McMillan was “very
+much a part of that system of white dominance.”115 Indeed, to bolster structural arguments
+of bias, Bright insisted that the judge had helped perpetrate “systematic mistreatment of
+indigent defendants” and black people, and not merely isolated acts of discrimination.116
+During the hearing, Bright called Judge McMillan himself to the stand and asked
+about his use of racial epithets—which the judge acknowledged under oath.117 Asked about
+his views about Brown v. Board, Judge McMillan testified that “he had no quarrel with it”
+now, but “don’t recall what I thought then,” though “it was controversial.”118 On the stand,
+he acknowledged that he supported Vandiver for governor, and that the candidate “was
+espousing a racial segregation in the schools.”119 Dungee’s lawyers also alleged that
+McMillan had withdrawn his daughter from public school out of opposition to integration,
+but could not get him to admit this in court.
+111 A Hearing on a Motion to Recuse Before the Honorable A. Blenn Taylor, Judge, Brunswick Judicial
+Circuit, and Sitting By Appointment for this Hearing [hereinafter, McMillan recusal hearing], State v.
+Dungee, No. 439, 444, 449, Oct. 6-8, 1986, at 12-17.
+112 Id. at 16.
+113 Id.
+114 Email from Stephen Bright to Robert L. Tsai (Oct. 14, 2021).
+115 McMillan recusal hearing, supra note 111, at 15.
+116 Id. at 16-17. Bright further described McMillan as an “arch segregationist” who had abused defendant’s
+constitutional rights in part because of his “ambition for higher office.” Id. at 17-18.
+117 Id. at 596-97.
+118 Id. at 601-02.
+119 Id. at 613.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+32
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Despite a somewhat mixed hearing record, a surprising thing did take place that
+altered Dungee’s fortunes. Bright’s aggressive tactics baited the judge into committing a
+misstep. Judge McMillan became so enraged at his impartiality being questioned that he
+retained his own lawyer for the hearing on the motion to recuse (heard by a different judge).
+Through this lawyer, he tried to intervene in the proceeding, monitor what was going on,
+and influence its outcome by conferring with attorneys for the state. McMillan claimed that
+he was “a participant” to the proceedings because “it’s my duty and responsibility to defend
+the propriety of my office.”120
+That gambit ultimately failed when the Georgia Supreme Court decided the
+interlocutory appeal on the recusal motion in Dungee’s favor. Without ruling on the
+ultimate issue of bias, and without mentioning “race” or “discrimination” a single time in
+the opinion, the justices seized on McMillan’s aggressive efforts to protect his own
+reputation as evidence that his “impartiality might reasonably be questioned.”121
+Once Judge McMillan was off the case, a deal was reached to take the death penalty
+off the table. Dungee pleaded guilty to three consecutive life terms.122
+SCHR pulled the same move in the retrial of Willie Gamble. Judge McMillan had
+presided over Gamble’s original murder trial, where prosecutors used all ten of their
+peremptory strikes against black jurors to manufacture an all-white jury. That jury
+sentenced Gamble to die, but the Georgia Supreme Court, citing Batson, reversed.123
+Bright, Bryan Stevenson, and Clive Stafford Smith124 didn’t want McMillan
+anywhere near the retrial. They moved to recuse him from overseeing Gamble’s case too,
+arguing that his previous convictions were reversed “due to violations of his constitutional
+rights, resulting from intentional, flagrant discrimination by the district attorney, which
+was routinely approved by Judge McMillan.”125 In the very first paragraph of their motion,
+they invoked McCleskey as a command that “the person on trial must show racial
+discrimination in the locality and the court in which he was tried.”126 Judge McMillan was
+just such a “decision maker” within the meaning of that case, they wrote, whose “racially
+discriminatory acts and encouragement and support of the racially discriminatory acts” of
+others already violated Gamble’s rights and would likely do so again. The unequal
+imposition of the death penalty “is the result of discrimination by the District Attorney in
+deciding in which cases he will seek the death penalty,” they insisted.
+Gamble’s lawyers turned up the rhetoric further, calling Judge McMillan a “rubber
+stamp racist,”127 and recited a litany of facts documented earlier in the Dungee case. This
+120 Id. at 575.
+121 Isaacs v. State, 355 S.E.2d 644 (Ga. 1987).
+122 Elliot Minor, Man Pleads Guilty to Slayings of Farm Family, ASSOC. PRESS, July 14, 1988.
+123 Gamble v. State, 357 S.E.2d 792 (Ga. 1987).
+124 Stafford left SCHR in 1993 to establish a death penalty resource center in Louisiana. He went on to
+found Reprieve and represent individuals detained in Guantanamo Bay, Cuba, as part of the War on Terror.
+125 Motion to Recuse Judge at 3, State v. Gamble, No. 26 (Emanuel Cty. Super. Ct. Jan. 5, 1988).
+126 Id. at 2.
+127 Id. at 4.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+33
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+time, they also argued that Judge McMillan had demonstrated lingering “antipathy” toward
+Bright’s staff because of “his public humiliation in the Dungee case” at the hands of SCHR
+lawyers. Judge McMillan initially refused to appoint Stafford Smith to Gamble’s case for
+the retrial, and instead came up with a plan to solicit bids to handle the defense and appoint
+the lowest bidder. SCHR accused McMillan of creating “a scheme to sell off justice to the
+lowest bidder,” and called it further proof of his bias. He even called up two lawyers and
+begged them to take the case, which Bright believed was an effort to “preclude Mr. Gamble
+from raising the issues of judicial racism at the retrial” and prevent him from “moving to
+recuse Judge McMillan for bias.”128
+Remarkably, Gamble’s defense team also researched Rule 11 sanctions to see how
+far they might go in federal court before they landed in hot water. According to Stafford
+Smith, what prompted this concern was that the team had drafted a civil RICO lawsuit
+against the judge, where violations of civil rights laws would serve as the predicate
+offenses. In the end, they opted not to file it.129
+The full-court press via state court proceedings turned out to be enough. Judge
+McMillan eventually stepped off the Gamble case. The prosecutor, seeing that Judge
+McMillan would not oversee the retrial, eventually resolved the case with a plea deal
+guaranteeing a life sentence.
+III. MCCLESKEY AS A SWORD
+Although they publicly sought to deny it moral legitimacy and constitutional
+validity outside of the courtroom, inside the courtroom SCHR lawyers deployed the
+McCleskey decision as a sword. They did so in several ways: (1) to justify their efforts to
+build a record of discrimination by the local power structure on the basis of race and
+poverty of the defendant and social worth of the victim; (2) to expand their structural
+critique of unequal justice to entire criminal legal systems on a county and/or judicial
+circuit basis; (3) to piggyback on those bias claims and request evidentiary hearings and
+documents so as to counteract the position of information disadvantage experienced by
+criminal defendants; and (4) to justify recusal of any judges and prosecutors found
+responsible for unconstitutional or unethical behavior.
+Uncertain of their chances of success or when their window of opportunity would
+close, SCHR lawyers pushed their “McCleskey motions” as hard and as far as they could
+to maximize the probability of judicial consideration of their motion, pressure the state’s
+lawyers to rethink their choice to pursue a death sentence, and to draw attention to issues
+of race and poverty.
+128 Id. at 11-12.
+129 Stafford Smith interview, supra note 107.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+34
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+A. Horton v. Zant
+After Amadeo’s case, SCHR lawyers learned to build on findings of prosecutorial
+misconduct to go after DA Joe Briley’s other cases. They decided to represent Jimmy Lee
+Horton, a black man under a death sentence who was also prosecuted by Briley. This time,
+Bright and his staff found an ingenious way to go after Briley’s use of peremptory
+challenges to remove prospective black jurors.
+Horton and his co-defendant, Pless Brown, Jr., had been arrested for burglarizing
+an apartment and killing the companion of the homeowner during a shootout when the two
+came home and surprised them. The dead man turned out to be Don Thompson, the District
+Attorney of Macon Judicial District, Georgia.
+Joe Briley was brought down specially from Okmulgee Judicial District to secure
+death sentences against the perpetrators. Brown, who wound up with a mixed-race jury,
+received a life sentence. By contrast, Horton was sentenced to die by an all-white jury. His
+court-appointed lawyers did no investigation and presented no mitigating evidence during
+the sentencing phase. In their closing remarks to the jury, they called their own client “a
+worthless man” and praised the prosecutor’s argument.
+Because Briley had such a long track record of aggressively seeking death
+sentences and scoffed at charges that capital punishment practices were racist, SCHR
+brainstormed ways to dig more deeply into his jury strikes over the course of his career.
+Their success in doing so created a template for action in subsequent cases.130
+1. A Mini-McCleskey Hearing
+Judge Wilbur Owens of the Northern District of Georgia was assigned to review
+Horton’s habeas petition—the same judge who had granted relief in Amadeo’s case based
+on the jury rigging violation. Judge Owens scheduled an evidentiary hearing on Horton’s
+petition and ordered the state to engage in “expeditious discovery.” At that time, before
+enactment of the AEDPA,131 it was still possible to get evidentiary hearings on habeas
+petitions. Only later would federal judges increasingly deny claims based on the papers
+alone.132
+130 Sonji Jacobs, Where Cases Diverge, ATLANTA J.-CONST., Sept. 24, 2007, at A8; Maura Dolan,
+Executions: The South—Nation’s Death Belt, L.A. TIMES, Aug. 25, 1985; KATYA LEZIN, FINDING LIFE ON
+DEATH ROW 139-40 (1999).
+131 The Anti-Terrorism and Effective Death Penalty Act of 1996, which amended 28 U.S.C. Sec. 2254,
+imposes a statute of limitations on writs of habeas corpus for the first time and prevents federal judges from
+granting relief to prisoners under a state conviction unless person could show that a judgment was
+“contrary to, or involved an unreasonable application of, clearly established Federal law.”
+132 Horton v. Zant, 687 F. Supp. 594 (M.D. Ga. 1988).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+35
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+On October 18, 1989, Bright handled the live hearing.133 He called Briley to the
+stand to authenticate the jury-rigging memo. That memo, which had led to Amadeo’s
+conviction being overturned in the U.S. Supreme Court for jury manipulation,134 now
+became evidence in Horton’s case, as Bright argued that the document ought to be treated
+as proof that the prosecutor had a history of racially discriminatory behavior. Bright wanted
+the judge to infer that Horton’s case, too, was tainted by Briley’s participation.
+McCleskey v. Kemp hung over every facet of this pre-trial hearing. “The issue is
+who is the person behind this discrimination?” Bright reminded.135 He was concerned about
+Justice Powell’s insistence in McCleskey that legal theories of inequality must be traced to
+specific perpetrators. If the proof of discrimination wasn’t in the record, if the judge didn’t
+find that someone in particular was responsible for purposeful discrimination that occurred
+in his client’s case, then Horton couldn’t benefit even if there were racial disparities.
+“Your Honor, Mr. Briley in case after case was resisting jury challenges, taking
+advantage of the fact that people weren’t prepared for jury challenges,” Bright argued. “All
+of that flies in the face of this testimony that in this one particular case he was advising the
+judge that he ought to put the full number of blacks and women in the pool.”136
+“You’re not going to win or lose based upon that one incident,” Judge Owens said.
+“The pattern of years, all these cases,” was what mattered.137
+Bright turned to a study compiled by SCHR staff on Briley’s juror strikes over his
+career. In the months leading up to the hearing, the staff hunted down old case files, trying
+to reconstruct the twists and turns of jury selection in the cases tried by Briley across eight
+different counties since 1974. Three of the counties did not retain the records, but they
+successfully charted 25 capital and 159 non-capital cases of Briley’s. They then had to
+cross-reference that information with county voter registration lists to identify each juror’s
+race.138
+Displaying the document in his hand, Bright asked Briley: “In 1977 you also tried
+the Walker case in Jasper Country… And in that case you used seven of your peremptory
+strikes against seven black people; is that correct?”
+“If that’s what the record shows,” Briley shrugged.
+“You’re not able to recall any reasons why you struck those people?”
+“No sir,” Briley responded.
+Bright said to Briley: “It is your testimony that the fact that all seven happened to
+be black people is just coincidental?”
+“Yes sir.”
+133 Interview with Andy Lipps (Mar. 5, 2020); “Did you prepare that document, Mr. Briley?” Bright asked.
+“I believe I did,” Briley replied. Q: “Is it in your handwriting?” A: “I would say that it is.”
+134 Amadeo, 486 U.S. 214.
+135 Transcript of Hearing Before Honorable Wilbur D. Owens, Jr. at 61-62, Horton v. Zant, Civil No. 88-
+46-1-MAC, Oct. 18, 1989.
+136 Id.
+137 Id.
+138 Interview with Mary Sinclair (Mar. 17, 2020); LEZIN, supra note 130, at 149-50.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+36
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+“In the Finney case in Jones County you used seven of your strikes against black
+people?” Bright inquired. “Are you able to recall any of the reasons for that?”
+“No sir,” Briley testified. His strategy as a witness was to deny any memory of why
+he rejected so many black citizens as prospective jurors and hope that the silence in the
+record would be enough to satisfy tolerant judges.
+After leading him through the exhibit and getting Briley to admit to the disturbing
+pattern of decisions to excuse black jurors from his trials over many years, Bright got Briley
+to admit that he used nine out of ten strikes against black jurors in Brown’s case. And in
+Mr. Horton’s case, he also used nine out of ten strikes against black jurors.
+On cross-examination, the state’s lawyer, Paula Smith, asked Briley to describe the
+process of jury selection in Georgia. He explained that “you’ve got to have all twelve jurors
+to vote for the death penalty because if one of them votes against the death penalty . . . it is
+a life sentence. So it takes a perfect score.”139
+On redirect, Bright tried to underline the racial patterns. “You used ninety-six of
+your hundred and three strikes, 94% of your strikes, against black people. Do you know
+why these reasons you have tend to fall so heavily upon black people?” Briley had no
+explanation.
+When Briley had a case with a black defendant and black victim, he exercised
+seventy-three of eighty-six jury strikes against black jurors. Yet when it came to cases
+involving white defendants, the prosecutor did not exhibit the same enthusiasm for
+excluding black jurors. In such cases, Bright pointed out, “you only used a third of your
+strikes against blacks.”
+Next, Horton’s lawyers called Gary Liberson, a PhD in mathematical statistics to
+the stand.140 Liberson testified that he examined Briley’s juror strikes over many years on
+a county-by-county basis to see whether they were “consistent with the ratio or percentage
+of blacks in the population for that particular county.” What was the probability that
+Briley’s decisions reflected “just the random selection of jurors” who “just happened to be
+black?” He answered that “there was about one chance in a hundred thousand that that
+would have been so.”141
+As to Briley’s comparatively less vigorous use of juror strikes in cases with white
+defendants, it was also roughly “one chance in a hundred thousand” that the pattern was a
+random one. On cross-examination, the state’s attorney got Liberson to admit that “the
+most your analysis would reveal is that the numbers do not show what one would expect if
+the prosecutor struck at random.” She tried to suggest that any number of subjective factors
+not considered by the expert could explain the disparity. In response, Liberson said that
+even if there were some other set of components that were strongly associated with race,
+“they would dampen the results” but not “make the results non-significant.”
+139 Horton v. Zant, hearing transcript, supra note 135, 85-86.
+140 Id. at 95; Lipps interview, supra note 133.
+141 Horton v. Zant, hearing transcript, supra note 135, at 108-09.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+37
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+The state’s lawyers called to the stand Joseph Katz, the very statistician Georgia
+had used in the McCleskey case to rebut the Baldus study. Katz disputed Liberson’s
+conclusions but didn’t offer any alternative study or explanation, saying “some things don’t
+easily reduce to numbers.” Under cross-examination, he conceded that Liberson’s methods
+were “appropriate” and that he did not try to replicate Liberson’s findings. He also
+acknowledged the probability of Briley’s pattern of strikes being random was “very low.”
+In fact, he agreed that Liberson’s finding of racial disparity to be “statistically significant”
+because “if you were a black defendant Mr. Briley was more likely” to strike black jurors.
+After all the witnesses and exhibits were entered into the record, Bright addressed
+Judge Owens. What the evidence showed was that “Mr. Briley has a remarkable history of
+striking black people from juries.” In capital cases “90% of the time he used his strikes
+against black jurors.” The “only time he changes,” Bright argued, “is when he has white
+people on trial.”142 Summing up, Bright urged Judge Owens to find that when he picked
+his client’s jury, he “deprived members of Mr. Horton’s race of participation in the judicial
+process.”
+During her remarks, Smith acknowledged that Horton had shown that the state “has
+struck a higher proportion of black jurors than white jurors,” but said that still didn’t violate
+the Constitution. The petitioner’s burden under Swain was to prove “historic systemic
+exclusion,” she insisted.
+On April 12, 1990, Judge Owens denied the writ. On the most promising claim,
+Judge Owens concluded that Horton “did not show that the prosecuting attorney has
+historically and systematically excluded blacks from serving on trial juries.” He made
+quick work of Horton’s remaining claims, leaving his conviction undisturbed.143
+2. The Eleventh Circuit Validates Rebellious Localism
+Horton’s Eleventh Circuit brief put the jury issue front and center. “Swain does not
+require a defendant who has been victimized by the prosecutor’s racially motivated abuse
+of peremptory challenges to show … that the prosecutor always successfully obtained all-
+white juries in the past,” they argued. Instead, “the central question is purposeful
+discrimination.” And on that issue, the actual “history of Mr. Briley’s practices reveals his
+intent and strips his anti-black peremptory challenges at Mr. Horton’s trial of any
+presumption of propriety.”144
+On September 3, 1991, the Eleventh Circuit issued a unanimous ruling reversing
+Judge Owens. Judge Frank Johnson first took up the issue of peremptory challenges.
+Although the Supreme Court in Batson made it easier for a defendant to challenge jury
+strikes, Horton could not rely on that decision because his trial took place before that case
+was decided. Instead, he was bound by Swain. There, a black man convicted of rape by an
+142 Id. at 205-14.
+143 Order of the Court, Horton v. Zant, No. 88-46-1-MAC (WDO), Apr. 12, 1990.
+144 Brief of Appellant at 11, 13-30, Horton v. Zant, No. 90-8522 (Nov. 16. 1990).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+38
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+all-white jury after a prosecutor used his peremptory challenges to remove all the black
+citizen from the pool. He also showed that there had never been a single black person
+allowed to serve on a criminal trial in Talladega County, Alabama, since 1950 even though
+the county was 26% black. Yet the fact that the jury panels were consistently
+underrepresented at 10-15% was deemed by the Swain Court not enough to make out a
+violation of the Equal Protection Clause. No one is entitled “to demand a proportionate
+number of his race on the jury which tries him,” Justice Byron White wrote. A defendant
+is entitled only to a trial free of intentional discrimination.
+Justice White ruled in Swain that the fact that in a single trial “all Negroes were
+removed from the jury” was not enough to overcome the presumption that a prosecutor is
+doing so “to obtain a fair and impartial jury.” The only way to strip a public servant of the
+presumption of good faith was to present proof that “the prosecutor in a county, case after
+case, whatever the circumstances, whatever the crime, and whoever the defendant or the
+victim may be, is responsible for the removal of Negroes who have been selected as
+qualified jurors by the jury commissioners.”145
+Over the years, Eleventh Circuit applied Swain, already a demanding standard, in
+exacting fashion. As Judge Johnson pointed out in Horton’s case, the court had in the past
+rejected claims even when a prosecutor struck every black juror in six trials during a single
+week.146 Luckily, Horton’s lawyers had met that high burden. “Mr. Briley’s hardball tactics
+clearly do not comport with the prosecutor’s obligation to ‘do justice,’” Judge Johnson
+admonished. It was the first time the Eleventh Circuit had ever found a Swain violation in
+a Georgia case.147
+Citing Amadeo, Judge Johnson also emphasized Briley’s role as “author of a now
+infamous memo designed to underrepresent blacks, women and all individuals 18-24 years
+old” in Putnam County’s juries. As for Briley’s new tale “that he should not be morally
+culpable” because a now-deceased judge had instructed him to manipulate the jury pool,
+“even if we were to assume Mr. Briley’s version of the story was true, we cannot condone
+his behavior.” The “mere fact that a judge orders a prosecutor to engage in unconstitutional
+discrimination on the basis of race and sex does not make the behavior right.” He added:
+“A prosecutor has a duty to ‘do justice,” and to “not engage in the subsequent cover up.”148
+After pointing to evidence of Briley’s misconduct, he turned to the pattern
+uncovered by SCHR investigators. Judge Johnson embraced the weight of their findings:
+“Between 1974 and 1981, Mr. Briley exercised 1,580 peremptory strikes” across three
+counties, 70% of them against black jurors. In capital cases that percentage ticked even
+higher: 79% to remove black jurors without explanation (184/234 strikes). When a murder
+trial involved a black person charged with killing a white person, Briley exercised 96 out
+145 Swain v. Alabama, 380 U.S. 202, 223 (1965).
+146 In Allen v. Hardy, 478 U.S. 255 (1986), the Supreme Court held that Batson would not be applied
+retroactively because it announced a new constitutional rule of criminal procedure.”
+147 Horton v. Zant, 941 F.2d 1449 (11th Cir. 1991).
+148 Id. at 1457.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+39
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+of 103 strikes against black jurors. The panel was impressed with Dr. Liberson, twice citing
+his findings that the likelihood Mr. Briley exercised his peremptory challenges for race
+neutral reasons “was less than 1 chance in 100,000.”
+Judge Johnson rejected the state’s explanation for these racial patterns: “courts
+cannot make a blind leap of faith that there exists some set of legitimate factors which
+correlates one-to-one with the race of the venire members.” But even a prosecutor who acts
+with a “mixed motive”—where race is one among other factors in striking black jurors—
+is violating the Constitution. “From Horton’s statistics,” the judges said, “we cannot help
+but conclude that race was a very significant factor in Mr. Briley’s decision-making
+process.”149
+A prosecutor’s past violation of the Equal Protection Clause in one case had actual
+consequences in subsequent cases. Moreover, the mini-McCleskey strategy had worked.
+Despite McCleskey, or ironically perhaps because of it, the Eleventh Circuit embraced
+statistical evidence presented on a smaller scale. It’s not obvious that the statistical
+evidence was more scientifically sound than the Baldus study, but the bite-sized sample,
+involving one person in power across time, appealed to judges’ desire for simpler stories
+about causation and evidence about racial discrimination that could be attributed to specific
+individuals. Doubling down on equality, subverting doctrine, and scaling down their targets
+had paid off.
+This was a resounding legal victory that exposed prosecutorial misconduct, racial
+inequality, and the subpar quality of justice for poor Southerners. The media called it “yet
+another rebuke” of Briley “for keeping blacks off juries.”150
+Faced with the prospect of having to retry the case after all these years, Briley
+agreed to a plea deal that assured a life sentence for Horton. Success in Amadeo had created
+legal precedent on trial fairness and racial equality, and that precedent, in turn, had been
+successfully leveraged for Horton. Additionally, the Eleventh Circuit’s surprising ruling
+now gave abolitionists a useful weapon. In theory, Putnam County’s jury-rigging practices
+could be leveraged to force a second look at other cases—if the issue had been preserved
+or else new evidence can overcome procedural obstacles.
+B. State v. Brooks
+William Anthony Brooks, an African American man, was charged with the
+abduction, rape, and murder of a white woman, Carol Jeannine Galloway. The victim’s
+mother saw her climb into Brooks’ car in front of her home, and her body was later
+149 Additionally, the panel found that the legal representation afforded Horton to be constitutionally deficient
+“under prevailing professional norms,” and therefore a violation of the Sixth Amendment. Horton’s original
+court-appointed lawyers put on absolutely no mitigating evidence and “performed hardly any investigation.”
+Id. at 1462.
+150 Katie Wood, Briley Handpicks Another Defeat, FULTON COUNTY DAILY REPORT, Sept. 5, 1991; David
+Goldberg, Verdict in D.A.’s Slaying Voided, ATLANTA J.-CONST., Sept. 4, 1991.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+40
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+discovered behind an elementary school. An all-white jury in Columbus, Georgia,
+sentenced Brooks to die in the electric chair after Mullins Whisnant, Pullen’s predecessor,
+told jurors that Georgia’s crime rate had risen since 1964, the date of the last execution,
+and that “we didn’t have this kind of murder … when we had capital punishment.”
+At sentencing, Whisnant invoked “the war on crime” as a reason to deal with
+Brooks harshly and told jurors that it would be more expensive for taxpayers to imprison
+Brooks than kill him. Whisnant urged jurors to think of themselves as “soldiers” in the
+battle against a crime wave: “You can tell William Brooks, and you can tell every criminal
+like him, that if you come to Columbus and Muscogee County, and you commit a crime
+… you’re going to get the electric chair.”
+The Eleventh Circuit found these tactics disturbing. A panel called out the
+prosecutor for inviting the jurors to “forego an individualized consideration of Brooks’
+case and instead choose to kill him merely because he was part of the broad ‘criminal
+element’ terrorizing American society.” Bright and Kendall, who took on Brooks’ appeal,
+emphasized Whisnant’s improper political rhetoric inside the courtroom, but the Eleventh
+Circuit ultimately found these remarks amounted to “harmless error” because of the
+overwhelming evidence of guilt. At the same time, the panel overturned Brooks’ conviction
+for a different reason: the trial court mistakenly instructed jury members that they could
+presume every murder to be “malicious.” Doing so improperly shifted the state’s burden
+of proof to the defendant.151
+Brooks had been tried in 1977 before an all-white jury and sentenced to death even
+though black people made up 30% of the community. Bright believed that race had played
+a significant role in Brooks’ case—and not just because of Whisnant’s conduct. John Henry
+Land, the judge who presided over Brooks’ trial, gave him two uncaring lawyers who did
+little to protect him from the state. Land’s father, Aaron Brewster Land, had also
+participated in two lynchings in the area when John Henry was just a boy. First elected in
+1964, Judge Land himself publicly acknowledged long-held segregationist views. He had
+even belonged to the States’ Rights Council of Georgia, Inc., organized to preserve “the
+traditional establishment of segregation in both public and private places” and oppose
+Brown v. Board, which the group derided as “the Thurgood Marshall Plan,”152 though Land
+later renounced his past support for segregation.
+His conduct as a proud “hanging judge,” particularly in high-profile cross-racial
+murder trials, suggested something different. The more that Bright learned about Judge
+Land’s handling of the first trial, the more he became convinced that Judge Land had helped
+carry out a “legal lynching” of Brooks.153 Over the objections of the jurors, Land had
+permitted cameras in the courtroom for the sensational cross-racial murder trial—a first in
+151 Brooks v. Kemp, 762 F.2d 1383, 1414-15 (11th Cir. 1985).
+152 MCFEELY, supra note 58, at 123; Brochure, The Aims and Purposes of the States’ Rights Council of
+Georgia; 200 Political Leaders Form Racial Group, MACON NEWS, Sept. 24, 1955, at 1.
+153 Tim Chitwood, Powerful Judge John Henry Land Dies at Age 93, LEDGER-INQUIRER, Dec. 2, 2011.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+41
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Georgia’s history.154 Just by reading the transcripts of jury selection, Bright could guess
+the race of the jurors. “I could tell by the way they treated those eight people which ones
+were black because they would lead them into answering the questions in a way that got
+them excluded from the jury,” Bright recalled.
+During voir dire, prospective jurors who acknowledged hearing about the high-
+profile killing in the news were asked follow-up questions. Judge Land and the prosecutors
+would lead the white prospective jurors into saying that they could put aside what they
+knew about the case and decided the case based on the evidence. With black jurors, they
+would lead them into saying they had already formed an opinion about the case and would
+have trouble putting it aside. Judge Land’s supervision of jury selection in Brooks’ original
+trial left few prospective jurors in the pool, who were easily removed by prosecutors
+through peremptory challenges.155
+1. Recusing All the Judges and Prosecutors of a Circuit
+Bright and Kendall remained counsel for Brooks’ retrial, adding recent Yale Law
+School graduate Ruth Friedman156 as well as Columbus attorney and state senator Gary
+Parker. Because Columbus had the “dubious distinction” of being an outlier—
+“condemning more people to death since 1973 than any other place in Georgia”157 Bright
+felt that they would have to escalate their tactics to match county officials’ strong push for
+the death penalty. When the case returned to Muscogee County, they filed a 23-page
+motion to recuse Judge Land because of his “intentional racial discrimination” and
+requested that the case be assigned to a judge outside of the Chattahoochee Circuit.158
+Although he claimed it had nothing to do with the substance of the motion, Judge
+Land stepped aside, saying that “the fact that I did try it before might give an appeals court
+something to hang their hat on.”159 On March 24, 1988, Bright then moved to recuse Judge
+Rufe Edwards McCombs, the next judge assigned to Brooks’ case, and renewed the defense
+request that the case be moved outside the circuit entirely.160 In that same motion, they
+insisted that none of the judges in the circuit could be impartial given that under McCleskey
+v. Kemp their client “must show the discriminatory intent of all key ‘decision makers’” and
+that the key figures “in this case are friends, colleagues and associates who are part of the
+154 Columbus Sees First TV Trial, Associated Press, MACON NEWS, Nov. 17, 1977, at 1.
+155 The Reminisces of Stephen B. Bright, The Rule of Law Oral History Project, May 24 & 26, 2009.
+156 Friedman later became a Senior Attorney at EJI. She argued Harris v. Alabama, 513 U.S. 504 (1995) in
+the Supreme Court. In 2006, she became Director of the Federal Capital Habeas Project.
+157 Unpublished editorial by Stephen B. Bright sent to Columbus Ledger-Enquirer, June 6, 1991, at 2.
+158 Judge Will Leave Case After Racial Bias Alleged, ASSOC. PRESS, reprinted in ATLANTA CONST., Jan. 28,
+1988, at 43.
+159 Id.
+160 Motion for Judicial Disqualification and Reassignment Outside of Chattahoochee Circuit, State v.
+Brooks. Nos. 38888 & 54606, Mar. 24, 1988.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+42
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Court and judicial circuit” on which Judge McCombs and others serve.161 Judge Land, the
+chief judge of the circuit, “both participated in discrimination against Mr. Brooks and
+allowed it to take place before him in the previous prosecution of this case.”162
+Furthermore, all of these judges regularly conferred with Judge Whisnant, who originally
+prosecuted the case against Brooks, who “expects to show that as district attorney Mullins
+Whisnant discriminated against black people in his decisions to seek the death penalty and
+that he sought the death penalty against William Brooks as part of those discriminatory
+practices.”163
+Additionally, the defense signaled that they would attempt to show that the current
+District Attorney William Smith, who happened to be “a candidate to join Judge McCombs
+on the bench,” had merely “continued the discriminatory practices of his predecessor,” as
+assistant district attorneys “have sought to exploit these discriminatory practices to get the
+white vote in the current and past elections.”164 Whoever ultimately presided over the trial
+would also have to evaluate evidence that other officials and employees of Muscogee
+County “have conspired to deny black people full-fledged participation on jury
+commissions, on the master jury lists, on grand and traverse juries, and in positions of
+employment in the clerk’s office, the offices of the judges, … resulting in discrimination
+against black defendants who come before the Court.”165 Bright argued that “the
+appearance of a conflict of interest will be created” when Judge McCombs—or frankly any
+other judge who worked closely with Judge Land in the circuit—“is called upon to
+determine Mr. Brooks’ McCleskey claim.”166
+Brooks’ lawyers added another motion demanding a public hearing on their recusal
+motion, as well as discovery of any evidence in the possession of the District Attorney as
+well as any judge or court personnel.167 Bright repeatedly deployed McCleskey offensively:
+“Where the state seeks to utilize society’s ultimate sanction, it has an overriding obligation
+to provide a fair forum. In the vernacular of McCleskey, its decisionmakers must stand
+beyond repute. Mr. Brooks has filed a motion claiming that Muscogee county
+decisionmakers fail this test.”168
+The next step involved trying to hold the D.A.’s office responsible for past
+discrimination by blocking their participation in subsequent cases. Seeking maximum
+media coverage of their racial bias claims, Bright followed up with a motion to disqualify
+161 Id. at 3.
+162 Id. at 4.
+163 Id.
+164 Id.
+165 Id. at 5.
+166 Id. at 6.
+167 Omnibus Motion for Discovery and Notice to Produce Information Necessary for Hearing on Motion for
+Judicial Disqualification, State v. Brooks, Nos. 38888 & 54606 (Apr. 13, 1988).
+168 Id. at 6.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+43
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+the entire Muscogee County District Attorney’s office.169 “The current occupant of that
+office is one whose political identity is based almost exclusively on the death penalty,” the
+motion stated. “The death penalty was the major issue in his campaign for District
+Attorney.” That public posture meant that prosecutors were violating the accused’s “due
+process and other rights” by failing to consider legal reasons for whether to seek the death
+penalty—i.e., “the unique circumstances of the offender and the crime.” In fact, whether
+out of improper “personal or political” interests or “loyalty” to one part of the community
+over another, the D.A. “has refused even to consider a sentence of less than death in this
+case.”
+It was a long shot, but Judge Whisnant, who handled the case when he was a
+prosecutor, recused himself. Eventually, Brooks’ team got what they wanted: the case was
+assigned to Judge Hugh Lawson from the Oconee Judicial Circuit.170 That key switch in
+judicial personnel opened the possibility for the defense to ratchet up rebellious localism
+even further.
+Bright and his staff immediately moved to quash the original indictment against
+Brooks from 1977, arguing that it was still tainted by the constitutional defect identified in
+the Amadeo litigation. The D.A. wisely chose not to contest that motion. Instead, he
+resubmitted the case to a grand jury in 1987 and received another indictment. His lawyers
+then objected to the new grand jury proceeding as “fundamentally unfair” because the
+District Attorney Doug Pullen gave a campaign speech during his presentation. This
+motion was denied.171
+2. Structural Racism Claims
+Before a new judge, Brooks’ team filed multiple motions to block the death penalty,
+making a variety of equality arguments. All told, Bright explained to Judge Lawson, “we
+come out with about fifteen issues approximately that are worthy of the Supreme Court of
+169 Motion to Disqualify the District Attorney of the Chattahoochee Judicial Circuit, State v. Brooks, Nos.
+38888 & 54606 (Apr. 16, 1990).
+170 Brooks’ team also moved to recuse Judge Lawson for a different reason than bias: that his judgeship was
+created in violation of the Voting Rights Act of 1965 and that the method electing superior court judges in
+Oconee Judicial Circuit via “majority-vote, designated-post, and circuit-wide elections … dilute the voting
+strength of African Americans.” See Motion that All Further Proceedings Be Before a Judge Selected in
+Compliance With the Voting Rights Act and the Constitution at 5, State v. Brooks, Nos. 38888 & 54606
+(Apr. 16, 1990). Not only did Brooks’ lawyers cited relevant voting rights cases, but they also threw in
+McCleskey v. Kemp with the statement: “Fourteenth Amendment is violated when defendant in a capital
+case shows a direct link between racial discrimination and ‘the decision makers in his case.” Id. at 7.
+Lawson rejected the motion as untimely, but also ruled that recusal wasn’t warranted on June 5, 1990. The
+rest of the pretrial motions were heard, and trial commenced.
+171 Pretrial Hearing, State v. Brooks, Nos. 38888 & 54606 (Muscogee Cty. Super. Ct. Aug. 15, 1990); Pre-
+Trial Hearing at 8, State v. Brooks, Nos. 38888 & 54606 (Muscogee Cty. Super. Ct. Sept. 11, 1990).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+44
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Georgia looking at.”172 In late September 1990, Judge Lawson wavered, asking Pullen
+whether he “feel[s] so absolutely certain about the State’s legal position on all of these
+issues that you are prepared to spend the time and money to have the trial and run the risk
+that any of these could make the train jump the track when the trial is over?”173
+One defense motion sought “to bar the death penalty because of racial
+discrimination.”174 A second sought to “bar the death penalty because of victim-impact
+evidence.” A third motion tried to stop capital punishment from being inflicted because it
+“is sought based on worth and status on victim.” A fourth asked for a preliminary ruling to
+“bar any prosecutorial misconduct … that has been sort of a hallmark of capital cases in
+the Chattahoochee Circuit.”175 This last motion didn’t just try to stop certain kinds of racist
+litigation practices during Brooks’ retrial, but also sought to bar all future capital
+prosecutions in the jurisdiction. According to Bright, the constitutional violations ran deep:
+[Y]ou can take the first capital case that Judge Whisnant tried when he was
+district attorney and you can look at the closing argument in that case, which
+was basically the kind of argument you would make on the courthouse stairs
+at a lynch mob, not the kind you make in a courtroom to a jury. And you
+can look [at[ an argument Mr. Pullen made the last time he argued a case
+and you’ll find all those elements… They go right through Whisnant’s
+arguments to Judge Smith’s arguments and to the arguments this present
+day, and we suggest that the Court has to take action to stop it.176
+Bright alleged that the District Attorney’s office had a practice of racial
+discrimination that encompassed not just jury selection tactics but also abuse of charging
+discretion and racially inflammatory oral advocacy. He wanted Brooks’ trial to become a
+vehicle for documenting these overlapping racist practices that infected all capital cases
+handled by the office. “Racial discrimination in Muscogee County in its criminal justice
+system, and in the practices of the District Attorney’s office, is so deep-rooted and
+pervasive that it is impossible to ensure that such discrimination will not play a
+determinative and unconstitutional role in the outcome of Mr. Brooks’ trial,” they argued
+172 Pretrial Hearing at 37, State v. Brooks (Sept. 25, 1990). One interesting pre-trial motion challenged the
+state practice of having motions for the funding of experts handled in adversary proceedings. SCHR
+successfully won the right to apply ex parte to a trial judge for experts and investigative assistance so as to
+not disclose trial strategy, work product, and privileged communications to the prosecution. Brooks v.
+State, 385 S.E.2d 81 (Ga. 1989).
+173 Id. at 48.
+174 Id. at 38.
+175 Pre-trial Hearing, State v. Brooks, Nos. 38888 & 54606 (Muscogee County Superior Court), Sept. 11,
+1990, at 38.
+176 Id. at 40.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+45
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+in their memorandum of law.177 “Thus, under McCleskey, this Court must prohibit the State
+from seeking a sentence of death against Mr. Brooks.”178 Quoting Justice Powell’s own
+words, they insisted that “any evidence which suggests that the ‘risk [of racial
+discrimination is] constitutionally acceptable, McCleskey, … is valuable and probative” on
+the question of whether a prosecutor has abused his prosecutorial discretion.179 Recounting
+the history of racism in the state and county, the legal memo also invited judges to subvert
+the original McCleskey decision by linking Justice Brennan’s dissent in that case to other
+cases that documented discrimination against black residents of Georgia.
+As a result, Bright demanded an injunction against the prosecutor’s office and
+anyone who might be involved in carrying out a death sentence:
+We will show that, first, when Judge Whisnant, then District Attorney
+Whisnant, was district attorney for a number of years here, his right-hand
+person was Bill Smith. During that time Mr. Pullen came into the office.
+Judge Whisnant, only three months after getting the death penalty for
+William Brooks in the first televised trial in Georgia history, went on to
+become a judge. Judge Smith took over as district attorney. Mr. Pullen
+moved up to being the chief assistant… Judge Smith tried the Carlton Gary
+case, the silk-stocking stranglings. He went on to his judgeship. Mr. Pullen
+moved into the district attorney’s office… it’s been a history with a lot of
+racial discrimination.180
+The decision whether to seek the death penalty has “been made primarily by three
+white men over the last 17 years: Judge Whisnant, Judge Smith, and Mr. Pullen… those
+three people have really decided which 24 people would be subject to capital cases or
+not.”181 During argument on the motion, Bright insisted that their evidence of racial bias
+would be stronger and more direct than that laid out in McCleskey itself. “I want to make
+it clear that this is not an elaborate multiple-regression analysis that we’re going to be
+177 Memorandum of Law in Support of Defendant’s Motion to Bar the Death Penalty Because it is
+Arbitrarily and Discriminatorily Sought and Imposed in the Chattahoochee Judicial Circuit on
+Impermissible Racial Grounds at 2, State v. Brooks, Nos. 38888 & 54604 (Muscogee Cty. Super. Ct. Apr.
+16, 1990).
+178 Id. at 3. See also Supplemental Memorandum of Law in Support of Motion to Bar Death Penalty
+Because of Race and Victim Status Grounds at 2 n.2, State v. Brooks, Nos. 38888 & 54604 (June 4, 1990)
+(“The Supreme Court held in McCleskey v. Kemp … that a sentencing decision based on unconstitutional
+distinctions among crime victims violates the rights of the person so sentenced to equal protection and to
+freedom from arbitrary government action.”).
+179 Id. at 47.
+180 Id. at 44.
+181 Id. at 46.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+46
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+putting on.” Rather, “it’s a very straight-forward” set of exhibits demonstrating the
+prosecutor office’s biased charging decisions.182
+As for the motion seeking to replicate McCleskey’s findings on a smaller scale,
+Bright argued that the District Attorney’s office improperly considered race in deciding
+whether to seek death. He noted that “the three capital cases pending in this court,”
+including that of Brooks, “all involve black people charged with murders of white
+people.”183
+In advance of a public hearing on these motions, Parker and Rev. Lowery held an
+anti-death penalty event at the Fourth Street Baptist Church in Columbus. The two men
+told the citizens assembled that race, not the nature of the offense, was “the most significant
+criteria” for the death penalty in the area.184 “It’s wrong to teach our children to be
+vindictive rather than preventive,” Dr. Lowery told the crowd. “It’s wrong to teach … that
+white life is more valuable than black life.”185 After the event, the two men paid a visit to
+Brooks’ jail cell to highlight popular complaints of local injustice. Their explicit goal was
+to marry harm reduction in court and abolition outside the courtroom: “to make people in
+Columbus aware of the inequities and tremendous cost inherent in this system” of killing
+their own.186 The media marveled at SCHR’s strategy of rebellious localism, noting that it
+involved a “dramatic” turning of the tables to focus “on the prosecution’s motives” because
+of McCleskey v. Kemp.187
+Pullen denied racism in the D.A.’s office and bristled at being called “nasty, nasty
+names in front of the courthouse.”188 In response to the motions, he demanded access to
+any raw data, any “information that went into this computer that led to this so-called
+study.”189 He lashed out abolitionist death penalty lawyers, saying “they will do any deed,
+tell any lie, hurt any cause, nation or individual in order to achieve the end to capital
+punishment in this country.”190 Otherwise, Pullen said in court, “Let the games begin.”191
+182 Id. at 49.
+183 Pre-trial Hearing at 42, State v. Brooks, Nos. 38888 & 54606 (Muscogee Cty. Super. Ct. Sept. 11, 1990).
+A separate motion for discovery demanded “any and all records in the possession of the District Attorney
+regarding each and every homicide case prosecuted in the Chattahoochee Judicial Circuit since Jan. 1,
+1973.” Motion for Discovery and Notice to Produce Information Necessary for hearing on Motion to Bar
+the Death Penalty Because it is Arbitrarily and Discriminatorily Sought and Imposed in the Chattahoochee
+Judicial Circuit on Impermissible Racial Grounds, State v. Brooks, Nos. 38888 & 54604 (Apr. 16, 1990).
+184 Ken Edelstein, Civil Rights Leaders Campaign Locally Against Death Penalty, COLUMBUS LEDGER-
+ENQUIRER, Sept. 9, 1990, at A-1.
+185 Id.
+186 Edelstein, supra note 184, at A-11.
+187 Katie Wood, Proffering the Prosecution, FULTON COUNTY DAILY REPORT, Sept. 14, 1990, at 1, 4-6.
+188 Pre-trial hearing, State v. Brooks, Sept. 11, 1990, at 55.
+189 Id. at 56-57.
+190 Kimball Perry, Brooks’ Defense Raises Race As Issue in Death Case, COLUMBUS LEDGER-ENQUIRER,
+Aug. 15, 1990, at D-1.
+191 Pre-trial hearing, State v. Brooks, Sept. 11, 1990, at 59.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+47
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+At one point, Bright and his staff questioned Pullen and two other former
+prosecutors, including Judge Whisnant, under oath. Asked about their charging decisions,
+the prosecutors recited exactly the same race-neutral criteria, i.e., whether there were
+aggravating factors to justify a death sentence. Yet Brooks’ team tried to rebut their
+testimony as to their charging decisions by putting on relatives of black homicide victims
+who testified that the investigation and prosecution of their cases were not pursued with
+the same kind of diligence as crimes against white victims. While black citizens were the
+victims of 65% of homicides in the county, “almost all of the death penalty cases that have
+been tried have involved white victims, 20 out of 24.”192 These family members, “their
+voices quavering with emotion, described the district attorneys’ callous disregard for their
+cases.”193 They said that the D.A.’s office often did not even stay in close contact with
+them before resolving cases. One African American woman learned that her daughter’s
+killer had already been sentenced when she called the police to see when the trial would
+be. Another witness, also black, testified that the D.A.’s office allowed her husband’s killer
+to plead guilty without consulting with her beforehand. By contrast, when Brooks offered
+to plead guilty and accept life without parole, Pullen consulted the victim’s family before
+deferring to them and refusing a deal.194
+At one point, to try to stop the testimony from the family of black murder victims,
+Pullen stood up and conceded that victims’ families “had been treated callously in the past”
+and that as the new D.A., he had tried to make amends.195 But the judge permitted the
+defense to proceed.
+During a remarkable courtroom exchange, Bright objected to the judge’s initial
+ruling that admissible evidence as to racism within the county’s legal system would be
+limited “to the last 18 months.” Bright said that so sharply limiting the historical proof
+would be tantamount to doing “what we have done for years in the South … sort of wear
+blinders to sort of avoid really focusing and dealing with the problem of race and racial
+discrimination in the society.”196 It would be “like saying that if there’s a change in
+leadership of the Ku Klux Klan we can’t assume that that organization because we can’t
+look back at the church bombings and all that because that was when J.B. Stoner headed
+up the organization but now someone new has taken over.” Instead, Bright advocated a
+holistic test: looking at “the totality of the facts to see to what extent the history influences
+the present.”197 The evidence introduced by SCHR sought to portray “a larger historical
+context of discrimination against African-Americans in Georgia and Muscogee County”
+and urged that the trial of Brooks “be viewed in the context of racial violence against black
+people in Muscogee county and in Columbus,” what Bright called “cradle-to-grave
+192 Pre-trial hearing at 50, State v. Brooks, Sept. 11, 1990.
+193 Wood, supra note 187, at 1.
+194 George Kendall interview (Mar. 23, 2020).
+195 Wood, at 6.
+196 Id. at 40.
+197 Id. at 43.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+48
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+discrimination … that includes and is most pernicious, in fact, in the criminal justice
+system.”198
+Judge Lawson shrewdly allowed Brooks’ defense a wide berth to introduce what
+they wished into the record, but not everything could be live testimony. At one point, Bright
+was permitted to proffer the testimony of a Columbus native on the history of local racial
+violence, although Judge Lawson ultimately decided the testimony was not directly
+relevant to the motions. As Bright explained, Bill Winn, who wrote for the Columbus
+Ledger-Inquirer, would explain “the lack of trust of the criminal justice system” among
+black citizens as a result of “the uninterrupted history of racial violence inside and outside
+the criminal justice system in this community.” He would have spoken about the 1912
+lynching of a 14-year-old “on the steps of the courthouse here in Columbus,” as well as the
+lynching of a white proponent of racial equality that “caused so much racial unrest that
+black people in the community threatened to burn Columbus down.”199
+Bright then turned to specific evidence of historic and systematic
+underrepresentation of minorities on Muscogee County juries. Bright asked Judge Lawson
+to take judicial notice of several decisions: a 1966 Fifth Circuit ruling called Vanleeward
+v. Rutledge200 holding “that the jury pools in Muscogee county discriminated on the basis
+of race”;201 as well as Peters v. Kiff,202 a 1972 ruling in which the U.S. Supreme Court
+reversed a sentence from Muscogee County, agreeing that even white defendants are
+harmed when a county excludes black citizens on a systematic basis.
+“An all-white country club is a terrible thing,” Bright argued, “but an all-white jury
+is worse because it denies people participation in the judicial process.” He hammered the
+democratic deficits uncovered through the legal process. Over half the capital cases in the
+county, including that of Brooks, “have been tried with all white juries.”203 Bright
+introduced “the entire record of the first trial”204 and told Judge Lawson that what happened
+198 Id. at 40-41.
+199 Id. at 80 (proffer of testimony of Bill Winn, Columbus native and senior writer for Columbus Ledger-
+Enquirer).
+200 Vanleeward v. Rutledge, 369 F.2d 584 (5th Cir. 1966). The Fifth Circuit reversed a death sentence
+against a black defendant where the county’s jury selection process failed to guarantee a fair cross-section
+of the community. The panel noted that before 1960, not a single black person had been called for jury
+service in Muscogee County. And although Muscogee County was 30% black, out of 3470 names in the
+traverse jury list at the time of trial only 25 people were black because the all-white jury commissioners
+would “put on the list only the names of those person known to them or to some of them” in their effort to
+comply with a state law to form juries comprised of “upright and intelligent citizens.” Id. at 586-87.
+201 Pre-trial Hearing at 45, State v. Brooks, Nos. 38888 & 54606 (Muscogee Cty. Super. Ct. Sept. 11, 1990).
+202 Peters v. Kiff, 407 U.S. 493 (1972). After discussing Strauder, the Court reaffirmed the importance that
+jury pools reflect a fair cross-section of the community. “Illegal and unconstitutional jury selection
+procedures cast doubt on the integrity of the whole judicial process,” wrote Justice Thurgood Marshall.
+“They create the appearance of bias in the decision of individual cases, and they increase the risk of actual
+bias as well.” Id. at 502-03.
+203 Brooks Pretrial Hearing, supra note 171, at 43.
+204 Id. at 48.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+49
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+the first time was “a legal lynching,” which he defined as a “perfunctory criminal trial” that
+accomplishes the “same result” as an extralegal act of justice “without the unseemly way
+of doing it by just simply taking a person out and hanging him up.”205 According to Bright,
+who laid out how one racist practice exacerbated another,
+The outcome of this case was foregone conclusion. All the publicity …; the
+all-white jury; the exclusion of jurors on the basis of race; the closing
+argument, which … appealed to passion and racial prejudice …; a
+perfunctory trial broadcast to the community; and Brooks was off to the
+electric chair; and, of course, Judge Whisnant was off to the bench.206
+3. Race-Based Jury Strikes Over Time
+Brooks’ team lost the bulk of their pre-trial motions, but Bright persuaded Judge
+Lawson to order discovery on the racial discrimination claims. This momentous turn of
+events gave them time to develop a record and the opportunity to show that since the death
+penalty was reinstated in Gregg, prosecutors for the Chattahoochee Judicial District had
+tried 27 capital cases, with 21 involving white victims. The sample size wasn’t large, but
+it also wasn’t paltry. 19 people wound up with a death sentence.
+Even more damning were the patterns in the office’s juror strikes over the years. In
+capital cases, prosecutors exercised peremptory challenges 59 times (85.5%) against black
+jurors, and only 10 times (14.5%) against white jurors. SCHR proved that these tactics led
+to eight black defendants tried for capital crimes in front of all-white juries: Joseph
+Mulligan, Jerome Bowden, Jamie Lee Graves, Johnny Lee Gates, William Brooks, and
+William Lewis.207 All eight involved black defendants, with seven of the eight cases
+involving black defendants and white victims.
+Ruth Friedman, Mary Eastland, and several investigators and interns spent the
+months leading up to Brooks’ retrial going through the case files of the District Attorney.
+“We went through every file, coding them” for every factor that could conceivably be
+relevant to understanding prosecutorial practices such as prior offenses, the number of
+victims, and so on. This amounted to some 10,000 pages of documents in the county’s files.
+Denying racial bias, Pullen had said he sought a death sentence only when aggravating
+factors existed, and so they went about testing whether this was true or whether, instead,
+the race of the defendant or victim could be isolated as a motivating factor in a prosecutor’s
+decisions.
+205 Id.
+206 Id.
+207 Capital Cases Involving African American Defendants Tried in the Chattahoochee (Ga.) Judicial District
+Since 1973, State v. Brooks, Nos. 38888 & 54606, Def. Ex. 2A.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+50
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Just as with the Horton case, SCHR hired an expert to examine the data and try “to
+show that race was the constant.”208 But this time, they broadened their net to encompass
+all the prosecutors from the office. After examining the data, Dr. Michael Radelet testified
+that “those who kill whites are 5.9 times more likely than those who kill blacks[s]” to have
+the death penalty sought against them by the D.A.’s office.209 But Pullen’s explanations,
+such as that some homicides are accompanied by an additional felony such as robbery,
+simply “does not explain this racial disparity.”210 Neither did the degree of relationship
+between perpetrator and victim (even though more people who kill strangers have the death
+penalty sought against them).211 Other details supported Brooks’ motion: “given a female
+victim, those who kill whites are 5.1 times more likely to have the death penalty sought
+than those who kill a black female.”212 The pattern held when comparing black male victim
+versus white male victim: “those who kill white males are 11 and half times more likely to
+have the death penalty sought than those who kill black males.”213
+As for the state’s jury strikes over time, he testified that there was less than 1 in
+1,000 chance that Pullen’s office was striking black jurors at such a high rate randomly.
+Pullen admitted being out of his depth, saying he was “not familiar with statistics.”214
+During cross-examination of Radelet, Pullen tried to suggest that the expert was
+compromised because he appeared at defense lawyers’ press conference and handed out
+sheets with details of his research, but Radelet insisted that he was not morally opposed to
+the death penalty and merely had an “academic” interest. Pullen strongly implied that
+Radelet did not include all factors that went into their charging decisions, such as the ages
+of perpetrators and victims, but Radelet replied that he took into account the most likely
+ones. When Pullen tried to get Radelet to say that the Baldus study had been rejected by
+judges, he retorted: “Not my reading of McCleskey. I think the Supreme Court made it
+quite clear that they accepted that study” and “that study has received some very prestigious
+awards.”215
+At one point, Pullen lost his cool. “You’re telling me that when you’re calling me
+and my two predecessors racists—”216 Parker objected, saying that “he has never said that
+the evidence indicates that he is a racist. He says the evidence raises a strong suggestion of
+racial discrimination in the application of the death penalty in this circuit.” Judge Lawson
+sustained the objection.
+Pullen moved on to inquire why Radelet chose not to focus on the race of
+defendants, and Radelet explained that Bright asked him “to focus on race of victim.” This
+208 Interview with Ruth Friedman (Mar. 10, 2020).
+209 Pretrial Hearing, State v. Brooks, Sept. 11, 1990, supra note 171, at 119.
+210 Id. at 122.
+211 Id. at 127.
+212 Id. at 130-31.
+213 Id. at 131.
+214 Id. at 88.
+215 Id. at 153.
+216 Id. at 154-55.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+51
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+amounted to an effort to focus on one aspect of the Baldus study (racial disparities in cross-
+racial killings), and to try to replicate it on a more intimate scale. Radelet acknowledged
+that the raw numbers showed that of the 45 capital cases they were discussing, 23
+defendants were white and 22 were black.217 Radelet pushed back, saying that “the lesson
+that we have learned from this research project and from many others done over the last
+decade is that if we look at defendant’s race alone, that creates a totally misleading picture
+of the effect of racial variables on the imposition of the death penalty.”218 Other factors
+either could not be quantified or were not for purposes of Radelet’s study, such as strength
+of a case, criminal history, whether there was provocation, degrees of premeditation,
+defendant’s state of mind.219
+After this hearing, the NAACP called a press conference to attract media attention
+to the hearing. The NAACP hailed SCHR’s aggressive approach in Brooks’ trial as “a
+model of new defense strategies” to satisfy the more stringent standard of proof for
+discrimination demanded by McCleskey.220 Earl Shinholster, the NAACP’s southern
+regional director, said that the evidence of racial bias tendered during the hearing proved
+once again that the answer is to “abolish the death penalty.”221
+Ultimately, Judge Lawson refused to bar the death penalty at the pre-trial stage. It
+was always highly unlikely that a single elected judge was going to stop a capital trial on
+the basis of past discrimination by prosecutors, much less issue a blanket order preventing
+the entire office from seeking death sentences in the future. Nevertheless, rebellious
+localism served several objectives. First, SCHR’s holistic approach to advocacy disrupted
+the status quo, where a defendant in cross-racial killing was briskly tried and sentenced to
+death. This more aggressive pre-trial posture litigating equality issues raised the costs of
+litigation for the government, forcing prosecutors to ask themselves repeatedly whether
+insisting upon a death sentence was worth it when the entire case might be more
+expeditiously and securely resolved through a plea deal. Not only would a D.A.’s office
+have to defend against several pre-trial motions and prepare for lengthy hearings, but they
+would also have to invest in experts and build a separate case in favor of death even if they
+secured a conviction. The costs would continue escalate if other issues emerged, such as
+challenges to the possible method of execution, especially if a trial were delayed so a
+defendant could pursue an interlocutory appeal.
+Second, such litigation tactics served an educative function by surfacing the often-
+subterranean racial dimensions of legal justice. They heightened awareness of the case and
+led affected segments of the community in the county and state to pay closer attention and
+217 Id. at 156.
+218 Id. at 160.
+219 Id. at 171-72.
+220 Wade Lambert & Martha Brannigan, Death Penalty Case Challenged on Grounds of Racial
+Discrimination, WALL ST. J., Aug. 14, 1990.
+221 Kimball Perry, Brooks’ Defense Raises Race as Issue in Death Case, COLUMBUS LEDGER-ENQUIRER,
+Aug. 15, 1990, D-4.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+52
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+even participate in the proceedings. While Bright and his staff never lost sight of the
+primary goal of harm reduction (here, saving their client’s life), rebellious localism ensured
+that constitutional issues of equality and fairness would be debated more broadly, whatever
+fate befell their client in the end.
+Third, by hammering the issues of race and poverty in the administration of capital
+punishment so relentlessly, Brooks’ team increased the participants’ sensitivity to a greater
+possibility of a reversal on appeal or during a subsequent post-conviction proceeding. The
+new judge, no doubt wanting above all as clean a trial as possible on the second go-round,
+had given defense lawyers plenty of leeway to raise their concerns and preserve issues for
+appeal. Exploiting that desire helped them to overcome the usual obstacles to building a
+robust record of discrimination during a criminal trial.
+During jury selection, Pullen still used all his peremptory strikes against black
+jurors. Even so, aggressive defense lawyering led to a jury seated with nine black citizens
+and three white citizens—a far cry from what happened the first time around.222
+Fighting so hard for racial equality now gave Brooks’ team another chance to battle
+for life in front of a mixed-race jury. Their change of venue motion was granted, and the
+trial took place in Morgan County. This time, the state’s case did not feature overtly racist
+appeals.223 After Brooks was convicted of murder, Bright pleaded with the jury to spare his
+client from the electric chair. “We get down now to the ultimate issue here: Do we kill
+William Brooks?” Bright said to the jurors. “An issue about as stark and about as great a
+moral decision as a human being could ever be called upon to make.”224 He proceeded to
+give a textbook closing argument weaving together themes of residual doubt and the
+possibility of redemption, as well as a deep dive into the aspects of Brooks’ troubled
+upbringing, including childhood abuse, that favored a merciful outcome.
+After deliberating for less than an hour, the jury decided to impose a life sentence.
+Once again, rebellious localism had made the difference. This time, unlike in the Horton
+case, rebellious localism had yielded a life sentence without necessitating an appeal and
+collateral litigation.
+Brooks’ ordeal illustrated another aspect of abolitionists’ harm reduction goals:
+using the legal process to keep a client alive long enough for political conditions to shift
+back in their direction. As Rachel Barkow has explained, “[p]opulist fears and impulses
+among the electorate create pressure on prosecutors to make ill-advised short-term
+decisions that end up compromising public safety”225 and violating rights. High-profile,
+cross-racial murder cases during the War on Crime years tempted prosecutors into breaking
+222 MCFEELY, supra note 58, at 155.
+223 Austin Sarat, who observed Brooks’ retrial, believes that the prosecutors’ pleas for conviction and a
+death sentence nevertheless capitalized upon older stock stories about “racial danger” and “racial
+victimization.” Austin Sarat, Speaking of Death: Narratives of Violence in Capital Trials, 27 LAW & SOC.
+REV. 19, 28-29 (1993).
+224 State v. Brooks, Bright Closing Argument During Penalty Phase.
+225 BARKOW, supra note 18, at 144.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+53
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+constitutional rules and engaging in unethical conduct. But as Bright’s strategies illustrated,
+extending a life beyond a particular historical moment might lead a different prosecutor to
+agree to a plea deal or, as in Brooks’ case, secure a jury with sufficient distance from highly
+racialized politics to consider mercy.226
+As for the cause lawyer’s goal of achieving an authoritative repudiation of
+McCleskey, that would take more time.227 More lasting policy transformation, too would
+require building on legal errors and structural injustice unconvered in SCHR’s cases.
+Whether the issue involved abolishing capital punishment, reforming how jury lists were
+constituted, reducing or eliminating peremptory strikes, or constraining how prosecutors
+made charging decisions—reform would require political action, and not merely favorable
+judicial decisions. Even so, what happened in Johnny Lee Gates’ case in 2018 should offer
+abolitionists hope that rebellious localism can do some good for long-term goals. Citing
+SCHR’s win in Foster v. Chatman, lawyers for Gates gained access to the prosecutors’
+notes during his original 1977 murder trial. Gates, a black man who has always maintained
+his innocence, was convicted of rape and murder of a white woman by an all-white jury.
+The notes showed that prosecutors closely tracked the race of prospective jurors, marking
+white jurors with “W” and black jurors as “N.”228 Additionally, prosecutors described black
+jurors as “slow,” “old + ignorant,” “cocky,” “con artist,” “hostile,” and “fat.”229
+Because the prosecutors were Doug Pullen and William Smith, from the same
+office that had prosecuted Brooks, SCHR lawyers introduced the study they had compiled
+from that earlier case. They argued that Gates was entitled to a new trial based on the
+“newly discovered notes” plus “the pattern of strikes across cases establish systematic race
+discrimination.” From 1975 to 1979, the state brought seven capital cases against black
+defendants in Muscogee County and struck 41 black jurors—in 6 of those cases, every
+single black juror was eliminated to secure all-white juries. Pullen was involved in 5 of the
+7 cases, striking 27 of 27 black jurors. Smith was involved in four of those cases. According
+to the affidavit of Dr. Michael Lacey, “the probability that they exercise those strikes
+without considering race is 0.000000000000000000000000000004.”230
+226 Lee Kovarsky has offered a normative defense of giving prosecutors more back-end mercy power.
+Whatever the merits of this proposal, which must include some evaluation of whether inequality is
+ameliorated or worsened, Kovarsky is correct that the prosecutor’s office is often “the local entity with the
+best information and expertise” to make calls about the possibility of redemption. Lee Kovarsky,
+Prosecutor Mercy, 24 NEW CRIM. L. REV. 326, 341 (2021). Indeed, deals like the one Bright and other
+abolitionists seek on behalf of their clients try to capitalize on local prosecutors’ better comparative
+capacity to grant mercy, at least relative to the possibility of post-conviction relief by other political actors.
+227 Brandon Garrett has detected “a defense lawyering effect” from “improved defense lawyering and
+greater resources,” which has produced “real differences between state death sentence rates.” BRANDON
+GARRETT, END OF ITS ROPE 109 (2019).
+228 Supplement to Motion for New Trial Regarding the Prosecutors’ Jury Selection Notes at 1-2, State v.
+Gates, No. SU-75-CR-38335 (Mar. 19, 2018). Interview with Patrick Mulvaney (Aug. 27, 2021).
+229 Id. at 2.
+230 Id. at 8.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+54
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+On January 10, 2019, a state court granted Gates’ extraordinary motion for a new
+trial on a separate ground: that DNA testing of evidence from the crime site did not contain
+Gates’ DNA. But in the stunning opening pages of his order, the judge also accepted the
+evidence of racial discrimination presented by SCHR, finding the evidence of bias
+“overwhelming.”231 At last, abolitionists could point to formal recognition of historical
+evidence of structural racism. Not only did the judge find that the prosecutor’s office had
+a practice of race-based peremptory challenges, but he also connected that jury selection
+strategy to outrageous rhetorical appeals made by prosecutors during capital trials. He
+noted that arguments in front of all-white juries were more explicitly racist and deplored
+the “racially charged arguments [that] spanned across multiple cases, including Gates’
+case.”
+The Georgia Supreme Court upheld the lower court order granting relief based on
+the DNA evidence. Yet the justices, too, like the local judge, went out of their way to note
+the “troubling findings” of prosecutorial misconduct in capital cases “held in the
+Chattahoochee Judicial Circuit between 1975 and 1979.”232 Even if it was not the explicit
+rationale for relief, the structural racism claim—with its focus on highlighting intentional
+racism in particular counties and circuits—almost certainly shaped how these judges
+perceived the rest of the defendant’s arguments.
+This mattered because in recent years, successful arguments to end capital
+punishment have not sounded in religious or other abstract rationales, such as the efficacy
+of deterrence, but rather concerns about actual innocence, unequal administration on the
+basis of race and poverty, and excessive costs. For instance, when the Washington State
+Supreme Court halted the death penalty on state constitutional grounds in 2018, it did so
+because capital punishment “is unequally applied—sometimes by where the crime took
+place, or the county of residence, or the budgetary resources at any given point in time, or
+the race of the defendant.”233 With Gates, abolitionists acquired another crowbar with
+which to pry open the machinery of death.
+CONCLUSION
+Rebellious localism is a strategy of legal resistance that is most effective during
+tough political times, when legal doctrine is in the process of becoming more complex
+and less humanitarian in orientation, when public servants are becoming less interested in
+vindicating robust theories of equality and fairness and instead focused on maximizing
+other objectives. Its practitioners search for spaces within doctrine to subvert the
+231 Order on Defendant’s Extraordinary Motion for New Trial, State v. Johnny Lee Gates, Case No. SU-75-
+CR-38335 (Muscogee Cty. Jan. 10, 2019).
+232 State v. Gates, Case No. S19A1130, 62, n.22.
+233 State v. Gregory, 427 P.3d 621, 627 (Wa. 2018). Likewise, Governor Jay Inslee, who imposed a
+moratorium on the death penalty in 2014, said at the time that the system “falls short of equal justice under
+the law.” Governor Inslee’s Remarks Announcing a Capital Punishment Moratorium (Feb. 11, 2014).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+55
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+ideological and policymaking intentions of judges and opportunities to turn the tables on
+public servants who fall short of ideals. In part to correct for the waning of trust in legal
+institutions, they continue to appeal to broader, intuitive notions of what is just and fair
+given the immense stakes involved in capital cases.
+When those stakes were the highest—a client’s life hung in the balance—and
+national political conditions were least favorable for maximalist progressive
+constitutional projects, Bright and his staff were willing to do what it took to implement
+this approach. It meant not giving up on wider reform goals, such as abolishing the death
+penalty and improving the quality of indigent defense systems, but entailed shifting
+emphasis to harm reduction and incremental advancement of structural claims by
+documenting constitutional problems. From the standpoint of harm reduction, success
+would be measured according to lives saved or extended. Capital cases were slowed
+down, executions were put off time and again. In Georgia, a state supreme court that
+began the post-Gregg era generally unwilling to review capital trials closely eventually
+became alarmed by the inequities on display and, as in cases like Ford and Gamble,
+started to send appalling trials back to be done over. On that score, rebellious localism
+accomplished more than one might have dreamed at the outset.
+If doctrine is in part a method of empowering allies and weakening adversaries,
+then rebellious localism also advanced this agenda. In terms of advancing principles of
+racial equality and fundamental fairness in criminal trials and resisting the impoverished
+vision of justice exemplified in McCleskey, rebellious localism created fresh templates
+for action and legal precedents such as Horton and Gates to build upon—often, in
+situations far removed from the influence of the U.S. Supreme Court. These victories,
+which included pre-trial rulings forcing the disclosure of evidence in the hands of
+prosecutors or forcing public servants to testify, went the farthest. Equally useful were
+rulings that excoriated the underrepresentation of jury pools or practices that denied
+eligible black citizens a chance to participate in the criminal process. These rulings
+showed the lengths to which some public officials were willing to go to kill fellow
+citizens—mostly black people charged with serious crimes against white people. By
+insisting that the misconduct uncovered was not just evidence of isolated bad actors but
+rather proof of a system gone awry, SCHR’s work advanced abolitionist aims. At this
+broader level, rebellious localism shamed elites by exposing the inequitable aspects of the
+criminal justice system.
+Nevertheless, rebellious localism was an extremely time-intensive endeavor.
+Putting local systems on trial entailed front-loading and multiplying colorable
+constitutional claims, as well as escalating their rhetoric. That meant consciously creating
+more work for themselves and their adversaries by converting the pre-trial process into an
+engine for public law-style litigation. It also meant that they could not serve quite as
+many clients as they might otherwise, for the maximalist orientation toward existing
+clients meant fewer cases they might take on.
+The technique involved destroying the possibility of efficient capital trials and
+generating friction between themselves and other legal actors who were repeat players.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+56
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+Another drawback, at least in court, was that abolitionists often chose to play to existing
+stock stories about racial hostility rather than delve more deeply into what was likely a
+more complicated truth. As Randall Kennedy puts it, cross-racial disparities often have to
+do more with “racially selective empathy rather than racially selective hostility” because
+white prosecutors, judges, and jurors “relate more fully to the suffering of white victims”
+who can be readily “imagined as family or friends.”234
+An advocacy group can only hope to pull off rebellious localism of this sort if it
+has sufficient ties to the community and is capable of tapping the people’s sense of
+history, their long-held grievances, and their own dreams of justice. It must also have the
+right personnel: people who would rather be feared as adversaries than loved, willing to
+battle every legal point.
+SCHR could not save every client, nor did they win every motion. Yet the
+organization’s successes over time—and they enjoyed several legal victories in which
+they beat significant odds—suggest that a sharp theoretical dichotomy between
+radicalism and gradualism is too simplistic as to be helpful. Rather, historians and
+theorists should be looking for forms of gradualism that can co-exist with radical aims,
+striving to better understand when hybrid approaches to legal reform might work and
+when the tensions are too great to manage.
+To be sure, SCHR did not accomplish these goals alone. Others were engaged in
+local battles against the death penalty systems in their states, exposing inequities in terms
+of race, wealth, and geography. Yet their efforts contributed to the burgeoning discourse
+that capital punishment was unjust because it was administered unequally and unfairly.
+This is only one part of that broader story of abolition that continues to unfold.235
+From the standpoint of judges making constitutional law at the highest levels, the
+lessons should be more sobering. Efforts to portray the law in terms that privilege order
+over justice are not only likely to fail, but wind up horrifying the law’s subjects and
+causing counterproductive effects. Such projects will engender furious resistance, even
+when the winds appear to be blowing in the very direction that Justices may wish to go.
+An overweening desire for legal efficiency can in fact produce its opposite: a flurry of
+texts and orations that call into doubt the prospects for equal justice. Deep skepticism
+about whitewashing inequality may prompt accusations of racism that taint outcomes,
+practices, and judicial personnel—whether or not they are satisfactorily proven.
+Concerns about the value of statistical evidence had played a role in Justice
+Powell’s desire to insulate the criminal justice system in McCleskey. But he hadn’t done
+much, if anything, to call into question the integrity of the Baldus study, or to explain
+convincingly why that evidence was any less reliable than in other settings. His
+234 Kennedy, supra note 11, at 1420.
+235 The most dramatic localist effort to bring the death penalty system to a standstill occurred in the
+Commonwealth of Virginia, which then legislatively abolished the punishment. See Corinna Barrett Lain &
+Douglas A. Ramseur, Disrupting Death: How Specialized Capital Defenders Ground Virginia’s Machinery
+of Death to a Halt, 56 U. RICH. L. REV. 183 (2021).
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+57
+Electronic copy available at: https://ssrn.com/abstract=4352646
+
+96 SOUTHERN CALIFORNIA LAW REVIEW (2023)
+solution—to neither seriously question it but to suggest statistical evidence was less
+useful on a state-wide scale—did not end advocates’ efforts to quantify racism.
+As SCHR’s experience demonstrates, it remained possible to use expert testimony
+and quantitative evidence to shed light on prosecutorial motives in charging decisions and
+peremptory strikes. It’s true that their studies involved fewer state actors, but it is not
+obvious that the evidence was significantly more reliable than the Baldus study. While
+replicating similar cross-racial patterns, the local studies had a smaller sample size and
+considered fewer non-racial variables. In SCHR’s cases, statistical evidence of bias was
+not the only evidence offered. Instead, such evidence bolstered other evidence of
+discrimination by a particular bad actor or practices of a discrete jurisdiction. For this
+reason, the narratives of unconstitutional behavior were simpler, more familiar. They
+resonated with beliefs about the quality of local justice and pricked the consciences of
+people to reflect more deeply on how much more might still need to be done.
+ã 2021 by Robert L. Tsai. All rights reserved. Do not quote or circulate without permission. 2/9/23 9:01
+AM
+58
+Electronic copy available at: https://ssrn.com/abstract=4352646

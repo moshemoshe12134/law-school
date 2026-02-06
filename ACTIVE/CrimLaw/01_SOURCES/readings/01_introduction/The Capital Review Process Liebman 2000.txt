@@ -1,0 +1,83 @@
+V. The Capital Review Process
+This phase of our study asks what state and federal courts discovered when they inspected capital
+convictions and sentences imposed during the 23-year study period. In a later phase, we will consider some
+candidate causes of the evidently irrational patterns of error that those courts have detected. In order to
+frame these questions, we first describe the capital-inspection process whose results we are studying.
+A. First Inspection: State Direct Appeal
+In Furman v. Georgia and later cases, the Supreme Court suggested that state high courts were
+required to review all death sentences on direct review.86 As a consequence, the law of nearly all states
+requires that capital judgments be automatically appealed.87 And as a matter of fact, virtually all capital
+judgments are appealed.88 In all but two of our study states, that appeal ran directly from the trial court to
+the highest court in the state with criminal jurisdiction, which is typically the state supreme court or, as in
+Oklahoma and Texas, a “court of criminal appeals.”89 In Alabama and Ohio, there were two rounds of
+appeals in the state direct review process—first to an intermediate court of criminal appeals, and then to
+the state supreme court.90 Reversal of a capital conviction or sentence on direct appeal requires a showing
+of “serious error” as defined earlier.91
+In nearly all cases in which the direct appeal decision runs entirely against the defendant, he or she
+seeks certiorari in the United States Supreme Court.92 Although in the vast majority of cases, the Supreme
+Court denies review, it occasionally undertakes merits review and either affirms or reverses.93 Certiorari
+proceedings are typically understood to be a part of the direct review, or pre-finality, stage of a criminal
+case,94 and they are treated that way here. If the Supreme Court reversed a capital conviction or sentence
+on direct review of the state high court’s decision, we counted that decision as a direct-appeal finding of
+19
+
+serious (indeed, in all such cases, federal constitutional95) error.
+B. Second Inspection: State Post-Conviction
+In order to seek federal habeas review of a constitutional claim, the prisoner must have exhausted
+at least one full round of state judicial remedies for the claim.96 There are certain kinds of claims that cannot
+easily be exhausted at trial and on direct appeal because the defendant cannot discover or adequately
+litigate the facts or the legal principles supporting the claims at trial or on direct appeal.97 This sometimes
+occurs (1) because a police officer, prosecutor or other state actor has suppressed the relevant facts (which
+may itself have violated the Constitution, as when the suppressed facts show the defendant is innocent,98
+or may keep the defendant from establishing the violation of some other principle, as when police
+suppressed evidence that they coerced the defendant into confessing, or when the prosecutor hid his efforts
+to keep African-Americans off of criminal juries99); (2) because the agent of the violation was the
+defendant’s own trial or direct appeal attorney (as in the case of ineffective assistance of counsel), thus
+preventing the defendant from recognizing or fairly litigating the claim;100 (3) because the evidence
+establishing the claim was not reasonably available to the defense at the time of trial or appeal for some
+other reason101 (as when counsel later discovers that the trial judge was corrupt102 or biased,103 that a juror
+lied during the jury selection process,104 or that the bailiff secretly lobbied the jury to convict or
+condemn105); or (4) because the legal rule establishing the claim did not exist at the time of trial or appeal
+and the rule applies “retroactively” to the prisoner’s case.106
+Because the Supreme Court has suggested that states are constitutionally required to provide
+adequate state post-conviction remedies for federal constitutional claims that cannot properly be pursued
+at trial and on direct appeal,107 and because federal habeas law rewards states when they do provide such
+20
+
+remedies,108 all states now do so.109 State capital prisoners seeking to preserve their access to federal
+habeas review accordingly are obliged to exhaust those remedies, and the professional obligation of capital
+attorneys to subject their clients’ convictions and sentences to searching scrutiny compels them to pursue
+state post-conviction review in nearly all capital cases.110
+State post-conviction review takes a variety of forms under a variety of names (e.g., habeas
+corpus, coram nobis, extraordinary motion for new trial, and state post-conviction procedures acts).
+Traditionally, such proceedings have taken place after the completion of state direct appeal and have
+entailed the filing of a petition for review with the judge who presided over the original trial, and the appeal
+of any adverse rulings up to an intermediate state appellate court and then to the state high court.111 More
+recently, an increasing number of states (1) have adopted “unitary appeal” procedures that require direct
+appeal and state post-conviction proceedings to take place nearly simultaneously,112 and/or (2) have
+required prisoners to commence state post-conviction proceedings in a state intermediate or high court that
+either can grant or deny state post-conviction relief once and for all, or can remand the case to a trial court
+to take evidence. In most states, state post-conviction review is limited to claims that were not and could
+not have been raised on direct appeal and that arise under state or federal constitutional law.113
+Most capital prisoners also seek U.S. Supreme Court review on certiorari of adverse state post-
+conviction proceedings, which the Supreme Court (very) occasionally grants.114 In the event that the Court
+does so, and grants relief, our classification scheme counts that decision as part of the state post-conviction
+inspection phase.115
+21
+
+C. Third Inspection: Federal Habeas Corpus
+Because federal habeas corpus practice is controlled by federal statute,116 it is far more uniform
+across states than are direct appeal and state post-conviction proceedings. Habeas proceedings begin with
+the filing of a petition in a United States District Court in the state in which the defendant was convicted and
+is incarcerated.117 If relief is denied, and if (but only if) the prisoner can show that his petition presents a
+substantial constitutional claim, he may appeal the denial to a federal circuit court,118 and if the district court
+opinion is affirmed and a stay of execution is available, he may petition the Supreme Court for certiorari.119
+Although habeas proceedings at the district court level are a matter of statutory right, stays of execution
+are not, thus limiting capital habeas proceedings to cases in which the prisoner can secure a federal stay of
+execution based on a substantial constitutional claim.120 Habeas relief is limited to a category of “serious
+error” that is even narrower than the analogous of category of “serious” direct-appeal error.121
+A stylized depiction of the post-trial review process in capital cases that we are studying here is set
+out below.
+22
+
+23

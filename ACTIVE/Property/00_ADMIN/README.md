@@ -1,58 +1,80 @@
-# ADMIN Directory
+# Property Law - 00_ADMIN
 
-This folder contains administrative materials and workflow documentation for Property Law.
-
-## What Goes Here
-
-- **Exam rules & policies** (from syllabus when available)
-- **Grading rubrics** (if provided)
-- **Course policies** (attendance, participation, etc.)
-- **Workflow notes** (how to use this system)
-- **Professor contact info & office hours**
-- **TA information**
-
-## Current Status
-
-- [ ] Syllabus received - extract policies
-- [ ] Exam rules documented
-- [ ] Grading rubric obtained
-- [ ] Workflow guide finalized
-
-## Quick Start Guide (for this system)
-
-### Daily Workflow:
-
-**Before Class** (60-90 min):
-1. Check `MASTER_LOG.md` for assigned readings
-2. Use template from `TEMPLATES/prep_packet_template.md`
-3. Create prep packet in `04_PREP/class_[NUMBER]_prep.md`
-4. Read assigned materials (statutes first, cases second, supplements as needed)
-5. Fill in predictions at bottom of prep packet
-
-**During Class**:
-- Take raw notes (can be messy)
-- Flag when professor emphasizes topics
-- Capture hypos/examples verbatim
-
-**After Class** (20-30 min):
-1. Use template from `TEMPLATES/review_template.md`
-2. Create review doc in `06_REVIEW/class_[NUMBER]_review.md`
-3. Score your predictions (0-2 scale)
-4. Extract outline inserts
-5. Update `MASTER_LOG.md`
-
-**Weekly**:
-1. Compile metrics using `TEMPLATES/metrics_template.md`
-2. Review weak topics
-3. Update spaced repetition queue
-4. Plan next week's prep
-
-### One-Time Setup:
-- [✓] Folder structure created
-- [✓] Templates ready
-- [ ] Parse past exams → create exam spec
-- [ ] Set up `03_MAPPING/` crosswalks once syllabus arrives
+**Purpose:** Course-level tracking and exam strategy.
 
 ---
 
-**Last Updated**: [Date]
+## Contents
+
+- `MASTER_LOG.md` - Status tracking for all classes
+- `exam_spec.md` - Past exam analysis and patterns
+- `course_style_guide.md` - Property-specific style guide
+- `README.md` - This file
+
+---
+
+## Folder Usage Guide
+
+**When to use this folder:**
+- Check class status in MASTER_LOG
+- Review exam patterns before studying
+- Reference course-specific style preferences
+
+**When NOT to use this folder:**
+- Templates are in `law-school-common/03_TEMPLATES/`
+- Workflows are in `law-school-common/01_WORKFLOWS/`
+- Universal style guide is in `law-school-common/02_STYLE_GUIDES/`
+
+---
+
+## Updated Folder Structure (Phase 3.1 Complete)
+
+**New structure (00-06 + 99_EXAM_DAY):**
+- `00_ADMIN/` - Course tracking (MASTER_LOG, exam_spec, course_style_guide)
+- `01_SOURCES/` - Syllabus, past exams, past outlines
+- `02_PREP/` - Audio and text preps (consolidated from old 04_PREP)
+- `03_TRANSCRIPTS/` - Raw and processed transcripts
+- `04_REVIEWS/` - Post-class review documents
+- `05_OUTLINE/` - Cumulative outline (modular sections)
+- `06_PREWRITES/` - Doctrinal and policy prewrites
+- `99_EXAM_DAY/` - Exam-day materials
+
+**Removed:**
+- `08_METRICS/` - Tracking now in MASTER_LOG
+- `TEMPLATES/` - Now in `law-school-common/03_TEMPLATES/`
+
+---
+
+## QC Process
+
+**QC happens by editing documents in place** (no separate QC docs).
+
+**Tracking:**
+- Add QC columns to MASTER_LOG: `Prep_QC`, `Review_QC`, `Outline_QC`
+- Each QC pass increments counter: `0` → `1` → `2` → `✓`
+- QC findings go in Notes column or in doc frontmatter
+
+**Workflow:**
+- Generate draft → QC pass 1 → Edit → QC pass 2 (if needed) → Mark `✓`
+
+---
+
+## Property-Specific Notes
+
+**Professor:** [Name from syllabus]
+**Semester:** Spring 2026
+
+**Course Characteristics:**
+- **Doctrine focus** - Property rights, estates, concurrent interests
+- **Policy emphasis** - Efficiency, fairness, social goals
+- **Restatement** - Heavy reliance on Restatement (Second) of Property
+- **Case depth** - Key cases for each doctrine
+
+**Exam Format:**
+- Issue-spotter exam
+- Open book
+- Past exams available in `01_SOURCES/past_exams/`
+
+---
+
+**Last Updated:** 2026-01-19

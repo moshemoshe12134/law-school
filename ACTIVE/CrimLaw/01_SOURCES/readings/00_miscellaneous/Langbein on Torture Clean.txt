@@ -1,0 +1,571 @@
+This depiction of a suspect being tortured
+
+comes from a series of engravings appended
+
+to the official text of the Austrian Empire’s
+
+Criminal Procedure Code of 1769, called
+
+the Constitutio Criminalis Theresiana. The
+
+engravings, which illustrate various means
+
+for inflicting torture in the courts of Prague
+
+and Vienna, were intended as guides for
+
+local craftsmen and court functionaries in
+
+constructing and operating such devices.
+
+This plate shows a flaming torch being
+
+applied to the chest of an accused who is
+
+being racked.
+
+AXNVE
+
+A Collection
+
+Fbura WV Eval hel
+online Bef
+Spevesioff bes abuene LAbo grads sar peintisS?
+
+ter Fagunviten. wie jelber " Trgup rreretg:
+
+- | dee Feuerne
+iing won wonie assis,
+
+EDITED BY
+
+SANFORD
+LEVINSON
+
+OXFORD
+
+UNIVERSITY PRESS
+
+2004
+
+
+CAPVT XXXVIII.
+
+De repetitione queftionis, fiue tor-
+ture.
+
+I
+
+ix <A
+SKF}
+
+|
+
+i
+
+~
+
+Po
+Lat)
+> ATTN
+
+cl
+gm,
+
+This woodcut from a leading sixteenth-century European criminal procedure
+manual shows the accused being examined under torture in the presence of the
+court, clerk, and court functionaries. ‘The illustration is from Joost Damhoulder’s
+Praxis Rerum Criminalium (Antwerp edition, 1562) and appears here courtesy of
+the D’Angelo Law Library at the University of Chicago Law School.
+
+John H. Langbein
+
+The Legal History of Torture
+
+Efforts to accommodate the use of torture within the Western legal tradi-
+tion have a long history. For half a millennium the law courts of continen-
+tal Europe tortured suspected persons to obtain evidence. They acted openly
+and according to law. Investigation under torture was a routine part of
+criminal procedure in late medieval and early modern times. The jurists
+and judges who elaborated and administered this system were aware of the
+dangers of coerced evidence, and accordingly, they framed rules of safe-
+guard meant to make tortured confessions reliable. Across the centuries it
+became clear that the safeguards were far from safe. In the end, the Euro-
+pean states conceded that the long experiment with torture was a failure,
+and across the eighteenth century they banned the use of torture from their
+legal systems.
+
+At the dawn of the twenty-first century we are hearing fresh suggestions
+that the authorities should be allowed to resort to torture, now for the pur-
+pose of dealing with suspected terrorists. The future may bring circum-
+stances in which the need for information is so great that governments will
+again experiment with torture. The deep lesson of the past, however, is that
+the error rate will be high—probably too high.
+
+This essay explains how European criminal procedure became dependent
+on the use of torture, and why that torture-centered law of proof failed.
+The experience on the Continent is contrasted with that in England, where,
+despite some temptations in early modern times, the use of torture did not
+become a part of ordinary criminal procedure.
+
+
+
+The European Law of Torture
+
+The law of torture developed as an adjunct to the law of proof, that is, to
+the rules that governed the quality and quantity of evidence needed to con-
+vict someone accused of a serious crime. Because it was the judges who
+administered the rules about whom, how, and when to torture, the system
+has come to be known as “judicial torture.”* The European law of proof
+emerged in the city-states of northern Italy in the thirteenth century. It
+spread across the Continent together with the rest of Roman-canon crimi-
+nal and civil procedure as part of the broader movement known as the re-
+ception of Roman law.? Investigation under torture was reserved for cases
+of serious crime, for which the sanction was death or maiming.
+
+The European law of proof displaced an earlier system of proof, the or-
+deals, conducted under the auspices of the church. The ordeals purported
+to achieve absolute certainty in criminal adjudication through the happy
+expedient of having the judgments rendered by God, who could not err.?
+The church effectively destroyed the ordeals by a decision of the Fourth
+Lateran Council in 1215.5 The new criminal procedure aspired to an equiva-
+lent level of safeguard—absolute certainty—for adjudication by mortals.
+Although mere humans, judges, were to replace God in the judgment seat,
+they would be constrained by a law of proof so objectively sound that the
+awesome substitution of mortal for divine adjudication would be unobjec-
+tionable. The new law of proof would eliminate human discretion, hence the
+possibility of human error, from the determination of guilt or innocence.
+
+The Two-Eyewitness Rule
+
+The Italian glossators who developed the European law of proof based it on
+the rule that conviction would require the testimony of two unimpeach-
+able eyewitnesses to the gravamen of the crime. Such evidence would be, in
+the famous phrase, “clear as the noonday sun.” Without such evidence, a
+criminal court could not convict an accused who contested the charges
+against him. Only if the accused voluntarily confessed the offense could the
+court convict him without eyewitness testimony. A corollary of the rule
+that conviction required two eyewitnesses or voluntary confession was that
+conviction could not be based on circumstantial evidence. Circumstantial
+evidence depends for its efficacy on the subjective persuasion of the court,
+which must decide whether to draw the inference of guilt from the evi-
+
+TORTURE AS PRACTICED
+
+dence of circumstance. Thus, for example, it would not have mattered in
+this system that a murder suspect had been seen departing the scene of the
+crime, and that the bloody dagger and the stolen loot were found in his
+possession. Since no eyewitness saw him actually slay the victim, the court
+could not convict him of the crime.
+
+By insisting on certainty as the standard of proof, the European jurists
+solved one problem by creating another. They made the judgment of mor-
+tals acceptable in place of the judgment of God, but they bound themselves
+to a law of proof that as a practical matter could be effective only in cases
+involving overt crime or repentant criminals. Something had to be done
+to extend the system to unrepentant persons who committed clandestine
+crimes. The two-eyewitness rule was hard to compromise or evade, but the
+confession rule seemed to invite “the cruel and stupid subterfuge.”® To go
+from accepting a voluntary confession to coercing a confession from some-
+one against whom there was already strong suspicion was a step increas-
+ingly taken in the thirteenth century. The law of torture grew up to regu-
+late this process of generating confessions.
+
+Safeguards for Torture
+
+The spirit of safeguard that inspired the unworkable formal law of proof
+also permeated the subterfuge. The largest chapter of the European law of
+torture concerned the prerequisites for examination under torture. Euro-
+pean jurists devised what modern American lawyers would call a standard
+of probable cause, designed to ensure that only persons highly likely to be
+guilty would be examined under torture. Torture was permitted only when
+a so-called half proof had been established against the suspect. That meant
+either one eyewitness, or circumstantial evidence that satisfied elaborate
+requirements of gravity. In the example in which a suspect was caught with
+the dagger and the loot, each of those indicia would have been reckoned as
+a quarter proof, which, cumulated to a half proof, would have been suffi-
+cient to permit the authorities to examine the suspect under torture.
+
+In this way the law of torture overcame the prohibition against using cir-
+cumstantial evidence. Circumstantial evidence was not consulted directly
+on the ultimate question of guilt or innocence but on a question of pre-
+liminary procedure: whether or not to examine the accused under torture.
+Even there the law attempted to limit judicial discretion by promulgating
+ostensibly objective criteria for evaluating the indicia and assigning nu-
+
+THE LEGAL HISTORY OF TORTURE
+
+
+merical values to them (eighth proofs, quarter proofs, half proofs). Vast legal
+treatises were compiled to guide investigating magistrates in computing
+whether there was sufficient cause to examine the suspect under torture.
+
+In addition to the probable cause rules, further safeguards were devised
+to govern the application of torture. These rules were meant to enhance the
+reliability of a tortured confession. Torture was not supposed to be used to
+wring out an abject, unsubstantiated confession of guilt. Rather, the exam-
+ining magistrate was supposed to use torture to elicit from the accused the
+factual detail of the crime—information that, in the words of a celebrated
+German statute of 1532, “no innocent person can know.”’ The examiner was
+forbidden to engage in so-called suggestive questioning, that is, supplying
+the accused with the detail that the examiner wanted to hear from him.
+Moreover, the information that the suspect admitted under torture was
+supposed to be verified to the extent feasible. Thus, for example, if the ac-
+cused confessed to the crime, he was supposed to be asked what he had
+done with the loot and the weapon or whatever, in order that these objects,
+when fetched, could corroborate the confession.
+
+Defects of Safeguard
+
+Alas, because torture tests endurance rather than veracity, innocent per-
+sons might (as one sixteenth-century handbook on criminal procedure
+warned) yield to “the pain and torment and confess things that they never
+did” For a variety of reasons, the safeguards never proved adequate. If the
+examining magistrate engaged in suggestive questioning, even accidentally,
+his lapse could not always be detected or prevented. If the accused knew
+something about the crime but was still innocent, what he did know might
+be enough to give his confession verisimilitude. In some jurisdictions the
+requirement of verification was not enforced or was enforced indifferently.
+
+In order to achieve a verbal or technical reconciliation with the require-
+ment of the formal law of proof that the confession be voluntary, the law
+treated a confession extracted under torture as involuntary, hence ineffec-
+tive, unless the accused repeated it free from torture at a hearing held a day
+or so later. Sometimes the accused who had confessed under torture did re-
+cant when asked to confirm his confession. But seldom to avail: The exam-
+ination under torture could thereupon be repeated. When an accused con-
+fessed under torture, recanted, and was then tortured anew, he learned
+quickly enough that only a “voluntary” confession at the ratification hear-
+
+TORTURE AS PRACTICED
+
+ing would save him from further agony in the torture chamber. Thus, Jo-
+hannes Julius, the seventeenth-century burgomaster of Bamburg, Ger-
+many, writing from his dungeon cell where he was awaiting execution, told
+his daughter why he had confessed to witchcraft “for which I must die. It is
+all falsehood and invention, so help me God. ... They never cease to tor-
+ture until one says something.”® Against the coercive force of the engines of
+torture, no safeguards were ever found that could protect the innocent and
+guarantee the truth, The agony of torture created an incentive to speak, but
+not necessarily to speak the truth.
+
+These shortcomings in the law of torture were identified even in the
+Middle Ages and were the subject of emphatic complaint in Renaissance
+and early modern times. Cases arose recurrently in which the real culprit
+was detected after an innocent accused had confessed under torture and
+been convicted and executed. In the eighteenth century, as the law of tor-
+ture was finally about to be abolished, along with the system of proof that
+had required it, Beccaria'® and Voltaire!! became famous as critics of judi-
+cial torture by pointing to such cases, but they were latecomers to a critical
+legal literature nearly as old as the law of torture itself. Judicial torture sur-
+vived the centuries not because its defects had been concealed but in spite
+of their having been long revealed. The two-eyewitness rule, the corner-
+stone of the European law of proof, had left the criminal procedure inex-
+tricably dependent on the tortured confession.
+
+Abolition
+
+The European states abolished the system of judicial torture within about
+two generations. Frederick the Great all but abolished torture within a month
+of his accession to the Prussian throne in 1740; torture was used for the last
+time in Prussia in 1752 and was definitely abolished in 1754. In 1770, Saxony
+and Denmark abolished torture; in 1776, Poland and Austria-Bohemia; in
+1780, France; in 1786, Tuscany; in 1787, the Austrian Netherlands (Belgium);
+and in 1789, Sicily. Early in the nineteenth century, abolition reached the
+last corners of the Continent.'?
+
+The conventional historical account of this abolition movement placed
+great weight on the influence of the publicists of the Enlightenment. By
+denouncing the dangers of torture, Beccaria and Voltaire and the other
+writers were thought to have inspired the absolutist monarchs (in particu-
+lar, Frederick the Great in Prussia, Maria Theresa and Joseph II in Aus-
+
+THE LEGAL HISTORY OF TORTURE
+
+
+tria and other Habsburg possessions, and Louis XVI in France) to issue
+their respective abolition decrees. Thereafter, it was said, the European
+states revised their laws of criminal procedure in the nineteenth century to
+permit the criminal courts to condemn accused criminals on the basis of
+what is now the modern standard of proof, known as free (in the sense of
+unrestricted) judicial evaluation of the evidence (conviction intime, freie
+Beweiswiirdigung).
+
+This account of the abolition movement is improbable for two reasons.
+First, it treats the moral outrage awakened by the Enlightenment writers as
+decisive, even though they were not advancing any arguments against tor-
+ture that had not been known for centuries. Second, the conventional ac-
+count presupposes that the abolition of torture in the eighteenth century
+preceded the abolition of the European law of proof, which occurred in the
+nineteenth century—an unlikely sequence when we recall that the old law
+of proof made criminal procedure unworkable without torture.
+
+Modern scholarship"? has put forth a different account of the history of
+the abolition of judicial torture. It has come to be understood that the Eu-
+ropean law of proof underwent changes in the sixteenth and seventeenth
+centuries, which were linked to a great change in penology, namely, the de-
+velopment of the sanction of penal servitude (the forerunner of imprison-
+ment) as an alternative to the blood sanctions of medieval law.'4 The me-
+dieval law of proof formed at a time when serious crime was punished by
+death or maiming. These blood sanctions and the law of proof had been
+defined in terms of each other. When, however, the systems of incarceral
+punishment developed in the sixteenth and seventeenth centuries, the
+courts were able to treat that relationship as a restriction. The old law of
+proof, requiring two eyewitnesses or voluntary confession, was said to per-
+tain only to the old blood sanctions. The courts deemed themselves able to
+impose the new and less severe punishments according to a less strict stan-
+dard of proof, one of persuasion (conviction intime) rather than certainty.
+This development, by making it possible to convict an accused without
+confession or the testimony of two eyewitnesses, is what finally allowed Eu-
+ropean criminal procedure to escape its dependence on torture.
+
+The courts did not have to invent the lesser standard of proof but only
+to extend it from the sphere of petty crime. When the new modes of pun-
+ishment appeared, there were already two distinct systems of proof in si-
+multaneous operation. For serious crimes punishable with the blood sanc-
+tions, the two-eyewitness rule and its subsidiary system of judicial torture
+
+TORTURE AS PRACTICED
+
+governed. For petty crimes, however, where the sanctions were fines, minor
+corporal punishments, or short-term imprisonment, the standard of proof
+had not been certainty, but merely subjective persuasion of the court. Tor-
+ture had been unnecessary, indeed forbidden, in such cases.
+
+In the sixteenth and seventeenth centuries the courts analogized the ap-
+plication of the new sanction of penal servitude, even in cases of serious
+crime, to the ancient procedure for petty crime, which had also employed
+noncapital sanctions. In a case in which a noncapital punishment was being
+imposed, for whatever offense, courts began to treat the old law of proof as
+inapplicable, because it never had applied to noncapital cases. Thereafter,
+the old law of proof survived, but it had lost its grip. The standards of the
+old law continued to be obeyed in easy cases, where the prosecution en-
+tailed a voluntary confession or two eyewitnesses. But in the cases in which
+there was neither, compliance with the old law of proof was no longer es-
+sential. In precisely those cases in which it had previously been necessary to
+use torture, it now became possible to punish the culprit without meeting
+the standard of proof that had required torture. With the two-eyewitness
+rule effectively bypassed in this way, the European courts could base con-
+victions wholly or partially on circumstantial evidence.'> Torture there-
+upon fell into such steep disuse that the eighteenth-century abolition move-
+ment was largely symbolic.
+
+England’s Escape
+
+The system of judicial torture was never known in England. English courts
+did not investigate under torture. The English were not possessed of “any
+unusual degree of humanity or enlightenment.”!* Rather, they were the
+beneficiaries of a criminal procedure so crude that torture was unneces-
+sary. Whereas the Europeans had turned to the Roman-canon law of proof
+in order to legitimate a system of adjudication by professional judges, in
+England the replacement for the ordeals was the trial jury. The medieval
+English jury was assembled from men living near the scene of the crime,
+a body of neighbors who gave their verdict based on what they already
+knew or had heard rather than what they learned at trial.!” “Our criminal
+procedure,” wrote the historian Frederic William Maitland, “had hardly
+any place for a law of evidence.” The English accepted “the rough verdict of
+
+THE LEGAL HISTORY OF TORTURE
+
+
+the coyntryside, without caring to investigate the logical processes, if logi-
+cal they were, of which that verdict was the outcome.” !®
+
+On the Continent, as Maitland observed, torture “came to the relief of
+a law of evidence which made conviction well-nigh impossible.” In En-
+gland, by contrast, “neither the stringent rules of legal proof nor the
+cruel and stupid subterfuge [of torture] became endemic.”!® Even after the
+rise of the common law of evidence in the eighteenth and nineteenth cen-
+turies, an Anglo-American jury was and remains able to convict an accused
+on circumstantial evidence alone, less evidence than the European law
+of proof stipulated as a mere precondition for further investigation under
+torture.
+
+In Renaissance times the English produced a celebratory literature de-
+nouncing the use of torture in Continental legal systems and extolling its
+absence in England.” In truth, however, the English did experiment with
+using torture to investigate crime, primarily treason, in the Tudor-Stuart
+period. In at least eighty-one cases during the century 1540 from 1640, the
+Privy Council issued warrants authorizing investigation under torture. (The
+archives are imperfect, and there may have been some further cases that are
+no longer traceable.) Most of the known cases of occurred under Elizabeth
+I (1558-1603), when the English Reformation and the growth of Spanish
+power induced a sense of extreme national peril about domestic plots and
+foreign intrigue. The use of torture subsided early in the seventeenth cen-
+tury and appears to have lapsed after 1640.7!
+
+Torture was used in England only when authorized by the Privy Coun-
+cil (or, exceptionally, by the monarch). Because the English never lodged
+the power to investigate under torture with ordinary law enforcement
+officers” or courts, this century of experiment with torture left hardly a
+trace in Anglo-American criminal procedure. Blackstone, who knew of some
+of the cases, dismissed the use of torture as having been extralegal. He said
+of the rack, the principal device used to torture suspects in England, that it
+was “an engine of state, not of law: Sir Edward Coke, who served as an
+examiner under several Elizabethan torture warrants, wrote in his Third
+Institute (composed around 1630) that “there is no law to warrant tortures
+in this land, nor can they be justified by any prescription, being so lately
+brought in.””* The legal basis, such as it was, for the use of torture in the
+eighty-one known cases appears to have been the notion of sovereign im-
+munity,?> a defensive doctrine that spared the authorities from having to
+supply affirmative justification for what they were doing. :
+
+TORTURE AS PRACTICED
+
+History’s Lessons
+
+The European law of torture was suffused with the spirit of safeguard, yet
+it was never able to correct for the fundamental unreliability of coerced evi-
+dence. The attempted safeguards regulated both who could be tortured and
+how. The rules of probable cause meant to restrict investigation under tor-
+ture to persons highly likely to be guilty. It is, however, in the nature of a
+difficult criminal investigation that a person may be near to the events yet
+nonetheless be innocent of the crime. Thus, despite the rules of probable
+cause, many an innocent suspect went to the torture chamber. Once there,
+he commonly found that the rules that were meant to protect him did not.
+The prohibition on suggestive questioning was hard to enforce, and the
+verification requirement was intrinsically equivocal.
+
+I see little reason to think that modern circumstances would make in-
+vestigation under torture more reliable. Modern technology would proba-
+bly allow us to do a better job of winnowing suspects and of monitoring
+and hence deterring suggestive questioning. There is, however, no escape
+from the reality that not every suspect is guilty, and that, for many reasons,
+information extracted under torture comes with no guarantee of reliabil-
+ity. Terrorists willing to die for their cause would also be willing to plant
+false tales under torture.
+
+Another insight from history is the danger that, once legitimated, tor-
+ture could develop a constituency with a vested interest in perpetuating it.
+We have seen in recent years how the enterprise of enforcing the drug laws
+in the United States has made law enforcement agencies as dependent on
+the resulting forfeitures as the junkies are on the dope.” In a similar vein,
+Sir James Fitzjames Stephen recorded an observation made to him in India
+in 1872 about the proclivity of the native police for torturing suspects. “It is
+far pleasanter to sit comfortably in the shade rubbing red pepper into some
+poor devil’s eyes than to go about in the sun hunting up evidence.”””
+
+History’s most important lesson is that it has not been possible to make
+coercion compatible with truth.
+
+Notes
+1. This section follows John H. Langbein, Torture and the Law of Proof: Europe and
+
+England in the Ancien Régime (1977), 3-17, which contains citations to the historical
+sources and scholarly literature.
+
+THE LEGAL HISTORY OF TORTURE
+
+
+2. For example, in the leading study of the juristic literature, Piero Fiorelli, La tor-
+tura giudiziaria nel diritto comune, 2 vols. (1953-54).
+
+3. For an English-language account of the reception in the German states, see John
+P. Dawson, A History of Lay Judges (1960), 102-112, and The Oracles of the Law (1968),
+176-242.
+
+4. For a succinct account, see T.ET. Plucknett, A Concise History of the Com-
+mon Law, sth ed. (1956), 113-115; see also Paul R. Hyams, “Trial by Ordeal: The Key
+to Proof in the Early Common Law,’ in On the Laws and Customs of England: Essays
+in Honor of Samuel E. Thorne (1981), 90. Regarding the worldview of the ordeal,
+see Peter Brown, “Society and the Supernatural: A Medieval Change,” Daedalus
+104 (1975): 133, reprinted in Peter Brown, Society and the Holy in Late Antiquity
+(1982), 302.
+
+5. See Disciplinary Decrees of the General Councils, ed. H. J. Schroeder (1937)
+(reprinting and translating canon 18 of the Fourth Lateran Council), 258. Regarding
+the background to abolition, see Robert Bartlett, Trial by Fire and Water: The Me-
+dieval Judicial Ordeal (1986), 70-90; R. C. van Caenegem, “The Law of Evidence in
+the Twelfth Century,” in Proceedings of the Second International Congress of Medieval
+Canon Law, ed. S. Kuttner and Joseph Ryan (1965); J. W. Baldwin, “The Intellectual
+Preparation for the Canon of 1215 against Ordeals,” Speculum 36 (1961): 613.
+
+6. Maitland’s term. Frederick Pollock and Frederic W. Maitland, The History of En-
+glish Law before the Time of Edward I, 2nd ed. (Cambridge: 1898) (hereafter Maitland,
+HEL), 660.
+
+7. Constitutio Criminalis Carolina, sec. 54 (1532), translated in John H. Langbein,
+Prosecuting Crime in the Renaissance: England, Germany, France (1974), 282.
+
+8. Joost Damhouder, Practique iudiciaire es causes criminelles [Praxis Rerum Crimi-
+nalium] (Antwerp, 1564), 44.
+
+9. Quoted in Hugh R. Trevor-Roper, The European Witch-Craze of the Sixteenth and
+Seventeenth Centuries (1969), 84.
+
+10. Cesare Beccaria, Of Crimes and Punishments, trans J. Grigson (1964), chap. 12,
+pp. 31-37 (ist ed. 1764).
+
+u. Oeuvres completes de Voltaire (Paris: 1835), 411, 441-442. See generally Peter Gay,
+Voltaire’s Politics (1959), 273-308; Marcello Maestro, Voltaire and Beccaria as Reform-
+ers of Criminal Law (1942).
+
+12. For the details on the legislation, see Langbein, Torture, 61-64, 177-179.
+
+13. Bernard Schnapper, “Les Peines arbitraires du XIIle au XVIIle siécle: Doctrines
+savantes et usages francais,” Tijdschrift voor Rechtsgeschiedenis 41 (1973): 237; 42 (1974):
+81; Langbein, Torture, 45-69.
+
+14. See John H. Langbein, “The Historical Origins of the Sanction of Imprisonment
+for Serious Crime,” Journal of Legal Studies 5 (1976: 5); Thorsten Sellin, Pioneering in
+Penology: The Amsterdam Houses of Correction in the Sixteenth and Seventeenth Cen-
+
+turies (1944).
+
+TORTURE AS PRACTICED
+
+15. Regarding the development in the German states, see Langbein, Torture, 47-50,
+and sources cited there; for France, see 50-60.
+
+16. Maitland, HEL, 660.
+
+17. See Daniel Klerman, “Was the Jury Ever Self-Informing?” in The Trial in History:
+Judicial Tribunals in England and Europe, 1200-1700, ed. Maureen Mulholland and
+Brian Pullan (2003), 58.
+
+18. Maitland, HEL, 660-661.
+
+19. Ibid., 659-660.
+
+20. E.g., John Fortescue, De Laudibus Legem Anglie, ed. S. B. Chrimes (1942) (writ-
+ten c. 1470), 46-47. Thomas Smith, De Republica Anglorum, ed. Mary Dewar (1982)
+(written c. 1585), 17-18.
+
+21. I have catalogued and analyzed eighty-one torture warrants in Langbein, Tor-
+ture, 81-128; see also James Heath, Torture and English Law: An Administrative History
+from the Plantagenets to the Stuarts (1982), identifying these eighty-one cases. The first
+scholarly account was David Jardine, A Reading on the Use of Torture in the Criminal
+Law of England Previously to the Commonwealth (London, 1837).
+
+22. English criminal procedure functioned without a professional police and pros-
+ecutorial corps until the nineteenth century. Local justices of the peace (JPs) conducted
+investigatorial and charging functions, supported by local constables. Both the JPs
+and the constables were unpaid amateurs engaged in civic service. I have emphasized
+in Langbein, Torture, 137-138, that “it would have been unthinkable to allow them to
+operate torture chambers of their own. ... They were prone to faction and notori-
+ously difficult for the central authorities to control.”
+
+23. William Blackstone, Commentaries on the Law of England, 4 vols. (Oxford: Ox-
+ford University Press, 1765-69), 4: 321.
+
+24. Edward Coke, The Third Part of the Institutes of the Laws of England: Concerning
+High Treason, and Other Pleas of the Crown, and Criminal Causes (London, 1644)
+(posthumous publication, written c. 1620s—16308), 35.
+
+25. I have explained why the historical evidence points in this direction; see Lang-
+bein, Torture, 129-31.
+
+26. Our plea bargaining system supplies another example of the way vested interests
+coalesce around coercive criminal procedures. On the coercive nature of plea bar-
+gaining, see John H. Langbein, “Torture and Plea Bargaining,” University of Chicago
+Law Review 46 (1978): 1. The theme of the vested interests of judges, defense counsel,
+and especially prosecutors in plea bargaining was developed in Alschuler’s trilogy of
+articles: Albert W. Alschuler, “The Trial Judge’s Role in Plea Bargaining,” Columbia
+Law Review 76 (1976): 1059; “The Defense Attorney’s Role in Plea Bargaining,” Yale
+Law Journal (1975) 84: 1179. “The Prosecutor’s Role in Plea Bargaining,” University of
+Chicago Law Review 36 (1968): 50.
+
+27. James Fitzjames Stephen, A History of the Criminal Law of England, 3 vols. (Lon-
+don, 1883), 1: 442 n.1.
+
+THE LEGAL HISTORY OF TORTURE

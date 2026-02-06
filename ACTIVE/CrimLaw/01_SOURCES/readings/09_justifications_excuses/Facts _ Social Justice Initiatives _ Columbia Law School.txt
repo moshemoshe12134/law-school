@@ -1,0 +1,278 @@
+1/14/2016 Facts | Social Justice Initiatives | Columbia Law School
+
+Gh COLUMBIA LAW SCHOOL
+Social Justice Initiatives
+
+Facts
+
+Questions and Answers for Columbia Law School Students about Grand
+Juries
+
+By Professors Jeffrey Fagan & Bernard E. Harcourt
+Columbia Law School
+
+What is a grand jury and what does it usually do?
+
+Grand jury practice is determined on a state-by-state basis. The U.S. Constitutional right to a grand jury indictment
+in a felony case, included in the Fifth Amendment,[1] (#1) has not been incorporated as to the states and thus does
+not apply to state prosecutions. Many state constitutions require a grand jury indictment in certain cases and
+specify the powers of a grand jury. The practices of grand juries thus vary by state and federal jurisdictions.[2] (#2)
+
+About half the states require a grand jury indictment for prosecution in felony cases. In those states that do not
+require a grand jury indictment, cases will generally proceed on the basis of an information filed by the prosecutor.
+This becomes the charging instrument. As a general matter, prosecutors will try to avoid presenting a case to a grand
+jury when possible in order to avoid creating testimony that can be used to cross-examine a witness at trial, unless
+the prosecutor is trying to use the grand jury as a way to develop evidence for a prosecution. In controversial cases,
+state law will often allow the appointment of a special or independent prosecutor.
+
+Grand juries are standing juries, drawn from the regular jury pool, ready to hear evidence presented by prosecutors.
+Rules and procedures vary by jurisdiction. Their size ranges from 23 (federal) to 12 (Missouri). Grand juries do not
+
+always need to be unanimous. In Missouri, for instance, 9 of 12 grand jurors can return an indictment. Grand juries
+will often sit for weeks at a time and may hear dozens of potential cases.
+
+Grand jury proceedings are closed to the public and to the media, as well as to the targets of the investigation and
+their counsel. Generally, the only persons in the grand jury room are the jurors, the prosecutors, and the witness who
+is called. Most often, the practice is for the prosecutor to preside over the process without a judge in the grand jury
+room. The prosecutor typically instructs the jury on the law.
+
+Generally, grand juries will issue indictments in most if not all cases. The standard for indictment is probable cause.
+In the context of the grand jury, the Supreme Court has stated, “Probable cause, we have often told litigants, is not a
+high bar: It requires only the ‘kind of “fair probability” on which ‘reasonable and prudent [people, ] not legal
+technicians, act.”’[3] (#3)
+
+The grand jury process is now so routinized in most state jurisdictions that it has become a pro forma proceeding to
+deliver an indictment for a prosecutor. It is for this reason that most lawyers say, repeating the famous expression of
+the former chief judge of the highest New York state court, Sol Wachtler, that prosecutors can get grand juries to
+“indict a ham sandwich.”[4] (#4) According to the Bureau of Justice Statistics, “U.S. attorneys prosecuted 162,000
+federal cases in 2010, the most recent year for which we have data. Grand juries declined to return an indictment in
+11 of them.”[5] (#5) These statistics may not be representative of all state grand jury practices — some of which are
+more pro forma in ordinary cases and others may require hearing a range of evidence that federal prosecutors are not
+required to present.
+
+What is a typical grand jury procedure?
+
+In a typical state grand jury proceeding, the prosecutor calls only one or two witnesses, usually the reporting officer
+and the victim (if there is one), and the prosecutor tries to limit testimony as much as possible in order to avoid
+creating impeachment evidence for cross-examination by defense counsel. In more complex cases, additional
+witnesses are called and physical and forensic evidence presented.
+
+http://web.law.columbia.edu/social-justice/forum-on-police-accountability/facts 1/5
+
+
+1/14/2016 Facts | Social Justice Initiatives | Columbia Law School
+
+Grand jury proceedings are secret, closed to the public and to defense counsel. The officer presiding in the grand jury
+is the prosecutor, who also instructs the grand jury on the law. There is no judge in the grand jury room.
+
+Targets rarely appear before the grand jury, although a sympathetic target with a defense narrative will often choose
+to appear in a complex case.
+
+Grand jurors can in some jurisdictions direct questions at a witness. In the Michael Brown shooting death, some
+grand jurors directed questions to Darren Wilson during his four-hour testimony.[6] (#6)
+
+Grand juries can hear dozens of cases during any one term. Their terms can extend over months. They are not
+sequestered. However they are bound to rules of secrecy.
+
+The State of Missouri has a provision, in its Bill of Rights, which describes the composition, jurisdiction, and powers
+of the grand jury, but does not make grand juries constitutionally required in all cases.[7] (#7)
+
+What did the St. Louis County grand jury decide in the Michael Brown shooting?
+
+This St. Louis County Grand Jury decided to return no bill of indictment against Officer Wilson in the shooting
+death of Michael Brown. This grand jury did not decide that a crime did or did not take place. Another grand jury
+could return a different outcome should the matter be re-introduced at a later time.
+
+Contrary to much of the media presentation, a grand jury decision is not a “verdict.” A petit jury at a trial after
+hearing all the evidence returns a verdict (ver-truth; dict-statement, i.e. a statement of truth). A grand jury either
+true bills or no bills an indictment. Grand juries never return verdicts.
+
+What was unusual about the grand jury proceedings in the Michael Brown shooting?
+
+Everything. The proceedings resembled a trial rather than a grand jury proceeding. For example, the transcripts
+show that the prosecutors cross-examined potential prosecution witnesses, probing for inconsistencies in their
+testimony. They were openly skeptical of the testimony of others.
+
+There were about 60 witnesses called during almost 75 hours of proceedings, resulting in almost 5,000 pages of
+transcript. Most grand juries see only one witness per case: the arresting officer. As a result of the number of
+witnesses the grand jury took far longer to reach its decision than do most grand juries.
+
+The subject of the grand jury proceeding, Darren Wilson, presented four hours of testimony at the outset of the
+Grand Jury proceeding.[8] (#8) Mr. Wilson was not rigorously cross-examined, while other witnesses were subject
+to extensive and aggressive cross-examination.
+
+An Assistant District Attorney gave inaccurate and misleading instructions to the Grand Jury at the beginning of the
+proceeding regarding controlling law on whether officers can kill a fleeing suspect without considering the officer’s
+fear of life. She cited a Missouri statute that had been overturned by the U.S. Supreme Court in 1985.[9] (#9) She
+corrected the record weeks after citing the wrong statute and long after Officer Wilson had testified.
+
+The prosecutors did not suggest which charges the grand jury should consider, instead leaving it to the grand jurors
+to decide.
+
+The grand jury’s no true bill decision was announced late in the evening after several public announcements that a
+decision was imminent.
+
+The transcripts of the grand jury were released to the public immediately after the no true bill was announced. By
+contrast, grand jury proceedings are sealed in most states and their secrecy is protected by non-disclosure laws that
+usually involve criminal penalties for disclosure. In Missouri, for instance, § 540.320 of the Missouri Statutes states
+that “No grand juror shall disclose any evidence given before the grand jury” and provides that “any juror violating
+the provisions of this section shall be deemed guilty of a class A misdemeanor.” It is extremely rare for grand jury
+transcripts to be publicly available.
+
+Do grand jury proceedings tend to be different in police shooting cases?
+
+In many jurisdictions, a grand jury often is convened to review every police-involved homicide. A prosecutor who,
+while accountable to an electorate, must also rely on the police department to bring him cases, will frequently find it
+
+http://web.law.columbia.edu/social-justice/forum-on-police-accountability/facts 215
+
+
+1/14/2016 Facts | Social Justice Initiatives | Columbia Law School
+
+very useful to attribute a decision not to bring criminal charges to the grand jury. This means that police shootings
+will sometimes be presented to a grand jury in a situation where, had a civilian been involved, the prosecutor would
+have made no presentation.
+
+State grand juries tend to be more likely to excuse a police officer in the shooting death of an unarmed civilian, due to
+broad definitions of deadly force and the rules about when it is justified. In Houston, Texas, for example, local grand
+juries have cleared police of shooting civilians 288 consecutive times.[10] (#10) This is tends to be the case in
+Missouri, as a result of the extraordinary deference in Missouri law to police officer discretion. Missouri Revised
+Statutes § 563authorizes deadly force “in effecting an arrest or in preventing an escape from custody” if the officer
+“reasonably believes” it is necessary in order to “to effect the arrest and also reasonably believes that the person to be
+arrested has committed or attempted to commit a felony...or may otherwise endanger life or inflict serious physical
+injury unless arrested without delay.”[11] (#11)
+
+Is it common for grand juries in St. Louis County to issue indictments in recent police shooting
+cases?
+
+From 1976-2012, FBI data show that there were 186 fatal shootings by police officers in St. Louis County. Police
+reported self-defense (“felon attacked officer”) in 77 of these killings (41.3%). In another 15 (8.1%), the shooting took
+place when the “felon attacked a fellow officer”. The rest of the circumstances included fleeing felons (before Garner),
+shootings during the commission of a crime, or shootings while one person attacked another.
+
+From 1990, the year before Bob McCulloch became Prosecuting Attorney in St. Louis County, through 2012, there
+were 112 fatal shootings of civilians by police, officers. 80 (71.4%) of the victims were Black.
+
+From 2005-2012, there have been 53 fatal shootings of civilians by police officers in that 8 year period, 28.5% of the
+total of 186 since 1976. In that period, 37 (69.8%) of the victims in those shootings were Black.
+
+Since Bob McCulloch took over as prosecutor in 1991, 33 police officers have been prosecuted in criminal cases,
+resulting in 20 convictions (5 cases are pending).[12] (#12) Four cases of police killings of citizens while on the job
+have been presented to St. Louis County grand juries. No indictments of police officers were returned in any of those
+cases. The Michael Brown killing is the fifth such case without an indictment.
+
+What further legal proceedings may happen?
+
+The decision not to indict does not trigger Double Jeopardy protections. As a result, a subsequent grand jury, ora
+specially appointed independent prosecutor presenting evidence at another grand jury, could revisit the case and
+issue a criminal indictment.
+
+Prosecutor McCullouch could convene a second grand jury, but this extremely unlikely. McCulloch has made it clear
+that he considers Wilson did not commit a crime. Missouri Governor Jay Nixon has the authority to appoint a
+special prosecutor that would present the case to a new grand jury, but to date, the Governor has said he would not
+do so.
+
+However, a court could appoint a special prosecutor, under Missouri Rev Stat § 56.110. That statute authorizes the
+state court with criminal jurisdiction over the County to appoint another, independent attorney to prosecute the
+case if the Court believes there was a conflict of interest for the prosecutor in the first grand jury proceeding. The
+court with jurisdiction in this matter is the 215 Judicial Circuit Court of Missouri, whose presiding judge is Hon.
+Maura McShane. There is precedent in Missouri for the appointment of a special prosecutor. In 1996, in State v.
+Copeland (928 S.W.2d 828 (Mo. 1996)), a Missouri court replaced the local prosecutor, citing conflicts of interest
+due to “the advocacy of the prosecutor for the defendant’s position.”[13] (#13) Whether a state court takes such
+action in this case is up to that Court.
+
+In addition, a federal as opposed to the state prosecution does not raise a Double Jeopardy issue (any defendant can
+be convicted and sentenced for the same crime in state and federal court if there are provisions related to that offense
+in the state and federal criminal codes).
+
+There is a possible U.S. DOJ Civil Rights investigation of the police officer in the shooting death of Michael Brown.
+There is also an ongoing U.S. DOJ investigation of patterns and practices of use of force and racial discrimination
+under 42 U.S.C. § 14141
+
+The family of Michael Brown is likely to bring a civil wrongful death lawsuit in federal court.
+
+http://web.law.columbia.edu/social-justice/forum-on-police-accountability/facts 3/5
+
+
+1/14/2016 Facts | Social Justice Initiatives | Columbia Law School
+
+Jeffrey Fagan, Isidor and Seville Sulzbacher Professor of Law
+
+Bernard E. Harcourt, Isidor and Seville Sulzbacher Professor of Law and Director, Columbia Center for
+Contemporary Critical Thought
+
+Columbia Law School
+
+New York, NY
+
+Revised December 5, 2014, 12:00 PM
+
+Notes
+
+[1] The Fifth Amendment of the United States Constitution provides “No person shall be held to answer for a capital,
+or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury.”
+
+[2] For a survey of grand jury practices across jurisdictions, see
+http://campus.udayton.edu/~grandjur/stategj/stateg.htm
+(http://campus.udayton.edu/~grandjur/stategj/stateg .htm)
+
+[3] Kaley v. U.S., 134 S. Ct. 1090 (U.S., 2014)
+
+[4] https://www.nycourts.gov/history/legal-history-new-york/luminaries-court-appeals/wachtler-
+sol. html (https://www.nycourts.gou/history/legal-history-new-york/luminaries-court-appeals/wachtler-
+sol.html)
+
+[5] Ben Casselman, “It’s Incredibly Rare For A Grand Jury To Do What Ferguson’s Just Did,” New York Times 538,
+Nov. 24, 2014. At: http://fivethirtyeight.com/datalab/ferguson-michael-brown-indictment-darren-
+wilson/ (http://fivethirtyeight.com/datalab/ferguson-michael-brown-indictment-darren-wilson/) . See, also,
+http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/24/the-rarity-of-a-federal-grand-jury-
+not-indicting-visualized/ (http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/24/the-rarity-of-a-
+federal-grand-jury-not-indicting-visualized/)
+
+[6] Andrew Cohen, Law and Disorder in Ferguson, Marshall Project, November 25, 2014, at
+https://www.themarshallproject.org/2014/11/25/law-and-disorder-in-ferguson
+(https://www.themarshallproject.org/2014/11/25/law-and-disorder-in-ferguson)
+
+[7] Article I, Section 16 of the Missouri Bill of Rights reads: Section 16. That a grand jury shall consist of twelve
+citizens, any nine of whom concurring may find an indictment or a true bill: Provided, that no grand jury shall be
+convened except upon an order of a judge of a court having the power to try and determine felonies; but when so
+assembled such grand jury shall have power to investigate and return indictments for all character and grades of
+crime; and that the power of grand juries to inquire into the willful misconduct in office of public officers, and to find
+indictments in connection therewith, shall never be suspended.
+
+[8] USAM section 9-11.152, states that "under normal circumstances, where no burden upon the grand jury or delay
+of its proceedings is involved, reasonable request by a ‘subject’ or 'target' or an investigation, as defined above, to
+testify personally before the grand jury ordinarily should be given favorable consideration." See:
+
+http://www .justice.gov/usao/eousa/foia_reading_room/usam/title9/11merm.htm#9-11.152
+(http://www justice.gov/usao/eousa/foia_reading_room/usam/title9/11mcrm.htm#9-11.152)
+
+[9] Tennessee v. Garner, 471 U.S. 1 (1985)
+
+[10] http://www.houstonchronicle.com/local/item/Bulletproof-Part-3-Hard-to-ch...
+(http://www.houstonchronicle.com/local/item/Bulletproof-Part-3-Hard-to-charge-24421.php)
+
+[11] Missouri Revised Statutes, § 563
+[12] Heather Cole, Background Check: Looking at McCulloch’s Prosecution History, Missouri Lawyer’s Weekly,
+September 8, 2014, at http://molawyersmedia.com/2014/09/08/background-check-looking-at-
+
+mecullo... (http://molawyersmedia.com/2014/09/08/background-check-looking-at-mccullochs-prosecution-
+history/)
+
+http://web.law.columbia.edu/social-justice/forum-on-police-accountability/facts 4/5
+
+
+1/14/2016 Facts | Social Justice Initiatives | Columbia Law School
+
+[13] Judd Legum, How One Woman Could Hit the Reset Button in the Case Against Darren Wilson, Thinkprogress,
+December 2, 2014, at http://thinkprogress.org/justice/2014/12/02/3598082/one-woman-could-appo...
+(http://thinkprogress.org/justice/2014/12/02/3598082/one-woman-could-appoint-a-special-prosecutor-and-
+bring-justice-to-ferguson/)
+
+View the Ferguson Fact Sheet Microsoft Word document
+(http://web.law.columbia.edu/sites/default/files/microsites/social-
+justice/files/fagan_harcourt_fact_sheet_12_05_14_revised_jf_125.docx)
+
+http://web.law.columbia.edu/social-justice/forum-on-police-accountability/facts
+
+5/5

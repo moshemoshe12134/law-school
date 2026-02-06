@@ -1,0 +1,274 @@
+Case: 13-13878 Date Filed: 10/06/2014 Page: 1 of 58
+No. 13-13878-C
+UNITED STATES COURT OF APPEALS
+FOR THE ELEVENTH CIRCUIT
+__________________________________________
+PHILLIP WAYNE TOMLIN,
+Petitioner-Appellant,
+v.
+GARY HETZEL,
+Warden, Holman Correctional Facility,
+Respondent-Appellee.
+__________________________________________
+PETITIONER-APPELLANT’S BRIEF
+__________________________________________
+BERNARD E. HARCOURT
+COLUMBIA LAW SCHOOL
+Jerome Green Hall 515
+435 West 116th Street
+New York, New York 10027
+Phone: (212) 854-1997
+Email: beh2139@columbia.edu
+Counsel for Phillip Tomlin
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 5 of 58
+TABLE OF CONTENTS
+CERTIFICATE OF INTERESTED PERSONS ...................................................................... 1
+STATEMENT REGARDING ORAL ARGUMENT ............................................................... I
+TABLE OF CONTENTS ................................................................................................. II
+TABLE OF CITATIONS ................................................................................................ III
+STATEMENT OF JURISDICTION ................................................................................... IV
+STATEMENT OF THE ISSUE .......................................................................................... 1
+STATEMENT OF THE CASE .......................................................................................... 1
+SUMMARY OF THE ARGUMENT ................................................................................. 13
+ARGUMENT AND CITATIONS TO AUTHORITY ............................................................ 18
+I. THE FINAL STATE COURT DID NOT ADDRESS MR. TOMLIN’S CLAIM ON THE
+MERITS, AND THEREFORE THIS COURT MUST APPLY DE NOVO REVIEW
+TO THE ISSUE PRESENTED ...................................................................... 18
+II. THE DISTRICT COURT IMPROPERLY RELIED ON EX PARTE KYZER (ALA.
+1981), A DECISION THAT HAS BEEN EXPRESSLY OVERRULED BY THE
+ALABAMA SUPREME COURT, THEREFORE THE DISTRICT COURT’S
+OPINION MUST BE VACATED ................................................................ 20
+III. A PLAIN READING OF THE 1975 ALABAMA DEATH PENALTY ACT
+DEMONSTRATES THAT PHILLIP TOMLIN DOES NOT FALL WITHIN THE
+AMBIT OF THE CAPITAL STATUTE .......................................................... 21
+IV. THE NUMEROUS JUDICIAL REINTERPRETATIONS OF THE 1975 ALABAMA
+DEATH PENALTY ACT DO NOT AFFECT THE PLAIN MEANING OF THE
+STATUTE IN 1977-1978 ......................................................................... 34
+V. THE SENTENCE OF LIFE IMPRISONMENT WITHOUT PAROLE VIOLATES MR.
+TOMLIN’S RIGHT TO FAIR NOTICE GUARANTEED BY BOUIE V. CITY OF
+COLUMBIA (1964) .................................................................................. 43
+CONCLUSION ............................................................................................................ 48
+CERTIFICATE OF COMPLIANCE ................................................................................. 50
+CERTIFICATE OF SERVICE ......................................................................................... 51
+ii
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 8 of 58
+STATEMENT OF THE ISSUE
+This Court granted a certificate of appealability on the issue:
+Whether the Alabama court’s decision—that Tomlin’s sentence
+of life imprisonment without the possibility of parole did not
+violate the Ex Post Facto Clause—was contrary to, or involved
+an unreasonable application of, clearly established federal law,
+as determined by the United States Supreme Court.
+Tomlin v. Patterson, No. 13-13878-C (11th Cir. June 02, 2014) (Appellate
+ECF No. 9).
+STATEMENT OF THE CASE
+Petitioner-Appellant Phillip Tomlin was convicted of capital murder
+and, after 26 years on Alabama’s Death Row, resentenced to life
+imprisonment without parole. Mr. Tomlin is currently serving his sentence at
+Holman Prison in Atmore, Alabama. This federal habeas corpus challenge is
+properly brought pursuant to 28 U.S.C. § 2254.
+A. Proceedings and Dispositions Below
+Philip Tomlin filed a state habeas corpus challenge, pursuant to Rule
+32 of the Alabama Rules of Civil Procedure, on January 3, 2007, and
+amended his pleading on August 20, 2007. See District Court ECF No.12-4
+at pp. 13 and 67-85. The Circuit Court of Mobile County denied his Rule 32
+petition on November 7, 2008. Tomlin v. State, No. CC-93-1494.60 (Cir. Ct.
+Mobile County), District Court ECF No. 12-4 at pp. 18-25. The Alabama
+Court of Criminal Appeals rejected his direct appeal from the denial of Rule
+1
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 9 of 58
+32 on June 12, 2009. Tomlin v. State, No. CC-93-1494.60 (Ala. Crim. App.),
+District Court ECF No. 12-10. The Alabama Supreme Court denied a writ of
+certiorari on March 5, 2010. Tomlin v. State, No. CC-93-1494.60 (Ala.),
+District Court ECF No. 12-13.
+Mr. Tomlin filed his federal habeas corpus petition pro se in the
+United States District Court for the Southern District of Alabama on March
+11, 2010. See Pet. for Writ of Habeas Corpus, District Court ECF No. 1. The
+habeas corpus petition was referred to a federal magistrate who issued a
+report and recommendation denying the petition on March 8, 2013. Tomlin
+v. Patterson, No. 1:10-cv-00120-CG-B (S.D. Ala.), District Court ECF No.
+24. The District Court adopted the magistrate’s report and recommendation
+on August 7, 2013. Tomlin v. Patterson, No. 1:10-cv-00120-CG-B (S.D.
+Ala), District Court ECF No. 32. By that opinion, the District Court also
+denied Mr. Tomlin a certificate of appealability to this Court.
+Mr. Tomlin then petitioned this Court pro se for a certificate of
+appealability, which this Court granted on June 2, 2014. Tomlin v. Patterson,
+No. 13-13878-C (11th Cir. Jun. 02, 2014), Appellate ECF No. 9 (order
+granting certificate of appealability and motion to proceed in forma
+pauperis).
+2
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 50 of 58
+aggravating circumstance for purposes of death sentencing. The omission
+was not accidental.
+***
+Overall, this history of judicial reinterpretations of the 1975 Act is
+somewhat tortured and surprisingly activist. And under some of these
+reinterpretations, the 1975 Act may well apply to Mr. Tomlin. However,
+these reinterpretations do nothing to alter the original meaning of the statute:
+they do not change the fact that, in 1977 and 1978, on a plain reading of the
+statute, the 1975 Death Penalty Act did not cover the conduct and
+circumstances alleged against Mr. Tomlin.
+V. THE SENTENCE OF LIFE IMPRISONMENT WITHOUT PAROLE VIOLATES
+MR. TOMLIN’S RIGHT TO FAIR NOTICE GUARANTEED BY BOUIE V. CITY
+OF COLUMBIA (1964)
+The only way in which Mr. Tomlin would be subject to the 1975
+Alabama Death Penalty Act and to a sentence of life imprisonment without
+parole would be if a subsequent judicial reinterpretation of the 1975 Act
+prevailed. The Bouie standard, as interpreted in Rogers v. Tennessee, 532
+U.S. 451 (2001), requires that when a “judicial construction of a criminal
+statute is unexpected and indefensible by reference to the law which had
+been expressed prior to the conduct in issue, [the construction] must not be
+43
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 51 of 58
+given retroactive effect.” Rogers v. Tennessee, 532 U.S. 451, 457 (2001)
+(quoting Bouie, 378 U.S. at 352).
+To understand the Bouie violation in Mr. Tomlin’s case, it is
+important to identify, on the basis of the following precise chronology, the
+unexpected and indefensible judicial reinterpretations of the 1975 Act:
+1975 – Alabama enacts a death penalty statute with a mandatory jury
+verdict of death, §§ 13-11-1 et seq., against the backdrop of
+Furman v. Georgia, 408 U.S. 238 (1972). The statute contains a
+list of 14 capital offenses in § 2 (including double intentional
+murder as § 2(10)) but a list of only 8 aggravating
+circumstances in § 6 for judge sentencing (not including double
+intentional murder).
+1977 – The crime occurs on January 2, 1977. Mr. Tomlin is indicted
+for double intentional murder on September 22, 1977, under §
+13-11-2(10).
+1978 – Phillip Tomlin goes to trial in March 1978, is convicted under
+§ 13-11-2(10), and sentenced to death in December 1978.
+1980 – The Alabama Supreme Court decides Beck v. State, 396 So. 2d
+645 (Ala. 1980), converting the mandatory jury verdict of death
+into a permissive jury verdict and allowing the jury to consider
+the 14 § 2 capital offenses as aggravating circumstances at the
+jury sentencing hearing (including those that are not listed as
+aggravating circumstances under § 6, i.e. double intentional
+murder): this was unforeseeable and indefensible in 1977-
+1978.
+1981 – The Alabama Supreme Court decides Ex parte Kyzer, 399 So.
+2d 330 (Ala. 1981), allowing the trial court to consider the 14 §
+2 capital offenses as aggravating circumstances at the court
+sentencing hearing (including those that are not listed as
+aggravating circumstances under § 6, i.e. double intentional
+44
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 52 of 58
+murder): this was unforeseeable and indefensible in 1977-
+1978, and overruled in Stephens in 2006.
+– Alabama enacts a revised death penalty statute. 1981 Ala.
+Laws 203 (codified at Ala. Code §13A-5-39 et seq. (2013)).
+That statute still deliberately does not include double
+intentional murder as an aggravating circumstance under the
+equivalent of § 6 for the penalty hearings. That statute applies
+to prospective conduct.
+1986 – The Alabama Supreme Court decides Ex parte Hays, 518 So.
+2d 768 (Ala. 1986), allowing the trial court to override a jury
+verdict of life imprisonment without parole under the 1975
+statute: this was unforeseeable and indefensible in 1977-1978.
+1989 – Phillip Tomlin is retried a second time; conviction reversed.
+1993 – Phillip Tomlin is reindicted under § 13-11-2(10). It is agreed
+by everyone that there are no § 6 aggravating circumstances.
+1999 – At a fourth retrial, Phillip Tomlin is convicted of double
+intentional murder under § 13-11-2(10). He receives the benefit
+of the prior unanimous jury verdict of life imprisonment
+without parole. The trial court overrides the unanimous jury
+verdict and sentences Mr. Tomlin to death. This entire
+procedure was unforeseeable and indefensible in 1977-1978.
+– Alabama amends the new 1981 Alabama death penalty
+statute, §§ 13A-5-39 et seq., to finally include double
+intentional murder as an aggravating circumstance under the
+equivalent of § 6 at the jury and court sentencing hearings. That
+amendment applies to prospective conduct only.
+2003 – The Alabama Supreme Court decides Ex parte Tomlin, 909
+So. 2d 283 (Ala. 2003) and orders the trial court to sentence
+Phillip Tomlin to life imprisonment without parole.
+2004 – Mr. Tomlin is sentenced to life imprisonment without parole.
+This entire procedure was unforeseeable and indefensible in
+1977-1978.
+45
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 53 of 58
+2006 – The Alabama Supreme Court decides Ex parte Stephens, 982
+So. 2d 1148 (Ala. 2006), expressly overruling Ex parte Kyzer,
+399 So. 2d 330 (Ala. 1981). Henceforth, under the 1975
+Alabama death penalty statute, trial courts may only consider
+the 8 aggravating circumstances explicitly enumerated in § 6
+(which do not include double intentional murder).
+From this chronology, it is clear that the judicial decisions in Beck v.
+State in 1980, Ex parte Kyzer in 1981, and Ex parte Hays in 1986 were
+unforeseeable and indefensible reinterpretations that altered the plain
+meaning of the 1975 Act, in violation of Bouie and Rogers.
+In Rogers v. Tennessee, 532 U.S. 451 (2001), the Supreme Court
+applied the “unexpected and indefensible” test to a judicial abrogation of the
+common-law year-and-a-day rule in the context of homicide law in
+Tennessee, but did not find a Bouie violation. In holding that Mr. Rogers had
+not been deprived of fair warning, the Supreme Court principally relied on
+the fact that the year-and-a-day rule was an obsolete and outmoded relic of
+the common-law, had been abolished by the vast majority of other
+jurisdictions, had only the most tenuous foothold in Tennessee law, and was
+not part of any state statute. Rogers, 532 U.S. at 462-67. None of those
+factors are present in Mr. Tomlin’s case. The canons of statutory
+construction, particularly the rule of lenity, were firmly established in
+Alabama at the time of the conduct, and to this day have a cherished place in
+46
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 54 of 58
+Alabama law. See, e.g., Ex parte Bertram, 884 So. 2d 889, 891 (Ala. 2003).
+This case does not involve an outmoded and obsolete common-law rule that
+a state supreme court had the power to modify. Mr. Tomlin’s case involves a
+then-recently enacted statutory provision that should have bound the courts.
+Under these circumstances, the Beck and Kyzer decisions were clearly
+“unexpected and indefensible.”
+In fact, the decision in Kyzer has already been held by this Court to be
+unexpected and indefensible. Magwood v. Warden, Ala. Dep’t of Corr., 664
+F.3d 1340, 1349 (11th Cir. 2011). Beck, too, is unexpected and indefensible
+to the extent it failed to simply sever the jury verdict of death and invented,
+out of whole cloth, a jury penalty hearing at which the jury could consider,
+as an aggravating circumstance, any of the 14 elements of the Section 2
+offenses. These rulings were unforeseeable and conflict with the plain
+language of the 1975 Act, much less the deferential construction required by
+the rule of lenity in Alabama.
+In sum, Phillip Tomlin’s sentence of life imprisonment without
+parole violates the ex post facto principle of fair notice at the heart of the
+Due Process Clause of the United States Constitution. Bouie v. City of
+Columbia, 378 U.S. 347, 354 (1964).
+47
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 55 of 58
+CONCLUSION
+Under the 1975 Alabama Death Penalty Act, § 13-11-1, Ala. Code
+1975, and all current judicial reinterpretations of that statute, the case against
+Phillip Tomlin does not include any § 13-11-6 aggravating circumstances.
+As a result, under § 13-11-4 and all current judicial reinterpretations, no trial
+court could ever sentence Mr. Tomlin to death, since no trial court could find
+“one or more of the aggravating circumstances enumerated in Section 6.” §
+13-11-4, Ala. Code 1975 (unmodified by Beck v. State, 396 So. 2d 645
+(Ala. 1980) or any other current judicial reinterpretation).
+For this reason, Mr. Tomlin is not death eligible under the 1975 Act
+and could not be indicted under § 13-11-2(10), Ala. Code 1975. No
+sentencing court could decide to depart downward from the jury’s verdict of
+death and impose a sentence of life imprisonment without parole on Mr.
+Tomlin. Any reliance on any portion of the Alabama Supreme Court’s
+decisions in Beck (1980), Kyzer (1981), Hays (1986), or Stephens (2006) to
+support a sentence of life imprisonment without parole would amount to an
+improper retroactive application of a later judicial decision, in violation of
+the legal principle underlying the prohibition against ex post facto laws, the
+right to fair warning, and the right to Due Process clearly established in
+Bouie v. City of Columbia, 378 U.S. 347 (1964).
+48
+
+Case: 13-13878 Date Filed: 10/06/2014 Page: 56 of 58
+Respectfully submitted,
+BERNARD E. HARCOURT
+COLUMBIA LAW SCHOOL
+Jerome Green Hall 515
+435 West 116th Street
+New York, New York 10027
+Phone: (212) 854-1997
+October 6, 2014
+49
