@@ -2,7 +2,7 @@
 
 **Purpose:** Track transcript availability, review status, and integration progress.
 
-**Last Updated:** 2026-02-02
+**Last Updated:** 2026-02-04
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Classes Scheduled | 3 |
-| Transcripts Available | 3 |
-| Reviews Completed | 2 |
+| Total Classes Scheduled | 4 |
+| Transcripts Available | 4 |
+| Reviews Completed | 4 |
 | Sources Extracted | 5 |
 | Prewrites Generated | 5 |
 
@@ -22,9 +22,7 @@
 
 > Transcripts waiting to be processed (oldest first)
 
-| Priority | Date | File | Matched Class | Status | Notes |
-|----------|------|------|---------------|--------|-------|
-| 1 | 2026-02-02 | `Deals-transcript-02-2.txt` | Class #3: Title TBD | `pending` | |
+*None currently pending.*
 
 ---
 
@@ -33,7 +31,9 @@
 | Class# | Date | Title | Transcript File | Review File | Sources Added | Prewrites | Completed |
 |--------|------|-------|-----------------|-------------|---------------|-----------|-----------|
 | 1 | 2026-01-21 | Introduction to Information and Incentive Problems | `raw/Deals-transcript-01-21.txt` | `Deals-Review-2026-01-21_class01_review.md` | 2 | 3 | 2026-01-21 |
-| 2 | 2026-01-28 | Regulatory Arbitrage | `raw/Deals-transcript-01-28.txt` | `Deals-Review-2026-01-28_class02_review.md` | 3 | 2 | 2026-02-02 |
+| 2 | 2026-01-28 | Regulatory Arbitrage | `raw/Deals-transcript-01-28.txt` | `Deals-Review-2026-01-28_class02_review.md` | 0 | 2 | 2026-02-08 |
+| 3 | 2026-02-02 | Residential Real Property - Due Diligence and Risk Allocation | `raw/Deals-transcript-02-2.txt` | `Deals-Review-2026-02-02_class03_review.md` | 0 | 0 | 2026-02-08 |
+| 4 | 2026-02-04 | Residential Real Property - Tax Planning, Contract Drafting, and M&A Introduction | `raw/Deals-transcript-02-4.txt` | `Deals-Review-2026-02-04_class04_review.md` | 0 | 0 | 2026-02-08 |
 
 ---
 

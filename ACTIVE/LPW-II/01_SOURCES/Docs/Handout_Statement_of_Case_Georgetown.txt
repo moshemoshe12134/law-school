@@ -1,0 +1,181 @@
+WAY“
+THE WRITING CENTER
+
+GEORGETOWN UNIVERSITY LAW CENTER
+
+VV NTA
+
+WRITING THE STATEMENT OF THE CASE IN AN APPELLATE
+BRIEF!
+© 2020 The Writing Center at GULC.? All rights reserved.
+
+Every component of an appellate brief is an opportunity to persuade the reader, and the
+Statement of the Case is no exception. The Statement of the Case (sometimes called the
+“Statement of Facts”) should convey to the reader a persuasive narrative about the factual
+scenario surrounding the legal action.
+
+Crafting this narrative in a brief requires a somewhat different approach than in a memo. Unlike
+a legal memo, in which the reader will expect an objective recounting of the factual background,
+an appellate brief will typically seek to present the facts in a way that is advantageous to the
+client. But this is not to say that the Statement of the Case should be disingenuous, untruthful, or
+dismissive of unfavorable facts. Remember that judges will have read both the lower court’s and
+opposing counsel’s description of the facts. If your version of events is dramatically different
+from these sources, you may lose credibility. An appellate brief should provide the judges with
+everything they need to write an opinion in your client’s favor. Therefore, striking the right
+balance between persuasive advocacy and credibility is crucial.
+
+(1) THEORY OF THE CASE: THE PERSUASIVE FOUNDATION
+
+Incorporating your Theory of the Case. The Theory of the Case is the unifying theme of your
+client’s case. While the facts explain what happened and the law explains the legal implications
+of those events, the Theory of the Case should act as an implicit message throughout the brief
+that helps the reader empathize with your client’s case.
+
+e For example, if you are representing a party injured in a car accident, your legal theory
+might be that the other driver was negligent, but your Theory of the Case might be that
+“the driver was in a rush.” In your Statement of the Case, you will want to highlight facts
+supporting your Theory of the Case—the driver was speeding, late for an appointment,
+attempting to weave through traffic, etc.
+
+' This handout is designed to complement the Writing Center handout titled, “From Memo to Appellate Brief.”
+? Original handout prepared by Brooke Rowland (2014). Revised by John Donnelly and Perry Cao (2020).
+
+
+e Writing an effective Statement of the Case without a clear understanding of your Theory
+of the Case can be difficult. Therefore, many writers find it helpful to write the Statement
+of the Case with an objective framing at first. After firmly establishing a Theory of the
+Case (often through writing the Argument portion of the brief), you can then begin
+editing the Statement of the Case to reflect that theory and your overall persuasive
+narrative.
+
+e Utilize the Statement of the Case to shape the reader’s opinion of the “correct” outcome.
+The most effective briefs will convince a reader before even reaching the Argument.
+Incorporating themes and details that make your client more likeable or their actions
+more understandable will help achieve this goal.
+
+o For example, if your client committed a crime, emphasize anything that would
+make such a decision seem more excusable or relatable—Was he provoked? Was
+he trying to protect himself? Was he trying to provide for his family?
+
+(2) BUILDING THE BASIC NARRATIVE
+
+Where you start the story matters. It often makes sense to tell a story chronologically.
+Nonetheless, a strictly chronological recitation is not always the most persuasive. You may also
+want to frame the facts in the context that places your client in the most favorable light. What do
+you want the reader to focus on? If the opposing side is especially unlikeable, you might lead
+with facts that illustrate this. If your client is the “good guy,” do not make your reader wait until
+the end of your Statement of the Case to find out.
+
+e For example: “Mr. Smith, who had previously been convicted for tax fraud, stole three
+televisions from an electronics store on the evening of March 3rd.” Starting the sentence
+with negative information automatically associates the subject with wrongdoing.
+
+Include all legally relevant facts, even if they do not favor your client. Leaving out key facts
+undermines your credibility, can make the Argument section confusing, and may violate the
+Rules of Professional Responsibility. If you discuss a fact anywhere in your legal analysis, it
+must be in the Statement of the Case. When you fail to include facts that disfavor your client,
+you lose the opportunity to frame that negative fact—which will inevitably surface in the
+opposing counsel’s brief—in a way that is less damaging. Ignoring a harmful fact does not make
+it go away; it simply leaves the problem unexplained and undefended.
+
+e Cases are rarely one-sided, meaning that you will inevitably have to grapple with
+negative facts. The best way to advocate for your client is to paint these negative facts in
+the best possible light and frame the narrative to your advantage.
+
+e¢ Don’t be afraid to include non-legally significant facts if they help your client’s narrative.
+
+Do not deceptively characterize the facts. There is a key difference between strategic framing
+and blatant misrepresentation. Deceptive characterizations damage your credibility. Accurately
+
+
+state the facts in a way that most favors your client, but do not try to make the Statement of the
+Case persuasive by being dishonest or deceitful.
+
+The Statement of the Case should not appear biased or overdramatic. Perceived bias and
+exaggeration can damage your credibility and make the reader less inclined to take your
+representations at face value. Your job is to tell a story, not write a novel. Vivid language can
+guide your reader through the narrative more effectively but should be used strategically. If the
+Statement of the Case becomes too dramatic, readers and judges will not take it seriously.
+
+e Not: “Sarah Parker, a moral and upstanding citizen, first met the defendant, Jacob
+Smith—a suspicious and manipulative real estate agent—at a networking reception.”
+
+Use a subtler approach—one that will lead your reader to the desired conclusion without alerting
+the reader that this is happening. You can include and frame certain facts such that the reader
+independently starts viewing the opposing party in the way you want. Bring the reader to this
+point organically, but do not say it outright.
+
+e Instead: “The defendant, Jacob Smith, met Sarah Parker at a networking reception in
+early July. The following week, Smith began attempting to track Parker’s financial
+activity. After about a month of monitoring, the defendant encouraged Parker to attend an
+open house for a property that Smith knew to be out of her price range.”
+
+Portray your client’s position as the “default.” When possible, try to insinuate that your
+client’s positions or actions are the “default.” This is best illustrated by an example: If your client
+is being sued for parking in a restricted area, instead of writing “individuals are prohibited from
+parking in this area, unless... [list exceptions],” you could write “individuals are allowed to park
+in the area, except... [list restrictions].” By framing the sentence permissively, you alter the
+reader’s perspective. The reverse is also true: you can frame the opposing party’s conduct
+restrictively to make their behavior seem anomalous. Importantly, this is simply a matter of
+strategic framing—avoid making legal conclusions or arguments in the Statement of the Case.
+
+(3) BOLSTERING THE NARRATIVE: ADDING DEPTH AND DETAIL
+
+Grasp and hold the reader’s attention. The Statement of the Case is most persuasive when it
+reads like a story. This means guiding the reader with strong topic sentences and potentially
+using headings to facilitate organization. A disjointed or rambling writing style will quickly
+exhaust the reader’s attention and patience. Instead, you want the reader to glide through the
+narrative, picking up on positive facts while paying little attention to negative ones. Crafting the
+Statement of the Case as a story makes it easier for the reader to become invested in your client’s
+position. It also keeps the reader interested. If the judge reading your brief loses interest before
+even reaching the Argument section, your client is in trouble.
+
+
+Use names and titles to vary the reader’s level of attachment to the characters. It may be
+helpful to refer to the opposing party as “Plaintiff” or “Defendant” and to your own client by
+their name. Using terms like “Plaintiff” and “Defendant” makes the reader feel more emotionally
+distant from the character, whereas names feel more intimate. Note, however, that many court
+tules advise against referring to parties by labels such as Plaintiff/Defendant or
+Appellant/Appellee.
+
+e The Federal Rules of Appellate Procedure, for example, discourage using “appellant” and
+“appellee,” but you can still practice this by using a party’s job or vocational title
+strategically. If you represent the Prosecution, you may refer to the police officer as
+Officer Monk in order to highlight his authority, but if you represent the Defense you
+may simply refer to the police officer as Monk.
+
+(4) OTHER CONSIDERATIONS
+
+Include the procedural posture of the case. The procedural history, the nature of the case, and
+the disposition from the lower court(s) are typically included in the “Statement of the Case.”
+Always be sure, however, to follow the rule that the court or professor for whom you are writing
+articulates.
+
+e Note: Rule 28 of the Federal Rules of Appellate Procedure requires briefs filed in the
+federal courts of appeals to provide one “Statement of the Case” that includes the facts
+relevant to the issue(s) submitted for review, the procedural history of the case, and the
+disposition(s) of the lower court(s). See Fed. R. App. P. 28(a)(6).
+
+Do not waste space. Be critical in reading each sentence of the Statement of the Case. Every
+sentence does not have to be inherently persuasive, but each sentence should serve a purpose—
+even if that purpose is to provide necessary background, transition to a new event, or distract
+from a negative fact. Additionally, think about proportions. Word counts are important
+limitations in appellate briefs. Given that the Argument section is the most important part of the
+brief, the Statement of the Case generally should not take up too much of your allotted space.
+
+Include citations to the factual record. Almost every sentence in your Statement of the Case
+should be followed by a citation to the specific page(s) of the factual record that supports your
+statement. This serves as a check to ensure that your representation of the facts is accurate. Note
+that it is also important to confirm the Statement of the Case includes all factual representations
+that are then referenced in the Argument section of the brief. The Statement of the Case should
+provide the reader with a full recounting of the facts such that there are no “new facts”
+introduced elsewhere.
+
+Step back. After evaluating each sentence for persuasive power and manipulating word choice
+for maximum impact, step back and simply consider whether the story comes across as a clear,
+
+
+reasonable presentation of what occurred in the case. This advice is, of course, also applicable to
+the brief as a whole.
+
+

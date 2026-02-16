@@ -59,5 +59,5 @@ Evans v. Merriweather (1842) :
 	 - **if artifical want, its never okay to use all the water. (important)
 
 	Coffin v. Left Hand Ditch Company
-		note: whats considerd 'non-beneficial'? using water to shoo gophers away (note in casebook) meryl reacts to this that its not very beneficial.
+		note: whats considerd 'non-beneficial'? using water to shoo gophers away (note in casebook) meryl 
 	 

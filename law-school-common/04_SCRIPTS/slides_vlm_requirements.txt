@@ -1,0 +1,27 @@
+# Requirements for PPTX to Markdown VLM Converter
+# Install with: pip install -r slides_vlm_requirements.txt
+
+# Core dependencies (required)
+python-pptx>=0.6.21
+Pillow>=10.0.0
+
+# Backend options (install as needed)
+
+# Option 1: PyVisionAI (best for visual slides, uses OpenAI or Ollama)
+# pyvisionai>=0.1.0
+# openai>=1.0.0  # if using OpenAI backend
+
+# Option 2: olmOCR (local VLM, fast and high quality)
+# olmocr>=0.4.25
+# Requires: GPU with CUDA, Python >=3.11
+
+# Option 3: Simple extraction (no additional deps)
+# Uses built-in text extraction
+
+# System dependencies (install via system package manager):
+# - LibreOffice: for PPTX to PDF conversion
+#   macOS: brew install --cask libreoffice
+#   Ubuntu: apt-get install libreoffice
+# - ImageMagick: for PDF to image conversion
+#   macOS: brew install imagemagick
+#   Ubuntu: apt-get install imagemagick

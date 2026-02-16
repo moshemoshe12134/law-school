@@ -139,7 +139,7 @@
 
 **CONTEXT:** This prevents commercialism from becoming an automatic bar to fair use, while still acknowledging it as a relevant consideration. The statute explicitly distinguishes "commercial" from "nonprofit educational," suggesting the latter deserves special consideration.
 
-**APPLICATION TO ECHOCRAFT:** EchoCraft's nonprofit structure, below-cost licensing, and educational mission strongly support Factor 1, especially when combined with its transformative critical purpose.
+**APPLICATION TO ECHOCRAFT:** Song released through EchoCraft Ed (nonprofit educational subsidiary of for-profit parent), below-cost licensing, and educational mission support Factor 1, especially when combined with its transformative critical purpose. However, must address that for-profit parent company benefited from PR and revenue improvement.
 
 ---
 
@@ -162,7 +162,7 @@
 
 **CONTEXT:** This rule balances the need for parody to evoke the original (requiring substantial copying) against copyright's interest in protecting creative expression (limiting copying to what's necessary). The "conjure up" standard recognizes parody's unique functional requirements.
 
-**APPLICATION TO ECHOCRAFT:** EchoCraft's 87.5% copying is defensible if: (1) it establishes parody/critical purpose under Factor 1, (2) the melody is the "heart" that makes the song memorable/educational, and (3) it "departed markedly" in the lyrics (100% different words with corrected historical narrative).
+**APPLICATION TO ECHOCRAFT:** EchoCraft's 87.5% copying is defensible if: (1) it establishes parody/critical purpose under Factor 1, (2) the copied lyrics are the "heart" containing the specific inaccuracies being corrected, and (3) it "departed markedly" by adding 7 new lines (50% new content) with corrected historical narrative.
 
 ---
 
@@ -212,7 +212,7 @@
 
   - Riven's song presents an adulatory, hero-worship perspective on Paul Revere
   - Our song targets and mocks that adulatory perspective by correcting historical inaccuracies
-  - We use his melody to "conjure up" his version, then undermine its celebratory narrative
+  - We use his exact lyrics to "conjure up" his version, then undermine its celebratory narrative with added corrective lines
   - Critical bearing: commentary on the original's uncritical, mythologizing approach
 - **Secondary:** Distinct purpose (critical parody vs. adulatory entertainment)
 
@@ -225,7 +225,8 @@
 
 **2. FACTOR 3 (Amount Copied):**
 
-- Melody is the "heart" for memorization purposes
+- These specific lyrics are the "heart" because they contain the inaccuracies being corrected
+- Cannot critique what you don't quote
 - Necessary to "conjure up" Riven's version to criticize it
 - "Departed markedly" in lyrics (100% different, corrected narrative)
 - High percentage justified by pedagogical necessity
@@ -266,5 +267,5 @@
 **One-Sentence Thesis for Each Factor:**
 
 - Factor 1: Reasonable observer would perceive EchoCraft's work as parody/satire targeting Riven's adulatory perspective on Paul Revere, undermining his celebratory narrative with corrected historical facts.
-- Factor 3: Copying the melody was necessary to "conjure up" Riven's version for recognizable criticism, and we departed markedly in lyrics.
+- Factor 3: Copying 7 of 8 lines was necessary to establish the narrative being questioned; the 7 new lines show marked departure.
 - Factor 4: No derivative market exists for songs criticizing Riven's own work, and any harm is from critical suppression, not market substitution.

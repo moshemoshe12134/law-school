@@ -1,0 +1,695 @@
+SPEAKER 0
+Yeah, yeah. Honestly, Years ago. OK. Thomas. That's a good sign. I I just. I'm. Yeah. Oh my God. Oh my gosh. I Yeah. Yeah OK, welcome back.
+
+SPEAKER 1
+It's nice to see you. Let's take a few deep breaths just to settle in. Relaxing your eyes or closing your eyes. Breathing in slowly, taking your time. Count to 5, if that helps you, slow it down. Breathing out just as slowly. Again, Even more relaxed, settling in. Feeling the weight of your body. In your chair Breathing out. Once more at your own pace. Feeling focused, settled in. And when you're ready, gently open your eyes. And you look up here. You know where we are this week we are in the section of our course that's focused on the idea of causation in fact. And we've been talking about it conceptually. On Monday, we worked through the logic of it, through the idea of but-for cause. We saw some logic puzzle anomalies show up. We saw tort law try to deal with them with a plug-in feature called multiple sufficient causes. We'll do more of that today. We're going to start off with a bit of a review of all that. And then we're gonna move on to a slightly different angle on the problem, which is the problem of well how do you prove it? How do you show it? What if you cannot show this causal connection, even though you kind of know it's there. You just can't really nail it down. Are there situations where tort law has adjusted. How to show it, even what it means or even the requirement of causation in fact, has that been relaxed in some way in tort law? Of course that's where we'll get to alternative liability, market share liability. At the very end we'll also spend a little time just playing with the idea of. Comparative negligence as opposed to what tort law does not do, which is comparative causation. Thinking about maybe that's a better idea, maybe it's not. Just to put a lot of the pieces together, idea of negligence as well as this week's stuff on causation. So to set the stage, just a reminder of. Where causation in fact fits into the course and into your torts case. Remember you have to show that there's some breach of a duty which we've been calling negligence so far, but then you also have to show that that negligence, that carelessness, unreasonable carelessness. Actually affected the result, actually had something to do with the harm. Well, what does that mean? Well, Tort Law has come up with a framework for thinking through that connection. And it has two major pieces. The one is, the first is the one we're talking about this week, which is but for causation, causation in fact, multiple sufficient causes. Next week we'll get to another part of that same framework. Of what Traditionally it's called causation, and that part will be called proximate causation or proximate cause, but we'll also go with the modern language for it which is calling it scope of liability. Because we'll recognize that maybe it's not really about causation at all at that point. It's just gonna be something like aunt and uncle deciding that it's not your problem. And if that sounds like duty, it should. It really does potentially circle back to duty. But that's all next week. Right now, all we're doing is saying, well, how do you establish the connection, the factual connection, causation of fact, the mechanical link between what you did and what happened to the injured party. And maybe in today's stuff at the frontiers of tort law, maybe sometimes you don't really have to show it. OK. Remember that the way that tort law has set up this part, today's and last time, this week's topic of causation in fact, it's really trying to get at something intuitive. Right? Again, we all have some sense of what it means to cause something else to happen. And we might mean different things by that. We might mean different things in a physical sense, this caused that, or this, I caused that in a responsibility sense, right? There's different ways for us to talk about causation. That are all intuitive and we kind of know what they mean, but it's hard to define, philosophers have a hard time defining it sometimes. Tort law has definitely had a hard time implementing it. But it's settled more or less on this structure, which is we'll start off with the idea of did the thing you did, your negligence, your carelessness, did that make a difference? Did it make a difference? Would the result have been the same without your behavior? But for your behavior, would the result still have happened? But for your lack of a sign, would the swimmer still have struck his head and gotten a spinal cord injury? But for your lack of a trolley insulation, would Lilo Liu still have managed to insulate, get past insulation, and Electrocute himself, right. So, Makes sense Maybe that's the kind of link we want. If it's completely unrelated, the result, the harm is completely unrelated in some mechanical, physical sense to the negligence, to the tortious conduct, let's call it more generally, to the tortious conduct, then maybe this is not an issue for responsibility in torts where you have to pay some money, OK. But then we saw that also this comes with one particular logical anomaly, which is when you have one of many people's behaviors, conducts, causes that are sufficient. That caused the injury. Well then that means nobody else made a difference. OK, maybe we can still live with that. One person's behavior was so central to the injury, then whatever anybody else did, it wouldn't have helped. Uh, OK, well, maybe then that we just focus on that one person. But then what do we have two multiple sufficient causes? Two people are acting in ways that each could have completely counted, accounted for, caused, right? The injury. This means that neither one is then necessary. This means you have a sufficient cause, neither is necessary, neither is a but-for cause. Necessary just means the same thing as but-for cause. Well, that's a weird situation because we have two people who are both doing something so seriously injuring that they each sufficiently could have injured the injured party and yet because of that strange configuration, the logic of but-for causation fails. Oh no, what do we do? OK, tort law plugs it in, as you know, with Restatement 27's idea of multiple sufficient causes. OK, we know about this. If you find yourself in that situation. Everybody is considered. A cause in fact. Not everyone is but for a cause. We know they're not, but everyone is considered, Everyone who's sufficient is considered a. Cause and effect So now we kind of have two ways of establishing cause and fact. OK, so that's where we left off. We saw that multiple sufficient causes, um, maybe solves the but-for causation puzzle, but then we'll very quickly see that it also creates puzzles of its own. Because of course it does. You have something that kind of plugs a hole in some other logic, of course there's going to be edge cases, of course there's going to be tension. And so let's work with some of that. The first thing we'll do It's just by way of review, think through everything we know from the Restatement 3rd and Abraham. We've talked about scenarios 1 and 2. We'll talk about 3 and 4, push them out a little bit further. And then after that push them out even beyond what we know about tort law. So let's just start off by reviewing things. Elliot Keen, Hi. Will you just help us off by Help us out by starting us off. With just number one. Scenario here is you're setting a fire. It's a big enough fire to burn down the house. You've set it negligently because you put too much fuel on it or you put it in a bad place. The wind is blowing it. It's blowing it towards the house. It reaches the house. It's going to burn down the house, but guess what? The house is already burning because lightning struck it. And that's enough to burn down the house. How will we analyze this using, you know, tort law as we know it?
+
+SPEAKER 2
+Um, I think here we would have an issue with the but for causation where, um, kind of like logically if I hadn't been going to burn down the house, the house would have still, still burned down, um, but then with the multiple sufficient cause analysis, well, let's not
+
+SPEAKER 1
+get there yet. OK, so what's LA telling us? Elliott's telling us this is a classic but for causation case. If the house is already gonna burn down and you're burning, you're gonna burn the house down too, like you're burning the house down doesn't make any difference because the house was gonna burn down anyway. Even though you were negligent, you were setting a fire that was going to burn down the whole house, you just got lucky here because the house was already on fire thanks to something else. That's a classic but for scenario. The same structure as saying that little Leo would still have electrocuted himself. The house would still have burned down. OK. That's why we don't find causation in fact under tort law as we know it from Abraham in the restatement in scenario number one, OK. But now we go to scenario number 2. Scenario number 2 is not that the house was already burning because of lightning or something else natural, I guess, but that you set a fire and I set a fire. Both of us are setting negligent fires, wind's blowing into the house. Each of us could burn down the house completely based on our fires. The fires reached the house at the same time. Remember Abraham emphasizes the simultaneity of this. It has to show up at the same time, the house is burning because both of our fires have arrived at the house. Are you a but-for cause? Is your negligence a but-for cause? Is my negligence a but-for cause?
+
+SPEAKER 2
+So the issue here is technically neither are but-for causes because each can argue, well, it wasn't me, it was the other person. If I hadn't been there, it still would have burned down. Yes, that's right.
+
+SPEAKER 1
+Remember the phrasing, right? It's but for my negligent fire, hey, guess what, you still would have burned down the house. And then I would say the same about you, right? As Elliott's putting it, it still would have burned down even without my negligence, even without your negligence, if that's the only thing we change in the counterfactual, and remember this is how we're doing. But for causation, we ask the jury to imagine what is a counterfactual. Had Elliot not been negligently setting a fire, what's the counterfactual? Guess what? My fire would have burned down the house. So, no harm no foul for you, so to speak. OK, but what technically you said, but what, um, but
+
+SPEAKER 2
+with multiple sufficient causes analysis for statement 27, um, you would treat each as a factual cause of the harm both defendants would get.
+
+SPEAKER 1
+This is the one that where tort law says yeah we know about this logical puzzle that every tort professor loves we're gonna plug it in with Statement 27 and just say that look, if you find yourself in this niche situation where parties are sufficient in a way that makes other sufficient parties no longer but for causes because that's what it means to be a sufficient cause then. You know, we're still gonna hold you in cause and fact. This still counts, right? And you see why they're plugging it in because aims of tort law, you don't want to let these people off the hook, but also because like it fits our intuitions better to say, yeah, both of us caused the house to burn down in a sense, right? Maybe not in the but-for sense, but in a relevant, useful sense of our intuitions. OK, so far so good. Elliott, we haven't talked about 3 yet. Let's say that um. You set a fire, I set a fire. Your fire is closer to the house. It gets to the house first. Or maybe just the wind is stronger, whatever reason, your fire gets to the house first. It burns down the house. 2 seconds later, my fire arrives at the house. And it would also have burned down the house except you've already burned down the house. How do we think about this situation?
+
+SPEAKER 2
+I think here intuitively the first fire to reach the house would be considered that that's the but-for causation like you would get hit with the but-for causation if you
+
+SPEAKER 1
+just put that in a sentence but for what let's say it's your, it says it's your fire but for
+
+SPEAKER 2
+my fire, the house wouldn't have burned down.
+
+SPEAKER 1
+What would it, would it? My fire was just about to burn it down. How would we work with that? You're right that intuition is strong here that only the first fire should matter. That is what Abraham says. This is how tort law is going to treat it in the sequential or preemptive causes scenario. Elliott's fire reaching the house first, burning it down is a preemptive cause or first sequential cause relative to mine. Because how would you characterize what I did?
+
+SPEAKER 2
+I guess your fire didn't burn down the house.
+
+SPEAKER 1
+Why?
+
+SPEAKER 2
+Because my fire burned it down first.
+
+SPEAKER 1
+There was no house to burn down. My fire didn't do anything but for my fire. There's no house anyway. Like, doesn't, right? I didn't do anything, one might say. Intuition is these are two separate events. My fire gets there at a time when all I can burn down is a pile of ashes. I didn't burn down a house. Maybe I burned down a pile of ashes. That's something different. So our intuition is very, very strong on this, but let's go back, Elliott, you were characterizing it as like, but for your negligently setting the fire, which was sufficient to burn down the house. You're saying the house would not have burned down. Is that true?
+
+SPEAKER 2
+I guess no. Why? Because the house would have, if I hadn't set the fire, the house would be there to be burned down by your fire.
+
+SPEAKER 1
+Yeah, but that's, so you just answer the next question, but the prior question is, in a way, no, and in a way, yes. You're giving me the in a way yes. In a way, no, because like. Had her fire not burned down the house, the house would have burned down anyway because my fire was just about to burn it down. But her point is that wait a second, there's still a time gap. But for her fire. There still would have been a house until mine burnt it down, or for my fire to burn down, as she put it. So let's work with that gap. If we're really serious about but-for causation being focused on like what difference did you make? Did you make a difference and what difference did you make? What difference did your fire make? It burned down the house. But then my fire would have burned down the house almost immediately. So what difference could we say is the minimal difference if you had to minimize how much difference your fire made because you're arguing for yourself.
+
+SPEAKER 2
+If I'm arguing for myself, I would say it made no difference.
+
+SPEAKER 1
+Well, a little. I mean, how much difference? You just told me it made a little bit of difference. What's the difference? Is my fire got there first. It got their fire. No, but like how much difference did it make? Without your, let's put it this way, but for your fire again, just but for logic, but for your fire arriving at that moment.
+
+SPEAKER 2
+Your fire would have burned down the house, but when? 20 minutes later, 20 minutes later, 2 minutes later, whatever
+
+SPEAKER 1
+it is, but for your fire getting there 2 minutes before mine, the house would have lasted what, 22 more minutes. The difference you made is 2 minutes a house. That sounds goofy, but we all know what 2 minutes a house, how many people pay rent. We all pay rent. We know exactly what 1 month of houses or 1 month of 1 bedroom with lots of roommates is. If you know what one month of a house is, you know what 2 minutes of a house is. I mean, 1 month, you know what 2 minutes, right? There's a value. You can put a value on that. If we're saying we really care about buffero logic, and remember last time how much we cared about it with Matsuyama, this is how much difference you made, 37.5% lost chance of living. You could take that logic really seriously if you wanted to. And if we did it here, Elliott's selling us a really only difference she made was 2 minutes a house. Maybe she can pay for 2 minutes a house. Yes, she did a tour. Oh, she has to pay damages for 2 minutes a house. And then, Who pays the rest? Who pays the rest. If we did it that way Does anybody pay the rest? What difference would I make at that point if you were to characterize it in this way? You're burning the hound, the house made 2 minutes' worth of difference. What, what, what about my behavior?
+
+SPEAKER 2
+I suppose I would try and argue that you would be responsible for the rest.
+
+SPEAKER 1
+You could try to argue that I'm responsible for the rest because somebody's gotta be responsible for the rest, but is that true? Because actually by the time my fire got there there wasn't any house, but for my fire there's still no house. You're gonna have to change both of our. Behaviors in the counterfactual in order to make any traction on that. So you see some of the puzzles that still arise, potentially if you really use this logic very seriously. We're not gonna mess with this one anymore because tort law already tells us, as Abraham says, we go with our intuitions. Look, there's no house by the time my fire gets there. You burn down the house, that's what happened. That's the actual accident. I got super lucky, moral luck again, right? I did just the same thing that she did, but there was no house. I didn't hit a house. I'm a drunk driver who didn't hit a drive and anybody on the street. Just as bad as the drunk driver who did, but I got lucky. We did the same thing, but I got lucky. There was no house by the time my fire got there. We just let that be moral luck in tort law. OK. So just to be clear, that's where tort law is going to leave it, according to Abraham. first fire, if it's already burned down the house, there's nothing for the second fire to do. We don't think about it at all. Under torts. All right, let's try 4. Yazir Abdul Fattah. Same scenario as #2, you set a fire, I set a fire. Negligent, both of us, fires arrived simultaneously to the house. Classic multiple sufficient causes scenario. We know neither of us is a but-for cause. We've done that. We know Restatement 27 comes in, tort law comes in and says we're gonna call that multiple sufficient causes, and you're a cause in fact, I'm a cause in fact. But the twist now is that, wait a second, actually it turns out that your fire was not negligently set. You were very careful in setting your fire. And it was just that, it just happened that like the wind happened to blow it in a certain way. Really unlucky. But any reasonable person would have set a fire the way you did. You're not negligent. But you're still a cause in fact. I'm negligent and I'm a cause in fact. What do we do here? How do we think about this? What's different about this? What's strange about this? Does this, do we just apply multiple sufficient causes and we're done. And then also who ends up paying? You see, we're starting to shift towards this question of, well, actually, who's gonna pay what? Who's gonna pay how much? That's the question we're getting at now. What do you think?
+
+SPEAKER 3
+It's a tough one. I think I would say the negligent person would pay, um, in a, in a, in a case like this.
+
+SPEAKER 1
+But you think the negligent party has to pay? Yeah, Pay how much? The whole house, half the house, we don't know. Make arguments either way for any pick something argue for argue against. This is of course what we're doing in this class all the time, yeah.
+
+SPEAKER 3
+In a sense, I mean, I would say the reason why the negligent person should pay is just really more so it's because they, they had that sense that duty, um, and they did not, um, they did not really abide by that. Sure, they did wrong, right?
+
+SPEAKER 1
+They wronged the house. They wronged the house owner. They had a duty not to be negligently setting fires. They breached that duty by negligently setting a fire, right? Created a risk, all the stuff they're fully in the red. They're torted So they pay. But why, why, why the whole thing? Whole thing or half, or what would you say? I mean, sure, you could ask them to pay the
+
+SPEAKER 3
+whole thing. Um, alternatively, you can also like make an argument for both of them, both paying to, um, sure, um, you weren't negligent in a sense, but it's just really more so there was a damage caused and both of you were like the cause in fact as well.
+
+SPEAKER 1
+So you're gonna hold somebody who's not negligent.
+
+SPEAKER 3
+I mean, you didn't even tort and you're gonna have
+
+SPEAKER 1
+to pay. It, it's a really tough one. It's a tough one. We'll get to this whole universe called strict liability later. Couple of weeks and when we talk about parties who aren't negligent in the usual sense negligent like they weren't careless in how they did something they just took, you know, some action that had a huge risk but they weren't careless about it. We'll get with that, we'll get to that, maybe this is a strict liability case. Maybe that's what you're suggesting is intuition. We'll get to that. But just under plain old negligence-based liability, let's say that. The first, yeah, let's say the non-negligent part of you is just out of tort liability. You're, you're not gonna pay anything. Let's assume that.
+
+SPEAKER 3
+Then in a sense you wanna say the person who was negligent would pay because but for it, um, but for them, but for their fire, the house would have, wouldn't have burned down.
+
+SPEAKER 1
+Yeah, let's use the aims of tort law to make arguments. The reason I'm hammering on this is because. We have an answer in the restatement about the scenario. The restatement 27 comment says, what if one of the parties is not tortious? That's exactly the scenario. And the answer is only a half answer. Yazir, if you have that in front of you, will you just read it aloud?
+
+SPEAKER 3
+I do, um, do do do.
+
+SPEAKER 1
+It's comment D. You see that?
+
+SPEAKER 3
+Gotcha. 11 cause tortures the other innocent. This section applies in the case of multiple sufficient causes regardless of whether the competing cause involves torturous conduct or consists only of innocent conduct. So, so long as each each of the competing causes was sufficient to produce the same harm as the defendant's torture. Conduct, this section is applicable. Conduct is a factual cause of harm regardless of whether it is tortuous or innocent and regardless of any other cause with which it in which it concurs to produce overdetermined harm.
+
+SPEAKER 1
+OK, so far so good. This is what your answer was, It was like, yes, we're both causes in fact. OK. But then what about who pays what? Got you. Keep reading.
+
+SPEAKER 3
+When one of the multiple sufficient causes is not tortious, the question of damages is a different matter from the causal question. The question of what, if any, damages should be awarded against this tortfeasors properly belongs to the, to the law of damages and is not addressed in this restatement. OK, just stop there for a second.
+
+SPEAKER 1
+They punted it completely. They're like, we don't want to answer this. Let the other restatement writers do it. Right, let the damages people figure this one out. We don't know what to do with this. They don't know what to do. Abraham's answer is that most courts do what you say, which is like, yeah, the tortfeasor has to pay because you're a tortfeasor. You did burn down the house. You are a cause in fact. The fact that somebody else is not going to pay, well, that's just unlucky for you. That happens in all kinds of ways. People won't show up. You didn't manage to join them. Remember joinder, right? All that like you just not it's not there to pay. They're not there to pay. You gotta pay. OK, so we see this in tort law. Abraham's more comfortable. He says courts are more comfortable with this, but the restatement writers are not. They know this is a problem and they don't give you an answer. So how would you argue one side or the other? You say they should pay something, they should pay a lot, they should not pay a lot, maybe they get a discount, maybe they just pay half, you know, pick a, pick a position here and argue for and against it using sort of the kinds of. Aims of tort law or policy arguments that we've been using in class.
+
+SPEAKER 3
+Got you, got you, um. I guess it's just some, some of the spirit of tort law is just really more so it's just like, you know, compensating the victim for what has happened here and given that one side was negligent and while the other wasn't really negligent, I really would say like the negligent should be able to like should cover it at all in a sense, uh, because there was a wrong
+
+SPEAKER 1
+should, should, yes, because there was a wrong done here,
+
+SPEAKER 3
+um, and one. Party was definitely a negligent, so I feel like I should really, um, they should borne the cost of what happened in a sense bear the cost.
+
+SPEAKER 1
+You were negligent. It's just as if there were no other fire. After all, like if there had not been this non-negligent fire, you would be a but for cause. You would pay for the whole thing just straight up. That's your tort. Why should it matter that there's some other fire that would happen to have burned it down? We know it doesn't matter because the restatement has already told us it doesn't matter. So you, you're on the hook, you're fully on the hook. If anything, scenario two where you split up who pays, that's the weirdo anomaly. That's the one that's unsatisfactory. Maybe everybody should pay in that one. The full thing and then the plaintiff gets twice as much recovery for the house, like double the value of the house or something, or it goes to the government or whatever. Something. But here it's easy. Yazer would argue, you're negligent, you are cause and in fact, you burned down the whole house. That you pay for it. Doesn't matter that somebody, you know, non-tortious fire something, something, don't worry about that. How would you argue against that?
+
+SPEAKER 3
+Hm, definitely a tough one. I I would say the negligent person would definitely want to make that argument as to where what if I didn't, what if my fire would not fully burn down the house and then the non-negligent fire also played a role in a sense too as well, um, and I, that's where things are gonna get a bit murky, um, it's like I shouldn't be able to, I, um, the the negligent person should will probably make an argument that I shouldn't have to cover the whole thing, um, yeah, and this is, I feel like this is where a tort law doesn't really provide an answer per se, like, so we're the non-negligent party come, come into into play.
+
+SPEAKER 1
+Wait, wait, what's the last part? I, I, tort law just doesn't provide like we're a non-exit laws. I mean, you're arguing to the judge to make up tort law. You're, you're in front of the Hawaii Supreme Court now. You're saying, Judge, in this scenario we don't have a tort law answer. Restatement doesn't give us an answer. We don't know what to do, but whatever it is, I shouldn't be paying the whole darn thing because there was a whole other fire that was just as bad as mine involved. How am I fully responsible? Instead, Judge, I should pay what if you had to pick a number between 0 and less than 100% or 80%, 40%, 40%.
+
+SPEAKER 0
+OK, good, good, I like that you're pushing it.
+
+SPEAKER 1
+You're not extravagant in your ask.
+
+SPEAKER 0
+Is that completely impossible, although you are the only tortious
+
+SPEAKER 1
+person in the whole thing. Like, somehow, like you want more than you want more than half relief, OK, um, I guess, um, I don't
+
+SPEAKER 3
+know. I feel like maybe this can be looking into just our, um, the readings that we read today too as well. It's like. Making that argument as to like we're not really sure what fire would have fully burnt down the house. Maybe we can bring both parties, like, you know, figure out a percentage despite one was and not negligent, yeah,
+
+SPEAKER 1
+something, right? Like we just don't really know. This whole thing's a fiction. Number 2 is a fiction. Number, I mean these are all fictions. Well, the problem is when we say that two sufficient fires both could have burned down the house, like we don't know how much each actually burned down of the house. They arrived simultaneously. We're just kind of making it up, we're fudging it, we're doing the fair thing in any scenario, and the fair thing is to say, look, OK, you probably burned down some of the house, you probably burned down some of the house, so to speak. We'll get to this at the end of class today. And we're not gonna actually divide it, but we kind of know that it's not a whole thing that you're responsible for. We gotta give some slack for the fact that there is another fire. After all, we do that in scenario number 2. Why is it so essential? Why does somebody get lucky or unlucky based on someone else being negligent or not negligent? That doesn't make any sense under wrongful acts, you know, corrective justice theories of aims of tort law or deterrence incentives, like it shouldn't matter to your incentives and deterrence or what we want to charge you. Based, you know, the, the difference should not be made by whether I happen to be negligent or not in setting this other completely unrelated fire. That's just, again, moral luck. That's just luck. Let's take that out of this, right? So of course if you're trying to argue for something less than full, you're trying to analogize to number 2 or just throw this whole thing out of saying it's all kind of made up anyway. If you're trying to say, look, on the other side, no, you need to pay all of it, right, the homeowner is gonna say no, you have to pay all of it. You're the only person who did a tort here and you burned down my house, so pay all of it. You're trying to make it sound as natural as possible, which is what you argued in the beginning. OK. So these 4 things are kind of what we know from Abraham and from the statement. It helps us answer other scenarios like what about this? What do we do with this? Right, I posed this last time. You kind of know what to do with this. You think, here's a bunch of people setting fires. They're all simultaneous, let's say. It's kind of strange looking. Oops, oh, I see what's happening. It's not just 2 simultaneous fires. It's 123456 simultaneous fires. Everybody's negligent. You know what to do with this because the restatement tells you, the restatement doesn't say 2 fires. It doesn't say 2 people. It doesn't say 2 cars. It doesn't say 2 shooters. It doesn't say 2 anything. It says any number of parties, each of whom is sufficient without the others. You're cause and facts. And now at this point you're thinking, wait a second, I, I guess that's what it says, but maybe it doesn't make so much sense anymore with all these people they're all somehow like liable now they're all tortfeasors even though each of their, I guess, contribution in some sense is only a smaller fraction. At the same time, each of them could have burned the whole thing down. Isn't that what you want to deter, right? So you know how to make policy arguments about whether or not tort law should treat this the way it does with two fires, but as far as we know, tort law seems to Applied to this case as well, 26. And of course, you now also know what to do with this. Suppose one of the six happens not to be negligent, but everybody else is negligent. Now what do we do? What do we do here? We know there's no actually good answer. We know everyone's a cause in fact, but you know the question, as the statement is telling you, is pushed over to figuring out how much should everybody pay and then you just got to make arguments as we were doing with Yazir. How do you make arguments that More of a case, less of a case that everybody else should be paying in. They're paying a lesser share now because they're splitting it up among themselves. Maybe it doesn't seem so bad. At the same time, why should They have to Cover the portion that's from the non-negligent party. What is that portion? You see all the puzzles that rapidly come up, even using what we know. It runs out at a certain point and at that point you start to make policy arguments to the judge, OK. Here's one for us to practice together with our discussion groups, OK? Remember, a lot of what we're doing in this class, of course, in every class in law school is getting to the edge of what we know, getting to the uncertain area and making arguments about what law should apply or how the law should be. Here, we're really going to be asking about what the law should be. We have a scenario where there's 3 sources of fire. Yazira is setting a negligent fire. I'm setting a negligent fire. Also, the fires on houses on fire because of lightning, a natural cause. And you look at this and you say, what do we know about tort law? Uh oh, this looks like number one. Combined with 2. This is exactly the divide between but for causation and multiple sufficient causes, which is relieving you of having to show but-for causation. What do we do with a scenario that's both 1 and #2 at the same time? What do we do about these two tortious actors? Are they causes in fact? Should they have to pay? If they have to pay, how much? Is the lightning kind of like having a non-tortious actor somehow in the mix? How are we going to think about this? And as you think about this, you're bringing to bear the tools that we've been playing with, aims of tort law like deterrence or incentives like corrective justice, who did wrong to whom. Ideas of moral luck, those intuitions can come into play. Also just workability, practical considerations, as you've seen already later from the judges who made up market share liability and, and so on. OK. So, discuss with your neighbors for a second, any kinds of arguments, pick a position, make arguments for or against that position about how to treat the two tortfeasors here who set simultaneous sufficient fires or multiple sufficient fires, but they're also kind of not but-for causes because, first of all, there's another sufficient fire setter, but also because there's natural fire already happening. What should tort law be in this situation? Policy question, legal design question. Discuss for a few minutes and I'll call on another bluebird.
+
+SPEAKER 0
+You're my team. One minute, one minute.
+
+SPEAKER 1
+OK, let's start to wrap up. Let's wrap up.
+
+SPEAKER 0
+I.
+
+SPEAKER 1
+OK, let's see what your teams have come up with. Alexander Basiri. The Siri team.
+
+SPEAKER 4
+Oh, we were saying that we think that you should hold them both equally liable, uh, because like for a policy argument to deter people from setting fires, it shouldn't matter whether the lightning was gonna burn it down at the same time anyway. OK, so make the arguments for that.
+
+SPEAKER 1
+You talk about the charges a little bit. Let's get more into it. How we should make the full case for hold them both liable as if there were no lightning, right? Just disregard the fact that the house is already going to burn down. Is that how your position is?
+
+SPEAKER 4
+Uh, yeah, so if they were both gonna hit at the exact same time, then I just think it would make the most sense to hold them equally liable because weighting it one way or the other on them wouldn't, I mean, we don't have facts that support that one of them was more liable than the other.
+
+SPEAKER 1
+OK, we'll come back to that about how to split it up in a second, but you're saying hold them both liable, and we're saying hold them both liable disregarding the fact that the houses. burning down anyway, disregarding the fact that the two of them together or each of them individually made no difference to the outcome here. Really?
+
+SPEAKER 4
+Wait, are you saying that lightning was already burning the house burn down anyway, the house is gonna burn down anyway. Yeah, I still think that it wouldn't make sense to let them both off just because it was going to burn anyways, because then I mean, just in general, but even if there is like another lightning storm, then people might be more inclined to negligently set a fire if they think that they'll be just let off if, if there's uh, the house is already burning.
+
+SPEAKER 1
+So two incentives based arguments. One is about, hey, look, you negligently set fire to each of you, by the way, 2 of you did this, set a negligently set fire that was gonna burn down the whole house. That's exactly what we want to deter. OK, what you actually did to the house, however you want to think about that, is not the point. Is that what you're arguing that it's not, we're not really interested in figuring out, did you really actually burn down some house? Is that, is that what we're talking about? Right, because that's what we say about scenario number one. That's just buffer causation. They just got lucky. The house was already gonna burn down, you know. I guess we don't deter that. But you're saying in this case, sort of yes and sort of no sort of yes in the sense of, well, um, Actually no, entirely no. You're saying we don't care about that at all. For either of them. Any other arguments you want to make in favor of? Yeah, you both should pay. Even though you didn't make any difference, what does the series team have to say about? Any other aims of tort laws, practical considerations, any of the other tools you might use to make your arguments here? To the Hawaii Supreme Court.
+
+SPEAKER 4
+Uh, I guess you could say that they both just got lucky like that the lightning burned it down, so I just feel like that shouldn't be taken into consideration.
+
+SPEAKER 1
+If you did take into consideration, it would just be a stroke of luck, right? Yeah. So this is your 2nd incentive argument. Your, your 2nd incentive argument is about, wait a second, um. Should we try to incentivize people? To take advantage of this quirk. Of getting lucky because there's another fire already burning out. In other words, we want to incentivize people, the Siri team says. To set fires when the house is already going to burn down. And your assumption is no, but why not? Why or why not?
+
+SPEAKER 4
+Wait, could you repeat what you're asking?
+
+SPEAKER 1
+Why should we care about setting incentives for somebody who Might be tempted to set a fire. Knowing that the house is already gonna burn down. Because they're not going to be reliable.
+
+SPEAKER 0
+Why should we avoid that part of your logic is we wanna avoid that.
+
+SPEAKER 1
+Strange twisted incentive, right? Why? Why should we care about that?
+
+SPEAKER 0
+There's no house.
+
+SPEAKER 4
+I mean just because prac practically you want to avoid, you wanna reduce the amount of fires that are neg negligently set and can affect like other things outside of just the house.
+
+SPEAKER 1
+OK, good, sure, right, there's other things that might be going on. They might be wrong in how they set the timing of the, I mean, they may actually be burning down the house they think is already burning all kinds of reasons, sure, that kind of stuff. OK, sure. Arguing against whether the Basiri team's arguments against this position of holding them both liable, even though they didn't really do anything one might say.
+
+SPEAKER 4
+You want me to argue against what I was saying. Uh, the argument against would just be that. The lightning was going to burn the house anyways, and so it wasn't. Like it's, there's no but for like causation with the two fires. Like, even if they were or were not set, they would, the house would still burn down. Sure, you can always appeal to what we know and
+
+SPEAKER 1
+say this looks more like 1. What's a counterargument to that. What else does it look like?
+
+SPEAKER 4
+Uh, the simul like the simultaneous causes.
+
+SPEAKER 1
+Why should the one logic beat out the two logic in this scenario? That's what you have to overcome and arguing against the idea that they both should be held liable. I know you're arguing against your own position now, but that's what we do in this class. Why? Why should we let him off the hook? In the way we would if it was just one person setting a fire. One person's setting a fire, we let them off the hook. They're lucky. Why shouldn't we let these guys? Or why should we let these guys have that same. Strange bit of fortune here. Well, I think in this case, like it kind of
+
+SPEAKER 4
+does matter whether the lightning. Was burning first. I guess if the, if the lightning was burning first and the house was already burning at the time like the fires were set, OK. And so it really just has like no effect whether the fires are set or not, really.
+
+SPEAKER 1
+So Basir team is going to make this interesting move, which is to say, Now we do we really care about the timing. Suppose it's a little bit after. Suppose the two fires get there first, lightning strikes. Each of them, you know, 5 minutes later, the houses are burning from the two fires. Lightning strikes at that point. What's different? If you're going to lean on the idea that the lightning came first. And was already burning their house down.
+
+SPEAKER 4
+OK, wait, I changed my mind that it would have burned anyways, so it doesn't really matter the timing.
+
+SPEAKER 1
+I mean, you could make the case, but yeah, all right. Other arguments for treating this like #1 rather than #2. That's what we're working with here. We're treating it completely different way. Let's go to a different team. Zhu Haoshan To team, what did you guys come up with? What position did you take? argue for and against? Let's see if it intersects with the Siri team.
+
+SPEAKER 5
+Yeah, I, I think we ended up at the same position to say that, uh, to hold them both liable. Because like, like for, for the reasons that has already been discussed, like say deterrence and also like for the injured party they should be compensated for somehow like, OK, like let's just say what about the plaintiff side, right
+
+SPEAKER 1
+that comes into our intrusions very powerfully. You let him off the hook, the guy gets nothing. Two people set negligent fires, burning down their house. Yes, there was lightning, but then you don't get paid. You don't get paid anything for that loss, even though two tortfeasors came and torted your house, right? OK. Keep going. Oh, that's exactly, so you added, because you add on one more reason, one more reason having compensation. Why should we care about that? Um, intuition, yes, but like, any other reasons?
+
+SPEAKER 5
+Well, maybe corrective justice, like, like wrong has been done, like the, the, the wrong party should be compensated.
+
+SPEAKER 1
+Yeah, you can always appeal to corrective justice. There was a wrong here. There were two wrongs here, in fact. Just the fact that lightning was gonna burn down the house doesn't mean that there wasn't a lot of wrongings happening to this particular homeowner. But why is that different from number 1? Why is it somehow more powerful of an intuition when there's more fires? Let's say it's like 10 people setting fires and lightning, you know, what do we do with that? Something like this, but lightning.
+
+SPEAKER 5
+Well, I guess maybe like if you say like, as, as Professor, you have already said that there are 2 wrongs that uh in the, in that scenario, maybe if there are 10 rounds, then there will be more incentives to deter this kind of behavior. If it's just there's just 1 people setting fire, maybe
+
+SPEAKER 1
+less. One way to do this is to say, hey, look, yeah, we know we're kind of letting deterrence slide here. We're letting wronginess slide in scenario number 1. It's just a quirk. It's a but-for cause. Yeah, house is already burning. Just got lucky there. You just got lucky. One person getting lucky, not being deterred, not being corrected for their wrong. Maybe we can live with that. But if it's a whole lot more, if it's 2, if it's 7, at that point, maybe we're not so comfortable with just letting them off the hook anymore. Maybe because of the wrongs, that's a lot of wrongines, you're just letting go because of some weird little accident of lightning, but also for deterrence. And the zoo team here is talking about, wait a second, if a whole bunch of people start setting fires negligently, maybe that's something you really want to deter. It's not just one dude out there setting a fire. Right, it's me and Yazir and Bairi and Elliott and. 7 people are setting fires. Now, maybe the law should pay attention to this kind of thing. Maybe there's a policy, regulatory aspect that kicks in and says, we really can't let that stuff off the hook because of some strange lucky fact of lightning. Something like that. OK. You want to argue against?
+
+SPEAKER 5
+Well, like 1 or 10, regardless, they got lucky. Like, like moral luck is the same. They, um, they're, they're burning down something that's already happened or already would burn down. So didn't do anything.
+
+SPEAKER 1
+Yeah, they didn't do anything. They didn't do anything. This is what we mean by it's not a but for cause. Tort law has a reason for requiring that what you did actually mattered. None of these people's behaviors, as bad as they are, as wrongy, as deterrence worthy as they are, did anything here, didn't make any difference. That would be the argument, right? OK. That'd be an argument for treating it like number one, saying don't hold them liable. Sure, good old classic but for causation logic, very, very powerful intuition in tort law. But why, why should, sure, we can appeal to that logic. We know it's an edge case between two different logics competing opposed logics. Why should we favor this one? Why should it matter that they didn't do anything?
+
+SPEAKER 5
+I mean if like if we expand this logic, it will be catastrophic for, for example, like if we expand this logic then we'll be holding every drunk driver not hitting anyone liable just because like they are drunk yeah.
+
+SPEAKER 1
+Oh, we're, we're solving the moral luck problem by holding them liable. That's great, but guess what? The moral problem is everywhere, everywhere. Any time you're out there doing something that looks tortious, if it actually causes an injury, in other words, you're tortuously, negligently creating risk. But you're not actually harming someone. You still get dragged into the tort system. Maybe we want that. Maybe we want that. There's a reason to want that. There's a reason we have regulatory schemes that do act that way if you. Are driving much faster than the speed limit, whether or not you get in an accident, you have to pay something. Regulation works that way. I don't know anything about criminal law. As Professor Harcourt, but maybe some crimes work that way. But this idea here of tort law being having the strong intuition about you have to have had an impact on someone's injury. That's a quirk of tort law. There's no reason for that to be the natural state of how we design the law, and maybe here's a situation where we get away from that. We've already seen how you can get away from that idea of like, Actual impactines, intuition and tort law with Matsuyama, that's a case where we're already moving towards. Risk creation as the harm. Remember that's what. Chief Justice Marshall says that Chief Judge Marshall says in that opinion, we're gonna just recharacterize harm to be the risk that you created, to be the loss of chance of surviving, to be the increased risk of death. That's what we're gonna call harm now. Once we do that, everything else falls into place. Tort law works just fine. But we can make that move in tort law, and the question is, well, in a way, maybe that's what we're doing here. OK. Any other arguments, one way or the other?
+
+SPEAKER 5
+Um, I think that's basically what we got.
+
+SPEAKER 1
+That's what we got. OK. All right. These are the kinds of edge cases you're going to be arguing about all the time. You're not gonna have answers. None of these arguments are fully satisfactory. They might be more intuitive, more appealing, but your job is to come up with them on both sides and try to convince the judge of the Supreme Court of Hawaii to do what's good for your case. Let me say a quick word about who should pay how much. We've, this has been a background of what we've been talking about. We've been talking about, oh, we both hold, we hold them both liable. We hold all 7 of them liable, we hold none of them liable. And with this year we got into the question of what if only one of them is liable, but the other's not, then they pay the whole thing or not the whole thing. So here it's worth going to be, here's gonna, it's gonna be worth reviewing a tiny bit how tort law is typically going to treat the situations. And at the end of the full class today, we will come back to this and think about different ways of doing it. But the way tort law basically is gonna do it is to use negligence as a comparator, meaning that if there's 7 people setting fires, then they don't just split it up evenly. The amount of damages that is owed to the homeowner, they could. That's how Maritime did it. I may have mentioned this, it's not important for our understanding of Carroll Towing, but in the maritime case, in Carroll Towing, they were fighting over liability because they were worried that they each might get 1/3 of the liability. OK. But tort law outside of maritime. tends to use this idea of comparing the negliginess of the parties who are negligent. So you take all the parties who are going to be held liable for negligent or tortious conduct, and you think about how negligent they were relative to each other. You might think of it as like taking up the whole pie of the damages, splitting it up based on how much negligence each is responsible for. Right, Elliott's responsible for 60% of the negligence here. I'm responsible for 30% and Azir is responsible for the remaining 10. 3 fires, we don't just split it up. Tort law is gonna look at each of our behaviors and say, Elliott's negligines in setting her fire was so much worse than. Me or Yazir and mine was worse than Yazir's. OK. We'll, when we get to the BP case, we will see almost exactly that division being made by a judge, OK. So here you can start to think about what to do in these kinds of scenarios with that kind of logic. Let's say that. Two of us are setting a fire together. We're working in concert. This is not a multiple sufficient, multiple necessary, whatever. You just, we're working in concert. We're actually two tourfusers working together. You could say we're necessary, multiple necessary causes here. The tort law is gonna hold us both liable. OK, I'm just put this phrase in concert here because it shows up. In your later opinions for today. We're working in concert together to set one fire. And one of us does something negligent that has to do with choosing a bad location. It's upwind from the house and pretty close to the house. The other of us is negligent in the sense of like pouring on too much fire, fire fuel, lighter fluid we might call it, or whatever, making the fire too big. We both did this thing together, setting up a fire that's too big in the wrong place. We contributed different kinds of negligence to the scenario. And then it's up to aunt and uncle or the judge in some cases to divide up based on assessment of which one was wrongier or more negligent in the sense of being more careless, so much more careless than what a reasonable person would do. But then what about a scenario where Elliott and I set fires in exactly the same way? We're setting independent fires. We do exactly the same thing. You can't really tell us apart in what we did. Well then maybe the negligence is just evenly split. There's a whole lot of negligence here. Can't divide it up, fifty-fifty seems to be. Pretty natural way for aunt and uncle to pick a number. And of course, you know, you have a whole bunch of people setting fires. Again, aunt and uncle will have to pick a number for each of us. If they can't, maybe they will split it evenly, maybe not. The key is to think about. The tortfeasors here, the people being held liable, being charged some amount of the total damages in the end, how much does each one pay based on degree of negligence. And not on some other idea of contribution. To the Effect. We want to keep these ideas separate. How negligent you were, how careless you were in doing the fire setting is distinct from how much you contributed in some sense. And to make that a little bit sharper, we can sort of imagine that Elliott doesn't set just one fire, but Elliott sets. 456 fires. And they all Converge on the house, they're all the same fire level. They're each as big as all the other people's individual fires. You might say Elliott in a way is doing 6 times more stuff, 6 times more fire contribution to the ultimate results, but that's not the test. The test, as tort law understands it almost all the time, and we'll question this at the end, is to say, yeah, that's not what we're interested in. We're interested in how careless was she in doing that. It could be that in setting 6 fires that's really, really super careless, or it could be that she was super careful in setting those 6 fires, and we don't charge her anything. It could be, it could be that she's non-tortious. She's not negligent. She was completely careful. It's just bad luck. She set 6 perfectly careful, safe fires, just bad luck. They blew over to the house. We charge her nothing. That's how tort law is going to think about this. And so, don't get the ideas of causation, confused yet, not yet, until later today, not yet confused with the share that someone has to pay. All we're talking about when we talk about bringing someone into the causation in fact analysis and saying you're a cause in fact, arguing yes or no is to say you're one of the people who eventually will have to pay. And then aunt and uncle will divide it up based on negligines. Just want to leave us with that before we come back to it at the end of class and challenge it. Let's take a break and I'll see you in 5 minutes.
+
+SPEAKER 0
+I OK Yeah, the debate, this is why we don't have an answer. We depend on the judge. So. Bullshit as in. I Oh. Yeah. You don't know on the mark and here he is. I. I guess. Yeah. I Yeah, no, no, no, I, I agree with, uh, because if you apply the logic that we just talked about, right, uh, that that this is important given comparative mechanism, unlocking is not. Lighting is not an actor and therefore the negligent person is 100% negligent. So even with the locking situation, the tortfeasor should pay 10%. The result should be the same applying this test if you, yeah. Why the, the scenario we're discussing scenario number one, which is one, not really. Where? Where are you gonna talk about this guy you know. No, I didn't find it. I didn't find anything. No, it could, it could happen if the, the, uh, yeah, I understand that's what I'm. And we were. What. OK, OK. right I. I actually like. We Yeah Oh but that is I'm just people set up I don't know but anyways, I was just interested. I'm asking you because I thought it's a question that's been answered. That's fine. I don't I, I pretty much. I I I don't So, and then. I OK. amazing. I read that. part The underground we did uh the lateral half with the all the water in this. One of my friends. German major that read that read, uh, like original. I need a plane. Yeah. I love you. I was like. I some ice. I. Yes, he's the authoritative. How is it like 16,000. No, I think in court law deterrence is definitely a very big because like. Yeah. I I love. It. Thank you. OK Oh Harry No, Yeah. I think all of. Right Yeah OK, welcome back.
+
+SPEAKER 1
+Any announcements? No announcements. Me neither.
+
+SPEAKER 0
+OK. Oh We're now going to turn, OK, now that we
+
+SPEAKER 1
+have a good sense of How far tort law as we know it goes, where it ends, how do you make arguments beyond that. We're now going to move to 2 topics. that are In a way, getting around some of the things we've been talking about, in particular this question of, well, what if you can't really show. The thing here being. The causal connection, the physical causal connection, the real life causal connection, cause and fact between. The negligent behavior and the outcome. You just can't nail it down. What do we do about that? That question we're gonna see it answered in two forms. In first in what's a very, very old timey classic tort doctrine called alternative liability, and then later today in. A case or a category of cases, a doctrine that is at the frontiers of tort law, once again, as we saw with Matsuyama pushing out the idea that you know what, actually if you create risk and put it out in the world. Maybe that's good enough for tort law to start to get involved. OK. So, Without getting too abstract about it, let's first dive into alternative liability using the Summers v. Tice case. This case is a classic. It's something that everybody will know if you go out there into the world and you say, torts, two people shooting at a bird. Every lawyer will be like, oh yeah, uh, something, something, but they'll remember that something strange happened in this case. It's not the easiest case to read. It's a fact, factually kind of confusing case, but what we will work with is the stylized story of Summers v. Tice. You see it again repeated in Heimowitz and the other opinion, of course, you know, every judge knows this, everybody knows this case, and it's a model for how to think through this particular kind of problem. It's a whole category of proof problems. So let's just remind ourselves of what happened in this case. Alicia Acosta. Will you just remind us what's happening here? What is this strange picture I've drawn? Are there other people involved? What's going on?
+
+SPEAKER 2
+So the plaintiff in this case, Summers, and the two defendants, um, they go to hunt quail, and all three men were armed, um, with shotguns in order to, I guess, hunt the quail on the board.
+
+SPEAKER 1
+Yeah, OK, so 3 people are going hunting together. I've only drawn 2 of them. Where's the 3rd 1?
+
+SPEAKER 2
+The 3rd one's in the middle.
+
+SPEAKER 1
+The 3rd one's by the bird.
+
+SPEAKER 2
+Oh, the bird, right in the middle by the bird,
+
+SPEAKER 1
+as you're saying. A terrible place to be standing. And of course what happens?
+
+SPEAKER 2
+So, um, before they actually go hunting, the plaintiff in this case kind of gives them instructions about keeping in line, um, and then when they see the bird, they shoot and it ends up hitting Summers, um, one in the, I believe. The right eye and one on the upper lip.
+
+SPEAKER 1
+OK, alright, so what we're gonna be interested in is the injury to the eye. The opinion kind of talks about two injuries, but it says the other one's not that significant. What we're gonna worry about is the damages for the eye injury. Did they shoot at the same time basically? Yes, they shot in the same direction. They shot with the same kind of guns as far as we know, yeah, in the same pellets, same pellets, right? A shotgun fires like I assume they're, I assume they're using shotguns. Um, it fires a whole bunch of little pellets out at the same time, so two of them are firing like a whole bunch of little pellets. It's like, you know, a little spray over here, a little spray over here, and one of those pellets. Hits the injured party here in the eye and that's what we're interested in. Did both of them hit him in the eye?
+
+SPEAKER 2
+No, just one person, but we can't discern who that
+
+SPEAKER 1
+person who it is, right? We can't tell who it is. All the shots are identical. All the pellets are identical. Probably forensics at this time. You couldn't figure it out based on the type of injury. You don't know which way it came from. They were kind of in the same place shooting at him. 1 injury, 2 shooters, and no one knows which bullet or pellet actually hit the dude. So, if we were to try to do this old fashioned proving causation way, how would that work? You would have to say shooter number 1 or hunter #1 and hunter, let's call them hunter 1, hunter #2. Hunter number 1, but for what?
+
+SPEAKER 2
+But for shooter number one. Hitting, um, I don't know because in this case we don't actually know who hit them.
+
+SPEAKER 1
+We don't exactly. Let's finish it out though, but for hunter number 1 negligently firing in the direction of the quail while this guy was standing there, what we don't know.
+
+SPEAKER 2
+We don't know who shot.
+
+SPEAKER 1
+We don't know. How about 100 #2, but for hunter 2 negligently firing in the direction of the quail while this guy was standing there, what?
+
+SPEAKER 2
+It would have been the same thing. We don't know don't know, we don't know nothing, OK.
+
+SPEAKER 1
+One way to think about this, although we won't do it in our class, is to think about sort of the burden of proof. Like, is it more likely than not? Here it's kind of even split fifty-fifty. It's not more likely that it's one of them, right? It's not clear that if even if you knew it was like it would be, it would be, uh, the liable party. That doesn't quite make sense either. So that's not logic is sometimes kicked around as attached to this story. But really what we're talking about we just don't know. We cannot prove. But what do we know? Do we know that one of them did it?
+
+SPEAKER 2
+We know that one of them did it.
+
+SPEAKER 1
+We know that one of them did it and we know that one of them what? One of them did it and one of them did not, did not. So here's all we have to work with. All we have to work with is we know one of them did it, we just don't know which, but we also know the other one didn't. Let's hold on to that thought because we've been talking about what do we do about people who didn't make a difference, right? So, um, Just to sum up, like the theory here, what does this court decide to do? What is this idea of alternative liability that turns out to be the classic famous tort law solution to this kind of scenario?
+
+SPEAKER 2
+So if two defendants, I guess in this case, can be found negligent, but only one of them causes the harm, they both have that burden of proof to show that they didn't cause the injury to the right eye. And if they can't prove that they were the cause, then they were both liable. They're both liable.
+
+SPEAKER 1
+We're putting liability on both unless one of them can come up with the proof to prove themselves to be not the. Cause And of course what's really strange about this is we don't have to talk about this in our class, but who usually has the, who usually has the burden of proof? The plaintiff. Yeah, the plaintiff usually does, but who does now? The defendant. Defendants does. And the plaintiff has to prove a bunch of other stuff, but on this question of am I liable or not. As one of the hunters, I now have the burden of proof. You will see this in other classes where there's sort of burden shifting frameworks. I don't know if you talked about this, um, in relation to any of the CIFPR cases that have to do with federal discrimination laws. There's some burden shifting that happens in some of those, a whole bunch of summary judgment related cases having to do with that. So that may sound familiar, but this is classic sort of burden shifting of who has to produce the information. And why might it make sense to say actually you know what, here's a situation where even though we usually ask the plaintiff to make their case here we gotta ask the defendants it's not terrible to ask them.
+
+SPEAKER 2
+I mean in this case Summers was injured, um, and by if we weren't shifting that burden of proof, um, Summers more than likely wouldn't be able to prove which one of them didn't did it, and none of them
+
+SPEAKER 1
+can't, right?
+
+SPEAKER 2
+Yeah, none of them would do we care?
+
+SPEAKER 1
+So, so he doesn't get any money, big deal.
+
+SPEAKER 2
+I mean, I guess for policy concerns you want someone to be responsible for or liable for what they did, um, and you want the person to be compensated for that.
+
+SPEAKER 1
+You want, you want the compensation. There's a strong, strong intuition that's gonna show up in this case and the next one about but the injured party should get paid. We really got to get compensation out to them. And again, as you know from our aims of tort law and early discussions and we'll be talking about it throughout the course, what does it mean to say that somebody should get compensated? It could mean that there's a wrong that's being righted. It could mean that there's incentives being put on the other parties. It could mean just something intuitive about like making them whole. This shouldn't have happened to them. But as you think about that, keep in mind also all the scenarios where we never, we don't get anybody the money. If nobody was negligent, you have to just spare it yourself. You don't get any money. Little Leo doesn't get any money if trolley company was careful. It just happened. I mean, he kind of did it to himself besides, right? But there's plenty of tort situations, plenty of accident situations that are not torts as well as tort situations where someone does not make it to compensation. Quite often because they can't prove stuff. So in a way we're comfortable sort of in this world of law being a way to move money around saying, You didn't prove enough to get money moved to you. Why do we care about it here? What's distinctive about this scenario that makes us think, you know what, the plaintiff can't prove it, but, but let's move it to the defendants. What's the imagined theory here for why that could be useful.
+
+SPEAKER 2
+I mean, again, if we weren't, if we weren't going to shift the, uh, burden of proof, then Summers would never get the compensation and then the defendants would more than likely stay silent or wouldn't kind of, um, provide any evidence as to why.
+
+SPEAKER 1
+OK, so Alicia's pointing us to the information forcing aspect of this case. A lot of the theory of this idea of this doctrine, this idea that. Well, if you want them to reveal the information that they have, then you put liability on them unless they can reveal that information and let themselves off the hook. But that assumes that they have information. So part of the theory of this case is, oh, the defendants have better information. He's the least likely guy to have information about who shot him. But they might know. You think they would know? How would you argue for and against this policy rationale for this doctrine? It's a classic explanation for why we have this in tort law, that there's information forcing from the parties that have the information.
+
+SPEAKER 2
+I mean, if I were to go against maybe um. If they had to, I guess, demonstrate evidence, they would more than likely prove that they were liable in shooting Summers, so they might not want to do that or have the burden shifted to them.
+
+SPEAKER 1
+Wait, say again. Who's, who are the defendants? Defendants, if they didn't have what?
+
+SPEAKER 2
+If the burden were shifted to them, they would, um, if the burden were not shifted to them, they wouldn't have to provide evidence, um, and therefore they wouldn't be held liable for something that they, they just kept their
+
+SPEAKER 1
+mouth shut like you said. They're fine. He can't prove nothing. We don't have to say anything. Of course, you know discovery works differently than that, but that's the idea. But it's a question of whether they even have that information. Can you argue that maybe they don't actually have information in this case?
+
+SPEAKER 2
+I mean, they might not, they might not.
+
+SPEAKER 1
+They're both terrible shots. They're first time hunters, obviously. They're totally negligent. They're careless. They don't know where they're shooting. How does, how are they gonna, how are they gonna know that it was them or that it was the other guy? Now, as you know from the facts of the case, there's some evidence suggesting it was one or the other, and so on. So maybe in this scenario they did know, but it's not always a given that somehow the party you're shifting the burden to would actually have better information. Maybe the theory is that at least it's better than whatever he has, which is truly zero information, maybe. Maybe But think about what we're doing here now. We're going to put liability on both of them. We didn't, we know one of them did it. What do we know about the other one? The other one didn't, didn't do it. So we're putting liable, we're putting liability on a party who didn't tort at all. Is that what we're doing?
+
+SPEAKER 2
+Well, they both hit him in the face, so no,
+
+SPEAKER 1
+we know they didn't. Let's just focus on the one injury. Oh, just the eye. It could be the same gun that shot that one, right? The both, both, both pellets that hit his face. Let's say it's one injury. I see where you're going, but yeah. How do we know, how do we know that this is a different story basically than the two fires story? What's different about this story versus the two fires story? In our stylized setup.
+
+SPEAKER 2
+This wouldn't be considered like a multiple sufficient cause because there was only one injury.
+
+SPEAKER 1
+There's only one. Well, I mean there was only one injury in the other, but there's only one what? What do we know about this case?
+
+SPEAKER 2
+In terms of how many bullets hit him? 2. No, no, no, well, well, just the 1 injury, 11, 1, see the stylized story is just the 1.
+
+SPEAKER 1
+The 1 pellet hit him. How many fires reached the house?
+
+SPEAKER 2
+22, right?
+
+SPEAKER 1
+We know only 1 of them is responsible for the pellet that hit this guy, whereas in the 2 fires story, both fires got to the house. You cannot say in some abstract metaphysical sense that they both. Hit him. The way that you can say the fires got to the house. This is a different setup. It might look similar. There's two of something, and then you're holding them both kind of liable or something like that, but the structure is different. The rationales are different. And so let's play with that. Remember what we're doing that we're holding potentially here, unlike in the other case, somebody who didn't have anything to do with. That one injury to the eye. And we're still gonna hold them liable in tort just as a way of forcing out information I guess or getting money to the plaintiff or something like that. That's what we're doing you notice how this is getting. A little bit uncomfortable with like really we're gonna hold that person liable. But then again, think about moral luck. Why shouldn't he be? He did exactly the same thing as the other guy. He got lucky, didn't hit him. The other guy got unlucky, hit him. That's just moral luck. Maybe we want to wipe out moral luck in tort law, and this is a way of saying you both shot in that direction. You see how it's getting a little bit close to like you created a risk. Both of you identically created a risk. Maybe we'll just hold you identically liable until you tell us what actually happened. Something like that may be going on. OK. Let's mess with the hypo here, or the setup here and just see where our intuitions go. So far, this is all really driven by intuitions, about information, about faults, about moral luck, about all these things. Let's change it up a tiny bit and see what Argumentation might change. Sylvie Binder, hi. Let's say that you know where this is going to go. Let's say it's not two of them. OK. Well let's say it's 6 of them. He only gets hit once though, remember he only gets hit that one time, but they're all shooting in the same direction at the bird. He's there by the bird. Maybe it's his own darn fault. He's by the bird. OK, at this point, right? 6 hunters on the other side of the bird from you. That's not a good place to be. But anyway, he gets hit 1 time. What do we know about one of the people, one of the 6, 1 of the 6 did it. One of the 6 did it. What about the other 5?
+
+SPEAKER 6
+The other 5 didn't do it.
+
+SPEAKER 1
+The other 5 didn't do it. What changes our intuitions? Should we still use alternative liability in this situation?
+
+SPEAKER 6
+Yeah, I think a few things. Number one, I don't know if I would go hunting with 6 newbies. Uh, so I, I honestly think like there's some less, like a part of my intuition is like the plaintiff could have been a little negligent himself. OK, all right, so but that's not maybe where you're going, um, that could be part of your intuition, right?
+
+SPEAKER 1
+It could be part of the. Intuition, but under the the theory of alternate alternative liability,
+
+SPEAKER 6
+like all six of the defendants would have to show, or each one of them would have to show that they didn't do it and come forward with the information that they have and have like, I guess alibis like, no, I, I swear I was reading it that way
+
+SPEAKER 1
+or look, I hit that tree or you know my my pellets are different from some my gun misfired something something my gun misfired front right. Yeah, OK, so the logic of information forcing kind of is the same. It's the quality of information you're likely to get better or worse when there's 6 rather than 2.
+
+SPEAKER 6
+Um, no, I think you could get more finger pointing depending on the group. Like, yeah, I mean there's literally more fingers, right? Yeah, and, uh, I don't know, like you would then have to deal with human behavior. Like maybe 2 out of the 6 are now conspiring to, like, um, you know, insist that they were not the 2 to do it, like the 2 that are closest to the left and right, they're like I'm pretty
+
+SPEAKER 1
+sure he didn't do it. I'm pretty sure he didn't do it. We both shot that, right, OK, you might have some weird dynamics going on here, right? The quality of information may not necessarily get it better with more people who could potentially know things. It might could get, it could get worse, right? What about just the raw chances that it's any given one of them, right? If we're talking about now we're holding a bunch of people liable who didn't do it. Is it more people we're holding liable? Let's say they don't produce any useful information. Are we holding more people liable who didn't do it than before? Yeah, we're holding 5 of them. Innocent parties, right? liable as opposed to just one before, does that make you uncomfortable or is there something OK with that? Yeah, I mean, I think on one hand it's starting
+
+SPEAKER 6
+to penalize negligence and like the risk that you're creating rather than the outcome and the harm, um, which as we see in some instances is OK under tort law in some instances is not so I feel like we would have to see. What the broader implications of doing this would be like, what is the line we're comfortable with 2, are we comfortable with 6? Are we comfortable with 300, right?
+
+SPEAKER 1
+Yeah. Are there any particular theories of tort law or aims of tort law that you think fit this better or fit this, make, make this, this looks worse under one of the theories or better under a different theory?
+
+SPEAKER 6
+Yeah, I mean, I think like like a. Deterrence theory is pretty powerful here, especially since we're dealing with guns like we really don't want people to shoot guns that they're not sure where it's gonna go.
+
+SPEAKER 1
+OK, maybe we're not super worried that we're holding someone liable even though they didn't particularly know we don't know if they hit this person in this instance because like that's just a thing we want to not. Happen.
+
+SPEAKER 6
+It reminds me a little bit of the skiing case like you're in and you're doing an adult activity, you're doing a heightened risk activity. You should be more aware of what you're doing. All right, maybe we just raise the bar or maybe
+
+SPEAKER 1
+we make liability more likely for you in some way that is just an add on to the deterrence that we want to put into place. Why should exactly the right tort damages be the right deterrence? Maybe we want more because this is more in a sense, although how is it not more in a sense?
+
+SPEAKER 6
+How is it not more deterrence? Yeah, well, you're paying, you're paying less overall as your share. That's right.
+
+SPEAKER 1
+You're each contributing less of a share to the total pot of damages for the injured party. The injured party only gets their make whole amount. They get whatever the damages are for the eye and it just happens to be split up among 6 people here. So is that more deterring? Uh, maybe not, maybe not actually. On the other hand, maybe like it makes people more pay attention. On the other hand, and so on, you can keep going with that, right? What if, all right, you know this is coming up. What if Elliott's there?
+
+SPEAKER 6
+Setting a fire.
+
+SPEAKER 1
+No, Elliott Elliott sets a fire. Elliot fired 6 times. Yeah. And everybody else fires once. There's 6 people firing once and 1 person firing 6 times. What do we do with this?
+
+SPEAKER 6
+Um, I mean, based on what we said in the fire instance, like tort law is not interested in the amount of times that the person is shooting, but rather that they were negligent or how they were negligent, um,
+
+SPEAKER 1
+OK, so when we split up damages we may not necessarily charge Elliott more, but what about alternative liability? I mean. There's a half and half chance if we don't have any information, it's a 50/50 chance that it's Elliot. Well, let's let's let's make it more, more than 50% chance that it's Elliot. OK.
+
+SPEAKER 6
+My instinct is that it should be taken into account.
+
+SPEAKER 1
+Elliott shoots 7 times. There's now more than 50% chance that if you just had to pick a random pellet and hit the guy, more than 50% chance it came from her.
+
+SPEAKER 6
+Yeah, I mean, my, yeah, as I said, I think my instinct is that that should be taken into account. Like maybe the information forcing should still happen and each defendant should have an opportunity to show, um, maybe information
+
+SPEAKER 1
+forcing is more useful now because more people can be like that was obviously Elliott. Because, uh, you know, here's the spray pattern or whatever it is, it's not just the odds are better, it's that somehow you can maybe have better information about where those shots went if one person is shooting from one direction, something like that, maybe, maybe the information forcing rationale still works or is even better. Unclear arguments the other way or just any other thoughts?
+
+SPEAKER 6
+Um, Arguments the other way. I don't know, it seems like all of them. are still negligent and thinking about the outcome, the plaintiff would still just out of fairness to the plaintiff, you would want to get them fully compensated. And so all of this feels a little bit. Not like noise, but like, OK, Elliott fired 6 times. The rest of them also fired at that time. We really want to make sure that the plaintiff is whole. Yeah.
+
+SPEAKER 1
+This, this bunch of irrelevant new facts like it doesn't change the logic, it doesn't change the rationales for deterrence or for wronging us being corrected or something like that. You could try to make the case that this is, these are very these variations don't actually affect the logic of this idea. Maybe it affects the intuitions, maybe it affects some things on the margin, but maybe it's not a big deal. You might say, hey, look, what if like it's not 6 other people, but Elliott shot 7 times and then I shot 6 times. I'm responsible for the 6 shots, she's responsible for the 7. What do we do that? Like that sounds kind of like the 2 shooters now again, the 2 hunters, why don't we just do the thing? Like why is it any different for her that there's 6 other people as opposed to 1 person shooting 6 times. OK. And even the fact that 7 shots versus 6 shots, maybe that doesn't even matter. We certainly don't say that oh it's more likely than not. That it's Elliot just because like 7 is bigger than 6, we don't do that in proof necessarily so let's just force out the information something like that, OK. What about this one? You know, this was coming. Adiri Joshi. So there's only one hunter. But there is a natural version of this, and it's not lightning, but it's hail. OK. And the nature of the hail is that the injury to your eye is identical to a pellet from a shotgun. Can't tell it apart, you don't know, you can't find the hail and it's melted or something, and then the pellets are all over, right? Two sources of injury, we don't know which one. What do we do here? What do we do with this?
+
+SPEAKER 7
+Um, that's different. I was wondering what the natural equivalent of a pellet was gonna be. Um, thank you, so I would say. Intuitively, it's kind of similar to the lightning situation like hypo one, from earlier where. You might end up finding the defendant like. Like you might impose excessive liability on them because it lacks that but-for causation cause like even though if you
+
+SPEAKER 1
+hold them liable, that might be excessive liability. Why?
+
+SPEAKER 7
+Because like, because of the hail, they might have had the same injury anyways.
+
+SPEAKER 1
+Oh no, no, but no, no, but, but wait, wait, wait, wait, wait, wait, that's not, that's, that's not what we got. We, we're not talking about two sufficient causes, OK? It's not like the lightning in that sense. Rather, we know that only one object hit the eye. It's either hail or a pellet, OK, um.
+
+SPEAKER 7
+Yeah, I mean, then I guess in this case, if you're more focused on, if you're not sure. What the cause was. And as like a policy consideration, you wanna make the plaintiff whole. Then I guess you would hold the single like human defendant liable for the damages. You would.
+
+SPEAKER 1
+I mean if you really wanna make the plaintiff whole, yeah, but is that how, what, what, what, where does that fit in tort law? Does tort law work that way where you get injured, you automatically get paid by whoever's nearby?
+
+SPEAKER 7
+I mean, no, but in this case it wasn't just that the defendant was nearby, it was that they were still acting negligently.
+
+SPEAKER 1
+They were wronging this person in some sense, even if they didn't hit them. Is that what we're saying? Um Yeah, I guess that's tough.
+
+SPEAKER 7
+I mean, even the fact that like. They could have hit them.
+
+SPEAKER 1
+OK, so here we are getting at risk creation rate. You're like, yeah, you created that risk, and you know we're gonna charge you for that even though in rest of tort law we don't. Except for maybe. Matsuyama and maybe market share liability we'll get there. But yeah, right, that's the intuition is you still did the thing. It's a wrong to be corrected. It's something to be deterred. The connection with the injury maybe is not the point. How would you argue against that?
+
+SPEAKER 7
+Against the connection with the injury not being against saying
+
+SPEAKER 1
+that he should be held liable and saying no, obviously not held liable if you can't prove it, don't hold him liable.
+
+SPEAKER 7
+Yeah, I mean, I feel like that goes back to wanting to avoid excessive liability and like, because you can't prove that cause. Then it like doesn't make sense to just like. Kind of randomly hold him liable when you don't know if he actually we don't do this in tort law.
+
+SPEAKER 1
+We have, you have to prove your thing. He can't prove it. It's too bad. It's unlucky that he can't prove it, but I don't mean you hold him liable. Right? What's different between holding him liable and holding. Any number of these folks liable is that we're pretty sure what that about all of these folks together that one of them.
+
+SPEAKER 7
+At least it was like one of them.
+
+SPEAKER 1
+At least it was one of them. What about here?
+
+SPEAKER 7
+In this case, like, it may have been no one.
+
+SPEAKER 1
+We don't know if it was the guy we're holding liable. We don't know, we can't be sure. It's maybe in our intuitions one thing to charge a bunch of people when we know it had to be one of them, as opposed to, we really don't know. Right. At least we're getting the right person here. Here we're not sure if we hold them liable. Maybe something like that. You start to think about this thought as it relates to market share liability, of course. What about, does this change your intuitions at all? Elliott has become a hail cloud. And it's just like pounding downhill. Meanwhile, the guy just fires one shot.
+
+SPEAKER 7
+Wow, this is a very unlucky plaintiff plaintiff, yeah. Yeah, I mean, in this case it's even less likely that the defendant created the risk, so. Um. I mean, I, I guess like what we've talked about in tort law, it shouldn't, but like intuitively it feels like. It should, because if you're acting in this environment where you really don't know, like all you have to go off of is the, the probability. So it feels like it should matter.
+
+SPEAKER 1
+It should, it shouldn't, right? I mean, maybe it's right again, you see where this intuition is leading to market share liability, the idea that all we owe is the chances. Can we work with that and assign liability based on that? We're about to get to that. You see where this is all going, of course, if you wanna play around a little more, you can certainly think about this scenario here. And whether your intuition has changed at all once we have this possible natural cause we were just saying, hey, it may be OK to hold all these people liable because we know one of them did it, but now, now we don't just like here now we don't. How does that change anything? Play with that. All right, I've set it up enough. Let's go to market share liability. Thank you for playing. Thank you, Elliot. Via Balaji, hi. This case is a classic case. It's a set of classic cases along with Cendel, along with, um, maybe a couple of other states, but California did it. New York did it. This is a New York case. It's not the first case. It's kind of learning from other courts that had tried something like this before, but the idea of market share liability is well known as. A kind of follow on to alternative liability. The question is, well, how does it work? How would we want to design it? There's all kinds of design elements in it, as you saw in this opinion from the judge, and can it be applied to other things? I will say already that this is basically at the frontiers of how far tort law is willing to go in this direction of saying that we don't really need to prove stuff and by the way, risk creation is good enough as a tort. It's kind of like Matsuyama at being at the frontiers. So both lost chance or loss of chance liability and market share liability are kind of as far as we've seen tort law being willing to go in that direction. We've been talking a lot about getting away from the idea that you can show the impact and getting to just the idea of charging you for the behavior, the risk creation, and this is what we're doing with market share, kind of to the max that tort law has been willing to go. But first, will you just remind us of the story, what's happening here. Why is it that proof is kind of impossible and so on.
+
+SPEAKER 8
+Uh, yeah, so basically, there were all these plaintiffs that had like used this drug DES and then during pregnancy and then um strong evidence showed that prenatal DES exposure led to later development of serious medical problems. Medical problems in whom?
+
+SPEAKER 1
+The mothers or the people who are pregnant or in their children. Children, their children. And like when they're born or like many, many, many, many, many years later, many, many, many, many, many, many years later, decades later in their twenties. The daughters of the mothers who took DES showed up with a particular type of cancer. What do we know about this kind of cancer? Can it be caused by anything else?
+
+SPEAKER 8
+I don't think, I don't think so.
+
+SPEAKER 1
+No, it's a signature disease, right? That's the phrase that the courts use to describe this particular strong connection between a particular drug and or a cause, and. The illness that manifests. Let's just assume, who knows about the science, but let's assume that we know this, that this particular cancer, vaginal adenocarcinoma of a certain kind, only shows up if mom during pregnancy took DES, OK? We'll mess with that a little bit later, but right now let's assume that. OK, so the daughters then sue, right? Who are they suing?
+
+SPEAKER 8
+Um, they are suing, um. I think the Like all the DES manufacturers, yeah, any
+
+SPEAKER 1
+of the pharma companies that made DES at the time that mom took it, right? OK. And Great, we're done. It's a normal tour. You sue them, you show that mom took the pill, and we know that they're causal. What, what's the problem here?
+
+SPEAKER 8
+Um, I think that there's an issue with identifying exactly which defendant was related to each plaintiff's mother.
+
+SPEAKER 1
+Yeah, why? Why is that so hard to find? Figure out.
+
+SPEAKER 8
+Um, well, first, like, there's a huge like latency period for like the DES injury to like, like, materialize. Um, and then I, I also don't think that there's any like records. Like strong records of like which manufacturer, like the plaintiff's mothers, like how are you gonna do this?
+
+SPEAKER 1
+Mom is gonna call up the CVS that she went to when she was pregnant if she can't even remember where that was, call them up and be like, hey, do you have uh records of what you sold me and who made it? Were a lot of companies making this? Yes, yes. Unusually large numbers of companies were making this. Something like 100s of companies were making this. Normally that doesn't happen with pharma because of patents, right? Every pharmaceutical company is out there with a patent saying we're the only ones who can make an authentic version. We have the rights to make this and sell it until whenever a patent expires or we extend it or something. It's very, very much controlled by IP IP law. Someday you'll take it if you aren't already in an elective. Was there, isn't IP elective right now? No, someday. But this one is strange because the scientists who came up with it wanted it to be in the public domain. They wanted people to be like making this. They wanted people to use it. They didn't want to monetize it. They weren't trying to set up a company and make billions of dollars. They just wanted this information out there in the world. They're like this is gonna help pregnant mothers. Let's get this drug out there. Everybody go forth and make it. And so there were hundreds of manufacturers making it. And were they making basically the same thing, or did they all have their own strange doses and so on?
+
+SPEAKER 8
+I think they were all basically making the same thing. I think there might have been a mention of like one of them having like some specific like branding. OK, all right, so they might have had different packaging,
+
+SPEAKER 1
+like, uh, you know, it could be red and white pills, it could be just blue, it could be something else. But the molecule itself, the thing that every mother is taking and the dosage are identical. These are identical products. So two features of this particular scenario we want to keep in mind, it's an identical product. Everyone's making identical things, and it's a signature disease that's caused by this one thing that everyone's taking. Oh, and by the way, there's hundreds of these manufacturers. Are they all still around or do some of them disappear over time, go bankrupt, that kind of thing?
+
+SPEAKER 8
+Uh, the latter, some of them are no longer in business.
+
+SPEAKER 1
+Some of them are gone. That one's gone. That one's gone. OK. So some of the manufacturers aren't there anymore. Now we have this set up. This is our setup of proof for one of the one of the people who's injured, one of the daughters. You're saying, mom took a pill. There are all these manufacturers selling pills, putting them on the market. Mom got hit by one of those pills, you might say. But we don't know which We don't know which Are we pretty sure it's one of the pills from one of these manufacturers? Yes, absolutely sure. We know it's one of them. We know it's one of them without the nature here, right? We know it's one of them, it's a signature disease. We can't tell which, we cannot prove it. Nobody can prove it. No records, no, maybe mom can remember the pill and then that manufacturer, fine, then you just do a normal torts case. But let's say that we have a scenario where lots and lots and lots of people all across the country are suing and the states are trying to figure out their tort law to see if they can make the tort system work. To do what we've been talking about, which is get money to the injured parties for all the reasons that we might care about. OK. So, Let's see what this court came up with. How would you describe the theory of market share liability as it applies in a situation like this?
+
+SPEAKER 8
+Um, I would describe it as basically determining what share of the market each manufacturer has and then um apportioning liability based off of that market share.
+
+SPEAKER 1
+And so if one of these companies Named Elliott Pharmaceuticals. Selling a ton of these. Right, and others are everybody's selling different amounts. Some of our companies are bigger, some are smaller, and so on. What do you do with each one of these in one plaintiff's case, let's say the plaintiff found a bunch of the manufacturers, let's say these are the ones that that daughter could find. She is suing all of them, she is saying, I don't know which of your pills mom took, maybe mom didn't take any of your pills because The actual company is gone now. But you were selling the same thing, you were selling a lot, you were selling some, you were selling a tiny bit, you were selling a lot. What does market share liabilities end up doing to. These parties and to this plaintiff.
+
+SPEAKER 8
+Do you mean like in terms of, like, splitting up who's responsible? Um, well, I guess you just like calculate like what percent of the market that like that manufacturer was like, OK, offering, right?
+
+SPEAKER 1
+So as you said, you take the market share, let's assume that these are the market shares. What about the ones that are missing? What do you do with those?
+
+SPEAKER 8
+Um, I guess in that instance, like you can try to figure out, like, I guess like kind of go back in time and try to figure out what the market share was when, um, Like when the mom wasn't using that drug, but like since those records probably are not there, um, I think they'll try to, they'll just use like present day data.
+
+SPEAKER 1
+Use present day data, use whatever data you have. Do you want to use, let's say that you were really trying to get very, very, very accurately, you don't know which one it is, but you want to get the chances as accurately as possible. You wanna know. The data for market shares what at the world level, national level, regional level, state level, city level, CVS level where mom went, which one do you want? You wanna say, here are the chances that your pill is the one mom took.
+
+SPEAKER 8
+I guess Probably like ideally granular level granular, absolutely go
+
+SPEAKER 1
+to the CVS. The CVS didn't even buy from these three manufacturers. They got everything from these two, and here are the shares, and those are the chances, therefore that mom took it 25 years ago. From either of those, boy, is that data available? Is that hard to get? Yeah, so what is this court's solution? This court has learned from prior courts saying, oh wow, trying to get market share data is really, really, really hard. So we're going to say what we're gonna say what about the market shares?
+
+SPEAKER 8
+Um, they're gonna use like the national, national market shares.
+
+SPEAKER 1
+Just as a workaround in a way we're gonna use national market shares and how we're going to treat the shares of the companies that have disappeared. Again, other courts have tried to do this in the past and now this court is deciding based on all that experience from other courts innovating here, we're going to do what with the companies that are gone.
+
+SPEAKER 8
+I think, I think they. Treat them as is not there.
+
+SPEAKER 1
+They treat them as not there, meaning what? Meaning that the other companies have to fill in the blanks for them, they have to make up for that gap in the plaintiff's recovery, or just the plaintiff doesn't get it. The plaintiff doesn't get it. The plaintiff doesn't get it. OK. You don't have to worry about the terminology, but they call this absolute market share as opposed to relative market share. And the idea here is to have the Plaintiff recover something resembling accurate shares of the contribution of the number of pills. And collect as much as they can, but not all. If you wanted the plaintiff to collect all, you would say for all the companies that are missing, all you rest of the companies, you have to be the ones to fill in the gaps. We split up the market share among the shares of your, right, we inflate your shares to cover the missing companies, but they're not doing that here. What is this judge's rationale? This judge is actually very, very straightforward, very frank about what is happening to tort law in this case as these moves become their choices. Is a judge saying this is really our way of getting at causation in fact, this is our way of kind of alternatively proving causation in fact. He could have used alternative liability here. So far everything we've been talking about sounds like alternative liability, but they go a different way. Are we still interested in proving causation really in this particular judge's mind?
+
+SPEAKER 8
+Um, I don't think so, and I think that. He, the judges kind of says that he wants to limit a defendant's liability to its fair share, to its
+
+SPEAKER 1
+fair share of what responsibility, responsibility and responsibility for what?
+
+SPEAKER 8
+Creating that harm, creating the harm we don't know if
+
+SPEAKER 1
+they created the harm to this mom, right? But what are they creating?
+
+SPEAKER 8
+Um, the potential for harm, the risk, they're creating the
+
+SPEAKER 1
+risk. He says, here in this strange situation, what we're gonna do is we're basically going to hold you liable for risk creation. We're really not that interested in linking up proving causation. This is not a fun, a way of fudging the causation proof or something like that. We literally are charging you for your risk creation at the national level, meaning not to just this mom, but to whom?
+
+SPEAKER 8
+To everyone that took the drug.
+
+SPEAKER 1
+All the moms. This is market share liability. It's charging companies based on their contribution of risk to the whole country, to the public at large. You're not trying anymore to tie a particular manufacturer to A particular plaintiff. The way Judge Wachler here writes the Heimov his opinion really kind of just gives up on the idea. Of proving that or alternatively proving that or fudging it, but says, here's a situation where just for policy reasons, this makes sense. This is what's workable and it can be justified on the idea that we're charging you for risk creation. OK. So of course the question for all of us to play with. I What if it's not a signature disease? That's, that's a, that's a DNA thing there, OK. And let's say that there's a 10% chance that your cancer was caused by nature, genes, something else, other than one of the pills. Can we still use market share liability there? Kind of think about arguing for and against that. What's different? What's different now immediately, once we add in the possibility that there's a natural cause. Anuma Anekwe desense. Good morning. Good morning. What's different? What's different now? It's almost the same, but there's some natural possibility of this cancer.
+
+SPEAKER 9
+I just think you have to switch to a relative market share liability approach.
+
+SPEAKER 1
+OK, and how would you work? How would you design that? How would you make that work?
+
+SPEAKER 9
+Well, we could still determine like what the percentage of companies still in the market, like what percentage of or what percentage of the market they're responsible for, and then I think in the readings they talked about like. This is gonna be really mathy, but like if you're responsible for 20% of the market and we only have like 90% represented because of the 10% for natural causes, then we just like do 20% over 90% and get their like relative contribution to the market.
+
+SPEAKER 1
+Why, why would we wanna do that? Or alternatively, why would we want to get away from absolute market share? Well, because we just don't have all the like parties
+
+SPEAKER 9
+represented now because there's the 10% that it could have been natural causes before.
+
+SPEAKER 1
+Right? It was true before that we didn't have all the companies represented and we still chose absolute market share. What is it about having some natural cost potentially that makes you think, you know what, actually we should now just spread it out among the remaining companies where we didn't do it before.
+
+SPEAKER 9
+I guess cause it's just not all about human contribution anymore, so, OK, so.
+
+SPEAKER 1
+Could we do, let's do this, could we do an absolute market share? If we thought that nature contributed 10%, You're right that maybe what we have to do now is start adjusting the numbers for what each company's potential causal contribution might be. But is that really relative market share or still just absolute market share with an adjustment for the possibility of nature?
+
+SPEAKER 9
+Um, I don't know, but I think like it's like getting at this fairness rationale underlying tort law like you wanna make sure you're only holding companies liable for the risk that they contributed to, so we're just making the pie or the pot smaller.
+
+SPEAKER 1
+OK, so the pie is to be smaller because they're contributing less because 10% it turns out is not their contribution. So you're gonna reduce, right, just the readjustment you're talking about is more aligned with the aims of tort law in a way more accurately getting at the risk contribution. Right. By adjusting it, but it's not quite relative market share. Relative market share says that they're paying for all the companies that are gone. You're saying they're not now, but they're just paying their share, recognizing that all their shares only add up to 90% rather than 100%, something like that. Mhm. Yeah, that could be one way to do it. Just treat nature as if it were an absent company. Like, why not treat it like a non-tortious company, you might say, like something like that, OK. Are we still at ease in doing this charging though? Remember what we said before with this scenario, which is that. If we were at ease at charging everyone because we're sure one of them did it. We know that one of them did it. And then we add nature and now we don't know anymore. That's what's happening here, isn't it? We're charging all these companies, but are we sure anymore that one of them did it to this particular child or daughter? Or only 90% sure.
+
+SPEAKER 9
+We're 90% sure, but I think that's like good enough
+
+SPEAKER 1
+here. Good enough. OK, well, now you're just asking for, you know, increasing that to 70%, right? You know that's coming now are you comfortable holding them all liable in some way?
+
+SPEAKER 9
+I mean, it's Big Pharma, but it's pharma like I'm comfortable holding them liable for a lot of things, but um. Like it's not as fair for sure, like, especially because the percentages are so not in favor of them being most likely to have caused the harm.
+
+SPEAKER 1
+Yeah, but then how much are they paying though? They're paying only for 30% total, right? OK. Is that better? Better-ish? OK. These are the kinds of intuitions you want to play with. Where is this going? We'll pick up here next time, but we're gonna start thinking about whether this is the type of scenario where what we're doing is really charging parties for their contributed causation, the number of pills, number of shots, number of whatever, rather than number of fires rather than their negligines. All right, see you on Monday.
+
+SPEAKER 0
+How's it going, professor? I wanted to ask about the adding nature, I guess, to the equation and you get some context. Oh yeah, I'm so sorry. I like Oh my gosh, I just. I I Yeah. perspective And a different question. I I I.

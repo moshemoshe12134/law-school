@@ -1,0 +1,713 @@
+SPEAKER 0
+It's like you don't have to make that time. You make that timeline. Yeah. I Yeah In hindsight. Is so. skin I Yeah, you don't have that so it's like an hour. OK um. No. I just. Send you All right, but don't you. Yeah Oh right. young. Yeah. I have. OK.
+
+SPEAKER 1
+Welcome back. Welcome back.
+
+SPEAKER 0
+I. So as usual, why don't we settle in.
+
+SPEAKER 1
+A couple of breaths. You can close your eyes or relax your eyes. Whatever feels right to you. Remember what we're doing is breathing in slowly so that you bring yourself into this room. Your body here and to your chair. breathe out slowly, also feeling settling in. The weight is sitting in your chair. Again, taking your time. More slowly. Now again Then once more at your own pace. When you're ready. Gently opening your eyes. Looking up here. As usual we have our agenda and we have some themes. I should preface today's class by saying thank you first of all for coming to a makeup class on a Friday. I know it's not ideal, but I'm glad we're able to catch up. I know there's the public interest fair today as well, so. I know a lot of your classmates are there, but. I'm glad you're here. And we'll help them catch up as well. So we're at a transition point as you know what we've been doing is working through this. In all the various ways that tort law and common law judges have come up with over time to control how a jury does or does not decide. Where the carefulness line is, where the negligence line is, what's the standard of care in that particular situation for that person, for that company, for that whoever. And we've seen that judges have felt a little uncomfortable with letting aunt and uncle just make it up all the time completely on their own, so judges have added structure. They've said you've got to think about. The child's age, capacity, experience, and then they make carve-outs like, but then if it's a motor vehicle or a speedboat, then you treat them like an adult and so there's all these kinds of controls. On Wednesday we saw one where the judges themselves are putting some structure on how they think about what it means to take reasonable care and their idea is like, well, you take the precautions that are worthwhile. If there's a precaution that's not worthwhile because the burdens of taking that precaution outweigh all the potential good that it can do, then don't do that. We don't expect you to do that as a reasonable person. So that's what we've been working through. And remember that embedded in these questions are questions of legal design, of rules and standards, of who decides, a lot about who decides. And who decides how someone else can decide in the case of jury instructions and some of the tort law doctrine here. But all of this is about saying, hey. Were you careful enough in a situation where you needed to be more careful, or you needed to be careful, you needed to take some care. Was this even a situation That involves you in a way that you should have taken more care. And that's the question we're going to move our brains towards today, which is up until now we've been basically looking at situations where obviously the person is involved, obviously they're part of the situation, obviously. Their risk creation has something to do with the injury that happened. Even little Leo, right, he's creating risk by doing that. He's obviously involved. But then there's going to be this universe of times when maybe. I wasn't involved in that Why are you looking at me saying I should have been more careful? I was nowhere near that. Well, I didn't cause a problem. I didn't, it's not my situation. I, I'm just a bystander. And that's where, that's the line in a sense we're gonna be working on today. The way this shows up in tort law, again relates to some of our themes about who decides, because what we're going to be talking about is an area of tort law where The idea of duty Comes into play. And quite often you hear this way of talking about tort law, you see in the review notes as well, it's a breach of some duty that causes harm, so it sounds like you have to have some duty first before you can breach it. Yeah, I guess technically, but as Abraham emphasizes and is my thinking too, it's not a really helpful way to think about it. Because anytime you're spinning off risk into the world, you're creating, endangering other people, you're creating the potential for an accident, yeah, you're involved, you're, you have a duty, that's not a big deal. That's most of the situations we're talking about in torts. But in some cases there's going to be the kind of situation where The judge is gonna say, no, you didn't actually have any duty in the first place. We're not even going to worry about whether you were careful or not because you didn't have to be. This wasn't your problem. You're not involved. And notice what I just said, it's the judge who's going to make that call. Whenever you see the word duty in tort law, it's kind of shorthand for judges being able to say. Nope. We let you off the hook as a category of people, as a category of something, or actually in an individual case, looking at the facts, saying there was no duty, this was never your problem, there's no way that anyone's gonna make you pay for anything here, even if you were careless, even if you didn't do the obvious thing that any reasonable person would do, you're still off the hook because this just isn't your situation. Tort law. Doesn't have anything to say about you. And remember, when judges make that call, think about how powerful that is as a way of controlling who decides and also controlling the jury. The jury doesn't get to touch it. The jury just judges says, hey, this is a no duty situation. Because it's not this person's problem. End of case, that's it. Matter of law, done. We will come back in a couple of weeks to this idea that the jury can make a very similar call letting people off the hook at the very end of a case. They've evaluated all the negligence evidence. They've decided that the person is negligent. There's some causation involved, but the jury can also through proximate cause or scope of liability. Make calls like this. And once we get there, we will talk about, well, what's the difference? Are they doing the same thing? Is this redundancy? What's the judge doing it, when's the jury doing it. Each time is gonna seem pretty arbitrary, pretty policy-based, not a whole lot of legal principle at work, but. For us, interestingly, it's gonna be, well, who, who actually makes the call and why is there this redundancy or maybe there isn't a redundancy anymore. So we will get to that, but for now we're talking about the judge doing this under the label of calling a situation a no duty situation. What we're gonna start off with is we're gonna start off with some principles that kind of have been adopted over time in tort law in part because of the famous Ma opinion that we're about to read aloud. But also in part because it just sort of, this is what how common law judges thought and they coalesce around these ideas about when you are involved enough, when you are not involved enough. But then we're also gonna see gray areas where you have to make that call and the principles don't really give you an answer and the jurisdiction, the Hawaii Supreme Court in our case, is just going to have to make the call at some point. About somebody who sits in the gray area. They're sort of evolved, they're sort of not, right, the designated driver, sort of in, sort of out, we're not really sure. You know, but somebody has to make that call. And so what we'll see is we will have some legal principles floating around that kind of have to do with the usual do you know Judy situation case by case, but then we will also have these sort of like line drawing of categories. As a common law judge, we're gonna ask you to make arguments as if you were a common law judge or arguing to a common law judge, as if you were arguing to Hawaii Supreme Court saying, here's what's good for Hawaii. Here's what the law of Hawaii should be. We looked at all these other states. This is what they're doing. This is what Hawaii should do. It could be just pure policy arguments. So we're going to practice both and notice that this is almost all about legal design. In one case it's going to look more familiar like applying a doctrine or applying some principles. The other is just going to be wide open policy arguments. So we're going to broaden our brains a little bit in that way as well. OK, so let's dive right in. Too much Let's just remind ourselves what happened in this mock or mock, I don't really know how to say it, case, it's a famous case. Remember we're always thinking, why are we reading this? This one is a famous case. It's known for a lot of these phrases and passages, and we'll highlight them as we go, but this one does kind of stand for something. This one does kind of stand for these principles we're about to pull out. It is a classic and not an interesting fact pattern necessarily, um, case, but it's got all this rhetoric that kind of has. Taken on some life in tort law. Maria Chaos.
+
+SPEAKER 2
+It's a perfect pronunciation of my last name. That's because you recorded it.
+
+SPEAKER 1
+Thank you. Please record your last names. I know most of you have at this point. Some of you haven't. Sydney Senate reminders. I really do try. I don't get it right. Please correct me, but I do listen to them to try. So, alright, thank you, Maria, for that's very nice. You just remind us what happened in this case.
+
+SPEAKER 2
+Yeah, absolutely. So, um, there's a waterworks company in Roncelier, New York, um, and they have a contract with the city of Renlier, um, to supply water during a term of years. um, and like, specifically, they are furnishing it to the city for sewer flushing, street sprinkling, schools. Public buildings, but they also are furnishing water to, uh, private takers, so folks who have homes, factories, um, yeah,
+
+SPEAKER 1
+what era are we talking about? What kind of, what time period is this?
+
+SPEAKER 2
+Uh, this is the early 1920 1920s. OK, yeah, all right.
+
+SPEAKER 1
+Here's a town. You have a water supplier. That's what we're talking about here. So far so good. But then what happens?
+
+SPEAKER 2
+So then one of the issues is that, um, while this contract is actually enforced, there was a building that caught fire, um, and then the flames spread to, um, the plaintiff's warehouse, who is a client of, um, of Ronancilier Water Company, um, and it destroyed it and its contents. Um, the issue here is that. The plaintiff had reached out in a timely manner to Renlier Water Company to alert them of this fire, um, and because it was within contract, um, for them to equip adequate and sufficient water to prevent the spread of fire.
+
+SPEAKER 1
+Yes, they're a water company. They're supposed to supply the water for fighting a fire. Of waters in the fire hydrants or whatever the thing, you know, is in 1920 that fire trucks will attach their hoses to or somehow they're supposed to provide the water when there's a fire, OK? There's a whole contractual side of this case we're not gonna worry about. Did you guys do this with Professor Steele? No. OK, we're not gonna worry about that, but there is a tort side as well. Which is to say that wait a second, wait, did they did or they didn't provide the water um, they
+
+SPEAKER 2
+did not provide additional water.
+
+SPEAKER 1
+They didn't provide the water that was needed even though they said they would, even though they are the water supplier as far as we know, are there any water suppliers where you're like, well, rinse, you know, these guys didn't do it, so let's get water from over upstate
+
+SPEAKER 2
+New York. We don't know, twenties, right.
+
+SPEAKER 1
+Let's say they're the only water supplier. There's a fire. They don't do what everybody thinks they're going to do, which is supply the water for it. Stuff burns down and of course you sue the people who didn't give you the water for fighting your fire. That's what's happening here, OK? The question is set up for us as Well, isn't there a problem? Do they even have a duty under tort law? Forget contracts, right? There's a contract, blah blah. But under tort law, let's say that somehow you can't get them on a contract claim, and now you have to rely on tort law claim. You're using a tort law and you're saying would the reasonable person, reasonable water company have provided water as they said they would. During a fire when the water was essential to fighting the fire, what's the answer to that? I mean you can argue both ways, but how would you probably answer it, um, so based on the way
+
+SPEAKER 2
+that they rule, I don't know, how would you answer
+
+SPEAKER 1
+the reasonableness of not providing the water when you said you would, and you're the only water provider and you know there's fires and there's a fire and you didn't provide it.
+
+SPEAKER 2
+I think a reasonable water company would provide the water.
+
+SPEAKER 1
+Yes, so let's just take that as a given. You can argue both ways. I'm sure there's ways to argue both ways. I hope you will be able to argue both ways using facts, thinking about what facts you need. OK. One fact you might want to have is was there enough water supply? Was there enough water supply in this situation? Yes, yeah, there was. They just didn't do it. It wasn't like there wasn't enough water pressure, OK, a useful fact. So let's say it's reasonable to have done it. They didn't do it. They're unreasonable. I mean we're done, right? We're done. But why aren't we done, Maria?
+
+SPEAKER 2
+Um, because there was, uh, the plaintiffs were claiming that this was a common law tort and a breach of a statutory duty. And so, um, the court had to rule on that
+
+SPEAKER 1
+the statutory part, common law tort part. What's the common law tort part tort part? Um, the common law tort part is that there was,
+
+SPEAKER 2
+um, They were subject to the duty of acting carefully and um well the plaintiff was claiming that they were um yes you have to act carefully like everybody has
+
+SPEAKER 1
+to act carefully all the time, right right and what does this opinion say about that uh but the opinion
+
+SPEAKER 2
+says that um The, the tort was not, uh, well, it wasn't, there was no tort to be had because they just simply did not act rather than acting.
+
+SPEAKER 1
+Yes, OK, so we're going to get to this, this idea that, well, they just didn't do anything. It's not like that they did something and then caused an accident, they just didn't do anything. You might think this has to do something with acts versus omission, something like that. But we're about to get make that super blurry and actually we're gonna get entirely away from the idea that this is about act versus omission. Right, because, well, you can just tell us already. Any tort that we've talked about so far, any negligent behavior, is that an act or an omission? Or both typically the way we've been talking about it
+
+SPEAKER 2
+is an act or, oh wait, no, it could be both, right? Yeah.
+
+SPEAKER 1
+What do we argue about when we talk about you were negligent you didn't what you didn't properly put a
+
+SPEAKER 2
+fence up when you should have untaken precautions.
+
+SPEAKER 1
+Right? Immediately. In like a handful of days of tort law, you already know that this is not going to be about act versus omission. However much that may matter in criminal law or other subjects, that's not what's happening here. Because we know every tort we've seen is a failure to take some precaution. You did something, but you also neglected to do something else. It's both act and omission. You can always flip that around. You can say you acted without the thing, that's the act, right? Or you omitted to act with the thing. You can, I mean, it's such a fluid boundary line anyway. But here we're about to get away from that within this area of tort law doctrine. So I think the way that it's going to be useful for us to get to these principles. Where did this judge, who's this judge here, Maria? Uh, I think it was Posner.
+
+SPEAKER 3
+Nope. Oh, it's the other, uh, Cardozo, Cardozo.
+
+SPEAKER 1
+You know, Cardozo, right? Quite influential, and he writes in this kind of elliptical weird way. He also doesn't order his sentences in a way that we would more linearly. So I've reordered the passages, the key passages that we'll work with. And this is the ordering. You'll have this, of course, in this handout when you download it. So Rohan Kumar, will you read for us from this? Can you, can you see it enough? Yeah, yeah, let's just read aloud and let's see what we're learning from it.
+
+SPEAKER 4
+A time-honored formula often phrases the distinction as one between misfeasance and nonfeasance. Incomplete the formula is, and so at times misleading. OK, let's pause there for a second.
+
+SPEAKER 1
+What's he telling us so far?
+
+SPEAKER 4
+Uh The, it's like a fluid boundary between not doing something and doing something wrong.
+
+SPEAKER 1
+Yeah, sure, right, good, keep going.
+
+SPEAKER 4
+Given a relation involving in its existence a duty of care irrespective of a contract, a tort may result as well as, as well from the from acts of omission as of commission in the fulfillment of the duty thus recognized by law. OK, right, either one will work for torts.
+
+SPEAKER 1
+That's not the distinction we're interested in. He's not the droid you're looking for. OK, next.
+
+SPEAKER 4
+If conduct has gone forward to such a stage that inaction would commonly result not negatively, merely in withholding a benefit, but positively or actively in working an injury, there exists a relation out of which arises a duty to go forward.
+
+SPEAKER 1
+OK, what kind of distinctions that he's drawing instead? Rather than act a mission, he's like, no, no, no, here's the distinction we're going to be interested in, in deciding whether you're even eligible to be held negligent.
+
+SPEAKER 4
+Uh, are you asking me? Yes, OK, uh, uh, is it, are you actively like making a problem for somebody, or are you just preventing something good from going to somebody?
+
+SPEAKER 1
+Yeah. Right? Withholding a benefit versus working an injury, great. Keep going. He's going to give you more rhetorical phrases to use. These are useful because there are these images that sort of lodged in common law judges' minds after he said it. So what else?
+
+SPEAKER 4
+The query always is whether the putative wrongdoer has advanced to such a point as to have launched a force or instrument of harm or has stopped where an action is at most a refusal to become an instrument for good.
+
+SPEAKER 1
+OK. You wanna spin that a little bit like what, what more do we learn after we have a little bit of this. More rhetoric coming from Cardozo.
+
+SPEAKER 4
+It's kind of similar, I think, right? Is it that you're, you have to go kind of past the like threshold of, oh, I wasn't being a good person or doing good, you have to get to the threshold of, OK, I'm doing something bad.
+
+SPEAKER 1
+OK, there's some kind of threshold, right, involved, there's some degree of action that maybe you pre-took. To get to that point where like, OK, now, now I may be on the hook because I'm involved in creating something. Creating a situation, creating some risk, maybe, OK, you're launching that instrumental harm, maybe you're not applying the instrumental harm, but you kind of launched it. You're a precursor in some sense, right? As opposed to what?
+
+SPEAKER 4
+Uh, as opposed to. Uh, not like just not letting, not doing good when there's a situation where you could help, yes, instead of
+
+SPEAKER 1
+you see the situation that's happening and you refuse to help out. So really in a way what we're setting up here is a distinction between are you harming someone in some active sense or are you. Not helping them Harming versus not helping. That's one of the things we'll be trying to work with, OK? And also think of this as really getting at the core question we're interested in, which is, are you involved enough in this situation? This is your problem? Enough that tort law is going to step in if you do something negligent. If it's not your problem, if it's not your situation. You don't have to worry about it. And keep reading. I'm gonna take these paragraphs a little bit separately because I think now we're starting to talk about a version of this or something maybe just different.
+
+SPEAKER 4
+It is ancient learning that one who assumes to act even though gratuitously may thereby become subject to the duty of acting carefully if he acts at all. Uh, uh, what does that mean? If you decide to jump in, you have to be careful.
+
+SPEAKER 1
+Yes. This is not your situation. This is not your problem. You're not involved. oh, but if you get yourself involved in what?
+
+SPEAKER 4
+You got to be careful. You got to do good. You have to do it carefully.
+
+SPEAKER 1
+Like, in tort law, we tend to understand this as this idea that if you do try to help out, Now you have a duty to do that non-negligently, to do it carefully. Don't make it worse, right? And don't do it badly. Don't do a bad rescue. Don't do a bad warning. Don't do a bad help of some kind. And we're gonna be thinking about wait a second, what kind of weird incentives does that create, right? Where like tort law is not even gonna touch you if you don't bother to help, but then if you bother to help somehow you might be liable. How is that OK? But that's what's being set up here. And then the last bit.
+
+SPEAKER 4
+So the surgeon who operates without pay is liable, though his negligence is in the omission to sterilize his instruments. OK, right?
+
+SPEAKER 1
+Here we're talking about a surgeon who's helping someone, right, without pay, right? That's kind of key here, gratuitous. You're helping someone without pay and just to get away from contracts in a way of malpractice, but you're helping someone, you're liable in negligence if you would. You're helping, but you mess it up. You mess it up. Don't mess it up. Don't mess it up, OK? Another phrase you'll find in mosh sometimes is this idea of the hand set to the task. If you set your hand to the task, then you better do it right. But tort law's not interested. If you, what, what are the conditions for tort law letting you off the hook entirely?
+
+SPEAKER 4
+You do nothing.
+
+SPEAKER 1
+You do nothing and what?
+
+SPEAKER 4
+Or if you do get involved, you do it well,
+
+SPEAKER 1
+OK, but prior to you doing nothing, what else?
+
+SPEAKER 4
+Uh, I mean, a trolley company didn't do anything in
+
+SPEAKER 1
+the sense they didn't put up any insulation.
+
+SPEAKER 4
+You're not like creating the conditions.
+
+SPEAKER 1
+You're not creating the risk, exactly, not creating the risk. We're gonna focus on this idea of creating the risk, OK. So one way to think about this, you don't have to think about it this way, but if it helps you to think in this kind of picture-based way, let's imagine that this box is sort of all these negligent behaviors. On the one side, on the red side, this is just good old negligence, the way we've been talking about it. You created the risk, it is your problem, you don't have to think about this at all. Little Leo created the risk. The trolley company created the risk. They set up the situation as Rohan is telling us. Created the risk in the first place, OK. That's why you're in the red. If you created a risk in the first place and you're acting negligently, OK, now tort law might get involved, the law of negligence specifically might get involved. And by the same token, we can say that if you didn't create the risk. Now already in your brain I'm sure you're already blurring this, you're like any distinction you ever hear about in law school, there's a way to blur it. There's gonna be gray areas, there's gonna be edge cases, there's gonna be toss-ups. Absolutely we're gonna work with that in a second, but roughly speaking, if you created the risk and you're negligent, now you're potentially liable for negligence. If you didn't create the risk. And didn't get involved. Even if you're acting completely carelessly, tort law doesn't care. You're off the hook, green meaning no liability, and here no liability because. There's no duty. A judge is going to decide you're just not involved enough. That's different from the jury saying that you weren't careful enough because we're assuming that all of this is careless behavior. OK. Oh, except for what? Just one more, Rohan. What, what's in the white, what's in the white circle here?
+
+SPEAKER 4
+Affirmative duty.
+
+SPEAKER 1
+Affirmative duty. Explain that and what I know it says that, but what explain it and tell us why, why is there going to be this little incursion of potential liability even in a universe where you didn't create the risk in the first place. You were just telling us by reading the match what's happening here.
+
+SPEAKER 4
+Uh, in some situations, there is a situation where even though you didn't create the risk, you need to act or you would still be negligent.
+
+SPEAKER 1
+OK, let's, let's rephrase that. You need to act or what's happening? What's happening when you're, when you're taking on an affirmative beauty?
+
+SPEAKER 4
+Uh, I mean, that's partly true, but only, that's only
+
+SPEAKER 1
+part of this red. Blob here.
+
+SPEAKER 4
+You, a reasonable person would act.
+
+SPEAKER 1
+A reasonable person would act. No, tort law is gonna say even in a situation where a reasonable person would try to help, if you didn't try to help, you're in the green. So what's the, what's the red area? Think about the surgeon you just told us about.
+
+SPEAKER 4
+Is it the if you do act, you have to act carefully? Yes, OK.
+
+SPEAKER 1
+Part of it is if you do get yourself involved, you're trying to rescue, you're trying to warn, you're trying to help, you need to act non-negligently because if you act negligently, even though you didn't create the risk in the first place, you're still potentially liable. Under the idea of an affirmative duty. There is going to be another category within that little blob that is more of what Rohan just told us about. A second ago, which is Even in some situations like where you didn't really get involved, tort law is gonna say you got involved because you are, you have a special relationship with the person, you're the parent or you're the caregiver, you're, you are already involved, OK, like you already took it on yourself in a way. So that's gonna be a category where maybe it's gonna sound more like what you said first, right? So let me just spell this out. Affirmative duty, there's gonna be the idea of the undertaking. Like the surgeon, you undertake to help. And once you do now, you potentially are on the hook for anything negligent that you do there. And then there's going to be the idea of a special relationship, which we'll work with later, of course, as you know from your readings, saying that. You know what, You are in relation to the person who was injured in a way where you actually really should have stepped in. You're the parent, you're the caregiver, you're the physician, you're the whatever. OK. All right, so we will get into that, um, but let me just finally write up a few of these much famous phrases. Because they will be handy As mental guides for all of us. They're the same things as I highlighted on the prior page here. So I'm just pulling them out for our diagram. And while I'm doing this, Rohan, you wanna tell us a little bit about. What makes sense or doesn't make sense potentially about drawing the line this way, saying that, you know what, tort law is just not gonna be interested in you at all. If you didn't get involved somehow, if you didn't try to help, or then when you try to help, then, then now you're potentially on the hook. Is there some sense to this? It may be jarring as we think about it. But maybe is there some sense to it.
+
+SPEAKER 4
+Yeah, I mean, maybe you don't want the, the law and like maybe the, the state or the coercive power of the state to penalize someone who's just kind of standing there, right? Like if, if you're cold calling me and someone doesn't volunteer to help, I don't know if like we should get the government involved.
+
+SPEAKER 1
+OK, who should help? Yeah, like all these people potentially who could help. Are all of them suddenly liable for not helping, or only the people immediately around you, or what, right? How do you draw those lines potentially, right? This is fundamentally a legal design question. It's a line drawing exercise. You've seen it all, all you see it all day long in law school. This is another long line drawing exercise. You can move the line. You can think about it a different way. We will debate the line when we get to Sa Pacino again, again later, but. The usual kinds of arguments, oh, overinclusive, is it manageable, is it workable? Is it, can you find the evidence? Is it just guesswork? Is it right all these things start to come into play. Could someone really have helped? I don't know, like maybe there's something about. It's just too hard for the law or the courts to like deal with that. Any counterarguments?
+
+SPEAKER 4
+Uh, I mean, this isn't like exactly a counterargument to what I just said, but I think the idea of you can impose if you undertake uh, to, to actually help and you can be held responsible, then if you'd make a mistake, I do think like we said, there is like an odd incentive there of maybe I just think about the risk or I internalize the risk and I just don't want to help in a situation where I actively could because I'm afraid of being sued.
+
+SPEAKER 1
+OK. Maybe you want, you want to encourage people to help, right? Remember that side of things? Think about corrective justice, again, you can always lean back on what the supposed aims of tort law. Is it a wrong in some way to not help in a situation where you really should have helped, it's really easy to help? Aren't you kind of wronging someone in that way? You might think of this as an issue of baselines. This is a new theme I just put up for today, the idea of baselines. What does it mean to help versus hurt? It depends on what the baseline is, right? Depends on the baseline if they're safe or they're not safe. If you assume the baseline is that they're safe, any time you don't help you're hurting them. If you assume the safe the baseline is just whatever situation they're in and in danger and you don't help, well I guess you just leave them where they are. Right? It depends on how, where you put the baseline, of course. If you haven't worked with baselines before, we'll do some of that in this class, but I'm sure you'll come across it in other classes.
+
+SPEAKER 0
+OK.
+
+SPEAKER 1
+All right, without dwelling too much on these abstractions, let's get right into some. Hypos which maybe will help us sort this out a tiny bit, OK. So Maria, back to you. All right. Now we're talking about these flower pot hypos from the Posner opinion. This is the Posner opinion you had in mind, OK. Remember he has his flower pot hypos. Here's a flower pot. OK, it's gorgeous. Thank you. It's. Completely fake from HomeGoods. And it's about to get destroyed. OK, so let's say, let's let's walk through some, some, some scenarios. This is your your house. This is your house. You have a window ledge looks like this. Here's what's gonna happen. The accident is gonna be that it blows off the window ledge or falls off the window ledge and hits somebody below, OK? So that's always gonna be the conclusion. You decide These gorgeous flowers, everyone should see them. They should get some sun. And you place them on the window ledge like this. Right? It's kind of nice. It's a little bit shaky, but you like the effects, you know, it's kind of like the shimmering effect. It's nice. It's really nice. It's like they're alive, right, and not plastic, OK. And sure enough, a gust of wind comes along and boom. What does tort law have to say about this situation using the principles we've been talking about just now?
+
+SPEAKER 2
+Um, if there were an onlooker, um, next to this person who could potentially get hit and they see the flower pot falling, no, no, we're talking about you, your
+
+SPEAKER 1
+liability. OK, you put the flower pot there. OK, no other bystanders or anything. You're liable. You put it there, it's starting to fall. You kind of see it. You don't yell out or anything, you know, so just and hit somebody. What does tort law have to say about your potential liability here? Duty, no duty, um, I believe it says that.
+
+SPEAKER 2
+I have a duty because I'm the owner of that and I should ensure its safety.
+
+SPEAKER 1
+It's the owner, is it ownership or what? What is it about what you did or didn't do?
+
+SPEAKER 2
+I was negligent.
+
+SPEAKER 1
+You're definitely negligent. OK, let's say you're definitely negligent. Let's say this is negligent. We'll, we'll just assume that for now, OK? And, but we're talking about duty. So aside from negligence, do you have a duty? And under negligence law.
+
+SPEAKER 2
+I think, I think that you do have a duty to Ensure safe premises.
+
+SPEAKER 1
+Forget the premises liability stuff. We're not gonna talk about that in our class. Based on this, what we were just talking about.
+
+SPEAKER 2
+Oh, I did not. Well, I would say I did create the risk, right?
+
+SPEAKER 1
+You did create the risk. So where are you? You're in the green or the red?
+
+SPEAKER 2
+I'm in the red.
+
+SPEAKER 1
+You're in the red, of course. All right, you're, you created the risk in the first place because you put it here. All right. That's just our setup. All right, so let's say that, OK, instead you put it here and it looks really kind of safe, you're like, oh that's good. Alright? And days go by, it's fine, months go by, it's fine. One day some big gust of wind comes along and down it goes and hits somebody on the head. What about that situation?
+
+SPEAKER 2
+I think you could argue that I did not create the risk in that situation. There was just like, yeah, how would you argue that there was a separate circumstance that I was not responsible for it that why aren't you responsible for it?
+
+SPEAKER 1
+Who would make you responsible for it? So here we're asking what more facts we want. This is a little bit tricky one. What more facts would we want to know, to say that this is your problem or this is not your problem.
+
+SPEAKER 2
+I think a good example of it potentially being my problem is if I were maybe like doing a workout on the balcony and then I hit it off.
+
+SPEAKER 1
+OK, sure, so if you did something separate, but let's say all you did is you just put it there. It's been months, it's fine, nothing's happening. Someday, someday a wind gust blows it over. What would make that yes, Judy or not duty? And then we can talk about negligence here too. Kind of in to get together.
+
+SPEAKER 2
+I'm sorry, what was that?
+
+SPEAKER 1
+Go ahead, just describe the beauty part, um.
+
+SPEAKER 2
+OK, so. I think we agreed before that I created the risk by putting it like very close to the edge. Um, I think that I probably didn't create the risk if it's in a safer spot.
+
+SPEAKER 1
+It's in a safer spot. Maybe you thought, right, maybe a reasonable version of you would have thought I foreseeably am not creating any kind of risk. You can make that argument. You can also make the foreseeability argument or just the I put it in the safe spot argument under breach under negligence like aunt and uncle look where I put it that's totally fine, OK. Actually, there can be overlap in the kind of arguments that you might make under this whole idea of I'm completely off the hook or I did something safely versus not safely. Here, let's work on this. What's, what's different if You put it here as the months go by. They gradually kind of like slides just over time. Over time just slides and slides and you're there every day you're watching it slide and you're like OK that's interesting and then eventually it's like this far out and eventually this far out. And then one day, And you didn't do anything. Where, where Um, I think you could.
+
+SPEAKER 2
+Say that like I was, I was just a reasonable person. I just had my flower pot on the ledge. It moved over time through vibrations probably and I didn't, I didn't create that risk.
+
+SPEAKER 1
+You didn't create that risk in a way. You didn't create that risk because you created this risk, which is a whole lot less foreseeable risk than this risk, and yet you wanna argue the other way, yeah,
+
+SPEAKER 2
+um. The other way is that you could say a reasonable person should know that. Your inanimate object could move over time slightly, and that creates a risk in and of itself because now you're
+
+SPEAKER 1
+talking about the moment you put it down, you should have anticipated it might slide, things might move and so on. OK, but also what else you were watching it for months.
+
+SPEAKER 2
+Yeah, I'd seen it and I could have moved it back or I could have put it in a safer spot.
+
+SPEAKER 1
+You could have moved it back, but then that sounds like what? You didn't, I didn't.
+
+SPEAKER 2
+Something about duty of care.
+
+SPEAKER 1
+You have a duty of care. You don't have a duty of care to move it back, to move it back.
+
+SPEAKER 2
+I, I do have a duty of care. Because I mean it could really hurt someone if it fell and I've been watching it, yeah, but the tort
+
+SPEAKER 1
+laws then, I mean you didn't create that risk of it being here, but you created the risk of it being here.
+
+SPEAKER 2
+Yes, and I think you could also argue I acknowledged though that the pot was moving, and frame I was
+
+SPEAKER 1
+aware you were aware you're kind of responsible for where it is all the time in some sense by sort of watching it and not doing something every day and you're. House you are actually putting it in that place you have to make some kind, you see how like this basic idea now you kind of have to stretch to make it work for a totally obvious situation of course you created the risk you might say, well of course tort law should hold you liable for not having fixed it and yet it sounds kind of like I don't know, maybe you didn't. Fix it and nobody needs to fix it because that's in the green. OK, so remember these doctrines, there's gonna be edgy edge cases, stretchy bits where you may have to come up with some. Different kind of framing to make it work. Or maybe it just doesn't work and Tortloff kind of fails in that situation. Let's turn to a slightly different set of, uh, hypos, uh, Alexander Choi. Let's say that you're now at a neighbor's house. OK. You go there, you're at a party and you're, you know, everybody's having a nice time and then you notice this flower pot, it's really nice, but it's sitting on the edge like this, it's kind of shaking and you're like, oh, that's not good. That's terrible. That's a terrible idea. Terrible idea. It would take you absolutely zero effort to be like, ah. But you don't. Right? You know this is like a little bit like bad Maria just watching this thing like it's over there and she doesn't do anything. You don't do anything. You're like, alright, well that's, that's gonna kill somebody, but I don't. Not touching it. Where are you on the tort law diagram? I think you would still be in, uh, no duty. No duty. Why? Because it's not my flower pot, it's not like my responsibility. It's not your flower pot. Let's get away from the ownership thing. Nothing we've done so far. Tyler turns on ownership, and I didn't place it there. You didn't put it there. You didn't create the risk. Who knows who did, maybe the neighbor, maybe it slid or whoever, but you didn't create that risk. You are You're not creating a risk, you're just not removing the risk. You're not helping, you might say. That seems pretty clear. Is what you did reasonable though, to be just like, I'm out of here. Is that a reason, how's that, how do you think where that go, where, where does that go on the reasonable person standard to go back to breach. If you had a duty, would you have breached it? If I had a duty, I think I would have breached it. I think it's not reasonable, right? I mean, you can argue both ways, but probably this one is easily aunt and uncle are gonna say a reasonable person would have moved it back. BPL analysis, it costs you nothing to move it back, right? OK. But you're not liable under tort law even though it was totally negligent because why again. Uh, because I didn't place it there, yeah, so the judge is gonna say that's not, that's a no duty situation. Let's say that um It's sitting here, you're a neighbor's house, you're like, oh, it's terrible. OK, thank goodness. Perfectly safe place. Somehow months later. Gusts of wind, freakish gust of wind comes along, blows it off of there. Where are you on the. Duty, no duty chart. Um Maybe you'd be in the affirmative duty. Maybe, right? Why aren't you in the green? Oh right, well, yeah, why aren't you in the green anymore? Um, because you took an action like you placed it something, yeah, you might think of it as like you undertook to help, so maybe you're in a little red bubble. How else might you think of it though? The minute you moved it, what's happening? Uh. What, what do you mean by what's happening? Are you creating some risk? Are you creating a situation where something might happen someday? Oh Yeah, yeah, you might be on this just in the big red block. It's not a lot of risk. Like an under a negligence analysis you might have a duty because you put it here but it's not negligent that's a perfectly good place to put it. It was some freak accident, right, unforeseeable something something, right? So think again about, is there some connection between the little red bubble and the big bubble, and once you're starting to do stuff, what does it, do we really need the little red bubble? What's happening? OK. It's like the surgeon, the surgeon cuts into you. The surgeon is helping, and therefore in the red bubble, but also the surgeon is just like literally cutting into you, right? Isn't that just doing something from scratch, creating a risk from scratch, OK? So again, thinking about Where these categories blur across each other. Let's think about this one. It's like this, you see it? Like a bad idea. You're like, I gotta fix this. Uh OK. What do we do with that? We put it exactly the same place. You do not move it an inch. You do not create a new risk in some sense, although maybe, I don't know what. Is it better? Is it worse? No, neither. What do we do? I think you would Be in the red part in the red part, why? Because which part, which red part first of all, the big one, right? The, yeah, the big one, Because you, again, you took the action and you placed it in a spot where a reasonable person would think that's pretty dangerous. OK, yeah, I mean you just put like it was here and now it's not there and now you put it there, right? It's just a whole new action. You're creating a whole new risky situation even though it happens to look like the previous one. That's one way to look at it, OK. Is there a way you could characterize this as an undertaking? Yeah, sure, you're trying to help, but then what? But then you didn't use the proper duty or like.
+
+SPEAKER 4
+Yeah, do do. Other words, no, you, you didn't use the proper care.
+
+SPEAKER 1
+Yes, you did a bad undertaking. You were trying to help, but then you did it badly. Sure, you could characterize it that way. And notice what's happening like the amount of risk that's being changed that's not really. In play here as the determining factor, it's the same place and yet somehow now. Under both theories, you could. Say that you're on the hook because like you did touch the thing after all. OK. Let's um let's do just a couple more alright so let's say that. Your superpower is like catching objects. OK, I don't know, you're a football player or something, you're really good at just you're like, you can catch it with a finger, right? It starts to fall and you're like, I got this. This is what you do all day. You're good at this. You're like, I can catch it with one finger. How would you characterize that? Um, I think you'd still be in the big red, in the big red, yeah, OK, why, as opposed to what? What would be the natural place for it? I know you're starting from something and moving to something else, but what would be the natural place to put that? The natural place, yeah, what does the scenario look like? The affirmative. Yeah, sure, you undertook to help. You did it badly. It's a terrible way to try to help. OK, great, but you're saying it could also be in the big red because, because you're taking the action and. Um, You're not using like the proper care. Like a reasonable person would use all five fingers, yeah, but then you're still talking about the action you're taking as an undertaking, right? Yeah. But you're saying it's not something like this. You're saying it's not that far from it's falling, it's falling, you reach out. Catch it, you're like, yes. Right, I mean that's what you're describing. It's like, are we getting close to that scenario where you're creating a whole new dangerous situation? Yeah, right. Again, blurry line on when, once you put your hands on it, like you set your hand to the task as Cardoza says, how does that count? One more, last one. So, It's starting to fall OK. I'm not gonna show it falling. It's starting to fall. You reach out with both hands. You're really good at this. You're about to get it. If you get it, it's safe. But then you see a birdie and you're like. Pretty. And then it just continues to fall. It continues to fall because there was a birdie. I'll try to draw a birdie, OK? It's Oh, birdie, OK. How does the birdie affect your story, Alexander? Um. Your hands reach out and You didn't touch it. You didn't touch it. You didn't touch it. Didn't touch it. Would that I think that would still fall under. Affirmative duty of care because it's a bad undertaking, right, kind of like trying to catch it with one finger, catching it with no fingers, right? OK, sure, but then also I think an argument could be made that. You. Not neg like in the green portion, why? Because You didn't actually like take any action like you didn't complete anything yeah you didn't. What's the difference between that and you just see a birdie and you're like, right, what's the difference between. And Right, that would be the argument. What more facts would you wanna know? For all these scenarios, you can ask what more facts would actually clarify what kind of situation this is? Which line does it, which side of the line does it fall on? How do we want to call this particular edge case? What kind of facts might you wanna know? Difference between. And Um, is there a person below that will, like you see, that will get hurt if you don't? OK, sure. How would that play in? Um, I think if there was, if you knew there was a person below and you still did, like, you clapped at the bird or whatever, um, That might push it into like an instrument like you're actually like. Doing harm to another person. Why though? I didn't get the instinct. What are you doing? That's not how it's gonna work in tort law, but why do you have this instinct? What's happening in your brain? You're losing the baseline Right, you're, you're saying look, if you know there's a person who's about to get hit, the baseline now should be that person is safe, and anything you do that doesn't achieve that is you're harming them. You've moved the baseline in your brain. It's really intuitive to do that. It's very, very, very strong intuition, and we certainly say that with doctors. Doctors, once they undertake to help you, like they better do it right and so on. So there are ways to shift baselines. But here you're saying just a knowledge of what it, what it might actually move the baseline in this sense of like saying, well now you are involved and so you better do it right. What actually might move the baseline? You're getting there with this fact. What we really kind of asking about here. Not just that you know there's a person down there, but what? You wanted to make a difference between when Alexander does this different from when Alexander does this. When he first makes a motion to rescue the thing, as opposed to he doesn't. I'm not sure what you're looking for. No, but your fact is, is fact is useful for this, right? I guess like, is there a special relationship between you and the person? No, no, no, no, don't worry about that. It's about whether you're helping You're characterizing the act as an act of helping or an act of like completely irrelevant hand waving. And once you're able to characterize the act as an undertaking, now maybe you're in the red, right? That's what you're trying to do. That's where your fat comes in. Your fat comes in, you're like, you saw the person, you know someone might get hurt at that point, maybe what you're doing should be characterized as trying to help. In the mind of whoever's making this call in this case the judge, yeah. OK, great. So those are our flower pot hypos. We will Come back to more gray area exercises in a second, but What we're going to do now is get a little bit away from. Just the principles based argumentation that we've been playing with here, idea of are you helping, are you not helping, are you involved, are you not involved. And move towards a whole separate category of argumentation, policy arguments, pure policy arguments that do often come into play in deciding some of these gray area cases. OK, in deciding some of these edge cases, we were just blurring the boundary. There's maybe no boundary at all, but once you're in that gray area, how are you gonna make the call? How are you gonna convince the judge? Well, you can appeal to these sort of fundamental-ish principles that have been kicking around tort law since Cardozo or maybe before, but you can also appeal to the Hawaii Supreme Court saying this is the right law for Hawaii. OK So let's do that. Let's turn to the Sabatino case. Remember we've read this before, but now we are reading it for something else. And that's at least set up the case. David Jamileski.
+
+SPEAKER 5
+Yes, I'm sorry, I'm just trying to find it in my textbook quickly.
+
+SPEAKER 1
+Yeah, Sabatino's, uh, earlier in the casebook in the porch packet, yep, just found it.
+
+SPEAKER 5
+Thank you.
+
+SPEAKER 1
+Great. And what we're interested in with Sabatino is now not the Hawaii statute or whatever, but now we're interested in the designated driver, of course. So just remind us what happened with the designated driver. In the situation Um.
+
+SPEAKER 5
+I guess the, the sort of idea is that. There is a question as to whether someone should have like intervened in this situation when the person is drunken too much and there so I guess there's a question around whether the designated driver is like negligent because of the crash, yes, right.
+
+SPEAKER 1
+Remember how this was set up. They all go on this booze cruise together. It's all you can drink. For one ticket policy on the boat that violates the Hawaii statute we've already talked about that, but the consequence is that. This driver gets drunk. She's going to her car. Do you remember some of the details? Let's read the, let's read some of the details if you have them in front of you. They're on page 10 of the opinion. It's useful to have these facts in our head. Do you have page 10 of the uh like the,
+
+SPEAKER 5
+the original facts of the case or specifically the designated driver language? Sorry, do you want me to read specifically from like the designated driver duty part or from the facts of the case?
+
+SPEAKER 1
+I, I'm sorry, I didn't hear you.
+
+SPEAKER 5
+Uh, like what, which part was it that you want
+
+SPEAKER 1
+me to? Yeah, so if you look at page 10 of the opinion and you see that last paragraph starting defendants 33,090, you see that? Start reading the last sentence of that. Defendants 3090 and Maui Dive Shop allege that defendants 390
+
+SPEAKER 5
+Inc. and Maui Dive Shop allege that Dennis was concerned about Sabatino's well-being at the end of the cruise, and he asked Welch if she would be all right. Defendants 390 Inc. and Maui Dive Shop allege that Welch asserted Dennis assured Dennis by telling him, Don't worry, we'll take care of her. Walch alleges that Captain Dennis specifically admitted that the issue of providing transportation for Sabatino or whether Doctor Welch said she would be her designated driver never came up. Welch never stated to anyone that he would be her designated driver. No other passenger heard Welch state that he would be Sabatino's designated driver. Welch alleges that after the passengers disembarked, they were standing in a group. About 20 or 30 ft from the dock, Welch testified that his wife hugged Sabatino goodbye and Sabatino walked off to her own vehicle. Welch also testified that his wife went to hug Sabatino after she was in her own car.
+
+SPEAKER 1
+OK, you can stop there. All right, so those are the facts we have. As far as we know, there's some kind of interaction where this guy says, I kind of will, but then doesn't. So let's just start off with that, OK, before we get into the policy arguments, the policy arguments, of course, are gonna turn on the particular case where the policy is being made, but we have the facts. Let's just talk about what is this behavior here? Is it if we had to sort of plug it into again our whole framework, this is what we've been doing with the flower pot. Do the same here. How would you characterize what it is that this guy did or didn't do? Where are we? What are arguments one way and the other on how to characterize what he did? Yeah, um, I suppose it depends on how much you
+
+SPEAKER 5
+think this is in action, uh, which I guess it's somewhat sort of in, uh, question. Yeah, like this, this question about whether or not he said he would be her designated driver, but I guess if you think that there is that implication, um, then that might create some sort of duty, uh, on his make that case.
+
+SPEAKER 1
+There is a duty, Judge. There is a duty here, obviously, because under traditional common law tort law principles we're gonna get to the whole debate about designated drivers later, but let's assume we're using this under traditional tort law principles, Judge. Yeah, under traditional tort law principles, judge, when you sort
+
+SPEAKER 5
+of undertake to help someone in some way, then that does create the possible risk that like it creates a duty of care.
+
+SPEAKER 1
+OK. And what are the facts that suggest that he undertook,
+
+SPEAKER 5
+um, because he basically said that he would be her designated driver.
+
+SPEAKER 1
+Yeah, what did he exactly did he say? Let me remember that.
+
+SPEAKER 5
+Uh, well, he said, don't worry, we'll take care of her, which sort of, I, I guess you have imposed your own duty of care thereby using the word.
+
+SPEAKER 1
+Yeah, notice what's happening here, just the fact that happens to line up with some of the imagined rationale for the strange kind of if you help now, now you might be in trouble thing. Right, which is traditionally, we're not really sure how to justify the way tort law historically has structured stuff, but one way to think about it is if you are starting to help, other people might not. You might have been, you, you effectively waving other people away saying I got this, right? Alexander's got the superpower. He's got this. I don't need to save the flower pot like he's got it. Other people here in this situation, they hear him say, Don't worry, we got this. Might not then help. They might not call the taxi. They might not whatever. So that's one possible rationale for this kind of harsh looking kind of, you know, if you get involved then now you're on the hook, so just, just don't get involved thing. Maybe, maybe that's what's happening, but this is a fact that kind of plays into the historical thinking here, OK. You wanna argue the other way? How do you argue that no, no, no, no, he didn't take on anything. Or if he did, he did it reasonably, yeah, I
+
+SPEAKER 5
+guess you could sort of rely on this fact of, uh, he never stated to anyone that he would be her designated driver, so I guess it depends on like how much you sort of Um, read into the significance of using that phrase designated driver specifically. Like, I guess if you say don't worry, we'll take care of her, it could be read in a lot of ways. It could be read as like, we'll give her food so that she, like, uh, I don't know, I don't drink, so I don't know how these things work, but like I think it helps absorb the alcohol or something, um, so if you gave her food, but in any case, um, you know, there's, there's different ways that phrase could be read other than being a designated driver.
+
+SPEAKER 1
+All he literally said was we'll take care of her. That could be like when she vomits we'll catch the vomit in the bag, that right, or that when you know we'll sit with her if she wants to like sober up for like 5 hours, we'll just sit there, we'll sit with her. We'll hang out with her while she, while she just sort of, you know, gets back into it could be, what do you mean? Like it could be anything. Did the words designated driver come out of his mouth? No, OK, so right. Even then, how would you make a counterargument like saying. Yeah, OK, you didn't say designated driver, but, well, I,
+
+SPEAKER 5
+I guess if, if you've said that you will take care of someone and then something quite bad happens to them, it seems you've in some way failed to live up to that promise.
+
+SPEAKER 1
+Yes, you still kind of undertook something. Maybe it's not designated driving, but you undertook something. Under toll law principle and you have to characterize what that is caring for them like we are, we got this, you know, you don't worry about this. We got, there's still an argument to be made that setting aside the whole designated driver business which maybe is factually disputed, maybe they undertook something else and then you're potentially now on the hook. OK, that's what we're talking about in a sense, really the intuition here is gonna be, did they get involved or not. And if you just make common sense arguments even to the judge saying they did get involved, they, they, they're totally involved. What do you mean they're not part of this? What do you mean it's not their problem? They made it their problem. That's the underlying intuition, if we were to use common law principles. Our debate then is going to be about. Whether Hawaii should specifically take on in its tort law the recognition of a further separate kind of duty. And we'll do this after break, but here it is on the board. You're gonna be arguing for and against duty to the victim. This one here Based on the opinion, we know where the Hawaii tort law is on some preliminary stuff that leads up potentially to this kind of duty to be recognized or not. We know what it says about bartenders we know what it says about social hosts who are not a bar or a restaurant like you're at some friend's house. We know what it says about that. We know what it says about duties to the. Driver and potentially to victims in those situations, but we don't know about is that the designated driver, does the designated driver have a duty to her, the driver herself, and then what about her victims when she's drunk driving and kills someone? What we'll be interested in is this latter question, the one I've circled and read. So let's take a break. When we come back, we'll work on this.
+
+SPEAKER 0
+The Essentially the same exact thing.
+
+SPEAKER 6
+As the start of of. When Wanda, when Wanda uses her superpower to control like.
+
+SPEAKER 0
+She undertook affirmative duty, but then she messed up my memory. I still remember it. Yeah, the whole idea is that Wanda set it up and exploded in the building and killed a lot of bystanders, and then there was an international incident where they
+
+SPEAKER 6
+wanted to regulate people with powers and civil war started with the Avengers.
+
+SPEAKER 0
+What is being a superhero I think that one was Captain America. Oh, the 2 is Winter Soldier, yeah, yeah, yeah, that's, yeah, it's, yeah. No one is the one is original Captain America before
+
+SPEAKER 6
+the plane went up.
+
+SPEAKER 0
+Yeah, yeah, no, the first one is when they love. I mean they, they kind of all are the same. the, the red, the red, red red. The new one that read a book. Oh. The back, I mean they're also similar. really That's a, that's a good example though, yeah, yeah, yeah, another good advantage.
+
+SPEAKER 6
+Uh, is, uh, you know how like back at home people would like to ask you, uh, like, it's like like to ask you if, if I and your mom going to the water who would you save?
+
+SPEAKER 0
+And as a lawyer I would answer my mom because. I I have no sexual You don't? They'll do the the girl, yeah, you don't, and they went to your girlfriend. I already told it to her. Yes, all Valentine's Day as well. But babe, I'm going to tell you something. make that clear. I But I, but I will call for help, you know. I mean, yeah, but like, you know, like what is that? That's, that's, Exactly, exactly. Yeah if I was aware of and then you say yes no, I say no. I have no special yeah am I right?
+
+SPEAKER 6
+Am I, am I married to you before you turn into or Oh, but then she could argue that if
+
+SPEAKER 0
+she turned it into a form and therefore by maintaining relationship of boyfriend. I have voluntarily placed myself.
+
+SPEAKER 6
+In care and then she, you know, dependent. Yeah, but then the warm wouldn't have standing in the
+
+SPEAKER 0
+first place because the war your lawyer. Whoa, they have like. Yeah. Exactly. The Captain America, they're. Because No. Don't get involved. Don't get involved. I But The one that Yeah. There's no question. I already know the answer. OK. It's not Yeah. The, yeah, the, what was the, the, I also found it. Yeah, it's like you. Thank The government doesn't have. Yeah, no, the idea is that the government is the third party with the duty to report that.
+
+SPEAKER 6
+They well they failed. They failed and then there.
+
+SPEAKER 0
+The worst thing the father was gonna like, do you want to report that is like your job. Yeah. I. You need the blood sugar. The blood sugar needs to spike. I think I. Oh yeah. OK. 2 It's so. I OK. Welcome back. Any announcements? Announcements.
+
+SPEAKER 7
+Hi everyone, just a reminder that TA office hours are going to be happening next Tuesday at the same time. Um, that would be 12:20 until 1:10 in Big Warren 3:10. Um, office hours are not recorded. We're just gonna hang out and you can ask any questions that you would like about anything. It doesn't have to be about torts. We're here for you if you wanna ask about. Jobs, externship next year classes, summer, social life, anything you want, but yeah.
+
+SPEAKER 1
+Great, thank you, thank you teaching fellows, thanks for being so open to counseling in various ways and also for um the review that you do. Thank you. Office hours for me are gonna be the same 8:30 to 9:30. JG 908 on Tuesdays. Tuesdays 9:08. Remember, later in the semester I will have some sessions that are on Zoom if it's possible. Later in the semester I will also try to change the time to a little bit later. I know it's super early, but I have actually myself a conflict that blocks me from moving it a little bit later on Tuesday. So, um, as of now it's 8:30 to 9:30 still 9:08. Same thing, come and chat about anything. There will be some snacks. OK, so remember what we're doing now. We are thinking through how tort law decides when, yes, this is your problem and you potentially could be liable for negligent behavior. I mean, you can always be off the hook for non-negligent behavior, but even when you're negligent, sometimes tort law will say you're not going to be liable because there was no duty in the first place. OK. We've seen some principles for how to make that cut. We saw there's a lot of blurry areas and now we're going to, you could say, go to one of those blurry areas and think through what the common law high court of a state should say about that situation as a category. Is there a way to say that as a category of situations what happened here in the Sabatino case with this designated driver supposed designated driver. Someone who said he would be a designated driver but then doesn't do it, let's assume the facts. I know it's a little bit different than what we were just talking about with David, but let's say that if we're assuming the facts that. Somebody says, I'm going to be a designated driver and then just doesn't do it. And then a drunk driver goes off driving because there's no designated driver and nobody else does anything and then kills somebody on the road. As a drunk driver, OK, so very similar to this except we're gonna assume the foundation which is that they dropped the ball on this designated driver thing. And what we're gonna argue about is whether or not there should be. Potential tort liability for that person who said they would be a designated driver and doesn't do it. Is there potential liability for the person on the road who gets hit by the drunk driver? So notice what the opinion does here and it's useful just as a reminder of what you're doing when you're making legal arguments like this. First of all, remember that every case, not every, but almost every case that you find in a standard casebook is like this. It's gonna be an appeals court opinion that laid down some new precedent. Where does that new precedent come from? There wasn't precedent before. This is an unanswered question. It came from lawyers making arguments on both sides about what the law should be. Not what existing law is, but what the law should be because it's actually an open question. And then you're getting into all the kinds of questions about legal design that we've talked about but also and we will practice with, but also things like this, just pure policy arguments sometimes, OK? So in a way what we are doing here is appellate lawyering. We're asking a court that's high enough in the order of appeals court or the Supreme Court of a particular place of a common law jurisdiction to make the law in our favor, to make a law a certain way because it will help our client. In that case, so that's what we're doing, just good old appellate lawyering here. Remember how the opinion sets us up. The opinion, these are appellate lawyers, they are very good at what they do, uh, and they lay out very specifically for you, here's what we know, here's what we don't know. We know that Hawaii does hold bartenders and restaurants liable for something like this if they overserve the drunk driver. We know that social hosts and don't, and employers don't have that liability. If somebody comes to your house and you serve them too much and they go drunk driving and they kill somebody, you're not liable as a social host. Hawaii has chosen that for its own policy reasons. We know what a bunch of other states have done with this situation and the situation on the right. But we don't have an answer in Hawaii. So now the question is gonna be quite specifically not just does the designated driver have some duty in the abstract, but does the designated driver have a duty when the person who's suing. About their negligent behavior of not being a designated driver is the victim of the drunk driver, not the drunk driver herself, but the victim of the drunk driver. Specific about the question you're addressing, you know the layout of the stuff that came before. If it's relevant or not, bring it in. And of course you still have to make your actual policy arguments about this particular unanswered question. And here it doesn't hurt you at all to draw on classic principles that everybody kind of knows is out there in tort law. Feel free to draw on this kind of rhetoric, this kind of argumentation, this divide to the extent it is useful or even clear. But also feel free to come up with policy arguments about what's good for Hawaii. OK. All right, we'll do this where you talk to your neighbors for a couple of minutes, um, find your closest neighbors, um, chat for a few minutes, uh, arguments both ways, saying yes, Hawaii is gonna potentially hold this person liable or no, this is just not a duty situation,
+
+SPEAKER 0
+OK?
+
+SPEAKER 1
+So discuss amongst yourselves and when we come back, I'll call on some more bluebirds.
+
+SPEAKER 0
+Oh Yeah Yeah One minute, one minute. Yeah OK, let's start wrapping up. Yeah, OK, thank you for thinking through it and discussing.
+
+SPEAKER 1
+Let's hear from. On a Dieter Dieterer team, what did you guys come up with pro and con?
+
+SPEAKER 8
+Hi, um, we talked about. OK, we weren't entirely sure if we were working off of like the facts of this case as a baseline for like determining a rule that would be good for like. The community or like Hawaii in general or if we were supposed to look more broadly than that, um, but we talked about, um, the argument. That When you offer to be the designated driver, and then you. Don't follow through, depending on the circumstances. Yes, on the one hand, maybe you're quote unquote withholding a benefit, but on the other hand, you could be seen as creating this risky situation for the drunk driver by either like, oh, yeah, I'll be the designated driver and then you leave. OK, now they have to drive themselves. Home or like, oh yeah, I'll be the designated driver and then you get really drunk. OK, now who's gonna drive them home, um, so like as sort of a more active role rather than this passive withholding.
+
+SPEAKER 1
+OK, so on the pro side, pro liability or pro duty at least side, Dier team is pushing pretty aggressively saying this is really, really, really wrong. Not only are you failing at your undertaking, you may actually be creating a risk. It's a little bit of a baseline shift like Alexandra was doing maybe kind of creating the risk. And not just because like policy reasons we want the baseline to be something else, but actually theater teams going back in time saying you might have set up this whole situation because you offered to be a designated driver in the first place, that's actually why the driver got drunk or felt like they could drink that much. You are part of the risk creation in that situation. And now this gets to the question of whether we're working on these facts or not because it's not clear he said it before she drank, but OK, anyway, but yes, if that were the factual situation that you're dealing with and you're laying down some law, yeah, you can make those arguments that Not only did you not help, you actually helped to create the situation in the first place. OK, if you had said it to them before. Arguments, uh, going the other way or if you wanted to elaborate on what you just said, either way is fine.
+
+SPEAKER 8
+Yeah, we can talk about the other way, um. I think that something that Peter brought up was that this feels very similar to the withholding of the water in the Cardozo case, um.
+
+SPEAKER 1
+Why, what's the similarity?
+
+SPEAKER 8
+Saying that you'll give somebody a benefit and then not giving them the benefit, you said you would do it,
+
+SPEAKER 1
+um, you said you would be there for me, yeah,
+
+SPEAKER 8
+and then on the other hand also I think that. The argument that I expected to be made on this point is just like a policy argument that we don't want to discourage people from offering to be drunk designated drivers because then we'll end up with more drunk drivers and then there will be more car accidents with drunk drivers and like this actually is contrary to like the societal goal that we're working towards.
+
+SPEAKER 1
+Sure, you know what the last thing Hawaii needs right now is another reason for people not to offer to be a designated driver and you write this opinion, you put it out there that this person. is now liable for someone dying who like they weren't even driving the car, they weren't even, come on, they were nowhere near it. You think anybody's ever going to offer to be a designated driver in Hawaii again? Never. What, what about that? How is that good for Hawaii, right? And so on, right? That whole line of argument, policy arguments can swing in pretty hard against the intuitions, very strong intuitions that look. You should have done what you did, you said you would do. How's the saying we are gonna help? How's that not an undertaking? Right? It's just almost like you kind of took the keys and then you give them back. What kind of designated driver are you? You take the keys and you give them back. You've already started. You see how these intuitions can be played out into that idea of did you actually take it on already? Did you actually already start to help in some way? What's weird about citing March though, is that which way does Match come out? The other way, Ma is probably wrong in my head. I don't know. I don't understand how the Cardozo language fits with what exactly happened, right? He's like, oh, if you undertake, you better do it right. If you set your hand to a task and if you, yeah, but like that's what the water company did. Like they said they would provide the water. They are providing the water. They just didn't provide enough water to like fight the fire even though they had it. What kind of ball dropping is that? How is that possibly a no duty situation? But somehow Cardozo says no duty there. So much is super weird. It has all this language that set up our framework for thinking about how duty and common law works potentially a lot of the time, and yet it actually comes out kind of the wrong way. I don't know. I'm open to arguments that it came out the right way, but we will see this later where judges are using the idea of no duty and maybe this is what Cardozo is doing there and just cutting off arbitrarily because liability because they don't want that kind of party. To be ever held liable, you don't want a utility company to be held liable because then who's gonna ever have water. Right, and you see how that maps onto theater team's argument about, well, you know, who's ever gonna be a designated driver, right? Who's ever, you're not, you're not gonna have any water ever in Rensselaer, New York, right? If you do that. We will see that come back later. OK, great. Let's hear any other arguments for and against Claire Kim, Kim team. Anything you wanna add?
+
+SPEAKER 9
+Um, one of the things we were talking about was that if the drunk person, the drunk driver was like insistent that she was not to like receive help, um, then how, to what extent was Wallach supposed to be like, no, like, I'm like forcing you to get into my car instead. Um, and it seems like kind of absurd to be like you should have insisted harder.
+
+SPEAKER 1
+OK, there's something about the dynamics, so you're bringing in more facts here to work with. How would these facts factor into the design of the legal test? Like how would your team design the legal test based on this kind of like, oh wait a second, we have maybe some facts about the interaction.
+
+SPEAKER 9
+I think it might go into like whether it was a negative or a positive action and that like, if, actually, I don't know if it'd be on Wallach's side. I feel like maybe it's more like, Going back to negligence, maybe like whether the drunk driver was more negligent than, but I don't know.
+
+SPEAKER 1
+OK, but whose liability are we talking about here?
+
+SPEAKER 9
+Um, Wallach, yeah, the designated driver's liability.
+
+SPEAKER 1
+So how does this interaction play potentially if you wanted to design a legal rule that took it into account. You may not want to, but how would you, how would you do it?
+
+SPEAKER 9
+Um, Like, is there, to what extent is the duty to like force someone into your own car, like a duty or not?
+
+SPEAKER 1
+How What do we expect of this person, right? And so you would say in this case in the case that we're describing where all they did was offer to be a designated driver and then dropped the ball. How would you take that idea of like. In some situations to actually make that work, you kind of have to force a person, kidnapping her, putting her in your car, right? Otherwise you drop the ball. Use that to craft a rule or make an argument for how the rule should be crafted here.
+
+SPEAKER 9
+Like how to add that to our duty equation.
+
+SPEAKER 1
+So you're telling the Hawaii Supreme Court how they should come up with the idea of how duty works here. How would you say Hawaii here, Hawaii Supreme Court, this is what the law of Hawaii should be in a situation like this, there's a designated driver. The designated driver can maybe try to persuade the driver to get in, but they might not be able to, and they might fail unless you're actually expecting us to like kidnap them or something like that. And what we're talking about is somebody who tried and then failed. So when you craft a rule, Hawaii Supreme Court for situations like this, what?
+
+SPEAKER 9
+This will be really hard in terms of administrability, but maybe you could like stop the duty, like like if there's a duty to ask someone to, if they want to ride versus a duty, like a step further would be the duty to actually bring them home and maybe to not go to that second step. OK, maybe you break it up.
+
+SPEAKER 1
+You say, look, here actually are the specific steps at which point a duty might kick in. And there's an off ramp where if the person's really resisting then we don't hold you liable like we're not gonna like of course that doesn't make sense you tried you did your best they really refused what are you gonna do? Maybe in those situations now we let you off the hook. Otherwise you're on the hook. If you just dropped the ball because you forgot, right, or you took the keys and you gave it back, like if they didn't even ask for it, you're just like, I don't want to drive you anymore, right? That's one thing, but if you try, if you really, really tried it, right, so maybe the duty is just to really, really try. Hawaii Supreme Court, when you're creating new law here. Please put in this proviso that proviso that If they really, really try, that's good enough. That's interesting. It's interesting you brought an idea of negligence and breach like, is it, is it, are we really talking about doing it well enough or not, but you can build that into the construction of your duty here. How would you argue against? You started arguing against already a little bit.
+
+SPEAKER 9
+That's like a It, it would be such like a he said she said kind of thing like, um, I don't know how you proof could be hard, right? Yeah, and it'd be kind of hard to administer it because then there's so many little intermediate steps that you could argue is the limit.
+
+SPEAKER 1
+There's always gonna be finer gradations plus how complicated do we want tort law to be, so on and so on. Sure, good. Any other arguments for or against. A particular form of liability here potentially or not you've gone pretty far in not just answering this question but constructing a new way to do the the the duty set up here anything else that Rahima came up with?
+
+SPEAKER 9
+Um, we also talked about like. Like the limits to this third party, if while it could be held liable, then like, um, I don't know, anyone else that created those situations that day might be held liable. Um, it's just like feels like so many different. Degrees of separation.
+
+SPEAKER 1
+OK, this idea of a wait a second, is this just going to expand and expand and expand. Right, that's a very strong instinct in these kinds of situations, or one thing leads to another, leads to another, leads to another, right? It's, uh, barg doesn't show up, and then there are flower sinks and then the troops lose a b blah blah blah. Then world tyranny. Really, come on, come on, says Tro. Come on, really, we'll get to ways of cutting it off. You can build it in here at this step for the judges just to say no, that's too far out. But you can also later as we'll see, rely on juries to make that call through what's called proximate cause or scope of liability, saying, yeah, yeah, we, we understand the whole, you know, like sequence of events, but at a certain point it's too far out. Either because it's unforeseeable or we just want to cut off liability arbitrarily, so hold that thought. Great. Let's shift gears now. To talk about the very sad Kuyler case and what are we doing with this case? This is Judge Posner's case. He's a teaching judge. This is not exactly a classic case, but he's using it to teach you stuff. That's why almost perversely in a story that's this tragic, he has this like silly flower pot thing going on. Because he's trying to teach you something about tort law using this, and sure enough it shows up in case books and in my case packet as well as a way to teach about a certain thing. So what is Kuyler gonna be used for? We're gonna use it to further reinforce. What we're doing today, which is breaking up duty and breach. And as you already know, we're seeing a situation where there's clearly a breach of some kind, but not a duty that was breached. Somebody did something pretty boneheaded, but Just didn't, it just doesn't. It wasn't their problem. So right, so we're gonna practice that a little bit through the facts here. We're also gonna talk about the role of statutes, where statutes come in. We talked about statutory negligence before, negligence per se. Here it comes in again and then sort of doesn't come in again. So we'll talk about why that is. And then we're gonna also talk about special relationships. We haven't talked about special relationships yet, but it's gonna come up in this case. So let's just remind ourselves of this very sad story. Ying Xianbao, will you just remind us what happened here and let's be precise about who's who in this situation.
+
+SPEAKER 6
+Right, so, um, there is a babysitter named, uh, uh, Higgs, and Higgs is some, uh, I think, I think she specializes in, uh, guess, babysitting for, uh, naval families, uh, in the, uh, Great Lakes area, um, so in Illinois, and, um. She had a, I guess, a history of abusing the child that she is, uh, babysitting. So, uh, the first, tell us about two specific children.
+
+SPEAKER 1
+Who, who's the first child?
+
+SPEAKER 6
+Um, it's a child from the Carter wait, um. Um, the dad's name is Norman, so I guess the Norman, let's call it the Norman family, the Nor the Norman family baby. Um, he had been, uh, well, the hospital that, uh, that treated the baby was suspicious of, um, abuse because, well, I guess the injury patterns, and, um, uh, Higgs had insisted that, uh, the baby had fallen off some stairs, but it didn't really quite look like it was the case, and, uh. The, uh, the hospital failed to report the, uh, potential abuse, uh, according to the Ankara Act.
+
+SPEAKER 1
+OK, let's get into the act in just a second, but what's the hospital? Is the hospital, oh, the hospital is a, well, I
+
+SPEAKER 6
+guess it's a federal facility, so for, for the navy.
+
+SPEAKER 1
+That's why the title says Kyler. I'm gonna call it Kyler. I don't know how to say it, but I'm gonna call it Kuyler versus United States. The United States is the naval hospital. The hospital here is the actual defendant we're interested in. Their behaviors, what we're talking about here. Higgs is babysitting the Norman family child. Norman family child shows up at the hospital. Abuse is suspected and at that point, what are you supposed to do under this ANCAA thing?
+
+SPEAKER 6
+Uh, the doctor is supposed to report to the Department of, uh, Illinois Department of Children and Family Services. OK, it's a reporting statute in Illinois.
+
+SPEAKER 1
+It says, hey, call the, call the administrative agency in the state. It's a hotline basically. If you suspect abuse, and it kind of applies to anybody, not just hospitals, but if you suspect abuse, call this hotline. It really is what we're talking about. Is that a tort law, by the way, this tort sta the statute here saying you gotta, you know, call the hotline, please. Is that creating any tort liability?
+
+SPEAKER 6
+Well, I think that that was the main question of cases.
+
+SPEAKER 1
+There's a question in the court held no.
+
+SPEAKER 6
+Um, the answer is no.
+
+SPEAKER 1
+Yeah, yeah, I didn't ask you to read that part, but in short, there are tort statutes, and remember the things we looked at before as statutory negligence, negligence per se are not tort statute. It was a Hawari liquor licensing ordinance, and then, you know, whatever else, a speed limit or something like that. But there also are statutes that can create tort law by just saying this is a tort statute and we're creating tort liability for these parties under this framework or this new duty or this analysis and it's gonna be negligence restricted liability or whatever we will see that later we'll see both tort statutes and things that look like tort statutes. But this is not one of them. This is just please call the hotline. It's a regulatory. An ordinance in a way, or regulatory requirement. Call the hotline, OK. And that's gonna be important for us because now we don't have a tort statute that says there is tort liability in this case. So as a result, then we have to look at what defined tort liability. If not a statute, then the common law, common law. So all right, now we're back in like first year torts class. We know how to do tort law analysis. We know how duties work. We know how negligence works. That's really what we're talking about here. But let's get to the, the tragedy and, and then, and then the lawsuit, right?
+
+SPEAKER 6
+Uh, well, the tragedy, in short, is that, uh, since it was not reported, Higgs was not investigated for her conduct with the first, the Norman family child. Um, she had, and then she had went on to take care of the Kyler child, um, and because of her abuse, the child died. OK, so the Kyler child loses a child.
+
+SPEAKER 1
+Sorry, Kyler family loses a child. Apparently due to abuse by this babysitter Higgs, um, this was confirmed later in criminal prosecution. Higgs was criminally prosecuted. We're not gonna worry about the babysitter for liability purposes here. Who's the Kuyler family suing in the case that we're looking at?
+
+SPEAKER 6
+Uh, well, they're suing the United States, uh, on behalf of, well, I guess, representing the Naval Hospital for failure
+
+SPEAKER 1
+to report. They're using the hos they're suing the hospital. They said, hey, look, you're supposed to call the hotline. You didn't call the hotline. If you had called the hotline, our baby would still be alive. That's the theory of the case, right? We will talk next week a little bit about what's the causal link there. Would it actually have saved the child for them to call the hotline? This is only a month later. Would the hotline have been announcing the names of people like how exactly where Higgs would have been investigated and stopped or something? We'll talk about causation here next week. But right now we're just gonna assume that's the theory of the case. They're saying you should have called the hotline. So Statutory negligence, right? Here's an ordinance, it's just like a Hawaii liquoring statute or ordinance. It's not tort law, but we know how to bring statutes into tort law. Right? Isn't that what we should just do here? Just bring in the requirement. The requirement is just a requirement of basically a kind of rescue, a kind of warning, a kind of undertaking. That Shows up as call the hotline. We know the standard of behavior here at least is you have to at least call the hotline. That's how statutory negligence works, right? Why does that work here? Why does that fail?
+
+SPEAKER 6
+I think the problem is that the statute doesn't clearly say what is the remedy uh in a situation where some uh mandatory reporter fails the mandate, um. So, OK, we don't need to get into this, but
+
+SPEAKER 1
+it's just tell us the answer you, you told us before. Is it a tort statute or is it not a tort statute? It's not a not a tort statute, so it doesn't create anything here. We have to then rely on common law. In common law we can use a standard from a non-tort statute. It's not like it's irrelevant immediately just because it's not a tort statute. We've seen how to use statutes. We know how to use statutes in tort law that are not tort statutes. Why can't we do it here?
+
+SPEAKER 6
+Well, the common law says yes, you cannot hold the, well, I guess it's a good Samaritan liable for not helping in the first place.
+
+SPEAKER 1
+Yeah, let's, let's leave aside the words Good Samaritan because it means different things in different contexts, but here you can't hold who the hospital or you can't hold the hospital liable for what? For failing to what? For failing to, I guess, report and thus potentially prevent
+
+SPEAKER 6
+Higgs from taking care of another child.
+
+SPEAKER 1
+Yeah. They're saying under tort law. Let's use the language of tort law. Under tort law, the hospital has, uh, failed to, wait,
+
+SPEAKER 6
+the hospital has, I guess, withheld a potential benefit to the Kuyler family. Therefore, they have no, what, uh, they have no duty to no duty, right.
+
+SPEAKER 1
+This wasn't their problem. This wasn't the hospital's problem in the first place. Did they create the risk? No, says Judge Posner. Here you could try to debate that. There's ways to argue around that, right? Maybe shifting the baseline a little bit, you know, using your argumentation skills, but the way Posner sees this fact situation is that they didn't create the risk. The risk is the babysitter. It's not their problem. They only fail to offer the benefit of calling a hotline about some preexisting risk. They are squarely in the green area here. And they didn't have to. There's no affirmative duty for them because did they undertake to help the Kuyler family? No, no. And is there a special relationship between the Kuyler family and the hospital that we're looking at what puts you in the red bubble, right? He's saying you're on the green side you could still be in the red bubble but no red bubble because they didn't even try to help and. Is there a special relationship of some kind? Is there any relationship of any kind between the Kuyler family and the hospital as far as we know? I, I don't think so. No, there isn't. That's what's missing in this case. If the Kuyler family had been patients or the baby had been a patient of the hospital, now you have maybe a case for saying that the hospital had some pre-existing duty to hospitals already involved. Remember the debate here, as always in this, at least for today, is are you involved or are you not involved? And everything is signaling that they're not involved, not involved, not involved in the Kuyler family. But they could be if they actually had them as patients, had treated the baby, something like that, right? So let's say the Kyler baby shows up in the hospital, they see similar marks, they're like, oh, it's the same babysitter. OK, now you're really deep in it on multiple levels, but here we got none of that. That's the theory of this opinion. Now, What is this telling us the special relationship. That kicks in a duty in the red bubble has to be quite specific. We won't really get into what makes for a special relationship. You remember it's caretaking of some kind, dependency of some kind, parents and child, um, caretaker and caretaking person, um, often a child, uh, hospital and patient, psychiatrist and patient, that kind of thing. OK. The one exception, bless you, the one exception, and I'll just walk through this. Is a case in a particular configuration of liability that has been recognized in tort law in lots of jurisdictions, very debatably, very controversially, but has been recognized, which is, as you heard in the NPR story, this idea of the tariffsoft obligation. The Tarasoff case really is specific to medical care providers and psychiatrists. And if you have any caregivers of that kind in your circles, they will certainly have heard of this case. It's part of their training. Everybody's trained on their tariff soft liability. What is Tarasov liability? The mythical story of Tarasov, which is not quite accurate but is kind of what the word stands for, is this story. The story is about, um, a college kid named Tatano Tarasov who was killed by somebody named Potter who was a graduate student at Berkeley, and the theory of the case, the story, the mythology is that Potter was being treated by. A psychiatrist at the Berkeley Hospital system and told the psychiatrist that he would kill Tatiana Tarasov, and the psychiatrist did nothing about it. Now, as you heard in the story, there's all kinds of reasons why there's confidentiality, bars on like just going around telling people about like somebody told me he's gonna kill someone. Like you don't do that if you're a psychiatrist for sure. Then there's some question about at what point do you break that confidentiality as at what point is it so important that actually now you will have liability if you don't under tort law. The story is not quite right because there's all kinds of other complications going on. It turns out that the psychiatrist did report it. They reported it to the police even they reported to the hospital. The higher ups sort of shut down the investigation, so it really is the hospital at fault or the higher up administrators at fault. The police, they seem to do a cursory investigation, unclear what role that had to do with it, but the mythology is that somebody heard this psychiatrist heard this during care, didn't report it, didn't warn. Certainly didn't warrant China tariffs off. OK. And so, if you think about what we've been just talking about, Think about where again the special relationship is. The Berkeley Hospital and the patient Potter. And maybe you can say there's some kind of relationship here, Potter tears off. But what's missing? Does Tarasov herself have anything to do with the hospital system? No. No, it's just like the Kyler family. Why should the Kuyler family not be able to sue the hospital for failing to warn them about a risk to them? When the Tarasoff situation has the same thing. What's going on here is that the tear off off situation is really kind of just this outlier quite stretching the law of torts exception to the idea that unless you have an actual relationship with the person who's injured, the special relationship is with the injured party, then it doesn't count for tort law. And here you might think of a designated driver. De designated driver has some kind of relationship with the driver but not the victim, right? Something like that. You might think about that situation and how you would craft it. But under tort law unless a special relationship is actually with the victim, it's not going to get you involved it's not gonna tort law is not gonna get involved in your case. Except for Tarasoff, so Tarasov has basically been codified in lots of state statutes or or ordinances or whatever, and it almost always takes this form, which is to say a healthcare provider of certain types, if you hear specific information that someone is really actually imminently about to harm someone, you have a duty to protect and warn, and that can take the form of telling the person, the victim, potential victim, telling the police, telling the authorities somehow you just got to get the word out there. So that tends to be the format, but remember this is an outlier. Their tariffs off situation is an outlier that hasn't been extended beyond it from what we normally think of as common law tort principles. It's an outlier from this. And so that's why Judge Posner mentions that. He's like, this is not a Tarasoff situation. Right? Why is it not a Tarasoff situation? Because Higgs, the person who did the abuse, is not their patient. Higgs is not a psychiatry patient, not any kind of patient. Higgs never told the hospital that she was gonna hurt anybody. We just don't have a Tarasoff situation here. So that extension of potential liability doesn't kick in because we just don't, this just isn't a tariffsoft situation. So just to set that aside. So what are we getting out of this case? Why is Judge Posner using this case? It's a very, very sad case, but he wants to use it to teach us about breach versus duty. Remember, that's why he has a flower pot hypos. He wants to teach us something about the statutes. Here you have a statute. It looks like statutory negligence. Day two of torts, but it doesn't work because no matter how breachy, no, no matter how negligent your behavior, it wasn't your problem. It wasn't the hospital's problem. So he picks an especially sad case to make kind of a harsh point. But there it is. OK One last subject for us today. As you know, which is to talk about Once you have the duty. What do you do? Let's say you have a duty to warn like a manufacturer has a duty to warn. We'll talk about production, um, of goods and products liability more generally later in the course after we talked about strict liability, but right now we can talk about warnings. We talked about warnings the whole time with little Leo's signs, the swimmer signs, and here we have another warning case. The duty comes from being the manufacturer. You have a duty to warn if you have a dangerous product. And the question is, OK, once we have the duty, what do we do? How do we analyze it from there? How do we analyze the quality of the undertaking? And of course what we'll do is we know how to do this, we'll just do a good old negligence analysis again. Good old negligence analysis because all that kicks in is basically a negligence analysis. It says you're now responsible for not being negligent. Products liability will be called maybe something slightly different, but it's basically the same idea. So just for practice, just for review on making negligence arguments, once you do have a duty, um, let's turn to Ryobi. This is the Saw case. Juliana Fabrizio, hi. Will you just remind us what happened in this case?
+
+SPEAKER 3
+Um, yes, so Wilson Hood purchased a, um, from Rio to use for his personal use. Um, he decided to take the like blade cover, I forgot what it's called, the blade guard off of the saw. And he like partially um. It like he lost part of his thumb and lacerated his leg in doing so. OK, wait a second.
+
+SPEAKER 1
+All right, so here's the injury. Sorry, I have to do this.
+
+SPEAKER 0
+OK. Yeah, OK.
+
+SPEAKER 1
+So he has a hand injury using a power saw, of course he does, because that's what happens when you take the blade guard off. The blade guard's here to keep your finger from sliding under. Wait, is that what happened? His finger just like slid underneath because the blade guard wasn't there.
+
+SPEAKER 3
+Um, no, it like broke off and flipped backwards at him.
+
+SPEAKER 1
+The blades came off.
+
+SPEAKER 3
+Yes, it, um, yeah, the blade flew off the saw and backwards towards him.
+
+SPEAKER 1
+The blade flew off the saw. This is the flying blade of death case, as we like to call it in my class, OK, flying blade of death case. Here it goes. All right. This thing is just like You know, woo, go anywhere. It could go anywhere. It's better. That's a better throw. You take the blade guard off, the danger on this particular saw is not that then your hand goes underneath and it's a hot dog, but rather that the whole thing comes apart on this particular device. It's designed so that the blade guard mechanism is actually part of the structure holding this thing together. OK, let's just assume for a second that like most people are familiar with blade guards, pretend prevent preventing your fingers from getting sliced this way, but not with this, right? OK, so then what are we talking about here? We're talking about his Lawsuit against whom and what is it he's saying they did wrong?
+
+SPEAKER 3
+Um, so he's suing the manufacturer of the saw and he's claiming that they had inadequacy of warning, uh, because they didn't specifically warn him that the blade could fly off of the saw, um, but there were. I think 7 very clear warnings like in all caps, warning, keep guards in place for us.
+
+SPEAKER 1
+Where are you looking on the opinion, um, page 609
+
+SPEAKER 3
+of the opinion.
+
+SPEAKER 1
+OK, read them like they're all, they're in all caps, yes.
+
+SPEAKER 3
+Keep guards in place. Always use the saw blade guard. Never operate the machine with the guard removed. Never operate this saw without all guards in place and in good operating condition. Warning to prevent possible serious personal injury. Never perform any cutting operation with the upper or lower blade guard removed. Danger, do not remove any guard. Use of saw without this guard will result in serious injury.
+
+SPEAKER 1
+Operate in serious injury. It just will happen, you know it will happen, right?
+
+SPEAKER 3
+Right. Operate only with guards in place. Warning, do not operate without the upper and lower guards in place.
+
+SPEAKER 1
+OK, all right. And there's some other stuff. All right, but this is all like in the manual and like whoever looks at the manual, right? Or where is it? Where are these warnings?
+
+SPEAKER 3
+Um, there're some of them are in the manual and some of them I think are actually like put on the saw itself. Yeah, there's stickers on the saw like never use this
+
+SPEAKER 1
+without the saw blade guard cause serious injury will happen, right? OK. So let's assume they have a duty to warn about the dangerous the dangers of a particular use of the product. We'll get to that later in the course, but let's say they have this duty. It's kind of an undertaking how duty, duty to warn, duty to rescue. And now the question is, is the warning good enough? Did they satisfy that duty? Under basic ideas of negligence, and how would you make arguments for and against the reasonable manufacturer would what?
+
+SPEAKER 3
+Um, I think argument for a reasonable manufacturer would put like at least 7 different warnings in all caps on multiple places, making it very clear that some injury could result if you had to go in and detail every possible injury that somebody could do by using whose side are you argue for right now, um, for RioB OB,
+
+SPEAKER 1
+it's like a reasonable manufacturer would do exactly what we did. Yes, OK, what kind of evidence might you look at to suggest that a reasonable manufacturer would do exactly what we did?
+
+SPEAKER 3
+Um, you could probably look at industry custom, like look at other saws, saws.
+
+SPEAKER 1
+Look at this, these are the stickers and we are on any saw you get. This is what people do. This is what the industry decided to save, OK. Right, perfectly reasonable, um, and they also point to like
+
+SPEAKER 3
+the incident rate of injuries like this happening. It was like they sell, I think, thousands of saws and there was like one other guy who did the same thing.
+
+SPEAKER 1
+It's like basically never happens unless you're a. Total idiot, right? It's kind of the implication here. There is a contributory negligence claim in this, of course there is, right, but here we're talking about the manufacturer's quality of warning, and they're like, we don't need to warn if it rarely happens. You see how that factors into the negligence analysis like how much is reasonably necessary? Well, it's how much is reasonably foreseeable, OK? You wanna argue the other way? How would you argue? How would you argue for him, um.
+
+SPEAKER 3
+Most people wouldn't assume that the blade guard keeps the saw from like projectile flying back at you.
+
+SPEAKER 1
+All those warnings we see on all the other saws are about what people think is gonna happen, which is like right, not like it's gonna fly off like. Lacerate your leg and potentially your face or hit somebody else or anything like that like the warning is like
+
+SPEAKER 3
+yeah yeah yeah this is a dangerous product but like you think it's dangerous in the sense that it could chop your finger off, not that it's gonna swimmer case
+
+SPEAKER 1
+is like the kiosk is like always take care around water. Water is dangerous, you know, like really? How's that specific enough? How is that warning you about the actual danger here? Also, as Julian is pointing out, that's not what has to do with anybody else's so because their saws don't do this. Your saw is especially dangerous. Maybe you need to do more than industry custom. And how do you answer that? How do you answer that from the other side? Or how does Judge Wilkinson decide he wants to answer this?
+
+SPEAKER 3
+Um, well, he says the warnings are adequate. He brings up like a policy argument about, um, I think like label clutter. If you were, if you had to list out every possible way that somebody could use this saw wrong, like it would. You'd have to put it in like size 4 font like nobody would read all of that and then that kind of has diminishing returns.
+
+SPEAKER 1
+Too much to put all the possible warnings, right? The warnings have to be effective. Whoever reads those fine print things that you get, you click through them all, you've all signed away like your first born child and you don't even know it. Apple owns all of us like forever in every possible way, and we don't know it because we just clicked on the thing like that. That, that's, that's what's gonna happen if you just put on a warning about every possible thing that might happen. Warning clutter classic argument saying it's not reasonable to put on more warnings because it might actually be counterproductive or at least won't do any good. Think about BPO here, right? We'll talk, we'll get into more into the BPL thinking with products. But what would your answer be to that? What actually do you need to put on this blade? What one sticker? How, what's the shortest possible thing you can put on there?
+
+SPEAKER 3
+Um, warning, blade guard keeps Saul from flying off. That's too long, shorter. Warning projectile saw.
+
+SPEAKER 1
+Projectile saw. Alright, that's good. That's the shortest I've ever heard. Projectile saw. Yeah, blade may fly off. All you need is 4 words, 4 words. We're not asking you to cover every situation. We're not saying blade may fly to the left, blade may fly to the right, blade may fly up and down and to the side. We're not asking you to say that. Just put. The blade may fly off and that's enough. That's enough because in the mind of the probable user of this product that is going to be enough. We will get into this again, once again, this idea of when you're doing a warning, you're really thinking about the other person's brain as well and we've already talked about that, but that'll come back to us in causation next week. So we're kind of setting ourselves up for that conversation. Have a good weekend see you on Monday.
+
+SPEAKER 0
+I We're thinking about. The first. I am. Yeah, they have a nice. I was like I That. I Like the biggest artist in the world. Yeah. I And you, yeah. Oh, OK, yeah. What if you don't know. You know, every time. A I was. Oh. I.

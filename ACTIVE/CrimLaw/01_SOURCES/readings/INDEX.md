@@ -4,6 +4,8 @@
 **Professor:** Bernard Harcourt
 **Total Readings:** 75 PDFs
 
+**Note (Feb 2026 Syllabus Update):** The 2026 syllabus has removed the detailed "LAW OF HOMICIDE" and "SEXUAL ASSAULT LAW" sections that were present in previous years. While homicide and sexual assault are still mentioned as topics to be covered, the specific readings in sections 03 and 07 may no longer be assigned. Please verify with the current syllabus or professor before relying on these sections.
+
 ---
 
 ## Topic-Based Organization

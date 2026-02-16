@@ -23,7 +23,7 @@ Key themes include:
 
 ---
 
-## Question 1: Representations, Covenants, and Conditions - The Difference
+## Question 1: Acquisition agreements contain representations, covenants, and conditions. What is the difference?
 
 ### The Three Core Contractual Mechanisms
 
@@ -51,7 +51,7 @@ Key themes include:
 
 ---
 
-## Question 2: Classifying Contractual Language
+## Question 2: Is the following language a representation, a covenant, or a condition?
 
 ### A. "Target is a corporation duly organized..."
 
@@ -87,7 +87,7 @@ Key themes include:
 
 ---
 
-## Question 3: Seller's Changes to Buyer's Representation
+## Question 3: You represent the buyer of a company. You send over the following representation: "Target is not subject to any material liability by reason of a violation of any order, rule, or regulation of any Federal, state, municipal or other governmental agency." In response, the seller changes the language. Find the change. What do you learn from the change they made in the language, and what follow up questions do you want to ask?
 
 ### The Original Representation
 > "Target is not subject to any material liability by reason of a violation of any order, rule, or regulation of any Federal, state, municipal or other governmental agency."
@@ -146,7 +146,7 @@ Key themes include:
 
 ## Question 4: Materiality & Knowledge Qualifiers
 
-### A. Why Add "Material" to the Tax Representation?
+### A. Why might you want to add the word "material" to the tax representation?
 
 **Original:** "Target has paid all taxes and assessments (including interest or penalties) owed by it..."
 
@@ -172,7 +172,7 @@ Key themes include:
 
 **Key point:** "Material" allows Seller to ignore trivia and focus on significant items.
 
-### B. Defining Materiality as $500 - The Problem
+### B. Let's say we define "material" as an issue involving at least $500. Do you see a problem with defining materiality in this way? Hint: does it matter how many nonmaterial facts are left out? How can we deal with this problem?
 
 **The proposal:** Define "material" as any issue involving at least $500.
 
@@ -200,9 +200,7 @@ Key themes include:
 
 **Key insight:** Materiality can't be reduced to a simple dollar threshold. Many small items can add up to something very material.
 
-### C. "To the Best of My Knowledge" - Land Ownership
-
-**The representation:** "To the best of my knowledge, I am the legal owner of this land."
+### C. Buyer wants to buy a plot of land, and asks Seller to give assurance that Seller actually owns the land. Seller sends over the following representation: "To the best of my knowledge, I am the legal owner of this land." You represent Buyer, who asks whether he should accept this representation. Are you comfortable with it?
 
 **As Buyer's lawyer, am I comfortable? NO.**
 
@@ -234,9 +232,7 @@ Key themes include:
 
 **Key insight:** Knowledge qualifiers make sense when the seller truly couldn't be expected to know the answer (like threatened litigation). They don't make sense for things the seller can and should verify.
 
-### D. "To the Best of My Knowledge" - Lawsuit Threats
-
-**The representation:** "No one has sued our business and, to the best of our knowledge, no one is threatening to sue the business."
+### D. Buyer wants to buy a business, and asks Seller to give assurance that no one has already sued the business, and that no one is threatening to sue the business in the future. Seller offers the following representation: "No one has sued our business and, to the best of the knowledge, no one is threatening to sue the business." You represent Buyer. Are you comfortable with this representation?
 
 **As Buyer's lawyer, am I comfortable?**
 
@@ -266,13 +262,9 @@ Key themes include:
 
 **Key insight:** Knowledge qualifiers should be used when the seller genuinely couldn't be expected to have the information. They shouldn't be used for things the seller can and should know about.
 
----
-
 ## Question 5: False Representations
 
-### A. When Representations Provide No Meaningful Protection
-
-**What happens if a representation is false?**
+### A. What happens if a seller gives a representation that turns out not to be true? Can you think of circumstances in which a buyer does not get any meaningful protection from a representation, even if he can easily show it was false?
 - Buyer can sue for breach of contract
 - Buyer can seek damages
 - Buyer might be able to terminate the agreement
@@ -308,7 +300,7 @@ Key themes include:
 
 **Key insight:** A right to sue is meaningless if the defendant can't pay. contractual protections are only as good as the seller's ability to satisfy a judgment.
 
-### B. How Buyer Can Plan Ahead to Prevent This
+### B. How can a buyer plan in advance to prevent this sort of problem?
 
 **1. Indemnification escrow (holdback):**
    - Hold back a portion of the purchase price in escrow
@@ -346,10 +338,7 @@ Key themes include:
    - Adjust price or require fixes before closing
    - Prevention is better than remedy
 
-### C. Why 15,000 Shares in Escrow for 42 Months?
-
-**The language:**
-> "Seller hereby agrees that at the Closing, upon receipt of the Merger Shares, he will immediately deposit 15,000 of such Merger Shares into escrow for a period ending no later than 42 months after the closing at which time the escrowed Merger Shares then remaining in escrow will be returned to him."
+### C. Explain why a buyer might demand the following language in an acquisition agreement: "Seller hereby agrees that at the Closing, upon receipt of the Merger Shares, he will immediately deposit 15,000 of such Merger Shares into escrow for a period ending no later than 42 months after the Closing at which time the escrowed Merger Shares then remaining in escrow will be returned to him."
 
 **What this accomplishes:**
 

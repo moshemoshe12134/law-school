@@ -1,0 +1,102 @@
+Dear class,
+
+For this coming week, please note that the Bluebirds are up first, and then the Goldfinches.
+
+We will begin by picking up with our discussion of comparative negligence versus comparative
+causation, as a way of dividing up how much each of the multiple tortfeasors should pay.
+(Recall that his relates to pp. 182-184 in KA.)
+
+Then we will move on to the concepts of "proximate cause" and "scope of liability."  These are
+parallel frameworks that courts use for narrowing down the list of causes-in-fact to only those
+that should be held liable.  Traditionally, courts have done so using the language of "proximate
+cause."  But as we will see, the Restatement Third rejects that term and instead calls this a
+question of the "scope of liability."  We will cover both approaches.  Along the way we will see
+the term "duty" again.
+
+How these terms are used—including how these concepts might relate to each other—is
+something that lawyers and judges continue to debate (as we will see in Quisenberry).  Our job
+will be to recognize these sources of confusion or disagreement, and to make persuasive
+arguments under any rubric favored by a given court.
+
+Best of luck to us on our voyage into this nebulous vocabulary,
+
+BH
+
+* * *
+
+Monday 2/16
+
+Panel: Bluebird
+
+We will use the Berry v. Sugar Notch case to test our intuitions about why not every cause-in-
+fact should be held liable.
+
+Then, we will look closely at the traditional "proximate cause" approach (as illustrated by the NJ
+jury instructions) and the new "scope of liability" approach (as articulated in the Restatement
+Third).  In class, I will walk us through the traditional approach.  Then we will discuss together
+how the new approach works.
+
+You may notice that the KA discussion tries to reconcile the traditional and new approaches,
+merging their vocabularies.  But in our class, for the sake of conceptual clarity, we will keep
+these two frameworks distinct in our minds.
+
+We will give special attention to how the new approach, using the "harm within the risk" rubric,
+deals with what were often called "intervening" or "superseding" causes under the traditional
+approach.  For practice, we will be using both the illustrative Jones case (a new fact pattern), as
+well as our familiar Sabatino case (about the would-be designated driver).
+
+Berry v. Sugar Notch (classic)
+
+The Scope of Liability: Proximate Cause, Basics, pp. 149-154 in KA
+
+Judge, Jury, and Underlying Purpose, pp. 170-172 in KA
+
+Restatement Third, sec. 29 and comment d (new approach)
+
+Restatement Third, illustrations in section 29, comment d (new approach)
+
+NJ jury instructions 6.10, on proximate cause (traditional approach)
+
+NJ jury instructions 6.14, on intervening cause (traditional approach)
+
+Jones v. Roth, paragraphs 1-7, 12-16 (as a fact pattern for practice)
+
+Recall the designated driver issue in Sabatino (no need to bring it to class)
+
+* * *
+
+Wednesday, 2/18
+
+Panel: Goldfinch
+
+Now that we have a grasp of the new and traditional approaches, we are ready for a deep dive
+into Palsgraf, probably the most famous torts case of all.  We will be using Palsgraf to explore
+how the key words from our two frameworks overlap or differ in their possible meanings.
+
+Be sure to read both the Cardozo and Andrews opinions carefully (our discussion will begin with
+the Andrews dissent).  Ask yourself:  Does one seem closer to the traditional framework?  Does
+one seem closer to the new approach?
+
+Also ask yourself:  Why is Cardozo using the word "duty" (confusingly), and how does the
+Restatement Third commentary address his usage of that term?  Is there really any distinction
+
+between what the Restatement Third calls "scope of liability" and what one might call "duty,"
+either as a conceptual or practical matter?
+
+For an illustration of a modern court struggling with the potential confusion around these
+concepts, we will then look at Quisenberry, a recent case from the Virginia Supreme Court.
+What term is the majority trying to clarify?  What might the writers of the Restatement Third
+commentary have to say about this court's understanding of duty?
+
+Palsgraf v. Long Island RR, both opinions (the classic of all time!)
+
+Posner on Cardozo on Palsgraf (notice the facts left unsaid by Cardozo)
+
+Optional: NYT story on Palsgraf
+
+Restatement Third sec. 29, comments e, f, g (read f closely, on "relationship with duty
+limitations")
+
+Optional: Unforeseeable Plaintiffs [Palsgraf], in KA 160-164
+
+Quisenberry v. Huntington Ingalls, pp. 1-14, footnotes 5 & 6 (skip the others)

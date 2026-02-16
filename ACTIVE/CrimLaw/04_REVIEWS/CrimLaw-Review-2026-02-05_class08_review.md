@@ -1,9 +1,29 @@
-# 2026-02-05_class08_review.md
+---
+doc_type: review_doc
+class_number: 8
+date: 2026-02-05
+title: Issues of Causation (+ Sweeping Homicide - Willansky, Williams)
+status: review_done # draft|review_done|integrated|final
+inputs:
+  text_prep: 02_PREP/text/CrimLaw-Prep-2026-02-05_class08_text.md
+  transcript_raw: 03_TRANSCRIPTS/raw/Criminal Law-transcript-02-05.txt
+  assignment: null # 01_SOURCES/syllabus/assignments/2026-02-05_class08.md
+outputs:
+  outline_sections: []
+  prewrites_created: []
+metrics:
+  time_spent_minutes: null
+  signal_count: 8
+  prewrite_count: 3
+transcript_qc:
+  status: unverified
+  errors_flagged: null
+---
+# Review — Class #8 — 2026-02-05 — Issues of Causation
 
-**Class:** 8
-**Date:** February 5, 2026
-**Topic:** Issues of Causation (+ Sweeping Homicide - Willansky, Williams)
-**Status:** Complete
+**Purpose:** Extract exam-ready material (NOT summarize class)**Critical output:** Prewrite fragments (Section 5) + "Magic Words" (Section 4)
+
+> QC note: Quotes below are copied from the raw transcript file and may contain transcription artifacts. Treat as "professor language to echo," not as a pin-cite authority.
 
 ---
 
@@ -12,17 +32,19 @@
 ### What Was Covered vs. Expected
 
 **EXPECTED (from prep):**
+
 - Deep dive into causation through Acosta and Arzon
 - MPC § 2.03 framework
 - Two-part causation test (factual + proximate)
 
 **ACTUAL:**
+
 - **Broad sweep of homicide cases** (back row: Willansky, Williams)
 - **Causation cases** (front row: Acosta, Arzon)
 - **Real-time case application**: Crans Montana bar fire (Switzerland)
 - **Integrated approach**: Moved between negligence/recklessness (back row) and causation (front row) showing how they interact
 
-**KEY REALIZATION:** Harcourt used this class to show how mens rea questions (back row) **migrate into** causation questions (front row). The "crystalline structure" repeats - same analysis for intervening causes as for primary causation.
+**KEY REALIZATION:** Harcourt used this class to show how mens rea questions (back row) **migrate into** causation questions (front row). This is strategic battlefield shifting using **Balkin's crystalline structure** - legal arguments come in predictable binary pairs.
 
 ---
 
@@ -31,35 +53,70 @@
 ### #EXAM_SIGNAL Professor's Meta-Teaching Moments
 
 1. **"All legal terms are artificial"** - The paragraph on p. 605 (11th ed.) about proximate cause is "**the most important paragraph you're gonna read in your first year of law school**"
+
+   **THE PARAGRAPH (from Kadish casebook, p. 605, 11th ed.):**
+
+   > "Proximate cause" is the term historically used to separate those results for which an actor will be held responsible from those not carrying such responsibility. It's the conclusion. The term is in a sense artificial, serving matters of policy surrounding tort and criminal law and based partly on expediency and partly on concerns of fairness and justice.
+   >
+
+   **Key takeaways:**
+
    - Legal terms are policy containers you fill with arguments
    - "Proximate cause" is just a conclusion we dress up with doctrine
+   - Your job: push courts to define terms in ways that benefit your client
+2. **Crystalline Structure (Balkin's Framework)** - Legal arguments are NOT infinite or random; they operate in FINITE BINARY PAIRS:
 
-2. **Crystalline structure repeats** - When analyzing intervening causes, you do the SAME two-part analysis:
-   - But-for causation for the intervening cause
-   - Proximate causation for the intervening cause
-   - "If there's a crystalline structure here, the same crystalline structure is below it"
+   - **Rules vs. Standards**: "Need bright-line rule" ↔ "Need flexible standard for fairness"
+   - **Individualism vs. Communalism**: "No liability without fault" ↔ "Liability where best-able-to-bear-loss"
+   - **Institutional Competence**: "Too complex for courts" ↔ "Courts must protect rights political process ignores"
+   - Once you identify opponent's argument, you AUTOMATICALLY deploy its crystalline opposite
+   - "If there's a crystalline structure here, the same crystalline structure is below it" = the same binary pairs repeat in causation analysis
+3. **Strategic Battlefield Migration** - Defense can shift from losing position to winning position:
 
-3. **Migration between standards** - Notice how causation questions can shift the battlefield away from mens rea
+   - Losing: "My client didn't act negligently" (hard to win on facts)
+   - Winning: "Even if negligent, the intervening cause breaks the chain" (fight over foreseeability standard)
    - "We've kind of moved from the back of the room to the front"
-   - Defense can concede negligence but fight on causation
-
+   - This is a deliberate shift from one side of a crystalline dyad to another
 4. **Proximate cause = "you're screwed"** - Direct quote: "You know what proximate cause really means? Means you're screwed. That's it. That's what it is. It's the conclusion."
-   - It's the legal system saying "we find liability here"
-   - But-for is factual; proximate is policy-driven
+
+   - Courts use "foreseeability" to rationalize predetermined liability findings
+   - But-for is factual; proximate cause is policy-driven (what SIDE of the dyad you're on)
 
 ### #EXAM_SIGNAL Pattern Recognition
 
-**Standard progression Harcourt expects:**
-1. Identify the actus reus (omission vs. commission)
-2. Determine duty (if omission)
-3. Assess mens rea level (negligence → criminal negligence → recklessness)
-4. Test causation (but-for → proximate)
-5. Check for intervening causes (apply same two-part test)
+**Crystalline Structure Applied to Willansky:**
 
-**Key transitions to master:**
-- When defense concedes negligence → fight moves to causation
-- When intervening cause emerges → reapply full causation analysis
-- When facts are ambiguous → fight over characterization (degree of risk, foreseeability)
+Harcourt cycles through the binary pairs explicitly:
+
+**PAIR 1: Rules vs. Standards**
+
+- Prosecution (Rules): "Objective standard - ordinary reasonable person would see the danger, regardless of defendant's actual knowledge"
+- Defense (Standards): "Subjective standard - wanton and reckless requires actual awareness; defendant was in hospital, didn't consult on daily operations"
+
+**PAIR 2: Individualism vs. Communalism**
+
+- Prosecution (Communalism): "Collective safety interests override - locked exits created systematic danger to all patrons; we need deterrence"
+- Defense (Individualism): "Individual fault required - barback's independent act (lighting match) is separate from defendant's omission; can't hold him responsible for unforeseeable acts of employees"
+
+**PAIR 3: Institutional Competence**
+
+- Prosecution: "Courts/juries are competent to assess recklessness through reasonable person standard"
+- Defense: "Too many variables; bar operated safely for 9 years under same conditions"
+
+**The Migration Move:**
+When defense is losing on **negligence/recklessness** (back row, Rules/Communalism), they FLIP to **intervening cause** (front row, Standards/Individualism):
+
+- "Even granting negligence, the barback's independent act is an intervening cause that breaks the chain"
+- This re-frames the binary from "Was defendant reckless?" to "Was the subsequent act foreseeable?"
+- Same factual causation test, but a DIFFERENT crystalline dyad deployed
+
+**Standard progression Harcourt expects you to master:**
+
+1. Identify which crystalline dyad governs (Rules vs. Standards? Individualism vs. Communalism?)
+2. Deploy strongest argument on your dyad
+3. When losing, flip to a DIFFERENT dyad where you have better footing
+4. Recognize opponent will do the same
+5. Be ready with counter-dyad argument
 
 ---
 
@@ -68,32 +125,31 @@
 ### Major Additions Not in Prep
 
 1. **Willansky case** - Deep coverage
+
    - Massachusetts has NO criminal negligence (unusual)
    - But then creates objective "wanton/reckless" standard anyway
    - Omission case (innkeeper duty)
    - Quote: "Even if defendant is so stupid or so heedless that in fact he did not realize the grave danger... if an ordinary normal man would have realized the gravity of the danger" - objective standard masquerading as subjective
-
 2. **Williams case** - Significant coverage
+
    - Washington state allows CIVIL negligence for statutory manslaughter
    - Parents of child with tooth infection → gangrene → death
    - Court "smooshed" categories: civil negligence = criminal negligence = extreme negligence
    - Causation defense: By Sept 5th, nothing could have saved child (doctor testimony)
    - Context: Native American community concerns about child removal
-
-3. **Crans Montana real case** (Swiss nightclub fire, New Year's Eve, 41 deaths)
-   - Used for live role-play exercise
-   - Prosecution vs. defense arguments on actual recent event
-   - Showed how all homicide doctrine comes together
+3. **me athe shoi**
 
 ### Prep Accuracy Assessment
 
 **What prep got right:**
+
 - Acosta and Arzon as main cases ✓
 - Two-part causation test (but-for + proximate) ✓
 - Foreseeability as key battleground ✓
 - MPC § 2.03 framework ✓
 
 **What prep missed:**
+
 - Willansky case (major coverage)
 - Williams case (major coverage)
 - Integration with earlier homicide material (sweep)
@@ -109,7 +165,9 @@
 ### Causation Framework (Harcourt's Version)
 
 **Two-Part Test:**
+
 1. **Factual Cause (But-For Test)**
+
    - "Sine qua non" - indispensable condition
    - Remove defendant's conduct; would harm still occur?
    - Usually easy to establish; very broad net
@@ -117,8 +175,8 @@
      - "But for his mother meeting his father..."
      - "But for the gas attendant fixing his flat tire..."
    - **Solution:** Need second prong
-
 2. **Proximate Cause (Legal Causation)**
+
    - **NOT a factual question** - it's a policy conclusion
    - Standards used:
      - "Not highly extraordinary" (Acosta)
@@ -132,26 +190,32 @@
 
 **Key Point:** Apply the SAME two-part test to the intervening cause
 
+**Clarification on "Proximate" Consistency:** The term "proximate" isn't being flipped—it's applied consistently. Proximate cause always means the harm/result is foreseeable (not too remote). For the defendant's primary conduct, if it's proximate, liability attaches. For an intervening cause, if it's proximate (foreseeable), it doesn't break the chain (defendant still liable). If the intervening cause is NOT proximate (unforeseeable), it might supersede and break the chain. Foreseeability is the key in both contexts—it's not contradictory, just directional.
+
 **Test for Intervening Cause:**
+
 1. Is it a but-for cause? (Does the intervening act independently cause the harm?)
 2. Is it proximate? (Foreseeable? Too remote?)
 
 **Examples from class:**
-- **Willansky:** Barback lighting match = intervening cause?
-  - But-for: YES (without match, no fire)
-  - Proximate: Fight over foreseeability
-  
-- **Acosta:** Pilot error = intervening cause?
-  - But-for: Arguable
-  - Proximate: Court said NO (foreseeable that people act recklessly in pursuit)
 
-- **Arzon:** Second arsonist = intervening cause?
-  - But-for: YES (second fire actually killed firefighter)
-  - Proximate: NO - defendant created "zone of vulnerability"
+- **Willansky:** Barback lighting match = intervening cause?
+
+  - But-for: YES (without the match, the fire wouldn't have started, igniting the flammable decorations)
+  - Proximate: YES (foreseeable) → intervening cause does NOT break chain
+- **Acosta:** Pilot error (helicopter collision) = intervening cause?
+
+  - But-for: YES (pilot's reckless violation of FAA rules directly caused the collision)
+  - Proximate: YES (foreseeable) → intervening cause does NOT break chain
+- **Arzon:** Second arsonist (separate fire) = intervening cause?
+
+  - But-for: YES (the second fire on the 2nd floor created the deadly smoke that killed the firefighter, not defendant's fire)
+  - Proximate: YES (foreseeable due to zone of vulnerability) → intervening cause does NOT break chain
 
 ### Duty in Omission Cases (Refresher)
 
 **Four sources of duty (Jones case):**
+
 1. **Statute** imposes duty
 2. **Status relationship** (parent-child)
 3. **Contractual duty** assumed
@@ -166,6 +230,7 @@
 ### People v. Willansky (Massachusetts, 1944)
 
 **Facts:**
+
 - Coconut Grove nightclub fire (492 deaths)
 - Capacity violations (way over capacity)
 - 4-5 exits blocked/locked (to prevent non-paying entry)
@@ -173,10 +238,12 @@
 - Barback lit match to change lightbulb → ignited palm tree decorations
 
 **Legal Issue:**
+
 - Is omission (failing to maintain safe exits) + absence from premises = "wanton and reckless conduct"?
 - Massachusetts: NO criminal negligence statute
 
 **Holding:**
+
 - YES - Wanton and reckless conduct even though objective standard
 - Defendant knew of conditions (normal operations, not one-time thing)
 - Even if defendant "so stupid or heedless" he didn't realize danger, liable if "ordinary normal man" would have
@@ -184,6 +251,7 @@
 **Verdict:** 12-15 years involuntary manslaughter
 
 **Exam Moves:**
+
 - **Omission** → Must establish duty first (innkeeper duty)
 - **Intervening cause defense:** Barback's match-lighting
   - But-for: YES
@@ -193,6 +261,7 @@
 ### People v. Acosta (California, 1991)
 
 **Facts:**
+
 - High-speed chase (48 miles, stolen car)
 - 4 police helicopters tracking
 - 2 helicopters collided (Costa Mesa pilot violated FAA rules)
@@ -200,20 +269,24 @@
 - Expert: Never heard of helicopter collision during pursuit before
 
 **Holdings:**
+
 1. **Proximate cause:** NOT "highly extraordinary result" - SATISFIED
+
    - Foreseeable that participants act recklessly during pursuit
    - Defendant's conduct placed helicopters in dangerous situation
-   
 2. **Implied malice:** NOT established - REVERSED
+
    - No evidence defendant consciously disregarded risk **to pilots**
    - High risk to ground, minimal risk to air
 
 **Key Teaching:**
+
 - Proximate cause can be satisfied even when implied malice isn't
 - Same facts, different legal standards, different outcomes
 - Shows artificial nature of legal categories
 
 **Exam Moves:**
+
 - Argue foreseeability broadly (general type of harm) vs. narrowly (specific manner)
 - Distinguish between risk to different groups of people
 - Intervening cause (pilot error) doesn't break chain if within foreseeable risks
@@ -221,6 +294,7 @@
 ### People v. Arzon (New York, 1978)
 
 **Facts:**
+
 - Defendant set fire on 5th floor (abandoned building)
 - Firefighters responded
 - **Separate fire** on 2nd floor (NOT defendant's) created deadly smoke
@@ -229,6 +303,7 @@
 **Holding:** Motion to dismiss DENIED - Sufficient causation
 
 **Test Applied:**
+
 1. **"Indispensable link":** Defendant's fire placed firefighters in building
 2. **"Zone of vulnerability":** Defendant created situation where firefighters were exposed to other dangers
 3. **Foreseeable victim:** Firefighters responding to fires are foreseeable victims
@@ -236,6 +311,7 @@
 **Key Doctrine:** Intervening cause doesn't break chain when defendant created the vulnerable position
 
 **Exam Moves:**
+
 - **Zone of vulnerability** language is powerful
 - Argue defendant "set in motion" chain of events
 - Distinguish from superseding causes (e.g., *Stewart* - hernia operation unrelated to stabbing)
@@ -243,24 +319,29 @@
 ### State v. Williams (Washington, 1971)
 
 **Facts:**
+
 - Parents, child with tooth infection → gangrene → death
 - Parents feared social services (history of Native American child removal)
 - Child sick Sept 1 → died Sept 12
 - Doctor testimony: By Sept 5, nothing could save child
 
-**Legal Issue:** 
+**Legal Issue:**
+
 - Can civil negligence = statutory manslaughter?
 - What about causation if child unsaveable?
 
 **Holding:**
+
 - Washington: YES - Simple civil negligence sufficient for statutory manslaughter
 - Court "smooshed" all categories into criminal liability
 
 **Causation Problem:**
+
 - But-for: Maybe? If treatment sought Sept 1-4?
 - Proximate: If nothing could be done by Sept 5, how is death legally caused by omissions?
 
 **Exam Moves:**
+
 - Challenge on **legal causation** even if but-for satisfied
 - If harm inevitable regardless of defendant's act, is there proximate cause?
 - Omission cases: Must establish duty + causation
@@ -272,11 +353,13 @@
 ### Tension: Scope of Criminal Liability
 
 **Broad Liability View (Prosecution):**
+
 - Deterrence: Hold defendants responsible for all reasonably foreseeable harms
 - Fairness: Defendant created risk; shouldn't escape liability due to how risk materialized
 - Public safety: Err on side of victims
 
 **Narrow Liability View (Defense):**
+
 - Fairness: Criminal punishment requires meaningful connection between act and harm
 - Limiting principle: Without limits, causation extends infinitely
 - Foreseeability: Only hold defendants liable for risks they actually perceived/should perceive
@@ -284,11 +367,13 @@
 ### Foreseeability Standard Critiques
 
 **Problem:** "Foreseeability" is conclusory
+
 - Everything is foreseeable in hindsight
 - Everything is unforeseeable if you frame it specifically enough
 - Legal system uses "foreseeability" to rationalize pre-determined outcomes
 
 **Harcourt's View:** This is a feature, not a bug
+
 - Law is artificial
 - Your job: Fill these terms with facts favorable to your client
 - Master the vocabulary, then manipulate it
@@ -296,14 +381,17 @@
 ### State Role in Willansky/Crans Montana
 
 **Should state liability offset defendant liability?**
+
 - Willansky: No inspections → fire
 - Crans Montana: No inspections since 2019, sprinklers not required for venue size
 
 **Argument FOR shared liability:**
+
 - Regulatory failure enabled harm
 - Prosecution uses state's standards to prove violation, but state didn't enforce
 
 **Argument AGAINST:**
+
 - Defendant has independent duty of care
 - State failure doesn't excuse defendant's omissions
 
@@ -333,8 +421,12 @@
 
 ### Intervening Causes
 - Apply SAME two-part test to intervening cause
-- Defendant still liable if:
-  - Intervening cause foreseeable
+- **Black Letter Rule: Chain Breaks If**
+  - Intervening cause is NOT proximate (unforeseeable/unusual)
+  - It's a superseding cause (independent, substantial factor in harm)
+  - Not within "zone of vulnerability" created by defendant
+- **Defendant Still Liable If**
+  - Intervening cause foreseeable (proximate)
   - Defendant created "zone of vulnerability" (*Arzon*)
   - Result is general type of harm risked
 
@@ -369,22 +461,24 @@
 ### New Statutes/Rules to Add
 
 **MPC § 2.03 - Causal Relationship (Revisit)**
+
 - Already in sources
 - Emphasize (2)(b): "not too remote or accidental"
 
 ### New Cases to Add
 
 1. **Commonwealth v. Willansky** (Massachusetts, 1944)
+
    - Coconut Grove fire
    - Omission + intervening cause
    - Objective standard for "wanton and reckless"
-
 2. **State v. Williams** (Washington, 1971)
+
    - Civil negligence = criminal liability
    - Causation with inevitable harm
    - Context: Native American child removal fears
-
 3. **People v. Stewart** (mentioned in *Arzon*)
+
    - Superseding cause example
    - Hernia operation unrelated to stabbing broke causal chain
 
@@ -405,12 +499,14 @@
 **Prompt:** "Proximate cause is an artificial legal construct that serves no meaningful limiting function on criminal liability. Discuss."
 
 **Arguments FOR:**
+
 - Harcourt's teaching: "It's artificial, serving matters of policy"
 - Everything foreseeable in hindsight (confirmation bias)
 - Courts apply inconsistently (compare *Acosta* outcomes)
 - Real limits come from mens rea, not proximate cause
 
 **Arguments AGAINST:**
+
 - Provides necessary limit beyond but-for causation
 - Reflects community standards of fairness
 - Prevents infinite regress of liability
@@ -419,13 +515,15 @@
 ### 2. Intervening Cause Hypo
 
 **Fact Pattern:**
+
 - Defendant robs victim, leaves him drunk in dangerous neighborhood
 - Good Samaritan finds victim, puts him in car to drive to hospital
 - Good Samaritan crashes car (texting while driving), victim dies
 
 **Analysis:**
+
 - But-for cause: YES (defendant's robbery placed victim in position)
-- Proximate cause: 
+- Proximate cause:
   - **PRO:** Zone of vulnerability (*Arzon*); foreseeable someone would assist
   - **CON:** Texting = superseding cause (intentional wrongful act)
 - Compare to *Kibbe* (victim left on roadside, killed by truck)
@@ -435,11 +533,13 @@
 **Issue:** Should defendant's criminal liability be reduced when state failed to enforce safety regulations?
 
 **Crans Montana example:**
+
 - No inspections since 2019
 - Sprinklers not required for venue size
 - Fire exits may not have met code
 
 **Doctrine:**
+
 - Defendant has independent duty (*Willansky*)
 - State failure doesn't break causal chain
 - But can argue for mitigation at sentencing
@@ -461,10 +561,12 @@
 ### Back Row vs. Front Row Teaching
 
 Harcourt divided class spatially:
+
 - **Back row:** Negligence/recklessness questions (Willansky, Williams)
 - **Front row:** Causation questions (Acosta, Arzon)
 
 **Purpose:** Show how legal analysis "migrates" between categories
+
 - Defense concedes negligence → fight moves to causation
 - Intervening cause question → same analysis as primary cause
 - All doctrine is interconnected (crystalline structure)
@@ -472,11 +574,13 @@ Harcourt divided class spatially:
 ### Role-Play Exercise: Crans Montana
 
 **Structure:**
+
 - Prosecution: 4 students (Canton of Valais)
 - Defense: 4 students (bar owners)
 - Judge: 1 student (mediating)
 
 **Facts used:**
+
 - 41 deaths, New Year's Eve fire
 - Capacity violations (200 capacity, 400+ present)
 - DIY foam ceiling (flammable)
@@ -486,6 +590,7 @@ Harcourt divided class spatially:
 - Fire exits locked inward/blocked
 
 **Prosecution arguments:**
+
 - Overcrowding (advertised to 400+ when capacity 200)
 - Flammable decorations (DIY foam)
 - Locked fire exits
@@ -493,6 +598,7 @@ Harcourt divided class spatially:
 - Sparkler practice reckless in enclosed space
 
 **Defense arguments:**
+
 - **State responsibility:** No inspections since 2019, sprinklers not required for size
 - **Intervening cause:** Waitress's sparkler act not part of bar protocol
 - **Common practice:** Sparklers standard in industry
@@ -501,6 +607,7 @@ Harcourt divided class spatially:
 ### Exam Prep Takeaway
 
 This exercise showed:
+
 1. How to integrate multiple doctrines (duty, negligence, causation)
 2. How to characterize facts (degree of risk, foreseeability)
 3. How to argue intervening causes
@@ -513,12 +620,29 @@ This exercise showed:
 ### "Crystalline Structure" Moment
 
 When defense raised intervening cause (barback's match in Willansky), Harcourt:
-1. Stopped class
-2. Referenced **Jack Balkin's crystalline structure**
-3. Made students see: Same analysis repeats at every level
-4. Intervening cause = mini-causation analysis (but-for + proximate)
 
-**Exam application:** When you see nested questions (e.g., intervening cause), apply the full framework at each level
+1. Stopped class and invoked Jack Balkin's *Crystalline Structure of Legal Thought*
+2. Made students see: Legal arguments are FINITE BINARY PAIRS, not infinite
+3. Once you identify opponent's argument, the crystalline opposite is PREDICTABLE
+
+**Balkin's Core Insight:**
+Legal discourse isn't creative or infinite. It's structured like a crystal - rigid, symmetrical, repeating patterns. For every legal argument, there's a pre-set counter-argument. The same binary pairs show up everywhere.
+
+**How Harcourt Applied It to Willansky:**
+
+When Prosecution argued: "Defendant created systematic danger (recklessness/communalism dyad)"
+
+Defense flipped to: "Intervening cause breaks chain (standards/individualism dyad)"
+
+This isn't random. The crystalline structure **automatically predicts this move**. Once you know your opponent chose Rules/Communalism, you know the counter-dyad is Standards/Individualism.
+
+**Exam application:**
+
+- Identify which crystalline dyad your opponent deployed
+- Deploy its automatic opposite
+- Show you understand the structure is FINITE and PREDICTABLE
+- Don't invent new arguments; cycle through the pre-set pairs
+- Master all dyads so you can flip between them strategically
 
 ### "Most Important Paragraph" Moment
 
@@ -531,6 +655,7 @@ Harcourt: The paragraph on proximate cause (p. 605, 11th ed.) is "**the most imp
 ### Migration Between Standards
 
 Showed how defense strategy involves **choosing your battlefield**:
+
 - Concede negligence, fight on causation
 - Concede but-for causation, fight on proximate cause
 - Concede primary cause, fight on intervening cause
@@ -542,13 +667,9 @@ Showed how defense strategy involves **choosing your battlefield**:
 ## Questions for Office Hours / Further Review
 
 1. **Willansky standard confusion:** How can a standard be called "wanton and reckless" (suggesting subjectivity) but applied objectively? Is this consistent with MPC framework?
-
 2. **Williams causation:** If doctor testifies child unsaveable by Sept 5, and child died Sept 12, how does proximate cause work? Is there a temporal cutoff?
-
 3. **Acosta split:** Why did court find proximate cause satisfied but implied malice not? Aren't they using similar foreseeability analyses?
-
 4. **State liability:** In Crans Montana scenario, can bar owners use state's failure to inspect as affirmative defense, or only mitigation?
-
 5. **MPC § 2.03 split:** Does proximate cause test differ for purpose/knowledge vs. recklessness/negligence? (Prep suggested yes, but class didn't cover)
 
 ---
@@ -558,11 +679,12 @@ Showed how defense strategy involves **choosing your battlefield**:
 ### Issue-Spotting Checklist for Causation
 
 When you see a result crime:
+
 1. **Actus reus:** Commission or omission?
    - If omission: Establish duty first (4 sources)
 2. **Mens rea:** Purpose, knowledge, recklessness, or negligence?
 3. **But-for causation:** Remove defendant's conduct; does harm still occur?
-4. **Proximate causation:** 
+4. **Proximate causation:**
    - Foreseeability of harm
    - Degree of risk
    - Substantial factor
@@ -575,19 +697,21 @@ When you see a result crime:
 
 - **Omissions:** Always check duty first
 - **Multiple actors:** Look for intervening causes
-- **Temporal gaps:** Use for "too remote" arguments  
+- **Temporal gaps:** Use for "too remote" arguments
 - **Unusual chains:** "Highly extraordinary result" language
 - **State involvement:** Regulatory failure angle
 
 ### Writing Tips
 
 **For proximate cause:**
+
 - Start with recognition it's policy-driven
 - Use court's language ("not highly extraordinary," "zone of vulnerability")
 - Argue both sides of foreseeability
 - Distinguish cases (superseding vs. foreseeable intervening causes)
 
 **For intervening causes:**
+
 - State explicitly: "Applying the crystalline structure..."
 - Do full two-part analysis for intervening cause
 - Use *Arzon* "zone of vulnerability" if defendant created situation
@@ -622,11 +746,13 @@ When you see a result crime:
 ## Next Class Prep
 
 **Class 9 (Feb 10):** Reminder re. Criminal Justice Process
+
 - Expect procedural overview (probably lighter doctrine)
 - May circle back to context for earlier substantive material
 - Good opportunity to ask lingering questions on homicide/causation
 
 **Action items:**
+
 - Update outline with causation section
 - Create causation flowchart
 - Draft intervening cause practice problem

@@ -28,17 +28,111 @@ transcript_qc:
 
 ---
 
-## 1. What Professor Emphasized (5 main points)
+## 0. RECAP: Adverse Possession (Classes 3-5)
 
-1. **The question "What should be ownable as property?" is distinct from "How does one come to own?"** Professor explicitly framed this class as a transition: we've been talking about various ways of acquiring ownership (first possession, adverse possession). Now we ask: what KINDS of things should the law treat as property at all? Body parts are the test case—born with them (ultimate "first possession"), but are they property? #EXAM_SIGNAL
+### What Adverse Possession Is
 
-2. **Moore v. Regents: Spleen cells are NOT property under existing conversion law, AND the court declines to extend conversion law to cover them.** Two-part analysis: (1) Existing conversion law requires interference with possession or ownership—Moore had no expectation of retaining spleen after surgery (no possession), and California statutes eliminate so many rights from the "bundle" that what's left isn't property (no ownership). (2) Court declines to extend because scientific research interests outweigh Moore's individual interests, and informed consent rules adequately protect privacy/dignity. #EXAM_SIGNAL
+**Definition**: A form of sequential possession (in context of real property). If someone trespasses on land long enough in the right way, they can become the owner—even against the original owner's wishes. Their right becomes "good against all the world."
 
-3. **The "bundle of rights" conception of property/ownership is ubiquitous in American property law.** Ownership = bundle of sticks. Remove one stick → still a bundle. Add a stick → still a bundle. But at some point, remove enough sticks and you just have one stick—no longer a bundle. Court uses this implicitly: California biomedical waste statutes "eliminate so many of the rights ordinarily attached to property" that what remains isn't property. #EXAM_SIGNAL
+**Contrast to tort law**: Normally, trespass = tort. But adverse possession says: after a statutory period, trespass can confer ownership.
 
-4. **Commodification = making things subject to market exchange that shouldn't be.** Loaded normative term (negative connotation in legal context). Professor connected it to first-day discussion of selling places in line. Applied to body parts, people (slavery), intellectual property. Justice Mosk's dissent invoked commodification concerns—worried about scientists/industrialists making billions off patient's tissue. #EXAM_SIGNAL
+**Traditional elements** (must be ALL met):
 
-5. **Jacque v. Steenberg Homes: The right to exclude is THE central right of property, and it's protected even when exercise is unreasonable.** Intentional trespass across 170-acre property with no damage → $1 nominal damages + $100,000 punitive damages. The real harm = loss of the RIGHT to exclude, not physical damage. Even unreasonable refusal to grant access is protected. #EXAM_SIGNAL
+1. **Actual**: Physically occupying the land. Example: occupying 2 acres of a 50-acre parcel = actual possession of those 2 acres, not the whole thing.
+
+2. **Exclusive**: Adverse possessor must possess "to the exclusion of everyone else's claims" and act "in ways that unequivocally indicated exercising dominion of a sole owner." BUT: owner can voluntarily let others use; that's consistent with exclusive possession.
+   - Case: *Scott v. Anderson Tully* (timber-cutting on someone else's land).
+
+3. **Open and Notorious**: 
+   - **Open**: How visible was the possession? "Good people see it if you're looking at it."
+   - **Notorious**: Was the community aware? Did the neighbors know what was going on?
+   - Case: *Scott v. Anderson Tully*.
+
+4. **Continuous**: Must be ordinary use for that type of property.
+   - Example: Summer home = seasonal occupation sufficient (don't need year-round occupancy).
+   - **Tacking**: Can add predecessor's time if there's sufficient privity (just a legally relevant relationship; low bar).
+   - Case: *Howard v. Kunta*.
+
+5. **Adverse or Hostile, Under Claim of Right**: Possession must be contrary to the true owner's rights = you didn't have permission.
+   - **Objective, not subjective**: Hostility means "contrary to their legal rights," not animosity or ill will in the actor's mind.
+   - **Competing conceptions of "claim of right"**: Some states require good faith; some don't care; some (Maine, maybe) required bad faith (outlier).
+   - Case: *Carpenter v. Ruperto* (requires good faith; outlier).
+
+6. **Statutorily required time**: Varies by state. NY = 10 years. Minimum in US = 5 years. May be extended by tolling for disabilities (minority, insanity, etc.).
+
+### Why Adverse Possession Exists? (Policy Justifications)
+
+1. **Psychology**: People grow attached to property after being there a long time. Wresting it away is harsh.
+
+2. **Active use over idle ownership**: Property law favors productive use. If true owner leaves land vacant/junk-filled, but adverse possessor improves it, maybe adverse possessor should win.
+   - Example: *Carpenter v. Ruperto*—woman grades lot, plants grass, installs propane tank. Makes productive use.
+
+3. **Decreasing information costs**: If property has been occupied for (e.g., 10 years), you can rely on that. Don't want to worry about old deeds in great aunt's attic popping up 110 years later. Statute of limitations = certainty.
+
+### Key Controversies
+
+**Good faith vs. bad faith**: Traditional justifications say nothing about whether AP was done in good faith or bad faith. Both are rewarded.
+- Makes sense theoretically but feels weird normatively to many people.
+- Some states (NY) have changed law to require good faith.
+
+**Professor's point**: Standard justifications may be incomplete. They may be missing important normative considerations.
+
+---
+
+## 1. Main Points (organized by question)
+
+### A. MAIN POINT 1: What kinds of things SHOULD be ownable as property?
+
+**Context**: Professor framed this class as a **shift in focus**. We've spent Classes 1-5 on "how do you acquire ownership?" (first possession, adverse possession). Now: "what KINDS of things should the law treat as property at all?"
+
+**The test case**: Body parts. You're born with them (ultimate "first possession"), but should they be property? Can you sell your spleen?
+
+**Moore v. Regents answer: NO. Spleen cells are NOT property.**
+
+**Two-part analysis:**
+
+1. **Does existing conversion law cover this?** 
+   - **No possession**: Moore had no expectation of retaining the spleen after surgery. Conversion requires interference with possession or ownership.
+   - **No ownership**: California biomedical waste statutes eliminate so many rights from the "bundle" that what's left isn't property. (At some point you remove enough sticks and it's no longer a bundle.)
+
+2. **Should conversion law be extended to cover body parts?**
+   - **No.** Court does social balancing: scientific research interest > Moore's individual interest (even considering commodification/dignity concerns).
+   - **Why no extension?** Three reasons: (1) Informed consent rules adequately protect patients; (2) Property rights would impede research (assembly costs problem); (3) Institutional competence—legislature, not courts, should decide this fraught policy question.
+
+**The commodification concern (Mosk's dissent)**: Allowing Moore to own and sell his spleen = making humans tradeable = "akin to slavery." Court avoids this by refusing to extend property law to body parts. Instead: regulate through specialized statutes, informed consent, fiduciary duty—but NOT property rights.
+
+**Doctrinal takeaway: Bundle of rights framework matters.** Some things (land, chattels) = property → full bundle of sticks. Some things (body parts) = NOT property → their own category ("sui generis"), regulated by alternative doctrines. #EXAM_SIGNAL
+
+---
+
+### B. MAIN POINT 2: What rights does property ownership actually give you?
+
+**The answer (from Jacque)**: The **right to exclude** is central and absolutely protected—even when exercised unreasonably, even when no actual damage occurs.
+
+**Jacque v. Steenberg Homes**:
+- Steenberg trespasses across 170-acre property to deliver mobile home (no actual damage; probably never touched dirt under 7 ft of snow).
+- Jacques' stated reason for refusing: afraid of adverse possession (risk was actually zero—permission defeats hostility).
+- Award: $1 nominal damages + $100,000 punitive damages.
+
+**The holding**: Intentional trespass → punitive damages available even without compensatory/actual damages.
+
+**Why?** The real harm = **loss of the right to exclude itself**, not physical damage. The law protects this right even when:
+- The owner's reason is unreasonable (AP fear was baseless)
+- The owner's behavior wasn't "neighborly" (they refused payment, called witnesses)
+- No actual property damage occurred
+
+**Policy underneath**: Without strong remedies, trespass becomes "pay $1 and do it anyway" for repeat players. This deters self-help violence and vindicates an important right independent of measurable harm. #EXAM_SIGNAL
+
+**Note**: State Farm v. Campbell (post-Jacque, 2003) says punitive/compensatory ratios > 9:1 are "presumptively suspect" constitutionally. Today's courts would likely reduce $100,000:1 substantially—but it's only a defeasible presumption.
+
+---
+
+### C. ORGANIZATIONAL NOTE: The shift
+
+- **Classes 1-5**: Acquisition (first possession, adverse possession)
+- **Class 6 onward**: Two new questions:
+  - (Moore) What kinds of things CAN/SHOULD be property?
+  - (Jacque) What rights come with ownership?
 
 ---
 

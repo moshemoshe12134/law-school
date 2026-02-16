@@ -13,8 +13,8 @@
 
 Whether the district court properly granted summary judgment holding that EchoCraft's song "Revere Paul Revere?" constitutes fair use under 17 U.S.C. § 107 where:
 
-1. EchoCraft released the song through its nonprofit educational division at or below cost for the purpose of correcting historical inaccuracies and prompting critical discussion;
-2. The song added seven new lines (50% new content) that transformed the original's celebratory message into critical educational inquiry;
+1. EchoCraft released the song through its nonprofit educational subsidiary division at or below cost for the purpose of correcting historical inaccuracies and prompting critical discussion;
+2. The song copied seven lines verbatim (87.5%) but added seven new lines (50% new content) that transformed the original's celebratory message into critical educational inquiry;
 3. The verbatim copying of seven lines was necessary to establish the traditional narrative before questioning it; and
 4. Appellant lost a single preliminary negotiation with no signed contract, agreed price, or established licensing market.
 
@@ -34,7 +34,7 @@ All four statutory factors support fair use:
 
 **Factor 2** (nature) slightly favors Appellant but carries minimal weight per *Campbell*: Riven's work consists largely of factual historical content with limited creative expression.
 
-**Factor 3** (amount/substantiality) favors fair use: While percentage copied is high (87.5%), the copying was reasonable and necessary to accomplish the critical purpose of establishing the traditional narrative before questioning it.
+**Factor 3** (amount/substantiality) favors fair use: While percentage of lyrics copied is high (87.5%), the copying was reasonable and necessary to accomplish the critical purpose of establishing the traditional narrative before questioning it. The 50% new content directly corrects the copied lines.
 
 **Factor 4** (market effect) strongly favors fair use: No established market existed—only preliminary negotiations without contract, price, or agreement. Appellant's loss stems from market preference for a superior educational work, not impermissible substitution.
 
@@ -157,7 +157,8 @@ All four statutory factors support fair use:
 
 ##### a. Primary Purpose Test
 
-- Released through EchoCraft Ed (nonprofit educational division)
+- Released through EchoCraft Ed (nonprofit educational subsidiary of for-profit parent company)
+- Parent company EchoCraft Productions is major for-profit record label
 - Licensed at/below cost ($200 to schools) (Record p.74-75)
 - No direct profit from song sales
 - Primary purpose: educational improvement
@@ -326,6 +327,8 @@ All four statutory factors support fair use:
 - Here: No—corrections require showing what is being corrected
 - Seven lines contain the specific inaccuracies EchoCraft corrects
 - Could not write "Revere revealed some secrets" without context of original's "revealed no secrets"
+- Could not add "though others helped raise that warning's light" without first establishing original's implication that Revere acted alone
+- The verbatim copying establishes the baseline narrative that the new content then corrects
 - **FINDING:** *Penguin Random House LLC v. Colting*, 270 F.Supp.3d 736 (S.D.N.Y. 2017): Copying "not necessary to serve transformative purpose" where "nearly all of infringers' books were devoted to telling copyrighted stories, with only two pages purporting to analyze"
 - Court scrutinizes whether less copying could accomplish same critical/educational goals
 - Copying must be necessary for the specific critical purpose, not just helpful

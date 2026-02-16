@@ -8,12 +8,16 @@ status: draft
 inputs:
   syllabus_assignment: 01_SOURCES/syllabus/assignments/2026-02-13_class11.md
   past_outline: 01_SOURCES/past_outlines/Crim_Spring 2025_Harcourt_Full.docx.md
+  class10_review: 04_REVIEWS/CrimLaw-Review-2026-02-12_class10_review.md
 notes:
-  - Theory/policy-heavy class - shift from doctri to critical analysis
+  - Theory/policy-heavy class - shift from doctrine to critical analysis
+  - BUILDS ON CLASS 10: Foucault provided genealogical method; today shows punishment's actual social functions (racial control, labor extraction)
   - Alabama slavery cases show law's role in maintaining social order
   - Cover: judicial complicity in unjust systems
   - Foucault: how legal procedures produce "truth" and maintain power
   - Harcourt focus: what WORK is punishment doing? (not just stated purposes)
+  - Connect to Class 10's "reform paradox" — procedural fairness may extend system rather than limit it
+  - Link to "cooperation paradigm" alternative
 ---
 
 # Text Prep — Class #11 — The Function of Punishment
@@ -23,6 +27,8 @@ notes:
 **Target length:** 700-1000 words  
 **Prep time:** 15-20 minutes  
 **Philosophy:** This is a **theory/policy/critical** class, not doctrine. Focus on unstated functions of law, judicial complicity, and how punishment maintains social hierarchies.
+
+> **CONNECTION TO CLASS 10:** Foucault gave us **genealogical method** (trace discontinuities, expose power/knowledge regimes). Today we **apply** it: Alabama slavery cases show how procedural "fairness" legitimates substantive oppression — parallel to Foucault's "reform paradox" (reform extends system rather than limits it).
 
 ---
 
@@ -152,6 +158,8 @@ The syllabus asks you to consider:
 - We rarely study **complicity** — judges/officials who enforce laws they personally believe are immoral
 - **Why?** Studying complicity questions legitimacy of legal systems themselves
 
+**Connection to Foucault (Class 10):** Foucault rejects "Whig history" (progress narrative). Cover similarly rejects celebrating resisters while ignoring how "good people" participate in oppressive systems. Both use **genealogical approach** — examine actual functions, not stated purposes.
+
 ### Captain Vere as Model for Judicial Complicity
 
 **Billy Budd summary:**
@@ -189,32 +197,37 @@ The syllabus asks you to consider:
 
 ---
 
-## 5. MICHEL FOUCAULT — "Lecture of April 22, 1981" (Key Arguments)
+## 5. MICHEL FOUCAULT — "Lecture of April 22, 1981" (from *Wrong-Doing, Truth-Telling*)
 
-### The Central Question: How Do Legal Procedures Construct "Truth"?
+### The Central Question: How Does Early Law Construct "Truth"?
 
 **Foucault's method:**
-- Examines chariot race dispute in Homer's *Iliad* (Book 23, Patroclus's funeral games)
-- Not interested in "what really happened" — interested in **how truth is established through procedure**
+- Analyzes the chariot race dispute in Homer's *Iliad* (Book 23) to understand the **pre-judicial** form of truth-telling.
+- Contrasts this "ritual test" (*épreuve*) with the later "inquiry" (*enquête*) found in *Oedipus Rex*.
 
-**The dispute:**
-- Chariot race; question of who came in second place
-- Competitors: Diomedes (1st), then dispute over 2nd/3rd between Eumelus and Antilochus
-- Antilochus took 2nd by driving recklessly (Nestor had advised him to use tricks to win)
-- Menelaus claims Antilochus cheated; demands Antilochus swear oath OR concede prize
+**The Dispute in the *Iliad*:**
+- **Context:** Funeral games for Patroclus. Antilochus finishes 2nd; Menelaus finishes 3rd.
+- **The Accusation:** Menelaus claims Antilochus won by "guile" (*dolos*) and reckless driving (cutting him off), not by the speed of his horses or legitimate skill.
+- **The Problem:** There is no neutral judge. A witness (Phoenix) was present but is **not called to testify**. Observation is not yet the standard for legal truth.
 
-**Key insight:**
-- Truth is NOT determined by "what happened" (no replay, no neutral witnesses)
-- Truth determined by **judicial ritual**: who can demand oath? Who must swear? What does refusal to swear mean?
-- Menelaus has standing to challenge because of his status; his demand for oath is itself a form of judgment
-- Antilochus **doesn't swear** — instead, offers prize to Menelaus voluntarily
-- By not swearing, Antilochus avoids making a formal "avowal" of wrongdoing, but outcome is same
+**The Solution: The Decisory Oath (*Serment Décisoire*):**
+- Menelaus challenges Antilochus: Stand before your horses, hold your whip, and swear by Poseidon that you did not impede me by fraud.
+- **The Logic:** This is a continuation of the struggle (*agon*). It is a test of strength/risk, not a search for facts.
+- **The Mechanism:** The "truth" depends on whether Antilochus dares to swear.
+    - If he swears: He wins the argument (but risks divine punishment).
+    - If he refuses: He loses the argument.
 
-**Foucault's broader claim:**
-- Legal procedures don't **discover** truth; they **produce** truth
-- "Avowal" (confession, oath) is mechanism by which legal system generates truth-claims
-- The procedure itself (who can speak, when, in what form) determines what counts as "true"
-- This is how law maintains power: by controlling the production of truth
+**The Outcome:**
+- Antilochus **refuses to swear**. He pleads his youth and impetuosity, effectively conceding. He voluntarily hands over the prize.
+- Menelaus, appeased by this submission, gives the prize back to Antilochus.
+
+**Key Theoretical Insights:**
+1.  **Truth as Victory, Not Fact:** In archaic law, truth is not "discovered" (via evidence/investigation) but **established** through a ritual test between adversaries.
+2.  **Continuity with War:** The judicial process is not a suspension of the battle but a ritualized continuation of it.
+3.  **No "Third Party":** Truth emerges from the confrontation of the two parties, not from a neutral third party (judge/investigator) examining the facts.
+4.  **Relevance:** This marks a historical stage before the invention of the "inquiry" (investigation/inquisition) which Foucault argues defines modern justice and disciplinary power.
+
+*(Note: Distinguish this from Foucault's later work in Discipline & Punish regarding the "examination." Here, he is tracing the genealogy of the "inquiry" itself.)*
 
 **Connection to Clarissa/Wyatt:**
 - Enslaved people's confessions are **compelled** through violence (whipping) and power relation (master-slave)
@@ -278,11 +291,13 @@ The syllabus asks you to consider:
 
 ## 7. POLICY/THEORY ARGUMENTS
 
-**Argument 1: Procedural Fairness Can Legitimate Injustice**
+**Argument 1: Procedural Fairness Can Legitimate Injustice ("Reform Paradox")**
 - Alabama courts exclude coerced confessions (procedural win for defendants)
 - BUT this makes slavery appear compatible with "rule of law"
 - Procedural protections can serve to **entrench** substantive injustice by making system appear fair
 - Modern parallel: Miranda rights make police interrogation appear legitimate; but does that legitimize mass incarceration?
+
+**Connection to Class 10:** This is Foucault's **"reform paradox"** (via Angela Davis: "Prison reform is its program"). *Clarissa/Wyatt* don't challenge slavery — they **reform** it by making it appear fair. Reform extends system's reach rather than limiting it. "**We've become smarter, not more humane**" (Harcourt).
 
 **Argument 2: Judicial Complicity Is Under-Examined**
 - We celebrate resisters (Antigone, MLK) but don't study complicit officials (Creon, judges who enforced slavery)
@@ -300,6 +315,13 @@ The syllabus asks you to consider:
 - *Clarissa/Wyatt*: Law simultaneously treats enslaved people as persons (with procedural rights) and property (ownership relation determines confession admissibility)
 - Law doesn't just reflect social hierarchy; it **produces** it
 - Categories like "slave," "felon," "citizen" are legal constructs that shape lived reality
+
+**Argument 5: Alternative Paradigm — Cooperation, Not Punishment**
+- Harcourt's conclusion from Class 10: "**This is no time for backsliding on prison... strive for a new episteme.**"
+- Reform isn't enough (extends system); need **cooperation paradigm**
+- "Care about people from start, rather than investing in them only through prison"
+- Alabama cases show: procedural reform within oppressive system still oppressive
+- Need to question the **system itself**, not just improve procedures within it
 
 ---
 
@@ -362,3 +384,11 @@ The syllabus asks you to consider:
 - judicial dilemma
 - role morality
 - legal formalism
+- reform paradox
+- cooperation paradigm
+- genealogy
+- power/knowledge
+- episteme
+- Whig history
+- docile bodies
+- productive power

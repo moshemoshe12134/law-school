@@ -9,11 +9,13 @@ inputs:
   syllabus_assignment: 01_SOURCES/syllabus/assignments/2026-02-12_class10.md
   readings: 01_SOURCES/readings/04_punishment_theory/Foucault Discipline and Punish.txt
   readings: 01_SOURCES/readings/04_punishment_theory/Bernard E. Harcourt Cooperation Chapter 6 2023.txt
+  readings: 01_SOURCES/readings/11_sent_during_semester/AN UPDATED READING (2025) OF MICHEL FOUCAULTS-DISCIPLINE-AND-PUNISH1975.md
 notes:
   - Transition class - from practice/doctrine to theory
   - Foucault's central claim - punishment creates social order, not just responds to crime
   - Connection to next class (11) on function of punishment
   - Abolition movement as alternative to punishment paradigm
+  - UPDATED: Harcourt's 2025 Reader's Companion now available with new archival insights
 ---
 
 # Text Prep — Class #10 — Michel Foucault, Discipline and Punish
@@ -36,8 +38,10 @@ notes:
   - Part Three (excerpt): "Discipline" - Docile bodies and techniques of control
 
 ### Supplementary Readings:
-- **Bernard E. Harcourt, "Michel Foucault, Discipline and Punish (1975) — A Reader's Companion (2025)"** (on SSRN)
-  - Note: Not available in folder; lecture video substitutes
+- **Bernard E. Harcourt, "Michel Foucault, Discipline and Punish (1975) — A Reader's Companion (2025)"** (forthcoming, SSRN)
+  - Readings: `11_sent_during_semester/AN UPDATED READING (2025) OF MICHEL FOUCAULTS-DISCIPLINE-AND-PUNISH1975.md`
+  - **Key insight from new archives:** Foucault's book isn't a history of prisons—it's a genealogy of how power circulates in modern society, using the prison as a case study
+  - Draws on newly available materials: Collège de France lectures, BnF manuscripts, GIP archives
 
 - **Lecture on Foucault:** https://youtu.be/-QJ-xMd9XsY?si=AvnMlx1SODs2J7in
 
@@ -91,6 +95,93 @@ notes:
 > "We have, then, a public execution and a time-table. They do not punish the same crimes or the same type of delinquent. But they each define a certain penal style. Less than a century separates them."
 
 **What changed?** Not just "humanization" or "progress" — something fundamental about the **object, mechanisms, and function** of punishment.
+
+---
+
+## 2.5 NEW INSIGHTS FROM HARCOURT'S 2025 READER'S COMPANION
+
+Harcourt's 2025 essay draws on three major new archival sources that transform our understanding of *Discipline and Punish*:
+
+### The Three New Archives:
+
+1. **Collège de France Lectures (1970-1973)** — Foucault's thirteen years of lectures, especially those immediately preceding the book
+2. **Bibliothèque nationale de France Manuscripts (2014 deposit)** — 40,000+ pages of notes, drafts, journals
+3. **G.I.P. Archives** — Documents from Foucault's prison activism with the Prisons Information Group
+
+### Key Reinterpretation #1: Not a History of Prisons
+
+**The scholarly controversy:** Recent historians (Abolafia 2024; Larsen & Letteney 2025) argue prisons existed in ancient Rome and Greece — Foucault "got it wrong" by dating imprisonment to the modern period.
+
+**Harcourt's response (from the archives):**
+- Foucault was never writing a "history of the prison"
+- He was writing a **genealogy of a new mode of governing** — using the prison as a case study
+- The early draft manuscript shows Foucault called panopticism a "tribute to Bentham" — a **metaphor** for generalized discipline, not literal architectural plans
+- As Foucault wrote: "If we call 'disciplinary' the mechanisms of spatial distribution... then let us pay tribute to Bentham and call 'panoptic' a society where power is exercised through generalized discipline"
+
+> "Discipline and Punish was never intended to be a 'history' of the prison. That indeed would have entailed cataloguing the prior carceral institutions, from the debtors' prisons and the infamous Rasphuis in Amsterdam, to Medieval dungeons and their Greek and Roman antecedents. Foucault was doing something else: not a history of the prison, but a genealogy which sought to unearth the new way in which power circulated in modern society." (Harcourt 2025)
+
+### Key Reinterpretation #2: The "Power of Truth" Framework
+
+From the Collège de France lectures, we now understand Foucault's project differently:
+
+**Three stages of Foucault's research (1972-1975):**
+1. **1972:** Analysis of the Nu Pieds rebellion — emergence of repressive power through state judicial apparatus
+2. **1973:** Conceptualization of "punitive society" — disciplinary techniques producing docile individuals
+3. **1975:** Elaboration of the "panoptic" device — formalization of power itself
+
+**The real question at the center of the book:** Not "why did the prison emerge?" but "how does modern society produce truth about subjects through legal forms?"
+
+- The book is a **case study of the production of legal and scientific truth** about the modern subject
+- Foucault traced how the "examination" becomes a new juridical form that extracts surplus-knowledge
+- This produces the "human sciences" (criminology, psychology, psychiatry) as effects of power
+
+### Key Reinterpretation #3: Against Hobbes, Not Just Prisons
+
+From Foucault's notebooks (BnF, box XCII), we find his explicit break with modern political theory:
+
+**Hobbes's model:** War of all against all → social contract → peace, war expelled from the Commonwealth
+
+**Foucault's counter-model (Dec 24, 1972 notebook):**
+> "At the center, place the most reviled of wars: civil war. This is not war pure and simple... It is not the struggle of all against all; it is the struggle of some against some... Civil war takes place everywhere."
+
+- **Politics as continuation of civil war** — not the other way around (contra Clausewitz)
+- Power relations must be described through "permanent struggle, a silent but continuous war"
+- This explains the closing reference to the "roar of battle" in *Discipline and Punish*
+
+### Key Reinterpretation #4: Prison Reform as Prison's "Program"
+
+From the G.I.P. archives, we understand Foucault's activism as directly connected to his theory:
+
+**Foucault's experience at Attica (April 1972):**
+- Described as "overwhelming" — shifted him from "repression" to analyzing "positive functions" of penality
+- New question: "What role does capitalist society's penal system play? What aim is sought? What effects are produced?"
+
+**The reform paradox:**
+> "Prison 'reform' is virtually contemporary with the prison itself: it constitutes, as it were, its programme." (DP 234)
+
+- Reform doesn't fix prisons — it **enables their continued existence**
+- This is Angela Davis's point in *Are Prisons Obsolete?* — reform and prison have always been linked
+- Harcourt: "Reforming the prison means breathing new life into the institution"
+
+### Key Reinterpretation #5: Beyond Discipline — Looking Forward
+
+**Disciplinary power isn't sufficient for today:**
+- We live in an age of "warehousing, zero tolerance, algorithmic surveillance, and the rise of the global far-Right"
+- The digital age involves an "expository society" where power circulates through desire and lust, not just internalized discipline
+
+**What Foucault offers today:**
+- Not a specific model of power (discipline/panopticism) that fits every era
+- A **method** for analyzing power relations, knowledge-power, and forms of governmentality
+- Tools to "find ways to resist new forms of inhumanity and to articulate new paradigms of cooperation"
+
+**The political stakes (Harcourt's conclusion):**
+> "What are the political implications of a narrative of continuity at the present moment? ... All historical scholarship—and genealogical work as well—is always a matter of continuities and differences. What work does it do to stress the continuities today?"
+
+- Stressing continuity with ancient prisons undermines the radical break that abolition demands
+- We have overcome other historical inhuman practices (slavery, interrogational torture) — not just reformed them
+- "This is no time for backsliding on the prison... It is especially important to look forward, not backwards and strive for a new episteme."
+
+---
 
 ---
 
@@ -249,23 +340,47 @@ BUT: "What new form of power emerged? What does it target? How does it operate? 
 - Psychiatric expertise, criminal anthropology, risk assessment
 - Does this extend power or protect defendants?
 
+**4. History vs. Genealogy — Why does the distinction matter?**
+- New scholarship argues prisons existed in ancient times (does this refute Foucault?)
+- Harcourt: Foucault wasn't writing history — he was writing **genealogy of power**
+- What's the difference between tracing continuity (history) and rupture/new forms (genealogy)?
+- Why does this matter for abolition?
+
 ### On the Punishment Paradigm:
 
-**4. Does Foucault's analysis apply to the U.S. today?**
+**5. Does Foucault's analysis apply to the U.S. today?**
 - Public spectacle disappeared? (Consider: perp walks, arrest footage, mugshots online)
 - Body no longer target? (Consider: police violence, solitary confinement, prison conditions)
 - Or has punishment become simultaneously more hidden AND more visible?
 
-**5. What is the relationship between punishment and social order?**
+**6. What is the relationship between punishment and social order?**
 - Foucault/Harcourt claim: punishment doesn't just respond to disorder, it **creates** order
 - In U.S.: racial and class hierarchies maintained through criminal legal system
 - Is this conspiracy theory or structural analysis?
 
-**6. Is abolition realistic or utopian?**
+**7. The Reform Paradox — Does reform help or hurt?**
+- Foucault: "Prison reform is virtually contemporary with the prison itself: it constitutes... its programme"
+- Angela Davis: Reform has always been part of what creates new prisons
+- Harcourt: "Reforming the prison means breathing new life into the institution"
+- Is this too cynical? Can meaningful reform exist?
+
+**8. Is abolition realistic or utopian?**
 - What would society without punishment look like?
 - Cooperation paradigm: invest in support rather than punishment
 - Objection: but what about serious harm? Violence? Murder?
 - Abolitionist response: ??? (to be developed in class)
+
+### New from Harcourt's 2025 Companion:
+
+**9. What does "politics as continuation of civil war" mean?**
+- Foucault's notebooks: "Civil war takes place everywhere" — not before social contract, but **within** it
+- Against Hobbes: war doesn't end with the Commonwealth, it just changes form
+- How does this frame help us understand criminal law today?
+
+**10. Beyond Discipline — What power structures exist today?**
+- Harcourt: Foucault's disciplinary model may not fully explain algorithmic surveillance, warehousing, zero tolerance
+- Power today circulates through "desire and lust" in the expository/digital society
+- How would Foucault analyze mass incarceration, ICE detention, predictive policing?
 
 ---
 
@@ -303,6 +418,12 @@ BUT: "What new form of power emerged? What does it target? How does it operate? 
 - Deeper answer: note how felony murder extends criminal liability to create broader net of "delinquents" subject to state control (very Foucauldian)
 - Don't overdo theory, but show you understand legal categories serve social functions
 
+**New from Harcourt 2025 — The "Reform" Angle:**
+- Exam may present reform scenario (e.g., "Should we adopt the MPC approach to X?")
+- Foucault/Harcourt insight: reform often **extends** rather than limits punitive systems
+- Example: "Three strikes" reforms, "truth in sentencing," risk assessment tools — all presented as improvements but expanded carceral reach
+- Be wary of questions that invite you to simply "fix" the system — show you understand the reform paradox
+
 ---
 
 ## 9. BOTTOM LINE FOR CLASS
@@ -320,8 +441,26 @@ Modern punishment is **not** simply a humane replacement for pre-modern torture.
 
 If punishment functions primarily to maintain social order (especially racial/class hierarchy) rather than to protect public safety, then:
 1. Reform is insufficient — tinkering with system that serves unjust function
-2. Abolition becomes thinkable — not chaos, but alternative paradigm
-3. Cooperation paradigm — invest in mutual support, not punishment
+2. **Reform IS the prison's program** — reform breathes new life into the institution (Harcourt 2025)
+3. Abolition becomes thinkable — not chaos, but alternative paradigm
+4. Cooperation paradigm — invest in mutual support, not punishment
+
+### What's New from Harcourt's 2025 Companion:
+
+**Foucault wasn't writing a history of prisons:**
+- He was writing a **genealogy of how modern societies produce truth about subjects**
+- The prison was his case study for a broader analysis of power/knowledge regimes
+- Panopticism was a **metaphor** for generalized discipline, not just architectural plans
+
+**Foucault's method matters more than his specific model:**
+- Disciplinary power (19th century) may not fully explain today's digital/expository society
+- But his **genealogical method** — studying how power produces truth — remains essential
+- We need to use his method to analyze algorithmic surveillance, warehousing, zero tolerance
+
+**The political stakes of "continuity":**
+- Arguments that "prisons have always existed" undermine the radical break abolition demands
+- We've overcome other historical inhuman practices (slavery, torture) without reform — why not prisons?
+- Harcourt: "This is no time for backsliding on the prison... strive for a new episteme."
 
 ### What to Watch For in Discussion:
 
@@ -329,7 +468,8 @@ If punishment functions primarily to maintain social order (especially racial/cl
 - What is the relationship between "discipline" (Foucault) and "abolition" (contemporary movement)?
 - How do we reconcile skepticism about punishment with need to respond to serious harm?
 - Is the cooperation paradigm realistic, or does it assume too much about human nature?
+- **New:** How do we use Foucault's method to analyze power structures beyond disciplinary institutions?
 
 ---
 
-**REMEMBER:** This is a **theory** class. You're not expected to have all the answers. The goal is to question assumptions about punishment that seem natural or inevitable. Foucault's method is to make the familiar strange — to see that our system is historically contingent, serves particular functions, and could be otherwise.
+**REMEMBER:** This is a **theory** class. You're not expected to have all the answers. The goal is to question assumptions about punishment that seem natural or inevitable. Foucault's method is to make the familiar strange — to see that our system is historically contingent, serves particular functions, and could be otherwise. The new archival insights show us that Foucault was developing a method for analyzing power, not just describing 19th-century prisons.

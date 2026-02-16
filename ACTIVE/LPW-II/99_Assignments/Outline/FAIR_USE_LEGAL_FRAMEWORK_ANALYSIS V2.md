@@ -60,7 +60,7 @@ The Supreme Court's fair use framework contains both rigid mandates and flexible
 
 **FIXED PRINCIPLE:** Adding new lyrics, new aesthetic, or new meaning doesn't automatically satisfy Factor 1. The secondary user must justify *why* copying was necessary for the distinct purpose.
 
-**IMPLICATION FOR ECHOCRAF T:** We cannot rely solely on "our version sounds different" or "we added educational context." We must demonstrate that copying Riven's melody was **necessary** to create recognizable criticism that comments *on Riven's work itself*.
+**IMPLICATION FOR ECHOCRAFT:** We cannot rely solely on "our version adds corrections" or "we added educational context." We must demonstrate that copying Riven's specific lyrics was **necessary** to create recognizable criticism that comments *on Riven's work itself*.
 
 ---
 
@@ -77,7 +77,7 @@ The Supreme Court's fair use framework contains both rigid mandates and flexible
 
 **COUNTERARGUMENT STRATEGY:** We need to reframe our criticism as having "critical bearing" on Riven's work. Possible arguments:
 - Riven's song perpetuates harmful historical myths; our criticism targets *this specific perpetuation*
-- By using the melody students already know, we create pedagogical tension that highlights the contrast between popular myth and historical truth
+- By quoting the lyrics students have learned, we create pedagogical tension that highlights the contrast between popular myth and historical truth
 - The criticism has "critical bearing" on Riven's *educational impact*, not just general history
 
 ---

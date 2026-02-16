@@ -174,7 +174,7 @@ This class focuses on **due diligence** as a fundamental tool for addressing **a
 
 ---
 
-## Question 3: Due Diligence - Definition and Purpose
+## Question 3: What is "due diligence"? What problem is it supposed to solve? (Hint: It's a fundamental theme of this course.) How does a buyer know that a seller is telling the truth when the seller provides information?
 
 ### **Due Diligence** - Definition
 
@@ -205,13 +205,9 @@ This class focuses on **due diligence** as a fundamental tool for addressing **a
 
 ---
 
-## Question 4: Asset Deals vs. Stock Deals
+## Question 4: Due diligence—and, more fundamentally, the information a buyer wants—can vary with the deal structure. Assume that a company called "Buyer" wants to acquire a business called "Seller" for cash. Buyer can either buy the assets of Seller (an "asset deal") or Buyer can buy the stock of Seller (a "stock deal").
 
-### A. Logistical Differences - What Buyer Buys
-
-Asset - shareholder is seller. 
-
-stock - 
+### A. As a logistical matter, what is the difference between an asset and a stock deal? What, specifically, is Buyer buying in each case?
 
 **Asset Deal:**
 
@@ -234,7 +230,7 @@ stock -
 - **Asset deal:** Buying a house's furniture and appliances (you pick what you want)
 - **Stock deal:** Buying the house itself with everything inside (you get it all - the good and the bad)
 
-### B. Unfiled Patent - Asset Deal vs. Stock Deal
+### B. Assume Seller did not properly file a patent. Does Buyer need to worry about this in an asset deal? What about in a stock deal?
 
 **Asset Deal: NO, Buyer doesn't need to worry.**
 
@@ -252,7 +248,7 @@ stock -
 
 **Key lesson:** Stock deals expose buyer to ALL liabilities, even hidden ones. Asset deals let buyer choose which liabilities to assume.
 
-### C. Cheap Lease - Asset Deal vs. Stock Deal
+### C. Assume Seller has a cheap lease, but if Seller is no longer the counterparty on the lease, it expires. Does Buyer need to worry about this in an asset deal? What about in a stock deal?
 
 **Asset Deal: YES, Buyer needs to worry.**
 
@@ -272,7 +268,7 @@ stock -
 
 **Key lesson:** Asset deals can trigger third-party consents. Stock deals preserve existing contractual relationships.
 
-### D. Unpaid Taxes - Asset Deal vs. Stock Deal
+### D. Assume Seller has not paid its taxes for three years. Does Buyer need to worry about this in an asset deal? What about in a stock deal?
 
 **Asset Deal: NO, Buyer doesn't need to worry (usually).**
 
@@ -293,7 +289,7 @@ stock -
 
 **Key lesson:** Stock buyers must do extensive tax due diligence. Asset buyers generally don't inherit tax liabilities (with some limited exceptions).
 
-### E. Employee Harassment - Asset Deal vs. Stock Deal
+### E. Assume that one of Seller's employees made inappropriate jokes in the workplace, and Seller just terminated his employment. Does Buyer need to worry about this in an asset deal? What about in a stock deal?
 
 **Asset Deal: NO, Buyer doesn't need to worry.**
 
@@ -314,7 +310,7 @@ stock -
 
 **Key lesson:** Stock buyers inherit employment-related liabilities. Asset buyers can leave these behind (with some exceptions for ongoing litigation).
 
-### F. Buyer's Unpaid Taxes - Asset Deal vs. Stock Deal
+### F. Assume Buyer has not paid its taxes for three years. Does Seller need to worry about this in an asset deal? What about in a stock deal?
 
 **Asset Deal: NO, Seller doesn't need to worry.**
 
@@ -332,7 +328,7 @@ stock -
 
 **Key insight:** In most acquisitions, the seller is leaving the business. The seller's tax problems don't typically become the buyer's problem, and vice versa. The parties go their separate ways.
 
-### G. Drug Patent with Contingent Payment - Asset Deal vs. Stock Deal
+### G. Assume Buyer is buying a drug patent from Seller. There is uncertainty about whether the drug will work, so Buyer is paying a first installment now, and will pay another amount in two years. The amount of this payment will depend on whether the drug works. Assume also that Buyer has not paid its taxes for three years. Does Seller need to worry about this in an asset deal? What about in a stock deal?
 
 **Scenario:**
 
@@ -358,9 +354,9 @@ stock -
 
 ---
 
-## Question 5: Theme Park Due Diligence
+## Question 5: Seller is negotiating to sell a theme park to Buyer. It used to be very popular, but lately it has not been drawing the same crowds. Seller has built a new ride, based on a popular videogame, which will be the subject of a movie that will be released after the sale closes. Seller has produced the game for many years, and also is producing the move. The ride won't open until after the movie opens—and, therefore, until after the sale.
 
-### A. Video Game User Information - Why Buyer Wants It
+### A. Buyer asks for information about the game, including the number of users over the past several years. Why do you think Buyer wants this information? Do you think Seller should provide it?
 
 **Buyer wants user data to assess the value of the new ride.**
 
@@ -395,7 +391,11 @@ stock -
 
 **The cooperative insight:** When the information is factual and already exists, sharing it creates value for both parties by enabling accurate pricing and reducing transaction costs.
 
-### C. Movie Focus Group Information - Why Buyer Wants It, Why Seller Hesitates
+### B. Ron Gilson has argued that due diligence should be a cooperative process, since the parties have shared interests. Does the example in "A" support his view?
+
+**Yes - this example strongly supports Gilson's view as discussed above.**
+
+### C. Buyer asks for information about the movie (which, again, has not been released), including information about the reaction of focus groups who have seen it. Why do you think Buyer wants this information? Why might Seller be more concerned about addressing Buyer's questions about the movie? (Hint: is there a difference between offering facts, on the one hand, and predictions, on the other?)
 
 **Why Buyer wants focus group information:**
 
@@ -447,11 +447,15 @@ stock -
 
 **This connects to the broader theme:** When information is too costly or risky to produce, the solution is often allocating the risk to the party best able to bear it (through contingent payments, representations, etc.).
 
+### D. Does "C" support or undercut Gilson's claim that due diligence should be a cooperative process?
+
+**Answer:** This complicates Gilson's view but doesn't completely undercut it, as explained above.
+
 ---
 
-## Question 6: Carol's Drug Company - Bad News Dilemma
+## Question 6: Carol is an entrepreneur who is developing a cure for the common cold. She would like to sell her company, Seller, to Buyer, a pharmaceutical company. Doug, who works for Buyer, wants to see the clinical trials for the new drug. Carol knows that the results are mixed. They suggest that the drug does cure colds, but they also suggest that the drug may have some serious side-effects.
 
-### A. Carol's Incentives Without Legal Constraints
+### A. Without any legal constraints, what would Carol (or, indeed, an unethical version of Carol) want to say about the trials? Does she have an incentive to share good news? What about bad news?
 
 **What Carol wants to say:**
 
@@ -468,7 +472,7 @@ stock -
 
 **The fundamental problem:** Carol has a strong incentive to be selective about what she shares.
 
-### B. Can Carol Lie or Omit Bad News?
+### B. Can Carol simply share the good news ("the drug cures colds") but lie about or omit the bad news (serious side-effects)?
 
 **Can Carol lie? NO - legally she cannot make false statements.**
 
@@ -496,7 +500,7 @@ stock -
 
 **Key insight:** In negotiations, silence about bad news is often permitted - but once you start talking, you must tell the whole truth.
 
-### C. Legal Liability for Refusing to Share - Buyer's Assumptions
+### C. Does Carol face any legal liability if she simply refuses to share any information about the trials? If Carol refuses, what will Doug assume about the trials?
 
 **Does Carol face legal liability for refusing to share ANY information about trials? NO.**
 
@@ -512,7 +516,7 @@ stock -
 
 **This is Gilson's key insight:** Sellers have an incentive to share information - even bad information - because withholding signals that the information must be even worse than it probably is.
 
-### D. Seller's Incentive to Share Bad News
+### D. Given your answer to C, do sellers have an incentive to share bad news, as well as good news?
 
 **YES - sellers DO have an incentive to share bad news.**
 
@@ -531,7 +535,7 @@ stock -
 - If Carol hides: Buyer assumes worst (maybe offers $5M) or deal falls apart later
 - **Sharing bad news leads to better outcomes for everyone**
 
-### E. Neutral Reasons for Non-Disclosure
+### E. In principle, would your answer to "D" change if a seller is able to offer a justification for not to share information, which has nothing to do with the fact that this information might not be flattering?
 
 **Does the answer change if Carol has a neutral excuse? NO - the incentive problem remains.**
 
@@ -555,7 +559,7 @@ stock -
 
 **Key insight:** Information asymmetry means Buyer can't distinguish between good reasons and bad reasons for withholding. So withholding still triggers the worst assumptions.
 
-### F. Carol's Regret - Competitor Concerns
+### F. Building on "E," can you think of a reason why Carol might regret sharing clinical trials with Buyer (even if the trials are glowingly positive) if the deal does not go through? (Hint: Assume that Carol's company and Buyer are competitors and that the trials contain valuable information.) If so, does this offer Carol a strategy for refusing to disclose the information?
 
 **Why Carol might regret sharing trials even if they're positive:**
 
@@ -585,7 +589,7 @@ Carol can say:
 
 **But:** Buyer still can't be 100% sure this is the real reason - it could be an excuse for terrible results. However, this explanation is more credible than vague confidentiality claims.
 
-### G. Buyer's Problem - Multiple Reasons Withholding
+### G. If Carol has more than one reason not to disclose the trials, can Buyer tell what the real reason is? What, if anything, can Buyer do in response?
 
 **Can Buyer tell the real reason? NO.**
 
@@ -615,7 +619,7 @@ Carol can say:
 
 ---
 
-## Question 7: Gilson's Truthfulness Thesis
+## Question 7: Gilson says parties have the incentive to be truthful in due diligence? Do you agree?
 
 **Gilson says parties have the incentive to be truthful in due diligence. Do you agree?**
 
@@ -641,7 +645,7 @@ Carol can say:
 
 ---
 
-## Question 8: Information Production Cost Allocation
+## Question 8: Let's say Buyer wants to know about any litigation pending for Carol's company. Carol can ask her lawyers, who know the details of the litigation, to write up a description, but the time they will spend will cost Carol $10,000. Alternatively, Carol can invite Buyer's lawyers to come and read the litigation files (which are quite large). If she does this, Buyer is likely to have to pay their lawyers $50,000. What should Carol do?
 
 **Carol's dilemma:**
 
@@ -667,7 +671,7 @@ Carol can say:
 
 ---
 
-## Question 9: Cost of Disclosure and Price Adjustment
+## Question 9: Gilson says parties have the incentive to minimize the cost of disclosure. He says that a party that makes due diligence more expensive can be made to pay for this through an adjustment in the purchase price. Do you agree? Can you think of a reason why this might not happen?
 
 **Gilson says:** If a party makes due diligence more expensive, they can be made to pay through purchase price adjustment.
 
@@ -692,6 +696,9 @@ Carol can say:
 4. **Deal momentum:** Once parties are deep in negotiations, Buyer might not walk away over increased due diligence costs
 5. **Diffuse costs:** Due diligence costs are spread across many areas; linking specific costs to price reductions can be difficult
 6. **Holdout problems:** Some information is uniquely known to Seller; if Seller won't produce it, Buyer can't get it elsewhere
+7. **Holdout problems:** Some information is uniquely known to Seller; if Seller won't produce it, Buyer can't get it elsewhere
+
+**Schizer note:** Seller can offer a benign reason why refusing to share the information about pending litigation (e.g., that they don't have the legal personel to be able to create such a report of all possible legal risk - but hey, here's the keys to our entire warehouse of documents) and evade suspicion.
 
 **Overall:** Gilson's theory is sound economics, but real-world frictions and information asymmetries sometimes prevent perfect price adjustment for uncooperative behavior.
 
@@ -699,7 +706,7 @@ Carol can say:
 
 ## Question 10: Third Party Experts
 
-### A. Role of Accountants in Acquisitions
+### a. What role do accountants play in acquisitions?
 
 **Accountants serve several critical functions:**
 
@@ -731,7 +738,7 @@ Carol can say:
 
 **Key point:** Accountants bring specialized expertise to verify the financial health and accuracy of the target's business.
 
-### B. Investment Bankers and Fairness Opinions
+### b. What about investment bankers? Do you know what a "fairness opinion" is?
 
 **Role of investment bankers:**
 
@@ -773,7 +780,7 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 - The opinion is based on assumptions that can be manipulated
 - Different banks might reach different conclusions
 
-### C. Lawyers Vouching for Deal Aspects
+### c. Do lawyers ever vouch for aspects of a deal?
 
 **YES - lawyers frequently vouch for aspects of a deal through legal opinions.**
 
@@ -796,7 +803,7 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 - Allocates risk - if lawyer's opinion is wrong and lawyer was negligent, lawyer may be liable
 - Information production function (Gilson's point) - lawyer is cheapest producer of this legal information
 
-### D. Temptation to Overstate and Constraints
+### d. When these experts are asked to reassure the parties on particular issues, why (if at all) might they be tempted to overstate their case? What (if anything) stops them from doing so?
 
 **Why experts might be tempted to overstate:**
 
@@ -852,9 +859,9 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 
 ---
 
-## Question 16: Land Acquisition with Zoning Risk
+## Question 16: Ben Buyer owns a plot of land. He is considering buying a neighboring plot from Sue Seller. Ben wants to combine the two plots and build a skyscraper. He is concerned, though, that he won't be able to get approval from the zoning board. If Ben can combine the two plots, he's willing to pay $10 million for Sue's plot. If he can't, he's only willing to pay $7 million. It's very likely that the zoning board will approve Ben's request, but the process takes time.
 
-### A. Sue Not in a Hurry - Cleanest Approach
+### a. Assume that Sue is not in a hurry. What do you think is the cleanest way for the parties to proceed?
 
 **The cleanest approach: Make the sale contingent on zoning approval.**
 
@@ -879,7 +886,7 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 - Released when zoning is approved
 - But this is more complex than the contingency approach
 
-### B. Sue Is in a Hurry - Alternative Approaches
+### b. Assume that Sue actually is in a hurry and is flexible on the price. You represent her. What suggestion do you have to help her get the deal done?
 
 **If Sue needs money now and is flexible on price, here are options:**
 
@@ -915,9 +922,13 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 
 ---
 
-## Question 11: Bus Defect - No Representations
+## Question 11: Seller, a start-up company, is developing a new type of bus, which is supposed to be more fuel efficient. Seller has developed a design, and has made a few of the new buses in order to test them, but has not yet begun delivering buses to customers. New York City has ordered 10,000 of these buses, but no buses have been delivered yet. Buyer is a big company that makes buses, and wants the New York City contract. Seller has begun testing the buses, and has discovered a problem with the wheels, which may be expensive to fix. Seller has not yet finished testing the buses.
 
-### A. Who Should Win Based on Contract Language?
+The agreement has the following language: "Buyer has made a lengthy, detailed, and independent investigation regarding the design and specifications of the new bus," and "Seller has not finished testing the new bus." The agreement also says that "Seller shall continue to give Buyer access to inspect the new bus" and that "neither party is relying upon any warranty or representation of the other not fully set forth in this agreement." The agreement does not have any other representations about possible defects in the bus or about the tests Seller has been conducting.
+
+After the deal closes and Buyer discovers the defect in the new bus, Buyer sues, claiming that Seller should have told Buyer about the defect.
+
+### a. If you are the judge, and you have to decide the case based only on the contract language quoted above, who do you think should win the lawsuit?
 
 **SELLER should win the lawsuit.**
 
@@ -953,7 +964,7 @@ A **fairness opinion** is a professional assessment by an investment bank statin
 - Contract says no reliance on representations not in writing
 - Buyer had access to inspect but chose not to discover the defect
 
-### B. If Seller Wins - Are We Rewarding Sneakiness?
+### b. If you decide that Seller wins, are you rewarding sneakiness?
 
 **This feels like rewarding sneakiness, but it's more complex.**
 
@@ -1162,6 +1173,63 @@ Buyer wanted Seller to bear the risk of undiscovered defects but agreed to contr
 **Result:** Buyer bears the risk of its own careless inspection, not Seller's dishonesty.
 
 **Lesson:** Contract language matters. Careful drafting of representations, warranties, and due diligence provisions is essential to proper risk allocation.
+
+### c. If you decide that Buyer wins, are you rewarding carelessness?
+
+**YES - if Buyer wins, we're rewarding carelessness.**
+
+**Why Buyer was careless:**
+
+1. **Had inspection rights but didn't use them effectively:**
+   - Contract gave Buyer access to inspect
+   - Buyer could have discovered the defect with proper inspection
+   - Buyer failed to find what was discoverable
+
+2. **Contract allocated responsibility to Buyer:**
+   - "Buyer has made...independent investigation"
+   - Buyer agreed to rely on its own investigation, not Seller's representations
+   - Buyer is now trying to shift responsibility back to Seller
+
+3. **Buyer is a sophisticated party:**
+   - Buyer is a big company that makes buses
+   - Buyer knows how to inspect buses
+   - Buyer is in the business and should know what to look for
+
+4. **Market discipline argument:**
+   - If Buyer wins, future buyers won't bother to inspect carefully
+   - They can just sue later saying "You should have told me"
+   - This undermines the whole inspection process
+
+**The economic problem:** If courts protect careless buyers who had the opportunity to inspect, it reduces incentives for buyers to do due diligence. This increases transaction costs for everyone.
+
+### d. What language should Buyer have asked for in the agreement in order to avoid this problem?
+
+**Buyer should have asked for:**
+
+1. **Representations about testing:**
+   - "Seller represents that all tests conducted to date show no material defects"
+   - "Seller represents that Seller is not aware of any defects in the bus design"
+
+2. **Representations about the bus:**
+   - "The bus conforms to Seller's standard specifications"
+   - "There are no known defects that would materially affect the bus's performance"
+
+3. **Disclosure obligation:**
+   - "Seller represents that Seller has disclosed to Buyer all test results and known defects"
+   - "Seller represents that Seller is not aware of any defects not disclosed to Buyer"
+
+4. **Indemnification for defects:**
+   - "Seller shall indemnify Buyer for any defects in the bus known to Seller and not disclosed"
+
+5. **Conditions to closing:**
+   - "Buyer's obligation to close is subject to Buyer's satisfaction with inspection results"
+   - "Buyer may terminate this agreement if inspection reveals material defects"
+
+6. **No reliance on inspection clause:**
+   - DELETE the clause that says Buyer made independent investigation
+   - OR qualify it: "except for defects known to Seller and not disclosed"
+
+**Key insight:** When drafting acquisition agreements, representations and warranties allocate the risk of undiscovered problems. Buyer wanted Seller to bear this risk but agreed to contract language that put the risk on Buyer. This is a drafting failure, not just a legal fairness issue.
 
 ---
 

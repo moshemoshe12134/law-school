@@ -414,7 +414,7 @@
 **FRAME AS PARODY WITH CRITICAL BEARING:**
 1. We target **Riven's song's** perpetuation of historical myths, not history generally
 2. Critical bearing on his work's educational impact justifies copying
-3. Pedagogical necessity: must use his melody to displace false memories he created
+3. Pedagogical necessity: must quote his lyrics to show what historical claims need correction
 4. This is educational criticism, analogous to literary criticism in Campbell
 
 **SUPPORT WITH "DIFFERENT PURPOSE":**
@@ -443,7 +443,7 @@
 
 **VULNERABILITY 1: 87.5% Copying**
 - **Luna's Attack:** Excessive copying beyond Campbell's "opening riff + first line"
-- **Our Defense:** Melody is the "heart" for memorization; needed to "conjure up" original; departed markedly in lyrics (100% different)
+- **Our Defense:** Copied lyrics are the "heart" containing the inaccuracies; needed to "conjure up" original narrative; departed markedly by adding 7 new corrective lines (50% new content)
 
 **VULNERABILITY 2: "Satire" Characterization**
 - **Luna's Attack:** General historical commentary, no critical bearing on Riven's work
@@ -494,8 +494,8 @@ To succeed on summary judgment, you need to establish facts showing:
 
 2. **Evidence that your criticism targets Riven's work specifically**
    - Your promotional materials emphasizing "correction of [Riven's song]"
-   - Pedagogical theory supporting melody-based correction
-   - Evidence you couldn't achieve critical purpose without using his melody
+   - Show line-by-line connection between copied lyrics and corrections
+   - Evidence you couldn't achieve critical purpose without quoting the specific inaccurate claims
 
 ### B. For "Different Purpose" Argument:
 1. **Riven's actual purpose (if discoverable):**

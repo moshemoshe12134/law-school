@@ -55,7 +55,7 @@ Courts must explore all four factors together and weigh them holistically; no si
 - Riven's song presents a "hero-worship" perspective on Paul Revere
 - EchoCraft targets and mocks that adulatory perspective by correcting historical inaccuracies
 - The question mark in the title signals ironic interrogation of the original's claims
-- EchoCraft uses Riven's melody to "conjure up" his version, then undermines its narrative with corrected facts
+- EchoCraft uses Riven's exact lyrics to "conjure up" his version, then undermines its narrative with corrected facts through added lines
 - The critical bearing is direct: commentary on the original's uncritical, mythologizing approach
 
 **Reasonable observer would perceive distinct purposes:**
@@ -64,12 +64,14 @@ Courts must explore all four factors together and weigh them holistically; no si
 - EchoCraft's version: ironic critique and factual correction to expose inadequacies
 - Functionally different: uncritical hero-worship vs. corrective commentary
 
-**EchoCraft's nonprofit educational purpose:**
+**EchoCraft Ed's nonprofit educational purpose:**
 
-- Operates as nonprofit educational entity
-- Licenses work below cost
-- Distributes exclusively for educational purposes
-- Combines with transformative critical nature to strongly favor fair use
+- Released through EchoCraft Ed, a nonprofit educational subsidiary
+- Parent company (EchoCraft Productions) is for-profit major record label
+- Licensed at/below cost ($200 to schools)
+- Distributed exclusively for educational purposes through nonprofit division
+- Combines with transformative critical nature to favor fair use
+- **Complexity**: Release generated PR benefits and revenue improvement for for-profit parent
 
 ## C. Factor Two Is Neutral or Favors EchoCraft: The Original Work Is Educational and Factual
 
@@ -94,7 +96,7 @@ Courts must explore all four factors together and weigh them holistically; no si
 
 At most neutral; more likely slightly favors EchoCraft given educational and factual nature of underlying work.
 
-## D. Factor Three Favors EchoCraft: Copying the Melody Was Necessary to Conjure Up the Original, and EchoCraft Departed Markedly in Lyrics
+## D. Factor Three Favors EchoCraft: Copying Seven Lines Was Necessary to Establish the Traditional Narrative Before Questioning It
 
 **Parody may copy the "heart" of the original:**
 
@@ -108,24 +110,26 @@ At most neutral; more likely slightly favors EchoCraft given educational and fac
 
 ### Application:
 
-**EchoCraft copied 87.5% of melody but changed 100% of lyrics:**
+**EchoCraft copied 7 of 8 lines verbatim (87.5% of Riven's lyrics):**
 
-- Melody is the "heart" that makes Riven's song memorable and pedagogically effective
-- For educational songs, melody serves as mnemonic device facilitating memorization
-- Children learn historical facts by associating them with familiar tunes
-- To criticize Riven's pedagogical approach, EchoCraft needed to conjure up his version using same melodic structure
+- These seven lines contain the specific historical narrative that EchoCraft criticizes
+- The copied lines establish the traditional "hero-worship" version of events
+- Necessary to reproduce the exact claims being corrected and questioned
+- Without copying these specific lines, the critique would lack clear target
 
-**EchoCraft departed markedly in lyrics:**
+**EchoCraft added 7 new lines (50% new content) that departed markedly:**
 
-- 100% lyrical departure with completely rewritten narrative
-- Presents corrected historical facts that undermine Riven's adulatory perspective
-- Demonstrates EchoCraft took only what necessary to establish parodic connection
-- Then pursued its own critical and educational ends
+- New lines directly correct and respond to the copied narrative
+- "though others helped raise that warning's light" corrects Revere-as-solo-hero myth
+- "yet he was not the only rider on that road" adds historical accuracy
+- "He revealed some secrets, the man was skittish" corrects the "revealed no secrets" claim
+- Title change to "Revere Paul Revere?" (with question mark) signals interrogation of original
 
-**High percentage of melodic copying justified:**
+**High percentage of lyric copying justified:**
 
-- Unique functional requirements of educational music parody
-- Melody itself is integral to the pedagogical method being criticized
+- Cannot correct specific historical inaccuracies without quoting what needs correction
+- The copied lines are the "heart" of what makes Riven's narrative problematic
+- Pedagogical necessity: students encountering corrected version must recognize what's being fixed
 
 ## E. Factor Four Strongly Favors EchoCraft: No Derivative Market Exists for Criticism, and Any Harm Is from Critical Suppression, Not Substitution
 
@@ -172,7 +176,8 @@ At most neutral; more likely slightly favors EchoCraft given educational and fac
 - Only preliminary negotiations with schools
 - No executed contracts or licensing revenue generated
 - Market is primarily commercial entertainment
-- EchoCraft's nonprofit educational use (below cost to schools) doesn't compete in commercial entertainment market
+- EchoCraft Ed's nonprofit educational use (below cost to schools) doesn't compete in commercial entertainment market
+- Though for-profit parent benefited from PR, the actual use was through nonprofit subsidiary
 - Even if Riven develops educational licensing market, it would be for uncritical derivatives
 - Not for works exposing inadequacies of his historical treatment
 
