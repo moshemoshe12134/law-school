@@ -743,45 +743,32 @@ Key themes include:
 
 **What is moral hazard?**
 
-**Moral hazard** occurs when one party has the incentive to take risks because someone else bears the cost of those risks.
+**Moral hazard** occurs when a party protected from risk acts differently than they would if they bore the full risk. In the M&A context, it refers to the incentive problem where a party might act in a self-interested way that harms the other party because the consequences are shielded.
 
-**How this applies to MAC clauses:**
+**How this applies to the Seller (The "Investment" Rationale):**
 
 **The problem:**
-- After signing but before closing, Seller controls the business
-- Seller might have incentive to let the business deteriorate
-- Why? Because if things get bad enough, Buyer will walk away
-- Seller can then try to find a better deal or just keep the company
-
-**Example:**
-- Seller signs deal to sell for $100M
-- Market turns down and business is now only worth $80M
-- Seller thinks: "If I let things get worse, Buyer will walk away"
-- Seller cuts costs, defers maintenance, stops pursuing new customers
-- Business deteriorates further
-- Buyer invokes MAC and walks away
-- Seller avoids selling at a "bad" price
+- After signing but before closing (the "executory period"), Seller controls the business but the economic risk has largely shifted to Buyer (since the price is fixed).
+- Seller (especially departing management like Fran in our example) might have **no incentive to work hard** or maintain the business.
+- They effectively have "insurance" in the form of the deal: they get paid regardless of whether they hustle or slack off during this period.
+- **Result:** Seller might shirk, defer maintenance, or stop pursuing new value, letting the business value decline.
 
 **How MAC clauses address this:**
-- Actually, MAC clauses might CREATE moral hazard for Sellers
-- Seller has incentive to cause a MAC (or let one happen)
-- This gives Seller an exit if they want one
+- The MAC clause **solves** this moral hazard problem.
+- It reallocates the downside risk back to the Seller: if the business deteriorates significantly (a "MAC"), Buyer can walk away.
+- **The effect:** Seller is forced to "invest" effort in the business to prevent a MAC and ensure the deal closes.
+- It keeps Seller's "skin in the game" until closing.
 
-**Wait - isn't this backwards?**
+**Wait - doesn't the Buyer also have moral hazard?**
 
-**The moral hazard actually works the other way:**
-- **Buyer's moral hazard:** Buyer has "buyers remorse" and looks for ANY excuse to call a MAC and renegotiate the price
-- Buyer might point to minor problems and claim they're a MAC
-- This creates uncertainty for Seller
-- Seller doesn't know how hard to try to preserve the business
+**Yes, leading to the "Option" Rationale:**
+- **Buyer's moral hazard:** If the market turns or Buyer gets "buyer's remorse," they have an incentive to look for *any* excuse to walk away or renegotiate the price.
+- Buyer might try to claim a minor positive blip is a "MAC" to escape a deal they just don't like anymore.
 
-**The solution:**
-- Narrow MAC definition prevents Buyer from abusing the clause
-- High bar for what constitutes a MAC
-- Specific carve-outs for ordinary course business decisions
-- This limits Buyer's ability to manufacture a MAC as an excuse
-
-**Key insight:** MAC clauses create potential moral hazard on both sides. The negotiation is about limiting this moral hazard through careful drafting.
+**The solution (Drafting):**
+- **Narrow MAC definition:** High bar for what constitutes a MAC prevents Buyer from using it as a mere option to exit.
+- **Carve-outs:** Exclude general market/industry declines. The MAC must be disproportionate or company-specific.
+- **Result:** Balances the risk—Seller must maintain the business (solving Seller's moral hazard), but Buyer cannot walk away for general reasons (curbing Buyer's moral hazard).
 
 ---
 

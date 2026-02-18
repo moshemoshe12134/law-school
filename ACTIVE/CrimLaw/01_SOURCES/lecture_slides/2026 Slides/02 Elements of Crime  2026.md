@@ -132,7 +132,11 @@ Bernard E. Harcourt
 
 ![Blackstone Elements p.2 1.jpg](ppt/media/image9.jpeg "Picture 6")
 
-## Model Penal Code {#slide-20}
+## Slide 20
+
+"Any person who, while intoxicated or drunk, appears in a public place where one or more persons are present, ... and manifests a drunken condition by boisterous or indecent conduct, or loud and profane discourse, shall, on conviction, be fined."  Alabama Code 1940, Title 14, Sec. 120.
+
+## Model Penal Code {#slide-21}
 
 Act  is  " bodily movement "  MPC 1.13(2) 
 
@@ -152,7 +156,7 @@ Not reflex; sleep; unconsc; hypnosis; and (d)
 
 Omission : only if there is a duty MPC 2.01(3)
 
-## ELEMENTS DEFINING A CRIME.... {#slide-21}
+## ELEMENTS DEFINING A CRIME.... {#slide-22}
 
 Model Penal Code Sec. 1.13
 
@@ -166,7 +170,7 @@ Element of an offense =
 
 	(3)  a result of conduct
 
-## Kelman ,  Interpretive Constructs {#slide-22}
+## Kelman ,  Interpretive Constructs {#slide-23}
 
 4 unconscious constructs :
 
@@ -198,19 +202,19 @@ Element of an offense =
 
 	e.g. 660   Papachristou  case
 
-## Slide 23
+## Slide 24
 
 ![Background pattern
 
 Description automatically generated](ppt/media/image10.jpeg "Picture 3")
 
-## Slide 24
+## Slide 25
 
 ![Background pattern
 
 Description automatically generated](ppt/media/image11.png "Picture 2")
 
-## Kelman ,  Interpretive Constructs {#slide-25}
+## Kelman ,  Interpretive Constructs {#slide-26}
 
 To what end?
 
@@ -222,21 +226,32 @@ p. 671:  Just non-rational filters.
 
 ANOTHER ANSWER:  See Balkin,  Crystalline Structure
 
-## Slide 26
+## Slide 27
 
 ![](ppt/media/image12.png "Picture 2")
 
-## Slide 27
+## Slide 28
 
 ![](ppt/media/image13.png "Picture 2")
 
-## Element:   Mens  Rea {#slide-28}
+## Act/Omission {#slide-29}
 
-## Slide 29
+- Legal duty generally arises if
+
+<!-- -->
+
+- 1.	statute imposes duty
+- 2.	status relationship
+- 3.	contractual relationship
+- 4.	assumes and secludes helpless person
+
+## Element:   Mens  Rea {#slide-30}
+
+## Slide 31
 
 ![Blackstone Elements p.2 Mens Rea.pdf](ppt/media/image14.png "Picture 1")
 
-## Slide 30
+## Slide 32
 
 AT COMMON LAW, THERE WERE 4 MENTAL STATES: 
 
@@ -264,7 +279,7 @@ Battery
 
 Strict Liability crimes: no  mens  rea required. Administrative.
 
-## Model Penal Code {#slide-31}
+## Model Penal Code {#slide-33}
 
 MPC 1.13(9) defines  elements of offense
 
@@ -284,7 +299,7 @@ recklessly
 
 negligently
 
-## Slide 32
+## Slide 34
 
   Mens   rea    Conduct   Attendant Circumstances   Result of conduct
   ------------- --------- ------------------------- -------------------
@@ -293,11 +308,11 @@ negligently
   Recklessly                                        
   Negligently                                       
 
-## Slide 33
+## Slide 35
 
 ![](ppt/media/image15.png "Picture 1")
 
-## Slide 34
+## Slide 36
 
 S 125.20 Manslaughter in the first degree.
 
@@ -305,7 +320,27 @@ S 125.20 Manslaughter in the first degree.
 
 4. Being eighteen years old or more and with intent to cause physical injury to a person less than eleven years old, the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person and thereby causes the death of such person.
 
-## Slide 35
+## Slide 37
+
+  Word/Language                                                                                                       Act/Body   Mental/Mind
+  ------------------------------------------------------------------------------------------------------------------- ---------- -------------
+  Being eighteen years old or more                                                                                               
+  with intent to cause physical injury                                                                                           
+  to a person less than eleven years old                                                                                         
+  the defendant recklessly engages in conduct which creates a grave risk of serious physical injury to such person               
+  and thereby causes the death of such person                                                                                    
+
+## Slide 38
+
+  Word/Language                                                                                                           Act/Body   Mental/Mind
+  ----------------------------------------------------------------------------------------------------------------------- ---------- -------------
+  Being  eighteen years old or more                                                                                                  
+  with  intent  to cause physical injury                                                                                             
+  to a person less than eleven years old                                                                                             
+  the defendant  recklessly  engages in  conduct  which creates a grave risk of serious physical injury to such person               
+  and thereby  causes  the death of such person                                                                                      
+
+## Slide 39
 
   Word/Language                                                                                                           Act/Body            Mental/Mind
   ----------------------------------------------------------------------------------------------------------------------- ------------------- -------------
@@ -315,7 +350,7 @@ S 125.20 Manslaughter in the first degree.
   the defendant  recklessly  engages in  conduct  which creates a grave risk of serious physical injury to such person    Conduct             Reckless
   and thereby  causes  the death of such person                                                                           Result of conduct   
 
-## Statute:   {#slide-36}
+## Statute:   {#slide-40}
 
                          Conduct   Result   Attendant circumstances   
   ---------------------- --------- -------- ------------------------- --
@@ -323,15 +358,45 @@ S 125.20 Manslaughter in the first degree.
   Mens rea -- explicit                                                
   Mens rea -- implied                                                 
 
-## Faulkner statutes		 {#slide-37}
+## Statute : Offenses against the Person  Act, 1861, Section 23 {#slide-41}
 
-"A person commits arson if he causes a fire to result."
+                            Conduct                   Result                        Attendant circumstances
+  ------------------------- ------------------------- ----------------------------- ------------------------------------
+  Actus   reus              Administer                Or cause to be administered   Endangering the life of the victim
+  Mens   rea  -- explicit   Unlawful  and malicious   Unlawful and malicious        Must be filled
+  Mens   rea  -- Kenny                                                              
+  Mens   rea  -- Oliver                                                             
+  Mens   rea  -- Byrne                                                              
 
-"A person commits arson in the first degree if, while committing a misdemeanor, a fire results."
+## Statute: Malicious Damage Act   {#slide-42}
 
-"A person commits arson in the first degree if, while intentionally committing a misdemeanor, a fire results."
+                               Conduct                    Result   Attendant circumstances
+  ---------------------------- -------------------------- -------- -------------------------
+  Actus   reus                 Setting fire to the ship            
+  Mens   rea  -- explicit      Maliciously                         
+  Mens   rea  -- lower  ct                                         
+  Mens   rea  -- Barry                                             
+  Mens   rea  -- Fitzgerald                                        
 
-## Model Penal Code {#slide-38}
+## Faulkner statutes		 {#slide-43}
+
+§1. "A person commits arson if he causes a fire to result."
+
+§2A. "A person commits arson in the first degree if, while committing a misdemeanor, a fire results."
+
+§2B. "A person commits arson in the first degree if, while intentionally committing a misdemeanor, a fire results."
+
+## Slide 44
+
+  Word/Language                                                                                                           Act/Body            Mental/Mind
+  ----------------------------------------------------------------------------------------------------------------------- ------------------- -------------
+  Being  eighteen years old or more                                                                                       Attendant Circ.     
+  with  intent  to cause physical injury                                                                                                      Intent
+  to a person less than eleven years old                                                                                  Attendant Circ.     
+  the defendant  recklessly  engages in  conduct  which creates a grave risk of serious physical injury to such person    Conduct             Reckless
+  and thereby  causes  the death of such person                                                                           Result of conduct   
+
+## Model Penal Code {#slide-45}
 
 MPC 1.13(9) defines  elements of offense
 
@@ -347,13 +412,27 @@ MPC 2.02(4) generalizability
 
 MPC 2.02(5) hierarchy
 
-## Slide 39
+## State v Hazelwood		 {#slide-46}
+
+Criminal negligence
+
+Greater risk	
+
+Gross deviation
+
+Civil negligence
+
+Unjustifiable risk
+
+Deviation from standard of care
+
+## Slide 47
 
 ![](ppt/media/image16.png "Picture 1")
 
 STRUCTURES OF LEGAL THOUGHT
 
-## Balkin,  Crystalline Structure  {#slide-40}
+## Balkin,  Crystalline Structure  {#slide-48}
 
 Structure of dyadic arguments (5)
 
@@ -371,19 +450,19 @@ CONCLUSION:  p. 74-75
 
 Appendix!  
 
-## Slide 41
+## Slide 49
 
 ![](ppt/media/image17.png "Picture 2")
 
-## Slide 42
+## Slide 50
 
 ![](ppt/media/image18.png "Picture 2")
 
-## Slide 43
+## Slide 51
 
 ![](ppt/media/image19.png "Picture 2")
 
-## Slide 44
+## Slide 52
 
 ![](ppt/media/image20.png "Picture 2")
 

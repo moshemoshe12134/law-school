@@ -1,0 +1,331 @@
+
+### C. Assume now that the corporation is able to deduct a $1 expense. How much tax does the corporation avoid? What is the economic value of this $1 deduction?
+
+**Answer:**
+
+*   **Tax Avoided:** $0.21.
+*   **Economic Value:** $0.21.
+*   **Reason:** Taxable income becomes $0, so tax liability drops from $0.21 to $0.
+
+> "The corporation avoids 21 cents in tax, so the economic value of the deduction is exactly 21 cents. Without the deduction, the tax was 21 cents. With the deduction, taxable income is zero, so the tax is zero. The savings equal the value of the deduction."
+
+### D. Please fill in the blank: The economic value of a deduction depends on a taxpayer's [____________________].
+
+**Answer:**
+
+*   **[MARGINAL TAX RATE]**
+
+> "The economic value of a deduction depends > "The economic value of a deduction deA h> "The ecorat> "The economed> "The economic value of a deduction depends s i> "The economic value of a deduction depends > "The economic value of a deduction deA h> "The ecorat> "The economed> "Theavirus Aid, Relief, and Economic Security (CARES) Act. One of its provisions enabled taxpayers to "carry back" net operating losses ("NOLs"). As background, let's cover a few basics of how NOLs are taxed in the U.S.**
+
+### A. Assume that Corporation (a U.S. taxpayer) has $9 million of revenue in 2020 and $10 million of expenses. Do you expect Corporation to pay any tax in 2020?
+
+**Answer:**
+
+*   **No tax due.**
+*   **Reason:** Expenses ($10M) exceed Revenue ($9M), resulting in a Net Operating Loss (NOL) of $1M.
+*   No taxable income means no tax.
+
+> "No, I do not expect the Corporation to pay any tax. Because its expenses of $10 million exceed its revenue of $9 million, it has no taxable income. Instead, it has generated a Net Operating Loss of $1 million."
+
+### B. How is its "net operating loss" ("NOL") of $1 million treated? The U.S. corporate tax rate is 21%. Do you expect the NOL to generate a $210,000 tax refund in 2020?
+
+**Answer:**
+
+*   **Treatment:** NOL is an asset usually carried forward to future years.
+*   **2020 Refund?** No (under standard pre-CARES rules).
+*   **Why?** You generally cannot get a refund for a loss year *itself*; you only get a refund if you can carry the loss back to a *prior* profitable year. Without a carryback provision, there is no immediate check from the IRS.
+
+> "The NOL is treated as a tax asset that can be used to offset income in other years. I would *not* expect an immediate $210,000 refund in 2020 under standard rules. Unless a 'carryback' is allowed, the loss doesnt generate cash today; it only reduces taxes in the future when the company becomes profitable again."
+
+### C. Starting in 2018, U.S. corporations with NOLs could only "carry forward" tax losses. "Carrybacks" were no longer allowed. What is the difference between a carryforward and a carryback?
+
+**Answer:**
+
+*   **Carryforward:** Saves tax in **future** years. (Delayed cash benefit).
+*   **Carryback:** Refunds tax paid in **past** years. (Immediate cash benefit).
+*   **Timing:** Carryback = Cash Now; Carryforward = Cash Later.
+
+> "The difference is timing and cash flow. A 'carryforward' means you save the loss to reduce taxes in future profitable years—so you have to wait for the benefit. A 'carryback' allows you to apply the loss to past years tax returns and get a refund of taxes you already paid—which provides immediate cash now."
+
+### D. In the above example, Corporation generates a $1 million net operating loss in 2020. Assume that Corporation had more than $1 million of net income in 2019, and expects to have more than $1 million of net income in 2021. If only carryforwards are allowed, in which year would Corporation deduct its NOL? What if carrybacks are allowed?
+
+**Answer:**
+
+*   **Carryforwards Only:** Deduct in **2021** (wait for future income).
+*   **Carrybacks Allowed:** Deduct against **2019** (amend past return).
+*   **Key implication:** Carryback gives cash in 2020 (via refund); Carryforward reduces tax bill in 2022 (when 2021 tax is due).
+
+> "If only carryforwards are allowed, the Corporation must wait and deduct the NOL in **2021**, when it expects to have income again. If carrybacks are allowed, the Corporation can deduct the NOL against its **2019** income immediately, filing an amended return to get a refund check right now."
+
+---
+
+## Question 3
+
+**In the CARES Act, Congress authorized taxpayers once again to carry back losses (as they used to be able to do before 2018), but only losses generated in three years: 2018, 2019, and 2020. Assume that Businessco had $5 million of taxable income in 2017, $5 million of taxable income in 2018, and $2 million of NOLs in 2019. Because of the pandemic, Businessco expects to have more losses in 2020.**
+
+### A. Do you agree or disagree with the following statement: "The CARES Act allows Businessco to get a tax refund for its 2019 NOL -- and thus to access more cash -- sooner than it otherwise would." In light of your answer, what policy do you think Congress was pursuing?
+
+**Answer:**
+
+*   **Agree.**
+*   **Mechanism:** Instead of waiting for future profits, Businessco can claim a refund for 2017/2018 taxes paid.
+*   **Policy:** **Liquidity / Stimulus.** Congress wanted to inject cash into struggling businesses during the pandemic without a direct bailout program.
+
+> "I agree. Without the CARES Act, Businessco would have to wait until it turned a profit to use its 2019 losses. By allowing a carryback, Businessco can get a refund check immediately. Congress was pursuing a policy of **liquidity provision**: effectively using the tax code to send emergency cash to businesses to help them survive the pandemic downturn."
+
+### B. The U.S. corporate tax rate was 35% in 2017 (and in years before then), and this tax rate was reduced to 21% in 2018. What was the value of a $1 tax deduction in 2017? What about in 2018? In which year would you prefer to take a deduction?
+
+**Answer:**
+
+*   **2017 Value:** $0.35 (35% rate).
+*   **2018 Value:** $0.21 (21% rate).
+*   **Preference:** **2017.** Deductions are worth more when tax rates are higher.
+
+> "A $1 deduction was worth **35 cents** in 2017, but only **21 cents** in 2018 because the tax rate dropped. I would definitely prefer to take the deduction in 2017. One of the huge benefits of the CARES Act carryback was that it allowed losses from 2018-2020 (low tax years) to be carried back to pre-2018 years (high tax years), creating a permanent tax arbitrage benefit."
+
+### C. Do you agree or disagree with the following statement: "Through the CARES Act, the U.S. government used the tax system to get cash in the hands of corporations by making tax refunds more generous."
+
+**Answer:**
+
+*   **Agree.**
+*   **Generosity:** It allowed carrying back low-value losses (21%) to offset high-tax income (35%).
+*   **Cash flow:** It accelerated payments that usually would be deferred for years.
+
+> "I agree. The CARES Act made refunds more generous in two ways: (1) **Timing**—it gave cash now instead of later; and (2) **Rate Arbitrage**—it allowed companies to monetize losses at the old 35% rate even though the losses were incurred in a 21% rate environment. This effectively gave corporations a 'bonus' refund beyond what normal tax theory would suggest."
+
+---
+
+## Question 4
+
+**Hotelco, a publicly-traded U.S. company, owns a chain of U.S. hotels catering to business travelers. In the 1990s, Hotelco branched out, opening a number of theme parks and casinos throughout the U.S.. In 2017, Hotelco hired a new CEO, Carla, who decided that casinos and theme parks are very different from hotels, so they should not be operated together. So she put all of Hotelco's theme parks and casinos into a subsidiary, and on January 1, 2018, Hotelco "spun off" this subsidiary, "Recreationco," to Hotelco's shareholders as an independent publicly-traded company.**
+
+### A. What is a "spin off"?
+
+**Answer:**
+
+*   **Definition:** Parent distributes 100% of a subsidiarys stock to its own shareholders pro-rata.
+*   **Result:** Two separate public companies owned by the same shareholder base (initially).
+*   **Tax Status:** Usually tax-free to both corporation and shareholders (if Sec. 355 requirements met).
+
+> "A 'spin-off' is a transaction where a parent company separates a subsidiary business by distributing all the shares of that subsidiary to the parent's existing shareholders. It essentially divides one company into two independent public companies, owned by the exact same shareholders immediately after the transaction."
+
+### B. Assume a shareholder owned one share of Hotelco before the spin. Would she still have this share after the spin? What else would she have?
+
+**Answer:**
+
+*   **Hotelco Share:** Yes, she keeps it.
+*   **Recreationco Share:** Yes, she gets new shares (e.g., 1 share of Recreationco).
+*   **Total:** She now owns stock in **both** independent companies.
+
+> "Yes, she would still have her original share of Hotelco—nothing happens to that. But in addition, she would now receive a new share (or shares) of Recreationco stock. She ends up holding stock in two separate companies, allowing her to sell one and keep the other if she chooses."
+
+---
+
+## Question 5
+
+**Continuing with the facts of the prior problem, assume that Hotelco used to be very profitable, but the company had very large losses in 2018, and less significant losses in 2019 (as it started to make a comeback). Although 2020 started out better, the pandemic changed that overnight, so Hotelco expects large losses again in 2020. Specifically, the results are as follows:**
+
+> **2013: $100 million profit**
+> **2014: $100 million profit**
+> **2015: $100 million profit**
+> **2016: $100 million profit**
+> **2017: $100 million profit**
+> **2018: ($200 million loss)**
+> **2019: ($50 million loss)**
+> **2020: (Expected Loss)**
+
+### A. Under the CARES Act, Hotelco can carry back losses five years (e.g., from 2018 to 2013). If it does not have enough income to use those losses, it can carry the remainder back four years (from 2018 to 2014), and then three years (to 2015), and then two years (to 2016), and then one year (to 2017). Assuming that Hotelco carries back its $200 million loss from 2018, in what years does it deduct it?
+
+**Answer:**
+
+*   **2013:** Uses $100M loss (wipes out 2013 profit).
+*   **2014:** Uses remaining $100M loss (wipes out 2014 profit).
+*   **Total:** $200M loss fully utilized.
+
+> "Hotelco would deduct the loss in **2013 and 2014**. The 5-year carryback rule requires going back to the earliest year first. So, the $200 million loss first offsets the $100 million profit in 2013. The remaining $100 million loss then rolls forward to 2014, offsetting the $100 million profit there. Both years are wiped clean, generating a refund of taxes paid in those years."
+
+### B. In what years would Hotelco use its $50 million loss from 2019?
+
+**Answer:**
+
+*   **2013-2014:** Already used up by 2018 loss.
+*   **2015:** $100M capacity available.
+*   **Result:** The $50M loss is carried back to **2015**.
+
+> "Hotelco would use its 2019 loss in **2015**. Since the profits from 2013 and 2014 were fully 'used up' by the 2018 loss carryback, the next available profitable year is 2015. The $50 million loss offsets half of 2015's income."
+
+### C. The CARES Act allows a company to waive its right to carryback losses, and to carry them forward instead. You are Hotelco's tax advisor. Should Hotelco carry back its 2018 and 2019 losses to earlier years? Why or why not?
+
+**Answer:**
+
+*   **Recommendation:** Yes, Carry Back.
+*   **Reason 1 (Cash):** Immediate liquidity during pandemic crisis.
+*   **Reason 2 (Rate Arbitrage):** 2013-2015 tax rate was 35%. Carrying back gets a 35% refund vs. a 21% future savings.
+*   **Value:** $250M loss x (35% - 21%) = $35M *extra* value just from the rate difference.
+
+> "Absolutely, Hotelco should carry back the losses. First, the **time value of money**—cash now is better than cash later, especially during a crisis. Second, and more importantly, the **rate arbitrage**. Carrying back to 2013-2015 triggers a refund at the old 35% tax rate. Carrying forward only saves taxes at the current 21% rate. It's literally free money to carry back."
+
+### D. If Hotelco has $100 million of losses in 2020, could it carry all of that back?
+
+**Answer:**
+
+*   **Total Capacity (2013-2017):** $500M.
+*   **Used by 2018/2019:** $250M.
+*   **Remaining Capacity:** $250M.
+*   **2020 Loss:** $100M.
+*   **Result:** Yes, fully carry back.
+
+> "Yes, it could carry all of it back. Hotelco has used up 2013 ($100M), 2014 ($100M), and half of 2015 ($50M). That leaves $50 million remaining in 2015, and full $100 million buckets in 2016 and 2017. There is plenty of capacity to absorb a $100 million loss from 2020."
+
+### E. What if Hotelco has $300 million of losses in 2020. Could it carry all of these losses back?
+
+**Answer:**
+
+*   **Available Capacity:** $250M (Remaining 2015 + 2016 + 2017).
+*   **Loss Amount:** $300M.
+*   **Result:** No. Only $250M can be carried back. The remaining $50M must be carried forward.
+
+> "No, it could not carry *all* of them back. It only has $250 million of past profits remaining (half of '15, plus '16 and '17). It would carry back $250 million to wipe out those years, but the expected $50 million excess loss would have to be carried forward."
+
+---
+
+## Question 6
+
+**Continuing with the same facts, business has not been good for Recreationco either since the spin. Recreationco lost $50 million in both 2018 and 2019. Recreationco also expects losses in 2020 because its theme parks and casinos all had to close in mid-March because of the pandemic.**
+
+### A. Do you think Recreationco would want to carry back its 2018 and 2019 losses back to earlier years? Why or why not?
+
+**Answer:**
+
+*   **Desire:** Yes, absolutely.
+*   **Motivation:** Needs cash (pandemic) & wants the 35% tax rate benefit.
+*   **Problem:** It didn't exist as a separate taxpayer in 2017.
+
+> "Recreationco would *want* to carry back the losses for the same reasons as Hotelco: immediate cash and the higher 35% tax benefit. However, there is a structural problem: Recreationco didn't file a tax return in those years—it was just a division of Hotelco."
+
+### B. Before January 1, 2018, Recreationco was wholly owned by Hotelco. As a result, for the tax years before 2018, Recreationco did not file its own tax return. Instead, as part of Hotelco, its results were reflected in Hotelco's tax return. Compared with Hotelco, is it easier or harder for Recreationco to carry back losses?
+
+**Answer:**
+
+*   **Harder (Impossible alone).**
+*   **Reason:** You cannot amend a return you never filed. The pre-2018 returns belong to Hotelco.
+*   **Dependency:** Recreationco needs Hotelco's permission/cooperation to amend the *Hotelco* return to claim the *Recreationco* loss carryback.
+
+> "It is much harder—functionally impossible—for Recreationco to do this on its own. Because it was part of Hotelco's consolidated group, the 'taxpayer' for those years was Hotelco. To carry back losses, someone has to amend Hotelco's old tax returns. Recreationco cannot do that unilaterally; it is entirely dependent on Hotelco to file the claim."
+
+### C. Do you know whether the CARES Act provides Recreationco with a way to carry back its losses to the years before the spin off?
+
+**Answer:**
+
+*   **Yes.** The law allows it (generally), but the **procedural mechanism** requires the *parent* (Hotelco) to file the claim.
+*   **Result:** The refund check goes to Hotelco, not Recreationco.
+
+> "The CARES Act (and underlying tax code) permits the carryback of a spun-off company's losses to the pre-spin consolidated group years. However, the catch is that the refund must be claimed by the *parent* of that group (Hotelco), and the IRS will send the check to the parent. So Recreationco has a legal right to the tax attribute, but a practical inability to access the cash without Hotelco."
+
+---
+
+## Question 7
+
+**In a spinoff, two businesses that have been affiliated -- and thus have filed a single tax return together -- become independent businesses, which each file their own return. To prepare for the spinoff, these businesses have to come to an agreement, usually called a "tax matters agreement," about how they will handle this transition. The following are relevant portions of the tax matters agreement for the spinoff of Recreationco.**
+
+> **Section 1.01(a):** Hotelco shall have the sole and exclusive responsibility and right to prepare and file... any Tax Return... for any period ending on or prior to the Distribution Date [i.e., Jan. 1, 2018]. Hotelco shall have the sole and exclusive right to amend any such Tax Return..."
+> **Section 1.02:** "Recreationco shall not... carry back any item of loss, deduction or credit... to any taxable period ending on or prior to the Distribution Date."
+> **Section 1.03:** "Any refund... received by Hotelco... shall be for the benefit of Hotelco, and... Recreationco... shall not be entitled to any portion of any such refund..."
+
+### A. What financial benefit would there be for Recreationco to carry back its $100 million of losses (from 2018 and 2019) to 2017 or earlier? What is the financial value of this benefit?
+
+**Answer:**
+
+*   **Benefit:** $35 Million Refund.
+*   **Calculation:** $100M Loss x 35% Tax Rate (pre-2018).
+*   **Alternative:** Carryforward value is only $21M ($100M x 21%).
+*   **Net Gain:** $14M extra value + time value of money.
+
+> "The financial benefit is **$35 million**. This represents the $100 million in losses multiplied by the 35% tax rate applicable in the carryback years. This is massive for Recreationco because it provides immediate liquidity."
+
+### B. If Recreationco wants to carry back these losses, does the tax matters agreement give it the ability to do so? What (if anything) can Recreationco do to tap this financial benefit?
+
+**Answer:**
+
+*   **Contract:** explicitly **prohibits** it. (Section 1.02: "Recreationco shall not... carry back").
+*   **Remedy:** Recreationco must **negotiate**. It has to ask Hotelco to waive the contract.
+*   **Leverage:** None in the contract. It's a "beg and barter" situation.
+
+> "No, the Tax Matters Agreement (TMA) explicitly *forbids* it. Section 1.02 says Recreationco 'shall not' carry back losses. Even if they did, Section 1.03 says Hotelco keeps the refund. To tap this benefit, Recreationco has to approach Hotelco and negotiate a new deal—asking Hotelco to voluntarily amend the returns and share the cash."
+
+### C. Under the tax matters agreement, which company has more leverage in any negotiation?
+
+**Answer:**
+
+*   **Hotelco.**
+*   **Control:** Hotelco controls the filing (Sec 1.01).
+*   **Money:** Hotelco keeps the refund (Sec 1.03).
+*   **Veto:** Hotelco can simply point to Sec 1.02 and say "No."
+
+> "Hotelco holds all the leverage. The contract gives them the right to say no, the right to control the tax filings, and the right to keep any money that comes in. Recreationco is asking for a favor that requires Hotelco to perform work and take on risk."
+
+### D. Richard, the CEO of Recreationco, asks Carla, the CEO of Holdco, to help Recreationco carry back its losses. You are Carla's mentor, and she calls to ask you for advice. Should she agree? What should she ask for in return?
+
+**Answer:**
+
+*   **Should she agree?** Maybe, but not for free.
+*   **Risks:** Audit risk, administrative cost, using up capacity Hotelco might need for itself.
+*   **Ask for:**
+    1.  **Fee:** Share of the refund (e.g., 20-50%).
+    2.  **Indemnity:** Protection if IRS audits and disallows the loss.
+    3.  **Expenses:** Recreationco pays all legal/accounting fees.
+    4.  **Cap:** Ensure it doesn't eat up Hotelco's own carryback capacity.
+
+> "Carla should only agree if she can extract value and protect Hotelco. She is sitting on a valuable asset (the pre-2018 tax capacity). She should ask for a 'toll charge'—a percentage of the refund (e.g., $10 million of the $35 million). She also needs strict indemnification: if the IRS audits Hotelco because of this, Recreationco pays all costs and penalties."
+
+---
+
+## Question 8
+
+**Grace is the general counsel of Hotelco. Carla calls Grace and says, "We're thinking about partnering with Recreationco to carry back their losses. If we do this, I want to be protected from all risks. Can you please identify the relevant risks and figure out how to protect us?" You are Hotelco's outside counsel, and Grace calls you with the following questions:**
+
+### A. Recreationco has $100 million of losses from 2018 and 2019. To carry back this amount, which company is going to file for this refund -- Recreationco or Hotelco? Assume that Recreationco's tax return for 2018 and 2019 has not been audited yet, so it's possible that the I.R.S. (the tax authority in the U.S.) will challenge parts of it. Does this possibility create a risk for Hotelco? If so, what should Hotelco do?
+
+**Answer:**
+
+*   **Filer:** Hotelco must file (it's the pre-spin parent).
+*   **Risk:** **Audit Contagion.** Amending the return invites the IRS to look at *everything* in Hotelco's past years, not just the carryback. Also, if IRS disallows Recreationco's loss, Hotelco (the filer) is liable for penalties.
+*   **Protection:** **Indemnity + Escrow.** Recreationco must promise to pay any penalties, and Hotelco should hold back some of the refund cash in escrow until the audit period closes.
+
+> "Hotelco must file. This creates valid risk: filing an amended return is like waving a flag at the IRS. They might audit the whole return, or find that Recreationco's losses were invalid. Hotelco protects itself through an **indeminity clause** (Recreationco pays for any liabilities) and ideally an **escrow** (holding the cash back so Hotelco isn't left holding the bag if Recreationco goes broke)."
+
+### B. Hotelco has $500 million of income from 2013 through 2017. Hotelco has $250 million of losses in 2018 and 2019. Remember that Hotelco is allowed also to carry back losses from 2020, and does not know yet how much its losses will be in 2020. Does this create a risk for Hotelco in partnering with Recreationco to carry back losses? If so, what can Hotelco do about this?
+
+**Answer:**
+
+*   **Risk:** **Capacity Constraint / Crowding Out.**
+*   **Math:** Hotelco has $500M capacity. It needs $250M for itself (2018/19). It might need $250M+ for 2020. If it lets Recreationco use $100M, Hotelco might run out of room for its own losses.
+*   **Protection:** **Priority / Subordination.** The agreement should say Hotelco's losses count *first*. Recreationco only gets to use "excess" capacity.
+
+> "Yes, there is a risk of 'crowding out.' If Hotelco uses up its past income capacity to help Recreationco, it might not have enough room left to carry back its own 2020 losses. Hotelco should insist on **priority**: 'My losses get carried back first. You only get to use the leftover capacity. If my 2020 losses are huge, you might get bumped.'"
+
+### C. Grace says that following to you: "The CARES Act was very generous, giving us an unexpected tax benefit. Do you think that U.S. government might pass more legislation like it?" Does this possibility create any risks for Hotelco in partnering with Recreationco to carry back losses? If so, what can Hotelco do?
+
+**Answer:**
+
+*   **Risk:** **Change in Law.**
+*   **Scenario:** Congress could *repeal* the carryback or *increase* the tax rate further (making future carryforwards better). Or, Congress simply changes the rules mid-game.
+*   **Protection:** **Clawback / Change-of-Law Provision.** "If the law changes to reduce the benefit, Recreationco bears the loss, not Hotelco."
+
+> "Yes, legislative risk is real. Congress could retroactively change the rules again. Hotelco handles this with a **change-of-law provision**: stating that the deal is contingent on the current law remaining in force, and if the benefit disappears, Hotelco isn't on the hook to pay Recreationco anything."
+
+### D. Recreationco has been losing a lot of money, and business continues to be very bad. What risk (if any) does this create for Hotelco in partnering with Recreationco to carry back losses?
+
+**Answer:**
+
+*   **Risk:** **Credit Risk / Insolvency.**
+*   **Problem:** If Recreationco indemnifies Hotelco but goes bankrupt, the indemnity is worthless paper. Hotelco pays the IRS and can't collect from Recreationco.
+*   **Protection:** **Set-off rights / Pay-when-paid.** Don't pay the refund to Recreationco until Hotelco actually receives it (net of fees). And again, **Escrow** or requesting a Letter of Credit.
+
+> "The big risk is **credit risk**. If Recreationco goes bankrupt, its promise to indemnify Hotelco is worthless. If the IRS later demands the money back, Hotelco has to pay it and becomes just an unsecured creditor of Recreationco. Hotelco should protect itself by holding the cash in a segregated account or **escrow** until the statute of limitations for the IRS to challenge the refund has expired."
+
+---
+"""
+with open("/Users/mosheklein/Library/CloudStorage/GoogleDrive-mosheklein.mk@gmail.com/My Drive/1. law-school/ACTIVE/Deals/02_PREP/text/Deals-Prep-2026-02-11_class06_Panel2_text.md", "w") as f:
+    f.write(content)
+'

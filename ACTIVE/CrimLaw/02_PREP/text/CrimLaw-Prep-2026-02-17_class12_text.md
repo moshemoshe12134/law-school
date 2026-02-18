@@ -32,6 +32,11 @@ notes:
 
 ### A. Introduction and the Requirement of Legality
 
+- **Bouie v. City of Columbia (U.S. Supreme Court, 1964)** — Cited in Rogers / Tomlin Brief
+  - *Quimbee search:* "Bouie v. City of Columbia"
+  - Topic: **The "Bouie" Principle** — Judicial enlargement of a criminal statute, applied retroactively, operates precisely like an ex post facto law if it is "unexpected and indefensible."
+  - *Note:* Harcourt litigated *Tomlin* (the brief assigned), which relies entirely on this case.
+
 - **Keeler v. Superior Court (California Supreme Court, 1970)** — KSSB10 pp. 157-58 and 176-185
   - *Quimbee search:* "Keeler v. Superior Court California 1970"
   - Topic: Legality principle — statutory construction limits murder charge when fetus not "human being" under existing statute
@@ -64,7 +69,18 @@ notes:
 
 ## 1.5. CASE BRIEFS (Quick facts/reasoning/holding)
 
+### **Bouie v. City of Columbia (1964):**
+- **Statute:** SC trespass law prohibiting entry onto property after notice prohibiting entry.
+- **Actus Reus:** Sitting in a drug store restaurant (were asked to leave *after* entering).
+- **Issue:** Does retroactive application of a judicial expansion of a trespass statute violate Due Process?
+- **Rule:** Yes. If a judicial construction of a criminal statute is **"unexpected and indefensible"** by reference to the law which had been expressed prior to the conduct in issue, it must not be given retroactive effect.
+- **Holding:** Convictions reversed. The statute on its face did not prohibit remaining on premises after being asked to leave (only prohibited *entry*).
+- **Significance:** Sets the standard for when judicial interpretation violates fair notice (cited in *Rogers* and Harcourt's *Tomlin* brief).
+
 ### **Keeler v. Superior Court (1970):**
+- **Statute in Question:** Cal. Penal Code § 187 ("Murder is the unlawful killing of a human being with malice aforethought").
+- **Actus Reus:** "Unlawful killing of a human being" (D stomped on pregnant wife's abdomen).
+- **Mens Rea:** "Malice aforethought" (D stated intent to "stomp it out of you").
 - **Issue:** Can defendant be charged with murder for killing a fetus when the murder statute defined victim as "human being"?
 - **Facts:** D attacked his pregnant ex-wife, causing death of viable fetus (8 months); fetus was "viable" but not yet born.
 - **Rule/Reasoning:** 
@@ -76,6 +92,9 @@ notes:
 - **Dissent (Mosk):** "Human being" could be interpreted to include viable fetus; no legality violation.
 
 ### **Rogers v. Tennessee (2001):**
+- **Statute in Question:** Tennessee common law murder statute (incorporating common law "year and a day" rule).
+- **Actus Reus:** Stabbing victim who died 15 months later (causation issue under old rule).
+- **Mens Rea:** Intent to kill / malice.
 - **Issue:** Does due process prohibit judicial abolition of year-and-a-day rule when applied retroactively to defendant?
 - **Facts:** D stabbed victim; victim died 15 months later; Tennessee Supreme Court abolished common-law year-and-a-day rule and upheld murder conviction.
 - **Background:** Year-and-a-day rule = if victim dies more than one year and one day after injury, defendant not liable for murder (outdated based on medical advances).
@@ -87,6 +106,9 @@ notes:
 - **Dissent (Scalia):** Retroactive judicial expansion of criminal liability violates legality/due process (substance over form).
 
 ### **Robinson v. California (1962):**
+- **Statute in Question:** Cal. Health & Safety Code § 11721 ("No person shall use... or be addicted to the use of narcotics").
+- **Actus Reus:** None (statute criminalized "status" of being addicted).
+- **Mens Rea:** N/A (status offense not requiring specific intent).
 - **Issue:** Does criminalizing the "status" of being addicted to narcotics violate Eighth Amendment?
 - **Facts:** California statute made it a misdemeanor to "be addicted to the use of narcotics"; D convicted based on needle marks and officer testimony about addiction.
 - **Rule/Reasoning:**
@@ -98,6 +120,9 @@ notes:
 - **Key limitation:** Statute punished *being* addicted (status), not *using* narcotics or *possessing* narcotics (acts).
 
 ### **Powell v. Texas (1968):**
+- **Statute in Question:** Vernon’s Ann. P.C. art. 477 ("Get drunk in any public place...").
+- **Actus Reus:** *Voluntarily* appearing in a public place while intoxicated.
+- **Mens Rea:** General intent (voluntary intoxication does not excuse conduct).
 - **Issue:** Does criminalizing public intoxication violate Eighth Amendment when defendant is chronic alcoholic?
 - **Facts:** D, chronic alcoholic, convicted of "appearing in public while intoxicated" (Texas statute).
 - **Rule/Reasoning:**
@@ -108,6 +133,9 @@ notes:
 - **Dissent (Fortas):** Chronic alcoholic has no control over being in public while drunk — punishment is for involuntary conduct, violates Eighth Amendment.
 
 ### **City of Grants Pass v. Johnson (2024):**
+- **Statute in Question:** Grants Pass Municipal Code (prohibiting "camping" on any sidewalk, street, or park).
+- **Actus Reus:** Camping (defined as sleeping with bedding meant to maintain a temporary place to live) on public property.
+- **Mens Rea:** General intent.
 - **Issue:** Do camping/sleeping bans violate Eighth Amendment when insufficient shelter beds available?
 - **Facts:** Oregon city ordinances prohibited camping on public property; homeless individuals challenged as criminalizing status of being homeless when no shelter available.
 - **Rule/Reasoning:**
@@ -135,8 +163,8 @@ notes:
 
 **2. No Ex Post Facto Laws (Constitutional)**
 - Legislature cannot retroactively criminalize past conduct (Art. I, §9-10)
-- *Rogers* distinction: prohibition applies to legislation, not judicial interpretation of common law
-- But: Retroactive judicial expansion can violate due process if "unexpected and indefensible"
+- **The *Bouie* Principle (Judicial):** Due process prohibits retroactive application of a *judicial* construction if it is **"unexpected and indefensible"** by reference to prior law.
+- *Rogers* distinction: Ex Post Facto clause applies strictly to *legislation*; judicial changes are analyzed under Due Process (using the *Bouie* standard), allowing more flexibility for common law evolution.
 
 **3. Legislative Specificity (Rule of Lenity)**
 - Courts should not expand criminal statutes beyond clear legislative intent
